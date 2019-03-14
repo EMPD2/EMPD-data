@@ -15,7 +15,7 @@ def test_country(meta_row):
 
 
 def test_elevation(meta_row):
-    assert meta_row.Elevation.notnull()
+    assert ~np.isnan(meta_row.Elevation)
 
 
 def test_temperature(meta_row):
