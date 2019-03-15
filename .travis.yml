@@ -2,7 +2,7 @@ services:
     - docker
 
 before_install:
-    - export METAFILE=`git diff master..Champvillair --name-only --diff-filter=A  $(find . -maxdepth 1 -not -type d)`
+    - export METAFILE=`git diff master --name-only --diff-filter=A  $(find . -maxdepth 1 -not -type d)`
     - if [[ $METAFILE == '' ]]; then export METAFILE=meta.tsv; fi
     - echo $METAFILE
 
