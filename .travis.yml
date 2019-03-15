@@ -3,7 +3,7 @@ services:
 
 before_install:
     - git remote set-branches --add origin master && git fetch
-    - export METAFILE=`git diff master --name-only --diff-filter=A  $(find . -maxdepth 1 -not -type d)`
+    - export METAFILE=`git diff origin/master --name-only --diff-filter=A  $(find . -maxdepth 1 -not -type d)`
     - if [[ $METAFILE == '' ]]; then export METAFILE=meta.tsv; fi
     - echo $METAFILE
 
