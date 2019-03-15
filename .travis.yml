@@ -1,0 +1,12 @@
+services:
+    - docker
+
+before_install:
+    - export METAFILE=`git diff master..Champvillair --name-only --diff-filter=A  $(find . -maxdepth 1 -not -type d)`
+    - if [[ $METAFILE == '' ]]; then export METAFILE=meta.tsv; fi
+
+install:
+    - docker build . -t empd2/empd-data
+
+script:
+    - docker run empd2/empd-data /bin/bash -c "cd /opt/empd-data && py.test -v --empd-meta=${METAFILE}"
