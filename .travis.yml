@@ -13,4 +13,5 @@ install:
     - docker build . -t empd2/empd-data
 
 script:
-    - docker run empd2/empd-data /bin/bash -c "cd /opt/empd-data && py.test -v --empd-meta=${METAFILE}"
+    - docker run empd2/empd-data /bin/bash -c "cd /opt/empd-data && $PYTEST -v --empd-meta=${METAFILE}"
+    - docker run empd2/empd-data /bin/bash -c "start_pg_server && createdb -U postgres EMPD2 && cd /opt/empd-data && psql EMPD2 -U postgres -f postgres/EMPD2.sql && python postgres/scripts/import_into_empd2.py meta.tsv -d \${DATABASE_URL}/EMPD2"
