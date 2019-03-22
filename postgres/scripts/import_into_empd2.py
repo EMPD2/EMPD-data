@@ -5,6 +5,7 @@ import numpy as np
 import os
 import requests
 import argparse
+from itertools import product
 
 parser = argparse.ArgumentParser()
 parser.add_argument(
@@ -74,9 +75,14 @@ missing_elevation = {}
 
 
 METADATA = pd.read_csv(meta, sep='\t')
-base_meta = METADATA
-for col in set(base_meta.columns) - set(METADATA.columns):
+base_cols = pd.read_csv(base_meta, nrows=1, sep='\t').columns
+
+for col in set(base_cols) - set(METADATA.columns):
     METADATA[col] = ''
+
+# get the existing samples
+cursor.execute('SELECT samplename FROM metadata')
+existing_samples = [r[0] for r in cursor.fetchall()]
 
 METADATA.replace(np.nan, '', inplace=True)
 PUBLI = METADATA[['Publication1', 'DOI1']]
@@ -200,6 +206,7 @@ for x in range(WORKERS.shape[0]):
 # ---
 # ---
 for x in range(METADATA.shape[0]):
+    to_update = METADATA.iloc[x]['SampleName'] in existing_samples
     elevation = METADATA.iloc[x][6]
     elev_notes = str(METADATA.iloc[x][8])
     if elevation == '':
@@ -223,34 +230,47 @@ for x in range(METADATA.shape[0]):
             except Exception:
                 elevation = -9999
     try:
-        cursor.execute(
-            "INSERT INTO metadata "
-            "(sampleName, originalSampleName, siteName, country, longitude, "
-            " latitude, elevation, locationReliability, locationNotes, "
-            " areaOfSite, sampleContext, siteDescription, vegDescription, "
-            " sampleType, sampleMethod, ageBP, ageUncertainty, notes, "
-            " empd_version) VALUES "
-            "(%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, "
-            " %s, %s, 'EMPD2')" % (
-                is_null_str(METADATA.iloc[x]['SampleName']),
-                is_null_str(str(METADATA.iloc[x]['OriginalSampleName'])),
-                is_null_str(str(METADATA.iloc[x]['SiteName'])),
-                is_null_str(METADATA.iloc[x]['Country']),
-                is_null_str(str(METADATA.iloc[x]['Longitude'])),
-                is_null_str(str(METADATA.iloc[x]['Latitude'])),
-                is_null_str(str(elevation)),
-                is_null_str(METADATA.iloc[x]['LocationReliability']),
-                is_null_str(elev_notes),
-                is_null_str(str(METADATA.iloc[x]['AreaOfSite'])),
-                is_null_str(METADATA.iloc[x]['SampleContext'].lower()),
-                is_null_str(METADATA.iloc[x]['SiteDescription']),
-                is_null_str(METADATA.iloc[x]['VegDescription']),
-                is_null_str(METADATA.iloc[x][
-                    'SampleType'].split(' (to be ')[0].lower()),
-                is_null_str(METADATA.iloc[x]['SampleMethod'].lower()),
-                is_null_str(str(METADATA.iloc[x]['AgeBP'])),
-                is_null_str(METADATA.iloc[x]['AgeUncertainty']),
-                is_null_str(METADATA.iloc[x]['Notes'])))
+        if to_update:
+            query = (
+                "UPDATE metadata SET "
+                "sampleName = %s, originalSampleName = %s, siteName = %s, "
+                "country = %s, longitude = %s, latitude = %s, elevation = %s, "
+                "locationReliability = %s, locationNotes = %s, "
+                "areaOfSite = %s, sampleContext = %s, siteDescription = %s, "
+                "vegDescription = %s, sampleType = %s, sampleMethod = %s, "
+                "ageBP = %s, ageUncertainty = %s, notes = %s "
+                "WHERE sampleName = {}").format(
+                    is_null_str(METADATA.iloc[x]['SampleName']))
+        else:
+            query = (
+                "INSERT INTO metadata "
+                "(sampleName, originalSampleName, siteName, country, longitude, "
+                " latitude, elevation, locationReliability, locationNotes, "
+                " areaOfSite, sampleContext, siteDescription, vegDescription, "
+                " sampleType, sampleMethod, ageBP, ageUncertainty, notes, "
+                " empd_version) VALUES "
+                "(%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, "
+                " %s, %s, 'EMPD2')")
+        cursor.execute(query % (
+            is_null_str(METADATA.iloc[x]['SampleName']),
+            is_null_str(str(METADATA.iloc[x]['OriginalSampleName'])),
+            is_null_str(str(METADATA.iloc[x]['SiteName'])),
+            is_null_str(METADATA.iloc[x]['Country']),
+            is_null_str(str(METADATA.iloc[x]['Longitude'])),
+            is_null_str(str(METADATA.iloc[x]['Latitude'])),
+            is_null_str(str(elevation)),
+            is_null_str(METADATA.iloc[x]['LocationReliability']),
+            is_null_str(elev_notes),
+            is_null_str(str(METADATA.iloc[x]['AreaOfSite'])),
+            is_null_str(METADATA.iloc[x]['SampleContext'].lower()),
+            is_null_str(METADATA.iloc[x]['SiteDescription']),
+            is_null_str(METADATA.iloc[x]['VegDescription']),
+            is_null_str(METADATA.iloc[x][
+                'SampleType'].split(' (to be ')[0].lower()),
+            is_null_str(METADATA.iloc[x]['SampleMethod'].lower()),
+            is_null_str(str(METADATA.iloc[x]['AgeBP'])),
+            is_null_str(METADATA.iloc[x]['AgeUncertainty']),
+            is_null_str(METADATA.iloc[x]['Notes'])))
         conn.commit()
     except psql.IntegrityError as e:
         conn = psql.connect(db_url)
@@ -287,9 +307,22 @@ for x in range(METADATA.shape[0]):
     temperature = temperature or ','.join(['NULL'] * 17)
     precip = precip or ','.join(['NULL'] * 17)
 
-    cursor.execute(
-        "INSERT INTO climate VALUES (%s,%s,%s)" % (
-            is_null_str(METADATA.iloc[x]['SampleName']), temperature, precip))
+    if to_update:
+        seasons = [
+            'jan', 'feb', 'mar', 'apr', 'may', 'jun', 'jul', 'aug', 'sep',
+            'oct', 'nov', 'dec', 'djf', 'mam', 'jja', 'son', 'ann']
+        update_str = ', '.join(
+            '%s_%s = %s' % (v, s, is_null_str(val)) for (v, s), val in zip(
+                product('tp', seasons), np.r_[temperature.split(','),
+                                              precip.split(',')]))
+        cursor.execute(
+            "UPDATE climate SET %s WHERE sampleName = %s" % (
+                update_str, is_null_str(METADATA.iloc[x]['SampleName'])))
+    else:
+        cursor.execute(
+            "INSERT INTO climate VALUES (%s,%s,%s)" % (
+                is_null_str(METADATA.iloc[x]['SampleName']), temperature,
+                precip))
     conn.commit()
 
     for _worker in map('Worker{}_'.format, '1234'):
