@@ -107,7 +107,7 @@ ALTER TABLE ONLY p_vars ADD CONSTRAINT p_vars_pkey PRIMARY KEY (var_);
 -- OK
 
 CREATE TABLE countries (
-    country character varying(42) NOT NULL ------- PK
+    country character varying(42) NOT NULL, ------- PK
     natural_earth character varying(42)
 );
 ALTER TABLE countries OWNER TO postgres;
