@@ -23,7 +23,7 @@ countries.replace(np.nan, '', inplace=True)
 
 for x in range(countries.shape[0]):
     cursor.execute(
-        "INSERT INTO countries (country, natural_earth) VALUES ('%s')" % (
+        "INSERT INTO countries (country, natural_earth) VALUES ('%s', '%s')" % (
             countries.iloc[x][0], is_null_str(countries.iloc[x][1])))
 
 conn.commit()
