@@ -3,6 +3,7 @@ import os.path as osp
 import psycopg2 as psql
 import pandas as pd
 import numpy as np
+from functools import partial
 
 db_url = sys.argv[-1]
 
@@ -14,11 +15,12 @@ def is_null_str(x):
     return 'NULL' if x == "" else "'" + x.strip().replace("'", " ") + "'"
 
 
-tables = osp.join(osp.dirname(__file__), "FixedTables.xlsx")
+tables = osp.join(osp.dirname(__file__), "tables", '')
 
+read_tsv = partial(pd.read_csv, sep='\t')
 
 # ---
-countries = pd.read_excel(tables, sheet_name="Country")
+countries = read_tsv(tables + "Country.tsv")
 countries.replace(np.nan, '', inplace=True)
 
 for x in range(countries.shape[0]):
@@ -30,7 +32,7 @@ conn.commit()
 
 
 # ---
-LocationReliability = pd.read_excel(tables, sheet_name="LocationReliability")
+LocationReliability = read_tsv(tables + "LocationReliability.tsv")
 LocationReliability.replace(np.nan, '', inplace=True)
 
 for x in range(LocationReliability.shape[0]):
@@ -45,7 +47,7 @@ conn.commit()
 
 
 # ---
-sampleContext = pd.read_excel(tables, sheet_name="SampleContext")
+sampleContext = read_tsv(tables + "SampleContext.tsv")
 sampleContext.replace(np.nan, '', inplace=True)
 
 for x in range(sampleContext.shape[0]):
@@ -57,7 +59,7 @@ conn.commit()
 
 
 # ---
-sampleType = pd.read_excel(tables, sheet_name="SampleType")
+sampleType = read_tsv(tables + "SampleType.tsv")
 sampleType.replace(np.nan, '', inplace=True)
 
 for x in range(sampleType.shape[0]):
@@ -70,7 +72,7 @@ conn.commit()
 
 
 # ---
-SampleMethod = pd.read_excel(tables, sheet_name="SampleMethod")
+SampleMethod = read_tsv(tables + "SampleMethod.tsv")
 SampleMethod.replace(np.nan, '', inplace=True)
 
 for x in range(SampleMethod.shape[0]):
@@ -82,7 +84,7 @@ conn.commit()
 
 
 # ---
-ageUncertainties = pd.read_excel(tables, sheet_name="AgeUncertainty")
+ageUncertainties = read_tsv(tables + "AgeUncertainty.tsv")
 ageUncertainties.replace(np.nan, '', inplace=True)
 
 for x in range(ageUncertainties.shape[0]):
@@ -96,6 +98,7 @@ conn.commit()
 
 
 # ---
+workerRoles = read_tsv(tables + "WorkerRole.tsv")
 workerRoles = pd.read_excel(tables, sheet_name="WorkerRole")
 workerRoles.replace(np.nan, '', inplace=True)
 
