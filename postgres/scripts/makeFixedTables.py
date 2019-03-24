@@ -99,7 +99,6 @@ conn.commit()
 
 # ---
 workerRoles = read_tsv(tables + "WorkerRole.tsv")
-workerRoles = pd.read_excel(tables, sheet_name="WorkerRole")
 workerRoles.replace(np.nan, '', inplace=True)
 
 for x in range(workerRoles.shape[0]):
@@ -111,7 +110,7 @@ conn.commit()
 
 
 # ---
-groupIDs = pd.read_excel(tables, sheet_name="GroupID")
+groupIDs = read_tsv(tables + "GroupID.tsv")
 groupIDs.replace(np.nan, '', inplace=True)
 
 for x in range(groupIDs.shape[0]):
