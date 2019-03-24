@@ -95,7 +95,8 @@ ALTER TABLE public.climate OWNER TO postgres;
 --
 
 CREATE TABLE public.countries (
-    country character varying(42) NOT NULL
+    country character varying(42) NOT NULL,
+    natural_earth character varying(42)
 );
 
 
@@ -165,6 +166,7 @@ CREATE TABLE public.metadata (
     ageuncertainty character varying(1),
     ispercent boolean DEFAULT false,
     notes text,
+    okexcept text,
     empd_version character varying(5)
 );
 
@@ -327,92 +329,92 @@ COPY public.climate (samplename, t_jan, t_feb, t_mar, t_apr, t_may, t_jun, t_jul
 -- Data for Name: countries; Type: TABLE DATA; Schema: public; Owner: postgres
 --
 
-COPY public.countries (country) FROM stdin;
-Albania
-Algeria
-Andorra
-Armenia
-Austria
-Azerbaijan
-Bahrain
-Belarus
-Belgium
-Bosnia And Herzegovina
-Bulgaria
-Cape Verde
-Croatia
-Cyprus
-Czech Republic
-Denmark
-Egypt
-Eritrea
-Estonia
-Ethiopia
-Faroe Islands
-Finland
-France
-Georgia
-Germany
-Gibraltar
-Greece
-Greenland
-Guernsey
-Hungary
-Iceland
-Iran, Islamic Republic Of
-Iraq
-Ireland
-Isle Of Man
-Israel
-Italy
-India
-Japan
-Jersey
-Kazakhstan
-Kuwait
-Kyrgyzstan
-Latvia
-Lebanon
-Libyan Arab Jamahiriya
-Liechtenstein
-Lithuania
-Luxembourg
-Macedonia, The Former Yugoslav Republic Of
-Malta
-Moldova, Republic Of
-Monaco
-Morocco
-Netherlands
-Norway
-Oman
-Palestinian Territory, Occupied
-Poland
-Portugal
-Qatar
-Romania
-Russian Federation
-San Marino
-Saudi Arabia
-Serbia And Montenegro
-Slovakia
-Slovenia
-Spain
-Sweden
-Switzerland
-Syrian Arab Republic
-Tunisia
-Turkey
-Ukraine
-United Arab Emirates
-United Kingdom
-Yemen
-Jordan
-Black Sea
-Dead Sea
-Turkmenistan, Republic Of
-Adriatic Sea
-Svalbard and Jan Mayen
-China, People s Republic Of
+COPY public.countries (country, natural_earth) FROM stdin;
+Albania	Albania
+Algeria	Algeria
+Andorra	Andorra
+Armenia	Armenia
+Austria	Austria
+Azerbaijan	Azerbaijan
+Bahrain	Bahrain
+Belarus	Belarus
+Belgium	Belgium
+Bosnia And Herzegovina	Bosnia and Herzegovina
+Bulgaria	Bulgaria
+Cape Verde	Cape Verde
+Croatia	Croatia
+Cyprus	Cyprus
+Czech Republic	Czech Republic
+Denmark	Denmark
+Egypt	Egypt
+Eritrea	Eritrea
+Estonia	Estonia
+Ethiopia	Ethiopia
+Faroe Islands	Faroe Islands
+Finland	Finland
+France	France
+Georgia	Georgia
+Germany	Germany
+Gibraltar	Gibraltar
+Greece	Greece
+Greenland	Greenland
+Guernsey	Guernsey
+Hungary	Hungary
+Iceland	Iceland
+Iran, Islamic Republic Of	Iran
+Iraq	Iraq
+Ireland	Ireland
+Isle Of Man	Isle of Man
+Israel	Israel
+Italy	Italy
+India	India
+Japan	Japan
+Jersey	Jersey
+Kazakhstan	Kazakhstan
+Kuwait	Kuwait
+Kyrgyzstan	Kyrgyzstan
+Latvia	Latvia
+Lebanon	Lebanon
+Libyan Arab Jamahiriya	Libya
+Liechtenstein	Liechtenstein
+Lithuania	Lithuania
+Luxembourg	Luxembourg
+Macedonia, The Former Yugoslav Republic Of	Macedonia
+Malta	Malta
+Moldova, Republic Of	Moldova
+Monaco	Monaco
+Morocco	Morocco
+Netherlands	Netherlands
+Norway	Norway
+Oman	Oman
+Palestinian Territory, Occupied	Palestine
+Poland	Poland
+Portugal	Portugal
+Qatar	Qatar
+Romania	Romania
+Russian Federation	Russia
+San Marino	San Marino
+Saudi Arabia	Saudi Arabia
+Serbia And Montenegro	Montenegro
+Slovakia	Slovakia
+Slovenia	Slovenia
+Spain	Spain
+Sweden	Sweden
+Switzerland	Switzerland
+Syrian Arab Republic	Syria
+Tunisia	Tunisia
+Turkey	Turkey
+Ukraine	Ukraine
+United Arab Emirates	United Arab Emirates
+United Kingdom	United Kingdom
+Yemen	Yemen
+Jordan	Jordan
+Black Sea	\N
+Dead Sea	\N
+Turkmenistan, Republic Of	Turkmenistan
+Adriatic Sea	\N
+Svalbard and Jan Mayen	Norway
+China, People s Republic Of	China
 \.
 
 
@@ -487,7 +489,7 @@ X	Do not use!	\N
 -- Data for Name: metadata; Type: TABLE DATA; Schema: public; Owner: postgres
 --
 
-COPY public.metadata (samplename, originalsamplename, sitename, country, longitude, latitude, elevation, locationreliability, locationnotes, areaofsite, samplecontext, sitedescription, vegdescription, sampletype, samplemethod, agebp, ageuncertainty, ispercent, notes, empd_version) FROM stdin;
+COPY public.metadata (samplename, originalsamplename, sitename, country, longitude, latitude, elevation, locationreliability, locationnotes, areaofsite, samplecontext, sitedescription, vegdescription, sampletype, samplemethod, agebp, ageuncertainty, ispercent, notes, okexcept, empd_version) FROM stdin;
 \.
 
 
@@ -943,6 +945,17 @@ ALTER TABLE ONLY public.p_counts
 
 ALTER TABLE ONLY public.p_vars
     ADD CONSTRAINT p_vars_groupid_fk FOREIGN KEY (groupid) REFERENCES public.groupid(groupid);
+
+
+--
+-- Name: SCHEMA public; Type: ACL; Schema: -; Owner: postgres
+--
+
+REVOKE ALL ON SCHEMA public FROM PUBLIC;
+REVOKE ALL ON SCHEMA public FROM postgres;
+GRANT ALL ON SCHEMA public TO postgres;
+GRANT ALL ON SCHEMA public TO PUBLIC;
+
 
 --
 -- PostgreSQL database dump complete
