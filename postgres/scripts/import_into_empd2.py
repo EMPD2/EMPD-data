@@ -109,16 +109,19 @@ table_map = {
 for col, vals in okexcept.items():
     fname = os.path.join(os.path.dirname(__file__), 'tables', col + '.tsv')
     df = pd.read_csv(fname, sep='\t')
-    new_vals = np.sort(set(vals) - set(df.iloc[:, 0]))[:, np.newaxis]
-    new_vals = np.tile(new_vals, (1, df.shape[1]))
-    new_vals[:, 1:] = ''
-    df = pd.concat([df, pd.DataFrame(new_vals, columns=df.columns)],
-                   ignore_index=True)
-    df.to_csv(fname, index=False, sep='\t')
-    cursor.execute('INSERT INTO %s VALUES %s' % (
-        table_map[col], ', '.join(
-            '({})'.format(', '.join(map(is_null_str, v))) for v in new_vals)))
-    conn.commit()
+    new_vals = set(vals) - set(df.iloc[:, 0])
+    if new_vals:
+        new_vals = np.sort(list(new_vals))[:, np.newaxis]
+        new_vals = np.tile(new_vals, (1, df.shape[1]))
+        new_vals[:, 1:] = ''
+        df = pd.concat([df, pd.DataFrame(new_vals, columns=df.columns)],
+                       ignore_index=True)
+        df.to_csv(fname, index=False, sep='\t')
+        cursor.execute('INSERT INTO %s VALUES %s' % (
+            table_map[col], ', '.join(
+                '({})'.format(', '.join(map(is_null_str, v)))
+                for v in new_vals)))
+        conn.commit()
 
 
 METADATA.replace(np.nan, '', inplace=True)
@@ -275,7 +278,7 @@ for x in range(METADATA.shape[0]):
                 "locationReliability = %s, locationNotes = %s, "
                 "areaOfSite = %s, sampleContext = %s, siteDescription = %s, "
                 "vegDescription = %s, sampleType = %s, sampleMethod = %s, "
-                "ageBP = %s, ageUncertainty = %s, notes = %s, okexcept = %s"
+                "ageBP = %s, ageUncertainty = %s, notes = %s, okexcept = %s "
                 "WHERE sampleName = {}").format(
                     is_null_str(METADATA.iloc[x]['SampleName']))
         else:
@@ -287,7 +290,7 @@ for x in range(METADATA.shape[0]):
                 " sampleType, sampleMethod, ageBP, ageUncertainty, notes, "
                 " okexcept, empd_version) VALUES "
                 "(%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, "
-                " %s, %s, %s, 'EMPD2')")
+                " %s, %s, %s, %s, 'EMPD2')")
         cursor.execute(query % (
             is_null_str(METADATA.iloc[x]['SampleName']),
             is_null_str(str(METADATA.iloc[x]['OriginalSampleName'])),
