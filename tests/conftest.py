@@ -81,6 +81,66 @@ def base_counts():
 
 
 @pytest.fixture(scope='session')
+def countries(meta_file):
+    """The countries in the database with the natural_earth column as index"""
+    import pandas as pd
+    return pd.read_csv(
+        osp.join(osp.dirname(meta_file), 'tab-delimited', 'countries.tsv'),
+        sep='\t', index_col=1).iloc[:, 0]
+
+
+@pytest.fixture(scope='session')
+def samplecontexts(meta_file):
+    import pandas as pd
+    return pd.read_csv(
+        osp.join(osp.dirname(meta_file), 'tab-delimited',
+                 'samplecontexts.tsv'),
+        sep='\t').iloc[:, 0]
+
+
+@pytest.fixture(scope='session')
+def sampletypes(meta_file):
+    import pandas as pd
+    return pd.read_csv(
+        osp.join(osp.dirname(meta_file), 'tab-delimited', 'sampletypes.tsv'),
+        sep='\t').iloc[:, 0]
+
+
+@pytest.fixture(scope='session')
+def samplemethods(meta_file):
+    import pandas as pd
+    return pd.read_csv(
+        osp.join(osp.dirname(meta_file), 'tab-delimited', 'samplemethods.tsv'),
+        sep='\t').iloc[:, 0]
+
+
+@pytest.fixture(scope='session')
+def workerroles(meta_file):
+    import pandas as pd
+    return pd.read_csv(
+        osp.join(osp.dirname(meta_file), 'tab-delimited', 'workerroles.tsv'),
+        sep='\t').iloc[:, 0]
+
+
+@pytest.fixture(scope='session')
+def locationreliabilities(meta_file):
+    import pandas as pd
+    return pd.read_csv(
+        osp.join(osp.dirname(meta_file), 'tab-delimited',
+                 'locationreliabilities.tsv'),
+        sep='\t').iloc[:, 0]
+
+
+@pytest.fixture(scope='session')
+def ageuncertainties(meta_file):
+    import pandas as pd
+    return pd.read_csv(
+        osp.join(osp.dirname(meta_file), 'tab-delimited',
+                 'ageuncertainties.tsv'),
+        sep='\t').iloc[:, 0]
+
+
+@pytest.fixture(scope='session')
 def samples_dir(meta_file):
     return osp.join(osp.dirname(meta_file), 'samples')
 
