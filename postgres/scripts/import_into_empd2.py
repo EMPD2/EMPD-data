@@ -38,6 +38,10 @@ def is_null_nb(x, nodata=np.nan):
     return 'NULL' if x == nodata else str(round(x, 2))
 
 
+def notnull(x):
+    return str(x) not in ['', 'nan']
+
+
 def listdir_fullpath(d):
     return [os.path.join(d, f) for f in os.listdir(d)]
 
@@ -93,7 +97,7 @@ for key, row in METADATA[METADATA.okexcept.astype(bool)].iterrows():
         for col in row_okexcept[:]:
             col = col.strip()
             if col in ['Country', 'GroupID', 'SampleContext', 'SampleMethod',
-                       'SampleType']:
+                       'SampleType'] and notnull(row[col]):
                 okexcept[col].add(row[col])
                 row_okexcept.remove(col)
         METADATA.loc[key, 'okexcept'] = ','.join(row_okexcept)
