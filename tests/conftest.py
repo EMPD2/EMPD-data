@@ -86,7 +86,8 @@ def countries(meta_file):
     import pandas as pd
     return pd.read_csv(
         osp.join(osp.dirname(meta_file), 'tab-delimited', 'countries.tsv'),
-        sep='\t', index_col=1).iloc[:, 0]
+        sep='\t').dropna(subset=['natural_earth']).set_index(
+            'natural_earth').iloc[:, 0]
 
 
 @pytest.fixture(scope='session')
@@ -95,7 +96,7 @@ def samplecontexts(meta_file):
     return pd.read_csv(
         osp.join(osp.dirname(meta_file), 'tab-delimited',
                  'samplecontexts.tsv'),
-        sep='\t').iloc[:, 0]
+        sep='\t').iloc[:, 0].values
 
 
 @pytest.fixture(scope='session')
@@ -103,7 +104,7 @@ def sampletypes(meta_file):
     import pandas as pd
     return pd.read_csv(
         osp.join(osp.dirname(meta_file), 'tab-delimited', 'sampletypes.tsv'),
-        sep='\t').iloc[:, 0]
+        sep='\t').iloc[:, 0].values
 
 
 @pytest.fixture(scope='session')
@@ -111,7 +112,7 @@ def samplemethods(meta_file):
     import pandas as pd
     return pd.read_csv(
         osp.join(osp.dirname(meta_file), 'tab-delimited', 'samplemethods.tsv'),
-        sep='\t').iloc[:, 0]
+        sep='\t').iloc[:, 0].values
 
 
 @pytest.fixture(scope='session')
@@ -119,7 +120,7 @@ def workerroles(meta_file):
     import pandas as pd
     return pd.read_csv(
         osp.join(osp.dirname(meta_file), 'tab-delimited', 'workerroles.tsv'),
-        sep='\t').iloc[:, 0]
+        sep='\t').iloc[:, 0].values
 
 
 @pytest.fixture(scope='session')
@@ -128,7 +129,7 @@ def locationreliabilities(meta_file):
     return pd.read_csv(
         osp.join(osp.dirname(meta_file), 'tab-delimited',
                  'locationreliabilities.tsv'),
-        sep='\t').iloc[:, 0]
+        sep='\t').iloc[:, 0].values
 
 
 @pytest.fixture(scope='session')
@@ -137,7 +138,7 @@ def ageuncertainties(meta_file):
     return pd.read_csv(
         osp.join(osp.dirname(meta_file), 'tab-delimited',
                  'ageuncertainties.tsv'),
-        sep='\t').iloc[:, 0]
+        sep='\t').iloc[:, 0].values
 
 
 @pytest.fixture(scope='session')

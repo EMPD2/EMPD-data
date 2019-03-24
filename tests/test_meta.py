@@ -42,17 +42,18 @@ def test_lat_lon(meta_row):
         meta_row.Longitude >= -180 and meta_row.Longitude <= 360)
 
 
-def test_country(meta_row):
-    assert okexcept(meta_row, 'Country') or meta_row.Country == get_country(
-        *meta_row[['Latitude', 'Longitude']])
+def test_country(meta_row, countries):
+    assert okexcept(meta_row, 'Country') or meta_row.Country in countries.loc[
+        [get_country(*meta_row[['Latitude', 'Longitude']])]].values
 
 
 def test_samplecontext(meta_row, samplecontexts):
     samplecontext = str(getattr(meta_row, 'SampleContext', ''))
     if isnull(samplecontext):
         return pytest.skip("No SampleContext specified.")
-    assert (okexcept(meta_row, 'SampleContext') or
-            samplecontext in samplecontexts)
+    assert (samplecontext.lower() == samplecontext and
+            (okexcept(meta_row, 'SampleContext') or
+             samplecontext in samplecontexts))
 
 
 def test_sampletype(meta_row, sampletypes):
