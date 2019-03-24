@@ -34,6 +34,7 @@ CREATE TABLE metadata (
     ageUncertainty character varying(1), -------- FK
     isPercent boolean DEFAULT FALSE,
     notes text,
+    okexcept text,
     empd_version character varying(5)
 );
 ALTER TABLE metadata OWNER TO postgres;

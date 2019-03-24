@@ -6,6 +6,7 @@ import os
 import requests
 import argparse
 from itertools import product
+from collections import defaultdict
 
 parser = argparse.ArgumentParser()
 parser.add_argument(
@@ -83,6 +84,42 @@ for col in set(base_cols) - set(METADATA.columns):
 # get the existing samples
 cursor.execute('SELECT samplename FROM metadata')
 existing_samples = [r[0] for r in cursor.fetchall()]
+
+# check okexcept column and update fixed tables
+okexcept = defaultdict(set)
+for key, row in METADATA[METADATA.okexcept.astype(bool)].iterrows():
+    if row.okexcept and str(row.okexcept) != 'nan':
+        row_okexcept = row.okexcept.split(',')
+        for col in row_okexcept[:]:
+            col = col.strip()
+            if col in ['Country', 'GroupID', 'SampleContext', 'SampleMethod',
+                       'SampleType']:
+                okexcept[col].add(row[col])
+                row_okexcept.remove(col)
+        METADATA.loc[key, 'okexcept'] = ','.join(row_okexcept)
+
+table_map = {
+    'Country': 'countries',
+    'GroupID': 'groupID',
+    'SampleContext': 'sampleContexts',
+    'SampleType': 'sampleTypes',
+    'SampleMethod': 'sampleMethods',
+    }
+
+for col, vals in okexcept.items():
+    fname = os.path.join(os.path.dirname(__file__), 'tables', col + '.tsv')
+    df = pd.read_csv(fname, sep='\t')
+    new_vals = np.sort(set(vals) - set(df.iloc[:, 0]))[:, np.newaxis]
+    new_vals = np.tile(new_vals, (1, df.shape[1]))
+    new_vals[:, 1:] = ''
+    df = pd.concat([df, pd.DataFrame(new_vals, columns=df.columns)],
+                   ignore_index=True)
+    df.to_csv(fname, index=False, sep='\t')
+    cursor.execute('INSERT INTO %s VALUES %s' % (
+        table_map[col], ', '.join(
+            '({})'.format(', '.join(map(is_null_str, v))) for v in new_vals)))
+    conn.commit()
+
 
 METADATA.replace(np.nan, '', inplace=True)
 PUBLI = METADATA[['Publication1', 'DOI1']]
@@ -238,7 +275,7 @@ for x in range(METADATA.shape[0]):
                 "locationReliability = %s, locationNotes = %s, "
                 "areaOfSite = %s, sampleContext = %s, siteDescription = %s, "
                 "vegDescription = %s, sampleType = %s, sampleMethod = %s, "
-                "ageBP = %s, ageUncertainty = %s, notes = %s "
+                "ageBP = %s, ageUncertainty = %s, notes = %s, okexcept = %s"
                 "WHERE sampleName = {}").format(
                     is_null_str(METADATA.iloc[x]['SampleName']))
         else:
@@ -248,9 +285,9 @@ for x in range(METADATA.shape[0]):
                 " latitude, elevation, locationReliability, locationNotes, "
                 " areaOfSite, sampleContext, siteDescription, vegDescription, "
                 " sampleType, sampleMethod, ageBP, ageUncertainty, notes, "
-                " empd_version) VALUES "
-                "(%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, "
-                " %s, %s, 'EMPD2')")
+                " okexcept, empd_version) VALUES "
+                "(%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, "
+                " %s, %s, %s, 'EMPD2')")
         cursor.execute(query % (
             is_null_str(METADATA.iloc[x]['SampleName']),
             is_null_str(str(METADATA.iloc[x]['OriginalSampleName'])),
@@ -270,7 +307,8 @@ for x in range(METADATA.shape[0]):
             is_null_str(METADATA.iloc[x]['SampleMethod'].lower()),
             is_null_str(str(METADATA.iloc[x]['AgeBP'])),
             is_null_str(METADATA.iloc[x]['AgeUncertainty']),
-            is_null_str(METADATA.iloc[x]['Notes'])))
+            is_null_str(METADATA.iloc[x]['Notes']),
+            is_null_str(METADATA.iloc[x]['okexcept'])))
         conn.commit()
     except psql.IntegrityError as e:
         conn = psql.connect(db_url)
