@@ -126,6 +126,7 @@ for col, vals in okexcept.items():
                 '({})'.format(', '.join(map(is_null_str, v)))
                 for v in new_vals)))
         conn.commit()
+        df.to_csv(fname, sep='\t', index=False)
 
 
 METADATA.replace(np.nan, '', inplace=True)
