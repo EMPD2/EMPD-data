@@ -16,6 +16,9 @@ parser.add_argument(
 parser.add_argument(
     '-db', '--database-url', default=os.getenv('DATABASE_URL'),
     help="The url to connect to the database. Default: %(default)s")
+parser.add_argument(
+    '--no-exports', action='store_true',
+    help="Do not export and save fixed tables.")
 
 args = parser.parse_args()
 
@@ -120,12 +123,13 @@ for col, vals in okexcept.items():
         new_vals[:, 1:] = ''
         df = pd.concat([df, pd.DataFrame(new_vals, columns=df.columns)],
                        ignore_index=True)
-        df.to_csv(fname, index=False, sep='\t')
         cursor.execute('INSERT INTO %s VALUES %s' % (
             table_map[col], ', '.join(
                 '({})'.format(', '.join(map(is_null_str, v)))
                 for v in new_vals)))
         conn.commit()
+        if not args.no_export:
+            df.to_csv(fname, index=False, sep='\t')
 
 
 METADATA.replace(np.nan, '', inplace=True)
