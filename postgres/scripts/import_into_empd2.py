@@ -16,9 +16,6 @@ parser.add_argument(
 parser.add_argument(
     '-db', '--database-url', default=os.getenv('DATABASE_URL'),
     help="The url to connect to the database. Default: %(default)s")
-parser.add_argument(
-    '--no-exports', action='store_true',
-    help="Do not export and save fixed tables.")
 
 args = parser.parse_args()
 
@@ -114,7 +111,8 @@ table_map = {
     }
 
 for col, vals in okexcept.items():
-    fname = os.path.join(os.path.dirname(__file__), 'tables', col + '.tsv')
+    fname = os.path.join(os.path.dirname(meta), 'postgres', 'scripts',
+                         'tables', col + '.tsv')
     df = pd.read_csv(fname, sep='\t')
     new_vals = set(vals) - set(df.iloc[:, 0])
     if new_vals:
@@ -128,8 +126,6 @@ for col, vals in okexcept.items():
                 '({})'.format(', '.join(map(is_null_str, v)))
                 for v in new_vals)))
         conn.commit()
-        if not args.no_exports:
-            df.to_csv(fname, index=False, sep='\t')
 
 
 METADATA.replace(np.nan, '', inplace=True)
