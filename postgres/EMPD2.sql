@@ -2,31 +2,18 @@
 -- PostgreSQL database dump
 --
 
--- Dumped from database version 9.5.15
--- Dumped by pg_dump version 9.5.15
+-- Dumped from database version 11.2 (Debian 11.2-1.pgdg90+1)
+-- Dumped by pg_dump version 11.2 (Debian 11.2-1.pgdg90+1)
 
 SET statement_timeout = 0;
 SET lock_timeout = 0;
+SET idle_in_transaction_session_timeout = 0;
 SET client_encoding = 'UTF8';
 SET standard_conforming_strings = on;
 SELECT pg_catalog.set_config('search_path', '', false);
 SET check_function_bodies = false;
 SET client_min_messages = warning;
 SET row_security = off;
-
---
--- Name: plpgsql; Type: EXTENSION; Schema: -; Owner:
---
-
-CREATE EXTENSION IF NOT EXISTS plpgsql WITH SCHEMA pg_catalog;
-
-
---
--- Name: EXTENSION plpgsql; Type: COMMENT; Schema: -; Owner:
---
-
-COMMENT ON EXTENSION plpgsql IS 'PL/pgSQL procedural language';
-
 
 SET default_tablespace = '';
 
@@ -322,6 +309,9 @@ C	Within last 250 years	50-200BP
 --
 
 COPY public.climate (samplename, t_jan, t_feb, t_mar, t_apr, t_may, t_jun, t_jul, t_aug, t_sep, t_oct, t_nov, t_dec, t_djf, t_mam, t_jja, t_son, t_ann, p_jan, p_feb, p_mar, p_apr, p_may, p_jun, p_jul, p_aug, p_sep, p_oct, p_nov, p_dec, p_djf, p_mam, p_jja, p_son, p_ann) FROM stdin;
+test_a1	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5
+test_a2	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5
+test_a3	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5
 \.
 
 
@@ -490,6 +480,9 @@ X	Do not use!	\N
 --
 
 COPY public.metadata (samplename, originalsamplename, sitename, country, longitude, latitude, elevation, locationreliability, locationnotes, areaofsite, samplecontext, sitedescription, vegdescription, sampletype, samplemethod, agebp, ageuncertainty, ispercent, notes, okexcept, empd_version) FROM stdin;
+test_a1	orig_test_a1	somewhere	Germany	10	50	340	X	5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5	30	\N	\N	\N	\N	\N	\N	\N	f	\N	\N	EMPD2
+test_a2	orig_test_a2	somewhere	Germany	10	52	340	X	5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5	30	\N	\N	\N	\N	\N	\N	\N	f	\N	\N	EMPD2
+test_a3	orig_test_a2	somewhere	Germany	10	52	340	X	5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5	30	i dont know	\N	\N	\N	\N	\N	\N	f	\N	\N	EMPD2
 \.
 
 
@@ -514,6 +507,12 @@ COPY public.metaworker (samplename, workerid, workerrole) FROM stdin;
 --
 
 COPY public.p_counts (samplename, var_, count) FROM stdin;
+test_a2	1	45
+test_a2	2	6
+test_a2	3	55
+test_a3	1	45
+test_a3	2	6
+test_a3	3	55
 \.
 
 
@@ -522,6 +521,9 @@ COPY public.p_counts (samplename, var_, count) FROM stdin;
 --
 
 COPY public.p_vars (var_, acc_var_, original_varname, acc_varname, groupid, notes) FROM stdin;
+1	\N	Pinus	Pinus	TRSH	NULL
+2	\N	Exotic	Exotics (counted)	NOPO	NULL
+3	\N	Umbelliferae	Apiaceae	HERB	NULL
 \.
 
 
@@ -604,6 +606,7 @@ wetland bog
 wetland bog/scattered trees/shrubs
 wetland bog/treeless vegetation
 archaeological
+i dont know
 \.
 
 
@@ -676,7 +679,7 @@ COPY public.workers (workerid, firstname, lastname, initials, address1, email1, 
 
 
 --
--- Name: ageuncertainties_pkey; Type: CONSTRAINT; Schema: public; Owner: postgres
+-- Name: ageuncertainties ageuncertainties_pkey; Type: CONSTRAINT; Schema: public; Owner: postgres
 --
 
 ALTER TABLE ONLY public.ageuncertainties
@@ -684,7 +687,7 @@ ALTER TABLE ONLY public.ageuncertainties
 
 
 --
--- Name: countries_pkey; Type: CONSTRAINT; Schema: public; Owner: postgres
+-- Name: countries countries_pkey; Type: CONSTRAINT; Schema: public; Owner: postgres
 --
 
 ALTER TABLE ONLY public.countries
@@ -692,7 +695,7 @@ ALTER TABLE ONLY public.countries
 
 
 --
--- Name: ecosystems_pkey; Type: CONSTRAINT; Schema: public; Owner: postgres
+-- Name: ecosystems ecosystems_pkey; Type: CONSTRAINT; Schema: public; Owner: postgres
 --
 
 ALTER TABLE ONLY public.ecosystems
@@ -700,7 +703,7 @@ ALTER TABLE ONLY public.ecosystems
 
 
 --
--- Name: groupid_pkey; Type: CONSTRAINT; Schema: public; Owner: postgres
+-- Name: groupid groupid_pkey; Type: CONSTRAINT; Schema: public; Owner: postgres
 --
 
 ALTER TABLE ONLY public.groupid
@@ -708,7 +711,7 @@ ALTER TABLE ONLY public.groupid
 
 
 --
--- Name: locationreliabilities_pkey; Type: CONSTRAINT; Schema: public; Owner: postgres
+-- Name: locationreliabilities locationreliabilities_pkey; Type: CONSTRAINT; Schema: public; Owner: postgres
 --
 
 ALTER TABLE ONLY public.locationreliabilities
@@ -716,7 +719,7 @@ ALTER TABLE ONLY public.locationreliabilities
 
 
 --
--- Name: metadata_pkey; Type: CONSTRAINT; Schema: public; Owner: postgres
+-- Name: metadata metadata_pkey; Type: CONSTRAINT; Schema: public; Owner: postgres
 --
 
 ALTER TABLE ONLY public.metadata
@@ -724,7 +727,7 @@ ALTER TABLE ONLY public.metadata
 
 
 --
--- Name: metapubli_pkey; Type: CONSTRAINT; Schema: public; Owner: postgres
+-- Name: metapubli metapubli_pkey; Type: CONSTRAINT; Schema: public; Owner: postgres
 --
 
 ALTER TABLE ONLY public.metapubli
@@ -732,7 +735,7 @@ ALTER TABLE ONLY public.metapubli
 
 
 --
--- Name: metaworker_pkey; Type: CONSTRAINT; Schema: public; Owner: postgres
+-- Name: metaworker metaworker_pkey; Type: CONSTRAINT; Schema: public; Owner: postgres
 --
 
 ALTER TABLE ONLY public.metaworker
@@ -740,7 +743,7 @@ ALTER TABLE ONLY public.metaworker
 
 
 --
--- Name: metaworkerclimate_pkey; Type: CONSTRAINT; Schema: public; Owner: postgres
+-- Name: climate metaworkerclimate_pkey; Type: CONSTRAINT; Schema: public; Owner: postgres
 --
 
 ALTER TABLE ONLY public.climate
@@ -748,7 +751,7 @@ ALTER TABLE ONLY public.climate
 
 
 --
--- Name: p_counts_pkey; Type: CONSTRAINT; Schema: public; Owner: postgres
+-- Name: p_counts p_counts_pkey; Type: CONSTRAINT; Schema: public; Owner: postgres
 --
 
 ALTER TABLE ONLY public.p_counts
@@ -756,7 +759,7 @@ ALTER TABLE ONLY public.p_counts
 
 
 --
--- Name: p_vars_pkey; Type: CONSTRAINT; Schema: public; Owner: postgres
+-- Name: p_vars p_vars_pkey; Type: CONSTRAINT; Schema: public; Owner: postgres
 --
 
 ALTER TABLE ONLY public.p_vars
@@ -764,7 +767,7 @@ ALTER TABLE ONLY public.p_vars
 
 
 --
--- Name: publications_doi_key; Type: CONSTRAINT; Schema: public; Owner: postgres
+-- Name: publications publications_doi_key; Type: CONSTRAINT; Schema: public; Owner: postgres
 --
 
 ALTER TABLE ONLY public.publications
@@ -772,7 +775,7 @@ ALTER TABLE ONLY public.publications
 
 
 --
--- Name: publications_pkey; Type: CONSTRAINT; Schema: public; Owner: postgres
+-- Name: publications publications_pkey; Type: CONSTRAINT; Schema: public; Owner: postgres
 --
 
 ALTER TABLE ONLY public.publications
@@ -780,7 +783,7 @@ ALTER TABLE ONLY public.publications
 
 
 --
--- Name: samplecontexts_pkey; Type: CONSTRAINT; Schema: public; Owner: postgres
+-- Name: samplecontexts samplecontexts_pkey; Type: CONSTRAINT; Schema: public; Owner: postgres
 --
 
 ALTER TABLE ONLY public.samplecontexts
@@ -788,7 +791,7 @@ ALTER TABLE ONLY public.samplecontexts
 
 
 --
--- Name: samplemethods_pkey; Type: CONSTRAINT; Schema: public; Owner: postgres
+-- Name: samplemethods samplemethods_pkey; Type: CONSTRAINT; Schema: public; Owner: postgres
 --
 
 ALTER TABLE ONLY public.samplemethods
@@ -796,7 +799,7 @@ ALTER TABLE ONLY public.samplemethods
 
 
 --
--- Name: sampletypes_pkey; Type: CONSTRAINT; Schema: public; Owner: postgres
+-- Name: sampletypes sampletypes_pkey; Type: CONSTRAINT; Schema: public; Owner: postgres
 --
 
 ALTER TABLE ONLY public.sampletypes
@@ -804,7 +807,7 @@ ALTER TABLE ONLY public.sampletypes
 
 
 --
--- Name: workerroles_pkey; Type: CONSTRAINT; Schema: public; Owner: postgres
+-- Name: workerroles workerroles_pkey; Type: CONSTRAINT; Schema: public; Owner: postgres
 --
 
 ALTER TABLE ONLY public.workerroles
@@ -812,7 +815,7 @@ ALTER TABLE ONLY public.workerroles
 
 
 --
--- Name: workers_pkey; Type: CONSTRAINT; Schema: public; Owner: postgres
+-- Name: workers workers_pkey; Type: CONSTRAINT; Schema: public; Owner: postgres
 --
 
 ALTER TABLE ONLY public.workers
@@ -820,7 +823,7 @@ ALTER TABLE ONLY public.workers
 
 
 --
--- Name: climates_samplename_fk; Type: FK CONSTRAINT; Schema: public; Owner: postgres
+-- Name: climate climates_samplename_fk; Type: FK CONSTRAINT; Schema: public; Owner: postgres
 --
 
 ALTER TABLE ONLY public.climate
@@ -828,7 +831,7 @@ ALTER TABLE ONLY public.climate
 
 
 --
--- Name: ecosystems_samplename_fk; Type: FK CONSTRAINT; Schema: public; Owner: postgres
+-- Name: ecosystems ecosystems_samplename_fk; Type: FK CONSTRAINT; Schema: public; Owner: postgres
 --
 
 ALTER TABLE ONLY public.ecosystems
@@ -836,7 +839,7 @@ ALTER TABLE ONLY public.ecosystems
 
 
 --
--- Name: metadata_ageuncertainty_fk; Type: FK CONSTRAINT; Schema: public; Owner: postgres
+-- Name: metadata metadata_ageuncertainty_fk; Type: FK CONSTRAINT; Schema: public; Owner: postgres
 --
 
 ALTER TABLE ONLY public.metadata
@@ -844,7 +847,7 @@ ALTER TABLE ONLY public.metadata
 
 
 --
--- Name: metadata_country_fk; Type: FK CONSTRAINT; Schema: public; Owner: postgres
+-- Name: metadata metadata_country_fk; Type: FK CONSTRAINT; Schema: public; Owner: postgres
 --
 
 ALTER TABLE ONLY public.metadata
@@ -852,7 +855,7 @@ ALTER TABLE ONLY public.metadata
 
 
 --
--- Name: metadata_locationreliability_fk; Type: FK CONSTRAINT; Schema: public; Owner: postgres
+-- Name: metadata metadata_locationreliability_fk; Type: FK CONSTRAINT; Schema: public; Owner: postgres
 --
 
 ALTER TABLE ONLY public.metadata
@@ -860,7 +863,7 @@ ALTER TABLE ONLY public.metadata
 
 
 --
--- Name: metadata_samplecontext_fk; Type: FK CONSTRAINT; Schema: public; Owner: postgres
+-- Name: metadata metadata_samplecontext_fk; Type: FK CONSTRAINT; Schema: public; Owner: postgres
 --
 
 ALTER TABLE ONLY public.metadata
@@ -868,7 +871,7 @@ ALTER TABLE ONLY public.metadata
 
 
 --
--- Name: metadata_samplemethod_fk; Type: FK CONSTRAINT; Schema: public; Owner: postgres
+-- Name: metadata metadata_samplemethod_fk; Type: FK CONSTRAINT; Schema: public; Owner: postgres
 --
 
 ALTER TABLE ONLY public.metadata
@@ -876,7 +879,7 @@ ALTER TABLE ONLY public.metadata
 
 
 --
--- Name: metadata_sampletype_fk; Type: FK CONSTRAINT; Schema: public; Owner: postgres
+-- Name: metadata metadata_sampletype_fk; Type: FK CONSTRAINT; Schema: public; Owner: postgres
 --
 
 ALTER TABLE ONLY public.metadata
@@ -884,7 +887,7 @@ ALTER TABLE ONLY public.metadata
 
 
 --
--- Name: metapubli_publiid_fk; Type: FK CONSTRAINT; Schema: public; Owner: postgres
+-- Name: metapubli metapubli_publiid_fk; Type: FK CONSTRAINT; Schema: public; Owner: postgres
 --
 
 ALTER TABLE ONLY public.metapubli
@@ -892,7 +895,7 @@ ALTER TABLE ONLY public.metapubli
 
 
 --
--- Name: metapubli_samplename_fk; Type: FK CONSTRAINT; Schema: public; Owner: postgres
+-- Name: metapubli metapubli_samplename_fk; Type: FK CONSTRAINT; Schema: public; Owner: postgres
 --
 
 ALTER TABLE ONLY public.metapubli
@@ -900,7 +903,7 @@ ALTER TABLE ONLY public.metapubli
 
 
 --
--- Name: metaworker_samplename_fk; Type: FK CONSTRAINT; Schema: public; Owner: postgres
+-- Name: metaworker metaworker_samplename_fk; Type: FK CONSTRAINT; Schema: public; Owner: postgres
 --
 
 ALTER TABLE ONLY public.metaworker
@@ -908,7 +911,7 @@ ALTER TABLE ONLY public.metaworker
 
 
 --
--- Name: metaworker_workerid_fk; Type: FK CONSTRAINT; Schema: public; Owner: postgres
+-- Name: metaworker metaworker_workerid_fk; Type: FK CONSTRAINT; Schema: public; Owner: postgres
 --
 
 ALTER TABLE ONLY public.metaworker
@@ -916,7 +919,7 @@ ALTER TABLE ONLY public.metaworker
 
 
 --
--- Name: metaworker_workerrole_fk; Type: FK CONSTRAINT; Schema: public; Owner: postgres
+-- Name: metaworker metaworker_workerrole_fk; Type: FK CONSTRAINT; Schema: public; Owner: postgres
 --
 
 ALTER TABLE ONLY public.metaworker
@@ -924,7 +927,7 @@ ALTER TABLE ONLY public.metaworker
 
 
 --
--- Name: p_counts_samplename_fk; Type: FK CONSTRAINT; Schema: public; Owner: postgres
+-- Name: p_counts p_counts_samplename_fk; Type: FK CONSTRAINT; Schema: public; Owner: postgres
 --
 
 ALTER TABLE ONLY public.p_counts
@@ -932,7 +935,7 @@ ALTER TABLE ONLY public.p_counts
 
 
 --
--- Name: p_counts_var__fk; Type: FK CONSTRAINT; Schema: public; Owner: postgres
+-- Name: p_counts p_counts_var__fk; Type: FK CONSTRAINT; Schema: public; Owner: postgres
 --
 
 ALTER TABLE ONLY public.p_counts
@@ -940,7 +943,7 @@ ALTER TABLE ONLY public.p_counts
 
 
 --
--- Name: p_vars_groupid_fk; Type: FK CONSTRAINT; Schema: public; Owner: postgres
+-- Name: p_vars p_vars_groupid_fk; Type: FK CONSTRAINT; Schema: public; Owner: postgres
 --
 
 ALTER TABLE ONLY public.p_vars
@@ -948,15 +951,6 @@ ALTER TABLE ONLY public.p_vars
 
 
 --
--- Name: SCHEMA public; Type: ACL; Schema: -; Owner: postgres
---
-
-REVOKE ALL ON SCHEMA public FROM PUBLIC;
-REVOKE ALL ON SCHEMA public FROM postgres;
-GRANT ALL ON SCHEMA public TO postgres;
-GRANT ALL ON SCHEMA public TO PUBLIC;
-
-
---
 -- PostgreSQL database dump complete
 --
+
