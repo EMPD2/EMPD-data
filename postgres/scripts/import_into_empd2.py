@@ -71,8 +71,11 @@ def clean_doi(doi):
     return DOI
 
 
-PUBLI_ID = 1   # TODO: Has to be set from EMPD2
-WORKER_ID = 1  # TODO: Has to be set from EMPD2
+cursor.execute('SELECT MAX(publiid) FROM publications')
+PUBLI_ID = (cursor.fetchall()[0][0] or 0) + 1
+
+cursor.execute('SELECT MAX(workerid) FROM workers')
+WORKER_ID = (cursor.fetchall()[0][0] or 0) + 1
 
 err = 0
 list_of_errors = []
