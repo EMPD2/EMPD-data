@@ -128,7 +128,7 @@ for col, vals in okexcept.items():
                 '({})'.format(', '.join(map(is_null_str, v)))
                 for v in new_vals)))
         conn.commit()
-        if not args.no_export:
+        if not args.no_exports:
             df.to_csv(fname, index=False, sep='\t')
 
 
