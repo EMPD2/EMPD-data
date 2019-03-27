@@ -83,6 +83,7 @@ missing_elevation = {}
 
 
 METADATA = pd.read_csv(meta, sep='\t')
+orig_METADATA = METADATA.copy(True)
 base_cols = pd.read_csv(base_meta, nrows=1, sep='\t').columns
 
 for col in set(base_cols) - set(METADATA.columns):
@@ -94,6 +95,7 @@ existing_samples = [r[0] for r in cursor.fetchall()]
 
 # check okexcept column and update fixed tables
 okexcept = defaultdict(set)
+save_orig = False
 for key, row in METADATA[METADATA.okexcept.astype(bool)].iterrows():
     if row.okexcept and str(row.okexcept) != 'nan':
         row_okexcept = row.okexcept.split(',')
@@ -104,6 +106,11 @@ for key, row in METADATA[METADATA.okexcept.astype(bool)].iterrows():
                 okexcept[col].add(row[col])
                 row_okexcept.remove(col)
         METADATA.loc[key, 'okexcept'] = ','.join(row_okexcept)
+        orig_METADATA.loc[key, 'okexcept'] = ','.join(row_okexcept)
+        save_orig = True
+
+if save_orig:
+    orig_METADATA.to_csv(meta, sep='\t', index=False, float_format='%1.8g')
 
 table_map = {
     'Country': 'countries',
