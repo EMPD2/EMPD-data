@@ -102,11 +102,14 @@ def fix_elevation(meta, meta_file, commit_fixes, local_repo, skip_ci):
 @pytest.mark.dbfix
 def fix_temperature(meta, meta_file, commit_fixes, local_repo, skip_ci):
     try:
-        samples = meta[meta.Temperature.isnull()].index.values
+        mask = meta.Temperature.isnull()
+        mask |= meta.Temperature.astype(str).str.contains('nan')
     except AttributeError:
-        samples = meta.index.values
+        mask = meta.index.astype(bool)
+    mask &= meta.Longitude.notnull() & meta.Latitude.notnull()
+    samples = meta[mask].index.values
     if len(samples):
-        message = "Set temperature from WorldClim v2 for %s" % samples
+        message = "Set temperature from WorldClim v2 for %i" % len(samples)
         print(message)
         temperature = get_climate(
             *meta.loc[samples, ['Latitude', 'Longitude']].values.T,
@@ -117,18 +120,22 @@ def fix_temperature(meta, meta_file, commit_fixes, local_repo, skip_ci):
         if commit_fixes:
             local_repo.index.add([meta_file.name])
             local_repo.index.commit(
-                message + ('\n\n[skip ci]' if skip_ci else ''))
+                message + ('\n\n[skip ci]\n' if skip_ci else '\n\n') + samples)
 
 
 @pytest.mark.metafix
 @pytest.mark.dbfix
 def fix_precipitation(meta, meta_file, commit_fixes, local_repo, skip_ci):
     try:
-        samples = meta[meta.Precipitation.isnull()].index.values
+        mask = meta.Precipitation.isnull()
+        mask |= meta.Precipitation.astype(str).str.contains('nan')
     except AttributeError:
-        samples = meta.index.values
+        mask = meta.index.astype(bool)
+    mask &= meta.Longitude.notnull() & meta.Latitude.notnull()
+    samples = meta[mask].index.values
     if len(samples):
-        message = "Set temperature from WorldClim v2 for %s" % samples
+
+        message = "Set precipitation from WorldClim v2 for %i" % len(samples)
         print(message)
         precip = get_climate(
             *meta.loc[samples, ['Latitude', 'Longitude']].values.T,
@@ -139,4 +146,4 @@ def fix_precipitation(meta, meta_file, commit_fixes, local_repo, skip_ci):
         if commit_fixes:
             local_repo.index.add([meta_file.name])
             local_repo.index.commit(
-                message + ('\n\n[skip ci]' if skip_ci else ''))
+                message + ('\n\n[skip ci]\n' if skip_ci else '\n\n') + samples)
