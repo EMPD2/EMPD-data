@@ -16,16 +16,18 @@ def get_elevation(points):
     return elevation
 
 
+@pytest.mark.formatfix
 @pytest.mark.dbfix
-def fix_country(meta, meta_row, meta_file, commit_fixes, local_repo,
-                skip_ci):
-    country = get_country(meta_row.Latitude, meta_row.Longitude)
-    current = getattr(meta_row, 'Country', '')
-    if country != current:
-        message = "Changed country from %s to %s" % (current, country)
+def fix_trailing_spaces(meta, meta_row, meta_file, commit_fixes, local_repo,
+                        skip_ci):
+    meta_row = meta_row.astype(str)
+    stripped = meta_row.str.strip()
+    cols = meta_row[stripped != meta_row].index
+    if len(cols):
+        message = "Removed trailing spaces for %s" % (cols, )
         print(message)
-        meta.loc[meta_row.name, 'Country'] = country
-        meta.to_csv(str(meta_file), sep='\t')
+        meta.loc[meta_row.name, cols] = stripped[cols]
+        meta.to_csv(str(meta_file), sep='\t', float_format='%1.8g')
         if commit_fixes:
             local_repo.index.add([meta_file.name])
             local_repo.index.commit(
@@ -33,6 +35,48 @@ def fix_country(meta, meta_row, meta_file, commit_fixes, local_repo,
                 ('\n\n[skip ci]' if skip_ci else ''))
 
 
+@pytest.mark.formatfix
+@pytest.mark.dbfix
+def fix_newline_chars(meta, meta_row, meta_file, commit_fixes, local_repo,
+                      skip_ci):
+    meta_row = meta_row.astype(str)
+    stripped = meta_row.str.replace('\n', ' ').str.replace('\r', ' ')
+    cols = meta_row[stripped != meta_row].index
+    if len(cols):
+        message = "Removed newline characters for %s" % (cols, )
+        print(message)
+        meta.loc[meta_row.name, cols] = stripped[cols]
+        meta.to_csv(str(meta_file), sep='\t', float_format='%1.8g')
+        if commit_fixes:
+            local_repo.index.add([meta_file.name])
+            local_repo.index.commit(
+                ("[%s]: %s" % (meta_row.name, message)) +
+                ('\n\n[skip ci]' if skip_ci else ''))
+
+
+@pytest.mark.metafix
+@pytest.mark.dbfix
+def fix_country(meta, meta_row, meta_file, commit_fixes, local_repo,
+                skip_ci, countries):
+    country = get_country(meta_row.Latitude, meta_row.Longitude)
+    try:
+        country = countries.loc[country]
+    except KeyError:
+        pass
+    current = getattr(meta_row, 'Country', '')
+    if country != current:
+        message = "Changed country from %s to %s" % (current, country)
+        print(message)
+        meta.loc[meta_row.name, 'Country'] = country
+        meta.to_csv(str(meta_file), sep='\t', float_format='%1.8g')
+        if commit_fixes:
+            local_repo.index.add([meta_file.name])
+            local_repo.index.commit(
+                ("[%s]: %s" % (meta_row.name, message)) +
+                ('\n\n[skip ci]' if skip_ci else ''))
+
+
+@pytest.mark.metafix
 @pytest.mark.dbfix
 def fix_elevation(meta, meta_file, commit_fixes, local_repo, skip_ci):
     try:
@@ -45,7 +89,7 @@ def fix_elevation(meta, meta_file, commit_fixes, local_repo, skip_ci):
         points = meta.loc[samples, ['Latitude', 'Longitude']].values
         elev = get_elevation(points)
         meta.loc[samples, 'Elevation'] = elev
-        meta.to_csv(str(meta_file), sep='\t')
+        meta.to_csv(str(meta_file), sep='\t', float_format='%1.8g')
         if commit_fixes:
             local_repo.index.add([meta_file.name])
             local_repo.index.commit(
@@ -54,6 +98,7 @@ def fix_elevation(meta, meta_file, commit_fixes, local_repo, skip_ci):
         pytest.skip("All elevations already specified")
 
 
+@pytest.mark.metafix
 @pytest.mark.dbfix
 def fix_temperature(meta, meta_file, commit_fixes, local_repo, skip_ci):
     try:
@@ -68,13 +113,14 @@ def fix_temperature(meta, meta_file, commit_fixes, local_repo, skip_ci):
             variables=['tavg'])
         meta.loc[samples, 'Temperature'] = list(map(
             ','.join, temperature.values.astype(str)))
-        meta.to_csv(str(meta_file), sep='\t')
+        meta.to_csv(str(meta_file), sep='\t', float_format='%1.8g')
         if commit_fixes:
             local_repo.index.add([meta_file.name])
             local_repo.index.commit(
                 message + ('\n\n[skip ci]' if skip_ci else ''))
 
 
+@pytest.mark.metafix
 @pytest.mark.dbfix
 def fix_precipitation(meta, meta_file, commit_fixes, local_repo, skip_ci):
     try:
@@ -89,7 +135,7 @@ def fix_precipitation(meta, meta_file, commit_fixes, local_repo, skip_ci):
             variables=['prec'])
         meta.loc[samples, 'Precipitation'] = list(map(
             ','.join, precip.values.astype(str)))
-        meta.to_csv(str(meta_file), sep='\t')
+        meta.to_csv(str(meta_file), sep='\t', float_format='%1.8g')
         if commit_fixes:
             local_repo.index.add([meta_file.name])
             local_repo.index.commit(
