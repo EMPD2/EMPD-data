@@ -307,8 +307,8 @@ def pytest_configure(config):
     _meta_file = pathlib.Path(config.option.empd_meta).expanduser().resolve()
     _base_meta_file = pathlib.Path(
         osp.join(osp.dirname(_meta_file), 'meta.tsv'))
-    if not config.option.fix_db:
-        if getattr(config.option, 'markexpr', None):
-            config.option.markexpr += ' and not dbfix'
-        else:
-            config.option.markexpr = 'not dbfix'
+    fix_db = config.option.fix_db
+    if getattr(config.option, 'markexpr', None):
+        config.option.markexpr += ' and %sdbfix' % ('' if fix_db else 'not ')
+    else:
+        config.option.markexpr = '%sdbfix' % ('' if fix_db else 'not ')
