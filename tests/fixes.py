@@ -120,7 +120,8 @@ def fix_temperature(meta, meta_file, commit_fixes, local_repo, skip_ci):
         if commit_fixes:
             local_repo.index.add([meta_file.name])
             local_repo.index.commit(
-                message + ('\n\n[skip ci]\n' if skip_ci else '\n\n') + samples)
+                message + ('\n\n[skip ci]\n' if skip_ci else '\n\n') +
+                ', '.join(samples))
 
 
 @pytest.mark.metafix
@@ -146,4 +147,5 @@ def fix_precipitation(meta, meta_file, commit_fixes, local_repo, skip_ci):
         if commit_fixes:
             local_repo.index.add([meta_file.name])
             local_repo.index.commit(
-                message + ('\n\n[skip ci]\n' if skip_ci else '\n\n') + samples)
+                message + ('\n\n[skip ci]\n' if skip_ci else '\n\n') +
+                ', '.join(samples))
