@@ -114,8 +114,8 @@ def fix_temperature(meta, meta_file, commit_fixes, local_repo, skip_ci):
         temperature = get_climate(
             *meta.loc[samples, ['Latitude', 'Longitude']].values.T,
             variables=['tavg'])
-        meta.loc[samples, 'Temperature'] = list(map(
-            ','.join, temperature.values.astype(str)))
+        meta.loc[samples, 'Temperature'] = temperature.to_csv(
+            header=False, index=False, float_format='%1.8g').splitlines()
         meta.to_csv(str(meta_file), sep='\t', float_format='%1.8g')
         if commit_fixes:
             local_repo.index.add([meta_file.name])
@@ -141,8 +141,8 @@ def fix_precipitation(meta, meta_file, commit_fixes, local_repo, skip_ci):
         precip = get_climate(
             *meta.loc[samples, ['Latitude', 'Longitude']].values.T,
             variables=['prec'])
-        meta.loc[samples, 'Precipitation'] = list(map(
-            ','.join, precip.values.astype(str)))
+        meta.loc[samples, 'Precipitation'] = precip.to_csv(
+            header=False, index=False, float_format='%1.8g').splitlines()
         meta.to_csv(str(meta_file), sep='\t', float_format='%1.8g')
         if commit_fixes:
             local_repo.index.add([meta_file.name])
