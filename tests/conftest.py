@@ -1,6 +1,7 @@
 # configuration module for pytest
 from collections import OrderedDict
 import pathlib
+import os
 import os.path as osp
 import pytest
 from functools import partial
@@ -9,6 +10,8 @@ all_reports = OrderedDict()
 
 
 report_path = ''
+
+extract_failed = False
 
 _meta_file = pathlib.Path(
     osp.join(osp.dirname(osp.abspath(__file__)), '..', 'meta.tsv')).resolve()
@@ -199,13 +202,23 @@ def get_priority(report):
         return 2
 
 
-def pytest_runtest_logreport(report):
-    if report_path:
-        all_reports.setdefault(report.nodeid, []).append(report)
+@pytest.hookimpl(tryfirst=True, hookwrapper=True)
+def pytest_runtest_makereport(item, call):
+    # execute all other hooks to obtain the report object
+    outcome = yield
+    rep = outcome.get_result()
+
+    # we only look at actual failing test calls, not setup/teardown
+    if rep.when == "call" and rep.failed:
+        all_reports.setdefault(rep.nodeid, []).append(rep)
 
 
 def pytest_sessionfinish(session):
     md = ''
+    meta = _meta()
+    samples = meta.index.values
+    failed_samples = set()
+
     for key, reports in all_reports.items():
         reports.sort(key=get_priority)
 
@@ -233,9 +246,25 @@ def pytest_sessionfinish(session):
                             key, '```\n%s\n```' % s if key == 'error' else s)
                     md += '\n' + details + '\n'
             md += '</details>\n'
+        if report.outcome == 'failed':
+            failed_samples.update(set(report.keywords).intersection(samples))
 
     if report_path:
         report_path.write_text(md, encoding='utf-8')
+
+    if extract_failed:
+        target_dir = osp.join(osp.dirname(_meta_file), 'failures')
+        target = osp.join(target_dir, extract_failed)
+        os.makedirs(target_dir, exist_ok=True)
+        meta.loc[list(failed_samples)].to_csv(
+            target, sep='\t', float_format='%1.8g')
+
+        if _commit_fixes:
+            from git import Repo
+            local_repo = Repo(osp.dirname(_meta_file))
+            local_repo.index.add([target])
+            local_repo.index.commit(
+                f"Extracted failures to {target} [skip ci]")
 
 
 def pytest_addoption(parser):
@@ -257,15 +286,24 @@ def pytest_addoption(parser):
               "well."))
     group.addoption('--empd-meta', default=str(_meta_file),
                     help="The path to the meta file")
+    group.addoption(
+        '--extract-failed', metavar='filename.tsv', nargs='?',
+        const='failed.tsv', default=False,
+        help=("Extract the meta data of failed samples into a separate file "
+              "in the `failures` directory. Without argument, failed samples "
+              "will be extracted to ``%(const)s``."))
 
 
 def pytest_configure(config):
     global report_path, _meta_file,  _base_meta_file, _commit_fixes
+    global extract_failed
     if config.option.markdown_report:
         report_path = pathlib.Path(
             config.option.markdown_report).expanduser().resolve()
     if config.option.commit:
         _commit_fixes = True
+    if config.option.extract_failed:
+        extract_failed = config.option.extract_failed
     _meta_file = pathlib.Path(config.option.empd_meta).expanduser().resolve()
     _base_meta_file = pathlib.Path(
         osp.join(osp.dirname(_meta_file), 'meta.tsv'))
