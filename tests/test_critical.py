@@ -1,5 +1,8 @@
 # Critical tests for the EMPD data. If they do not run, you can abort the tests
 import pytest
+import os.path as osp
+import pandas as pd
+import textwrap
 
 
 @pytest.mark.critical
@@ -20,10 +23,24 @@ def test_samplename_duplicates(meta):
 
 
 @pytest.mark.critical
-def test_data_columns(data_frame):
-    ref_cols = {'var_', 'samplename', 'count', 'acc_var_',
-                'original_varname', 'acc_varname', 'groupid', 'groupname',
-                'higher_groupid', 'included_in_percent_sum', 'make_percent',
-                'higher_groupname', 'percentage'}
-    assert ref_cols <= set(data_frame.columns)
-    assert data_frame.columns.all()  # make sure every column has a title
+def test_data_columns(meta, data_files, record_property):
+
+    def test_data(fname):
+        if osp.exists(fname):
+            data_frame = pd.read_csv(fname, sep='\t')
+            return (ref_cols <= set(data_frame.columns) and
+                    data_frame.columns.fillna('').astype(bool).all())
+
+    ref_cols = {'count', 'original_varname', 'acc_varname', 'groupid'}
+    meta = meta.copy()
+    meta['files'] = data_files
+    meta['valid'] = meta['files'].apply(test_data)
+
+    failed = meta[~meta['valid']]
+
+    record_property('failed_samples', failed[['files', 'valid']])
+
+    msg = "Found %i invalid data columns: %s" % (
+        len(failed), textwrap.shorten(
+            ', '.join(failed.index), 80, placeholder='...'))
+    assert not len(failed), msg

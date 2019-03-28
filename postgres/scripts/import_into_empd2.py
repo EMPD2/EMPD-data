@@ -101,9 +101,14 @@ for key, row in METADATA[METADATA.okexcept.astype(bool)].iterrows():
         row_okexcept = row.okexcept.split(',')
         for col in row_okexcept[:]:
             col = col.strip()
-            if col in ['Country', 'GroupID', 'SampleContext', 'SampleMethod',
+            if col in ['Country', 'SampleContext', 'SampleMethod',
                        'SampleType'] and notnull(row[col]):
                 okexcept[col].add(row[col])
+                row_okexcept.remove(col)
+            elif col == 'GroupID':
+                COUNTS = pd.read_csv(
+                    os.path.join(samples_dir, row.SampleName + '.tsv'), '\t')
+                okexcept[col].update(COUNTS['groupid'])
                 row_okexcept.remove(col)
         METADATA.loc[key, 'okexcept'] = ','.join(row_okexcept)
         orig_METADATA.loc[key, 'okexcept'] = ','.join(row_okexcept)

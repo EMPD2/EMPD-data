@@ -1,26 +1,46 @@
 # Test the formatting of the data
 import pytest
-
-def test_trailing_spaces(meta_row):
-    meta_row = meta_row.astype(str)
-    assert (meta_row.str.strip() == meta_row).all()
+import numpy as np
 
 
-def test_newline_chars(meta_row):
-    meta_row = meta_row.astype(str)
-    assert (meta_row.str.replace('\n', ' ').str.replace('\r', ' ') ==
-            meta_row).all()
+def test_trailing_spaces(meta, record_property):
+    has_failed = np.zeros_like(meta, dtype=bool)
+    for i, (col, s) in enumerate(meta.astype(str).fillna('').items()):
+        has_failed[:, i] = s.str.strip() != s
+    failed = meta.where(has_failed).dropna(how='all').dropna(axis=1, how='all')
+    record_property('failed_samples',
+                    failed.astype(str).fillna('').applymap(repr))
+
+    msg = "Found %i cells with trailing spaces" % has_failed.sum()
+    assert not len(failed), msg
+
+
+def test_newline_chars(meta, record_property):
+    has_failed = np.zeros_like(meta, dtype=bool)
+    for i, (col, s) in enumerate(meta.astype(str).fillna('').items()):
+        has_failed[:, i] = s.str.replace('\n', ' ').str.replace(
+            '\r', ' ') != s
+    failed = meta.where(has_failed).dropna(how='all').dropna(axis=1, how='all')
+    record_property('failed_samples',
+                    failed.astype(str).fillna('').applymap(repr))
+
+    msg = "Found %i cells with newline characters" % has_failed.sum()
+    assert not len(failed), msg
 
 
 @pytest.mark.parametrize('doi_field', ['DOI1', 'DOI2', 'DOI3', 'DOI4', 'DOI5'])
-def test_doi(meta_row, doi_field):
-    if meta_row.notnull()[doi_field]:
-        doi = meta_row.copy(True)[doi_field]
-
+def test_doi(meta, doi_field, record_property):
+    if doi_field in meta.columns and meta[doi_field].fillna('').any():
+        col = meta[doi_field].astype(str).fillna('')
+        orig = col
         for patt in ['https://doi.org/', 'http://dx.doi.org/', 'doi: ',
                      'doi.org/', 'DOI: ', 'DOI ', 'doi:', ' ',
                      'https://link.springer.com/article/']:
-            doi = doi.replace(patt, '')
-        assert doi == meta_row.loc[doi_field]
+            col = col.replace(patt, '')
+        failed = meta[col != orig]
+        record_property('failed_samples', failed[[doi_field]])
+
+        msg = "Found %i cells with invalid DOI" % len(failed)
+        assert not len(failed[doi_field]), msg
     else:
         pytest.skip("%s field empty specified" % doi_field)
