@@ -5,6 +5,8 @@ import os
 import os.path as osp
 import pytest
 from functools import partial
+from itertools import starmap
+import textwrap
 
 all_reports = OrderedDict()
 
@@ -24,7 +26,10 @@ _commit_fixes = False
 def _meta(fname=None):
     import pandas as pd
     fname = fname or _meta_file
-    return pd.read_csv(str(fname), sep='\t', index_col='SampleName')
+    ret = pd.read_csv(str(fname), sep='\t', index_col='SampleName')
+    if 'okexcept' not in ret.columns:
+        ret['okexcept'] = ''
+    return ret
 
 
 def _data_files():
@@ -94,6 +99,24 @@ def countries(meta_file):
 
 
 @pytest.fixture(scope='session')
+def nat_earth_countries(meta, countries):
+    import pandas as pd
+    import numpy as np
+    lat = meta.Latitude.astype(float).values
+    lon = meta.Longitude.astype(float).values
+    mask = ~(np.isnan(lat) | np.isnan(lon))
+    try:
+        import geopandas as gpd  # Using geopandas is much faster!
+    except ImportError:
+        from latlon_utils import get_country
+        countries = list(starmap(get_country, zip(lat[mask], lon[mask])))
+    else:
+        from latlon_utils import get_country_gpd
+        countries = get_country_gpd(lat[mask], lon[mask])
+    return pd.Series(countries, index=meta.index[mask])
+
+
+@pytest.fixture(scope='session')
 def samplecontexts(meta_file):
     import pandas as pd
     return pd.read_csv(
@@ -136,6 +159,15 @@ def locationreliabilities(meta_file):
 
 
 @pytest.fixture(scope='session')
+def groupids(meta_file):
+    import pandas as pd
+    return pd.read_csv(
+        osp.join(osp.dirname(meta_file), 'tab-delimited',
+                 'groupid.tsv'),
+        sep='\t').iloc[:, 0].values
+
+
+@pytest.fixture(scope='session')
 def ageuncertainties(meta_file):
     import pandas as pd
     return pd.read_csv(
@@ -147,6 +179,12 @@ def ageuncertainties(meta_file):
 @pytest.fixture(scope='session')
 def samples_dir(meta_file):
     return osp.join(osp.dirname(meta_file), 'samples')
+
+
+@pytest.fixture(scope='session')
+def data_files(meta_file, meta):
+    base = osp.join(osp.dirname(meta_file), 'samples')
+    return [osp.join(base, sample + '.tsv') for sample in meta.index.values]
 
 
 @pytest.fixture
@@ -165,6 +203,18 @@ def data_frame(data_file):
 def meta_row(request):
     """One row of the meta data"""
     return request.param
+
+
+@pytest.fixture(scope='session')
+def okexcept(meta):
+    meta_okexcept = meta.okexcept.astype(str).fillna('')
+
+    def okexcept(column):
+        ret = meta_okexcept.str.contains(column)
+        ret.name = f'okexcept({column})'
+        return ret
+
+    return okexcept
 
 
 @pytest.fixture(scope='session')
@@ -214,6 +264,7 @@ def pytest_runtest_makereport(item, call):
 
 
 def pytest_sessionfinish(session):
+    import pandas as pd
     md = ''
     meta = _meta()
     samples = meta.index.values
@@ -229,10 +280,11 @@ def pytest_sessionfinish(session):
         for attr in ['stderr', 'stdout', 'log']:
             if getattr(report, 'cap' + attr):
                 d[attr] = getattr(report, 'cap' + attr)
+        user_props = dict(report.user_properties)
         if d and not any(report.skipped for report in reports):
             md += '<details><summary>%s..<b>%s</b></summary>\n' % (
                 report.nodeid, report.outcome.upper())
-            if len(d) == 1:
+            if len(d) == 1 and not 'failed_samples' in user_props:
                 message, val = next(iter(d.items()))
                 if message == 'error':
                     val = '\n\n```\n%s\n```' % val
@@ -245,9 +297,40 @@ def pytest_sessionfinish(session):
                         '%s\n</details>') % (
                             key, '```\n%s\n```' % s if key == 'error' else s)
                     md += '\n' + details + '\n'
+                if 'failed_samples' in user_props or 'failed_data':
+                    try:
+                        df = user_props['failed_samples']
+                        summary = '%i failed samples' % len(df)
+                    except KeyError:
+                        df = user_props['failed_data']
+                        summary = '%i failed data rows' % len(df)
+                    n = len(df)
+                    df = df.head(session.config.getoption('--max-table-len'))
+                    df = pd.concat([
+                        pd.DataFrame([('---', ) * len(df.columns)],
+                                     index=['---'], columns=df.columns),
+                        df])
+                    details = (
+                        '<details>\n'
+                        '<summary>%s</summary>\n\n'
+                        '%s\n\nDisplaying %i of %i samples\n</details>') % (
+                            summary,
+                            textwrap.indent(
+                                df.to_csv(sep='|', float_format='%1.8g'),
+                                '| '), len(df) - 1, n)
+                    md += '\n' + details + '\n'
+
             md += '</details>\n'
         if report.outcome == 'failed':
             failed_samples.update(set(report.keywords).intersection(samples))
+            if 'failed_samples' in user_props:
+                df = user_props['failed_samples']
+                failed_samples.update(df.index)
+                meta = meta.join(
+                    df[[col for col in df.columns if col not in meta.columns]])
+            elif 'failed_data' in user_props:
+                df = user_props['failed_data']
+                failed_samples.update(df.samplename)
 
     if report_path:
         report_path.write_text(md, encoding='utf-8')
@@ -272,6 +355,10 @@ def pytest_addoption(parser):
     group.addoption(
         "--markdown-report", action="store", metavar="path",
         default=None, help="create markdown report file at given path.")
+    group.addoption(
+        '--max-table-len', metavar='NUM', type=int, default=100,
+        help=("The maximal length of tables in the markdown-report. "
+              "Default: %(default)s"))
     group = parser.getgroup('EMPD')
     group.addoption(
         "--fix-db", action='store_true', default=False,

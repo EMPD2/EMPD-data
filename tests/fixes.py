@@ -1,9 +1,15 @@
 # Module for fixing errors in the meta data
-from latlon_utils import get_country, get_climate
 import requests
 from itertools import starmap
 import pandas as pd
 import pytest
+
+try:
+    import geopandas
+except ImportError:
+    from latlon_utils import get_country, get_climate
+else:
+    from latlon_utils import get_country_gpd as get_country, get_climate
 
 
 def get_elevation(points):

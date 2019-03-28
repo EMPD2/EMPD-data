@@ -2,10 +2,10 @@
 import os.path as osp
 import glob
 import pytest
-from latlon_utils import get_country
 from itertools import starmap
 import numpy as np
-import pandas as pd
+from difflib import get_close_matches
+import textwrap
 
 
 def okexcept(meta_row, col):
@@ -35,128 +35,342 @@ def test_meta_exists(samples_dir, meta, base_meta):
     assert not missing, f"Missing meta information for samples {missing}"
 
 
-def test_lat_lon(meta_row):
-    assert okexcept(meta_row, 'Latitude') or (
-        meta_row.Latitude >= -90 and meta_row.Latitude <= 90)
-    assert okexcept(meta_row, 'Longitude') or (
-        meta_row.Longitude >= -180 and meta_row.Longitude <= 360)
+def test_lat_lon(meta, okexcept, record_property):
+    meta = meta.copy()
+    meta = meta.join(okexcept('Latitude'))
+    meta['Latitude_ok'] = (meta.Latitude >= -90) & (meta.Latitude <= 90)
+    meta = meta.join(okexcept('Longitude'))
+    meta['Longitude_ok'] = (meta.Longitude >= -180) & (meta.Longitude <= 360)
+    failed = meta[~(meta.iloc[:, -4] | meta.iloc[:, -3]) |
+                  ~(meta.iloc[:, -2] | meta.iloc[:, -1])]
+    record_property('failed_samples',
+                    failed[['Latitude', 'Longitude'] + list(meta.columns[-4:])]
+                    )
+    msg = "Found %i invalid Latitude-Longitude pairs: %s" % (
+        len(failed), textwrap.shorten(
+            ', '.join(failed.index), 80, placeholder='...'))
+    assert not len(failed), msg
 
 
-def test_country(meta_row, countries):
-    assert okexcept(meta_row, 'Country') or meta_row.Country in countries.loc[
-        [get_country(*meta_row[['Latitude', 'Longitude']])]].values
+def test_country(meta, countries, nat_earth_countries, okexcept,
+                 record_property):
+    ref = countries
+    meta = meta.copy()
+    s = meta['Country'].fillna('')
+
+    s_ok = okexcept(s.name)
+    s_ok |= (okexcept("Latitude") & okexcept("Longitude")).values
+    meta = meta.join(s_ok)
+    meta['nat_earth'] = nat_earth_countries
+    meta['empd_countries'] = [
+        '; '.join(ref.loc[[n]]) if n in ref.index else c
+        for c, n in meta[[s.name, 'nat_earth']].values]
+    meta[s.name + '_ok'] = [n in ref.index and c in ref.loc[[n]].values
+                            for c, n in meta[[s.name, 'nat_earth']].values]
+    failed = meta[~(s_ok | meta.Country_ok)]
+    record_property('failed_samples',
+                    failed[[s.name, 'nat_earth', 'empd_countries', s_ok.name,
+                            s.name + '_ok']]
+                    )
+    msg = "Found %i invalid %s: %s" % (
+        len(failed), s.name if len(failed) == 1 else 'Countries',
+        textwrap.shorten(
+            ', '.join(failed.index), 80, placeholder='...'))
+    assert not len(failed), msg
 
 
-def test_samplecontext(meta_row, samplecontexts):
-    samplecontext = str(getattr(meta_row, 'SampleContext', ''))
-    if isnull(samplecontext):
+def test_samplecontext(meta, samplecontexts, okexcept, record_property):
+    if 'SampleContext' not in meta.columns:
         return pytest.skip("No SampleContext specified.")
-    assert (samplecontext.lower() == samplecontext and
-            (okexcept(meta_row, 'SampleContext') or
-             samplecontext in samplecontexts))
+    ref = samplecontexts
+    meta = meta.copy()
+    s = meta['SampleContext'].fillna('')
+
+    s_ok = okexcept(s.name)
+    meta = meta.join(s_ok)
+    meta[s.name + '_ok'] = (~s.astype(bool)) | np.isin(s, ref)
+    meta[s.name + '_lower'] = s.str.lower() == s
+
+    failed = meta[
+        ~(s_ok | (meta[s.name + '_lower'] & meta[s.name + '_ok']))]
+    failed[s.name + '_suggestions'] = failed[s.name].apply(
+        lambda s: '; '.join(get_close_matches(s, ref)))
+    record_property(
+        'failed_samples',
+        failed[[s.name, s_ok.name, s.name + '_lower',
+                s.name + '_ok', s.name + '_suggestions']])
+    msg = "Found %i invalid %ss: %s" % (
+        len(failed), s.name, textwrap.shorten(
+            ', '.join(failed.index), 80, placeholder='...'))
+    assert not len(failed), msg
 
 
-def test_sampletype(meta_row, sampletypes):
-    sampletype = str(getattr(meta_row, 'SampleType', ''))
-    if isnull(sampletype):
+def test_sampletype(meta, sampletypes, okexcept, record_property):
+    if 'SampleType' not in meta.columns:
         return pytest.skip("No SampleType specified.")
-    assert (okexcept(meta_row, 'SampleType') or sampletype in sampletypes)
+    ref = sampletypes
+    meta = meta.copy()
+    s = meta['SampleType'].fillna('')
+
+    s_ok = okexcept(s.name)
+    meta = meta.join(s_ok)
+    meta[s.name + '_ok'] = (~s.astype(bool)) | np.isin(s, ref)
+
+    failed = meta[~(s_ok | meta[s.name + '_ok'])]
+    failed[s.name + '_suggestions'] = failed[s.name].apply(
+        lambda s: '; '.join(get_close_matches(s, ref)))
+    record_property(
+        'failed_samples',
+        failed[[s.name, s_ok.name, s.name + '_ok',
+                s.name + '_suggestions']])
+
+    msg = "Found %i invalid SampleTypes: %s" % (
+        len(failed), textwrap.shorten(
+            ', '.join(failed.index), 80, placeholder='...'))
+    assert not len(failed), msg
 
 
-def test_samplemethod(meta_row, samplemethods):
-    samplemethod = str(getattr(meta_row, 'SampleMethod', ''))
-    if isnull(samplemethod):
-        return pytest.skip("No samplemethod specified.")
-    assert (okexcept(meta_row, 'SampleMethod') or
-            samplemethod in samplemethods)
+def test_samplemethod(meta, samplemethods, okexcept, record_property):
+    if 'SampleMethod' not in meta.columns:
+        return pytest.skip("No SampleMethod specified.")
+    ref = samplemethods
+    meta = meta.copy()
+    s = meta['SampleMethod'].fillna('')
+
+    s_ok = okexcept(s.name)
+    meta = meta.join(s_ok)
+    meta[s.name + '_ok'] = (~s.astype(bool)) | np.isin(s, ref)
+
+    failed = meta[~(s_ok | meta[s.name + '_ok'])]
+    failed[s.name + '_suggestions'] = failed[s.name].apply(
+        lambda s: '; '.join(get_close_matches(s, ref)))
+    record_property(
+        'failed_samples',
+        failed[[s.name, s_ok.name, s.name + '_ok',
+                s.name + '_suggestions']])
+
+    msg = "Found %i invalid %ss: %s" % (
+        len(failed), s.name, textwrap.shorten(
+            ', '.join(failed.index), 80, placeholder='...'))
+    assert not len(failed), msg
 
 
 @pytest.mark.parametrize('worker', ['Worker1', 'Worker2', 'Worker3',
                                     'Worker4'])
-def test_workerrole(meta_row, worker, workerroles):
-    if (isnull(getattr(meta_row, worker + '_LastName', '')) or
-            isnull(getattr(meta_row, worker + '_Role', ''))):
-        return pytest.skip(worker + "_Role not specified.")
-    assert meta_row[worker + '_Role'] in workerroles
+def test_workerrole(meta, worker, workerroles, record_property):
+    if worker + '_Role' not in meta.columns:
+        return pytest.skip(f"No {worker}_Role specified.")
+    ref = workerroles
+    meta = meta.copy()
+    s = meta[worker + '_Role'].fillna('')
+
+    meta[s.name + '_ok'] = (~s.astype(bool)) | np.isin(s, ref)
+
+    failed = meta[~meta[s.name + '_ok']]
+    failed[s.name + '_suggestions'] = failed[s.name].apply(
+        lambda s: '; '.join(get_close_matches(s, ref)))
+    record_property(
+        'failed_samples',
+        failed[[s.name, s.name + '_ok',
+                s.name + '_suggestions']])
+
+    msg = "Found %i invalid values for %s: %s" % (
+        len(failed), s.name, textwrap.shorten(
+            ', '.join(failed.index), 80, placeholder='...'))
+    assert not len(failed), msg
 
 
-def test_locationreliability(meta_row, locationreliabilities):
-    locationreliability = str(getattr(meta_row, 'LocationReliability', ''))
-    if isnull(locationreliability):
-        return pytest.skip("No LocationReliability specified.")
-    assert (okexcept(meta_row, 'LocationReliability') or
-            locationreliability in locationreliabilities)
+def test_locationreliability(meta, locationreliabilities, record_property):
+    if 'LocationReliability' not in meta.columns:
+        return pytest.skip(f"No LocationReliability specified.")
+    ref = locationreliabilities
+    meta = meta.copy()
+    s = meta['LocationReliability'].fillna('')
+
+    meta[s.name + '_ok'] = ((~s.astype(bool)) | np.isin(s, ref))
+
+    failed = meta[~(meta[s.name + '_ok'].values)]
+    failed[s.name + '_suggestions'] = failed[s.name].apply(
+        lambda s: '; '.join(get_close_matches(s, ref)))
+    record_property(
+        'failed_samples',
+        failed[[s.name, s.name + '_ok',
+                s.name + '_suggestions']])
+
+    msg = "Found %i invalid values for %s: %s" % (
+        len(failed), s.name, textwrap.shorten(
+            ', '.join(failed.index), 80, placeholder='...'))
+    assert not len(failed), msg
 
 
-def test_ageuncertainty(meta_row, ageuncertainties):
-    ageuncertainty = str(getattr(meta_row, 'AgeUncertainty', ''))
-    if isnull(ageuncertainty):
-        return pytest.skip("No AgeUncertainty specified.")
-    assert (okexcept(meta_row, 'AgeUncertainty') or
-            ageuncertainty in ageuncertainties)
+def test_ageuncertainty(meta, ageuncertainties, record_property):
+    ref = ageuncertainties
+    if 'AgeUncertainty' not in meta.columns:
+        return pytest.skip(f"No AgeUncertainty specified.")
+    meta = meta.copy()
+    s = meta['AgeUncertainty'].replace(np.nan, '')
+    meta[s.name + '_ok'] = ((~s.astype(bool)) | np.isin(s, ref))
+
+    failed = meta[~meta[s.name + '_ok']]
+    failed[s.name + '_suggestions'] = failed[s.name].apply(
+        lambda s: '; '.join(get_close_matches(s, ref)))
+    record_property(
+        'failed_samples',
+        failed[[s.name, s.name + '_ok',
+                s.name + '_suggestions']])
+    msg = "Found %i invalid values for %s: %s" % (
+        len(failed), s.name, textwrap.shorten(
+            ', '.join(failed.index), 80, placeholder='...'))
+    assert not len(failed), msg
 
 
-def test_elevation(meta_row):
-    assert okexcept(meta_row, 'Elevation') or ~np.isnan(meta_row.Elevation)
+def test_elevation(meta, okexcept, record_property):
+    meta = meta.copy()
+    s = meta.Elevation.astype(float)
+    s_ok = okexcept(s.name)
+    meta = meta.join(s_ok)
+    meta[s.name + '_ok'] = notnull = s.notnull()
+
+    failed = meta[~(s_ok | notnull)]
+    record_property(
+        'failed_samples',
+        failed[[s.name, s_ok.name, s.name + '_ok']])
+    msg = "Found %i invalid values for %s: %s" % (
+        len(failed), s.name, textwrap.shorten(
+            ', '.join(failed.index), 80, placeholder='...'))
+    assert not len(failed), msg
 
 
-def test_temperature(meta_row):
-    if okexcept(meta_row, 'Temperature'):
-        return
-    assert meta_row.Temperature
-    temperature = np.array(meta_row.Temperature.split(',')).astype(float)
-    assert len(temperature) == 17
-    assert ((temperature > -100) & (temperature < 100)).all()
+def test_temperature(meta, okexcept, record_property):
+
+    def test_range(l):
+        try:
+            temperature = np.array(l, dtype=float)
+        except Exception:
+            return False
+        else:
+            return ((temperature > -100) & (temperature < 100)).all()
+
+    meta = meta.copy()
+    s = meta.Temperature.astype(str).fillna('')
+    s_ok = okexcept(s.name)
+    meta = meta.join(s_ok)
+    meta[s.name + '_nvals'] = nvals_ok = s.str.split(',').apply(len) == 17
+    meta[s.name + '_ok'] = range_ok = s.str.split(',').apply(test_range)
+
+    failed = meta[~(s_ok | (nvals_ok & range_ok))]
+    record_property(
+        'failed_samples',
+        failed[[s.name, s_ok.name, s.name + '_nvals', s.name + '_ok']])
+    msg = "Found %i invalid values for %s: %s" % (
+        len(failed), s.name, textwrap.shorten(
+            ', '.join(failed.index), 80, placeholder='...'))
+    assert not len(failed), msg
 
 
-def test_precip(meta_row):
-    if okexcept(meta_row, 'Precipitation'):
-        return
-    assert meta_row.Precipitation
-    precip = np.array(meta_row.Precipitation.split(',')).astype(float)
-    assert len(precip) == 17
-    assert ((precip > 0) & (precip < 10000)).all()
+def test_precip(meta, okexcept, record_property):
+
+    def test_range(l):
+        try:
+            precip = np.array(l, dtype=float)
+        except Exception:
+            return False
+        else:
+            return ((precip > 0) & (precip < 10000)).all()
+
+    meta = meta.copy()
+    s = meta.Precipitation.astype(str).fillna('')
+    s_ok = okexcept(s.name)
+    meta = meta.join(s_ok)
+    meta[s.name + '_nvals'] = nvals_ok = s.str.split(',').apply(len) == 17
+    meta[s.name + '_ok'] = range_ok = s.str.split(',').apply(test_range)
+
+    failed = meta[~(s_ok | (nvals_ok & range_ok))]
+    record_property(
+        'failed_samples',
+        failed[[s.name, s_ok.name, s.name + '_nvals', s.name + '_ok']])
+    msg = "Found %i invalid values for %s: %s" % (
+        len(failed), s.name, textwrap.shorten(
+            ', '.join(failed.index), 80, placeholder='...'))
+    assert not len(failed), msg
 
 
 # --- sample file tests
 
 
-def test_orig_varnames(data_frame):
-    assert data_frame.original_varname.all()
-    duplicated = data_frame.duplicated('original_varname')
-    assert not duplicated.any(), (
-        'Duplicated acc_varnames: ' + str(
-            data_frame[duplicated].original_varname))
+def test_orig_varnames(counts, record_property):
+    counts = counts.copy()
+    counts.original_varname.fillna('')
+    counts['original_varname_valid'] = names = counts.original_varname.astype(
+        bool)
+    counts['duplicated'] = duplicated = counts.duplicated(
+        ['samplename', 'original_varname'], keep=False)
+
+    failed = counts[(~names) | duplicated]
+    record_property('failed_data', failed)
+    msg = "Found %i invalid original varnames: %s" % (
+        len(failed), textwrap.shorten(
+            ', '.join(failed.samplename.unique()), 80, placeholder='...'))
+    assert not len(failed), msg
 
 
-def test_acc_varnames(data_frame):
-    assert data_frame.acc_varname.all()
-    duplicated = data_frame.duplicated('acc_varname', keep=False)
+def test_acc_varnames(counts, record_property):
+    counts = counts.copy()
+    counts.acc_varname.fillna('')
+    counts['acc_varname_valid'] = names = counts.acc_varname.astype(bool)
+    duplicated = counts.duplicated(
+        ['samplename', 'acc_varname'], keep=False)
     if duplicated.any():
-        names = data_frame[duplicated][['original_varname', 'acc_varname']]
+        rows = counts[duplicated][
+            ['samplename', 'original_varname', 'acc_varname']].sort_values(
+                ['samplename', 'acc_varname'])
         print('Found several duplicated acc_varnames:\n\n- ' +
-              '\n - '.join(starmap('{}: {}'.format, names.values)))
+              '\n - '.join(starmap('{}: {} --> {}'.format, rows.values)))
+
+    failed = counts[~names]
+    record_property('failed_data', failed)
+    msg = "Found %i invalid accepted varnames: %s" % (
+        len(failed), textwrap.shorten(
+            ', '.join(failed.samplename.unique()), 80, placeholder='...'))
+    assert not len(failed), msg
 
 
-def test_counts(data_frame):
-    assert data_frame['count'].notnull().all()
+def test_counts(counts, record_property):
+    failed = counts[counts['count'].isnull() | counts['count'] < 0]
+    record_property('failed_data', failed)
+    msg = "Found %i rows with invalid count data: %s" % (
+        len(failed), textwrap.shorten(
+            ', '.join(failed.samplename.unique()), 80, placeholder='...'))
+    assert not len(failed), msg
 
 
-def test_groupid(data_frame):
-    assert data_frame.groupid.all()
+def test_groupid(counts, okexcept, record_property, groupids):
+    counts = counts.copy()
+    counts['groupid'] = counts['groupid'].astype(str).fillna('')
+    s_ok = okexcept('GroupID')
+    counts = counts.merge(
+        s_ok.to_frame().reset_index().rename(columns={
+            'SampleName': 'samplename'}),
+        on='samplename', how='left')
+
+    counts['valid_groupid'] = valid = counts.groupid.str.strip().astype(bool)
+    counts['existing_groupid'] = exists = np.isin(counts.groupid, groupids)
+
+    failed = counts[~(valid & (counts[s_ok.name] | exists))]
+    record_property('failed_data', failed)
+    msg = "Found %i invalid groupids: %s" % (
+        len(failed), textwrap.shorten(
+            ', '.join(failed.samplename.unique()), 80, placeholder='...'))
+    assert not len(failed), msg
 
 
-def test_percentage(data_frame):
-    assert data_frame[data_frame.make_percent].percentage.notnull().all()
+def test_data_exists(meta, data_files, record_property):
+    meta['data_file'] = data_files
+    meta['data_exists'] = meta.data_file.apply(osp.exists)
 
-
-def test_samplename(data_file):
-    samplename = osp.splitext(osp.basename(data_file))[0]
-    df = pd.read_csv(data_file, sep='\t')
-    samplenames = df.samplename
-    assert set(samplenames) == {samplename}
-
-
-def test_data_exists(meta_row, samples_dir):
-    fname = osp.join(samples_dir, meta_row.name) + '.tsv'
-    assert osp.exists(fname), f"Missing {fname}"
+    failed = meta[~meta.data_exists]
+    record_property('failed_samples', failed[['data_file', 'data_exists']])
+    msg = "Missing %i datafiles: %s" % (
+        len(failed), textwrap.shorten(
+            ', '.join(failed.index), 80, placeholder='...'))
+    assert not len(failed), msg
