@@ -68,10 +68,11 @@ def test_country(meta, countries, nat_earth_countries, okexcept,
     meta[s.name + '_ok'] = [n in ref.index and c in ref.loc[[n]].values
                             for c, n in meta[[s.name, 'nat_earth']].values]
     failed = meta[~(s_ok | meta.Country_ok)]
-    record_property('failed_samples',
-                    failed[[s.name, 'nat_earth', 'empd_countries', s_ok.name,
-                            s.name + '_ok']]
-                    )
+    if len(failed):
+        record_property('failed_samples',
+                        failed[[s.name, 'nat_earth', 'empd_countries', s_ok.name,
+                                s.name + '_ok']]
+                        )
     msg = "Found %i invalid %s: %s" % (
         len(failed), s.name if len(failed) == 1 else 'Countries',
         textwrap.shorten(
@@ -95,10 +96,11 @@ def test_samplecontext(meta, samplecontexts, okexcept, record_property):
         ~(s_ok | (meta[s.name + '_lower'] & meta[s.name + '_ok']))]
     failed[s.name + '_suggestions'] = failed[s.name].apply(
         lambda s: '; '.join(get_close_matches(s, ref)))
-    record_property(
-        'failed_samples',
-        failed[[s.name, s_ok.name, s.name + '_lower',
-                s.name + '_ok', s.name + '_suggestions']])
+    if len(failed):
+        record_property(
+            'failed_samples',
+            failed[[s.name, s_ok.name, s.name + '_lower',
+                    s.name + '_ok', s.name + '_suggestions']])
     msg = "Found %i invalid %ss: %s" % (
         len(failed), s.name, textwrap.shorten(
             ', '.join(failed.index), 80, placeholder='...'))
@@ -119,10 +121,11 @@ def test_sampletype(meta, sampletypes, okexcept, record_property):
     failed = meta[~(s_ok | meta[s.name + '_ok'])]
     failed[s.name + '_suggestions'] = failed[s.name].apply(
         lambda s: '; '.join(get_close_matches(s, ref)))
-    record_property(
-        'failed_samples',
-        failed[[s.name, s_ok.name, s.name + '_ok',
-                s.name + '_suggestions']])
+    if len(failed):
+        record_property(
+            'failed_samples',
+            failed[[s.name, s_ok.name, s.name + '_ok',
+                    s.name + '_suggestions']])
 
     msg = "Found %i invalid SampleTypes: %s" % (
         len(failed), textwrap.shorten(
@@ -144,10 +147,11 @@ def test_samplemethod(meta, samplemethods, okexcept, record_property):
     failed = meta[~(s_ok | meta[s.name + '_ok'])]
     failed[s.name + '_suggestions'] = failed[s.name].apply(
         lambda s: '; '.join(get_close_matches(s, ref)))
-    record_property(
-        'failed_samples',
-        failed[[s.name, s_ok.name, s.name + '_ok',
-                s.name + '_suggestions']])
+    if len(failed):
+        record_property(
+            'failed_samples',
+            failed[[s.name, s_ok.name, s.name + '_ok',
+                    s.name + '_suggestions']])
 
     msg = "Found %i invalid %ss: %s" % (
         len(failed), s.name, textwrap.shorten(
@@ -169,10 +173,10 @@ def test_workerrole(meta, worker, workerroles, record_property):
     failed = meta[~meta[s.name + '_ok']]
     failed[s.name + '_suggestions'] = failed[s.name].apply(
         lambda s: '; '.join(get_close_matches(s, ref)))
-    record_property(
-        'failed_samples',
-        failed[[s.name, s.name + '_ok',
-                s.name + '_suggestions']])
+    if len(failed):
+        record_property(
+            'failed_samples',
+            failed[[s.name, s.name + '_ok',  s.name + '_suggestions']])
 
     msg = "Found %i invalid values for %s: %s" % (
         len(failed), s.name, textwrap.shorten(
@@ -192,10 +196,10 @@ def test_locationreliability(meta, locationreliabilities, record_property):
     failed = meta[~(meta[s.name + '_ok'].values)]
     failed[s.name + '_suggestions'] = failed[s.name].apply(
         lambda s: '; '.join(get_close_matches(s, ref)))
-    record_property(
-        'failed_samples',
-        failed[[s.name, s.name + '_ok',
-                s.name + '_suggestions']])
+    if len(failed):
+        record_property(
+            'failed_samples',
+            failed[[s.name, s.name + '_ok', s.name + '_suggestions']])
 
     msg = "Found %i invalid values for %s: %s" % (
         len(failed), s.name, textwrap.shorten(
@@ -214,10 +218,10 @@ def test_ageuncertainty(meta, ageuncertainties, record_property):
     failed = meta[~meta[s.name + '_ok']]
     failed[s.name + '_suggestions'] = failed[s.name].apply(
         lambda s: '; '.join(get_close_matches(s, ref)))
-    record_property(
-        'failed_samples',
-        failed[[s.name, s.name + '_ok',
-                s.name + '_suggestions']])
+    if len(failed):
+        record_property(
+            'failed_samples',
+            failed[[s.name, s.name + '_ok', s.name + '_suggestions']])
     msg = "Found %i invalid values for %s: %s" % (
         len(failed), s.name, textwrap.shorten(
             ', '.join(failed.index), 80, placeholder='...'))
@@ -232,9 +236,9 @@ def test_elevation(meta, okexcept, record_property):
     meta[s.name + '_ok'] = notnull = s.notnull()
 
     failed = meta[~(s_ok | notnull)]
-    record_property(
-        'failed_samples',
-        failed[[s.name, s_ok.name, s.name + '_ok']])
+    if len(failed):
+        record_property(
+            'failed_samples', failed[[s.name, s_ok.name, s.name + '_ok']])
     msg = "Found %i invalid values for %s: %s" % (
         len(failed), s.name, textwrap.shorten(
             ', '.join(failed.index), 80, placeholder='...'))
@@ -259,9 +263,10 @@ def test_temperature(meta, okexcept, record_property):
     meta[s.name + '_ok'] = range_ok = s.str.split(',').apply(test_range)
 
     failed = meta[~(s_ok | (nvals_ok & range_ok))]
-    record_property(
-        'failed_samples',
-        failed[[s.name, s_ok.name, s.name + '_nvals', s.name + '_ok']])
+    if len(failed):
+        record_property(
+            'failed_samples',
+            failed[[s.name, s_ok.name, s.name + '_nvals', s.name + '_ok']])
     msg = "Found %i invalid values for %s: %s" % (
         len(failed), s.name, textwrap.shorten(
             ', '.join(failed.index), 80, placeholder='...'))
@@ -286,9 +291,10 @@ def test_precip(meta, okexcept, record_property):
     meta[s.name + '_ok'] = range_ok = s.str.split(',').apply(test_range)
 
     failed = meta[~(s_ok | (nvals_ok & range_ok))]
-    record_property(
-        'failed_samples',
-        failed[[s.name, s_ok.name, s.name + '_nvals', s.name + '_ok']])
+    if len(failed):
+        record_property(
+            'failed_samples',
+            failed[[s.name, s_ok.name, s.name + '_nvals', s.name + '_ok']])
     msg = "Found %i invalid values for %s: %s" % (
         len(failed), s.name, textwrap.shorten(
             ', '.join(failed.index), 80, placeholder='...'))
@@ -307,7 +313,8 @@ def test_orig_varnames(counts, record_property):
         ['samplename', 'original_varname'], keep=False)
 
     failed = counts[(~names) | duplicated]
-    record_property('failed_data', failed)
+    if len(failed):
+        record_property('failed_data', failed)
     msg = "Found %i invalid original varnames: %s" % (
         len(failed), textwrap.shorten(
             ', '.join(failed.samplename.unique()), 80, placeholder='...'))
@@ -328,7 +335,8 @@ def test_acc_varnames(counts, record_property):
               '\n - '.join(starmap('{}: {} --> {}'.format, rows.values)))
 
     failed = counts[~names]
-    record_property('failed_data', failed)
+    if len(failed):
+        record_property('failed_data', failed)
     msg = "Found %i invalid accepted varnames: %s" % (
         len(failed), textwrap.shorten(
             ', '.join(failed.samplename.unique()), 80, placeholder='...'))
@@ -337,7 +345,8 @@ def test_acc_varnames(counts, record_property):
 
 def test_counts(counts, record_property):
     failed = counts[counts['count'].isnull() | counts['count'] < 0]
-    record_property('failed_data', failed)
+    if len(failed):
+        record_property('failed_data', failed)
     msg = "Found %i rows with invalid count data: %s" % (
         len(failed), textwrap.shorten(
             ', '.join(failed.samplename.unique()), 80, placeholder='...'))
@@ -357,7 +366,8 @@ def test_groupid(counts, okexcept, record_property, groupids):
     counts['existing_groupid'] = exists = np.isin(counts.groupid, groupids)
 
     failed = counts[~(valid & (counts[s_ok.name] | exists))]
-    record_property('failed_data', failed)
+    if len(failed):
+        record_property('failed_data', failed)
     msg = "Found %i invalid groupids: %s" % (
         len(failed), textwrap.shorten(
             ', '.join(failed.samplename.unique()), 80, placeholder='...'))
@@ -369,7 +379,8 @@ def test_data_exists(meta, data_files, record_property):
     meta['data_exists'] = meta.data_file.apply(osp.exists)
 
     failed = meta[~meta.data_exists]
-    record_property('failed_samples', failed[['data_file', 'data_exists']])
+    if len(failed):
+        record_property('failed_samples', failed[['data_file', 'data_exists']])
     msg = "Missing %i datafiles: %s" % (
         len(failed), textwrap.shorten(
             ', '.join(failed.index), 80, placeholder='...'))
