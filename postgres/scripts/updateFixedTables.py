@@ -46,20 +46,4 @@ if 'SampleType' in to_update or 'all' in to_update:
     conn.commit()
 
 
-# ---
-if 'GroupID' in to_update or 'all' in to_update:
-    groupIDs = read_tsv(tables + "GroupID.tsv")
-    groupIDs.replace(np.nan, '', inplace=True)
-
-    for x in range(groupIDs.shape[0]):
-        cursor.execute(
-            "UPDATE groupID SET groupname = %s, higher_groupid = %s "
-            "WHERE groupID = %s" % (
-                is_null_str(groupIDs.iloc[x][1]),
-                is_null_str(groupIDs.iloc[x][2]),
-                is_null_str(groupIDs.iloc[x][0])))
-
-    conn.commit()
-
-
 conn.close()
