@@ -352,7 +352,7 @@ def pytest_sessionfinish(session):
             local_repo = Repo(osp.dirname(_meta_file))
             local_repo.index.add([target])
             local_repo.index.commit(
-                f"Extracted failures to {target} [skip ci]")
+                f"Extracted failures to failures/{extract_failed} [skip ci]")
 
 
 def pytest_addoption(parser):
