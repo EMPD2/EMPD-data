@@ -48,7 +48,10 @@ def skip_ci(request):
 def counts():
     import pandas as pd
     read_tsv = partial(pd.read_csv, sep='\t')
-    return pd.concat(list(map(read_tsv, _data_files())))
+    files = _data_files()
+    if not len(files):
+        pytest.skip("No sample data provided")
+    return pd.concat(list(map(read_tsv, files)))
 
 
 @pytest.fixture(scope='session')
@@ -102,6 +105,8 @@ def countries(meta_file):
 def nat_earth_countries(meta, countries):
     import pandas as pd
     import numpy as np
+    if not len(meta):
+        return pytest.skip("No samples provided")
     lat = meta.Latitude.astype(float).values
     lon = meta.Longitude.astype(float).values
     mask = ~(np.isnan(lat) | np.isnan(lon))

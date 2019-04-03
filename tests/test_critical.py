@@ -38,7 +38,8 @@ def test_data_columns(meta, data_files, record_property):
 
     failed = meta[~meta['valid']]
 
-    record_property('failed_samples', failed[['files', 'valid']])
+    if len(failed):
+        record_property('failed_samples', failed[['files', 'valid']])
 
     msg = "Found %i invalid data columns: %s" % (
         len(failed), textwrap.shorten(
