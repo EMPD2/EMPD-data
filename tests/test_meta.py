@@ -353,19 +353,14 @@ def test_counts(counts, record_property):
     assert not len(failed), msg
 
 
-def test_groupid(counts, okexcept, record_property, groupids):
+def test_groupid(counts, record_property, groupids):
     counts = counts.copy()
     counts['groupid'] = counts['groupid'].astype(str).fillna('')
-    s_ok = okexcept('GroupID')
-    counts = counts.merge(
-        s_ok.to_frame().reset_index().rename(columns={
-            'SampleName': 'samplename'}),
-        on='samplename', how='left')
 
     counts['valid_groupid'] = valid = counts.groupid.str.strip().astype(bool)
     counts['existing_groupid'] = exists = np.isin(counts.groupid, groupids)
 
-    failed = counts[~(valid & (counts[s_ok.name] | exists))]
+    failed = counts[~(valid & exists)]
     if len(failed):
         record_property('failed_data', failed)
     msg = "Found %i invalid groupids: %s" % (
