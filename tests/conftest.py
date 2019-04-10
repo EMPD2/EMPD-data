@@ -310,7 +310,8 @@ def pytest_sessionfinish(session):
                         '%s\n</details>') % (
                             key, '```\n%s\n```' % s if key == 'error' else s)
                     md += '\n' + details + '\n'
-                if 'failed_samples' in user_props or 'failed_data':
+                if ('failed_samples' in user_props or
+                    'failed_data' in user_props):
                     try:
                         df = user_props['failed_samples']
                         summary = '%i failed samples' % len(df)
