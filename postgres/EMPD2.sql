@@ -344,7 +344,7 @@ Bulgaria	Bulgaria
 Cape Verde	Cape Verde
 Croatia	Croatia
 Cyprus	Cyprus
-Czech Republic	Czech Republic
+Czech Republic	Czechia
 Denmark	Denmark
 Egypt	Egypt
 Eritrea	Eritrea
