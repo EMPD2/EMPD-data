@@ -27,7 +27,7 @@ def fix_trailing_spaces(full_meta, meta, meta_file, commit_fixes,
         except AttributeError:
             pass
         else:
-            meta[col] = meta[col].strip()
+            meta[col] = meta[col].str.strip()
     changed = (meta.fillna('') !=
                full_meta.loc[meta.index.values].fillna('')).any(axis=1)
     if changed.any():
@@ -54,7 +54,7 @@ def fix_newline_chars(full_meta, meta, meta_file, commit_fixes,
         except AttributeError:
             pass
         else:
-            meta[col] = meta[col].replace(
+            meta[col] = meta[col].str.replace(
                 '\n', ' ').str.replace('\r', ' ')
     changed = (meta.fillna('') !=
                full_meta.loc[meta.index.values].fillna('')).any(axis=1)
