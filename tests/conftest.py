@@ -62,9 +62,15 @@ def meta_file(request):
 
 
 @pytest.fixture(scope='session')
-def meta(meta_file):
+def full_meta(meta_file):
     """The meta data as pandas DataFrame"""
     return _meta(meta_file)
+
+
+@pytest.fixture(scope='session')
+def meta(full_meta, request):
+    return full_meta.loc[full_meta.reset_index().SampleName.str.contains(
+        request.config.getoption('--sample')).values, :].copy()
 
 
 @pytest.fixture(scope='session')
@@ -118,7 +124,9 @@ def nat_earth_countries(meta, countries):
     else:
         from latlon_utils import get_country_gpd
         countries = get_country_gpd(lat[mask], lon[mask])
-    return pd.Series(countries, index=meta.index[mask])
+    full_countries = np.zeros_like(mask, countries.dtype)
+    full_countries[mask] = countries
+    return pd.Series(full_countries, index=meta.index)
 
 
 @pytest.fixture(scope='session')
@@ -384,6 +392,10 @@ def pytest_addoption(parser):
         help=("Extract the meta data of failed samples into a separate file "
               "in the `failures` directory. Without argument, failed samples "
               "will be extracted to ``%(const)s``."))
+    group.addoption(
+        '--sample', metavar='SampleName', default='.*',
+        help=("Name of samples to test. If provided, only samples that match "
+              "the given pattern are tested."))
 
 
 def pytest_configure(config):
