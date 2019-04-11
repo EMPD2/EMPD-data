@@ -361,12 +361,19 @@ for x in range(METADATA.shape[0]):
                     METADATA.iloc[x][_worker + 'LastName'].strip(),
                     METADATA.iloc[x][_worker + 'FirstName'].strip()))
             workerID = cursor.fetchall()[0][0]
+            # test if the workerID is already registered
             cursor.execute(
-                "INSERT INTO metaworker (sampleName, workerID, workerRole) "
-                "VALUES (%s, %d, %s)" % (
-                    is_null_str(METADATA.iloc[x]['SampleName']), workerID,
-                    is_null_str(METADATA.iloc[x][_worker + 'Role'])))
-            conn.commit()
+                ("SELECT * FROM metaworker WHERE samplename=%s AND "
+                 "workerid=%s") % (is_null_str(METADATA.iloc[x]['SampleName']),
+                                  workerID))
+            res = cursor.fetchall()
+            if len(res) == 0:
+                cursor.execute(
+                    "INSERT INTO metaworker (sampleName, workerID, workerRole) "
+                    "VALUES (%s, %d, %s)" % (
+                        is_null_str(METADATA.iloc[x]['SampleName']), workerID,
+                        is_null_str(METADATA.iloc[x][_worker + 'Role'])))
+                conn.commit()
     for i in '1234':
         _pub = 'Publication' + i
         _doi = 'DOI' + i
@@ -377,11 +384,18 @@ for x in range(METADATA.shape[0]):
                     is_null_str(METADATA.iloc[x][_pub]),
                     clean_doi(METADATA.iloc[x][_doi])))
             publiID = cursor.fetchall()[0][0]
+            # test if the publiID is already registered
             cursor.execute(
-                "INSERT INTO metapubli (sampleName, publiID) VALUES "
-                "(%s, %d)" % (is_null_str(METADATA.iloc[x]['SampleName']),
-                              publiID))
-            conn.commit()
+                ("SELECT * FROM metapubli WHERE samplename=%s AND "
+                 "publiID=%s") % (is_null_str(METADATA.iloc[x]['SampleName']),
+                                  publiID))
+            res = cursor.fetchall()
+            if len(res) == 0:
+                cursor.execute(
+                    "INSERT INTO metapubli (sampleName, publiID) VALUES "
+                    "(%s, %d)" % (is_null_str(METADATA.iloc[x]['SampleName']),
+                                  publiID))
+                conn.commit()
 
 cursor.execute("SELECT MAX(var_) FROM p_vars")
 res = cursor.fetchall()
