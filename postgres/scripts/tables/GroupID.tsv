@@ -1,39 +1,39 @@
-groupid	groupname	higher_groupid
-ALGA	Algae	AQUA
-AQBR	Aquatic Bryophytes	NOPO
-AQPT	Aquatic Pteridophyta	AQUA
-AQUA	Aquatics	AQUA
-AQVP	Aquatic Vascular Plants	AQUA
-BRYO	Bryophytes	NOPO
-BRYO/VACR	TO BE REMOVED	TBR
-CHAR	Charcoal	CHAR
-CHLO	Chlorophytes	NOPO
-CYAN	Cyanobacteria	NOPO
-DINO	Dinoflagellates	NOPO
-DWAR	Dwarf shrubs	TRSH
-FUNG	Fungi	NOPO
-HELO	Helophytes	AQUA
-HERB	Herbs	HERB
-INUN	Indeterminables and unknowns	INUN
-INVE	Invertebrates	NOPO
-LIAN	Liana	TRSH
-MACR	Macrofossils	NOPO
-NOPO	Nonpollen	NOPO
-PLAT	Platyhelminthes (flatworms)	NOPO
-PREQ	Pre-Quaternary type	NOPO
-RHIZ	Rhizopods	NOPO
-ROTI	Rotifera (Rotifers)	NOPO
-SPOR	Taxonomically undifferentiated spores	INUN
-TEAM	Testate amoebae	NOPO
-TRSH	Trees and shrubs	TRSH
-UNPP	Undifferentiated NPP	INUN
-UPBR	Upland Bryophytes	NOPO
-UPHE	Upland herbs	HERB
-VACR	Vascular cryptogams (Pteridophytes)	NOPO
-VEMI	Vegetative microfossils	NOPO
-NEMA	Nematoda (roundworms)	NOPO
-ACRI	Acritarchs	NOPO
-EUMY	Eumycete	NOPO
-HEMI	Hemi-parasitic	NOPO
-MOSS	Moss	NOPO
-MICR	Microcrustaceans	NOPO
+groupid	groupname	higher_groupid	included_in_percent_sum	make_percent
+ALGA	Algae	AQUA	False	True
+AQBR	Aquatic Bryophytes	NOPO	False	True
+AQPT	Aquatic Pteridophyta	AQUA	False	True
+AQUA	Aquatics	AQUA	False	True
+AQVP	Aquatic Vascular Plants	AQUA	False	True
+BRYO	Bryophytes	NOPO	True	True
+BRYO/VACR	TO BE REMOVED	TBR	False	False
+CHAR	Charcoal	CHAR	False	False
+CHLO	Chlorophytes	NOPO	False	False
+CYAN	Cyanobacteria	NOPO	False	False
+DINO	Dinoflagellates	NOPO	False	False
+DWAR	Dwarf shrubs	TRSH	True	True
+FUNG	Fungi	NOPO	False	False
+HELO	Helophytes	AQUA	False	True
+HERB	Herbs	HERB	True	True
+INUN	Indeterminables and unknowns	INUN	False	False
+INVE	Invertebrates	NOPO	False	False
+LIAN	Liana	TRSH	True	True
+MACR	Macrofossils	NOPO	False	False
+NOPO	Nonpollen	NOPO	False	False
+PLAT	Platyhelminthes (flatworms)	NOPO	False	False
+PREQ	Pre-Quaternary type	NOPO	False	False
+RHIZ	Rhizopods	NOPO	False	False
+ROTI	Rotifera (Rotifers)	NOPO	False	False
+SPOR	Taxonomically undifferentiated spores	INUN	False	False
+TEAM	Testate amoebae	NOPO	False	False
+TRSH	Trees and shrubs	TRSH	True	True
+UNPP	Undifferentiated NPP	INUN	False	False
+UPBR	Upland Bryophytes	NOPO	True	True
+UPHE	Upland herbs	HERB	True	True
+VACR	Vascular cryptogams (Pteridophytes)	NOPO	True	True
+VEMI	Vegetative microfossils	NOPO	False	False
+NEMA	Nematoda (roundworms)	NOPO	False	False
+ACRI	Acritarchs	NOPO	False	False
+EUMY	Eumycete	NOPO	False	False
+HEMI	Hemi-parasitic	NOPO	False	False
+MOSS	Moss	NOPO	False	False
+MICR	Microcrustaceans	NOPO	False	False

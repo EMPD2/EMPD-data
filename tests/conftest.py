@@ -45,13 +45,12 @@ def skip_ci(request):
 
 
 @pytest.fixture
-def counts():
+def counts(data_files):
     import pandas as pd
     read_tsv = partial(pd.read_csv, sep='\t')
-    files = _data_files()
-    if not len(files):
+    if not len(data_files):
         pytest.skip("No sample data provided")
-    return pd.concat(list(map(read_tsv, files)))
+    return pd.concat(list(map(read_tsv, data_files)))
 
 
 @pytest.fixture(scope='session')
@@ -62,9 +61,15 @@ def meta_file(request):
 
 
 @pytest.fixture(scope='session')
-def meta(meta_file):
+def full_meta(meta_file):
     """The meta data as pandas DataFrame"""
     return _meta(meta_file)
+
+
+@pytest.fixture(scope='session')
+def meta(full_meta, request):
+    return full_meta.loc[full_meta.reset_index().SampleName.str.contains(
+        request.config.getoption('--sample')).values, :].copy()
 
 
 @pytest.fixture(scope='session')
@@ -118,7 +123,9 @@ def nat_earth_countries(meta, countries):
     else:
         from latlon_utils import get_country_gpd
         countries = get_country_gpd(lat[mask], lon[mask])
-    return pd.Series(countries, index=meta.index[mask])
+    full_countries = np.zeros_like(mask, countries.dtype)
+    full_countries[mask] = countries
+    return pd.Series(full_countries, index=meta.index)
 
 
 @pytest.fixture(scope='session')
@@ -161,6 +168,14 @@ def locationreliabilities(meta_file):
         osp.join(osp.dirname(meta_file), 'tab-delimited',
                  'locationreliabilities.tsv'),
         sep='\t').iloc[:, 0].values
+
+
+@pytest.fixture(scope='session')
+def groupids_table(meta_file):
+    import pandas as pd
+    return pd.read_csv(
+        osp.join(osp.dirname(meta_file), 'tab-delimited', 'groupid.tsv'),
+        sep='\t')
 
 
 @pytest.fixture(scope='session')
@@ -302,7 +317,8 @@ def pytest_sessionfinish(session):
                         '%s\n</details>') % (
                             key, '```\n%s\n```' % s if key == 'error' else s)
                     md += '\n' + details + '\n'
-                if 'failed_samples' in user_props or 'failed_data':
+                if ('failed_samples' in user_props or
+                    'failed_data' in user_props):
                     try:
                         df = user_props['failed_samples']
                         summary = '%i failed samples' % len(df)
@@ -384,6 +400,10 @@ def pytest_addoption(parser):
         help=("Extract the meta data of failed samples into a separate file "
               "in the `failures` directory. Without argument, failed samples "
               "will be extracted to ``%(const)s``."))
+    group.addoption(
+        '--sample', metavar='SampleName', default='.*',
+        help=("Name of samples to test. If provided, only samples that match "
+              "the given pattern are tested."))
 
 
 def pytest_configure(config):

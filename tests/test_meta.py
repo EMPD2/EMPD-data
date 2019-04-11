@@ -281,7 +281,7 @@ def test_precip(meta, okexcept, record_property):
         except Exception:
             return False
         else:
-            return ((precip > 0) & (precip < 10000)).all()
+            return ((precip >= 0) & (precip < 10000)).all()
 
     meta = meta.copy()
     s = meta.Precipitation.astype(str).fillna('')

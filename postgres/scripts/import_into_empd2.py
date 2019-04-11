@@ -46,18 +46,6 @@ def listdir_fullpath(d):
     return [os.path.join(d, f) for f in os.listdir(d)]
 
 
-# script for returning elevation from lat, long, based on open elevation data
-# which in turn is based on SRTM
-def get_elevation(lat, long):
-    query = ('https://api.open-elevation.com/api/v1/lookup'
-             f'?locations={lat},{long}')
-    # json object, various ways you can extract value
-    r = requests.get(query).json()
-    # one approach is to use pandas json functionality:
-    elevation = pd.io.json.json_normalize(r, 'results')['elevation'].values[0]
-    return elevation
-
-
 def clean_doi(doi):
     DOI = doi.replace('https://doi.org/', '')
     DOI = DOI.replace('http://dx.doi.org/', '')
@@ -79,7 +67,6 @@ WORKER_ID = (cursor.fetchall()[0][0] or 0) + 1
 
 err = 0
 list_of_errors = []
-missing_elevation = {}
 
 
 METADATA = pd.read_csv(meta, sep='\t')
@@ -104,13 +91,17 @@ for key, row in METADATA[METADATA.okexcept.astype(bool)].iterrows():
             if col in ['Country', 'SampleContext', 'SampleMethod',
                        'SampleType'] and notnull(row[col]):
                 okexcept[col].add(row[col])
-                row_okexcept.remove(col)
+                if col != 'Country':
+                    row_okexcept.remove(col)
         METADATA.loc[key, 'okexcept'] = ','.join(row_okexcept)
         orig_METADATA.loc[key, 'okexcept'] = ','.join(row_okexcept)
         save_orig = True
 
 if save_orig:
-    orig_METADATA.to_csv(meta, sep='\t', index=False, float_format='%1.8g')
+    try:
+        orig_METADATA.to_csv(meta, sep='\t', index=False, float_format='%1.8g')
+    except PermissionError:
+        pass
 
 table_map = {
     'Country': 'countries',
@@ -135,7 +126,10 @@ for col, vals in okexcept.items():
                 '({})'.format(', '.join(map(is_null_str, v)))
                 for v in new_vals)))
         conn.commit()
-        df.to_csv(fname, sep='\t', index=False)
+        try:
+            df.to_csv(fname, sep='\t', index=False)
+        except PermissionError:
+            pass
 
 
 METADATA.replace(np.nan, '', inplace=True)
@@ -261,28 +255,6 @@ for x in range(WORKERS.shape[0]):
 # ---
 for x in range(METADATA.shape[0]):
     to_update = METADATA.iloc[x]['SampleName'] in existing_samples
-    elevation = METADATA.iloc[x][6]
-    elev_notes = str(METADATA.iloc[x][8])
-    if elevation == '':
-        if elev_notes == '':
-            elev_notes = ('Elevation estimated from Google Earth from the '
-                          'coordinates.')
-        else:
-            elev_notes += ('; Elevation estimated from Google Earth from the '
-                           'coordinates')
-        if METADATA.iloc[x][0] in missing_elevation.keys():
-            elevation = missing_elevation[METADATA.iloc[x][0]]
-        else:
-            try:
-                print(METADATA.iloc[x]['SampleName'])
-                elevation = get_elevation(METADATA.iloc[x]['Latitude'],
-                                          METADATA.iloc[x]['Longitude'])
-                f_missing_elev = open("missing_elevation.csv", "a")
-                f_missing_elev.write(
-                    METADATA.iloc[x][0] + "," + str(elevation) + "\n")
-                f_missing_elev.close()
-            except Exception:
-                elevation = -9999
     try:
         if to_update:
             query = (
@@ -312,9 +284,9 @@ for x in range(METADATA.shape[0]):
             is_null_str(METADATA.iloc[x]['Country']),
             is_null_str(str(METADATA.iloc[x]['Longitude'])),
             is_null_str(str(METADATA.iloc[x]['Latitude'])),
-            is_null_str(str(elevation)),
+            is_null_str(str(METADATA.iloc[x]['Elevation'])),
             is_null_str(METADATA.iloc[x]['LocationReliability']),
-            is_null_str(elev_notes),
+            is_null_str(METADATA.iloc[x]['LocationNotes']),
             is_null_str(str(METADATA.iloc[x]['AreaOfSite'])),
             is_null_str(METADATA.iloc[x]['SampleContext'].lower()),
             is_null_str(METADATA.iloc[x]['SiteDescription']),
@@ -376,8 +348,9 @@ for x in range(METADATA.shape[0]):
     else:
         cursor.execute(
             "INSERT INTO climate VALUES (%s,%s,%s)" % (
-                is_null_str(METADATA.iloc[x]['SampleName']), temperature,
-                precip))
+                is_null_str(METADATA.iloc[x]['SampleName']),
+                temperature.replace('nan', 'NULL'),
+                precip.replace('nan', 'NULL')))
     conn.commit()
 
     for _worker in map('Worker{}_'.format, '1234'):
@@ -388,12 +361,19 @@ for x in range(METADATA.shape[0]):
                     METADATA.iloc[x][_worker + 'LastName'].strip(),
                     METADATA.iloc[x][_worker + 'FirstName'].strip()))
             workerID = cursor.fetchall()[0][0]
+            # test if the workerID is already registered
             cursor.execute(
-                "INSERT INTO metaworker (sampleName, workerID, workerRole) "
-                "VALUES (%s, %d, %s)" % (
-                    is_null_str(METADATA.iloc[x]['SampleName']), workerID,
-                    is_null_str(METADATA.iloc[x][_worker + 'Role'])))
-            conn.commit()
+                ("SELECT * FROM metaworker WHERE samplename=%s AND "
+                 "workerid=%s") % (is_null_str(METADATA.iloc[x]['SampleName']),
+                                  workerID))
+            res = cursor.fetchall()
+            if len(res) == 0:
+                cursor.execute(
+                    "INSERT INTO metaworker (sampleName, workerID, workerRole) "
+                    "VALUES (%s, %d, %s)" % (
+                        is_null_str(METADATA.iloc[x]['SampleName']), workerID,
+                        is_null_str(METADATA.iloc[x][_worker + 'Role'])))
+                conn.commit()
     for i in '1234':
         _pub = 'Publication' + i
         _doi = 'DOI' + i
@@ -404,17 +384,26 @@ for x in range(METADATA.shape[0]):
                     is_null_str(METADATA.iloc[x][_pub]),
                     clean_doi(METADATA.iloc[x][_doi])))
             publiID = cursor.fetchall()[0][0]
+            # test if the publiID is already registered
             cursor.execute(
-                "INSERT INTO metapubli (sampleName, publiID) VALUES "
-                "(%s, %d)" % (is_null_str(METADATA.iloc[x]['SampleName']),
-                              publiID))
-            conn.commit()
+                ("SELECT * FROM metapubli WHERE samplename=%s AND "
+                 "publiID=%s") % (is_null_str(METADATA.iloc[x]['SampleName']),
+                                  publiID))
+            res = cursor.fetchall()
+            if len(res) == 0:
+                cursor.execute(
+                    "INSERT INTO metapubli (sampleName, publiID) VALUES "
+                    "(%s, %d)" % (is_null_str(METADATA.iloc[x]['SampleName']),
+                                  publiID))
+                conn.commit()
 
 cursor.execute("SELECT MAX(var_) FROM p_vars")
 res = cursor.fetchall()
 TAXON_ID = (res[0][0] or 0) + 1
 
-for samplename in METADATA.SampleName:
+# TODO: Updating samples is not yet supported!
+for samplename in filter(lambda s: s not in existing_samples,
+                         METADATA.SampleName):
     COUNTS = pd.read_csv(os.path.join(samples_dir, samplename + '.tsv'),
                          sep='\t')
     for x, row in COUNTS.iterrows():
@@ -465,3 +454,6 @@ for samplename in METADATA.SampleName:
                             conn.commit()
             except Exception:
                 print(samplename, VAR_, "!" + str(row['count']) + "!")
+
+
+assert err == 0, '\n'.join(list_of_errors)
