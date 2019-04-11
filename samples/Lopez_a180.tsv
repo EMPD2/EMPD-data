@@ -1,28 +1,28 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Lopez_a180	4	1	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	516	0.19379845
-1	Lopez_a180	13	15	13	Fraxinus	Fraxinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	516	2.9069767
-2	Lopez_a180	452	13	452	Pinus pinaster	Pinus pinaster	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	516	2.5193798
-3	Lopez_a180	3862	1	3862	Pinus sylvestris/nigra-type	Pinus sylvestris/nigra-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	516	0.19379845
-4	Lopez_a180	3957	7	3957	Prunus/Rubus-type	Prunus/Rubus-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	516	1.3565891
-5	Lopez_a180	22	1	22	Quercus evergreen	Quercus ilex-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	516	0.19379845
-6	Lopez_a180	21	103	21	Quercus deciduous	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	516	19.96124
-7	Lopez_a180	3143	4	499	Asphodelus albus-type	Asphodelus albus-type	HERB	Herbs	HERB	True	True	Herbs	5	516	0.7751938
-8	Lopez_a180	608	23	41	Aster-type	Aster-type	HERB	Herbs	HERB	True	True	Herbs	5	516	4.4573643
-9	Lopez_a180	458	1	352	Cardueae	Asteraceae subf. Carduoideae	HERB	Herbs	HERB	True	True	Herbs	5	516	0.19379845
-10	Lopez_a180	460	11	53	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	516	2.1317829
-11	Lopez_a180	182	1	182	Boraginaceae	Boraginaceae	HERB	Herbs	HERB	True	True	Herbs	5	516	0.19379845
-12	Lopez_a180	494	21	42	Cruciferae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	516	4.0697674
-13	Lopez_a180	46	1	46	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	516	0.19379845
-14	Lopez_a180	780	1	52	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	516	0.19379845
-15	Lopez_a180	3436	129	3436	Cytisus/Genista-type	Cytisus/Genista-type	HERB	Herbs	HERB	True	True	Herbs	5	516	25
-16	Lopez_a180	3541	17	3541	Fumaria officinalis-type	Fumaria officinalis-type	HERB	Herbs	HERB	True	True	Herbs	5	516	3.2945736
-17	Lopez_a180	497	19	86	Labiatae	Lamiaceae	HERB	Herbs	HERB	True	True	Herbs	5	516	3.6821705
-18	Lopez_a180	3670	37	3670	Lavandula stoechas-type	Lavandula stoechas-type	HERB	Herbs	HERB	True	True	Herbs	5	516	7.1705426
-19	Lopez_a180	1085	4	87	Plantago lanceolata-type	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	516	0.7751938
-20	Lopez_a180	2928	92	106	Poaceae undifferentiated	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	516	17.829457
-21	Lopez_a180	156	11	156	Ranunculaceae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	516	2.1317829
-22	Lopez_a180	193	3	193	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	Herbs	HERB	True	True	Herbs	5	516	0.58139535
-23	Lopez_a180	3514	11	3514	Fabaceae undifferentiated	Fabaceae undifferentiated	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	516	
-24	Lopez_a180	3563	103	3563	Glomus cf. G. fasciculatum	Glomus cf. G. fasciculatum	FUNG	Fungi	NOPO	False	False	Nonpollen	30	516	
-25	Lopez_a180	4157	1	4157	Sordaria	Sordaria	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	516	
-26	Lopez_a180	688	1	569	Sporormiella	Sporormiella-type	FUNG	Fungi	NOPO	False	False	Nonpollen	30	516	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Lopez_a180	Alnus	Alnus	TRSH	1	0.19379845
+Lopez_a180	Fraxinus	Fraxinus	TRSH	15	2.9069767
+Lopez_a180	Pinus pinaster	Pinus pinaster	TRSH	13	2.5193798
+Lopez_a180	Pinus sylvestris/nigra-type	Pinus sylvestris/nigra-type	TRSH	1	0.19379845
+Lopez_a180	Prunus/Rubus-type	Prunus/Rubus-type	TRSH	7	1.3565891
+Lopez_a180	Quercus evergreen	Quercus ilex-type	TRSH	1	0.19379845
+Lopez_a180	Quercus deciduous	Quercus robur-type	TRSH	103	19.96124
+Lopez_a180	Asphodelus albus-type	Asphodelus albus-type	HERB	4	0.7751938
+Lopez_a180	Aster-type	Aster-type	HERB	23	4.4573643
+Lopez_a180	Cardueae	Asteraceae subf. Carduoideae	HERB	1	0.19379845
+Lopez_a180	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	11	2.1317829
+Lopez_a180	Boraginaceae	Boraginaceae	HERB	1	0.19379845
+Lopez_a180	Cruciferae	Brassicaceae	HERB	21	4.0697674
+Lopez_a180	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	1	0.19379845
+Lopez_a180	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.19379845
+Lopez_a180	Cytisus/Genista-type	Cytisus/Genista-type	HERB	129	25
+Lopez_a180	Fumaria officinalis-type	Fumaria officinalis-type	HERB	17	3.2945736
+Lopez_a180	Labiatae	Lamiaceae	HERB	19	3.6821705
+Lopez_a180	Lavandula stoechas-type	Lavandula stoechas-type	HERB	37	7.1705426
+Lopez_a180	Plantago lanceolata-type	Plantago lanceolata-type	HERB	4	0.7751938
+Lopez_a180	Poaceae undifferentiated	Poaceae	HERB	92	17.829457
+Lopez_a180	Ranunculaceae	Ranunculaceae	HERB	11	2.1317829
+Lopez_a180	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	3	0.58139535
+Lopez_a180	Fabaceae undifferentiated	Fabaceae undifferentiated	INUN	11	
+Lopez_a180	Glomus cf. G. fasciculatum	Glomus cf. G. fasciculatum	FUNG	103	
+Lopez_a180	Sordaria	Sordaria	NOPO	1	
+Lopez_a180	Sporormiella	Sporormiella-type	FUNG	1	

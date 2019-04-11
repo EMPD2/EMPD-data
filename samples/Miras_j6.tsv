@@ -1,27 +1,27 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Miras_j6	1	1	1	Abies	Abies	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	341	0.29325513
-1	Miras_j6	4	6	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	341	1.7595308
-2	Miras_j6	5	30	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	341	8.797654
-3	Miras_j6	3209	4	3209	Calluna	Calluna	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	341	1.1730205
-4	Miras_j6	7	1	7	Carpinus	Carpinus betulus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	341	0.29325513
-5	Miras_j6	454	2	47	Castanea	Castanea sativa	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	341	0.58651026
-6	Miras_j6	9	10	9	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	341	2.9325513
-7	Miras_j6	12	8	12	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	341	2.3460411
-8	Miras_j6	455	1	95	Olea	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	341	0.29325513
-9	Miras_j6	18	9	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	341	2.6392962
-10	Miras_j6	19	27	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	341	7.9178886
-11	Miras_j6	208	8	208	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	341	2.3460411
-12	Miras_j6	118	3	118	Rosaceae	Rosaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	341	0.8797654
-13	Miras_j6	36	3	36	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	341	0.8797654
-14	Miras_j6	460	1	53	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	341	0.29325513
-15	Miras_j6	46	2	46	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	341	0.58651026
-16	Miras_j6	50	12	50	Cerealia	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	341	3.5190616
-17	Miras_j6	69	3	69	Fabaceae	Fabaceae	HERB	Herbs	HERB	True	True	Herbs	5	341	0.8797654
-18	Miras_j6	3547	2	3547	Galium	Galium	HERB	Herbs	HERB	True	True	Herbs	5	341	0.58651026
-19	Miras_j6	735	3	286	Plantago	Plantago	HERB	Herbs	HERB	True	True	Herbs	5	341	0.8797654
-20	Miras_j6	87	6	87	Plantago lanceolata	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	341	1.7595308
-21	Miras_j6	106	194	106	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	341	56.891496
-22	Miras_j6	119	3	119	Rubiaceae	Rubiaceae	HERB	Herbs	HERB	True	True	Herbs	5	341	0.8797654
-23	Miras_j6	738	1	120	Rumex	Rumex/Oxyria	HERB	Herbs	HERB	True	True	Herbs	5	341	0.29325513
-24	Miras_j6	193	1	193	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	Herbs	HERB	True	True	Herbs	5	341	0.29325513
-25	Miras_j6	1108	1	197	Varia	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	341	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Miras_j6	Abies	Abies	TRSH	1	0.29325513
+Miras_j6	Alnus	Alnus	TRSH	6	1.7595308
+Miras_j6	Betula	Betula	TRSH	30	8.797654
+Miras_j6	Calluna	Calluna	DWAR	4	1.1730205
+Miras_j6	Carpinus	Carpinus betulus	TRSH	1	0.29325513
+Miras_j6	Castanea	Castanea sativa	TRSH	2	0.58651026
+Miras_j6	Corylus	Corylus	TRSH	10	2.9325513
+Miras_j6	Fagus	Fagus	TRSH	8	2.3460411
+Miras_j6	Olea	Olea europaea	TRSH	1	0.29325513
+Miras_j6	Picea	Picea	TRSH	9	2.6392962
+Miras_j6	Pinus	Pinus	TRSH	27	7.9178886
+Miras_j6	Quercus	Quercus	TRSH	8	2.3460411
+Miras_j6	Rosaceae	Rosaceae	TRSH	3	0.8797654
+Miras_j6	Apiaceae	Apiaceae	HERB	3	0.8797654
+Miras_j6	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	1	0.29325513
+Miras_j6	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	2	0.58651026
+Miras_j6	Cerealia	Cerealia-type	HERB	12	3.5190616
+Miras_j6	Fabaceae	Fabaceae	HERB	3	0.8797654
+Miras_j6	Galium	Galium	HERB	2	0.58651026
+Miras_j6	Plantago	Plantago	HERB	3	0.8797654
+Miras_j6	Plantago lanceolata	Plantago lanceolata-type	HERB	6	1.7595308
+Miras_j6	Poaceae	Poaceae	HERB	194	56.891496
+Miras_j6	Rubiaceae	Rubiaceae	HERB	3	0.8797654
+Miras_j6	Rumex	Rumex/Oxyria	HERB	1	0.29325513
+Miras_j6	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	1	0.29325513
+Miras_j6	Varia	Indeterminable: unknown	INUN	1	

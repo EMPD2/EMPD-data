@@ -1,25 +1,25 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Barboni_a1081	530	1	530	Acacia	Acacia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	379	0.26385224
-1	Barboni_a1081	1742	1	1742	Cistus salvifolius	Cistus salvifolius	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	379	0.26385224
-2	Barboni_a1081	66	14	66	Erica	Erica	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	379	3.6939314
-3	Barboni_a1081	95	14	95	Olea europaea	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	379	3.6939314
-4	Barboni_a1081	19	16	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	379	4.2216359
-5	Barboni_a1081	103	13	103	Pistacia	Pistacia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	379	3.4300792
-6	Barboni_a1081	208	4	208	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	379	1.055409
-7	Barboni_a1081	1062	19	22	Quercus ilex-type	Quercus ilex-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	379	5.0131926
-8	Barboni_a1081	146	1	146	Vitis	Vitis	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	379	0.26385224
-9	Barboni_a1081	601	1	36	Umbelliferae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	379	0.26385224
-10	Barboni_a1081	494	5	42	Cruciferae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	379	1.3192612
-11	Barboni_a1081	1075	1	50	Cerealia-type	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	379	0.26385224
-12	Barboni_a1081	3365	2	3365	Cistus populifolius-type	Cistus populifolius-type	HERB	Herbs	HERB	True	True	Herbs	5	379	0.52770449
-13	Barboni_a1081	3367	248	3367	Cistus undifferentiated	Cistus undifferentiated	HERB	Herbs	HERB	True	True	Herbs	5	379	65.435356
-14	Barboni_a1081	3381	13	3381	Compositae subfam. Asteroideae	Compositae subfam. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	379	3.4300792
-15	Barboni_a1081	3383	3	3383	Compositae subfam. Cichorioideae	Compositae subfam. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	379	0.79155673
-16	Barboni_a1081	3582	8	3582	Halimium	Halimium	HERB	Herbs	HERB	True	True	Herbs	5	379	2.1108179
-17	Barboni_a1081	755	1	755	Leguminosae	Leguminosae	HERB	Herbs	HERB	True	True	Herbs	5	379	0.26385224
-18	Barboni_a1081	1611	10	106	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	379	2.6385224
-19	Barboni_a1081	738	1	120	Rumex	Rumex/Oxyria	HERB	Herbs	HERB	True	True	Herbs	5	379	0.26385224
-20	Barboni_a1081	1706	1	1706	Adiantum	Adiantum capillus-veneris	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	379	0.26385224
-21	Barboni_a1081	1989	1	1989	Pteris	Pteris	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	379	0.26385224
-22	Barboni_a1081	679	1	679	Selaginella	Selaginella	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	379	0.26385224
-23	Barboni_a1081	564	2	382	Isoetes	Isoetes	AQPT	Aquatic Pteridophyta	AQUA	False	True	Aquatics	7	379	0.52770449
+samplename	original_varname	acc_varname	groupid	count	percentage
+Barboni_a1081	Acacia	Acacia	TRSH	1	0.26385224
+Barboni_a1081	Cistus salvifolius	Cistus salvifolius	TRSH	1	0.26385224
+Barboni_a1081	Erica	Erica	DWAR	14	3.6939314
+Barboni_a1081	Olea europaea	Olea europaea	TRSH	14	3.6939314
+Barboni_a1081	Pinus	Pinus	TRSH	16	4.2216359
+Barboni_a1081	Pistacia	Pistacia	TRSH	13	3.4300792
+Barboni_a1081	Quercus	Quercus	TRSH	4	1.055409
+Barboni_a1081	Quercus ilex-type	Quercus ilex-type	TRSH	19	5.0131926
+Barboni_a1081	Vitis	Vitis	TRSH	1	0.26385224
+Barboni_a1081	Umbelliferae	Apiaceae	HERB	1	0.26385224
+Barboni_a1081	Cruciferae	Brassicaceae	HERB	5	1.3192612
+Barboni_a1081	Cerealia-type	Cerealia-type	HERB	1	0.26385224
+Barboni_a1081	Cistus populifolius-type	Cistus populifolius-type	HERB	2	0.52770449
+Barboni_a1081	Cistus undifferentiated	Cistus undifferentiated	HERB	248	65.435356
+Barboni_a1081	Compositae subfam. Asteroideae	Compositae subfam. Asteroideae	HERB	13	3.4300792
+Barboni_a1081	Compositae subfam. Cichorioideae	Compositae subfam. Cichorioideae	HERB	3	0.79155673
+Barboni_a1081	Halimium	Halimium	HERB	8	2.1108179
+Barboni_a1081	Leguminosae	Leguminosae	HERB	1	0.26385224
+Barboni_a1081	Gramineae	Poaceae	HERB	10	2.6385224
+Barboni_a1081	Rumex	Rumex/Oxyria	HERB	1	0.26385224
+Barboni_a1081	Isoetes	Isoetes	AQPT	2	0.52770449
+Barboni_a1081	Adiantum	Adiantum capillus-veneris	VACR	1	0.26385224
+Barboni_a1081	Pteris	Pteris	VACR	1	0.26385224
+Barboni_a1081	Selaginella	Selaginella	VACR	1	0.26385224

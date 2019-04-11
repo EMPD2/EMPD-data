@@ -1,21 +1,21 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	EPDcoretop_E1268	1	2	1	Abies	Abies	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	145	1.3793103
-1	EPDcoretop_E1268	771	2	175	Alnus glutinosa	Alnus glutinosa-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	145	1.3793103
-2	EPDcoretop_E1268	5	3	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	145	2.0689655
-3	EPDcoretop_E1268	3209	15	3209	Calluna	Calluna	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	145	10.344828
-4	EPDcoretop_E1268	9	1	9	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	145	0.68965517
-5	EPDcoretop_E1268	15	1	15	Juglans	Juglans	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	145	0.68965517
-6	EPDcoretop_E1268	19	81	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	145	55.862069
-7	EPDcoretop_E1268	1062	1	22	Quercus ilex-type	Quercus ilex-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	145	0.68965517
-8	EPDcoretop_E1268	173	10	21	Quercus robur-type	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	145	6.8965517
-9	EPDcoretop_E1268	118	2	118	Rosaceae	Rosaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	145	1.3793103
-10	EPDcoretop_E1268	25	1	25	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	145	0.68965517
-11	EPDcoretop_E1268	52	1	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	145	0.68965517
-12	EPDcoretop_E1268	73	1	73	Filipendula	Filipendula	HERB	Herbs	HERB	True	True	Herbs	5	145	0.68965517
-13	EPDcoretop_E1268	3547	2	3547	Galium	Galium	HERB	Herbs	HERB	True	True	Herbs	5	145	1.3793103
-14	EPDcoretop_E1268	106	22	106	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	145	15.172414
-15	EPDcoretop_E1268	3757	25	3757	Mounted volume (0.001 ml)	Mounted volume (0.001 ml)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	145	
-16	EPDcoretop_E1268	3777	10	1904	Number of counted lines	Number of counted lines	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	145	
-17	EPDcoretop_E1268	4224	55	4224	Total number of lines	Total number of lines	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	145	
-18	EPDcoretop_E1268	4304	140	4304	Volume of residue (ml)	Volume of residue (ml)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	145	
-19	EPDcoretop_E1268	4308	16	1888	Weight	Weight	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	145	
+samplename	original_varname	acc_varname	groupid	count	percentage
+EPDcoretop_E1268	Abies	Abies	TRSH	2	1.3793103
+EPDcoretop_E1268	Alnus glutinosa	Alnus glutinosa-type	TRSH	2	1.3793103
+EPDcoretop_E1268	Betula	Betula	TRSH	3	2.0689655
+EPDcoretop_E1268	Calluna	Calluna	DWAR	15	10.344828
+EPDcoretop_E1268	Corylus	Corylus	TRSH	1	0.68965517
+EPDcoretop_E1268	Juglans	Juglans	TRSH	1	0.68965517
+EPDcoretop_E1268	Pinus	Pinus	TRSH	81	55.862069
+EPDcoretop_E1268	Quercus ilex-type	Quercus ilex-type	TRSH	1	0.68965517
+EPDcoretop_E1268	Quercus robur-type	Quercus robur-type	TRSH	10	6.8965517
+EPDcoretop_E1268	Rosaceae	Rosaceae	TRSH	2	1.3793103
+EPDcoretop_E1268	Salix	Salix	TRSH	1	0.68965517
+EPDcoretop_E1268	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.68965517
+EPDcoretop_E1268	Filipendula	Filipendula	HERB	1	0.68965517
+EPDcoretop_E1268	Galium	Galium	HERB	2	1.3793103
+EPDcoretop_E1268	Poaceae	Poaceae	HERB	22	15.172414
+EPDcoretop_E1268	Mounted volume (0.001 ml)	Mounted volume (0.001 ml)	NOPO	25	
+EPDcoretop_E1268	Number of counted lines	Number of counted lines	NOPO	10	
+EPDcoretop_E1268	Total number of lines	Total number of lines	NOPO	55	
+EPDcoretop_E1268	Volume of residue (ml)	Volume of residue (ml)	NOPO	140	
+EPDcoretop_E1268	Weight	Weight	NOPO	16	

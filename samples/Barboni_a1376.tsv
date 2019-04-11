@@ -1,19 +1,19 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Barboni_a1376	9	1	9	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	711	0.14064698
-1	Barboni_a1376	2128	2	11	Ericales	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	711	0.28129395
-2	Barboni_a1376	455	17	95	Olea	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	711	2.3909986
-3	Barboni_a1376	19	315	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	711	44.303797
-4	Barboni_a1376	107	2	107	Populus	Populus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	711	0.28129395
-5	Barboni_a1376	173	5	21	Quercus robur-type	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	711	0.70323488
-6	Barboni_a1376	494	12	42	Cruciferae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	711	1.6877637
-7	Barboni_a1376	46	1	46	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	711	0.14064698
-8	Barboni_a1376	2301	1	475	Centaurea cyanus-type	Centaurea cyanus-type	HERB	Herbs	HERB	True	True	Herbs	5	711	0.14064698
-9	Barboni_a1376	52	288	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	711	40.506329
-10	Barboni_a1376	61	6	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	711	0.84388186
-11	Barboni_a1376	755	3	755	Leguminosae	Leguminosae	HERB	Herbs	HERB	True	True	Herbs	5	711	0.42194093
-12	Barboni_a1376	1085	1	87	Plantago lanceolata-type	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	711	0.14064698
-13	Barboni_a1376	1611	53	106	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	711	7.4542897
-14	Barboni_a1376	2437	1	154	Solidago-type	Senecio-type	HERB	Herbs	HERB	True	True	Herbs	5	711	0.14064698
-15	Barboni_a1376	3752	3	3752	Monolete spore(s) undifferentiated	Monolete spore(s) undifferentiated	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	711	0.42194093
-16	Barboni_a1376	3628	13	1934	Indeterminable: crumpled	Indeterminable: crumpled	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	711	
-17	Barboni_a1376	980	7	197	Unknown	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	711	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Barboni_a1376	Corylus	Corylus	TRSH	1	0.14064698
+Barboni_a1376	Ericales	Ericales (tetrad)	DWAR	2	0.28129395
+Barboni_a1376	Olea	Olea europaea	TRSH	17	2.3909986
+Barboni_a1376	Pinus	Pinus	TRSH	315	44.303797
+Barboni_a1376	Populus	Populus	TRSH	2	0.28129395
+Barboni_a1376	Quercus robur-type	Quercus robur-type	TRSH	5	0.70323488
+Barboni_a1376	Cruciferae	Brassicaceae	HERB	12	1.6877637
+Barboni_a1376	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	1	0.14064698
+Barboni_a1376	Centaurea cyanus-type	Centaurea cyanus-type	HERB	1	0.14064698
+Barboni_a1376	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	288	40.506329
+Barboni_a1376	Cyperaceae	Cyperaceae	HERB	6	0.84388186
+Barboni_a1376	Leguminosae	Leguminosae	HERB	3	0.42194093
+Barboni_a1376	Plantago lanceolata-type	Plantago lanceolata-type	HERB	1	0.14064698
+Barboni_a1376	Gramineae	Poaceae	HERB	53	7.4542897
+Barboni_a1376	Solidago-type	Senecio-type	HERB	1	0.14064698
+Barboni_a1376	Indeterminable: crumpled	Indeterminable: crumpled	INUN	13	
+Barboni_a1376	Unknown	Indeterminable: unknown	INUN	7	
+Barboni_a1376	Monolete spore(s) undifferentiated	Monolete spore(s) undifferentiated	VACR	3	0.42194093

@@ -1,31 +1,31 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	EPDcoretop_E669	1	4	1	Abies	Abies	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	993	0.40281974
-1	EPDcoretop_E669	4	39	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	993	3.9274924
-2	EPDcoretop_E669	5	49	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	993	4.9345418
-3	EPDcoretop_E669	1373	14	149	Betula nana	Betula nana-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	993	1.4098691
-4	EPDcoretop_E669	59	3	9	Corylus avellana	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	993	0.3021148
-5	EPDcoretop_E669	11	11	11	Ericaceae	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	993	1.1077543
-6	EPDcoretop_E669	12	5	12	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	993	0.50352467
-7	EPDcoretop_E669	16	2	16	Larix	Larix/Pseudotsuga	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	993	0.20140987
-8	EPDcoretop_E669	18	548	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	993	55.186304
-9	EPDcoretop_E669	19	230	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	993	23.162135
-10	EPDcoretop_E669	584	13	147	Pinus cembra	Pinus cembra-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	993	1.3091641
-11	EPDcoretop_E669	208	3	208	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	993	0.3021148
-12	EPDcoretop_E669	118	2	118	Rosaceae	Rosaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	993	0.20140987
-13	EPDcoretop_E669	29	1	29	Tilia	Tilia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	993	0.10070493
-14	EPDcoretop_E669	31	1	31	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	993	0.10070493
-15	EPDcoretop_E669	37	3	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	993	0.3021148
-16	EPDcoretop_E669	494	2	42	Cruciferae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	993	0.20140987
-17	EPDcoretop_E669	50	2	50	Cerealia	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	993	0.20140987
-18	EPDcoretop_E669	3381	3	3381	Compositae subfam. Asteroideae	Compositae subfam. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	993	0.3021148
-19	EPDcoretop_E669	61	21	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	993	2.1148036
-20	EPDcoretop_E669	73	1	73	Filipendula	Filipendula	HERB	Herbs	HERB	True	True	Herbs	5	993	0.10070493
-21	EPDcoretop_E669	1085	2	87	Plantago lanceolata-type	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	993	0.20140987
-22	EPDcoretop_E669	1611	27	106	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	993	2.7190332
-23	EPDcoretop_E669	636	1	636	Polygonum bistorta	Polygonum bistorta	HERB	Herbs	HERB	True	True	Herbs	5	993	0.10070493
-24	EPDcoretop_E669	2438	2	290	Ranunculus-type	Ranunculus-type	HERB	Herbs	HERB	True	True	Herbs	5	993	0.20140987
-25	EPDcoretop_E669	645	2	121	Rumex acetosa-type	Rumex acetosa-type	HERB	Herbs	HERB	True	True	Herbs	5	993	0.20140987
-26	EPDcoretop_E669	1257	2	783	Dryopteris-type	Dryopteris-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	993	0.20140987
-27	EPDcoretop_E669	3061	38000	3061	Added exote (grains/ml)	Added exote (grains/ml)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	993	
-28	EPDcoretop_E669	3415	1097	3415	Counted exote	Counted exote	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	993	
-29	EPDcoretop_E669	165	25	165	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	993	
+samplename	original_varname	acc_varname	groupid	count	percentage
+EPDcoretop_E669	Abies	Abies	TRSH	4	0.40281974
+EPDcoretop_E669	Alnus	Alnus	TRSH	39	3.9274924
+EPDcoretop_E669	Betula	Betula	TRSH	49	4.9345418
+EPDcoretop_E669	Betula nana	Betula nana-type	DWAR	14	1.4098691
+EPDcoretop_E669	Corylus avellana	Corylus	TRSH	3	0.3021148
+EPDcoretop_E669	Ericaceae	Ericales (tetrad)	DWAR	11	1.1077543
+EPDcoretop_E669	Fagus	Fagus	TRSH	5	0.50352467
+EPDcoretop_E669	Larix	Larix/Pseudotsuga	TRSH	2	0.20140987
+EPDcoretop_E669	Picea	Picea	TRSH	548	55.186304
+EPDcoretop_E669	Pinus	Pinus	TRSH	230	23.162135
+EPDcoretop_E669	Pinus cembra	Pinus cembra-type	TRSH	13	1.3091641
+EPDcoretop_E669	Quercus	Quercus	TRSH	3	0.3021148
+EPDcoretop_E669	Rosaceae	Rosaceae	TRSH	2	0.20140987
+EPDcoretop_E669	Tilia	Tilia	TRSH	1	0.10070493
+EPDcoretop_E669	Ulmus	Ulmus/Zelkova	TRSH	1	0.10070493
+EPDcoretop_E669	Artemisia	Artemisia	HERB	3	0.3021148
+EPDcoretop_E669	Cruciferae	Brassicaceae	HERB	2	0.20140987
+EPDcoretop_E669	Cerealia	Cerealia-type	HERB	2	0.20140987
+EPDcoretop_E669	Compositae subfam. Asteroideae	Compositae subfam. Asteroideae	HERB	3	0.3021148
+EPDcoretop_E669	Cyperaceae	Cyperaceae	HERB	21	2.1148036
+EPDcoretop_E669	Filipendula	Filipendula	HERB	1	0.10070493
+EPDcoretop_E669	Plantago lanceolata-type	Plantago lanceolata-type	HERB	2	0.20140987
+EPDcoretop_E669	Gramineae	Poaceae	HERB	27	2.7190332
+EPDcoretop_E669	Polygonum bistorta	Polygonum bistorta	HERB	1	0.10070493
+EPDcoretop_E669	Ranunculus-type	Ranunculus-type	HERB	2	0.20140987
+EPDcoretop_E669	Rumex acetosa-type	Rumex acetosa-type	HERB	2	0.20140987
+EPDcoretop_E669	Added exote (grains/ml)	Added exote (grains/ml)	NOPO	38000	
+EPDcoretop_E669	Counted exote	Counted exote	NOPO	1097	
+EPDcoretop_E669	Dryopteris-type	Dryopteris-type	VACR	2	0.20140987
+EPDcoretop_E669	Sphagnum	Sphagnum	NOPO	25	

@@ -1,16 +1,16 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Leroy_c4	4	427	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	487	87.679671
-1	Leroy_c4	7	4	7	Carpinus	Carpinus betulus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	487	0.82135524
-2	Leroy_c4	210	1	210	Parrotia persica	Parrotia persica	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	487	0.20533881
-3	Leroy_c4	19	1	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	487	0.20533881
-4	Leroy_c4	208	1	208	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	487	0.20533881
-5	Leroy_c4	2409	1	31	Ulmus/Zelkova	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	487	0.20533881
-6	Leroy_c4	3086	2	3086	Amaranthaceae/Chenopodiaceae	Amaranthaceae/Chenopodiaceae	HERB	Herbs	HERB	True	True	Herbs	5	487	0.41067762
-7	Leroy_c4	37	5	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	487	1.026694
-8	Leroy_c4	61	1	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	487	0.20533881
-9	Leroy_c4	106	3	106	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	487	0.61601643
-10	Leroy_c4	747	1	747	Urticaceae/Moraceae	Urticaceae/Moraceae	HERB	Herbs	HERB	True	True	Herbs	5	487	0.20533881
-11	Leroy_c4	1930	36	167	Monolete psilate	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	487	7.3921971
-12	Leroy_c4	4209	4	4209	Thelypteris palustris-type	Thelypteris palustris-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	487	0.82135524
-13	Leroy_c4	819	1	745	Typha/Sparganium	Typha/Sparganium	AQUA	Aquatics	AQUA	False	True	Aquatics	7	487	0.20533881
-14	Leroy_c4	3631	1	197	Indeterminable: unknown	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	487	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Leroy_c4	Alnus	Alnus	TRSH	427	87.679671
+Leroy_c4	Carpinus	Carpinus betulus	TRSH	4	0.82135524
+Leroy_c4	Parrotia persica	Parrotia persica	TRSH	1	0.20533881
+Leroy_c4	Pinus	Pinus	TRSH	1	0.20533881
+Leroy_c4	Quercus	Quercus	TRSH	1	0.20533881
+Leroy_c4	Ulmus/Zelkova	Ulmus/Zelkova	TRSH	1	0.20533881
+Leroy_c4	Amaranthaceae/Chenopodiaceae	Amaranthaceae/Chenopodiaceae	HERB	2	0.41067762
+Leroy_c4	Artemisia	Artemisia	HERB	5	1.026694
+Leroy_c4	Cyperaceae	Cyperaceae	HERB	1	0.20533881
+Leroy_c4	Poaceae	Poaceae	HERB	3	0.61601643
+Leroy_c4	Urticaceae/Moraceae	Urticaceae/Moraceae	HERB	1	0.20533881
+Leroy_c4	Typha/Sparganium	Typha/Sparganium	AQUA	1	0.20533881
+Leroy_c4	Indeterminable: unknown	Indeterminable: unknown	INUN	1	
+Leroy_c4	Monolete psilate	Monolete fern spores	VACR	36	7.3921971
+Leroy_c4	Thelypteris palustris-type	Thelypteris palustris-type	VACR	4	0.82135524

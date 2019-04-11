@@ -1,27 +1,27 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Barboni_a477	2130	1	5	Betula-type	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	853	0.11723329
-1	Barboni_a477	454	1	47	Castanea	Castanea sativa	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	853	0.11723329
-2	Barboni_a477	2062	3	2062	Coriaria	Coriaria myrtifolia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	853	0.35169988
-3	Barboni_a477	3495	9	3495	Erica undifferentiated	Erica undifferentiated	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	853	1.0550996
-4	Barboni_a477	12	14	12	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	853	1.6412661
-5	Barboni_a477	14	4	14	Ilex	Ilex	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	853	0.46893318
-6	Barboni_a477	749	6	28	Juniperus-type	Juniperus-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	853	0.70339977
-7	Barboni_a477	3783	7	3783	Olea-type	Olea-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	853	0.82063306
-8	Barboni_a477	3784	3	3784	Olea/Ligustrum	Olea/Ligustrum	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	853	0.35169988
-9	Barboni_a477	3837	3	3837	Phillyrea-type	Phillyrea-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	853	0.35169988
-10	Barboni_a477	3863	676	3863	Pinus-type	Pinus-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	853	79.249707
-11	Barboni_a477	22	23	22	Quercus evergreen	Quercus ilex-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	853	2.6963658
-12	Barboni_a477	21	6	21	Quercus deciduous	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	853	0.70339977
-13	Barboni_a477	25	1	25	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	853	0.11723329
-14	Barboni_a477	2964	1	36	Apiaceae undifferentiated	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	853	0.11723329
-15	Barboni_a477	3136	4	3136	Artemisia-type	Artemisia-type	HERB	Herbs	HERB	True	True	Herbs	5	853	0.46893318
-16	Barboni_a477	3196	2	3196	Brassicaceae undifferentiated	Brassicaceae undifferentiated	HERB	Herbs	HERB	True	True	Herbs	5	853	0.23446659
-17	Barboni_a477	3237	4	3237	Caryophyllaceae undifferentiated	Caryophyllaceae undifferentiated	HERB	Herbs	HERB	True	True	Herbs	5	853	0.46893318
-18	Barboni_a477	3348	7	3348	Chenopodiaceae undifferentiated	Chenopodiaceae undifferentiated	HERB	Herbs	HERB	True	True	Herbs	5	853	0.82063306
-19	Barboni_a477	600	4	34	Anthemis-type	Matricaria-type	HERB	Herbs	HERB	True	True	Herbs	5	853	0.46893318
-20	Barboni_a477	3886	4	3886	Plantago-type	Plantago-type	HERB	Herbs	HERB	True	True	Herbs	5	853	0.46893318
-21	Barboni_a477	106	44	106	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	853	5.1582649
-22	Barboni_a477	3925	1	3925	Polygonum-type	Polygonum-type	HERB	Herbs	HERB	True	True	Herbs	5	853	0.11723329
-23	Barboni_a477	4039	3	4039	Rosaceae herb	Rosaceae herb	HERB	Herbs	HERB	True	True	Herbs	5	853	0.35169988
-24	Barboni_a477	4076	22	4076	Rumex-type	Rumex-type	HERB	Herbs	HERB	True	True	Herbs	5	853	2.5791325
-25	Barboni_a477	3431	1	3431	Cyperaceae undifferentiated	Cyperaceae undifferentiated	AQUA	Aquatics	AQUA	False	True	Aquatics	7	853	0.11723329
+samplename	original_varname	acc_varname	groupid	count	percentage
+Barboni_a477	Betula-type	Betula	TRSH	1	0.11723329
+Barboni_a477	Castanea	Castanea sativa	TRSH	1	0.11723329
+Barboni_a477	Coriaria	Coriaria myrtifolia	TRSH	3	0.35169988
+Barboni_a477	Erica undifferentiated	Erica undifferentiated	DWAR	9	1.0550996
+Barboni_a477	Fagus	Fagus	TRSH	14	1.6412661
+Barboni_a477	Ilex	Ilex	TRSH	4	0.46893318
+Barboni_a477	Juniperus-type	Juniperus-type	TRSH	6	0.70339977
+Barboni_a477	Olea-type	Olea-type	TRSH	7	0.82063306
+Barboni_a477	Olea/Ligustrum	Olea/Ligustrum	TRSH	3	0.35169988
+Barboni_a477	Phillyrea-type	Phillyrea-type	TRSH	3	0.35169988
+Barboni_a477	Pinus-type	Pinus-type	TRSH	676	79.249707
+Barboni_a477	Quercus evergreen	Quercus ilex-type	TRSH	23	2.6963658
+Barboni_a477	Quercus deciduous	Quercus robur-type	TRSH	6	0.70339977
+Barboni_a477	Salix	Salix	TRSH	1	0.11723329
+Barboni_a477	Apiaceae undifferentiated	Apiaceae	HERB	1	0.11723329
+Barboni_a477	Artemisia-type	Artemisia-type	HERB	4	0.46893318
+Barboni_a477	Brassicaceae undifferentiated	Brassicaceae undifferentiated	HERB	2	0.23446659
+Barboni_a477	Caryophyllaceae undifferentiated	Caryophyllaceae undifferentiated	HERB	4	0.46893318
+Barboni_a477	Chenopodiaceae undifferentiated	Chenopodiaceae undifferentiated	HERB	7	0.82063306
+Barboni_a477	Anthemis-type	Matricaria-type	HERB	4	0.46893318
+Barboni_a477	Plantago-type	Plantago-type	HERB	4	0.46893318
+Barboni_a477	Poaceae	Poaceae	HERB	44	5.1582649
+Barboni_a477	Polygonum-type	Polygonum-type	HERB	1	0.11723329
+Barboni_a477	Rosaceae herb	Rosaceae herb	HERB	3	0.35169988
+Barboni_a477	Rumex-type	Rumex-type	HERB	22	2.5791325
+Barboni_a477	Cyperaceae undifferentiated	Cyperaceae undifferentiated	AQUA	1	0.11723329

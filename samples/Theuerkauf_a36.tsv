@@ -1,31 +1,31 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Theuerkauf_a36	4	79	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	567	13.932981
-1	Theuerkauf_a36	2123	113	150	Betula pubescens-type	Betula pubescens-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	567	19.929453
-2	Theuerkauf_a36	9	5	9	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	567	0.88183422
-3	Theuerkauf_a36	12	13	12	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	567	2.292769
-4	Theuerkauf_a36	13	4	13	Fraxinus	Fraxinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	567	0.70546737
-5	Theuerkauf_a36	18	1	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	567	0.17636684
-6	Theuerkauf_a36	796	107	148	Pinus diploxylon	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	567	18.871252
-7	Theuerkauf_a36	208	27	208	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	567	4.7619048
-8	Theuerkauf_a36	25	5	25	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	567	0.88183422
-9	Theuerkauf_a36	29	2	29	Tilia	Tilia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	567	0.35273369
-10	Theuerkauf_a36	31	3	31	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	567	0.52910053
-11	Theuerkauf_a36	601	3	36	Umbelliferae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	567	0.52910053
-12	Theuerkauf_a36	37	15	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	567	2.6455026
-13	Theuerkauf_a36	608	2	41	Aster-type	Aster-type	HERB	Herbs	HERB	True	True	Herbs	5	567	0.35273369
-14	Theuerkauf_a36	3164	4	3164	Avena/Triticum-group	Avena/Triticum-group	HERB	Herbs	HERB	True	True	Herbs	5	567	0.70546737
-15	Theuerkauf_a36	129	14	50	Secale	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	567	2.4691358
-16	Theuerkauf_a36	52	8	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	567	1.4109347
-17	Theuerkauf_a36	61	5	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	567	0.88183422
-18	Theuerkauf_a36	3547	2	3547	Galium	Galium	HERB	Herbs	HERB	True	True	Herbs	5	567	0.35273369
-19	Theuerkauf_a36	1582	8	274	Hordeum	Hordeum-type	HERB	Herbs	HERB	True	True	Herbs	5	567	1.4109347
-20	Theuerkauf_a36	87	5	87	Plantago lanceolata	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	567	0.88183422
-21	Theuerkauf_a36	1611	109	106	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	567	19.223986
-22	Theuerkauf_a36	645	6	121	Rumex acetosa-type	Rumex acetosa-type	HERB	Herbs	HERB	True	True	Herbs	5	567	1.0582011
-23	Theuerkauf_a36	4061	11	4061	Rumex acetosa/R. acetosella	Rumex acetosa/R. acetosella	HERB	Herbs	HERB	True	True	Herbs	5	567	1.9400353
-24	Theuerkauf_a36	122	5	122	Rumex acetosella	Rumex acetosella	HERB	Herbs	HERB	True	True	Herbs	5	567	0.88183422
-25	Theuerkauf_a36	1413	11	262	Sinapis-type	Sinapis-type	HERB	Herbs	HERB	True	True	Herbs	5	567	1.9400353
-26	Theuerkauf_a36	1289	1	271	Sparganium emersum-type	Sparganium emersum-type	HELO	Helophytes	AQUA	False	True	Aquatics	7	567	0.17636684
-27	Theuerkauf_a36	4162	1	4162	Sparganium erectum-type	Sparganium erectum-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	567	0.17636684
-28	Theuerkauf_a36	1244	1	925	Typha latifolia-type	Typha latifolia-type	HELO	Helophytes	AQUA	False	True	Aquatics	7	567	0.17636684
-29	Theuerkauf_a36	3631	17	197	Indeterminable: unknown	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	567	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Theuerkauf_a36	Alnus	Alnus	TRSH	79	13.932981
+Theuerkauf_a36	Betula pubescens-type	Betula pubescens-type	TRSH	113	19.929453
+Theuerkauf_a36	Corylus	Corylus	TRSH	5	0.88183422
+Theuerkauf_a36	Fagus	Fagus	TRSH	13	2.292769
+Theuerkauf_a36	Fraxinus	Fraxinus	TRSH	4	0.70546737
+Theuerkauf_a36	Picea	Picea	TRSH	1	0.17636684
+Theuerkauf_a36	Pinus diploxylon	Pinus sylvestris-type	TRSH	107	18.871252
+Theuerkauf_a36	Quercus	Quercus	TRSH	27	4.7619048
+Theuerkauf_a36	Salix	Salix	TRSH	5	0.88183422
+Theuerkauf_a36	Tilia	Tilia	TRSH	2	0.35273369
+Theuerkauf_a36	Ulmus	Ulmus/Zelkova	TRSH	3	0.52910053
+Theuerkauf_a36	Umbelliferae	Apiaceae	HERB	3	0.52910053
+Theuerkauf_a36	Artemisia	Artemisia	HERB	15	2.6455026
+Theuerkauf_a36	Aster-type	Aster-type	HERB	2	0.35273369
+Theuerkauf_a36	Avena/Triticum-group	Avena/Triticum-group	HERB	4	0.70546737
+Theuerkauf_a36	Secale	Cerealia-type	HERB	14	2.4691358
+Theuerkauf_a36	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	8	1.4109347
+Theuerkauf_a36	Cyperaceae	Cyperaceae	HERB	5	0.88183422
+Theuerkauf_a36	Galium	Galium	HERB	2	0.35273369
+Theuerkauf_a36	Hordeum	Hordeum-type	HERB	8	1.4109347
+Theuerkauf_a36	Plantago lanceolata	Plantago lanceolata-type	HERB	5	0.88183422
+Theuerkauf_a36	Gramineae	Poaceae	HERB	109	19.223986
+Theuerkauf_a36	Rumex acetosa-type	Rumex acetosa-type	HERB	6	1.0582011
+Theuerkauf_a36	Rumex acetosa/R. acetosella	Rumex acetosa/R. acetosella	HERB	11	1.9400353
+Theuerkauf_a36	Rumex acetosella	Rumex acetosella	HERB	5	0.88183422
+Theuerkauf_a36	Sinapis-type	Sinapis-type	HERB	11	1.9400353
+Theuerkauf_a36	Sparganium emersum-type	Sparganium emersum-type	HELO	1	0.17636684
+Theuerkauf_a36	Sparganium erectum-type	Sparganium erectum-type	AQUA	1	0.17636684
+Theuerkauf_a36	Typha latifolia-type	Typha latifolia-type	HELO	1	0.17636684
+Theuerkauf_a36	Indeterminable: unknown	Indeterminable: unknown	INUN	17	

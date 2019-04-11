@@ -1,31 +1,31 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Barboni_a672	4	1	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	477	0.20964361
-1	Barboni_a672	15	2	15	Juglans	Juglans	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	477	0.41928721
-2	Barboni_a672	85	12	85	Juniperus	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	477	2.5157233
-3	Barboni_a672	455	45	95	Olea	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	477	9.4339623
-4	Barboni_a672	101	1	101	Phillyrea	Phillyrea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	477	0.20964361
-5	Barboni_a672	19	12	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	477	2.5157233
-6	Barboni_a672	103	6	103	Pistacia	Pistacia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	477	1.2578616
-7	Barboni_a672	3990	88	3990	Quercus undifferentiated	Quercus undifferentiated	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	477	18.448637
-8	Barboni_a672	2556	1	36	Bupleurum-type	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	477	0.20964361
-9	Barboni_a672	1448	2	40	Astragalus-type	Astragalus-type	HERB	Herbs	HERB	True	True	Herbs	5	477	0.41928721
-10	Barboni_a672	1075	6	50	Cerealia-type	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	477	1.2578616
-11	Barboni_a672	52	4	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	477	0.83857442
-12	Barboni_a672	54	7	54	Cistaceae	Cistaceae	HERB	Herbs	HERB	True	True	Herbs	5	477	1.4675052
-13	Barboni_a672	3381	3	3381	Compositae subfam. Asteroideae	Compositae subfam. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	477	0.62893082
-14	Barboni_a672	3383	3	3383	Compositae subfam. Cichorioideae	Compositae subfam. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	477	0.62893082
-15	Barboni_a672	1154	1	221	Humulus/Cannabis	Humulus/Cannabis	HERB	Herbs	HERB	True	True	Herbs	5	477	0.20964361
-16	Barboni_a672	1300	1	1300	Vicia-type	Lathyrus/Vicia-type	HERB	Herbs	HERB	True	True	Herbs	5	477	0.20964361
-17	Barboni_a672	755	4	755	Leguminosae	Leguminosae	HERB	Herbs	HERB	True	True	Herbs	5	477	0.83857442
-18	Barboni_a672	622	15	622	Lotus-type	Lotus-type	HERB	Herbs	HERB	True	True	Herbs	5	477	3.1446541
-19	Barboni_a672	1082	1	34	Matricaria-type	Matricaria-type	HERB	Herbs	HERB	True	True	Herbs	5	477	0.20964361
-20	Barboni_a672	1085	2	87	Plantago lanceolata-type	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	477	0.41928721
-21	Barboni_a672	1611	27	106	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	477	5.6603774
-22	Barboni_a672	160	21	160	Polemonium	Polemonium	HERB	Herbs	HERB	True	True	Herbs	5	477	4.4025157
-23	Barboni_a672	126	204	126	Sanguisorba minor	Sanguisorba minor-type	HERB	Herbs	HERB	True	True	Herbs	5	477	42.767296
-24	Barboni_a672	4103	1	4103	Sanicula-type	Sanicula-type	HERB	Herbs	HERB	True	True	Herbs	5	477	0.20964361
-25	Barboni_a672	4208	5	138	Theligonum cynocrambe	Theligonum cynocrambe	HERB	Herbs	HERB	True	True	Herbs	5	477	1.048218
-26	Barboni_a672	4219	1	4219	Thymus/Mentha	Thymus/Mentha	HERB	Herbs	HERB	True	True	Herbs	5	477	0.20964361
-27	Barboni_a672	1257	1	783	Dryopteris-type	Dryopteris-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	477	0.20964361
-28	Barboni_a672	1096	1	196	Sparganium-type	Sparganium-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	477	0.20964361
-29	Barboni_a672	3631	15	197	Indeterminable: unknown	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	477	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Barboni_a672	Alnus	Alnus	TRSH	1	0.20964361
+Barboni_a672	Juglans	Juglans	TRSH	2	0.41928721
+Barboni_a672	Juniperus	Juniperus communis-type	TRSH	12	2.5157233
+Barboni_a672	Olea	Olea europaea	TRSH	45	9.4339623
+Barboni_a672	Phillyrea	Phillyrea	TRSH	1	0.20964361
+Barboni_a672	Pinus	Pinus	TRSH	12	2.5157233
+Barboni_a672	Pistacia	Pistacia	TRSH	6	1.2578616
+Barboni_a672	Quercus undifferentiated	Quercus undifferentiated	TRSH	88	18.448637
+Barboni_a672	Bupleurum-type	Apiaceae	HERB	1	0.20964361
+Barboni_a672	Astragalus-type	Astragalus-type	HERB	2	0.41928721
+Barboni_a672	Cerealia-type	Cerealia-type	HERB	6	1.2578616
+Barboni_a672	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	4	0.83857442
+Barboni_a672	Cistaceae	Cistaceae	HERB	7	1.4675052
+Barboni_a672	Compositae subfam. Asteroideae	Compositae subfam. Asteroideae	HERB	3	0.62893082
+Barboni_a672	Compositae subfam. Cichorioideae	Compositae subfam. Cichorioideae	HERB	3	0.62893082
+Barboni_a672	Humulus/Cannabis	Humulus/Cannabis	HERB	1	0.20964361
+Barboni_a672	Vicia-type	Lathyrus/Vicia-type	HERB	1	0.20964361
+Barboni_a672	Leguminosae	Leguminosae	HERB	4	0.83857442
+Barboni_a672	Lotus-type	Lotus-type	HERB	15	3.1446541
+Barboni_a672	Matricaria-type	Matricaria-type	HERB	1	0.20964361
+Barboni_a672	Plantago lanceolata-type	Plantago lanceolata-type	HERB	2	0.41928721
+Barboni_a672	Gramineae	Poaceae	HERB	27	5.6603774
+Barboni_a672	Polemonium	Polemonium	HERB	21	4.4025157
+Barboni_a672	Sanguisorba minor	Sanguisorba minor-type	HERB	204	42.767296
+Barboni_a672	Sanicula-type	Sanicula-type	HERB	1	0.20964361
+Barboni_a672	Theligonum cynocrambe	Theligonum cynocrambe	HERB	5	1.048218
+Barboni_a672	Thymus/Mentha	Thymus/Mentha	HERB	1	0.20964361
+Barboni_a672	Sparganium-type	Sparganium-type	AQUA	1	0.20964361
+Barboni_a672	Indeterminable: unknown	Indeterminable: unknown	INUN	15	
+Barboni_a672	Dryopteris-type	Dryopteris-type	VACR	1	0.20964361

@@ -1,23 +1,23 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	EPDcoretop_E318	4	9	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	606	1.4851485
-1	EPDcoretop_E318	5	230	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	606	37.953795
-2	EPDcoretop_E318	470	1	470	Calluna vulgaris	Calluna vulgaris	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	606	0.1650165
-3	EPDcoretop_E318	9	3	9	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	606	0.4950495
-4	EPDcoretop_E318	750	4	750	Empetrum	Empetrum nigrum	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	606	0.66006601
-5	EPDcoretop_E318	3499	4	3499	Ericales undifferentiated	Ericales undifferentiated	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	606	0.66006601
-6	EPDcoretop_E318	85	1	85	Juniperus	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	606	0.1650165
-7	EPDcoretop_E318	18	49	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	606	8.0858086
-8	EPDcoretop_E318	19	263	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	606	43.39934
-9	EPDcoretop_E318	25	1	25	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	606	0.1650165
-10	EPDcoretop_E318	953	6	953	Vaccinium-type	Vaccinium-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	606	0.99009901
-11	EPDcoretop_E318	37	1	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	606	0.1650165
-12	EPDcoretop_E318	61	13	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	606	2.1452145
-13	EPDcoretop_E318	73	1	73	Filipendula	Filipendula	HERB	Herbs	HERB	True	True	Herbs	5	606	0.1650165
-14	EPDcoretop_E318	486	1	486	Melampyrum	Melampyrum	HERB	Herbs	HERB	True	True	Herbs	5	606	0.1650165
-15	EPDcoretop_E318	1611	5	106	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	606	0.82508251
-16	EPDcoretop_E318	2120	3	192	Rubus chamaemorus	Rubus chamaemorus	HERB	Herbs	HERB	True	True	Herbs	5	606	0.4950495
-17	EPDcoretop_E318	3454	1	3454	Diphasium alpinum-type	Diphasium alpinum-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	606	0.1650165
-18	EPDcoretop_E318	1257	6	783	Dryopteris-type	Dryopteris-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	606	0.99009901
-19	EPDcoretop_E318	166	4	166	Equisetum	Equisetum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	606	0.66006601
-20	EPDcoretop_E318	1144	1	1002	Drosera	Drosera	AQUA	Aquatics	AQUA	False	True	Aquatics	7	606	0.1650165
-21	EPDcoretop_E318	165	246	165	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	606	
+samplename	original_varname	acc_varname	groupid	count	percentage
+EPDcoretop_E318	Alnus	Alnus	TRSH	9	1.4851485
+EPDcoretop_E318	Betula	Betula	TRSH	230	37.953795
+EPDcoretop_E318	Calluna vulgaris	Calluna vulgaris	TRSH	1	0.1650165
+EPDcoretop_E318	Corylus	Corylus	TRSH	3	0.4950495
+EPDcoretop_E318	Empetrum	Empetrum nigrum	DWAR	4	0.66006601
+EPDcoretop_E318	Ericales undifferentiated	Ericales undifferentiated	DWAR	4	0.66006601
+EPDcoretop_E318	Juniperus	Juniperus communis-type	TRSH	1	0.1650165
+EPDcoretop_E318	Picea	Picea	TRSH	49	8.0858086
+EPDcoretop_E318	Pinus	Pinus	TRSH	263	43.39934
+EPDcoretop_E318	Salix	Salix	TRSH	1	0.1650165
+EPDcoretop_E318	Vaccinium-type	Vaccinium-type	DWAR	6	0.99009901
+EPDcoretop_E318	Artemisia	Artemisia	HERB	1	0.1650165
+EPDcoretop_E318	Cyperaceae	Cyperaceae	HERB	13	2.1452145
+EPDcoretop_E318	Filipendula	Filipendula	HERB	1	0.1650165
+EPDcoretop_E318	Melampyrum	Melampyrum	HERB	1	0.1650165
+EPDcoretop_E318	Gramineae	Poaceae	HERB	5	0.82508251
+EPDcoretop_E318	Rubus chamaemorus	Rubus chamaemorus	HERB	3	0.4950495
+EPDcoretop_E318	Drosera	Drosera	AQUA	1	0.1650165
+EPDcoretop_E318	Diphasium alpinum-type	Diphasium alpinum-type	VACR	1	0.1650165
+EPDcoretop_E318	Dryopteris-type	Dryopteris-type	VACR	6	0.99009901
+EPDcoretop_E318	Equisetum	Equisetum	VACR	4	0.66006601
+EPDcoretop_E318	Sphagnum	Sphagnum	NOPO	246	

@@ -1,21 +1,21 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Barboni_a939	2906	3	11	Ericaceae undifferentiated	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	1274	0.23547881
-1	Barboni_a939	85	4	85	Juniperus	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1274	0.31397174
-2	Barboni_a939	455	21	95	Olea	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1274	1.6483516
-3	Barboni_a939	1624	1	97	Ostrya/Carpinus	Ostrya/Carpinus orientalis	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1274	0.078492936
-4	Barboni_a939	19	169	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1274	13.265306
-5	Barboni_a939	2801	1	110	Quercus suber-type	Quercus cerris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1274	0.078492936
-6	Barboni_a939	1062	12	22	Quercus ilex-type	Quercus ilex-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1274	0.94191523
-7	Barboni_a939	37	16	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	1274	1.255887
-8	Barboni_a939	721	1	53	Liguliflorae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	1274	0.078492936
-9	Barboni_a939	52	42	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	1274	3.2967033
-10	Barboni_a939	3570	22	3570	Gramineae 40-49 _m	Gramineae 40-49 _m	HERB	Herbs	HERB	True	True	Herbs	5	1274	1.7268446
-11	Barboni_a939	3567	34	3567	Gramineae <40 _m	Gramineae <40 _m	HERB	Herbs	HERB	True	True	Herbs	5	1274	2.6687598
-12	Barboni_a939	3568	7	3568	Gramineae >50 _m	Gramineae >50 _m	HERB	Herbs	HERB	True	True	Herbs	5	1274	0.54945055
-13	Barboni_a939	3569	4	3569	Gramineae >60 _m	Gramineae >60 _m	HERB	Herbs	HERB	True	True	Herbs	5	1274	0.31397174
-14	Barboni_a939	2810	8	58	Plantago coronopus-type	Plantago coronopus-type	HERB	Herbs	HERB	True	True	Herbs	5	1274	0.62794349
-15	Barboni_a939	3880	5	3880	Plantago media/major-type	Plantago media/major-type	HERB	Herbs	HERB	True	True	Herbs	5	1274	0.39246468
-16	Barboni_a939	164	923	164	Lycopodium	Lycopodium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	1274	72.44898
-17	Barboni_a939	1279	1	1279	Pteridium	Pteridium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	1274	0.078492936
-18	Barboni_a939	1983	1	421	Ruppia	Ruppia	AQUA	Aquatics	AQUA	False	True	Aquatics	7	1274	0.078492936
-19	Barboni_a939	4176	1	4176	Spike (mass)	Spike (mass)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	1274	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Barboni_a939	Ericaceae undifferentiated	Ericales (tetrad)	DWAR	3	0.23547881
+Barboni_a939	Juniperus	Juniperus communis-type	TRSH	4	0.31397174
+Barboni_a939	Olea	Olea europaea	TRSH	21	1.6483516
+Barboni_a939	Ostrya/Carpinus	Ostrya/Carpinus orientalis	TRSH	1	0.078492936
+Barboni_a939	Pinus	Pinus	TRSH	169	13.265306
+Barboni_a939	Quercus suber-type	Quercus cerris-type	TRSH	1	0.078492936
+Barboni_a939	Quercus ilex-type	Quercus ilex-type	TRSH	12	0.94191523
+Barboni_a939	Artemisia	Artemisia	HERB	16	1.255887
+Barboni_a939	Liguliflorae	Asteraceae subf. Cichorioideae	HERB	1	0.078492936
+Barboni_a939	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	42	3.2967033
+Barboni_a939	Gramineae 40-49 _m	Gramineae 40-49 _m	HERB	22	1.7268446
+Barboni_a939	Gramineae <40 _m	Gramineae <40 _m	HERB	34	2.6687598
+Barboni_a939	Gramineae >50 _m	Gramineae >50 _m	HERB	7	0.54945055
+Barboni_a939	Gramineae >60 _m	Gramineae >60 _m	HERB	4	0.31397174
+Barboni_a939	Plantago coronopus-type	Plantago coronopus-type	HERB	8	0.62794349
+Barboni_a939	Plantago media/major-type	Plantago media/major-type	HERB	5	0.39246468
+Barboni_a939	Ruppia	Ruppia	AQUA	1	0.078492936
+Barboni_a939	Lycopodium	Lycopodium	VACR	923	72.44898
+Barboni_a939	Pteridium	Pteridium	VACR	1	0.078492936
+Barboni_a939	Spike (mass)	Spike (mass)	NOPO	1	

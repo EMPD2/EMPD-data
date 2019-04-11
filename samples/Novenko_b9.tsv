@@ -1,18 +1,18 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Novenko_b9	1	2	1	Abies	Abies	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	610	0.32786885
-1	Novenko_b9	4	2	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	610	0.32786885
-2	Novenko_b9	2266	217	150	Betula alba	Betula pubescens-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	610	35.57377
-3	Novenko_b9	11	15	11	Ericaceae	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	610	2.4590164
-4	Novenko_b9	18	9	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	610	1.4754098
-5	Novenko_b9	3859	257	3859	Pinus sect. Diploxylon	Pinus sect. Diploxylon	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	610	42.131148
-6	Novenko_b9	3860	82	3860	Pinus sect. Haploxylon	Pinus sect. Haploxylon	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	610	13.442623
-7	Novenko_b9	25	6	25	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	610	0.98360656
-8	Novenko_b9	37	10	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	610	1.6393443
-9	Novenko_b9	155	1	155	Asteraceae	Asteraceae	HERB	Herbs	HERB	True	True	Herbs	5	610	0.16393443
-10	Novenko_b9	52	1	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	610	0.16393443
-11	Novenko_b9	61	1	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	610	0.16393443
-12	Novenko_b9	137	1	137	Thalictrum	Thalictrum	HERB	Herbs	HERB	True	True	Herbs	5	610	0.16393443
-13	Novenko_b9	976	1	203	Lycopodium annotinum	Lycopodium annotinum-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	610	0.16393443
-14	Novenko_b9	1723	3	1559	Lycopodium clavatum	Lycopodium clavatum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	610	0.49180328
-15	Novenko_b9	167	2	167	Polypodiaceae	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	610	0.32786885
-16	Novenko_b9	165	10	165	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	610	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Novenko_b9	Abies	Abies	TRSH	2	0.32786885
+Novenko_b9	Alnus	Alnus	TRSH	2	0.32786885
+Novenko_b9	Betula alba	Betula pubescens-type	TRSH	217	35.57377
+Novenko_b9	Ericaceae	Ericales (tetrad)	DWAR	15	2.4590164
+Novenko_b9	Picea	Picea	TRSH	9	1.4754098
+Novenko_b9	Pinus sect. Diploxylon	Pinus sect. Diploxylon	TRSH	257	42.131148
+Novenko_b9	Pinus sect. Haploxylon	Pinus sect. Haploxylon	TRSH	82	13.442623
+Novenko_b9	Salix	Salix	TRSH	6	0.98360656
+Novenko_b9	Artemisia	Artemisia	HERB	10	1.6393443
+Novenko_b9	Asteraceae	Asteraceae	HERB	1	0.16393443
+Novenko_b9	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.16393443
+Novenko_b9	Cyperaceae	Cyperaceae	HERB	1	0.16393443
+Novenko_b9	Thalictrum	Thalictrum	HERB	1	0.16393443
+Novenko_b9	Lycopodium annotinum	Lycopodium annotinum-type	VACR	1	0.16393443
+Novenko_b9	Lycopodium clavatum	Lycopodium clavatum	VACR	3	0.49180328
+Novenko_b9	Polypodiaceae	Monolete fern spores	VACR	2	0.32786885
+Novenko_b9	Sphagnum	Sphagnum	NOPO	10	

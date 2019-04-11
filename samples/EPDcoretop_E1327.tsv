@@ -1,20 +1,20 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	EPDcoretop_E1327	4	101	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	294	34.353741
-1	EPDcoretop_E1327	5	10	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	294	3.4013605
-2	EPDcoretop_E1327	9	21	9	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	294	7.1428571
-3	EPDcoretop_E1327	12	1	12	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	294	0.34013605
-4	EPDcoretop_E1327	14	1	14	Ilex	Ilex	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	294	0.34013605
-5	EPDcoretop_E1327	208	17	208	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	294	5.7823129
-6	EPDcoretop_E1327	25	4	25	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	294	1.3605442
-7	EPDcoretop_E1327	31	1	31	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	294	0.34013605
-8	EPDcoretop_E1327	36	56	36	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	294	19.047619
-9	EPDcoretop_E1327	42	3	42	Brassicaceae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	294	1.0204082
-10	EPDcoretop_E1327	46	1	46	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	294	0.34013605
-11	EPDcoretop_E1327	52	1	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	294	0.34013605
-12	EPDcoretop_E1327	61	8	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	294	2.7210884
-13	EPDcoretop_E1327	1678	30	397	Papaveraceae	Papaveraceae	HERB	Herbs	HERB	True	True	Herbs	5	294	10.204082
-14	EPDcoretop_E1327	106	7	106	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	294	2.3809524
-15	EPDcoretop_E1327	3751	29	3751	Monolete spore(s)	Monolete spore(s)	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	294	9.8639456
-16	EPDcoretop_E1327	1989	3	1989	Pteris	Pteris	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	294	1.0204082
-17	EPDcoretop_E1327	516	2	516	Myriophyllum	Myriophyllum	AQUA	Aquatics	AQUA	False	True	Aquatics	7	294	0.68027211
-18	EPDcoretop_E1327	3390	11100	3390	Concentration spikes	Concentration spikes	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	294	
+samplename	original_varname	acc_varname	groupid	count	percentage
+EPDcoretop_E1327	Alnus	Alnus	TRSH	101	34.353741
+EPDcoretop_E1327	Betula	Betula	TRSH	10	3.4013605
+EPDcoretop_E1327	Corylus	Corylus	TRSH	21	7.1428571
+EPDcoretop_E1327	Fagus	Fagus	TRSH	1	0.34013605
+EPDcoretop_E1327	Ilex	Ilex	TRSH	1	0.34013605
+EPDcoretop_E1327	Quercus	Quercus	TRSH	17	5.7823129
+EPDcoretop_E1327	Salix	Salix	TRSH	4	1.3605442
+EPDcoretop_E1327	Ulmus	Ulmus/Zelkova	TRSH	1	0.34013605
+EPDcoretop_E1327	Apiaceae	Apiaceae	HERB	56	19.047619
+EPDcoretop_E1327	Brassicaceae	Brassicaceae	HERB	3	1.0204082
+EPDcoretop_E1327	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	1	0.34013605
+EPDcoretop_E1327	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.34013605
+EPDcoretop_E1327	Cyperaceae	Cyperaceae	HERB	8	2.7210884
+EPDcoretop_E1327	Papaveraceae	Papaveraceae	HERB	30	10.204082
+EPDcoretop_E1327	Poaceae	Poaceae	HERB	7	2.3809524
+EPDcoretop_E1327	Myriophyllum	Myriophyllum	AQUA	2	0.68027211
+EPDcoretop_E1327	Concentration spikes	Concentration spikes	NOPO	11100	
+EPDcoretop_E1327	Monolete spore(s)	Monolete spore(s)	VACR	29	9.8639456
+EPDcoretop_E1327	Pteris	Pteris	VACR	3	1.0204082

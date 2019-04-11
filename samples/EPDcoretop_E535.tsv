@@ -1,18 +1,18 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	EPDcoretop_E535	4	11	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	638	1.7241379
-1	EPDcoretop_E535	5	152	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	638	23.824451
-2	EPDcoretop_E535	3401	2	3401	Cornus mas/C. suecica	Cornus mas/C. suecica	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	638	0.31347962
-3	EPDcoretop_E535	11	4	11	Ericaceae	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	638	0.62695925
-4	EPDcoretop_E535	85	5	85	Juniperus	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	638	0.78369906
-5	EPDcoretop_E535	18	55	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	638	8.6206897
-6	EPDcoretop_E535	19	280	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	638	43.887147
-7	EPDcoretop_E535	25	1	25	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	638	0.15673981
-8	EPDcoretop_E535	494	1	42	Cruciferae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	638	0.15673981
-9	EPDcoretop_E535	1075	6	50	Cerealia-type	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	638	0.94043887
-10	EPDcoretop_E535	129	5	50	Secale	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	638	0.78369906
-11	EPDcoretop_E535	52	1	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	638	0.15673981
-12	EPDcoretop_E535	61	9	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	638	1.4106583
-13	EPDcoretop_E535	1611	88	106	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	638	13.793103
-14	EPDcoretop_E535	738	16	120	Rumex	Rumex/Oxyria	HERB	Herbs	HERB	True	True	Herbs	5	638	2.507837
-15	EPDcoretop_E535	166	2	166	Equisetum	Equisetum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	638	0.31347962
-16	EPDcoretop_E535	165	16	165	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	638	
+samplename	original_varname	acc_varname	groupid	count	percentage
+EPDcoretop_E535	Alnus	Alnus	TRSH	11	1.7241379
+EPDcoretop_E535	Betula	Betula	TRSH	152	23.824451
+EPDcoretop_E535	Cornus mas/C. suecica	Cornus mas/C. suecica	TRSH	2	0.31347962
+EPDcoretop_E535	Ericaceae	Ericales (tetrad)	DWAR	4	0.62695925
+EPDcoretop_E535	Juniperus	Juniperus communis-type	TRSH	5	0.78369906
+EPDcoretop_E535	Picea	Picea	TRSH	55	8.6206897
+EPDcoretop_E535	Pinus	Pinus	TRSH	280	43.887147
+EPDcoretop_E535	Salix	Salix	TRSH	1	0.15673981
+EPDcoretop_E535	Cruciferae	Brassicaceae	HERB	1	0.15673981
+EPDcoretop_E535	Cerealia-type	Cerealia-type	HERB	6	0.94043887
+EPDcoretop_E535	Secale	Cerealia-type	HERB	5	0.78369906
+EPDcoretop_E535	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.15673981
+EPDcoretop_E535	Cyperaceae	Cyperaceae	HERB	9	1.4106583
+EPDcoretop_E535	Gramineae	Poaceae	HERB	88	13.793103
+EPDcoretop_E535	Rumex	Rumex/Oxyria	HERB	16	2.507837
+EPDcoretop_E535	Equisetum	Equisetum	VACR	2	0.31347962
+EPDcoretop_E535	Sphagnum	Sphagnum	NOPO	16	

@@ -1,32 +1,32 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Miras_c10	1	3	1	Abies	Abies	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	277	1.0830325
-1	Miras_c10	4	5	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	277	1.8050542
-2	Miras_c10	5	8	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	277	2.8880866
-3	Miras_c10	3209	2	3209	Calluna	Calluna	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	277	0.72202166
-4	Miras_c10	454	1	47	Castanea	Castanea sativa	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	277	0.36101083
-5	Miras_c10	9	21	9	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	277	7.5812274
-6	Miras_c10	12	34	12	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	277	12.274368
-7	Miras_c10	15	1	15	Juglans	Juglans	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	277	0.36101083
-8	Miras_c10	455	3	95	Olea	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	277	1.0830325
-9	Miras_c10	18	5	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	277	1.8050542
-10	Miras_c10	19	26	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	277	9.3862816
-11	Miras_c10	208	30	208	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	277	10.830325
-12	Miras_c10	118	8	118	Rosaceae	Rosaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	277	2.8880866
-13	Miras_c10	25	3	25	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	277	1.0830325
-14	Miras_c10	36	6	36	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	277	2.166065
-15	Miras_c10	39	4	39	Asphodelus	Asphodelus	HERB	Herbs	HERB	True	True	Herbs	5	277	1.4440433
-16	Miras_c10	772	3	180	Asteroideae	Asteraceae subf. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	277	1.0830325
-17	Miras_c10	460	5	53	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	277	1.8050542
-18	Miras_c10	46	2	46	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	277	0.72202166
-19	Miras_c10	50	13	50	Cerealia	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	277	4.6931408
-20	Miras_c10	52	2	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	277	0.72202166
-21	Miras_c10	61	5	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	277	1.8050542
-22	Miras_c10	3547	3	3547	Galium	Galium	HERB	Herbs	HERB	True	True	Herbs	5	277	1.0830325
-23	Miras_c10	537	1	537	Gentianaceae	Gentianaceae	HERB	Herbs	HERB	True	True	Herbs	5	277	0.36101083
-24	Miras_c10	86	1	86	Lamiaceae	Lamiaceae	HERB	Herbs	HERB	True	True	Herbs	5	277	0.36101083
-25	Miras_c10	735	4	286	Plantago	Plantago	HERB	Herbs	HERB	True	True	Herbs	5	277	1.4440433
-26	Miras_c10	87	3	87	Plantago lanceolata	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	277	1.0830325
-27	Miras_c10	106	71	106	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	277	25.631769
-28	Miras_c10	156	1	156	Ranunculaceae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	277	0.36101083
-29	Miras_c10	193	3	193	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	Herbs	HERB	True	True	Herbs	5	277	1.0830325
-30	Miras_c10	1108	12	197	Varia	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	277	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Miras_c10	Abies	Abies	TRSH	3	1.0830325
+Miras_c10	Alnus	Alnus	TRSH	5	1.8050542
+Miras_c10	Betula	Betula	TRSH	8	2.8880866
+Miras_c10	Calluna	Calluna	DWAR	2	0.72202166
+Miras_c10	Castanea	Castanea sativa	TRSH	1	0.36101083
+Miras_c10	Corylus	Corylus	TRSH	21	7.5812274
+Miras_c10	Fagus	Fagus	TRSH	34	12.274368
+Miras_c10	Juglans	Juglans	TRSH	1	0.36101083
+Miras_c10	Olea	Olea europaea	TRSH	3	1.0830325
+Miras_c10	Picea	Picea	TRSH	5	1.8050542
+Miras_c10	Pinus	Pinus	TRSH	26	9.3862816
+Miras_c10	Quercus	Quercus	TRSH	30	10.830325
+Miras_c10	Rosaceae	Rosaceae	TRSH	8	2.8880866
+Miras_c10	Salix	Salix	TRSH	3	1.0830325
+Miras_c10	Apiaceae	Apiaceae	HERB	6	2.166065
+Miras_c10	Asphodelus	Asphodelus	HERB	4	1.4440433
+Miras_c10	Asteroideae	Asteraceae subf. Asteroideae	HERB	3	1.0830325
+Miras_c10	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	5	1.8050542
+Miras_c10	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	2	0.72202166
+Miras_c10	Cerealia	Cerealia-type	HERB	13	4.6931408
+Miras_c10	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	2	0.72202166
+Miras_c10	Cyperaceae	Cyperaceae	HERB	5	1.8050542
+Miras_c10	Galium	Galium	HERB	3	1.0830325
+Miras_c10	Gentianaceae	Gentianaceae	HERB	1	0.36101083
+Miras_c10	Lamiaceae	Lamiaceae	HERB	1	0.36101083
+Miras_c10	Plantago	Plantago	HERB	4	1.4440433
+Miras_c10	Plantago lanceolata	Plantago lanceolata-type	HERB	3	1.0830325
+Miras_c10	Poaceae	Poaceae	HERB	71	25.631769
+Miras_c10	Ranunculaceae	Ranunculaceae	HERB	1	0.36101083
+Miras_c10	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	3	1.0830325
+Miras_c10	Varia	Indeterminable: unknown	INUN	12	

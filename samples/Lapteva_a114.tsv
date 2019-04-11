@@ -1,26 +1,26 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Lapteva_a114	2115	35	151	Alnus viridis subsp. fruticosa	Alnus viridis	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	647	5.4095827
-1	Lapteva_a114	2113	101	149	Betula nana-type	Betula nana-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	647	15.61051
-2	Lapteva_a114	2123	203	150	Betula pubescens-type	Betula pubescens-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	647	31.37558
-3	Lapteva_a114	16	6	16	Larix	Larix/Pseudotsuga	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	647	0.92735703
-4	Lapteva_a114	18	16	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	647	2.4729521
-5	Lapteva_a114	1371	6	147	Pinus sibirica	Pinus cembra-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	647	0.92735703
-6	Lapteva_a114	799	41	148	Pinus sylvestris	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	647	6.3369397
-7	Lapteva_a114	4052	2	4052	Rubus arcticus	Rubus arcticus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	647	0.30911901
-8	Lapteva_a114	25	11	25	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	647	1.7001546
-9	Lapteva_a114	552	20	552	Vaccinium	Vaccinium	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	647	3.0911901
-10	Lapteva_a114	37	7	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	647	1.0819165
-11	Lapteva_a114	3381	2	3381	Compositae subfam. Asteroideae	Compositae subfam. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	647	0.30911901
-12	Lapteva_a114	61	67	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	647	10.355487
-13	Lapteva_a114	106	24	106	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	647	3.7094281
-14	Lapteva_a114	160	1	160	Polemonium	Polemonium	HERB	Herbs	HERB	True	True	Herbs	5	647	0.15455951
-15	Lapteva_a114	2120	10	192	Rubus chamaemorus	Rubus chamaemorus	HERB	Herbs	HERB	True	True	Herbs	5	647	1.5455951
-16	Lapteva_a114	168	70	168	Bryales	Bryophyte spores	BRYO	Bryophytes	VACR	True	True	Ferns	6	647	10.819165
-17	Lapteva_a114	166	3	166	Equisetum	Equisetum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	647	0.46367852
-18	Lapteva_a114	202	22	202	Lycopodium clavatum-type	Lycopodium clavatum-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	647	3.4003091
-19	Lapteva_a114	3630	2	3630	Indeterminable: undifferentiated	Indeterminable: undifferentiated	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	647	
-20	Lapteva_a114	853	10	853	Amphitrema flavum	Amphitrema flavum	RHIZ	Rhizopods	NOPO	False	False	Nonpollen	30	647	
-21	Lapteva_a114	671	3	324	Arcella	Arcella	RHIZ	Rhizopods	NOPO	False	False	Nonpollen	30	647	
-22	Lapteva_a114	698	8	698	Assulina	Assulina	RHIZ	Rhizopods	NOPO	False	False	Nonpollen	30	647	
-23	Lapteva_a114	2353	3	2353	Microthyrium	Microthyrium	FUNG	Fungi	NOPO	False	False	Nonpollen	30	647	
-24	Lapteva_a114	165	10	165	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	647	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Lapteva_a114	Alnus viridis subsp. fruticosa	Alnus viridis	TRSH	35	5.4095827
+Lapteva_a114	Betula nana-type	Betula nana-type	DWAR	101	15.61051
+Lapteva_a114	Betula pubescens-type	Betula pubescens-type	TRSH	203	31.37558
+Lapteva_a114	Larix	Larix/Pseudotsuga	TRSH	6	0.92735703
+Lapteva_a114	Picea	Picea	TRSH	16	2.4729521
+Lapteva_a114	Pinus sibirica	Pinus cembra-type	TRSH	6	0.92735703
+Lapteva_a114	Pinus sylvestris	Pinus sylvestris-type	TRSH	41	6.3369397
+Lapteva_a114	Rubus arcticus	Rubus arcticus	TRSH	2	0.30911901
+Lapteva_a114	Salix	Salix	TRSH	11	1.7001546
+Lapteva_a114	Vaccinium	Vaccinium	DWAR	20	3.0911901
+Lapteva_a114	Artemisia	Artemisia	HERB	7	1.0819165
+Lapteva_a114	Compositae subfam. Asteroideae	Compositae subfam. Asteroideae	HERB	2	0.30911901
+Lapteva_a114	Cyperaceae	Cyperaceae	HERB	67	10.355487
+Lapteva_a114	Poaceae	Poaceae	HERB	24	3.7094281
+Lapteva_a114	Polemonium	Polemonium	HERB	1	0.15455951
+Lapteva_a114	Rubus chamaemorus	Rubus chamaemorus	HERB	10	1.5455951
+Lapteva_a114	Indeterminable: undifferentiated	Indeterminable: undifferentiated	INUN	2	
+Lapteva_a114	Amphitrema flavum	Amphitrema flavum	RHIZ	10	
+Lapteva_a114	Arcella	Arcella	RHIZ	3	
+Lapteva_a114	Assulina	Assulina	RHIZ	8	
+Lapteva_a114	Bryales	Bryophyte spores	BRYO	70	10.819165
+Lapteva_a114	Equisetum	Equisetum	VACR	3	0.46367852
+Lapteva_a114	Lycopodium clavatum-type	Lycopodium clavatum-type	VACR	22	3.4003091
+Lapteva_a114	Microthyrium	Microthyrium	FUNG	3	
+Lapteva_a114	Sphagnum	Sphagnum	NOPO	10	

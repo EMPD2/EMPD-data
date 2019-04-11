@@ -1,15 +1,15 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Mitchell_a15	5	9	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	946	0.95137421
-1	Mitchell_a15	9	5	9	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	946	0.52854123
-2	Mitchell_a15	13	14	13	Fraxinus	Fraxinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	946	1.4799154
-3	Mitchell_a15	515	1	79	Hedera	Hedera	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	946	0.10570825
-4	Mitchell_a15	14	3	14	Ilex	Ilex	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	946	0.31712474
-5	Mitchell_a15	19	5	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	946	0.52854123
-6	Mitchell_a15	4045	1	4045	Rosaceae undifferentiated	Rosaceae undifferentiated	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	946	0.10570825
-7	Mitchell_a15	25	1	25	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	946	0.10570825
-8	Mitchell_a15	215	901	136	Taxus	Taxus baccata	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	946	95.243129
-9	Mitchell_a15	1611	4	106	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	946	0.42283298
-10	Mitchell_a15	640	1	290	Ranunculus	Ranunculus-type	HERB	Herbs	HERB	True	True	Herbs	5	946	0.10570825
-11	Mitchell_a15	3523	1	3523	Filicales undifferentiated	Filicales undifferentiated	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	946	0.10570825
-12	Mitchell_a15	3626	1	1009	Indeterminable: concealed	Indeterminable: concealed	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	946	
-13	Mitchell_a15	3629	5	3629	Indeterminable: deteriorated	Indeterminable: deteriorated	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	946	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Mitchell_a15	Betula	Betula	TRSH	9	0.95137421
+Mitchell_a15	Corylus	Corylus	TRSH	5	0.52854123
+Mitchell_a15	Fraxinus	Fraxinus	TRSH	14	1.4799154
+Mitchell_a15	Hedera	Hedera	TRSH	1	0.10570825
+Mitchell_a15	Ilex	Ilex	TRSH	3	0.31712474
+Mitchell_a15	Pinus	Pinus	TRSH	5	0.52854123
+Mitchell_a15	Rosaceae undifferentiated	Rosaceae undifferentiated	TRSH	1	0.10570825
+Mitchell_a15	Salix	Salix	TRSH	1	0.10570825
+Mitchell_a15	Taxus	Taxus baccata	TRSH	901	95.243129
+Mitchell_a15	Gramineae	Poaceae	HERB	4	0.42283298
+Mitchell_a15	Ranunculus	Ranunculus-type	HERB	1	0.10570825
+Mitchell_a15	Indeterminable: concealed	Indeterminable: concealed	INUN	1	
+Mitchell_a15	Indeterminable: deteriorated	Indeterminable: deteriorated	INUN	5	
+Mitchell_a15	Filicales undifferentiated	Filicales undifferentiated	VACR	1	0.10570825

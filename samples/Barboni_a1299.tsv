@@ -1,29 +1,29 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Barboni_a1299	4	4	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	280	1.4285714
-1	Barboni_a1299	5	35	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	280	12.5
-2	Barboni_a1299	454	15	47	Castanea	Castanea sativa	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	280	5.3571429
-3	Barboni_a1299	3495	9	3495	Erica undifferentiated	Erica undifferentiated	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	280	3.2142857
-4	Barboni_a1299	14	1	14	Ilex	Ilex	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	280	0.35714286
-5	Barboni_a1299	455	2	95	Olea	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	280	0.71428571
-6	Barboni_a1299	2901	2	19	Pinus undifferentiated	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	280	0.71428571
-7	Barboni_a1299	1236	3	148	Pinus sylvestris-type	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	280	1.0714286
-8	Barboni_a1299	1062	4	22	Quercus ilex-type	Quercus ilex-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	280	1.4285714
-9	Barboni_a1299	173	24	21	Quercus robur-type	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	280	8.5714286
-10	Barboni_a1299	118	4	118	Rosaceae	Rosaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	280	1.4285714
-11	Barboni_a1299	601	15	36	Umbelliferae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	280	5.3571429
-12	Barboni_a1299	721	1	53	Liguliflorae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	280	0.35714286
-13	Barboni_a1299	46	2	46	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	280	0.71428571
-14	Barboni_a1299	1075	15	50	Cerealia-type	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	280	5.3571429
-15	Barboni_a1299	61	5	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	280	1.7857143
-16	Barboni_a1299	755	7	755	Leguminosae	Leguminosae	HERB	Herbs	HERB	True	True	Herbs	5	280	2.5
-17	Barboni_a1299	89	1	89	Liliaceae	Liliaceae-type	HERB	Herbs	HERB	True	True	Herbs	5	280	0.35714286
-18	Barboni_a1299	735	1	286	Plantago	Plantago	HERB	Herbs	HERB	True	True	Herbs	5	280	0.35714286
-19	Barboni_a1299	106	51	106	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	280	18.214286
-20	Barboni_a1299	159	3	159	Polygonaceae	Polygonaceae	HERB	Herbs	HERB	True	True	Herbs	5	280	1.0714286
-21	Barboni_a1299	156	58	156	Ranunculaceae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	280	20.714286
-22	Barboni_a1299	503	1	503	Saxifraga	Saxifraga	HERB	Herbs	HERB	True	True	Herbs	5	280	0.35714286
-23	Barboni_a1299	822	2	439	Zea	Zea mays	HERB	Herbs	HERB	True	True	Herbs	5	280	0.71428571
-24	Barboni_a1299	3751	3	3751	Monolete spore(s)	Monolete spore(s)	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	280	1.0714286
-25	Barboni_a1299	1279	12	1279	Pteridium	Pteridium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	280	4.2857143
-26	Barboni_a1299	668	5	133	Potamogeton	Potamogeton-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	280	1.7857143
-27	Barboni_a1299	1108	4	197	Varia	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	280	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Barboni_a1299	Alnus	Alnus	TRSH	4	1.4285714
+Barboni_a1299	Betula	Betula	TRSH	35	12.5
+Barboni_a1299	Castanea	Castanea sativa	TRSH	15	5.3571429
+Barboni_a1299	Erica undifferentiated	Erica undifferentiated	DWAR	9	3.2142857
+Barboni_a1299	Ilex	Ilex	TRSH	1	0.35714286
+Barboni_a1299	Olea	Olea europaea	TRSH	2	0.71428571
+Barboni_a1299	Pinus undifferentiated	Pinus	TRSH	2	0.71428571
+Barboni_a1299	Pinus sylvestris-type	Pinus sylvestris-type	TRSH	3	1.0714286
+Barboni_a1299	Quercus ilex-type	Quercus ilex-type	TRSH	4	1.4285714
+Barboni_a1299	Quercus robur-type	Quercus robur-type	TRSH	24	8.5714286
+Barboni_a1299	Rosaceae	Rosaceae	TRSH	4	1.4285714
+Barboni_a1299	Umbelliferae	Apiaceae	HERB	15	5.3571429
+Barboni_a1299	Liguliflorae	Asteraceae subf. Cichorioideae	HERB	1	0.35714286
+Barboni_a1299	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	2	0.71428571
+Barboni_a1299	Cerealia-type	Cerealia-type	HERB	15	5.3571429
+Barboni_a1299	Cyperaceae	Cyperaceae	HERB	5	1.7857143
+Barboni_a1299	Leguminosae	Leguminosae	HERB	7	2.5
+Barboni_a1299	Liliaceae	Liliaceae-type	HERB	1	0.35714286
+Barboni_a1299	Plantago	Plantago	HERB	1	0.35714286
+Barboni_a1299	Poaceae	Poaceae	HERB	51	18.214286
+Barboni_a1299	Polygonaceae	Polygonaceae	HERB	3	1.0714286
+Barboni_a1299	Ranunculaceae	Ranunculaceae	HERB	58	20.714286
+Barboni_a1299	Saxifraga	Saxifraga	HERB	1	0.35714286
+Barboni_a1299	Zea	Zea mays	HERB	2	0.71428571
+Barboni_a1299	Potamogeton	Potamogeton-type	AQUA	5	1.7857143
+Barboni_a1299	Varia	Indeterminable: unknown	INUN	4	
+Barboni_a1299	Monolete spore(s)	Monolete spore(s)	VACR	3	1.0714286
+Barboni_a1299	Pteridium	Pteridium	VACR	12	4.2857143

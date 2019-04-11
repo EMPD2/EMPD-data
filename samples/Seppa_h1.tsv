@@ -1,24 +1,24 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Seppa_h1	4	27	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	491	5.4989817
-1	Seppa_h1	5	67	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	491	13.645621
-2	Seppa_h1	7	9	7	Carpinus	Carpinus betulus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	491	1.8329939
-3	Seppa_h1	9	3	9	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	491	0.61099796
-4	Seppa_h1	13	2	13	Fraxinus	Fraxinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	491	0.40733198
-5	Seppa_h1	18	69	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	491	14.052953
-6	Seppa_h1	19	255	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	491	51.934827
-7	Seppa_h1	208	17	208	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	491	3.4623218
-8	Seppa_h1	25	1	25	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	491	0.20366599
-9	Seppa_h1	31	3	31	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	491	0.61099796
-10	Seppa_h1	608	2	41	Aster-type	Aster-type	HERB	Herbs	HERB	True	True	Herbs	5	491	0.40733198
-11	Seppa_h1	752	2	53	Lactuceae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	491	0.40733198
-12	Seppa_h1	1075	6	50	Cerealia-type	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	491	1.2219959
-13	Seppa_h1	52	1	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	491	0.20366599
-14	Seppa_h1	73	3	73	Filipendula	Filipendula	HERB	Herbs	HERB	True	True	Herbs	5	491	0.61099796
-15	Seppa_h1	1583	1	839	Humulus	Humulus lupulus	HERB	Herbs	HERB	True	True	Herbs	5	491	0.20366599
-16	Seppa_h1	87	1	87	Plantago lanceolata	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	491	0.20366599
-17	Seppa_h1	106	15	106	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	491	3.0549898
-18	Seppa_h1	640	1	290	Ranunculus	Ranunculus-type	HERB	Herbs	HERB	True	True	Herbs	5	491	0.20366599
-19	Seppa_h1	738	1	120	Rumex	Rumex/Oxyria	HERB	Herbs	HERB	True	True	Herbs	5	491	0.20366599
-20	Seppa_h1	2934	1	251	Saussurea-type	Saussurea-type	HERB	Herbs	HERB	True	True	Herbs	5	491	0.20366599
-21	Seppa_h1	164	3	164	Lycopodium	Lycopodium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	491	0.61099796
-22	Seppa_h1	167	1	167	Polypodiaceae	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	491	0.20366599
+samplename	original_varname	acc_varname	groupid	count	percentage
+Seppa_h1	Alnus	Alnus	TRSH	27	5.4989817
+Seppa_h1	Betula	Betula	TRSH	67	13.645621
+Seppa_h1	Carpinus	Carpinus betulus	TRSH	9	1.8329939
+Seppa_h1	Corylus	Corylus	TRSH	3	0.61099796
+Seppa_h1	Fraxinus	Fraxinus	TRSH	2	0.40733198
+Seppa_h1	Picea	Picea	TRSH	69	14.052953
+Seppa_h1	Pinus	Pinus	TRSH	255	51.934827
+Seppa_h1	Quercus	Quercus	TRSH	17	3.4623218
+Seppa_h1	Salix	Salix	TRSH	1	0.20366599
+Seppa_h1	Ulmus	Ulmus/Zelkova	TRSH	3	0.61099796
+Seppa_h1	Aster-type	Aster-type	HERB	2	0.40733198
+Seppa_h1	Lactuceae	Asteraceae subf. Cichorioideae	HERB	2	0.40733198
+Seppa_h1	Cerealia-type	Cerealia-type	HERB	6	1.2219959
+Seppa_h1	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.20366599
+Seppa_h1	Filipendula	Filipendula	HERB	3	0.61099796
+Seppa_h1	Humulus	Humulus lupulus	HERB	1	0.20366599
+Seppa_h1	Plantago lanceolata	Plantago lanceolata-type	HERB	1	0.20366599
+Seppa_h1	Poaceae	Poaceae	HERB	15	3.0549898
+Seppa_h1	Ranunculus	Ranunculus-type	HERB	1	0.20366599
+Seppa_h1	Rumex	Rumex/Oxyria	HERB	1	0.20366599
+Seppa_h1	Saussurea-type	Saussurea-type	HERB	1	0.20366599
+Seppa_h1	Lycopodium	Lycopodium	VACR	3	0.61099796
+Seppa_h1	Polypodiaceae	Monolete fern spores	VACR	1	0.20366599

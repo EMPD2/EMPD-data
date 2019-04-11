@@ -1,20 +1,20 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	EPDcoretop_E84	4	28	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	495	5.6565657
-1	EPDcoretop_E84	5	48	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	495	9.6969697
-2	EPDcoretop_E84	470	175	470	Calluna vulgaris	Calluna vulgaris	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	495	35.353535
-3	EPDcoretop_E84	3411	28	3411	Corylus/Myrica	Corylus/Myrica	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	495	5.6565657
-4	EPDcoretop_E84	750	4	750	Empetrum	Empetrum nigrum	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	495	0.80808081
-5	EPDcoretop_E84	66	9	66	Erica	Erica	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	495	1.8181818
-6	EPDcoretop_E84	13	2	13	Fraxinus	Fraxinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	495	0.4040404
-7	EPDcoretop_E84	3763	7	3763	Myrica-type	Myrica-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	495	1.4141414
-8	EPDcoretop_E84	19	18	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	495	3.6363636
-9	EPDcoretop_E84	208	4	208	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	495	0.80808081
-10	EPDcoretop_E84	552	1	552	Vaccinium	Vaccinium	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	495	0.2020202
-11	EPDcoretop_E84	61	145	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	495	29.292929
-12	EPDcoretop_E84	73	1	73	Filipendula	Filipendula	HERB	Herbs	HERB	True	True	Herbs	5	495	0.2020202
-13	EPDcoretop_E84	87	3	87	Plantago lanceolata	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	495	0.60606061
-14	EPDcoretop_E84	1611	14	106	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	495	2.8282828
-15	EPDcoretop_E84	1376	1	524	Potentilla	Potentilla-type	HERB	Herbs	HERB	True	True	Herbs	5	495	0.2020202
-16	EPDcoretop_E84	3524	7	3524	Filicopsida	Filicopsida	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	495	1.4141414
-17	EPDcoretop_E84	3631	3	197	Indeterminable: unknown	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	495	
-18	EPDcoretop_E84	165	32	165	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	495	
+samplename	original_varname	acc_varname	groupid	count	percentage
+EPDcoretop_E84	Alnus	Alnus	TRSH	28	5.6565657
+EPDcoretop_E84	Betula	Betula	TRSH	48	9.6969697
+EPDcoretop_E84	Calluna vulgaris	Calluna vulgaris	TRSH	175	35.353535
+EPDcoretop_E84	Corylus/Myrica	Corylus/Myrica	TRSH	28	5.6565657
+EPDcoretop_E84	Empetrum	Empetrum nigrum	DWAR	4	0.80808081
+EPDcoretop_E84	Erica	Erica	DWAR	9	1.8181818
+EPDcoretop_E84	Fraxinus	Fraxinus	TRSH	2	0.4040404
+EPDcoretop_E84	Myrica-type	Myrica-type	TRSH	7	1.4141414
+EPDcoretop_E84	Pinus	Pinus	TRSH	18	3.6363636
+EPDcoretop_E84	Quercus	Quercus	TRSH	4	0.80808081
+EPDcoretop_E84	Vaccinium	Vaccinium	DWAR	1	0.2020202
+EPDcoretop_E84	Cyperaceae	Cyperaceae	HERB	145	29.292929
+EPDcoretop_E84	Filipendula	Filipendula	HERB	1	0.2020202
+EPDcoretop_E84	Plantago lanceolata	Plantago lanceolata-type	HERB	3	0.60606061
+EPDcoretop_E84	Gramineae	Poaceae	HERB	14	2.8282828
+EPDcoretop_E84	Potentilla	Potentilla-type	HERB	1	0.2020202
+EPDcoretop_E84	Indeterminable: unknown	Indeterminable: unknown	INUN	3	
+EPDcoretop_E84	Filicopsida	Filicopsida	VACR	7	1.4141414
+EPDcoretop_E84	Sphagnum	Sphagnum	NOPO	32	

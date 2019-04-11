@@ -1,28 +1,28 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	EPDcoretop_E574	5	1	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	316	0.3164557
-1	EPDcoretop_E574	55	1	55	Cistus	Cistus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	316	0.3164557
-2	EPDcoretop_E574	179	2	179	Ephedra	Ephedra	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	316	0.63291139
-3	EPDcoretop_E574	11	4	11	Ericaceae	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	316	1.2658228
-4	EPDcoretop_E574	455	28	95	Olea	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	316	8.8607595
-5	EPDcoretop_E574	101	2	101	Phillyrea	Phillyrea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	316	0.63291139
-6	EPDcoretop_E574	19	40	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	316	12.658228
-7	EPDcoretop_E574	103	1	103	Pistacia	Pistacia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	316	0.3164557
-8	EPDcoretop_E574	1062	14	22	Quercus ilex-type	Quercus ilex-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	316	4.4303797
-9	EPDcoretop_E574	173	3	21	Quercus robur-type	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	316	0.94936709
-10	EPDcoretop_E574	118	1	118	Rosaceae	Rosaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	316	0.3164557
-11	EPDcoretop_E574	4213	3	4213	Thymelaea	Thymelaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	316	0.94936709
-12	EPDcoretop_E574	31	1	31	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	316	0.3164557
-13	EPDcoretop_E574	37	27	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	316	8.5443038
-14	EPDcoretop_E574	1075	2	50	Cerealia-type	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	316	0.63291139
-15	EPDcoretop_E574	52	108	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	316	34.177215
-16	EPDcoretop_E574	3381	3	3381	Compositae subfam. Asteroideae	Compositae subfam. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	316	0.94936709
-17	EPDcoretop_E574	3383	61	3383	Compositae subfam. Cichorioideae	Compositae subfam. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	316	19.303797
-18	EPDcoretop_E574	1338	1	1338	Convolvulus	Convolvulus	HERB	Herbs	HERB	True	True	Herbs	5	316	0.3164557
-19	EPDcoretop_E574	68	1	68	Euphorbia	Euphorbia	HERB	Herbs	HERB	True	True	Herbs	5	316	0.3164557
-20	EPDcoretop_E574	497	1	86	Labiatae	Lamiaceae	HERB	Herbs	HERB	True	True	Herbs	5	316	0.3164557
-21	EPDcoretop_E574	90	1	90	Lythrum	Lythrum	HERB	Herbs	HERB	True	True	Herbs	5	316	0.3164557
-22	EPDcoretop_E574	735	2	286	Plantago	Plantago	HERB	Herbs	HERB	True	True	Herbs	5	316	0.63291139
-23	EPDcoretop_E574	1611	7	106	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	316	2.2151899
-24	EPDcoretop_E574	137	1	137	Thalictrum	Thalictrum	HERB	Herbs	HERB	True	True	Herbs	5	316	0.3164557
-25	EPDcoretop_E574	2097	3	409	Pseudoschizaea	Pseudoschizaea	ALGA	Algae	AQUA	False	True	Aquatics	7	316	0.94936709
-26	EPDcoretop_E574	3746	2	3746	Monocotyledones	Monocotyledones	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	316	
+samplename	original_varname	acc_varname	groupid	count	percentage
+EPDcoretop_E574	Betula	Betula	TRSH	1	0.3164557
+EPDcoretop_E574	Cistus	Cistus	TRSH	1	0.3164557
+EPDcoretop_E574	Ephedra	Ephedra	TRSH	2	0.63291139
+EPDcoretop_E574	Ericaceae	Ericales (tetrad)	DWAR	4	1.2658228
+EPDcoretop_E574	Olea	Olea europaea	TRSH	28	8.8607595
+EPDcoretop_E574	Phillyrea	Phillyrea	TRSH	2	0.63291139
+EPDcoretop_E574	Pinus	Pinus	TRSH	40	12.658228
+EPDcoretop_E574	Pistacia	Pistacia	TRSH	1	0.3164557
+EPDcoretop_E574	Quercus ilex-type	Quercus ilex-type	TRSH	14	4.4303797
+EPDcoretop_E574	Quercus robur-type	Quercus robur-type	TRSH	3	0.94936709
+EPDcoretop_E574	Rosaceae	Rosaceae	TRSH	1	0.3164557
+EPDcoretop_E574	Thymelaea	Thymelaea	TRSH	3	0.94936709
+EPDcoretop_E574	Ulmus	Ulmus/Zelkova	TRSH	1	0.3164557
+EPDcoretop_E574	Artemisia	Artemisia	HERB	27	8.5443038
+EPDcoretop_E574	Cerealia-type	Cerealia-type	HERB	2	0.63291139
+EPDcoretop_E574	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	108	34.177215
+EPDcoretop_E574	Compositae subfam. Asteroideae	Compositae subfam. Asteroideae	HERB	3	0.94936709
+EPDcoretop_E574	Compositae subfam. Cichorioideae	Compositae subfam. Cichorioideae	HERB	61	19.303797
+EPDcoretop_E574	Convolvulus	Convolvulus	HERB	1	0.3164557
+EPDcoretop_E574	Euphorbia	Euphorbia	HERB	1	0.3164557
+EPDcoretop_E574	Labiatae	Lamiaceae	HERB	1	0.3164557
+EPDcoretop_E574	Lythrum	Lythrum	HERB	1	0.3164557
+EPDcoretop_E574	Plantago	Plantago	HERB	2	0.63291139
+EPDcoretop_E574	Gramineae	Poaceae	HERB	7	2.2151899
+EPDcoretop_E574	Thalictrum	Thalictrum	HERB	1	0.3164557
+EPDcoretop_E574	Pseudoschizaea	Pseudoschizaea	ALGA	3	0.94936709
+EPDcoretop_E574	Monocotyledones	Monocotyledones	INUN	2	

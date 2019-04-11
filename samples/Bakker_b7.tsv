@@ -1,27 +1,27 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Bakker_b7	3046	5	3046	Abies cilicica	Abies cilicica	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1036	0.48262548
-1	Bakker_b7	3160	13	3160	Atraphaxis	Atraphaxis	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1036	1.2548263
-2	Bakker_b7	3240	11	3240	Cedrus libani	Cedrus libani	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1036	1.0617761
-3	Bakker_b7	1158	8	211	Juglans regia	Juglans regia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1036	0.77220077
-4	Bakker_b7	95	8	95	Olea europaea	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1036	0.77220077
-5	Bakker_b7	19	809	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1036	78.088803
-6	Bakker_b7	1061	5	110	Quercus cerris-type	Quercus cerris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1036	0.48262548
-7	Bakker_b7	3981	21	3981	Quercus coccifera-type	Quercus coccifera-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1036	2.027027
-8	Bakker_b7	1424	4	643	Rosa-type	Rosa	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1036	0.38610039
-9	Bakker_b7	4195	4	4195	Styrax officinalis	Styrax officinalis	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1036	0.38610039
-10	Bakker_b7	3134	58	3134	Artemisia herba-alba-type	Artemisia herba-alba-type	HERB	Herbs	HERB	True	True	Herbs	5	1036	5.5984556
-11	Bakker_b7	752	1	53	Lactuceae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	1036	0.096525097
-12	Bakker_b7	1448	35	40	Astragalus-type	Astragalus-type	HERB	Herbs	HERB	True	True	Herbs	5	1036	3.3783784
-13	Bakker_b7	1658	10	42	Brassica	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	1036	0.96525097
-14	Bakker_b7	3220	1	3220	Capsella-type	Capsella-type	HERB	Herbs	HERB	True	True	Herbs	5	1036	0.096525097
-15	Bakker_b7	3245	5	3245	Centaurea solstitialis-type	Centaurea solstitialis-type	HERB	Herbs	HERB	True	True	Herbs	5	1036	0.48262548
-16	Bakker_b7	1075	10	50	Cerealia-type	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	1036	0.96525097
-17	Bakker_b7	3348	4	3348	Chenopodiaceae undifferentiated	Chenopodiaceae undifferentiated	HERB	Herbs	HERB	True	True	Herbs	5	1036	0.38610039
-18	Bakker_b7	61	1	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	1036	0.096525097
-19	Bakker_b7	68	3	68	Euphorbia	Euphorbia	HERB	Herbs	HERB	True	True	Herbs	5	1036	0.28957529
-20	Bakker_b7	3548	1	3548	Galium-type	Galium-type	HERB	Herbs	HERB	True	True	Herbs	5	1036	0.096525097
-21	Bakker_b7	3592	1	3592	Helianthemum-type	Helianthemum-type	HERB	Herbs	HERB	True	True	Herbs	5	1036	0.096525097
-22	Bakker_b7	3661	2	3661	Lamium-type	Lamium-type	HERB	Herbs	HERB	True	True	Herbs	5	1036	0.19305019
-23	Bakker_b7	600	1	34	Anthemis-type	Matricaria-type	HERB	Herbs	HERB	True	True	Herbs	5	1036	0.096525097
-24	Bakker_b7	106	15	106	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	1036	1.4478764
-25	Bakker_b7	3631	1	197	Indeterminable: unknown	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	1036	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Bakker_b7	Abies cilicica	Abies cilicica	TRSH	5	0.48262548
+Bakker_b7	Atraphaxis	Atraphaxis	TRSH	13	1.2548263
+Bakker_b7	Cedrus libani	Cedrus libani	TRSH	11	1.0617761
+Bakker_b7	Juglans regia	Juglans regia	TRSH	8	0.77220077
+Bakker_b7	Olea europaea	Olea europaea	TRSH	8	0.77220077
+Bakker_b7	Pinus	Pinus	TRSH	809	78.088803
+Bakker_b7	Quercus cerris-type	Quercus cerris-type	TRSH	5	0.48262548
+Bakker_b7	Quercus coccifera-type	Quercus coccifera-type	TRSH	21	2.027027
+Bakker_b7	Rosa-type	Rosa	TRSH	4	0.38610039
+Bakker_b7	Styrax officinalis	Styrax officinalis	TRSH	4	0.38610039
+Bakker_b7	Artemisia herba-alba-type	Artemisia herba-alba-type	HERB	58	5.5984556
+Bakker_b7	Lactuceae	Asteraceae subf. Cichorioideae	HERB	1	0.096525097
+Bakker_b7	Astragalus-type	Astragalus-type	HERB	35	3.3783784
+Bakker_b7	Brassica	Brassicaceae	HERB	10	0.96525097
+Bakker_b7	Capsella-type	Capsella-type	HERB	1	0.096525097
+Bakker_b7	Centaurea solstitialis-type	Centaurea solstitialis-type	HERB	5	0.48262548
+Bakker_b7	Cerealia-type	Cerealia-type	HERB	10	0.96525097
+Bakker_b7	Chenopodiaceae undifferentiated	Chenopodiaceae undifferentiated	HERB	4	0.38610039
+Bakker_b7	Cyperaceae	Cyperaceae	HERB	1	0.096525097
+Bakker_b7	Euphorbia	Euphorbia	HERB	3	0.28957529
+Bakker_b7	Galium-type	Galium-type	HERB	1	0.096525097
+Bakker_b7	Helianthemum-type	Helianthemum-type	HERB	1	0.096525097
+Bakker_b7	Lamium-type	Lamium-type	HERB	2	0.19305019
+Bakker_b7	Anthemis-type	Matricaria-type	HERB	1	0.096525097
+Bakker_b7	Poaceae	Poaceae	HERB	15	1.4478764
+Bakker_b7	Indeterminable: unknown	Indeterminable: unknown	INUN	1	

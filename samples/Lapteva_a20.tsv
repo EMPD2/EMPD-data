@@ -1,24 +1,24 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Lapteva_a20	175	8	175	Alnus glutinosa-type	Alnus glutinosa-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1081	0.7400555
-1	Lapteva_a20	2123	43	150	Betula pubescens-type	Betula pubescens-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1081	3.9777983
-2	Lapteva_a20	179	1	179	Ephedra	Ephedra	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1081	0.092506938
-3	Lapteva_a20	18	1	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1081	0.092506938
-4	Lapteva_a20	799	125	148	Pinus sylvestris	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1081	11.563367
-5	Lapteva_a20	118	6	118	Rosaceae	Rosaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1081	0.55504163
-6	Lapteva_a20	174	3	174	Tilia cordata-type	Tilia cordata-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1081	0.27752081
-7	Lapteva_a20	4261	1	4261	Ulmus glabra-type	Ulmus glabra-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1081	0.092506938
-8	Lapteva_a20	36	1	36	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	1081	0.092506938
-9	Lapteva_a20	37	269	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	1081	24.884366
-10	Lapteva_a20	42	1	42	Brassicaceae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	1081	0.092506938
-11	Lapteva_a20	46	1	46	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	1081	0.092506938
-12	Lapteva_a20	50	14	50	Cerealia	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	1081	1.2950971
-13	Lapteva_a20	52	328	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	1081	30.342276
-14	Lapteva_a20	3381	13	3381	Compositae subfam. Asteroideae	Compositae subfam. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	1081	1.2025902
-15	Lapteva_a20	3383	7	3383	Compositae subfam. Cichorioideae	Compositae subfam. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	1081	0.64754857
-16	Lapteva_a20	69	7	69	Fabaceae	Fabaceae	HERB	Herbs	HERB	True	True	Herbs	5	1081	0.64754857
-17	Lapteva_a20	86	4	86	Lamiaceae	Lamiaceae	HERB	Herbs	HERB	True	True	Herbs	5	1081	0.37002775
-18	Lapteva_a20	106	213	106	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	1081	19.703978
-19	Lapteva_a20	159	20	159	Polygonaceae	Polygonaceae	HERB	Herbs	HERB	True	True	Herbs	5	1081	1.8501388
-20	Lapteva_a20	193	3	193	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	Herbs	HERB	True	True	Herbs	5	1081	0.27752081
-21	Lapteva_a20	168	12	168	Bryales	Bryophyte spores	BRYO	Bryophytes	VACR	True	True	Ferns	6	1081	1.1100833
-22	Lapteva_a20	3630	21	3630	Indeterminable: undifferentiated	Indeterminable: undifferentiated	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	1081	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Lapteva_a20	Alnus glutinosa-type	Alnus glutinosa-type	TRSH	8	0.7400555
+Lapteva_a20	Betula pubescens-type	Betula pubescens-type	TRSH	43	3.9777983
+Lapteva_a20	Ephedra	Ephedra	TRSH	1	0.092506938
+Lapteva_a20	Picea	Picea	TRSH	1	0.092506938
+Lapteva_a20	Pinus sylvestris	Pinus sylvestris-type	TRSH	125	11.563367
+Lapteva_a20	Rosaceae	Rosaceae	TRSH	6	0.55504163
+Lapteva_a20	Tilia cordata-type	Tilia cordata-type	TRSH	3	0.27752081
+Lapteva_a20	Ulmus glabra-type	Ulmus glabra-type	TRSH	1	0.092506938
+Lapteva_a20	Apiaceae	Apiaceae	HERB	1	0.092506938
+Lapteva_a20	Artemisia	Artemisia	HERB	269	24.884366
+Lapteva_a20	Brassicaceae	Brassicaceae	HERB	1	0.092506938
+Lapteva_a20	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	1	0.092506938
+Lapteva_a20	Cerealia	Cerealia-type	HERB	14	1.2950971
+Lapteva_a20	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	328	30.342276
+Lapteva_a20	Compositae subfam. Asteroideae	Compositae subfam. Asteroideae	HERB	13	1.2025902
+Lapteva_a20	Compositae subfam. Cichorioideae	Compositae subfam. Cichorioideae	HERB	7	0.64754857
+Lapteva_a20	Fabaceae	Fabaceae	HERB	7	0.64754857
+Lapteva_a20	Lamiaceae	Lamiaceae	HERB	4	0.37002775
+Lapteva_a20	Poaceae	Poaceae	HERB	213	19.703978
+Lapteva_a20	Polygonaceae	Polygonaceae	HERB	20	1.8501388
+Lapteva_a20	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	3	0.27752081
+Lapteva_a20	Indeterminable: undifferentiated	Indeterminable: undifferentiated	INUN	21	
+Lapteva_a20	Bryales	Bryophyte spores	BRYO	12	1.1100833

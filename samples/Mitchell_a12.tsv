@@ -1,28 +1,28 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Mitchell_a12	4	4	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	282	1.4184397
-1	Mitchell_a12	1640	4	343	Arbutus	Arbutus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	282	1.4184397
-2	Mitchell_a12	5	54	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	282	19.148936
-3	Mitchell_a12	3209	3	3209	Calluna	Calluna	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	282	1.0638298
-4	Mitchell_a12	9	4	9	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	282	1.4184397
-5	Mitchell_a12	12	7	12	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	282	2.4822695
-6	Mitchell_a12	13	2	13	Fraxinus	Fraxinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	282	0.70921986
-7	Mitchell_a12	515	3	79	Hedera	Hedera	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	282	1.0638298
-8	Mitchell_a12	14	4	14	Ilex	Ilex	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	282	1.4184397
-9	Mitchell_a12	19	4	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	282	1.4184397
-10	Mitchell_a12	208	25	208	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	282	8.8652482
-11	Mitchell_a12	4045	3	4045	Rosaceae undifferentiated	Rosaceae undifferentiated	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	282	1.0638298
-12	Mitchell_a12	25	5	25	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	282	1.7730496
-13	Mitchell_a12	215	121	136	Taxus	Taxus baccata	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	282	42.907801
-14	Mitchell_a12	4259	1	4259	Ulex	Ulex	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	282	0.35460993
-15	Mitchell_a12	31	1	31	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	282	0.35460993
-16	Mitchell_a12	552	1	552	Vaccinium	Vaccinium	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	282	0.35460993
-17	Mitchell_a12	3393	1	3393	Conopodium	Conopodium	HERB	Herbs	HERB	True	True	Herbs	5	282	0.35460993
-18	Mitchell_a12	2346	2	2346	Linum catharticum	Linum catharticum	HERB	Herbs	HERB	True	True	Herbs	5	282	0.70921986
-19	Mitchell_a12	486	1	486	Melampyrum	Melampyrum	HERB	Herbs	HERB	True	True	Herbs	5	282	0.35460993
-20	Mitchell_a12	87	2	87	Plantago lanceolata	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	282	0.70921986
-21	Mitchell_a12	1611	21	106	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	282	7.4468085
-22	Mitchell_a12	1376	1	524	Potentilla	Potentilla-type	HERB	Herbs	HERB	True	True	Herbs	5	282	0.35460993
-23	Mitchell_a12	640	1	290	Ranunculus	Ranunculus-type	HERB	Herbs	HERB	True	True	Herbs	5	282	0.35460993
-24	Mitchell_a12	3523	4	3523	Filicales undifferentiated	Filicales undifferentiated	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	282	1.4184397
-25	Mitchell_a12	1279	3	1279	Pteridium	Pteridium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	282	1.0638298
-26	Mitchell_a12	3629	6	3629	Indeterminable: deteriorated	Indeterminable: deteriorated	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	282	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Mitchell_a12	Alnus	Alnus	TRSH	4	1.4184397
+Mitchell_a12	Arbutus	Arbutus	TRSH	4	1.4184397
+Mitchell_a12	Betula	Betula	TRSH	54	19.148936
+Mitchell_a12	Calluna	Calluna	DWAR	3	1.0638298
+Mitchell_a12	Corylus	Corylus	TRSH	4	1.4184397
+Mitchell_a12	Fagus	Fagus	TRSH	7	2.4822695
+Mitchell_a12	Fraxinus	Fraxinus	TRSH	2	0.70921986
+Mitchell_a12	Hedera	Hedera	TRSH	3	1.0638298
+Mitchell_a12	Ilex	Ilex	TRSH	4	1.4184397
+Mitchell_a12	Pinus	Pinus	TRSH	4	1.4184397
+Mitchell_a12	Quercus	Quercus	TRSH	25	8.8652482
+Mitchell_a12	Rosaceae undifferentiated	Rosaceae undifferentiated	TRSH	3	1.0638298
+Mitchell_a12	Salix	Salix	TRSH	5	1.7730496
+Mitchell_a12	Taxus	Taxus baccata	TRSH	121	42.907801
+Mitchell_a12	Ulex	Ulex	TRSH	1	0.35460993
+Mitchell_a12	Ulmus	Ulmus/Zelkova	TRSH	1	0.35460993
+Mitchell_a12	Vaccinium	Vaccinium	DWAR	1	0.35460993
+Mitchell_a12	Conopodium	Conopodium	HERB	1	0.35460993
+Mitchell_a12	Linum catharticum	Linum catharticum	HERB	2	0.70921986
+Mitchell_a12	Melampyrum	Melampyrum	HERB	1	0.35460993
+Mitchell_a12	Plantago lanceolata	Plantago lanceolata-type	HERB	2	0.70921986
+Mitchell_a12	Gramineae	Poaceae	HERB	21	7.4468085
+Mitchell_a12	Potentilla	Potentilla-type	HERB	1	0.35460993
+Mitchell_a12	Ranunculus	Ranunculus-type	HERB	1	0.35460993
+Mitchell_a12	Indeterminable: deteriorated	Indeterminable: deteriorated	INUN	6	
+Mitchell_a12	Filicales undifferentiated	Filicales undifferentiated	VACR	4	1.4184397
+Mitchell_a12	Pteridium	Pteridium	VACR	3	1.0638298

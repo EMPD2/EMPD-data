@@ -1,22 +1,22 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	EPDcoretop_E200	4	1	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	305	0.32786885
-1	EPDcoretop_E200	1640	1	343	Arbutus	Arbutus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	305	0.32786885
-2	EPDcoretop_E200	5	13	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	305	4.2622951
-3	EPDcoretop_E200	470	29	470	Calluna vulgaris	Calluna vulgaris	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	305	9.5081967
-4	EPDcoretop_E200	9	4	9	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	305	1.3114754
-5	EPDcoretop_E200	515	2	79	Hedera	Hedera	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	305	0.6557377
-6	EPDcoretop_E200	14	18	14	Ilex	Ilex	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	305	5.9016393
-7	EPDcoretop_E200	19	9	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	305	2.9508197
-8	EPDcoretop_E200	208	202	208	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	305	66.229508
-9	EPDcoretop_E200	132	1	132	Sorbus	Sorbus-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	305	0.32786885
-10	EPDcoretop_E200	599	1	599	Anemone	Anemone nemorosa-type	HERB	Herbs	HERB	True	True	Herbs	5	305	0.32786885
-11	EPDcoretop_E200	486	1	486	Melampyrum	Melampyrum	HERB	Herbs	HERB	True	True	Herbs	5	305	0.32786885
-12	EPDcoretop_E200	87	1	87	Plantago lanceolata	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	305	0.32786885
-13	EPDcoretop_E200	1611	16	106	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	305	5.2459016
-14	EPDcoretop_E200	3619	1	3619	Hymenophyllum tunbrigense	Hymenophyllum tunbrigense	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	305	0.32786885
-15	EPDcoretop_E200	677	1	230	Polypodium	Polypodium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	305	0.32786885
-16	EPDcoretop_E200	1279	4	1279	Pteridium	Pteridium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	305	1.3114754
-17	EPDcoretop_E200	3626	8	1009	Indeterminable: concealed	Indeterminable: concealed	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	305	
-18	EPDcoretop_E200	3628	3	1934	Indeterminable: crumpled	Indeterminable: crumpled	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	305	
-19	EPDcoretop_E200	3629	9	3629	Indeterminable: deteriorated	Indeterminable: deteriorated	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	305	
-20	EPDcoretop_E200	3542	42	2752	Fungal Hyphae	Fungal Hyphae	FUNG	Fungi	NOPO	False	False	Nonpollen	30	305	
+samplename	original_varname	acc_varname	groupid	count	percentage
+EPDcoretop_E200	Alnus	Alnus	TRSH	1	0.32786885
+EPDcoretop_E200	Arbutus	Arbutus	TRSH	1	0.32786885
+EPDcoretop_E200	Betula	Betula	TRSH	13	4.2622951
+EPDcoretop_E200	Calluna vulgaris	Calluna vulgaris	TRSH	29	9.5081967
+EPDcoretop_E200	Corylus	Corylus	TRSH	4	1.3114754
+EPDcoretop_E200	Hedera	Hedera	TRSH	2	0.6557377
+EPDcoretop_E200	Ilex	Ilex	TRSH	18	5.9016393
+EPDcoretop_E200	Pinus	Pinus	TRSH	9	2.9508197
+EPDcoretop_E200	Quercus	Quercus	TRSH	202	66.229508
+EPDcoretop_E200	Sorbus	Sorbus-type	TRSH	1	0.32786885
+EPDcoretop_E200	Anemone	Anemone nemorosa-type	HERB	1	0.32786885
+EPDcoretop_E200	Melampyrum	Melampyrum	HERB	1	0.32786885
+EPDcoretop_E200	Plantago lanceolata	Plantago lanceolata-type	HERB	1	0.32786885
+EPDcoretop_E200	Gramineae	Poaceae	HERB	16	5.2459016
+EPDcoretop_E200	Indeterminable: concealed	Indeterminable: concealed	INUN	8	
+EPDcoretop_E200	Indeterminable: crumpled	Indeterminable: crumpled	INUN	3	
+EPDcoretop_E200	Indeterminable: deteriorated	Indeterminable: deteriorated	INUN	9	
+EPDcoretop_E200	Fungal Hyphae	Fungal Hyphae	FUNG	42	
+EPDcoretop_E200	Hymenophyllum tunbrigense	Hymenophyllum tunbrigense	VACR	1	0.32786885
+EPDcoretop_E200	Polypodium	Polypodium	VACR	1	0.32786885
+EPDcoretop_E200	Pteridium	Pteridium	VACR	4	1.3114754

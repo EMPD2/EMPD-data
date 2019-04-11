@@ -1,31 +1,31 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Sadori_g2	2	1	2	Acer	Acer campestre-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	733	0.13642565
-1	Sadori_g2	4	5	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	733	0.68212824
-2	Sadori_g2	574	43	7	Carpinus betulus	Carpinus betulus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	733	5.8663029
-3	Sadori_g2	454	9	47	Castanea	Castanea sativa	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	733	1.2278308
-4	Sadori_g2	9	46	9	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	733	6.2755798
-5	Sadori_g2	11	10	11	Ericaceae	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	733	1.3642565
-6	Sadori_g2	12	436	12	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	733	59.481583
-7	Sadori_g2	13	3	13	Fraxinus	Fraxinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	733	0.40927694
-8	Sadori_g2	3768	1	393	Myrtaceae	Myrtaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	733	0.13642565
-9	Sadori_g2	455	11	95	Olea	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	733	1.5006821
-10	Sadori_g2	582	21	97	Ostrya	Ostrya/Carpinus orientalis	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	733	2.8649386
-11	Sadori_g2	18	4	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	733	0.54570259
-12	Sadori_g2	19	27	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	733	3.6834925
-13	Sadori_g2	1062	10	22	Quercus ilex-type	Quercus ilex-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	733	1.3642565
-14	Sadori_g2	21	14	21	Quercus deciduous	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	733	1.9099591
-15	Sadori_g2	146	2	146	Vitis	Vitis	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	733	0.2728513
-16	Sadori_g2	601	4	36	Umbelliferae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	733	0.54570259
-17	Sadori_g2	772	1	180	Asteroideae	Asteraceae subf. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	733	0.13642565
-18	Sadori_g2	460	2	53	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	733	0.2728513
-19	Sadori_g2	494	26	42	Cruciferae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	733	3.5470668
-20	Sadori_g2	46	10	46	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	733	1.3642565
-21	Sadori_g2	52	1	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	733	0.13642565
-22	Sadori_g2	497	1	86	Labiatae	Lamiaceae	HERB	Herbs	HERB	True	True	Herbs	5	733	0.13642565
-23	Sadori_g2	735	3	286	Plantago	Plantago	HERB	Herbs	HERB	True	True	Herbs	5	733	0.40927694
-24	Sadori_g2	1611	38	106	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	733	5.1841746
-25	Sadori_g2	156	1	156	Ranunculaceae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	733	0.13642565
-26	Sadori_g2	119	2	119	Rubiaceae	Rubiaceae	HERB	Herbs	HERB	True	True	Herbs	5	733	0.2728513
-27	Sadori_g2	738	1	120	Rumex	Rumex/Oxyria	HERB	Herbs	HERB	True	True	Herbs	5	733	0.13642565
-28	Sadori_g2	703	13500	703	Lycopodium (added)	Lycopodium (added)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	733	
-29	Sadori_g2	571	2	571	Lycopodium (counted)	Lycopodium (counted)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	733	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Sadori_g2	Acer	Acer campestre-type	TRSH	1	0.13642565
+Sadori_g2	Alnus	Alnus	TRSH	5	0.68212824
+Sadori_g2	Carpinus betulus	Carpinus betulus	TRSH	43	5.8663029
+Sadori_g2	Castanea	Castanea sativa	TRSH	9	1.2278308
+Sadori_g2	Corylus	Corylus	TRSH	46	6.2755798
+Sadori_g2	Ericaceae	Ericales (tetrad)	DWAR	10	1.3642565
+Sadori_g2	Fagus	Fagus	TRSH	436	59.481583
+Sadori_g2	Fraxinus	Fraxinus	TRSH	3	0.40927694
+Sadori_g2	Myrtaceae	Myrtaceae	TRSH	1	0.13642565
+Sadori_g2	Olea	Olea europaea	TRSH	11	1.5006821
+Sadori_g2	Ostrya	Ostrya/Carpinus orientalis	TRSH	21	2.8649386
+Sadori_g2	Picea	Picea	TRSH	4	0.54570259
+Sadori_g2	Pinus	Pinus	TRSH	27	3.6834925
+Sadori_g2	Quercus ilex-type	Quercus ilex-type	TRSH	10	1.3642565
+Sadori_g2	Quercus deciduous	Quercus robur-type	TRSH	14	1.9099591
+Sadori_g2	Vitis	Vitis	TRSH	2	0.2728513
+Sadori_g2	Umbelliferae	Apiaceae	HERB	4	0.54570259
+Sadori_g2	Asteroideae	Asteraceae subf. Asteroideae	HERB	1	0.13642565
+Sadori_g2	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	2	0.2728513
+Sadori_g2	Cruciferae	Brassicaceae	HERB	26	3.5470668
+Sadori_g2	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	10	1.3642565
+Sadori_g2	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.13642565
+Sadori_g2	Labiatae	Lamiaceae	HERB	1	0.13642565
+Sadori_g2	Plantago	Plantago	HERB	3	0.40927694
+Sadori_g2	Gramineae	Poaceae	HERB	38	5.1841746
+Sadori_g2	Ranunculaceae	Ranunculaceae	HERB	1	0.13642565
+Sadori_g2	Rubiaceae	Rubiaceae	HERB	2	0.2728513
+Sadori_g2	Rumex	Rumex/Oxyria	HERB	1	0.13642565
+Sadori_g2	Lycopodium (added)	Lycopodium (added)	NOPO	13500	
+Sadori_g2	Lycopodium (counted)	Lycopodium (counted)	NOPO	2	

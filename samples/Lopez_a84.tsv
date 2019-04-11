@@ -1,24 +1,24 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Lopez_a84	2	3	2	Acer	Acer campestre-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	241	1.2448133
-1	Lopez_a84	5	3	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	241	1.2448133
-2	Lopez_a84	3438	2	3438	Daphne gnidium-type	Daphne gnidium-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	241	0.82987552
-3	Lopez_a84	749	2	28	Juniperus-type	Juniperus-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	241	0.82987552
-4	Lopez_a84	452	9	452	Pinus pinaster	Pinus pinaster	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	241	3.7344398
-5	Lopez_a84	3858	21	3858	Pinus pinea/halepensis-type	Pinus pinea/halepensis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	241	8.7136929
-6	Lopez_a84	3862	1	3862	Pinus sylvestris/nigra-type	Pinus sylvestris/nigra-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	241	0.41493776
-7	Lopez_a84	451	89	110	Quercus suber	Quercus cerris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	241	36.929461
-8	Lopez_a84	22	45	22	Quercus evergreen	Quercus ilex-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	241	18.672199
-9	Lopez_a84	21	4	21	Quercus deciduous	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	241	1.659751
-10	Lopez_a84	4044	7	4044	Rosaceae undiff,	Rosaceae undiff,	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	241	2.9045643
-11	Lopez_a84	608	2	41	Aster-type	Aster-type	HERB	Herbs	HERB	True	True	Herbs	5	241	0.82987552
-12	Lopez_a84	458	1	352	Cardueae	Asteraceae subf. Carduoideae	HERB	Herbs	HERB	True	True	Herbs	5	241	0.41493776
-13	Lopez_a84	460	2	53	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	241	0.82987552
-14	Lopez_a84	494	1	42	Cruciferae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	241	0.41493776
-15	Lopez_a84	3361	7	3361	Cistus ladanifer	Cistus ladanifer	HERB	Herbs	HERB	True	True	Herbs	5	241	2.9045643
-16	Lopez_a84	497	1	86	Labiatae	Lamiaceae	HERB	Herbs	HERB	True	True	Herbs	5	241	0.41493776
-17	Lopez_a84	486	3	486	Melampyrum	Melampyrum	HERB	Herbs	HERB	True	True	Herbs	5	241	1.2448133
-18	Lopez_a84	2928	13	106	Poaceae undifferentiated	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	241	5.3941909
-19	Lopez_a84	4270	2	466	Urtica dioica-type	Urtica dioica-type	HERB	Herbs	HERB	True	True	Herbs	5	241	0.82987552
-20	Lopez_a84	3749	7	3749	Monolete fern spores undifferentiated	Monolete fern spores undifferentiated	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	241	2.9045643
-21	Lopez_a84	1279	13	1279	Pteridium	Pteridium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	241	5.3941909
-22	Lopez_a84	4235	3	4235	Trilete fern spores undifferentiated	Trilete fern spores undifferentiated	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	241	1.2448133
+samplename	original_varname	acc_varname	groupid	count	percentage
+Lopez_a84	Acer	Acer campestre-type	TRSH	3	1.2448133
+Lopez_a84	Betula	Betula	TRSH	3	1.2448133
+Lopez_a84	Daphne gnidium-type	Daphne gnidium-type	DWAR	2	0.82987552
+Lopez_a84	Juniperus-type	Juniperus-type	TRSH	2	0.82987552
+Lopez_a84	Pinus pinaster	Pinus pinaster	TRSH	9	3.7344398
+Lopez_a84	Pinus pinea/halepensis-type	Pinus pinea/halepensis-type	TRSH	21	8.7136929
+Lopez_a84	Pinus sylvestris/nigra-type	Pinus sylvestris/nigra-type	TRSH	1	0.41493776
+Lopez_a84	Quercus suber	Quercus cerris-type	TRSH	89	36.929461
+Lopez_a84	Quercus evergreen	Quercus ilex-type	TRSH	45	18.672199
+Lopez_a84	Quercus deciduous	Quercus robur-type	TRSH	4	1.659751
+Lopez_a84	Rosaceae undiff,	Rosaceae undiff,	TRSH	7	2.9045643
+Lopez_a84	Aster-type	Aster-type	HERB	2	0.82987552
+Lopez_a84	Cardueae	Asteraceae subf. Carduoideae	HERB	1	0.41493776
+Lopez_a84	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	2	0.82987552
+Lopez_a84	Cruciferae	Brassicaceae	HERB	1	0.41493776
+Lopez_a84	Cistus ladanifer	Cistus ladanifer	HERB	7	2.9045643
+Lopez_a84	Labiatae	Lamiaceae	HERB	1	0.41493776
+Lopez_a84	Melampyrum	Melampyrum	HERB	3	1.2448133
+Lopez_a84	Poaceae undifferentiated	Poaceae	HERB	13	5.3941909
+Lopez_a84	Urtica dioica-type	Urtica dioica-type	HERB	2	0.82987552
+Lopez_a84	Monolete fern spores undifferentiated	Monolete fern spores undifferentiated	VACR	7	2.9045643
+Lopez_a84	Pteridium	Pteridium	VACR	13	5.3941909
+Lopez_a84	Trilete fern spores undifferentiated	Trilete fern spores undifferentiated	VACR	3	1.2448133

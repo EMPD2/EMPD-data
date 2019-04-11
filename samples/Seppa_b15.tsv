@@ -1,25 +1,25 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Seppa_b15	4	6	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	504	1.1904762
-1	Seppa_b15	5	115	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	504	22.81746
-2	Seppa_b15	3182	3	3182	Betula/Corylus/Myrica	Betula/Corylus/Myrica	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	504	0.5952381
-3	Seppa_b15	950	1	750	Empetrum nigrum	Empetrum nigrum	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	504	0.1984127
-4	Seppa_b15	3498	1	3498	Ericaceae-type	Ericaceae-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	504	0.1984127
-5	Seppa_b15	952	6	85	Juniperus communis	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	504	1.1904762
-6	Seppa_b15	18	15	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	504	2.9761905
-7	Seppa_b15	799	330	148	Pinus sylvestris	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	504	65.47619
-8	Seppa_b15	4088	1	4088	Salix undifferentiated	Salix undifferentiated	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	504	0.1984127
-9	Seppa_b15	3463	1	3463	Drosera rotundifolia	Drosera rotundifolia	HERB	Herbs	HERB	True	True	Herbs	5	504	0.1984127
-10	Seppa_b15	73	1	73	Filipendula	Filipendula	HERB	Herbs	HERB	True	True	Herbs	5	504	0.1984127
-11	Seppa_b15	3573	9	3573	Gramineae undifferentiated	Gramineae undifferentiated	HERB	Herbs	HERB	True	True	Herbs	5	504	1.7857143
-12	Seppa_b15	637	1	524	Potentilla-type	Potentilla-type	HERB	Herbs	HERB	True	True	Herbs	5	504	0.1984127
-13	Seppa_b15	2120	1	192	Rubus chamaemorus	Rubus chamaemorus	HERB	Herbs	HERB	True	True	Herbs	5	504	0.1984127
-14	Seppa_b15	121	1	121	Rumex acetosa	Rumex acetosa-type	HERB	Herbs	HERB	True	True	Herbs	5	504	0.1984127
-15	Seppa_b15	4062	1	4062	Rumex acetosa/R. acetosella-type	Rumex acetosa/R. acetosella-type	HERB	Herbs	HERB	True	True	Herbs	5	504	0.1984127
-16	Seppa_b15	1408	1	122	Rumex acetosella-type	Rumex acetosella	HERB	Herbs	HERB	True	True	Herbs	5	504	0.1984127
-17	Seppa_b15	4263	1	4263	Umbelliferae undifferentiated	Umbelliferae undifferentiated	HERB	Herbs	HERB	True	True	Herbs	5	504	0.1984127
-18	Seppa_b15	663	1	663	Urtica	Urtica	HERB	Herbs	HERB	True	True	Herbs	5	504	0.1984127
-19	Seppa_b15	3451	1	3451	Diphasiastrum	Diphasiastrum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	504	0.1984127
-20	Seppa_b15	1257	3	783	Dryopteris-type	Dryopteris-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	504	0.5952381
-21	Seppa_b15	166	2	166	Equisetum	Equisetum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	504	0.3968254
-22	Seppa_b15	2129	2	1330	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	504	0.3968254
-23	Seppa_b15	3227	2	3227	Carex-type	Carex-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	504	0.3968254
+samplename	original_varname	acc_varname	groupid	count	percentage
+Seppa_b15	Alnus	Alnus	TRSH	6	1.1904762
+Seppa_b15	Betula	Betula	TRSH	115	22.81746
+Seppa_b15	Betula/Corylus/Myrica	Betula/Corylus/Myrica	TRSH	3	0.5952381
+Seppa_b15	Empetrum nigrum	Empetrum nigrum	DWAR	1	0.1984127
+Seppa_b15	Ericaceae-type	Ericaceae-type	DWAR	1	0.1984127
+Seppa_b15	Juniperus communis	Juniperus communis-type	TRSH	6	1.1904762
+Seppa_b15	Picea	Picea	TRSH	15	2.9761905
+Seppa_b15	Pinus sylvestris	Pinus sylvestris-type	TRSH	330	65.47619
+Seppa_b15	Salix undifferentiated	Salix undifferentiated	TRSH	1	0.1984127
+Seppa_b15	Drosera rotundifolia	Drosera rotundifolia	HERB	1	0.1984127
+Seppa_b15	Filipendula	Filipendula	HERB	1	0.1984127
+Seppa_b15	Gramineae undifferentiated	Gramineae undifferentiated	HERB	9	1.7857143
+Seppa_b15	Potentilla-type	Potentilla-type	HERB	1	0.1984127
+Seppa_b15	Rubus chamaemorus	Rubus chamaemorus	HERB	1	0.1984127
+Seppa_b15	Rumex acetosa	Rumex acetosa-type	HERB	1	0.1984127
+Seppa_b15	Rumex acetosa/R. acetosella-type	Rumex acetosa/R. acetosella-type	HERB	1	0.1984127
+Seppa_b15	Rumex acetosella-type	Rumex acetosella	HERB	1	0.1984127
+Seppa_b15	Umbelliferae undifferentiated	Umbelliferae undifferentiated	HERB	1	0.1984127
+Seppa_b15	Urtica	Urtica	HERB	1	0.1984127
+Seppa_b15	Carex-type	Carex-type	AQUA	2	0.3968254
+Seppa_b15	Diphasiastrum	Diphasiastrum	VACR	1	0.1984127
+Seppa_b15	Dryopteris-type	Dryopteris-type	VACR	3	0.5952381
+Seppa_b15	Equisetum	Equisetum	VACR	2	0.3968254
+Seppa_b15	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR	2	0.3968254

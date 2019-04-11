@@ -1,22 +1,22 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Barboni_a1044	66	1	66	Erica	Erica	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	426	0.23474178
-1	Barboni_a1044	3768	1	393	Myrtaceae	Myrtaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	426	0.23474178
-2	Barboni_a1044	95	5	95	Olea europaea	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	426	1.1737089
-3	Barboni_a1044	19	4	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	426	0.93896714
-4	Barboni_a1044	451	292	110	Quercus suber	Quercus cerris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	426	68.544601
-5	Barboni_a1044	118	4	118	Rosaceae	Rosaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	426	0.93896714
-6	Barboni_a1044	4214	4	2088	Thymelaeaceae	Thymelaeaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	426	0.93896714
-7	Barboni_a1044	601	2	36	Umbelliferae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	426	0.46948357
-8	Barboni_a1044	3144	1	3144	Asphodelus fistulosus-type	Asphodelus fistulosus-type	HERB	Herbs	HERB	True	True	Herbs	5	426	0.23474178
-9	Barboni_a1044	494	1	42	Cruciferae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	426	0.23474178
-10	Barboni_a1044	1075	2	50	Cerealia-type	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	426	0.46948357
-11	Barboni_a1044	780	1	52	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	426	0.23474178
-12	Barboni_a1044	1253	1	614	Cirsium-type	Cirsium	HERB	Herbs	HERB	True	True	Herbs	5	426	0.23474178
-13	Barboni_a1044	3381	9	3381	Compositae subfam. Asteroideae	Compositae subfam. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	426	2.1126761
-14	Barboni_a1044	3383	4	3383	Compositae subfam. Cichorioideae	Compositae subfam. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	426	0.93896714
-15	Barboni_a1044	755	10	755	Leguminosae	Leguminosae	HERB	Herbs	HERB	True	True	Herbs	5	426	2.3474178
-16	Barboni_a1044	1085	6	87	Plantago lanceolata-type	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	426	1.4084507
-17	Barboni_a1044	1611	42	106	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	426	9.8591549
-18	Barboni_a1044	738	34	120	Rumex	Rumex/Oxyria	HERB	Herbs	HERB	True	True	Herbs	5	426	7.9812207
-19	Barboni_a1044	193	1	193	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	Herbs	HERB	True	True	Herbs	5	426	0.23474178
-20	Barboni_a1044	4236	1	295	Trilete spore(s)	Trilete spore(s)	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	426	0.23474178
+samplename	original_varname	acc_varname	groupid	count	percentage
+Barboni_a1044	Erica	Erica	DWAR	1	0.23474178
+Barboni_a1044	Myrtaceae	Myrtaceae	TRSH	1	0.23474178
+Barboni_a1044	Olea europaea	Olea europaea	TRSH	5	1.1737089
+Barboni_a1044	Pinus	Pinus	TRSH	4	0.93896714
+Barboni_a1044	Quercus suber	Quercus cerris-type	TRSH	292	68.544601
+Barboni_a1044	Rosaceae	Rosaceae	TRSH	4	0.93896714
+Barboni_a1044	Thymelaeaceae	Thymelaeaceae	TRSH	4	0.93896714
+Barboni_a1044	Umbelliferae	Apiaceae	HERB	2	0.46948357
+Barboni_a1044	Asphodelus fistulosus-type	Asphodelus fistulosus-type	HERB	1	0.23474178
+Barboni_a1044	Cruciferae	Brassicaceae	HERB	1	0.23474178
+Barboni_a1044	Cerealia-type	Cerealia-type	HERB	2	0.46948357
+Barboni_a1044	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.23474178
+Barboni_a1044	Cirsium-type	Cirsium	HERB	1	0.23474178
+Barboni_a1044	Compositae subfam. Asteroideae	Compositae subfam. Asteroideae	HERB	9	2.1126761
+Barboni_a1044	Compositae subfam. Cichorioideae	Compositae subfam. Cichorioideae	HERB	4	0.93896714
+Barboni_a1044	Leguminosae	Leguminosae	HERB	10	2.3474178
+Barboni_a1044	Plantago lanceolata-type	Plantago lanceolata-type	HERB	6	1.4084507
+Barboni_a1044	Gramineae	Poaceae	HERB	42	9.8591549
+Barboni_a1044	Rumex	Rumex/Oxyria	HERB	34	7.9812207
+Barboni_a1044	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	1	0.23474178
+Barboni_a1044	Trilete spore(s)	Trilete spore(s)	VACR	1	0.23474178

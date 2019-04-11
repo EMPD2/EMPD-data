@@ -1,32 +1,32 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	EPDcoretop_E1054	4	17	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	480	3.5416667
-1	EPDcoretop_E1054	5	2	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	480	0.41666667
-2	EPDcoretop_E1054	9	7	9	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	480	1.4583333
-3	EPDcoretop_E1054	11	3	11	Ericaceae	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	480	0.625
-4	EPDcoretop_E1054	12	9	12	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	480	1.875
-5	EPDcoretop_E1054	14	1	14	Ilex	Ilex	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	480	0.20833333
-6	EPDcoretop_E1054	15	1	15	Juglans	Juglans	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	480	0.20833333
-7	EPDcoretop_E1054	19	7	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	480	1.4583333
-8	EPDcoretop_E1054	208	32	208	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	480	6.6666667
-9	EPDcoretop_E1054	31	12	31	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	480	2.5
-10	EPDcoretop_E1054	36	2	36	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	480	0.41666667
-11	EPDcoretop_E1054	42	7	42	Brassicaceae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	480	1.4583333
-12	EPDcoretop_E1054	157	2	157	Campanulaceae	Campanulaceae	HERB	Herbs	HERB	True	True	Herbs	5	480	0.41666667
-13	EPDcoretop_E1054	46	6	46	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	480	1.25
-14	EPDcoretop_E1054	50	17	50	Cerealia	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	480	3.5416667
-15	EPDcoretop_E1054	52	2	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	480	0.41666667
-16	EPDcoretop_E1054	3381	23	3381	Compositae subfam. Asteroideae	Compositae subfam. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	480	4.7916667
-17	EPDcoretop_E1054	3383	25	3383	Compositae subfam. Cichorioideae	Compositae subfam. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	480	5.2083333
-18	EPDcoretop_E1054	61	13	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	480	2.7083333
-19	EPDcoretop_E1054	69	4	69	Fabaceae	Fabaceae	HERB	Herbs	HERB	True	True	Herbs	5	480	0.83333333
-20	EPDcoretop_E1054	1258	4	1258	Fagopyrum	Fagopyrum	HERB	Herbs	HERB	True	True	Herbs	5	480	0.83333333
-21	EPDcoretop_E1054	185	1	185	Geraniaceae	Geraniaceae	HERB	Herbs	HERB	True	True	Herbs	5	480	0.20833333
-22	EPDcoretop_E1054	735	5	286	Plantago	Plantago	HERB	Herbs	HERB	True	True	Herbs	5	480	1.0416667
-23	EPDcoretop_E1054	106	250	106	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	480	52.083333
-24	EPDcoretop_E1054	156	2	156	Ranunculaceae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	480	0.41666667
-25	EPDcoretop_E1054	820	4	820	Urticaceae	Urticaceae	HERB	Herbs	HERB	True	True	Herbs	5	480	0.83333333
-26	EPDcoretop_E1054	164	2	164	Lycopodium	Lycopodium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	480	0.41666667
-27	EPDcoretop_E1054	3751	15	3751	Monolete spore(s)	Monolete spore(s)	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	480	3.125
-28	EPDcoretop_E1054	677	4	230	Polypodium	Polypodium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	480	0.83333333
-29	EPDcoretop_E1054	1989	1	1989	Pteris	Pteris	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	480	0.20833333
-30	EPDcoretop_E1054	4308	20	1888	Weight	Weight	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	480	
+samplename	original_varname	acc_varname	groupid	count	percentage
+EPDcoretop_E1054	Alnus	Alnus	TRSH	17	3.5416667
+EPDcoretop_E1054	Betula	Betula	TRSH	2	0.41666667
+EPDcoretop_E1054	Corylus	Corylus	TRSH	7	1.4583333
+EPDcoretop_E1054	Ericaceae	Ericales (tetrad)	DWAR	3	0.625
+EPDcoretop_E1054	Fagus	Fagus	TRSH	9	1.875
+EPDcoretop_E1054	Ilex	Ilex	TRSH	1	0.20833333
+EPDcoretop_E1054	Juglans	Juglans	TRSH	1	0.20833333
+EPDcoretop_E1054	Pinus	Pinus	TRSH	7	1.4583333
+EPDcoretop_E1054	Quercus	Quercus	TRSH	32	6.6666667
+EPDcoretop_E1054	Ulmus	Ulmus/Zelkova	TRSH	12	2.5
+EPDcoretop_E1054	Apiaceae	Apiaceae	HERB	2	0.41666667
+EPDcoretop_E1054	Brassicaceae	Brassicaceae	HERB	7	1.4583333
+EPDcoretop_E1054	Campanulaceae	Campanulaceae	HERB	2	0.41666667
+EPDcoretop_E1054	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	6	1.25
+EPDcoretop_E1054	Cerealia	Cerealia-type	HERB	17	3.5416667
+EPDcoretop_E1054	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	2	0.41666667
+EPDcoretop_E1054	Compositae subfam. Asteroideae	Compositae subfam. Asteroideae	HERB	23	4.7916667
+EPDcoretop_E1054	Compositae subfam. Cichorioideae	Compositae subfam. Cichorioideae	HERB	25	5.2083333
+EPDcoretop_E1054	Cyperaceae	Cyperaceae	HERB	13	2.7083333
+EPDcoretop_E1054	Fabaceae	Fabaceae	HERB	4	0.83333333
+EPDcoretop_E1054	Fagopyrum	Fagopyrum	HERB	4	0.83333333
+EPDcoretop_E1054	Geraniaceae	Geraniaceae	HERB	1	0.20833333
+EPDcoretop_E1054	Plantago	Plantago	HERB	5	1.0416667
+EPDcoretop_E1054	Poaceae	Poaceae	HERB	250	52.083333
+EPDcoretop_E1054	Ranunculaceae	Ranunculaceae	HERB	2	0.41666667
+EPDcoretop_E1054	Urticaceae	Urticaceae	HERB	4	0.83333333
+EPDcoretop_E1054	Lycopodium	Lycopodium	VACR	2	0.41666667
+EPDcoretop_E1054	Monolete spore(s)	Monolete spore(s)	VACR	15	3.125
+EPDcoretop_E1054	Polypodium	Polypodium	VACR	4	0.83333333
+EPDcoretop_E1054	Pteris	Pteris	VACR	1	0.20833333
+EPDcoretop_E1054	Weight	Weight	NOPO	20	

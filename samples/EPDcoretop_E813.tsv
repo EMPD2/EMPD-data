@@ -1,23 +1,23 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	EPDcoretop_E813	1	1	1	Abies	Abies	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	140	0.71428571
-1	EPDcoretop_E813	4	5	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	140	3.5714286
-2	EPDcoretop_E813	5	4	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	140	2.8571429
-3	EPDcoretop_E813	454	1	47	Castanea	Castanea sativa	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	140	0.71428571
-4	EPDcoretop_E813	9	3	9	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	140	2.1428571
-5	EPDcoretop_E813	11	3	11	Ericaceae	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	140	2.1428571
-6	EPDcoretop_E813	12	11	12	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	140	7.8571429
-7	EPDcoretop_E813	13	1	13	Fraxinus	Fraxinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	140	0.71428571
-8	EPDcoretop_E813	19	2	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	140	1.4285714
-9	EPDcoretop_E813	173	13	21	Quercus robur-type	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	140	9.2857143
-10	EPDcoretop_E813	4038	7	4038	Rosaceae (type A)	Rosaceae (type A)	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	140	5
-11	EPDcoretop_E813	37	2	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	140	1.4285714
-12	EPDcoretop_E813	157	1	157	Campanulaceae	Campanulaceae	HERB	Herbs	HERB	True	True	Herbs	5	140	0.71428571
-13	EPDcoretop_E813	1075	3	50	Cerealia-type	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	140	2.1428571
-14	EPDcoretop_E813	3383	1	3383	Compositae subfam. Cichorioideae	Compositae subfam. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	140	0.71428571
-15	EPDcoretop_E813	61	25	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	140	17.857143
-16	EPDcoretop_E813	184	1	184	Dipsacaceae	Dipsacaceae	HERB	Herbs	HERB	True	True	Herbs	5	140	0.71428571
-17	EPDcoretop_E813	87	1	87	Plantago lanceolata	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	140	0.71428571
-18	EPDcoretop_E813	1611	46	106	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	140	32.857143
-19	EPDcoretop_E813	156	3	156	Ranunculaceae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	140	2.1428571
-20	EPDcoretop_E813	738	6	120	Rumex	Rumex/Oxyria	HERB	Herbs	HERB	True	True	Herbs	5	140	4.2857143
-21	EPDcoretop_E813	668	1	133	Potamogeton	Potamogeton-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	140	0.71428571
+samplename	original_varname	acc_varname	groupid	count	percentage
+EPDcoretop_E813	Abies	Abies	TRSH	1	0.71428571
+EPDcoretop_E813	Alnus	Alnus	TRSH	5	3.5714286
+EPDcoretop_E813	Betula	Betula	TRSH	4	2.8571429
+EPDcoretop_E813	Castanea	Castanea sativa	TRSH	1	0.71428571
+EPDcoretop_E813	Corylus	Corylus	TRSH	3	2.1428571
+EPDcoretop_E813	Ericaceae	Ericales (tetrad)	DWAR	3	2.1428571
+EPDcoretop_E813	Fagus	Fagus	TRSH	11	7.8571429
+EPDcoretop_E813	Fraxinus	Fraxinus	TRSH	1	0.71428571
+EPDcoretop_E813	Pinus	Pinus	TRSH	2	1.4285714
+EPDcoretop_E813	Quercus robur-type	Quercus robur-type	TRSH	13	9.2857143
+EPDcoretop_E813	Rosaceae (type A)	Rosaceae (type A)	TRSH	7	5
+EPDcoretop_E813	Artemisia	Artemisia	HERB	2	1.4285714
+EPDcoretop_E813	Campanulaceae	Campanulaceae	HERB	1	0.71428571
+EPDcoretop_E813	Cerealia-type	Cerealia-type	HERB	3	2.1428571
+EPDcoretop_E813	Compositae subfam. Cichorioideae	Compositae subfam. Cichorioideae	HERB	1	0.71428571
+EPDcoretop_E813	Cyperaceae	Cyperaceae	HERB	25	17.857143
+EPDcoretop_E813	Dipsacaceae	Dipsacaceae	HERB	1	0.71428571
+EPDcoretop_E813	Plantago lanceolata	Plantago lanceolata-type	HERB	1	0.71428571
+EPDcoretop_E813	Gramineae	Poaceae	HERB	46	32.857143
+EPDcoretop_E813	Ranunculaceae	Ranunculaceae	HERB	3	2.1428571
+EPDcoretop_E813	Rumex	Rumex/Oxyria	HERB	6	4.2857143
+EPDcoretop_E813	Potamogeton	Potamogeton-type	AQUA	1	0.71428571

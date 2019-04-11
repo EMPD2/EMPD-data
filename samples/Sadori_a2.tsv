@@ -1,29 +1,29 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Sadori_a2	4	18	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	469	3.8379531
-1	Sadori_a2	5	9	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	469	1.9189765
-2	Sadori_a2	574	6	7	Carpinus betulus	Carpinus betulus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	469	1.2793177
-3	Sadori_a2	9	54	9	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	469	11.513859
-4	Sadori_a2	11	1	11	Ericaceae	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	469	0.21321962
-5	Sadori_a2	12	1	12	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	469	0.21321962
-6	Sadori_a2	582	47	97	Ostrya	Ostrya/Carpinus orientalis	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	469	10.021322
-7	Sadori_a2	18	45	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	469	9.5948827
-8	Sadori_a2	19	76	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	469	16.204691
-9	Sadori_a2	21	7	21	Quercus deciduous	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	469	1.4925373
-10	Sadori_a2	29	2	29	Tilia	Tilia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	469	0.42643923
-11	Sadori_a2	601	1	36	Umbelliferae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	469	0.21321962
-12	Sadori_a2	37	17	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	469	3.6247335
-13	Sadori_a2	772	2	180	Asteroideae	Asteraceae subf. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	469	0.42643923
-14	Sadori_a2	494	2	42	Cruciferae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	469	0.42643923
-15	Sadori_a2	184	1	184	Dipsacaceae	Dipsacaceae	HERB	Herbs	HERB	True	True	Herbs	5	469	0.21321962
-16	Sadori_a2	735	2	286	Plantago	Plantago	HERB	Herbs	HERB	True	True	Herbs	5	469	0.42643923
-17	Sadori_a2	1611	12	106	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	469	2.5586354
-18	Sadori_a2	1614	5	1515	Polygonum	Polygonum-type (tricolporate)	HERB	Herbs	HERB	True	True	Herbs	5	469	1.0660981
-19	Sadori_a2	156	4	156	Ranunculaceae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	469	0.85287846
-20	Sadori_a2	119	5	119	Rubiaceae	Rubiaceae	HERB	Herbs	HERB	True	True	Herbs	5	469	1.0660981
-21	Sadori_a2	738	1	120	Rumex	Rumex/Oxyria	HERB	Herbs	HERB	True	True	Herbs	5	469	0.21321962
-22	Sadori_a2	3543	27	3543	Fungal spores	Fungal spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	469	5.7569296
-23	Sadori_a2	3747	121	167	Monolete fern spores	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	469	25.799574
-24	Sadori_a2	432	3	295	Trilete spores	Trilete spore(s)	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	469	0.63965885
-25	Sadori_a2	3631	15	197	Indeterminable: unknown	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	469	
-26	Sadori_a2	703	54000	703	Lycopodium (added)	Lycopodium (added)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	469	
-27	Sadori_a2	571	120	571	Lycopodium (counted)	Lycopodium (counted)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	469	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Sadori_a2	Alnus	Alnus	TRSH	18	3.8379531
+Sadori_a2	Betula	Betula	TRSH	9	1.9189765
+Sadori_a2	Carpinus betulus	Carpinus betulus	TRSH	6	1.2793177
+Sadori_a2	Corylus	Corylus	TRSH	54	11.513859
+Sadori_a2	Ericaceae	Ericales (tetrad)	DWAR	1	0.21321962
+Sadori_a2	Fagus	Fagus	TRSH	1	0.21321962
+Sadori_a2	Ostrya	Ostrya/Carpinus orientalis	TRSH	47	10.021322
+Sadori_a2	Picea	Picea	TRSH	45	9.5948827
+Sadori_a2	Pinus	Pinus	TRSH	76	16.204691
+Sadori_a2	Quercus deciduous	Quercus robur-type	TRSH	7	1.4925373
+Sadori_a2	Tilia	Tilia	TRSH	2	0.42643923
+Sadori_a2	Umbelliferae	Apiaceae	HERB	1	0.21321962
+Sadori_a2	Artemisia	Artemisia	HERB	17	3.6247335
+Sadori_a2	Asteroideae	Asteraceae subf. Asteroideae	HERB	2	0.42643923
+Sadori_a2	Cruciferae	Brassicaceae	HERB	2	0.42643923
+Sadori_a2	Dipsacaceae	Dipsacaceae	HERB	1	0.21321962
+Sadori_a2	Plantago	Plantago	HERB	2	0.42643923
+Sadori_a2	Gramineae	Poaceae	HERB	12	2.5586354
+Sadori_a2	Polygonum	Polygonum-type (tricolporate)	HERB	5	1.0660981
+Sadori_a2	Ranunculaceae	Ranunculaceae	HERB	4	0.85287846
+Sadori_a2	Rubiaceae	Rubiaceae	HERB	5	1.0660981
+Sadori_a2	Rumex	Rumex/Oxyria	HERB	1	0.21321962
+Sadori_a2	Indeterminable: unknown	Indeterminable: unknown	INUN	15	
+Sadori_a2	Fungal spores	Fungal spores	VACR	27	5.7569296
+Sadori_a2	Lycopodium (added)	Lycopodium (added)	NOPO	54000	
+Sadori_a2	Lycopodium (counted)	Lycopodium (counted)	NOPO	120	
+Sadori_a2	Monolete fern spores	Monolete fern spores	VACR	121	25.799574
+Sadori_a2	Trilete spores	Trilete spore(s)	VACR	3	0.63965885

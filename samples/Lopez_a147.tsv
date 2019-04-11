@@ -1,28 +1,28 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Lopez_a147	3438	1	3438	Daphne gnidium-type	Daphne gnidium-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	575	0.17391304
-1	Lopez_a147	2541	1	468	Erica arborea-type	Erica arborea-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	575	0.17391304
-2	Lopez_a147	455	23	95	Olea	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	575	4
-3	Lopez_a147	101	12	101	Phillyrea	Phillyrea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	575	2.0869565
-4	Lopez_a147	452	4	452	Pinus pinaster	Pinus pinaster	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	575	0.69565217
-5	Lopez_a147	3858	1	3858	Pinus pinea/halepensis-type	Pinus pinea/halepensis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	575	0.17391304
-6	Lopez_a147	457	4	103	Pistacia lentiscus	Pistacia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	575	0.69565217
-7	Lopez_a147	3957	3	3957	Prunus/Rubus-type	Prunus/Rubus-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	575	0.52173913
-8	Lopez_a147	22	162	22	Quercus evergreen	Quercus ilex-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	575	28.173913
-9	Lopez_a147	36	1	36	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	575	0.17391304
-10	Lopez_a147	608	4	41	Aster-type	Aster-type	HERB	Herbs	HERB	True	True	Herbs	5	575	0.69565217
-11	Lopez_a147	458	1	352	Cardueae	Asteraceae subf. Carduoideae	HERB	Herbs	HERB	True	True	Herbs	5	575	0.17391304
-12	Lopez_a147	460	21	53	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	575	3.6521739
-13	Lopez_a147	182	8	182	Boraginaceae	Boraginaceae	HERB	Herbs	HERB	True	True	Herbs	5	575	1.3913043
-14	Lopez_a147	46	2	46	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	575	0.34782609
-15	Lopez_a147	780	1	52	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	575	0.17391304
-16	Lopez_a147	3361	10	3361	Cistus ladanifer	Cistus ladanifer	HERB	Herbs	HERB	True	True	Herbs	5	575	1.7391304
-17	Lopez_a147	3436	203	3436	Cytisus/Genista-type	Cytisus/Genista-type	HERB	Herbs	HERB	True	True	Herbs	5	575	35.304348
-18	Lopez_a147	497	8	86	Labiatae	Lamiaceae	HERB	Herbs	HERB	True	True	Herbs	5	575	1.3913043
-19	Lopez_a147	3670	1	3670	Lavandula stoechas-type	Lavandula stoechas-type	HERB	Herbs	HERB	True	True	Herbs	5	575	0.17391304
-20	Lopez_a147	2810	25	58	Plantago coronopus-type	Plantago coronopus-type	HERB	Herbs	HERB	True	True	Herbs	5	575	4.3478261
-21	Lopez_a147	2928	62	106	Poaceae undifferentiated	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	575	10.782609
-22	Lopez_a147	4070	2	4070	Rumex obtusifolius-type	Rumex obtusifolius-type	HERB	Herbs	HERB	True	True	Herbs	5	575	0.34782609
-23	Lopez_a147	193	11	193	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	Herbs	HERB	True	True	Herbs	5	575	1.9130435
-24	Lopez_a147	504	1	504	Solanaceae	Solanaceae	HERB	Herbs	HERB	True	True	Herbs	5	575	0.17391304
-25	Lopez_a147	4270	3	466	Urtica dioica-type	Urtica dioica-type	HERB	Herbs	HERB	True	True	Herbs	5	575	0.52173913
-26	Lopez_a147	688	1	569	Sporormiella	Sporormiella-type	FUNG	Fungi	NOPO	False	False	Nonpollen	30	575	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Lopez_a147	Daphne gnidium-type	Daphne gnidium-type	DWAR	1	0.17391304
+Lopez_a147	Erica arborea-type	Erica arborea-type	TRSH	1	0.17391304
+Lopez_a147	Olea	Olea europaea	TRSH	23	4
+Lopez_a147	Phillyrea	Phillyrea	TRSH	12	2.0869565
+Lopez_a147	Pinus pinaster	Pinus pinaster	TRSH	4	0.69565217
+Lopez_a147	Pinus pinea/halepensis-type	Pinus pinea/halepensis-type	TRSH	1	0.17391304
+Lopez_a147	Pistacia lentiscus	Pistacia	TRSH	4	0.69565217
+Lopez_a147	Prunus/Rubus-type	Prunus/Rubus-type	TRSH	3	0.52173913
+Lopez_a147	Quercus evergreen	Quercus ilex-type	TRSH	162	28.173913
+Lopez_a147	Apiaceae	Apiaceae	HERB	1	0.17391304
+Lopez_a147	Aster-type	Aster-type	HERB	4	0.69565217
+Lopez_a147	Cardueae	Asteraceae subf. Carduoideae	HERB	1	0.17391304
+Lopez_a147	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	21	3.6521739
+Lopez_a147	Boraginaceae	Boraginaceae	HERB	8	1.3913043
+Lopez_a147	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	2	0.34782609
+Lopez_a147	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.17391304
+Lopez_a147	Cistus ladanifer	Cistus ladanifer	HERB	10	1.7391304
+Lopez_a147	Cytisus/Genista-type	Cytisus/Genista-type	HERB	203	35.304348
+Lopez_a147	Labiatae	Lamiaceae	HERB	8	1.3913043
+Lopez_a147	Lavandula stoechas-type	Lavandula stoechas-type	HERB	1	0.17391304
+Lopez_a147	Plantago coronopus-type	Plantago coronopus-type	HERB	25	4.3478261
+Lopez_a147	Poaceae undifferentiated	Poaceae	HERB	62	10.782609
+Lopez_a147	Rumex obtusifolius-type	Rumex obtusifolius-type	HERB	2	0.34782609
+Lopez_a147	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	11	1.9130435
+Lopez_a147	Solanaceae	Solanaceae	HERB	1	0.17391304
+Lopez_a147	Urtica dioica-type	Urtica dioica-type	HERB	3	0.52173913
+Lopez_a147	Sporormiella	Sporormiella-type	FUNG	1	

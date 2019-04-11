@@ -1,14 +1,14 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	EPDcoretop_E320	1	1	1	Abies	Abies	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	127	0.78740157
-1	EPDcoretop_E320	150	8	150	Betula sect. Albae	Betula pubescens-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	127	6.2992126
-2	EPDcoretop_E320	16	1	16	Larix	Larix/Pseudotsuga	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	127	0.78740157
-3	EPDcoretop_E320	18	2	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	127	1.5748031
-4	EPDcoretop_E320	799	88	148	Pinus sylvestris	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	127	69.291339
-5	EPDcoretop_E320	37	1	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	127	0.78740157
-6	EPDcoretop_E320	3381	1	3381	Compositae subfam. Asteroideae	Compositae subfam. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	127	0.78740157
-7	EPDcoretop_E320	1611	7	106	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	127	5.511811
-8	EPDcoretop_E320	167	18	167	Polypodiaceae	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	127	14.173228
-9	EPDcoretop_E320	2246	1	2246	Alismataceae	Alismataceae	AQUA	Aquatics	AQUA	False	True	Aquatics	7	127	0.78740157
-10	EPDcoretop_E320	1297	1	433	Typha latifolia	Typha latifolia	HELO	Helophytes	AQUA	False	True	Aquatics	7	127	0.78740157
-11	EPDcoretop_E320	1108	5	197	Varia	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	127	
-12	EPDcoretop_E320	165	48	165	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	127	
+samplename	original_varname	acc_varname	groupid	count	percentage
+EPDcoretop_E320	Abies	Abies	TRSH	1	0.78740157
+EPDcoretop_E320	Betula sect. Albae	Betula pubescens-type	TRSH	8	6.2992126
+EPDcoretop_E320	Larix	Larix/Pseudotsuga	TRSH	1	0.78740157
+EPDcoretop_E320	Picea	Picea	TRSH	2	1.5748031
+EPDcoretop_E320	Pinus sylvestris	Pinus sylvestris-type	TRSH	88	69.291339
+EPDcoretop_E320	Artemisia	Artemisia	HERB	1	0.78740157
+EPDcoretop_E320	Compositae subfam. Asteroideae	Compositae subfam. Asteroideae	HERB	1	0.78740157
+EPDcoretop_E320	Gramineae	Poaceae	HERB	7	5.511811
+EPDcoretop_E320	Alismataceae	Alismataceae	AQUA	1	0.78740157
+EPDcoretop_E320	Typha latifolia	Typha latifolia	HELO	1	0.78740157
+EPDcoretop_E320	Varia	Indeterminable: unknown	INUN	5	
+EPDcoretop_E320	Polypodiaceae	Monolete fern spores	VACR	18	14.173228
+EPDcoretop_E320	Sphagnum	Sphagnum	NOPO	48	

@@ -1,14 +1,14 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Lapteva_a78	1	10	1	Abies	Abies	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	385	2.5974026
-1	Lapteva_a78	175	3	175	Alnus glutinosa-type	Alnus glutinosa-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	385	0.77922078
-2	Lapteva_a78	2123	43	150	Betula pubescens-type	Betula pubescens-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	385	11.168831
-3	Lapteva_a78	16	2	16	Larix	Larix/Pseudotsuga	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	385	0.51948052
-4	Lapteva_a78	18	87	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	385	22.597403
-5	Lapteva_a78	1371	72	147	Pinus sibirica	Pinus cembra-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	385	18.701299
-6	Lapteva_a78	799	153	148	Pinus sylvestris	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	385	39.74026
-7	Lapteva_a78	37	5	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	385	1.2987013
-8	Lapteva_a78	106	2	106	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	385	0.51948052
-9	Lapteva_a78	168	2	168	Bryales	Bryophyte spores	BRYO	Bryophytes	VACR	True	True	Ferns	6	385	0.51948052
-10	Lapteva_a78	3962	6	3962	Pteridophyta undifferentiated	Pteridophyta undifferentiated	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	385	1.5584416
-11	Lapteva_a78	3630	1	3630	Indeterminable: undifferentiated	Indeterminable: undifferentiated	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	385	
-12	Lapteva_a78	165	3	165	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	385	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Lapteva_a78	Abies	Abies	TRSH	10	2.5974026
+Lapteva_a78	Alnus glutinosa-type	Alnus glutinosa-type	TRSH	3	0.77922078
+Lapteva_a78	Betula pubescens-type	Betula pubescens-type	TRSH	43	11.168831
+Lapteva_a78	Larix	Larix/Pseudotsuga	TRSH	2	0.51948052
+Lapteva_a78	Picea	Picea	TRSH	87	22.597403
+Lapteva_a78	Pinus sibirica	Pinus cembra-type	TRSH	72	18.701299
+Lapteva_a78	Pinus sylvestris	Pinus sylvestris-type	TRSH	153	39.74026
+Lapteva_a78	Artemisia	Artemisia	HERB	5	1.2987013
+Lapteva_a78	Poaceae	Poaceae	HERB	2	0.51948052
+Lapteva_a78	Indeterminable: undifferentiated	Indeterminable: undifferentiated	INUN	1	
+Lapteva_a78	Bryales	Bryophyte spores	BRYO	2	0.51948052
+Lapteva_a78	Pteridophyta undifferentiated	Pteridophyta undifferentiated	VACR	6	1.5584416
+Lapteva_a78	Sphagnum	Sphagnum	NOPO	3	

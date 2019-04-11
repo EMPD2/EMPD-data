@@ -1,23 +1,23 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Seppa_b49	4	64	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	572	11.188811
-1	Seppa_b49	5	195	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	572	34.090909
-2	Seppa_b49	3182	1	3182	Betula/Corylus/Myrica	Betula/Corylus/Myrica	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	572	0.17482517
-3	Seppa_b49	59	1	9	Corylus avellana	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	572	0.17482517
-4	Seppa_b49	952	2	85	Juniperus communis	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	572	0.34965035
-5	Seppa_b49	18	80	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	572	13.986014
-6	Seppa_b49	799	150	148	Pinus sylvestris	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	572	26.223776
-7	Seppa_b49	37	2	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	572	0.34965035
-8	Seppa_b49	52	1	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	572	0.17482517
-9	Seppa_b49	3383	1	3383	Compositae subfam. Cichorioideae	Compositae subfam. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	572	0.17482517
-10	Seppa_b49	73	2	73	Filipendula	Filipendula	HERB	Herbs	HERB	True	True	Herbs	5	572	0.34965035
-11	Seppa_b49	3573	10	3573	Gramineae undifferentiated	Gramineae undifferentiated	HERB	Herbs	HERB	True	True	Herbs	5	572	1.7482517
-12	Seppa_b49	3991	1	3991	Ranunculaceae undifferentiated	Ranunculaceae undifferentiated	HERB	Herbs	HERB	True	True	Herbs	5	572	0.17482517
-13	Seppa_b49	121	1	121	Rumex acetosa	Rumex acetosa-type	HERB	Herbs	HERB	True	True	Herbs	5	572	0.17482517
-14	Seppa_b49	4263	1	4263	Umbelliferae undifferentiated	Umbelliferae undifferentiated	HERB	Herbs	HERB	True	True	Herbs	5	572	0.17482517
-15	Seppa_b49	663	2	663	Urtica	Urtica	HERB	Herbs	HERB	True	True	Herbs	5	572	0.34965035
-16	Seppa_b49	1257	48	783	Dryopteris-type	Dryopteris-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	572	8.3916084
-17	Seppa_b49	2129	8	1330	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	572	1.3986014
-18	Seppa_b49	976	1	203	Lycopodium annotinum	Lycopodium annotinum-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	572	0.17482517
-19	Seppa_b49	3718	1	3718	Lycopodium undifferentiated	Lycopodium undifferentiated	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	572	0.17482517
-20	Seppa_b49	3227	1	3227	Carex-type	Carex-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	572	0.17482517
-21	Seppa_b49	3431	2	3431	Cyperaceae undifferentiated	Cyperaceae undifferentiated	AQUA	Aquatics	AQUA	False	True	Aquatics	7	572	0.34965035
+samplename	original_varname	acc_varname	groupid	count	percentage
+Seppa_b49	Alnus	Alnus	TRSH	64	11.188811
+Seppa_b49	Betula	Betula	TRSH	195	34.090909
+Seppa_b49	Betula/Corylus/Myrica	Betula/Corylus/Myrica	TRSH	1	0.17482517
+Seppa_b49	Corylus avellana	Corylus	TRSH	1	0.17482517
+Seppa_b49	Juniperus communis	Juniperus communis-type	TRSH	2	0.34965035
+Seppa_b49	Picea	Picea	TRSH	80	13.986014
+Seppa_b49	Pinus sylvestris	Pinus sylvestris-type	TRSH	150	26.223776
+Seppa_b49	Artemisia	Artemisia	HERB	2	0.34965035
+Seppa_b49	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.17482517
+Seppa_b49	Compositae subfam. Cichorioideae	Compositae subfam. Cichorioideae	HERB	1	0.17482517
+Seppa_b49	Filipendula	Filipendula	HERB	2	0.34965035
+Seppa_b49	Gramineae undifferentiated	Gramineae undifferentiated	HERB	10	1.7482517
+Seppa_b49	Ranunculaceae undifferentiated	Ranunculaceae undifferentiated	HERB	1	0.17482517
+Seppa_b49	Rumex acetosa	Rumex acetosa-type	HERB	1	0.17482517
+Seppa_b49	Umbelliferae undifferentiated	Umbelliferae undifferentiated	HERB	1	0.17482517
+Seppa_b49	Urtica	Urtica	HERB	2	0.34965035
+Seppa_b49	Carex-type	Carex-type	AQUA	1	0.17482517
+Seppa_b49	Cyperaceae undifferentiated	Cyperaceae undifferentiated	AQUA	2	0.34965035
+Seppa_b49	Dryopteris-type	Dryopteris-type	VACR	48	8.3916084
+Seppa_b49	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR	8	1.3986014
+Seppa_b49	Lycopodium annotinum	Lycopodium annotinum-type	VACR	1	0.17482517
+Seppa_b49	Lycopodium undifferentiated	Lycopodium undifferentiated	VACR	1	0.17482517

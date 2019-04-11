@@ -1,31 +1,31 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Barboni_a1303	4	1	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	460	0.2173913
-1	Barboni_a1303	3209	2	3209	Calluna	Calluna	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	460	0.43478261
-2	Barboni_a1303	454	1	47	Castanea	Castanea sativa	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	460	0.2173913
-3	Barboni_a1303	11	4	11	Ericaceae	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	460	0.86956522
-4	Barboni_a1303	12	1	12	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	460	0.2173913
-5	Barboni_a1303	15	2	15	Juglans	Juglans	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	460	0.43478261
-6	Barboni_a1303	85	3	85	Juniperus	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	460	0.65217391
-7	Barboni_a1303	455	5	95	Olea	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	460	1.0869565
-8	Barboni_a1303	19	343	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	460	74.565217
-9	Barboni_a1303	451	2	110	Quercus suber	Quercus cerris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	460	0.43478261
-10	Barboni_a1303	590	13	22	Quercus ilex	Quercus ilex-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	460	2.826087
-11	Barboni_a1303	173	5	21	Quercus robur-type	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	460	1.0869565
-12	Barboni_a1303	118	1	118	Rosaceae	Rosaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	460	0.2173913
-13	Barboni_a1303	146	1	146	Vitis	Vitis	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	460	0.2173913
-14	Barboni_a1303	601	1	36	Umbelliferae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	460	0.2173913
-15	Barboni_a1303	768	1	283	Centaurea	Centaurea	HERB	Herbs	HERB	True	True	Herbs	5	460	0.2173913
-16	Barboni_a1303	1075	6	50	Cerealia-type	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	460	1.3043478
-17	Barboni_a1303	3381	1	3381	Compositae subfam. Asteroideae	Compositae subfam. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	460	0.2173913
-18	Barboni_a1303	3383	2	3383	Compositae subfam. Cichorioideae	Compositae subfam. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	460	0.43478261
-19	Barboni_a1303	61	26	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	460	5.6521739
-20	Barboni_a1303	497	1	86	Labiatae	Lamiaceae	HERB	Herbs	HERB	True	True	Herbs	5	460	0.2173913
-21	Barboni_a1303	87	3	87	Plantago lanceolata	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	460	0.65217391
-22	Barboni_a1303	1611	7	106	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	460	1.5217391
-23	Barboni_a1303	640	2	290	Ranunculus	Ranunculus-type	HERB	Herbs	HERB	True	True	Herbs	5	460	0.43478261
-24	Barboni_a1303	119	21	119	Rubiaceae	Rubiaceae	HERB	Herbs	HERB	True	True	Herbs	5	460	4.5652174
-25	Barboni_a1303	738	2	120	Rumex	Rumex/Oxyria	HERB	Herbs	HERB	True	True	Herbs	5	460	0.43478261
-26	Barboni_a1303	193	1	193	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	Herbs	HERB	True	True	Herbs	5	460	0.2173913
-27	Barboni_a1303	3751	1	3751	Monolete spore(s)	Monolete spore(s)	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	460	0.2173913
-28	Barboni_a1303	1279	1	1279	Pteridium	Pteridium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	460	0.2173913
-29	Barboni_a1303	1297	1	433	Typha latifolia	Typha latifolia	HELO	Helophytes	AQUA	False	True	Aquatics	7	460	0.2173913
+samplename	original_varname	acc_varname	groupid	count	percentage
+Barboni_a1303	Alnus	Alnus	TRSH	1	0.2173913
+Barboni_a1303	Calluna	Calluna	DWAR	2	0.43478261
+Barboni_a1303	Castanea	Castanea sativa	TRSH	1	0.2173913
+Barboni_a1303	Ericaceae	Ericales (tetrad)	DWAR	4	0.86956522
+Barboni_a1303	Fagus	Fagus	TRSH	1	0.2173913
+Barboni_a1303	Juglans	Juglans	TRSH	2	0.43478261
+Barboni_a1303	Juniperus	Juniperus communis-type	TRSH	3	0.65217391
+Barboni_a1303	Olea	Olea europaea	TRSH	5	1.0869565
+Barboni_a1303	Pinus	Pinus	TRSH	343	74.565217
+Barboni_a1303	Quercus suber	Quercus cerris-type	TRSH	2	0.43478261
+Barboni_a1303	Quercus ilex	Quercus ilex-type	TRSH	13	2.826087
+Barboni_a1303	Quercus robur-type	Quercus robur-type	TRSH	5	1.0869565
+Barboni_a1303	Rosaceae	Rosaceae	TRSH	1	0.2173913
+Barboni_a1303	Vitis	Vitis	TRSH	1	0.2173913
+Barboni_a1303	Umbelliferae	Apiaceae	HERB	1	0.2173913
+Barboni_a1303	Centaurea	Centaurea	HERB	1	0.2173913
+Barboni_a1303	Cerealia-type	Cerealia-type	HERB	6	1.3043478
+Barboni_a1303	Compositae subfam. Asteroideae	Compositae subfam. Asteroideae	HERB	1	0.2173913
+Barboni_a1303	Compositae subfam. Cichorioideae	Compositae subfam. Cichorioideae	HERB	2	0.43478261
+Barboni_a1303	Cyperaceae	Cyperaceae	HERB	26	5.6521739
+Barboni_a1303	Labiatae	Lamiaceae	HERB	1	0.2173913
+Barboni_a1303	Plantago lanceolata	Plantago lanceolata-type	HERB	3	0.65217391
+Barboni_a1303	Gramineae	Poaceae	HERB	7	1.5217391
+Barboni_a1303	Ranunculus	Ranunculus-type	HERB	2	0.43478261
+Barboni_a1303	Rubiaceae	Rubiaceae	HERB	21	4.5652174
+Barboni_a1303	Rumex	Rumex/Oxyria	HERB	2	0.43478261
+Barboni_a1303	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	1	0.2173913
+Barboni_a1303	Typha latifolia	Typha latifolia	HELO	1	0.2173913
+Barboni_a1303	Monolete spore(s)	Monolete spore(s)	VACR	1	0.2173913
+Barboni_a1303	Pteridium	Pteridium	VACR	1	0.2173913

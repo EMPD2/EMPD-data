@@ -1,27 +1,27 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Miras_c5	1	2	1	Abies	Abies	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	434	0.46082949
-1	Miras_c5	2	1	2	Acer	Acer campestre-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	434	0.23041475
-2	Miras_c5	4	4	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	434	0.92165899
-3	Miras_c5	5	22	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	434	5.0691244
-4	Miras_c5	3209	1	3209	Calluna	Calluna	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	434	0.23041475
-5	Miras_c5	7	2	7	Carpinus	Carpinus betulus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	434	0.46082949
-6	Miras_c5	454	1	47	Castanea	Castanea sativa	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	434	0.23041475
-7	Miras_c5	9	14	9	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	434	3.2258065
-8	Miras_c5	12	226	12	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	434	52.073733
-9	Miras_c5	14	2	14	Ilex	Ilex	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	434	0.46082949
-10	Miras_c5	16	3	16	Larix	Larix/Pseudotsuga	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	434	0.69124424
-11	Miras_c5	18	15	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	434	3.4562212
-12	Miras_c5	19	57	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	434	13.133641
-13	Miras_c5	208	37	208	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	434	8.5253456
-14	Miras_c5	118	2	118	Rosaceae	Rosaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	434	0.46082949
-15	Miras_c5	36	1	36	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	434	0.23041475
-16	Miras_c5	46	1	46	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	434	0.23041475
-17	Miras_c5	50	5	50	Cerealia	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	434	1.1520737
-18	Miras_c5	73	2	73	Filipendula	Filipendula	HERB	Herbs	HERB	True	True	Herbs	5	434	0.46082949
-19	Miras_c5	735	1	286	Plantago	Plantago	HERB	Herbs	HERB	True	True	Herbs	5	434	0.23041475
-20	Miras_c5	87	1	87	Plantago lanceolata	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	434	0.23041475
-21	Miras_c5	106	27	106	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	434	6.2211982
-22	Miras_c5	738	6	120	Rumex	Rumex/Oxyria	HERB	Herbs	HERB	True	True	Herbs	5	434	1.3824885
-23	Miras_c5	193	1	193	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	Herbs	HERB	True	True	Herbs	5	434	0.23041475
-24	Miras_c5	133	1	133	Sparganium	Potamogeton-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	434	0.23041475
-25	Miras_c5	1108	15	197	Varia	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	434	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Miras_c5	Abies	Abies	TRSH	2	0.46082949
+Miras_c5	Acer	Acer campestre-type	TRSH	1	0.23041475
+Miras_c5	Alnus	Alnus	TRSH	4	0.92165899
+Miras_c5	Betula	Betula	TRSH	22	5.0691244
+Miras_c5	Calluna	Calluna	DWAR	1	0.23041475
+Miras_c5	Carpinus	Carpinus betulus	TRSH	2	0.46082949
+Miras_c5	Castanea	Castanea sativa	TRSH	1	0.23041475
+Miras_c5	Corylus	Corylus	TRSH	14	3.2258065
+Miras_c5	Fagus	Fagus	TRSH	226	52.073733
+Miras_c5	Ilex	Ilex	TRSH	2	0.46082949
+Miras_c5	Larix	Larix/Pseudotsuga	TRSH	3	0.69124424
+Miras_c5	Picea	Picea	TRSH	15	3.4562212
+Miras_c5	Pinus	Pinus	TRSH	57	13.133641
+Miras_c5	Quercus	Quercus	TRSH	37	8.5253456
+Miras_c5	Rosaceae	Rosaceae	TRSH	2	0.46082949
+Miras_c5	Apiaceae	Apiaceae	HERB	1	0.23041475
+Miras_c5	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	1	0.23041475
+Miras_c5	Cerealia	Cerealia-type	HERB	5	1.1520737
+Miras_c5	Filipendula	Filipendula	HERB	2	0.46082949
+Miras_c5	Plantago	Plantago	HERB	1	0.23041475
+Miras_c5	Plantago lanceolata	Plantago lanceolata-type	HERB	1	0.23041475
+Miras_c5	Poaceae	Poaceae	HERB	27	6.2211982
+Miras_c5	Rumex	Rumex/Oxyria	HERB	6	1.3824885
+Miras_c5	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	1	0.23041475
+Miras_c5	Sparganium	Potamogeton-type	AQUA	1	0.23041475
+Miras_c5	Varia	Indeterminable: unknown	INUN	15	

@@ -1,26 +1,26 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Edwards_a7	470	3	470	Calluna vulgaris	Calluna vulgaris	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	220	1.3636364
-1	Edwards_a7	3408	7	3408	Corylus avellana-type	Corylus avellana-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	220	3.1818182
-2	Edwards_a7	25	3	25	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	220	1.3636364
-3	Edwards_a7	42	3	42	Brassicaceae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	220	1.3636364
-4	Edwards_a7	46	3	46	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	220	1.3636364
-5	Edwards_a7	52	2	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	220	0.90909091
-6	Edwards_a7	3428	46	3428	Cyperaceae class 2	Cyperaceae class 2	HERB	Herbs	HERB	True	True	Herbs	5	220	20.909091
-7	Edwards_a7	3430	22	3430	Cyperaceae class 4	Cyperaceae class 4	HERB	Herbs	HERB	True	True	Herbs	5	220	10
-8	Edwards_a7	73	6	73	Filipendula	Filipendula	HERB	Herbs	HERB	True	True	Herbs	5	220	2.7272727
-9	Edwards_a7	158	2	158	Onagraceae	Onagraceae	HERB	Herbs	HERB	True	True	Herbs	5	220	0.90909091
-10	Edwards_a7	764	12	764	Pedicularis	Pedicularis	HERB	Herbs	HERB	True	True	Herbs	5	220	5.4545455
-11	Edwards_a7	87	3	87	Plantago lanceolata	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	220	1.3636364
-12	Edwards_a7	3898	45	3898	Poaceae class 2	Poaceae class 2	HERB	Herbs	HERB	True	True	Herbs	5	220	20.454545
-13	Edwards_a7	3899	17	3899	Poaceae class 3	Poaceae class 3	HERB	Herbs	HERB	True	True	Herbs	5	220	7.7272727
-14	Edwards_a7	3900	3	3900	Poaceae class 4	Poaceae class 4	HERB	Herbs	HERB	True	True	Herbs	5	220	1.3636364
-15	Edwards_a7	637	11	524	Potentilla-type	Potentilla-type	HERB	Herbs	HERB	True	True	Herbs	5	220	5
-16	Edwards_a7	641	8	113	Ranunculus acris-type	Ranunculus acris-type	HERB	Herbs	HERB	True	True	Herbs	5	220	3.6363636
-17	Edwards_a7	119	2	119	Rubiaceae	Rubiaceae	HERB	Herbs	HERB	True	True	Herbs	5	220	0.90909091
-18	Edwards_a7	4154	3	4154	Solidago virgaurea-type	Solidago virgaurea-type	HERB	Herbs	HERB	True	True	Herbs	5	220	1.3636364
-19	Edwards_a7	820	1	820	Urticaceae	Urticaceae	HERB	Herbs	HERB	True	True	Herbs	5	220	0.45454545
-20	Edwards_a7	166	9	166	Equisetum	Equisetum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	220	4.0909091
-21	Edwards_a7	3961	9	3961	Pteridophyta spore	Pteridophyta spore	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	220	4.0909091
-22	Edwards_a7	2293	51	1473	Caltha palustris	Caltha palustris	HELO	Helophytes	AQUA	False	True	Aquatics	7	220	23.181818
-23	Edwards_a7	3474	35	3474	Eleocharis palustris	Eleocharis palustris	AQUA	Aquatics	AQUA	False	True	Aquatics	7	220	15.909091
-24	Edwards_a7	1297	3	433	Typha latifolia	Typha latifolia	HELO	Helophytes	AQUA	False	True	Aquatics	7	220	1.3636364
+samplename	original_varname	acc_varname	groupid	count	percentage
+Edwards_a7	Calluna vulgaris	Calluna vulgaris	TRSH	3	1.3636364
+Edwards_a7	Corylus avellana-type	Corylus avellana-type	TRSH	7	3.1818182
+Edwards_a7	Salix	Salix	TRSH	3	1.3636364
+Edwards_a7	Brassicaceae	Brassicaceae	HERB	3	1.3636364
+Edwards_a7	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	3	1.3636364
+Edwards_a7	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	2	0.90909091
+Edwards_a7	Cyperaceae class 2	Cyperaceae class 2	HERB	46	20.909091
+Edwards_a7	Cyperaceae class 4	Cyperaceae class 4	HERB	22	10
+Edwards_a7	Filipendula	Filipendula	HERB	6	2.7272727
+Edwards_a7	Onagraceae	Onagraceae	HERB	2	0.90909091
+Edwards_a7	Pedicularis	Pedicularis	HERB	12	5.4545455
+Edwards_a7	Plantago lanceolata	Plantago lanceolata-type	HERB	3	1.3636364
+Edwards_a7	Poaceae class 2	Poaceae class 2	HERB	45	20.454545
+Edwards_a7	Poaceae class 3	Poaceae class 3	HERB	17	7.7272727
+Edwards_a7	Poaceae class 4	Poaceae class 4	HERB	3	1.3636364
+Edwards_a7	Potentilla-type	Potentilla-type	HERB	11	5
+Edwards_a7	Ranunculus acris-type	Ranunculus acris-type	HERB	8	3.6363636
+Edwards_a7	Rubiaceae	Rubiaceae	HERB	2	0.90909091
+Edwards_a7	Solidago virgaurea-type	Solidago virgaurea-type	HERB	3	1.3636364
+Edwards_a7	Urticaceae	Urticaceae	HERB	1	0.45454545
+Edwards_a7	Caltha palustris	Caltha palustris	HELO	51	23.181818
+Edwards_a7	Eleocharis palustris	Eleocharis palustris	AQUA	35	15.909091
+Edwards_a7	Typha latifolia	Typha latifolia	HELO	3	1.3636364
+Edwards_a7	Equisetum	Equisetum	VACR	9	4.0909091
+Edwards_a7	Pteridophyta spore	Pteridophyta spore	VACR	9	4.0909091

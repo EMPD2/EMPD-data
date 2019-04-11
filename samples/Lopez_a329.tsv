@@ -1,19 +1,19 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Lopez_a329	749	1	28	Juniperus-type	Juniperus-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1162	0.08605852
-1	Lopez_a329	452	159	452	Pinus pinaster	Pinus pinaster	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1162	13.683305
-2	Lopez_a329	3862	950	3862	Pinus sylvestris/nigra-type	Pinus sylvestris/nigra-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1162	81.755594
-3	Lopez_a329	21	4	21	Quercus deciduous	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1162	0.34423408
-4	Lopez_a329	4044	11	4044	Rosaceae undiff,	Rosaceae undiff,	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1162	0.94664372
-5	Lopez_a329	36	1	36	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	1162	0.08605852
-6	Lopez_a329	608	1	41	Aster-type	Aster-type	HERB	Herbs	HERB	True	True	Herbs	5	1162	0.08605852
-7	Lopez_a329	494	9	42	Cruciferae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	1162	0.77452668
-8	Lopez_a329	46	1	46	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	1162	0.08605852
-9	Lopez_a329	780	3	52	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	1162	0.25817556
-10	Lopez_a329	2354	3	506	Papaver rhoeas-type	Papaver rhoeas-type	HERB	Herbs	HERB	True	True	Herbs	5	1162	0.25817556
-11	Lopez_a329	1085	1	87	Plantago lanceolata-type	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	1162	0.08605852
-12	Lopez_a329	2928	9	106	Poaceae undifferentiated	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	1162	0.77452668
-13	Lopez_a329	1088	1	278	Polygonum aviculare-type	Polygonum aviculare-type	HERB	Herbs	HERB	True	True	Herbs	5	1162	0.08605852
-14	Lopez_a329	503	2	503	Saxifraga	Saxifraga	HERB	Herbs	HERB	True	True	Herbs	5	1162	0.17211704
-15	Lopez_a329	193	1	193	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	Herbs	HERB	True	True	Herbs	5	1162	0.08605852
-16	Lopez_a329	445	5	445	Violaceae	Viola	HERB	Herbs	HERB	True	True	Herbs	5	1162	0.4302926
-17	Lopez_a329	3514	8	3514	Fabaceae undifferentiated	Fabaceae undifferentiated	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	1162	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Lopez_a329	Juniperus-type	Juniperus-type	TRSH	1	0.08605852
+Lopez_a329	Pinus pinaster	Pinus pinaster	TRSH	159	13.683305
+Lopez_a329	Pinus sylvestris/nigra-type	Pinus sylvestris/nigra-type	TRSH	950	81.755594
+Lopez_a329	Quercus deciduous	Quercus robur-type	TRSH	4	0.34423408
+Lopez_a329	Rosaceae undiff,	Rosaceae undiff,	TRSH	11	0.94664372
+Lopez_a329	Apiaceae	Apiaceae	HERB	1	0.08605852
+Lopez_a329	Aster-type	Aster-type	HERB	1	0.08605852
+Lopez_a329	Cruciferae	Brassicaceae	HERB	9	0.77452668
+Lopez_a329	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	1	0.08605852
+Lopez_a329	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	3	0.25817556
+Lopez_a329	Papaver rhoeas-type	Papaver rhoeas-type	HERB	3	0.25817556
+Lopez_a329	Plantago lanceolata-type	Plantago lanceolata-type	HERB	1	0.08605852
+Lopez_a329	Poaceae undifferentiated	Poaceae	HERB	9	0.77452668
+Lopez_a329	Polygonum aviculare-type	Polygonum aviculare-type	HERB	1	0.08605852
+Lopez_a329	Saxifraga	Saxifraga	HERB	2	0.17211704
+Lopez_a329	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	1	0.08605852
+Lopez_a329	Violaceae	Viola	HERB	5	0.4302926
+Lopez_a329	Fabaceae undifferentiated	Fabaceae undifferentiated	INUN	8	

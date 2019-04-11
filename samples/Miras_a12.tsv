@@ -1,25 +1,25 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Miras_a12	4	8	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	333	2.4024024
-1	Miras_a12	5	104	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	333	31.231231
-2	Miras_a12	3209	3	3209	Calluna	Calluna	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	333	0.9009009
-3	Miras_a12	7	1	7	Carpinus	Carpinus betulus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	333	0.3003003
-4	Miras_a12	454	1	47	Castanea	Castanea sativa	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	333	0.3003003
-5	Miras_a12	9	7	9	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	333	2.1021021
-6	Miras_a12	12	13	12	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	333	3.9039039
-7	Miras_a12	18	20	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	333	6.006006
-8	Miras_a12	19	69	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	333	20.720721
-9	Miras_a12	208	20	208	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	333	6.006006
-10	Miras_a12	118	4	118	Rosaceae	Rosaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	333	1.2012012
-11	Miras_a12	25	2	25	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	333	0.6006006
-12	Miras_a12	493	1	423	Sambucus	Sambucus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	333	0.3003003
-13	Miras_a12	31	1	31	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	333	0.3003003
-14	Miras_a12	36	1	36	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	333	0.3003003
-15	Miras_a12	460	2	53	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	333	0.6006006
-16	Miras_a12	52	1	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	333	0.3003003
-17	Miras_a12	61	2	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	333	0.6006006
-18	Miras_a12	3547	14	3547	Galium	Galium	HERB	Herbs	HERB	True	True	Herbs	5	333	4.2042042
-19	Miras_a12	735	2	286	Plantago	Plantago	HERB	Herbs	HERB	True	True	Herbs	5	333	0.6006006
-20	Miras_a12	106	56	106	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	333	16.816817
-21	Miras_a12	156	1	156	Ranunculaceae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	333	0.3003003
-22	Miras_a12	791	1	195	Menyanthes	Menyanthes trifoliata	AQUA	Aquatics	AQUA	False	True	Aquatics	7	333	0.3003003
-23	Miras_a12	1108	2	197	Varia	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	333	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Miras_a12	Alnus	Alnus	TRSH	8	2.4024024
+Miras_a12	Betula	Betula	TRSH	104	31.231231
+Miras_a12	Calluna	Calluna	DWAR	3	0.9009009
+Miras_a12	Carpinus	Carpinus betulus	TRSH	1	0.3003003
+Miras_a12	Castanea	Castanea sativa	TRSH	1	0.3003003
+Miras_a12	Corylus	Corylus	TRSH	7	2.1021021
+Miras_a12	Fagus	Fagus	TRSH	13	3.9039039
+Miras_a12	Picea	Picea	TRSH	20	6.006006
+Miras_a12	Pinus	Pinus	TRSH	69	20.720721
+Miras_a12	Quercus	Quercus	TRSH	20	6.006006
+Miras_a12	Rosaceae	Rosaceae	TRSH	4	1.2012012
+Miras_a12	Salix	Salix	TRSH	2	0.6006006
+Miras_a12	Sambucus	Sambucus	TRSH	1	0.3003003
+Miras_a12	Ulmus	Ulmus/Zelkova	TRSH	1	0.3003003
+Miras_a12	Apiaceae	Apiaceae	HERB	1	0.3003003
+Miras_a12	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	2	0.6006006
+Miras_a12	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.3003003
+Miras_a12	Cyperaceae	Cyperaceae	HERB	2	0.6006006
+Miras_a12	Galium	Galium	HERB	14	4.2042042
+Miras_a12	Plantago	Plantago	HERB	2	0.6006006
+Miras_a12	Poaceae	Poaceae	HERB	56	16.816817
+Miras_a12	Ranunculaceae	Ranunculaceae	HERB	1	0.3003003
+Miras_a12	Menyanthes	Menyanthes trifoliata	AQUA	1	0.3003003
+Miras_a12	Varia	Indeterminable: unknown	INUN	2	

@@ -1,23 +1,23 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Lopez_a362	455	169	95	Olea	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	532	31.766917
-1	Lopez_a362	3858	35	3858	Pinus pinea/halepensis-type	Pinus pinea/halepensis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	532	6.5789474
-2	Lopez_a362	22	35	22	Quercus evergreen	Quercus ilex-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	532	6.5789474
-3	Lopez_a362	31	3	31	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	532	0.56390977
-4	Lopez_a362	36	1	36	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	532	0.18796992
-5	Lopez_a362	37	5	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	532	0.93984962
-6	Lopez_a362	608	19	41	Aster-type	Aster-type	HERB	Herbs	HERB	True	True	Herbs	5	532	3.5714286
-7	Lopez_a362	458	13	352	Cardueae	Asteraceae subf. Carduoideae	HERB	Herbs	HERB	True	True	Herbs	5	532	2.443609
-8	Lopez_a362	460	33	53	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	532	6.2030075
-9	Lopez_a362	182	3	182	Boraginaceae	Boraginaceae	HERB	Herbs	HERB	True	True	Herbs	5	532	0.56390977
-10	Lopez_a362	494	4	42	Cruciferae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	532	0.7518797
-11	Lopez_a362	780	9	52	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	532	1.6917293
-12	Lopez_a362	3436	2	3436	Cytisus/Genista-type	Cytisus/Genista-type	HERB	Herbs	HERB	True	True	Herbs	5	532	0.37593985
-13	Lopez_a362	3592	1	3592	Helianthemum-type	Helianthemum-type	HERB	Herbs	HERB	True	True	Herbs	5	532	0.18796992
-14	Lopez_a362	497	2	86	Labiatae	Lamiaceae	HERB	Herbs	HERB	True	True	Herbs	5	532	0.37593985
-15	Lopez_a362	600	3	34	Anthemis-type	Matricaria-type	HERB	Herbs	HERB	True	True	Herbs	5	532	0.56390977
-16	Lopez_a362	2928	189	106	Poaceae undifferentiated	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	532	35.526316
-17	Lopez_a362	645	2	121	Rumex acetosa-type	Rumex acetosa-type	HERB	Herbs	HERB	True	True	Herbs	5	532	0.37593985
-18	Lopez_a362	1408	4	122	Rumex acetosella-type	Rumex acetosella	HERB	Herbs	HERB	True	True	Herbs	5	532	0.7518797
-19	Lopez_a362	3563	56	3563	Glomus cf. G. fasciculatum	Glomus cf. G. fasciculatum	FUNG	Fungi	NOPO	False	False	Nonpollen	30	532	
-20	Lopez_a362	4157	5	4157	Sordaria	Sordaria	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	532	
-21	Lopez_a362	688	2	569	Sporormiella	Sporormiella-type	FUNG	Fungi	NOPO	False	False	Nonpollen	30	532	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Lopez_a362	Olea	Olea europaea	TRSH	169	31.766917
+Lopez_a362	Pinus pinea/halepensis-type	Pinus pinea/halepensis-type	TRSH	35	6.5789474
+Lopez_a362	Quercus evergreen	Quercus ilex-type	TRSH	35	6.5789474
+Lopez_a362	Ulmus	Ulmus/Zelkova	TRSH	3	0.56390977
+Lopez_a362	Apiaceae	Apiaceae	HERB	1	0.18796992
+Lopez_a362	Artemisia	Artemisia	HERB	5	0.93984962
+Lopez_a362	Aster-type	Aster-type	HERB	19	3.5714286
+Lopez_a362	Cardueae	Asteraceae subf. Carduoideae	HERB	13	2.443609
+Lopez_a362	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	33	6.2030075
+Lopez_a362	Boraginaceae	Boraginaceae	HERB	3	0.56390977
+Lopez_a362	Cruciferae	Brassicaceae	HERB	4	0.7518797
+Lopez_a362	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	9	1.6917293
+Lopez_a362	Cytisus/Genista-type	Cytisus/Genista-type	HERB	2	0.37593985
+Lopez_a362	Helianthemum-type	Helianthemum-type	HERB	1	0.18796992
+Lopez_a362	Labiatae	Lamiaceae	HERB	2	0.37593985
+Lopez_a362	Anthemis-type	Matricaria-type	HERB	3	0.56390977
+Lopez_a362	Poaceae undifferentiated	Poaceae	HERB	189	35.526316
+Lopez_a362	Rumex acetosa-type	Rumex acetosa-type	HERB	2	0.37593985
+Lopez_a362	Rumex acetosella-type	Rumex acetosella	HERB	4	0.7518797
+Lopez_a362	Glomus cf. G. fasciculatum	Glomus cf. G. fasciculatum	FUNG	56	
+Lopez_a362	Sordaria	Sordaria	NOPO	5	
+Lopez_a362	Sporormiella	Sporormiella-type	FUNG	2	

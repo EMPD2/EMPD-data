@@ -1,32 +1,32 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Barboni_a960	67	5	67	Eucalyptus	Eucalyptus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	295	1.6949153
-1	Barboni_a960	85	3	85	Juniperus	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	295	1.0169492
-2	Barboni_a960	88	2	88	Ligustrum	Ligustrum	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	295	0.6779661
-3	Barboni_a960	455	15	95	Olea	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	295	5.0847458
-4	Barboni_a960	19	23	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	295	7.7966102
-5	Barboni_a960	208	1	208	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	295	0.33898305
-6	Barboni_a960	118	5	118	Rosaceae	Rosaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	295	1.6949153
-7	Barboni_a960	4214	7	2088	Thymelaeaceae	Thymelaeaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	295	2.3728814
-8	Barboni_a960	601	1	36	Umbelliferae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	295	0.33898305
-9	Barboni_a960	37	39	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	295	13.220339
-10	Barboni_a960	494	7	42	Cruciferae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	295	2.3728814
-11	Barboni_a960	46	7	46	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	295	2.3728814
-12	Barboni_a960	1075	3	50	Cerealia-type	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	295	1.0169492
-13	Barboni_a960	52	18	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	295	6.1016949
-14	Barboni_a960	54	44	54	Cistaceae	Cistaceae	HERB	Herbs	HERB	True	True	Herbs	5	295	14.915254
-15	Barboni_a960	3381	31	3381	Compositae subfam. Asteroideae	Compositae subfam. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	295	10.508475
-16	Barboni_a960	3383	6	3383	Compositae subfam. Cichorioideae	Compositae subfam. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	295	2.0338983
-17	Barboni_a960	531	7	531	Crassulaceae	Crassulaceae	HERB	Herbs	HERB	True	True	Herbs	5	295	2.3728814
-18	Barboni_a960	61	3	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	295	1.0169492
-19	Barboni_a960	784	4	784	Euphorbiaceae	Euphorbiaceae	HERB	Herbs	HERB	True	True	Herbs	5	295	1.3559322
-20	Barboni_a960	497	18	86	Labiatae	Lamiaceae	HERB	Herbs	HERB	True	True	Herbs	5	295	6.1016949
-21	Barboni_a960	755	17	755	Leguminosae	Leguminosae	HERB	Herbs	HERB	True	True	Herbs	5	295	5.7627119
-22	Barboni_a960	89	6	89	Liliaceae	Liliaceae-type	HERB	Herbs	HERB	True	True	Herbs	5	295	2.0338983
-23	Barboni_a960	1678	1	397	Papaveraceae	Papaveraceae	HERB	Herbs	HERB	True	True	Herbs	5	295	0.33898305
-24	Barboni_a960	735	10	286	Plantago	Plantago	HERB	Herbs	HERB	True	True	Herbs	5	295	3.3898305
-25	Barboni_a960	1925	2	186	Plumbaginaceae	Plumbaginaceae	HERB	Herbs	HERB	True	True	Herbs	5	295	0.6779661
-26	Barboni_a960	1611	5	106	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	295	1.6949153
-27	Barboni_a960	1614	3	1515	Polygonum	Polygonum-type (tricolporate)	HERB	Herbs	HERB	True	True	Herbs	5	295	1.0169492
-28	Barboni_a960	4216	2	4216	Thymus	Thymus	HERB	Herbs	HERB	True	True	Herbs	5	295	0.6779661
-29	Barboni_a960	196	1	196	Typha	Sparganium-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	295	0.33898305
-30	Barboni_a960	3631	60	197	Indeterminable: unknown	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	295	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Barboni_a960	Eucalyptus	Eucalyptus	TRSH	5	1.6949153
+Barboni_a960	Juniperus	Juniperus communis-type	TRSH	3	1.0169492
+Barboni_a960	Ligustrum	Ligustrum	TRSH	2	0.6779661
+Barboni_a960	Olea	Olea europaea	TRSH	15	5.0847458
+Barboni_a960	Pinus	Pinus	TRSH	23	7.7966102
+Barboni_a960	Quercus	Quercus	TRSH	1	0.33898305
+Barboni_a960	Rosaceae	Rosaceae	TRSH	5	1.6949153
+Barboni_a960	Thymelaeaceae	Thymelaeaceae	TRSH	7	2.3728814
+Barboni_a960	Umbelliferae	Apiaceae	HERB	1	0.33898305
+Barboni_a960	Artemisia	Artemisia	HERB	39	13.220339
+Barboni_a960	Cruciferae	Brassicaceae	HERB	7	2.3728814
+Barboni_a960	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	7	2.3728814
+Barboni_a960	Cerealia-type	Cerealia-type	HERB	3	1.0169492
+Barboni_a960	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	18	6.1016949
+Barboni_a960	Cistaceae	Cistaceae	HERB	44	14.915254
+Barboni_a960	Compositae subfam. Asteroideae	Compositae subfam. Asteroideae	HERB	31	10.508475
+Barboni_a960	Compositae subfam. Cichorioideae	Compositae subfam. Cichorioideae	HERB	6	2.0338983
+Barboni_a960	Crassulaceae	Crassulaceae	HERB	7	2.3728814
+Barboni_a960	Cyperaceae	Cyperaceae	HERB	3	1.0169492
+Barboni_a960	Euphorbiaceae	Euphorbiaceae	HERB	4	1.3559322
+Barboni_a960	Labiatae	Lamiaceae	HERB	18	6.1016949
+Barboni_a960	Leguminosae	Leguminosae	HERB	17	5.7627119
+Barboni_a960	Liliaceae	Liliaceae-type	HERB	6	2.0338983
+Barboni_a960	Papaveraceae	Papaveraceae	HERB	1	0.33898305
+Barboni_a960	Plantago	Plantago	HERB	10	3.3898305
+Barboni_a960	Plumbaginaceae	Plumbaginaceae	HERB	2	0.6779661
+Barboni_a960	Gramineae	Poaceae	HERB	5	1.6949153
+Barboni_a960	Polygonum	Polygonum-type (tricolporate)	HERB	3	1.0169492
+Barboni_a960	Thymus	Thymus	HERB	2	0.6779661
+Barboni_a960	Typha	Sparganium-type	AQUA	1	0.33898305
+Barboni_a960	Indeterminable: unknown	Indeterminable: unknown	INUN	60	

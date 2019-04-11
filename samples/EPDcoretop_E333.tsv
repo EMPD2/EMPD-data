@@ -1,20 +1,20 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	EPDcoretop_E333	4	53	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1170	4.5299145
-1	EPDcoretop_E333	5	293	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1170	25.042735
-2	EPDcoretop_E333	470	2	470	Calluna vulgaris	Calluna vulgaris	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1170	0.17094017
-3	EPDcoretop_E333	11	122	11	Ericaceae	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	1170	10.42735
-4	EPDcoretop_E333	18	119	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1170	10.17094
-5	EPDcoretop_E333	19	540	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1170	46.153846
-6	EPDcoretop_E333	493	1	423	Sambucus	Sambucus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1170	0.085470085
-7	EPDcoretop_E333	601	2	36	Umbelliferae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	1170	0.17094017
-8	EPDcoretop_E333	37	2	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	1170	0.17094017
-9	EPDcoretop_E333	494	2	42	Cruciferae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	1170	0.17094017
-10	EPDcoretop_E333	1075	1	50	Cerealia-type	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	1170	0.085470085
-11	EPDcoretop_E333	129	1	50	Secale	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	1170	0.085470085
-12	EPDcoretop_E333	52	3	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	1170	0.25641026
-13	EPDcoretop_E333	61	4	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	1170	0.34188034
-14	EPDcoretop_E333	73	3	73	Filipendula	Filipendula	HERB	Herbs	HERB	True	True	Herbs	5	1170	0.25641026
-15	EPDcoretop_E333	1611	17	106	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	1170	1.4529915
-16	EPDcoretop_E333	738	1	120	Rumex	Rumex/Oxyria	HERB	Herbs	HERB	True	True	Herbs	5	1170	0.085470085
-17	EPDcoretop_E333	166	4	166	Equisetum	Equisetum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	1170	0.34188034
-18	EPDcoretop_E333	165	3	165	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	1170	
+samplename	original_varname	acc_varname	groupid	count	percentage
+EPDcoretop_E333	Alnus	Alnus	TRSH	53	4.5299145
+EPDcoretop_E333	Betula	Betula	TRSH	293	25.042735
+EPDcoretop_E333	Calluna vulgaris	Calluna vulgaris	TRSH	2	0.17094017
+EPDcoretop_E333	Ericaceae	Ericales (tetrad)	DWAR	122	10.42735
+EPDcoretop_E333	Picea	Picea	TRSH	119	10.17094
+EPDcoretop_E333	Pinus	Pinus	TRSH	540	46.153846
+EPDcoretop_E333	Sambucus	Sambucus	TRSH	1	0.085470085
+EPDcoretop_E333	Umbelliferae	Apiaceae	HERB	2	0.17094017
+EPDcoretop_E333	Artemisia	Artemisia	HERB	2	0.17094017
+EPDcoretop_E333	Cruciferae	Brassicaceae	HERB	2	0.17094017
+EPDcoretop_E333	Cerealia-type	Cerealia-type	HERB	1	0.085470085
+EPDcoretop_E333	Secale	Cerealia-type	HERB	1	0.085470085
+EPDcoretop_E333	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	3	0.25641026
+EPDcoretop_E333	Cyperaceae	Cyperaceae	HERB	4	0.34188034
+EPDcoretop_E333	Filipendula	Filipendula	HERB	3	0.25641026
+EPDcoretop_E333	Gramineae	Poaceae	HERB	17	1.4529915
+EPDcoretop_E333	Rumex	Rumex/Oxyria	HERB	1	0.085470085
+EPDcoretop_E333	Equisetum	Equisetum	VACR	4	0.34188034
+EPDcoretop_E333	Sphagnum	Sphagnum	NOPO	3	

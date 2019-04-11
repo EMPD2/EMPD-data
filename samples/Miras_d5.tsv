@@ -1,28 +1,28 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Miras_d5	4	5	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	300	1.6666667
-1	Miras_d5	5	65	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	300	21.666667
-2	Miras_d5	3209	8	3209	Calluna	Calluna	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	300	2.6666667
-3	Miras_d5	454	3	47	Castanea	Castanea sativa	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	300	1
-4	Miras_d5	9	15	9	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	300	5
-5	Miras_d5	66	1	66	Erica	Erica	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	300	0.33333333
-6	Miras_d5	12	22	12	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	300	7.3333333
-7	Miras_d5	13	1	13	Fraxinus	Fraxinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	300	0.33333333
-8	Miras_d5	15	3	15	Juglans	Juglans	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	300	1
-9	Miras_d5	16	3	16	Larix	Larix/Pseudotsuga	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	300	1
-10	Miras_d5	88	1	88	Ligustrum	Ligustrum	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	300	0.33333333
-11	Miras_d5	18	29	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	300	9.6666667
-12	Miras_d5	19	39	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	300	13
-13	Miras_d5	208	80	208	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	300	26.666667
-14	Miras_d5	552	2	552	Vaccinium	Vaccinium	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	300	0.66666667
-15	Miras_d5	32	1	32	Viburnum	Viburnum	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	300	0.33333333
-16	Miras_d5	50	1	50	Cerealia	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	300	0.33333333
-17	Miras_d5	61	7	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	300	2.3333333
-18	Miras_d5	735	2	286	Plantago	Plantago	HERB	Herbs	HERB	True	True	Herbs	5	300	0.66666667
-19	Miras_d5	87	2	87	Plantago lanceolata	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	300	0.66666667
-20	Miras_d5	106	6	106	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	300	2
-21	Miras_d5	156	1	156	Ranunculaceae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	300	0.33333333
-22	Miras_d5	738	1	120	Rumex	Rumex/Oxyria	HERB	Herbs	HERB	True	True	Herbs	5	300	0.33333333
-23	Miras_d5	193	1	193	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	Herbs	HERB	True	True	Herbs	5	300	0.33333333
-24	Miras_d5	432	1	295	Trilete spores	Trilete spore(s)	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	300	0.33333333
-25	Miras_d5	1108	6	197	Varia	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	300	
-26	Miras_d5	165	2	165	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	300	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Miras_d5	Alnus	Alnus	TRSH	5	1.6666667
+Miras_d5	Betula	Betula	TRSH	65	21.666667
+Miras_d5	Calluna	Calluna	DWAR	8	2.6666667
+Miras_d5	Castanea	Castanea sativa	TRSH	3	1
+Miras_d5	Corylus	Corylus	TRSH	15	5
+Miras_d5	Erica	Erica	DWAR	1	0.33333333
+Miras_d5	Fagus	Fagus	TRSH	22	7.3333333
+Miras_d5	Fraxinus	Fraxinus	TRSH	1	0.33333333
+Miras_d5	Juglans	Juglans	TRSH	3	1
+Miras_d5	Larix	Larix/Pseudotsuga	TRSH	3	1
+Miras_d5	Ligustrum	Ligustrum	TRSH	1	0.33333333
+Miras_d5	Picea	Picea	TRSH	29	9.6666667
+Miras_d5	Pinus	Pinus	TRSH	39	13
+Miras_d5	Quercus	Quercus	TRSH	80	26.666667
+Miras_d5	Vaccinium	Vaccinium	DWAR	2	0.66666667
+Miras_d5	Viburnum	Viburnum	TRSH	1	0.33333333
+Miras_d5	Cerealia	Cerealia-type	HERB	1	0.33333333
+Miras_d5	Cyperaceae	Cyperaceae	HERB	7	2.3333333
+Miras_d5	Plantago	Plantago	HERB	2	0.66666667
+Miras_d5	Plantago lanceolata	Plantago lanceolata-type	HERB	2	0.66666667
+Miras_d5	Poaceae	Poaceae	HERB	6	2
+Miras_d5	Ranunculaceae	Ranunculaceae	HERB	1	0.33333333
+Miras_d5	Rumex	Rumex/Oxyria	HERB	1	0.33333333
+Miras_d5	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	1	0.33333333
+Miras_d5	Varia	Indeterminable: unknown	INUN	6	
+Miras_d5	Sphagnum	Sphagnum	NOPO	2	
+Miras_d5	Trilete spores	Trilete spore(s)	VACR	1	0.33333333

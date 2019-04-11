@@ -1,27 +1,27 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	EPDcoretop_E991	1	4	1	Abies	Abies	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	339	1.179941
-1	EPDcoretop_E991	175	1	175	Alnus glutinosa-type	Alnus glutinosa-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	339	0.29498525
-2	EPDcoretop_E991	5	10	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	339	2.9498525
-3	EPDcoretop_E991	470	4	470	Calluna vulgaris	Calluna vulgaris	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	339	1.179941
-4	EPDcoretop_E991	59	2	9	Corylus avellana	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	339	0.5899705
-5	EPDcoretop_E991	2540	3	1398	Empetrum-type	Empetrum/Ledum	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	339	0.88495575
-6	EPDcoretop_E991	12	4	12	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	339	1.179941
-7	EPDcoretop_E991	18	2	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	339	0.5899705
-8	EPDcoretop_E991	19	6	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	339	1.7699115
-9	EPDcoretop_E991	208	3	208	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	339	0.88495575
-10	EPDcoretop_E991	61	8	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	339	2.359882
-11	EPDcoretop_E991	839	1	839	Humulus lupulus	Humulus lupulus	HERB	Herbs	HERB	True	True	Herbs	5	339	0.29498525
-12	EPDcoretop_E991	1611	259	106	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	339	76.40118
-13	EPDcoretop_E991	637	28	524	Potentilla-type	Potentilla-type	HERB	Herbs	HERB	True	True	Herbs	5	339	8.259587
-14	EPDcoretop_E991	645	2	121	Rumex acetosa-type	Rumex acetosa-type	HERB	Herbs	HERB	True	True	Herbs	5	339	0.5899705
-15	EPDcoretop_E991	3747	2	167	Monolete fern spores	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	339	0.5899705
-16	EPDcoretop_E991	1135	44	1135	Charcoal	Charcoal	CHAR	Charcoal	CHAR	False	False	Charcoal	13	339	
-17	EPDcoretop_E991	3631	63	197	Indeterminable: unknown	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	339	
-18	EPDcoretop_E991	698	3	698	Assulina	Assulina	RHIZ	Rhizopods	NOPO	False	False	Nonpollen	30	339	
-19	EPDcoretop_E991	3208	1	3208	Callidina angusticollis	Callidina angusticollis	ROTI	Rotifera (Rotifers)	NOPO	False	False	Nonpollen	30	339	
-20	EPDcoretop_E991	3258	6	568	Cercophora-type	Cercophora-type	FUNG	Fungi	NOPO	False	False	Nonpollen	30	339	
-21	EPDcoretop_E991	3388	13911	3388	Concentration of spike	Concentration of spike	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	339	
-22	EPDcoretop_E991	3415	458	3415	Counted exote	Counted exote	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	339	
-23	EPDcoretop_E991	4098	1	894	Sample volume (ml)	Sample volume (ml)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	339	
-24	EPDcoretop_E991	688	9	569	Sporormiella	Sporormiella-type	FUNG	Fungi	NOPO	False	False	Nonpollen	30	339	
-25	EPDcoretop_E991	4309	1	4309	Weight of tablets	Weight of tablets	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	339	
+samplename	original_varname	acc_varname	groupid	count	percentage
+EPDcoretop_E991	Abies	Abies	TRSH	4	1.179941
+EPDcoretop_E991	Alnus glutinosa-type	Alnus glutinosa-type	TRSH	1	0.29498525
+EPDcoretop_E991	Betula	Betula	TRSH	10	2.9498525
+EPDcoretop_E991	Calluna vulgaris	Calluna vulgaris	TRSH	4	1.179941
+EPDcoretop_E991	Corylus avellana	Corylus	TRSH	2	0.5899705
+EPDcoretop_E991	Empetrum-type	Empetrum/Ledum	DWAR	3	0.88495575
+EPDcoretop_E991	Fagus	Fagus	TRSH	4	1.179941
+EPDcoretop_E991	Picea	Picea	TRSH	2	0.5899705
+EPDcoretop_E991	Pinus	Pinus	TRSH	6	1.7699115
+EPDcoretop_E991	Quercus	Quercus	TRSH	3	0.88495575
+EPDcoretop_E991	Cyperaceae	Cyperaceae	HERB	8	2.359882
+EPDcoretop_E991	Humulus lupulus	Humulus lupulus	HERB	1	0.29498525
+EPDcoretop_E991	Gramineae	Poaceae	HERB	259	76.40118
+EPDcoretop_E991	Potentilla-type	Potentilla-type	HERB	28	8.259587
+EPDcoretop_E991	Rumex acetosa-type	Rumex acetosa-type	HERB	2	0.5899705
+EPDcoretop_E991	Charcoal	Charcoal	CHAR	44	
+EPDcoretop_E991	Indeterminable: unknown	Indeterminable: unknown	INUN	63	
+EPDcoretop_E991	Assulina	Assulina	RHIZ	3	
+EPDcoretop_E991	Callidina angusticollis	Callidina angusticollis	ROTI	1	
+EPDcoretop_E991	Cercophora-type	Cercophora-type	FUNG	6	
+EPDcoretop_E991	Concentration of spike	Concentration of spike	NOPO	13911	
+EPDcoretop_E991	Counted exote	Counted exote	NOPO	458	
+EPDcoretop_E991	Monolete fern spores	Monolete fern spores	VACR	2	0.5899705
+EPDcoretop_E991	Sample volume (ml)	Sample volume (ml)	NOPO	1	
+EPDcoretop_E991	Sporormiella	Sporormiella-type	FUNG	9	
+EPDcoretop_E991	Weight of tablets	Weight of tablets	NOPO	1	

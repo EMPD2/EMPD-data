@@ -1,26 +1,26 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Miras_b6	1	19	1	Abies	Abies	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	317	5.9936909
-1	Miras_b6	4	5	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	317	1.5772871
-2	Miras_b6	5	76	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	317	23.974763
-3	Miras_b6	7	3	7	Carpinus	Carpinus betulus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	317	0.94637224
-4	Miras_b6	454	9	47	Castanea	Castanea sativa	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	317	2.8391167
-5	Miras_b6	9	24	9	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	317	7.5709779
-6	Miras_b6	12	17	12	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	317	5.362776
-7	Miras_b6	16	8	16	Larix	Larix/Pseudotsuga	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	317	2.5236593
-8	Miras_b6	455	1	95	Olea	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	317	0.31545741
-9	Miras_b6	18	8	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	317	2.5236593
-10	Miras_b6	19	50	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	317	15.772871
-11	Miras_b6	208	56	208	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	317	17.665615
-12	Miras_b6	118	2	118	Rosaceae	Rosaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	317	0.63091483
-13	Miras_b6	493	2	423	Sambucus	Sambucus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	317	0.63091483
-14	Miras_b6	772	1	180	Asteroideae	Asteraceae subf. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	317	0.31545741
-15	Miras_b6	46	2	46	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	317	0.63091483
-16	Miras_b6	1075	1	50	Cerealia-type	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	317	0.31545741
-17	Miras_b6	52	1	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	317	0.31545741
-18	Miras_b6	61	1	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	317	0.31545741
-19	Miras_b6	86	1	86	Lamiaceae	Lamiaceae	HERB	Herbs	HERB	True	True	Herbs	5	317	0.31545741
-20	Miras_b6	106	27	106	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	317	8.5173502
-21	Miras_b6	636	1	636	Polygonum bistorta	Polygonum bistorta	HERB	Herbs	HERB	True	True	Herbs	5	317	0.31545741
-22	Miras_b6	156	2	156	Ranunculaceae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	317	0.63091483
-23	Miras_b6	133	1	133	Sparganium	Potamogeton-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	317	0.31545741
-24	Miras_b6	1108	9	197	Varia	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	317	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Miras_b6	Abies	Abies	TRSH	19	5.9936909
+Miras_b6	Alnus	Alnus	TRSH	5	1.5772871
+Miras_b6	Betula	Betula	TRSH	76	23.974763
+Miras_b6	Carpinus	Carpinus betulus	TRSH	3	0.94637224
+Miras_b6	Castanea	Castanea sativa	TRSH	9	2.8391167
+Miras_b6	Corylus	Corylus	TRSH	24	7.5709779
+Miras_b6	Fagus	Fagus	TRSH	17	5.362776
+Miras_b6	Larix	Larix/Pseudotsuga	TRSH	8	2.5236593
+Miras_b6	Olea	Olea europaea	TRSH	1	0.31545741
+Miras_b6	Picea	Picea	TRSH	8	2.5236593
+Miras_b6	Pinus	Pinus	TRSH	50	15.772871
+Miras_b6	Quercus	Quercus	TRSH	56	17.665615
+Miras_b6	Rosaceae	Rosaceae	TRSH	2	0.63091483
+Miras_b6	Sambucus	Sambucus	TRSH	2	0.63091483
+Miras_b6	Asteroideae	Asteraceae subf. Asteroideae	HERB	1	0.31545741
+Miras_b6	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	2	0.63091483
+Miras_b6	Cerealia-type	Cerealia-type	HERB	1	0.31545741
+Miras_b6	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.31545741
+Miras_b6	Cyperaceae	Cyperaceae	HERB	1	0.31545741
+Miras_b6	Lamiaceae	Lamiaceae	HERB	1	0.31545741
+Miras_b6	Poaceae	Poaceae	HERB	27	8.5173502
+Miras_b6	Polygonum bistorta	Polygonum bistorta	HERB	1	0.31545741
+Miras_b6	Ranunculaceae	Ranunculaceae	HERB	2	0.63091483
+Miras_b6	Sparganium	Potamogeton-type	AQUA	1	0.31545741
+Miras_b6	Varia	Indeterminable: unknown	INUN	9	

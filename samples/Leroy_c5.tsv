@@ -1,32 +1,32 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Leroy_c5	4	183	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	396	46.212121
-1	Leroy_c5	207	1	207	Buxus	Buxus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	396	0.25252525
-2	Leroy_c5	7	16	7	Carpinus	Carpinus betulus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	396	4.040404
-3	Leroy_c5	9	1	9	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	396	0.25252525
-4	Leroy_c5	12	1	12	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	396	0.25252525
-5	Leroy_c5	210	1	210	Parrotia persica	Parrotia persica	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	396	0.25252525
-6	Leroy_c5	103	1	103	Pistacia	Pistacia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	396	0.25252525
-7	Leroy_c5	1959	1	209	Pterocarya	Pterocarya	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	396	0.25252525
-8	Leroy_c5	208	1	208	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	396	0.25252525
-9	Leroy_c5	25	5	25	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	396	1.2626263
-10	Leroy_c5	2409	2	31	Ulmus/Zelkova	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	396	0.50505051
-11	Leroy_c5	3086	21	3086	Amaranthaceae/Chenopodiaceae	Amaranthaceae/Chenopodiaceae	HERB	Herbs	HERB	True	True	Herbs	5	396	5.3030303
-12	Leroy_c5	36	2	36	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	396	0.50505051
-13	Leroy_c5	37	31	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	396	7.8282828
-14	Leroy_c5	1936	7	180	Asteraceae Tubuliflorae	Asteraceae subf. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	396	1.7676768
-15	Leroy_c5	42	1	42	Brassicaceae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	396	0.25252525
-16	Leroy_c5	1075	1	50	Cerealia-type	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	396	0.25252525
-17	Leroy_c5	183	1	183	Convolvulaceae	Convolvulaceae	HERB	Herbs	HERB	True	True	Herbs	5	396	0.25252525
-18	Leroy_c5	61	24	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	396	6.0606061
-19	Leroy_c5	89	1	89	Liliaceae	Liliaceae-type	HERB	Herbs	HERB	True	True	Herbs	5	396	0.25252525
-20	Leroy_c5	106	70	106	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	396	17.676768
-21	Leroy_c5	119	1	119	Rubiaceae	Rubiaceae	HERB	Herbs	HERB	True	True	Herbs	5	396	0.25252525
-22	Leroy_c5	504	1	504	Solanaceae	Solanaceae	HERB	Herbs	HERB	True	True	Herbs	5	396	0.25252525
-23	Leroy_c5	1930	18	167	Monolete psilate	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	396	4.5454545
-24	Leroy_c5	4209	4	4209	Thelypteris palustris-type	Thelypteris palustris-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	396	1.010101
-25	Leroy_c5	3167	11	3167	Azolla: massulae	Azolla: massulae	AQUA	Aquatics	AQUA	False	True	Aquatics	7	396	2.7777778
-26	Leroy_c5	2024	1	2024	Mougeotia	Mougeotia	ALGA	Algae	AQUA	False	True	Aquatics	7	396	0.25252525
-27	Leroy_c5	819	27	745	Typha/Sparganium	Typha/Sparganium	AQUA	Aquatics	AQUA	False	True	Aquatics	7	396	6.8181818
-28	Leroy_c5	3631	13	197	Indeterminable: unknown	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	396	
-29	Leroy_c5	566	12	378	Glomus	Glomus	FUNG	Fungi	NOPO	False	False	Nonpollen	30	396	
-30	Leroy_c5	847	5	847	Tetraploa	Tetraploa	FUNG	Fungi	NOPO	False	False	Nonpollen	30	396	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Leroy_c5	Alnus	Alnus	TRSH	183	46.212121
+Leroy_c5	Buxus	Buxus	TRSH	1	0.25252525
+Leroy_c5	Carpinus	Carpinus betulus	TRSH	16	4.040404
+Leroy_c5	Corylus	Corylus	TRSH	1	0.25252525
+Leroy_c5	Fagus	Fagus	TRSH	1	0.25252525
+Leroy_c5	Parrotia persica	Parrotia persica	TRSH	1	0.25252525
+Leroy_c5	Pistacia	Pistacia	TRSH	1	0.25252525
+Leroy_c5	Pterocarya	Pterocarya	TRSH	1	0.25252525
+Leroy_c5	Quercus	Quercus	TRSH	1	0.25252525
+Leroy_c5	Salix	Salix	TRSH	5	1.2626263
+Leroy_c5	Ulmus/Zelkova	Ulmus/Zelkova	TRSH	2	0.50505051
+Leroy_c5	Amaranthaceae/Chenopodiaceae	Amaranthaceae/Chenopodiaceae	HERB	21	5.3030303
+Leroy_c5	Apiaceae	Apiaceae	HERB	2	0.50505051
+Leroy_c5	Artemisia	Artemisia	HERB	31	7.8282828
+Leroy_c5	Asteraceae Tubuliflorae	Asteraceae subf. Asteroideae	HERB	7	1.7676768
+Leroy_c5	Brassicaceae	Brassicaceae	HERB	1	0.25252525
+Leroy_c5	Cerealia-type	Cerealia-type	HERB	1	0.25252525
+Leroy_c5	Convolvulaceae	Convolvulaceae	HERB	1	0.25252525
+Leroy_c5	Cyperaceae	Cyperaceae	HERB	24	6.0606061
+Leroy_c5	Liliaceae	Liliaceae-type	HERB	1	0.25252525
+Leroy_c5	Poaceae	Poaceae	HERB	70	17.676768
+Leroy_c5	Rubiaceae	Rubiaceae	HERB	1	0.25252525
+Leroy_c5	Solanaceae	Solanaceae	HERB	1	0.25252525
+Leroy_c5	Azolla: massulae	Azolla: massulae	AQUA	11	2.7777778
+Leroy_c5	Mougeotia	Mougeotia	ALGA	1	0.25252525
+Leroy_c5	Typha/Sparganium	Typha/Sparganium	AQUA	27	6.8181818
+Leroy_c5	Indeterminable: unknown	Indeterminable: unknown	INUN	13	
+Leroy_c5	Glomus	Glomus	FUNG	12	
+Leroy_c5	Monolete psilate	Monolete fern spores	VACR	18	4.5454545
+Leroy_c5	Tetraploa	Tetraploa	FUNG	5	
+Leroy_c5	Thelypteris palustris-type	Thelypteris palustris-type	VACR	4	1.010101

@@ -1,25 +1,25 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Lopez_a28	4	11	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	320	3.4375
-1	Lopez_a28	454	2	47	Castanea	Castanea sativa	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	320	0.625
-2	Lopez_a28	2541	9	468	Erica arborea-type	Erica arborea-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	320	2.8125
-3	Lopez_a28	13	13	13	Fraxinus	Fraxinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	320	4.0625
-4	Lopez_a28	749	11	28	Juniperus-type	Juniperus-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	320	3.4375
-5	Lopez_a28	452	11	452	Pinus pinaster	Pinus pinaster	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	320	3.4375
-6	Lopez_a28	3862	46	3862	Pinus sylvestris/nigra-type	Pinus sylvestris/nigra-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	320	14.375
-7	Lopez_a28	107	1	107	Populus	Populus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	320	0.3125
-8	Lopez_a28	22	45	22	Quercus evergreen	Quercus ilex-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	320	14.0625
-9	Lopez_a28	21	66	21	Quercus deciduous	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	320	20.625
-10	Lopez_a28	25	11	25	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	320	3.4375
-11	Lopez_a28	37	4	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	320	1.25
-12	Lopez_a28	458	2	352	Cardueae	Asteraceae subf. Carduoideae	HERB	Herbs	HERB	True	True	Herbs	5	320	0.625
-13	Lopez_a28	460	3	53	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	320	0.9375
-14	Lopez_a28	780	4	52	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	320	1.25
-15	Lopez_a28	3436	15	3436	Cytisus/Genista-type	Cytisus/Genista-type	HERB	Herbs	HERB	True	True	Herbs	5	320	4.6875
-16	Lopez_a28	1085	4	87	Plantago lanceolata-type	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	320	1.25
-17	Lopez_a28	2928	55	106	Poaceae undifferentiated	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	320	17.1875
-18	Lopez_a28	1088	4	278	Polygonum aviculare-type	Polygonum aviculare-type	HERB	Herbs	HERB	True	True	Herbs	5	320	1.25
-19	Lopez_a28	1408	1	122	Rumex acetosella-type	Rumex acetosella	HERB	Herbs	HERB	True	True	Herbs	5	320	0.3125
-20	Lopez_a28	4270	2	466	Urtica dioica-type	Urtica dioica-type	HERB	Herbs	HERB	True	True	Herbs	5	320	0.625
-21	Lopez_a28	2415	4	568	Cercophora	Cercophora-type	FUNG	Fungi	NOPO	False	False	Nonpollen	30	320	
-22	Lopez_a28	4157	15	4157	Sordaria	Sordaria	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	320	
-23	Lopez_a28	688	3	569	Sporormiella	Sporormiella-type	FUNG	Fungi	NOPO	False	False	Nonpollen	30	320	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Lopez_a28	Alnus	Alnus	TRSH	11	3.4375
+Lopez_a28	Castanea	Castanea sativa	TRSH	2	0.625
+Lopez_a28	Erica arborea-type	Erica arborea-type	TRSH	9	2.8125
+Lopez_a28	Fraxinus	Fraxinus	TRSH	13	4.0625
+Lopez_a28	Juniperus-type	Juniperus-type	TRSH	11	3.4375
+Lopez_a28	Pinus pinaster	Pinus pinaster	TRSH	11	3.4375
+Lopez_a28	Pinus sylvestris/nigra-type	Pinus sylvestris/nigra-type	TRSH	46	14.375
+Lopez_a28	Populus	Populus	TRSH	1	0.3125
+Lopez_a28	Quercus evergreen	Quercus ilex-type	TRSH	45	14.0625
+Lopez_a28	Quercus deciduous	Quercus robur-type	TRSH	66	20.625
+Lopez_a28	Salix	Salix	TRSH	11	3.4375
+Lopez_a28	Artemisia	Artemisia	HERB	4	1.25
+Lopez_a28	Cardueae	Asteraceae subf. Carduoideae	HERB	2	0.625
+Lopez_a28	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	3	0.9375
+Lopez_a28	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	4	1.25
+Lopez_a28	Cytisus/Genista-type	Cytisus/Genista-type	HERB	15	4.6875
+Lopez_a28	Plantago lanceolata-type	Plantago lanceolata-type	HERB	4	1.25
+Lopez_a28	Poaceae undifferentiated	Poaceae	HERB	55	17.1875
+Lopez_a28	Polygonum aviculare-type	Polygonum aviculare-type	HERB	4	1.25
+Lopez_a28	Rumex acetosella-type	Rumex acetosella	HERB	1	0.3125
+Lopez_a28	Urtica dioica-type	Urtica dioica-type	HERB	2	0.625
+Lopez_a28	Cercophora	Cercophora-type	FUNG	4	
+Lopez_a28	Sordaria	Sordaria	NOPO	15	
+Lopez_a28	Sporormiella	Sporormiella-type	FUNG	3	

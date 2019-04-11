@@ -1,17 +1,17 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	EPDcoretop_E718	1	1	1	Abies	Abies	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	241	0.41493776
-1	EPDcoretop_E718	2117	5	175	Alnus incana	Alnus glutinosa-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	241	2.0746888
-2	EPDcoretop_E718	2113	50	149	Betula nana-type	Betula nana-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	241	20.746888
-3	EPDcoretop_E718	150	13	150	Betula sect. Albae	Betula pubescens-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	241	5.3941909
-4	EPDcoretop_E718	2128	32	11	Ericales	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	241	13.278008
-5	EPDcoretop_E718	16	1	16	Larix	Larix/Pseudotsuga	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	241	0.41493776
-6	EPDcoretop_E718	18	20	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	241	8.2987552
-7	EPDcoretop_E718	799	108	148	Pinus sylvestris	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	241	44.813278
-8	EPDcoretop_E718	29	1	29	Tilia	Tilia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	241	0.41493776
-9	EPDcoretop_E718	31	1	31	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	241	0.41493776
-10	EPDcoretop_E718	37	3	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	241	1.2448133
-11	EPDcoretop_E718	52	2	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	241	0.82987552
-12	EPDcoretop_E718	61	2	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	241	0.82987552
-13	EPDcoretop_E718	1611	1	106	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	241	0.41493776
-14	EPDcoretop_E718	119	1	119	Rubiaceae	Rubiaceae	HERB	Herbs	HERB	True	True	Herbs	5	241	0.41493776
-15	EPDcoretop_E718	1297	1	433	Typha latifolia	Typha latifolia	HELO	Helophytes	AQUA	False	True	Aquatics	7	241	0.41493776
+samplename	original_varname	acc_varname	groupid	count	percentage
+EPDcoretop_E718	Abies	Abies	TRSH	1	0.41493776
+EPDcoretop_E718	Alnus incana	Alnus glutinosa-type	TRSH	5	2.0746888
+EPDcoretop_E718	Betula nana-type	Betula nana-type	DWAR	50	20.746888
+EPDcoretop_E718	Betula sect. Albae	Betula pubescens-type	TRSH	13	5.3941909
+EPDcoretop_E718	Ericales	Ericales (tetrad)	DWAR	32	13.278008
+EPDcoretop_E718	Larix	Larix/Pseudotsuga	TRSH	1	0.41493776
+EPDcoretop_E718	Picea	Picea	TRSH	20	8.2987552
+EPDcoretop_E718	Pinus sylvestris	Pinus sylvestris-type	TRSH	108	44.813278
+EPDcoretop_E718	Tilia	Tilia	TRSH	1	0.41493776
+EPDcoretop_E718	Ulmus	Ulmus/Zelkova	TRSH	1	0.41493776
+EPDcoretop_E718	Artemisia	Artemisia	HERB	3	1.2448133
+EPDcoretop_E718	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	2	0.82987552
+EPDcoretop_E718	Cyperaceae	Cyperaceae	HERB	2	0.82987552
+EPDcoretop_E718	Gramineae	Poaceae	HERB	1	0.41493776
+EPDcoretop_E718	Rubiaceae	Rubiaceae	HERB	1	0.41493776
+EPDcoretop_E718	Typha latifolia	Typha latifolia	HELO	1	0.41493776

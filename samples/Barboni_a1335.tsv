@@ -1,16 +1,16 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Barboni_a1335	4	1	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	372	0.2688172
-1	Barboni_a1335	5	150	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	372	40.322581
-2	Barboni_a1335	470	3	470	Calluna vulgaris	Calluna vulgaris	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	372	0.80645161
-3	Barboni_a1335	11	17	11	Ericaceae	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	372	4.5698925
-4	Barboni_a1335	85	44	85	Juniperus	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	372	11.827957
-5	Barboni_a1335	18	3	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	372	0.80645161
-6	Barboni_a1335	1059	114	148	Pinus diploxylon-type	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	372	30.645161
-7	Barboni_a1335	37	1	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	372	0.2688172
-8	Barboni_a1335	46	2	46	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	372	0.53763441
-9	Barboni_a1335	61	2	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	372	0.53763441
-10	Barboni_a1335	1611	15	106	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	372	4.0322581
-11	Barboni_a1335	137	15	137	Thalictrum	Thalictrum	HERB	Herbs	HERB	True	True	Herbs	5	372	4.0322581
-12	Barboni_a1335	166	1	166	Equisetum	Equisetum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	372	0.2688172
-13	Barboni_a1335	885	4	205	Selaginella selaginoides	Selaginella selaginoides	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	372	1.0752688
-14	Barboni_a1335	165	1	165	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	372	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Barboni_a1335	Alnus	Alnus	TRSH	1	0.2688172
+Barboni_a1335	Betula	Betula	TRSH	150	40.322581
+Barboni_a1335	Calluna vulgaris	Calluna vulgaris	TRSH	3	0.80645161
+Barboni_a1335	Ericaceae	Ericales (tetrad)	DWAR	17	4.5698925
+Barboni_a1335	Juniperus	Juniperus communis-type	TRSH	44	11.827957
+Barboni_a1335	Picea	Picea	TRSH	3	0.80645161
+Barboni_a1335	Pinus diploxylon-type	Pinus sylvestris-type	TRSH	114	30.645161
+Barboni_a1335	Artemisia	Artemisia	HERB	1	0.2688172
+Barboni_a1335	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	2	0.53763441
+Barboni_a1335	Cyperaceae	Cyperaceae	HERB	2	0.53763441
+Barboni_a1335	Gramineae	Poaceae	HERB	15	4.0322581
+Barboni_a1335	Thalictrum	Thalictrum	HERB	15	4.0322581
+Barboni_a1335	Equisetum	Equisetum	VACR	1	0.2688172
+Barboni_a1335	Selaginella selaginoides	Selaginella selaginoides	VACR	4	1.0752688
+Barboni_a1335	Sphagnum	Sphagnum	NOPO	1	

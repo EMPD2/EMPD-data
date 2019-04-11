@@ -1,22 +1,22 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Seppa_b153	4	30	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	671	4.4709389
-1	Seppa_b153	5	109	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	671	16.244411
-2	Seppa_b153	470	1	470	Calluna vulgaris	Calluna vulgaris	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	671	0.1490313
-3	Seppa_b153	59	1	9	Corylus avellana	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	671	0.1490313
-4	Seppa_b153	578	1	481	Frangula alnus	Frangula alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	671	0.1490313
-5	Seppa_b153	75	3	75	Fraxinus excelsior	Fraxinus excelsior-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	671	0.44709389
-6	Seppa_b153	952	1	85	Juniperus communis	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	671	0.1490313
-7	Seppa_b153	18	101	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	671	15.052161
-8	Seppa_b153	799	330	148	Pinus sylvestris	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	671	49.180328
-9	Seppa_b153	3934	2	3934	Populus tremula	Populus tremula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	671	0.29806259
-10	Seppa_b153	4088	5	4088	Salix undifferentiated	Salix undifferentiated	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	671	0.74515648
-11	Seppa_b153	3573	29	3573	Gramineae undifferentiated	Gramineae undifferentiated	HERB	Herbs	HERB	True	True	Herbs	5	671	4.3219076
-12	Seppa_b153	1350	3	221	Cannabis-type	Humulus/Cannabis	HERB	Herbs	HERB	True	True	Herbs	5	671	0.44709389
-13	Seppa_b153	3659	1	3659	Lactucoideae	Lactucoideae	HERB	Herbs	HERB	True	True	Herbs	5	671	0.1490313
-14	Seppa_b153	1408	3	122	Rumex acetosella-type	Rumex acetosella	HERB	Herbs	HERB	True	True	Herbs	5	671	0.44709389
-15	Seppa_b153	663	16	663	Urtica	Urtica	HERB	Herbs	HERB	True	True	Herbs	5	671	2.3845007
-16	Seppa_b153	1257	23	783	Dryopteris-type	Dryopteris-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	671	3.4277198
-17	Seppa_b153	166	7	166	Equisetum	Equisetum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	671	1.0432191
-18	Seppa_b153	2129	1	1330	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	671	0.1490313
-19	Seppa_b153	1723	4	1559	Lycopodium clavatum	Lycopodium clavatum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	671	0.59612519
-20	Seppa_b153	3431	8	3431	Cyperaceae undifferentiated	Cyperaceae undifferentiated	AQUA	Aquatics	AQUA	False	True	Aquatics	7	671	1.1922504
+samplename	original_varname	acc_varname	groupid	count	percentage
+Seppa_b153	Alnus	Alnus	TRSH	30	4.4709389
+Seppa_b153	Betula	Betula	TRSH	109	16.244411
+Seppa_b153	Calluna vulgaris	Calluna vulgaris	TRSH	1	0.1490313
+Seppa_b153	Corylus avellana	Corylus	TRSH	1	0.1490313
+Seppa_b153	Frangula alnus	Frangula alnus	TRSH	1	0.1490313
+Seppa_b153	Fraxinus excelsior	Fraxinus excelsior-type	TRSH	3	0.44709389
+Seppa_b153	Juniperus communis	Juniperus communis-type	TRSH	1	0.1490313
+Seppa_b153	Picea	Picea	TRSH	101	15.052161
+Seppa_b153	Pinus sylvestris	Pinus sylvestris-type	TRSH	330	49.180328
+Seppa_b153	Populus tremula	Populus tremula	TRSH	2	0.29806259
+Seppa_b153	Salix undifferentiated	Salix undifferentiated	TRSH	5	0.74515648
+Seppa_b153	Gramineae undifferentiated	Gramineae undifferentiated	HERB	29	4.3219076
+Seppa_b153	Cannabis-type	Humulus/Cannabis	HERB	3	0.44709389
+Seppa_b153	Lactucoideae	Lactucoideae	HERB	1	0.1490313
+Seppa_b153	Rumex acetosella-type	Rumex acetosella	HERB	3	0.44709389
+Seppa_b153	Urtica	Urtica	HERB	16	2.3845007
+Seppa_b153	Cyperaceae undifferentiated	Cyperaceae undifferentiated	AQUA	8	1.1922504
+Seppa_b153	Dryopteris-type	Dryopteris-type	VACR	23	3.4277198
+Seppa_b153	Equisetum	Equisetum	VACR	7	1.0432191
+Seppa_b153	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR	1	0.1490313
+Seppa_b153	Lycopodium clavatum	Lycopodium clavatum	VACR	4	0.59612519

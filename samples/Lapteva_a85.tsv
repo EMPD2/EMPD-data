@@ -1,25 +1,25 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Lapteva_a85	1	2	1	Abies	Abies	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	680	0.29411765
-1	Lapteva_a85	175	8	175	Alnus glutinosa-type	Alnus glutinosa-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	680	1.1764706
-2	Lapteva_a85	2113	14	149	Betula nana-type	Betula nana-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	680	2.0588235
-3	Lapteva_a85	2123	241	150	Betula pubescens-type	Betula pubescens-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	680	35.441176
-4	Lapteva_a85	18	19	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	680	2.7941176
-5	Lapteva_a85	1371	53	147	Pinus sibirica	Pinus cembra-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	680	7.7941176
-6	Lapteva_a85	799	140	148	Pinus sylvestris	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	680	20.588235
-7	Lapteva_a85	118	16	118	Rosaceae	Rosaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	680	2.3529412
-8	Lapteva_a85	25	4	25	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	680	0.58823529
-9	Lapteva_a85	174	1	174	Tilia cordata-type	Tilia cordata-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	680	0.14705882
-10	Lapteva_a85	4261	1	4261	Ulmus glabra-type	Ulmus glabra-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	680	0.14705882
-11	Lapteva_a85	36	5	36	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	680	0.73529412
-12	Lapteva_a85	37	26	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	680	3.8235294
-13	Lapteva_a85	52	27	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	680	3.9705882
-14	Lapteva_a85	3381	7	3381	Compositae subfam. Asteroideae	Compositae subfam. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	680	1.0294118
-15	Lapteva_a85	3383	1	3383	Compositae subfam. Cichorioideae	Compositae subfam. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	680	0.14705882
-16	Lapteva_a85	61	5	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	680	0.73529412
-17	Lapteva_a85	106	37	106	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	680	5.4411765
-18	Lapteva_a85	159	23	159	Polygonaceae	Polygonaceae	HERB	Herbs	HERB	True	True	Herbs	5	680	3.3823529
-19	Lapteva_a85	156	13	156	Ranunculaceae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	680	1.9117647
-20	Lapteva_a85	202	13	202	Lycopodium clavatum-type	Lycopodium clavatum-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	680	1.9117647
-21	Lapteva_a85	3962	24	3962	Pteridophyta undifferentiated	Pteridophyta undifferentiated	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	680	3.5294118
-22	Lapteva_a85	3630	4	3630	Indeterminable: undifferentiated	Indeterminable: undifferentiated	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	680	
-23	Lapteva_a85	165	17	165	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	680	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Lapteva_a85	Abies	Abies	TRSH	2	0.29411765
+Lapteva_a85	Alnus glutinosa-type	Alnus glutinosa-type	TRSH	8	1.1764706
+Lapteva_a85	Betula nana-type	Betula nana-type	DWAR	14	2.0588235
+Lapteva_a85	Betula pubescens-type	Betula pubescens-type	TRSH	241	35.441176
+Lapteva_a85	Picea	Picea	TRSH	19	2.7941176
+Lapteva_a85	Pinus sibirica	Pinus cembra-type	TRSH	53	7.7941176
+Lapteva_a85	Pinus sylvestris	Pinus sylvestris-type	TRSH	140	20.588235
+Lapteva_a85	Rosaceae	Rosaceae	TRSH	16	2.3529412
+Lapteva_a85	Salix	Salix	TRSH	4	0.58823529
+Lapteva_a85	Tilia cordata-type	Tilia cordata-type	TRSH	1	0.14705882
+Lapteva_a85	Ulmus glabra-type	Ulmus glabra-type	TRSH	1	0.14705882
+Lapteva_a85	Apiaceae	Apiaceae	HERB	5	0.73529412
+Lapteva_a85	Artemisia	Artemisia	HERB	26	3.8235294
+Lapteva_a85	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	27	3.9705882
+Lapteva_a85	Compositae subfam. Asteroideae	Compositae subfam. Asteroideae	HERB	7	1.0294118
+Lapteva_a85	Compositae subfam. Cichorioideae	Compositae subfam. Cichorioideae	HERB	1	0.14705882
+Lapteva_a85	Cyperaceae	Cyperaceae	HERB	5	0.73529412
+Lapteva_a85	Poaceae	Poaceae	HERB	37	5.4411765
+Lapteva_a85	Polygonaceae	Polygonaceae	HERB	23	3.3823529
+Lapteva_a85	Ranunculaceae	Ranunculaceae	HERB	13	1.9117647
+Lapteva_a85	Indeterminable: undifferentiated	Indeterminable: undifferentiated	INUN	4	
+Lapteva_a85	Lycopodium clavatum-type	Lycopodium clavatum-type	VACR	13	1.9117647
+Lapteva_a85	Pteridophyta undifferentiated	Pteridophyta undifferentiated	VACR	24	3.5294118
+Lapteva_a85	Sphagnum	Sphagnum	NOPO	17	

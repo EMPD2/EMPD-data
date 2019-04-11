@@ -1,25 +1,25 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Lopez_a380	2433	15	64	Ephedra fragilis-type	Ephedra fragilis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	581	2.5817556
-1	Lopez_a380	3858	15	3858	Pinus pinea/halepensis-type	Pinus pinea/halepensis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	581	2.5817556
-2	Lopez_a380	107	14	107	Populus	Populus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	581	2.4096386
-3	Lopez_a380	22	5	22	Quercus evergreen	Quercus ilex-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	581	0.8605852
-4	Lopez_a380	31	11	31	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	581	1.8932874
-5	Lopez_a380	36	9	36	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	581	1.5490534
-6	Lopez_a380	3130	16	3130	Armeria/Limonium-type	Armeria/Limonium-type	HERB	Herbs	HERB	True	True	Herbs	5	581	2.7538726
-7	Lopez_a380	37	79	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	581	13.597246
-8	Lopez_a380	608	23	41	Aster-type	Aster-type	HERB	Herbs	HERB	True	True	Herbs	5	581	3.9586919
-9	Lopez_a380	458	13	352	Cardueae	Asteraceae subf. Carduoideae	HERB	Herbs	HERB	True	True	Herbs	5	581	2.2375215
-10	Lopez_a380	460	21	53	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	581	3.6144578
-11	Lopez_a380	182	13	182	Boraginaceae	Boraginaceae	HERB	Herbs	HERB	True	True	Herbs	5	581	2.2375215
-12	Lopez_a380	494	9	42	Cruciferae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	581	1.5490534
-13	Lopez_a380	46	1	46	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	581	0.17211704
-14	Lopez_a380	780	33	52	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	581	5.6798623
-15	Lopez_a380	3436	11	3436	Cytisus/Genista-type	Cytisus/Genista-type	HERB	Herbs	HERB	True	True	Herbs	5	581	1.8932874
-16	Lopez_a380	497	2	86	Labiatae	Lamiaceae	HERB	Herbs	HERB	True	True	Herbs	5	581	0.34423408
-17	Lopez_a380	600	3	34	Anthemis-type	Matricaria-type	HERB	Herbs	HERB	True	True	Herbs	5	581	0.51635112
-18	Lopez_a380	2928	288	106	Poaceae undifferentiated	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	581	49.569707
-19	Lopez_a380	3514	15	3514	Fabaceae undifferentiated	Fabaceae undifferentiated	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	581	
-20	Lopez_a380	2415	2	568	Cercophora	Cercophora-type	FUNG	Fungi	NOPO	False	False	Nonpollen	30	581	
-21	Lopez_a380	3563	25	3563	Glomus cf. G. fasciculatum	Glomus cf. G. fasciculatum	FUNG	Fungi	NOPO	False	False	Nonpollen	30	581	
-22	Lopez_a380	4157	6	4157	Sordaria	Sordaria	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	581	
-23	Lopez_a380	688	4	569	Sporormiella	Sporormiella-type	FUNG	Fungi	NOPO	False	False	Nonpollen	30	581	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Lopez_a380	Ephedra fragilis-type	Ephedra fragilis-type	TRSH	15	2.5817556
+Lopez_a380	Pinus pinea/halepensis-type	Pinus pinea/halepensis-type	TRSH	15	2.5817556
+Lopez_a380	Populus	Populus	TRSH	14	2.4096386
+Lopez_a380	Quercus evergreen	Quercus ilex-type	TRSH	5	0.8605852
+Lopez_a380	Ulmus	Ulmus/Zelkova	TRSH	11	1.8932874
+Lopez_a380	Apiaceae	Apiaceae	HERB	9	1.5490534
+Lopez_a380	Armeria/Limonium-type	Armeria/Limonium-type	HERB	16	2.7538726
+Lopez_a380	Artemisia	Artemisia	HERB	79	13.597246
+Lopez_a380	Aster-type	Aster-type	HERB	23	3.9586919
+Lopez_a380	Cardueae	Asteraceae subf. Carduoideae	HERB	13	2.2375215
+Lopez_a380	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	21	3.6144578
+Lopez_a380	Boraginaceae	Boraginaceae	HERB	13	2.2375215
+Lopez_a380	Cruciferae	Brassicaceae	HERB	9	1.5490534
+Lopez_a380	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	1	0.17211704
+Lopez_a380	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	33	5.6798623
+Lopez_a380	Cytisus/Genista-type	Cytisus/Genista-type	HERB	11	1.8932874
+Lopez_a380	Labiatae	Lamiaceae	HERB	2	0.34423408
+Lopez_a380	Anthemis-type	Matricaria-type	HERB	3	0.51635112
+Lopez_a380	Poaceae undifferentiated	Poaceae	HERB	288	49.569707
+Lopez_a380	Fabaceae undifferentiated	Fabaceae undifferentiated	INUN	15	
+Lopez_a380	Cercophora	Cercophora-type	FUNG	2	
+Lopez_a380	Glomus cf. G. fasciculatum	Glomus cf. G. fasciculatum	FUNG	25	
+Lopez_a380	Sordaria	Sordaria	NOPO	6	
+Lopez_a380	Sporormiella	Sporormiella-type	FUNG	4	

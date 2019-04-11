@@ -1,28 +1,28 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Miras_g7	1	2	1	Abies	Abies	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	281	0.71174377
-1	Miras_g7	4	6	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	281	2.1352313
-2	Miras_g7	5	20	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	281	7.1174377
-3	Miras_g7	3209	11	3209	Calluna	Calluna	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	281	3.9145907
-4	Miras_g7	7	1	7	Carpinus	Carpinus betulus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	281	0.35587189
-5	Miras_g7	454	6	47	Castanea	Castanea sativa	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	281	2.1352313
-6	Miras_g7	9	17	9	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	281	6.0498221
-7	Miras_g7	11	2	11	Ericaceae	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	281	0.71174377
-8	Miras_g7	12	14	12	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	281	4.9822064
-9	Miras_g7	14	1	14	Ilex	Ilex	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	281	0.35587189
-10	Miras_g7	15	1	15	Juglans	Juglans	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	281	0.35587189
-11	Miras_g7	16	2	16	Larix	Larix/Pseudotsuga	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	281	0.71174377
-12	Miras_g7	455	1	95	Olea	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	281	0.35587189
-13	Miras_g7	18	42	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	281	14.946619
-14	Miras_g7	19	113	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	281	40.213523
-15	Miras_g7	208	14	208	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	281	4.9822064
-16	Miras_g7	118	2	118	Rosaceae	Rosaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	281	0.71174377
-17	Miras_g7	25	1	25	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	281	0.35587189
-18	Miras_g7	31	1	31	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	281	0.35587189
-19	Miras_g7	772	1	180	Asteroideae	Asteraceae subf. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	281	0.35587189
-20	Miras_g7	460	1	53	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	281	0.35587189
-21	Miras_g7	61	1	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	281	0.35587189
-22	Miras_g7	735	1	286	Plantago	Plantago	HERB	Herbs	HERB	True	True	Herbs	5	281	0.35587189
-23	Miras_g7	106	18	106	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	281	6.405694
-24	Miras_g7	738	1	120	Rumex	Rumex/Oxyria	HERB	Herbs	HERB	True	True	Herbs	5	281	0.35587189
-25	Miras_g7	193	1	193	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	Herbs	HERB	True	True	Herbs	5	281	0.35587189
-26	Miras_g7	1108	7	197	Varia	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	281	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Miras_g7	Abies	Abies	TRSH	2	0.71174377
+Miras_g7	Alnus	Alnus	TRSH	6	2.1352313
+Miras_g7	Betula	Betula	TRSH	20	7.1174377
+Miras_g7	Calluna	Calluna	DWAR	11	3.9145907
+Miras_g7	Carpinus	Carpinus betulus	TRSH	1	0.35587189
+Miras_g7	Castanea	Castanea sativa	TRSH	6	2.1352313
+Miras_g7	Corylus	Corylus	TRSH	17	6.0498221
+Miras_g7	Ericaceae	Ericales (tetrad)	DWAR	2	0.71174377
+Miras_g7	Fagus	Fagus	TRSH	14	4.9822064
+Miras_g7	Ilex	Ilex	TRSH	1	0.35587189
+Miras_g7	Juglans	Juglans	TRSH	1	0.35587189
+Miras_g7	Larix	Larix/Pseudotsuga	TRSH	2	0.71174377
+Miras_g7	Olea	Olea europaea	TRSH	1	0.35587189
+Miras_g7	Picea	Picea	TRSH	42	14.946619
+Miras_g7	Pinus	Pinus	TRSH	113	40.213523
+Miras_g7	Quercus	Quercus	TRSH	14	4.9822064
+Miras_g7	Rosaceae	Rosaceae	TRSH	2	0.71174377
+Miras_g7	Salix	Salix	TRSH	1	0.35587189
+Miras_g7	Ulmus	Ulmus/Zelkova	TRSH	1	0.35587189
+Miras_g7	Asteroideae	Asteraceae subf. Asteroideae	HERB	1	0.35587189
+Miras_g7	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	1	0.35587189
+Miras_g7	Cyperaceae	Cyperaceae	HERB	1	0.35587189
+Miras_g7	Plantago	Plantago	HERB	1	0.35587189
+Miras_g7	Poaceae	Poaceae	HERB	18	6.405694
+Miras_g7	Rumex	Rumex/Oxyria	HERB	1	0.35587189
+Miras_g7	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	1	0.35587189
+Miras_g7	Varia	Indeterminable: unknown	INUN	7	

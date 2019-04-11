@@ -1,30 +1,30 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Barboni_a460	2130	2	5	Betula-type	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	619	0.32310178
-1	Barboni_a460	3209	1	3209	Calluna	Calluna	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	619	0.16155089
-2	Barboni_a460	454	1	47	Castanea	Castanea sativa	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	619	0.16155089
-3	Barboni_a460	3410	2	3410	Corylus-type	Corylus-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	619	0.32310178
-4	Barboni_a460	3495	2	3495	Erica undifferentiated	Erica undifferentiated	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	619	0.32310178
-5	Barboni_a460	749	24	28	Juniperus-type	Juniperus-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	619	3.8772213
-6	Barboni_a460	3783	4	3783	Olea-type	Olea-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	619	0.64620355
-7	Barboni_a460	3784	8	3784	Olea/Ligustrum	Olea/Ligustrum	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	619	1.2924071
-8	Barboni_a460	3837	10	3837	Phillyrea-type	Phillyrea-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	619	1.6155089
-9	Barboni_a460	3863	418	3863	Pinus-type	Pinus-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	619	67.528271
-10	Barboni_a460	22	37	22	Quercus evergreen	Quercus ilex-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	619	5.9773829
-11	Barboni_a460	21	6	21	Quercus deciduous	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	619	0.96930533
-12	Barboni_a460	4045	5	4045	Rosaceae undifferentiated	Rosaceae undifferentiated	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	619	0.80775444
-13	Barboni_a460	4165	4	4165	Spartium	Spartium	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	619	0.64620355
-14	Barboni_a460	2964	10	36	Apiaceae undifferentiated	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	619	1.6155089
-15	Barboni_a460	1347	1	53	Asteraceae Liguliflorae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	619	0.16155089
-16	Barboni_a460	3237	3	3237	Caryophyllaceae undifferentiated	Caryophyllaceae undifferentiated	HERB	Herbs	HERB	True	True	Herbs	5	619	0.48465267
-17	Barboni_a460	3348	5	3348	Chenopodiaceae undifferentiated	Chenopodiaceae undifferentiated	HERB	Herbs	HERB	True	True	Herbs	5	619	0.80775444
-18	Barboni_a460	3592	1	3592	Helianthemum-type	Helianthemum-type	HERB	Herbs	HERB	True	True	Herbs	5	619	0.16155089
-19	Barboni_a460	3660	1	3660	Lamiaceae undifferentiated	Lamiaceae undifferentiated	HERB	Herbs	HERB	True	True	Herbs	5	619	0.16155089
-20	Barboni_a460	600	3	34	Anthemis-type	Matricaria-type	HERB	Herbs	HERB	True	True	Herbs	5	619	0.48465267
-21	Barboni_a460	3886	9	3886	Plantago-type	Plantago-type	HERB	Herbs	HERB	True	True	Herbs	5	619	1.453958
-22	Barboni_a460	106	55	106	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	619	8.8852989
-23	Barboni_a460	3991	2	3991	Ranunculaceae undifferentiated	Ranunculaceae undifferentiated	HERB	Herbs	HERB	True	True	Herbs	5	619	0.32310178
-24	Barboni_a460	4039	3	4039	Rosaceae herb	Rosaceae herb	HERB	Herbs	HERB	True	True	Herbs	5	619	0.48465267
-25	Barboni_a460	4076	1	4076	Rumex-type	Rumex-type	HERB	Herbs	HERB	True	True	Herbs	5	619	0.16155089
-26	Barboni_a460	765	1	765	Sanguisorba-type	Sanguisorba-type	HERB	Herbs	HERB	True	True	Herbs	5	619	0.16155089
-27	Barboni_a460	3431	3	3431	Cyperaceae undifferentiated	Cyperaceae undifferentiated	AQUA	Aquatics	AQUA	False	True	Aquatics	7	619	0.48465267
-28	Barboni_a460	3514	2	3514	Fabaceae undifferentiated	Fabaceae undifferentiated	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	619	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Barboni_a460	Betula-type	Betula	TRSH	2	0.32310178
+Barboni_a460	Calluna	Calluna	DWAR	1	0.16155089
+Barboni_a460	Castanea	Castanea sativa	TRSH	1	0.16155089
+Barboni_a460	Corylus-type	Corylus-type	TRSH	2	0.32310178
+Barboni_a460	Erica undifferentiated	Erica undifferentiated	DWAR	2	0.32310178
+Barboni_a460	Juniperus-type	Juniperus-type	TRSH	24	3.8772213
+Barboni_a460	Olea-type	Olea-type	TRSH	4	0.64620355
+Barboni_a460	Olea/Ligustrum	Olea/Ligustrum	TRSH	8	1.2924071
+Barboni_a460	Phillyrea-type	Phillyrea-type	TRSH	10	1.6155089
+Barboni_a460	Pinus-type	Pinus-type	TRSH	418	67.528271
+Barboni_a460	Quercus evergreen	Quercus ilex-type	TRSH	37	5.9773829
+Barboni_a460	Quercus deciduous	Quercus robur-type	TRSH	6	0.96930533
+Barboni_a460	Rosaceae undifferentiated	Rosaceae undifferentiated	TRSH	5	0.80775444
+Barboni_a460	Spartium	Spartium	TRSH	4	0.64620355
+Barboni_a460	Apiaceae undifferentiated	Apiaceae	HERB	10	1.6155089
+Barboni_a460	Asteraceae Liguliflorae	Asteraceae subf. Cichorioideae	HERB	1	0.16155089
+Barboni_a460	Caryophyllaceae undifferentiated	Caryophyllaceae undifferentiated	HERB	3	0.48465267
+Barboni_a460	Chenopodiaceae undifferentiated	Chenopodiaceae undifferentiated	HERB	5	0.80775444
+Barboni_a460	Helianthemum-type	Helianthemum-type	HERB	1	0.16155089
+Barboni_a460	Lamiaceae undifferentiated	Lamiaceae undifferentiated	HERB	1	0.16155089
+Barboni_a460	Anthemis-type	Matricaria-type	HERB	3	0.48465267
+Barboni_a460	Plantago-type	Plantago-type	HERB	9	1.453958
+Barboni_a460	Poaceae	Poaceae	HERB	55	8.8852989
+Barboni_a460	Ranunculaceae undifferentiated	Ranunculaceae undifferentiated	HERB	2	0.32310178
+Barboni_a460	Rosaceae herb	Rosaceae herb	HERB	3	0.48465267
+Barboni_a460	Rumex-type	Rumex-type	HERB	1	0.16155089
+Barboni_a460	Sanguisorba-type	Sanguisorba-type	HERB	1	0.16155089
+Barboni_a460	Cyperaceae undifferentiated	Cyperaceae undifferentiated	AQUA	3	0.48465267
+Barboni_a460	Fabaceae undifferentiated	Fabaceae undifferentiated	INUN	2	

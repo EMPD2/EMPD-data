@@ -1,24 +1,24 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Barboni_a378	4	1	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	425	0.23529412
-1	Barboni_a378	9	2	9	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	425	0.47058824
-2	Barboni_a378	179	4	179	Ephedra	Ephedra	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	425	0.94117647
-3	Barboni_a378	11	3	11	Ericaceae	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	425	0.70588235
-4	Barboni_a378	455	10	95	Olea	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	425	2.3529412
-5	Barboni_a378	101	2	101	Phillyrea	Phillyrea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	425	0.47058824
-6	Barboni_a378	19	61	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	425	14.352941
-7	Barboni_a378	22	6	22	Quercus evergreen	Quercus ilex-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	425	1.4117647
-8	Barboni_a378	21	4	21	Quercus deciduous	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	425	0.94117647
-9	Barboni_a378	36	1	36	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	425	0.23529412
-10	Barboni_a378	37	6	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	425	1.4117647
-11	Barboni_a378	1936	2	180	Asteraceae Tubuliflorae	Asteraceae subf. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	425	0.47058824
-12	Barboni_a378	1347	3	53	Asteraceae Liguliflorae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	425	0.70588235
-13	Barboni_a378	46	2	46	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	425	0.47058824
-14	Barboni_a378	50	2	50	Cerealia	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	425	0.47058824
-15	Barboni_a378	52	11	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	425	2.5882353
-16	Barboni_a378	69	2	69	Fabaceae	Fabaceae	HERB	Herbs	HERB	True	True	Herbs	5	425	0.47058824
-17	Barboni_a378	735	31	286	Plantago	Plantago	HERB	Herbs	HERB	True	True	Herbs	5	425	7.2941176
-18	Barboni_a378	106	14	106	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	425	3.2941176
-19	Barboni_a378	164	251	164	Lycopodium	Lycopodium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	425	59.058824
-20	Barboni_a378	3751	2	3751	Monolete spore(s)	Monolete spore(s)	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	425	0.47058824
-21	Barboni_a378	4236	5	295	Trilete spore(s)	Trilete spore(s)	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	425	1.1764706
-22	Barboni_a378	668	2	133	Potamogeton	Potamogeton-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	425	0.47058824
+samplename	original_varname	acc_varname	groupid	count	percentage
+Barboni_a378	Alnus	Alnus	TRSH	1	0.23529412
+Barboni_a378	Corylus	Corylus	TRSH	2	0.47058824
+Barboni_a378	Ephedra	Ephedra	TRSH	4	0.94117647
+Barboni_a378	Ericaceae	Ericales (tetrad)	DWAR	3	0.70588235
+Barboni_a378	Olea	Olea europaea	TRSH	10	2.3529412
+Barboni_a378	Phillyrea	Phillyrea	TRSH	2	0.47058824
+Barboni_a378	Pinus	Pinus	TRSH	61	14.352941
+Barboni_a378	Quercus evergreen	Quercus ilex-type	TRSH	6	1.4117647
+Barboni_a378	Quercus deciduous	Quercus robur-type	TRSH	4	0.94117647
+Barboni_a378	Apiaceae	Apiaceae	HERB	1	0.23529412
+Barboni_a378	Artemisia	Artemisia	HERB	6	1.4117647
+Barboni_a378	Asteraceae Tubuliflorae	Asteraceae subf. Asteroideae	HERB	2	0.47058824
+Barboni_a378	Asteraceae Liguliflorae	Asteraceae subf. Cichorioideae	HERB	3	0.70588235
+Barboni_a378	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	2	0.47058824
+Barboni_a378	Cerealia	Cerealia-type	HERB	2	0.47058824
+Barboni_a378	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	11	2.5882353
+Barboni_a378	Fabaceae	Fabaceae	HERB	2	0.47058824
+Barboni_a378	Plantago	Plantago	HERB	31	7.2941176
+Barboni_a378	Poaceae	Poaceae	HERB	14	3.2941176
+Barboni_a378	Potamogeton	Potamogeton-type	AQUA	2	0.47058824
+Barboni_a378	Lycopodium	Lycopodium	VACR	251	59.058824
+Barboni_a378	Monolete spore(s)	Monolete spore(s)	VACR	2	0.47058824
+Barboni_a378	Trilete spore(s)	Trilete spore(s)	VACR	5	1.1764706

@@ -1,12 +1,12 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Seppa_b103	5	63	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	509	12.37721
-1	Seppa_b103	950	2	750	Empetrum nigrum	Empetrum nigrum	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	509	0.39292731
-2	Seppa_b103	3498	3	3498	Ericaceae-type	Ericaceae-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	509	0.58939096
-3	Seppa_b103	952	4	85	Juniperus communis	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	509	0.78585462
-4	Seppa_b103	18	8	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	509	1.5717092
-5	Seppa_b103	799	400	148	Pinus sylvestris	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	509	78.585462
-6	Seppa_b103	4088	2	4088	Salix undifferentiated	Salix undifferentiated	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	509	0.39292731
-7	Seppa_b103	953	1	953	Vaccinium-type	Vaccinium-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	509	0.19646365
-8	Seppa_b103	3573	25	3573	Gramineae undifferentiated	Gramineae undifferentiated	HERB	Herbs	HERB	True	True	Herbs	5	509	4.9115914
-9	Seppa_b103	1723	1	1559	Lycopodium clavatum	Lycopodium clavatum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	509	0.19646365
-10	Seppa_b103	3227	1	3227	Carex-type	Carex-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	509	0.19646365
+samplename	original_varname	acc_varname	groupid	count	percentage
+Seppa_b103	Betula	Betula	TRSH	63	12.37721
+Seppa_b103	Empetrum nigrum	Empetrum nigrum	DWAR	2	0.39292731
+Seppa_b103	Ericaceae-type	Ericaceae-type	DWAR	3	0.58939096
+Seppa_b103	Juniperus communis	Juniperus communis-type	TRSH	4	0.78585462
+Seppa_b103	Picea	Picea	TRSH	8	1.5717092
+Seppa_b103	Pinus sylvestris	Pinus sylvestris-type	TRSH	400	78.585462
+Seppa_b103	Salix undifferentiated	Salix undifferentiated	TRSH	2	0.39292731
+Seppa_b103	Vaccinium-type	Vaccinium-type	DWAR	1	0.19646365
+Seppa_b103	Gramineae undifferentiated	Gramineae undifferentiated	HERB	25	4.9115914
+Seppa_b103	Carex-type	Carex-type	AQUA	1	0.19646365
+Seppa_b103	Lycopodium clavatum	Lycopodium clavatum	VACR	1	0.19646365

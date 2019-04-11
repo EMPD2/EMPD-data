@@ -1,22 +1,22 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Seppa_b57	4	23	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	519	4.4315992
-1	Seppa_b57	5	103	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	519	19.845857
-2	Seppa_b57	470	1	470	Calluna vulgaris	Calluna vulgaris	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	519	0.19267823
-3	Seppa_b57	59	1	9	Corylus avellana	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	519	0.19267823
-4	Seppa_b57	950	1	750	Empetrum nigrum	Empetrum nigrum	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	519	0.19267823
-5	Seppa_b57	952	1	85	Juniperus communis	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	519	0.19267823
-6	Seppa_b57	18	49	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	519	9.4412331
-7	Seppa_b57	799	315	148	Pinus sylvestris	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	519	60.693642
-8	Seppa_b57	4088	2	4088	Salix undifferentiated	Salix undifferentiated	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	519	0.38535645
-9	Seppa_b57	37	5	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	519	0.96339114
-10	Seppa_b57	73	1	73	Filipendula	Filipendula	HERB	Herbs	HERB	True	True	Herbs	5	519	0.19267823
-11	Seppa_b57	3573	10	3573	Gramineae undifferentiated	Gramineae undifferentiated	HERB	Herbs	HERB	True	True	Herbs	5	519	1.9267823
-12	Seppa_b57	4062	1	4062	Rumex acetosa/R. acetosella-type	Rumex acetosa/R. acetosella-type	HERB	Herbs	HERB	True	True	Herbs	5	519	0.19267823
-13	Seppa_b57	1408	1	122	Rumex acetosella-type	Rumex acetosella	HERB	Herbs	HERB	True	True	Herbs	5	519	0.19267823
-14	Seppa_b57	663	1	663	Urtica	Urtica	HERB	Herbs	HERB	True	True	Herbs	5	519	0.19267823
-15	Seppa_b57	3451	1	3451	Diphasiastrum	Diphasiastrum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	519	0.19267823
-16	Seppa_b57	1257	1	783	Dryopteris-type	Dryopteris-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	519	0.19267823
-17	Seppa_b57	2129	1	1330	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	519	0.19267823
-18	Seppa_b57	976	1	203	Lycopodium annotinum	Lycopodium annotinum-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	519	0.19267823
-19	Seppa_b57	3227	2	3227	Carex-type	Carex-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	519	0.38535645
-20	Seppa_b57	3431	3	3431	Cyperaceae undifferentiated	Cyperaceae undifferentiated	AQUA	Aquatics	AQUA	False	True	Aquatics	7	519	0.57803468
+samplename	original_varname	acc_varname	groupid	count	percentage
+Seppa_b57	Alnus	Alnus	TRSH	23	4.4315992
+Seppa_b57	Betula	Betula	TRSH	103	19.845857
+Seppa_b57	Calluna vulgaris	Calluna vulgaris	TRSH	1	0.19267823
+Seppa_b57	Corylus avellana	Corylus	TRSH	1	0.19267823
+Seppa_b57	Empetrum nigrum	Empetrum nigrum	DWAR	1	0.19267823
+Seppa_b57	Juniperus communis	Juniperus communis-type	TRSH	1	0.19267823
+Seppa_b57	Picea	Picea	TRSH	49	9.4412331
+Seppa_b57	Pinus sylvestris	Pinus sylvestris-type	TRSH	315	60.693642
+Seppa_b57	Salix undifferentiated	Salix undifferentiated	TRSH	2	0.38535645
+Seppa_b57	Artemisia	Artemisia	HERB	5	0.96339114
+Seppa_b57	Filipendula	Filipendula	HERB	1	0.19267823
+Seppa_b57	Gramineae undifferentiated	Gramineae undifferentiated	HERB	10	1.9267823
+Seppa_b57	Rumex acetosa/R. acetosella-type	Rumex acetosa/R. acetosella-type	HERB	1	0.19267823
+Seppa_b57	Rumex acetosella-type	Rumex acetosella	HERB	1	0.19267823
+Seppa_b57	Urtica	Urtica	HERB	1	0.19267823
+Seppa_b57	Carex-type	Carex-type	AQUA	2	0.38535645
+Seppa_b57	Cyperaceae undifferentiated	Cyperaceae undifferentiated	AQUA	3	0.57803468
+Seppa_b57	Diphasiastrum	Diphasiastrum	VACR	1	0.19267823
+Seppa_b57	Dryopteris-type	Dryopteris-type	VACR	1	0.19267823
+Seppa_b57	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR	1	0.19267823
+Seppa_b57	Lycopodium annotinum	Lycopodium annotinum-type	VACR	1	0.19267823

@@ -1,24 +1,24 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Lapteva_a58	1	11	1	Abies	Abies	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	504	2.1825397
-1	Lapteva_a58	175	11	175	Alnus glutinosa-type	Alnus glutinosa-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	504	2.1825397
-2	Lapteva_a58	2123	156	150	Betula pubescens-type	Betula pubescens-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	504	30.952381
-3	Lapteva_a58	16	1	16	Larix	Larix/Pseudotsuga	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	504	0.1984127
-4	Lapteva_a58	18	54	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	504	10.714286
-5	Lapteva_a58	799	122	148	Pinus sylvestris	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	504	24.206349
-6	Lapteva_a58	118	15	118	Rosaceae	Rosaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	504	2.9761905
-7	Lapteva_a58	25	2	25	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	504	0.3968254
-8	Lapteva_a58	174	4	174	Tilia cordata-type	Tilia cordata-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	504	0.79365079
-9	Lapteva_a58	4261	17	4261	Ulmus glabra-type	Ulmus glabra-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	504	3.3730159
-10	Lapteva_a58	37	2	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	504	0.3968254
-11	Lapteva_a58	52	21	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	504	4.1666667
-12	Lapteva_a58	3381	4	3381	Compositae subfam. Asteroideae	Compositae subfam. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	504	0.79365079
-13	Lapteva_a58	61	8	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	504	1.5873016
-14	Lapteva_a58	69	4	69	Fabaceae	Fabaceae	HERB	Herbs	HERB	True	True	Herbs	5	504	0.79365079
-15	Lapteva_a58	86	6	86	Lamiaceae	Lamiaceae	HERB	Herbs	HERB	True	True	Herbs	5	504	1.1904762
-16	Lapteva_a58	1170	8	1170	Oxalis acetosella	Oxalis acetosella	HERB	Herbs	HERB	True	True	Herbs	5	504	1.5873016
-17	Lapteva_a58	106	14	106	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	504	2.7777778
-18	Lapteva_a58	119	3	119	Rubiaceae	Rubiaceae	HERB	Herbs	HERB	True	True	Herbs	5	504	0.5952381
-19	Lapteva_a58	846	1	846	Stellaria holostea	Stellaria holostea	HERB	Herbs	HERB	True	True	Herbs	5	504	0.1984127
-20	Lapteva_a58	168	17	168	Bryales	Bryophyte spores	BRYO	Bryophytes	VACR	True	True	Ferns	6	504	3.3730159
-21	Lapteva_a58	3962	23	3962	Pteridophyta undifferentiated	Pteridophyta undifferentiated	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	504	4.5634921
-22	Lapteva_a58	3630	9	3630	Indeterminable: undifferentiated	Indeterminable: undifferentiated	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	504	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Lapteva_a58	Abies	Abies	TRSH	11	2.1825397
+Lapteva_a58	Alnus glutinosa-type	Alnus glutinosa-type	TRSH	11	2.1825397
+Lapteva_a58	Betula pubescens-type	Betula pubescens-type	TRSH	156	30.952381
+Lapteva_a58	Larix	Larix/Pseudotsuga	TRSH	1	0.1984127
+Lapteva_a58	Picea	Picea	TRSH	54	10.714286
+Lapteva_a58	Pinus sylvestris	Pinus sylvestris-type	TRSH	122	24.206349
+Lapteva_a58	Rosaceae	Rosaceae	TRSH	15	2.9761905
+Lapteva_a58	Salix	Salix	TRSH	2	0.3968254
+Lapteva_a58	Tilia cordata-type	Tilia cordata-type	TRSH	4	0.79365079
+Lapteva_a58	Ulmus glabra-type	Ulmus glabra-type	TRSH	17	3.3730159
+Lapteva_a58	Artemisia	Artemisia	HERB	2	0.3968254
+Lapteva_a58	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	21	4.1666667
+Lapteva_a58	Compositae subfam. Asteroideae	Compositae subfam. Asteroideae	HERB	4	0.79365079
+Lapteva_a58	Cyperaceae	Cyperaceae	HERB	8	1.5873016
+Lapteva_a58	Fabaceae	Fabaceae	HERB	4	0.79365079
+Lapteva_a58	Lamiaceae	Lamiaceae	HERB	6	1.1904762
+Lapteva_a58	Oxalis acetosella	Oxalis acetosella	HERB	8	1.5873016
+Lapteva_a58	Poaceae	Poaceae	HERB	14	2.7777778
+Lapteva_a58	Rubiaceae	Rubiaceae	HERB	3	0.5952381
+Lapteva_a58	Stellaria holostea	Stellaria holostea	HERB	1	0.1984127
+Lapteva_a58	Indeterminable: undifferentiated	Indeterminable: undifferentiated	INUN	9	
+Lapteva_a58	Bryales	Bryophyte spores	BRYO	17	3.3730159
+Lapteva_a58	Pteridophyta undifferentiated	Pteridophyta undifferentiated	VACR	23	4.5634921

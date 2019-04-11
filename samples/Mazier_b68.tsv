@@ -1,34 +1,34 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Mazier_b68	4	15	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	404	3.7128713
-1	Mazier_b68	3209	5	3209	Calluna	Calluna	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	404	1.2376238
-2	Mazier_b68	454	13	47	Castanea	Castanea sativa	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	404	3.2178218
-3	Mazier_b68	9	5	9	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	404	1.2376238
-4	Mazier_b68	11	5	11	Ericaceae	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	404	1.2376238
-5	Mazier_b68	12	24	12	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	404	5.9405941
-6	Mazier_b68	13	1	13	Fraxinus	Fraxinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	404	0.24752475
-7	Mazier_b68	455	8	95	Olea	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	404	1.980198
-8	Mazier_b68	19	78	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	404	19.306931
-9	Mazier_b68	590	1	22	Quercus ilex	Quercus ilex-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	404	0.24752475
-10	Mazier_b68	21	37	21	Quercus deciduous	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	404	9.1584158
-11	Mazier_b68	118	5	118	Rosaceae	Rosaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	404	1.2376238
-12	Mazier_b68	4280	1	4280	Vaccinium/Rhododendron	Vaccinium/Rhododendron	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	404	0.24752475
-13	Mazier_b68	37	1	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	404	0.24752475
-14	Mazier_b68	772	1	180	Asteroideae	Asteraceae subf. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	404	0.24752475
-15	Mazier_b68	460	18	53	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	404	4.4554455
-16	Mazier_b68	182	1	182	Boraginaceae	Boraginaceae	HERB	Herbs	HERB	True	True	Herbs	5	404	0.24752475
-17	Mazier_b68	42	2	42	Brassicaceae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	404	0.4950495
-18	Mazier_b68	768	1	283	Centaurea	Centaurea	HERB	Herbs	HERB	True	True	Herbs	5	404	0.24752475
-19	Mazier_b68	1291	2	49	Stellaria-type	Cerastium-type	HERB	Herbs	HERB	True	True	Herbs	5	404	0.4950495
-20	Mazier_b68	3017	1	50	Cerealia undifferentiated	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	404	0.24752475
-21	Mazier_b68	52	2	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	404	0.4950495
-22	Mazier_b68	61	4	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	404	0.99009901
-23	Mazier_b68	69	1	69	Fabaceae	Fabaceae	HERB	Herbs	HERB	True	True	Herbs	5	404	0.24752475
-24	Mazier_b68	3547	29	3547	Galium	Galium	HERB	Herbs	HERB	True	True	Herbs	5	404	7.1782178
-25	Mazier_b68	497	1	86	Labiatae	Lamiaceae	HERB	Herbs	HERB	True	True	Herbs	5	404	0.24752475
-26	Mazier_b68	87	1	87	Plantago lanceolata	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	404	0.24752475
-27	Mazier_b68	106	111	106	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	404	27.475248
-28	Mazier_b68	637	19	524	Potentilla-type	Potentilla-type	HERB	Herbs	HERB	True	True	Herbs	5	404	4.7029703
-29	Mazier_b68	156	9	156	Ranunculaceae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	404	2.2277228
-30	Mazier_b68	1409	1	267	Rumex obtusifolius	Rumex crispus-type	HERB	Herbs	HERB	True	True	Herbs	5	404	0.24752475
-31	Mazier_b68	1020	1	167	Filicales monolete	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	404	0.24752475
-32	Mazier_b68	728	1	197	Indeterminable	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	404	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Mazier_b68	Alnus	Alnus	TRSH	15	3.7128713
+Mazier_b68	Calluna	Calluna	DWAR	5	1.2376238
+Mazier_b68	Castanea	Castanea sativa	TRSH	13	3.2178218
+Mazier_b68	Corylus	Corylus	TRSH	5	1.2376238
+Mazier_b68	Ericaceae	Ericales (tetrad)	DWAR	5	1.2376238
+Mazier_b68	Fagus	Fagus	TRSH	24	5.9405941
+Mazier_b68	Fraxinus	Fraxinus	TRSH	1	0.24752475
+Mazier_b68	Olea	Olea europaea	TRSH	8	1.980198
+Mazier_b68	Pinus	Pinus	TRSH	78	19.306931
+Mazier_b68	Quercus ilex	Quercus ilex-type	TRSH	1	0.24752475
+Mazier_b68	Quercus deciduous	Quercus robur-type	TRSH	37	9.1584158
+Mazier_b68	Rosaceae	Rosaceae	TRSH	5	1.2376238
+Mazier_b68	Vaccinium/Rhododendron	Vaccinium/Rhododendron	DWAR	1	0.24752475
+Mazier_b68	Artemisia	Artemisia	HERB	1	0.24752475
+Mazier_b68	Asteroideae	Asteraceae subf. Asteroideae	HERB	1	0.24752475
+Mazier_b68	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	18	4.4554455
+Mazier_b68	Boraginaceae	Boraginaceae	HERB	1	0.24752475
+Mazier_b68	Brassicaceae	Brassicaceae	HERB	2	0.4950495
+Mazier_b68	Centaurea	Centaurea	HERB	1	0.24752475
+Mazier_b68	Stellaria-type	Cerastium-type	HERB	2	0.4950495
+Mazier_b68	Cerealia undifferentiated	Cerealia-type	HERB	1	0.24752475
+Mazier_b68	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	2	0.4950495
+Mazier_b68	Cyperaceae	Cyperaceae	HERB	4	0.99009901
+Mazier_b68	Fabaceae	Fabaceae	HERB	1	0.24752475
+Mazier_b68	Galium	Galium	HERB	29	7.1782178
+Mazier_b68	Labiatae	Lamiaceae	HERB	1	0.24752475
+Mazier_b68	Plantago lanceolata	Plantago lanceolata-type	HERB	1	0.24752475
+Mazier_b68	Poaceae	Poaceae	HERB	111	27.475248
+Mazier_b68	Potentilla-type	Potentilla-type	HERB	19	4.7029703
+Mazier_b68	Ranunculaceae	Ranunculaceae	HERB	9	2.2277228
+Mazier_b68	Rumex obtusifolius	Rumex crispus-type	HERB	1	0.24752475
+Mazier_b68	Indeterminable	Indeterminable: unknown	INUN	1	
+Mazier_b68	Filicales monolete	Monolete fern spores	VACR	1	0.24752475

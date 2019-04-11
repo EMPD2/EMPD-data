@@ -1,29 +1,29 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Kunes_a97	1	1	1	Abies	Abies	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	941	0.10626993
-1	Kunes_a97	5	17	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	941	1.8065887
-2	Kunes_a97	1373	154	149	Betula nana	Betula nana-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	941	16.365569
-3	Kunes_a97	2345	12	16	Larix/Pseudotsuga	Larix/Pseudotsuga	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	941	1.2752391
-4	Kunes_a97	18	17	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	941	1.8065887
-5	Kunes_a97	3852	505	147	Pinus cembra-type	Pinus cembra-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	941	53.666312
-6	Kunes_a97	1236	9	148	Pinus sylvestris-type	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	941	0.95642933
-7	Kunes_a97	25	4	25	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	941	0.4250797
-8	Kunes_a97	36	4	36	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	941	0.4250797
-9	Kunes_a97	37	65	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	941	6.9075452
-10	Kunes_a97	3137	1	3137	Aruncus-type	Aruncus-type	HERB	Herbs	HERB	True	True	Herbs	5	941	0.10626993
-11	Kunes_a97	3214	2	3214	Cannabaceae	Cannabaceae	HERB	Herbs	HERB	True	True	Herbs	5	941	0.21253985
-12	Kunes_a97	49	2	49	Cerastium	Cerastium-type	HERB	Herbs	HERB	True	True	Herbs	5	941	0.21253985
-13	Kunes_a97	3347	18	3347	Chenopodiaceae p.p.	Chenopodiaceae p.p.	HERB	Herbs	HERB	True	True	Herbs	5	941	1.9128587
-14	Kunes_a97	61	2	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	941	0.21253985
-15	Kunes_a97	73	4	73	Filipendula	Filipendula	HERB	Herbs	HERB	True	True	Herbs	5	941	0.4250797
-16	Kunes_a97	1082	1	34	Matricaria-type	Matricaria-type	HERB	Herbs	HERB	True	True	Herbs	5	941	0.10626993
-17	Kunes_a97	3880	1	3880	Plantago media/major-type	Plantago media/major-type	HERB	Herbs	HERB	True	True	Herbs	5	941	0.10626993
-18	Kunes_a97	106	110	106	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	941	11.689692
-19	Kunes_a97	636	1	636	Polygonum bistorta	Polygonum bistorta	HERB	Herbs	HERB	True	True	Herbs	5	941	0.10626993
-20	Kunes_a97	641	1	113	Ranunculus acris-type	Ranunculus acris-type	HERB	Herbs	HERB	True	True	Herbs	5	941	0.10626993
-21	Kunes_a97	119	1	119	Rubiaceae	Rubiaceae	HERB	Herbs	HERB	True	True	Herbs	5	941	0.10626993
-22	Kunes_a97	645	1	121	Rumex acetosa-type	Rumex acetosa-type	HERB	Herbs	HERB	True	True	Herbs	5	941	0.10626993
-23	Kunes_a97	2934	2	251	Saussurea-type	Saussurea-type	HERB	Herbs	HERB	True	True	Herbs	5	941	0.21253985
-24	Kunes_a97	137	2	137	Thalictrum	Thalictrum	HERB	Herbs	HERB	True	True	Herbs	5	941	0.21253985
-25	Kunes_a97	663	2	663	Urtica	Urtica	HERB	Herbs	HERB	True	True	Herbs	5	941	0.21253985
-26	Kunes_a97	231	1	231	Athyrium filix-femina	Athyrium filix-femina	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	941	0.10626993
-27	Kunes_a97	3747	1	167	Monolete fern spores	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	941	0.10626993
+samplename	original_varname	acc_varname	groupid	count	percentage
+Kunes_a97	Abies	Abies	TRSH	1	0.10626993
+Kunes_a97	Betula	Betula	TRSH	17	1.8065887
+Kunes_a97	Betula nana	Betula nana-type	DWAR	154	16.365569
+Kunes_a97	Larix/Pseudotsuga	Larix/Pseudotsuga	TRSH	12	1.2752391
+Kunes_a97	Picea	Picea	TRSH	17	1.8065887
+Kunes_a97	Pinus cembra-type	Pinus cembra-type	TRSH	505	53.666312
+Kunes_a97	Pinus sylvestris-type	Pinus sylvestris-type	TRSH	9	0.95642933
+Kunes_a97	Salix	Salix	TRSH	4	0.4250797
+Kunes_a97	Apiaceae	Apiaceae	HERB	4	0.4250797
+Kunes_a97	Artemisia	Artemisia	HERB	65	6.9075452
+Kunes_a97	Aruncus-type	Aruncus-type	HERB	1	0.10626993
+Kunes_a97	Cannabaceae	Cannabaceae	HERB	2	0.21253985
+Kunes_a97	Cerastium	Cerastium-type	HERB	2	0.21253985
+Kunes_a97	Chenopodiaceae p.p.	Chenopodiaceae p.p.	HERB	18	1.9128587
+Kunes_a97	Cyperaceae	Cyperaceae	HERB	2	0.21253985
+Kunes_a97	Filipendula	Filipendula	HERB	4	0.4250797
+Kunes_a97	Matricaria-type	Matricaria-type	HERB	1	0.10626993
+Kunes_a97	Plantago media/major-type	Plantago media/major-type	HERB	1	0.10626993
+Kunes_a97	Poaceae	Poaceae	HERB	110	11.689692
+Kunes_a97	Polygonum bistorta	Polygonum bistorta	HERB	1	0.10626993
+Kunes_a97	Ranunculus acris-type	Ranunculus acris-type	HERB	1	0.10626993
+Kunes_a97	Rubiaceae	Rubiaceae	HERB	1	0.10626993
+Kunes_a97	Rumex acetosa-type	Rumex acetosa-type	HERB	1	0.10626993
+Kunes_a97	Saussurea-type	Saussurea-type	HERB	2	0.21253985
+Kunes_a97	Thalictrum	Thalictrum	HERB	2	0.21253985
+Kunes_a97	Urtica	Urtica	HERB	2	0.21253985
+Kunes_a97	Athyrium filix-femina	Athyrium filix-femina	VACR	1	0.10626993
+Kunes_a97	Monolete fern spores	Monolete fern spores	VACR	1	0.10626993

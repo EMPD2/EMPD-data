@@ -1,23 +1,23 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Edwards_a21	5	236	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1127	20.94055
-1	Edwards_a21	470	172	470	Calluna vulgaris	Calluna vulgaris	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1127	15.261757
-2	Edwards_a21	3408	120	3408	Corylus avellana-type	Corylus avellana-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1127	10.647737
-3	Edwards_a21	3487	4	544	Erica cinerea	Erica cinerea	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	1127	0.35492458
-4	Edwards_a21	3493	7	2608	Erica tetralix-type	Erica tetralix-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	1127	0.62111801
-5	Edwards_a21	3706	20	3706	Lonicera periclymenum	Lonicera periclymenum	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1127	1.7746229
-6	Edwards_a21	25	193	25	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1127	17.125111
-7	Edwards_a21	1242	10	132	Sorbus-type	Sorbus-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1127	0.88731145
-8	Edwards_a21	4217	3	4217	Thymus serpyllum	Thymus serpyllum	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	1127	0.26619343
-9	Edwards_a21	155	9	155	Asteraceae	Asteraceae	HERB	Herbs	HERB	True	True	Herbs	5	1127	0.7985803
-10	Edwards_a21	752	7	53	Lactuceae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	1127	0.62111801
-11	Edwards_a21	3428	10	3428	Cyperaceae class 2	Cyperaceae class 2	HERB	Herbs	HERB	True	True	Herbs	5	1127	0.88731145
-12	Edwards_a21	86	2	86	Lamiaceae	Lamiaceae	HERB	Herbs	HERB	True	True	Herbs	5	1127	0.17746229
-13	Edwards_a21	87	6	87	Plantago lanceolata	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	1127	0.53238687
-14	Edwards_a21	3898	29	3898	Poaceae class 2	Poaceae class 2	HERB	Herbs	HERB	True	True	Herbs	5	1127	2.5732032
-15	Edwards_a21	3899	32	3899	Poaceae class 3	Poaceae class 3	HERB	Herbs	HERB	True	True	Herbs	5	1127	2.8393966
-16	Edwards_a21	637	31	524	Potentilla-type	Potentilla-type	HERB	Herbs	HERB	True	True	Herbs	5	1127	2.7506655
-17	Edwards_a21	121	38	121	Rumex acetosa	Rumex acetosa-type	HERB	Herbs	HERB	True	True	Herbs	5	1127	3.3717835
-18	Edwards_a21	3749	28	3749	Monolete fern spores undifferentiated	Monolete fern spores undifferentiated	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	1127	2.484472
-19	Edwards_a21	677	27	230	Polypodium	Polypodium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	1127	2.3957409
-20	Edwards_a21	200	44	200	Pteridium aquilinum	Pteridium aquilinum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	1127	3.9041704
-21	Edwards_a21	3961	99	3961	Pteridophyta spore	Pteridophyta spore	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	1127	8.7843833
+samplename	original_varname	acc_varname	groupid	count	percentage
+Edwards_a21	Betula	Betula	TRSH	236	20.94055
+Edwards_a21	Calluna vulgaris	Calluna vulgaris	TRSH	172	15.261757
+Edwards_a21	Corylus avellana-type	Corylus avellana-type	TRSH	120	10.647737
+Edwards_a21	Erica cinerea	Erica cinerea	DWAR	4	0.35492458
+Edwards_a21	Erica tetralix-type	Erica tetralix-type	DWAR	7	0.62111801
+Edwards_a21	Lonicera periclymenum	Lonicera periclymenum	TRSH	20	1.7746229
+Edwards_a21	Salix	Salix	TRSH	193	17.125111
+Edwards_a21	Sorbus-type	Sorbus-type	TRSH	10	0.88731145
+Edwards_a21	Thymus serpyllum	Thymus serpyllum	DWAR	3	0.26619343
+Edwards_a21	Asteraceae	Asteraceae	HERB	9	0.7985803
+Edwards_a21	Lactuceae	Asteraceae subf. Cichorioideae	HERB	7	0.62111801
+Edwards_a21	Cyperaceae class 2	Cyperaceae class 2	HERB	10	0.88731145
+Edwards_a21	Lamiaceae	Lamiaceae	HERB	2	0.17746229
+Edwards_a21	Plantago lanceolata	Plantago lanceolata-type	HERB	6	0.53238687
+Edwards_a21	Poaceae class 2	Poaceae class 2	HERB	29	2.5732032
+Edwards_a21	Poaceae class 3	Poaceae class 3	HERB	32	2.8393966
+Edwards_a21	Potentilla-type	Potentilla-type	HERB	31	2.7506655
+Edwards_a21	Rumex acetosa	Rumex acetosa-type	HERB	38	3.3717835
+Edwards_a21	Monolete fern spores undifferentiated	Monolete fern spores undifferentiated	VACR	28	2.484472
+Edwards_a21	Polypodium	Polypodium	VACR	27	2.3957409
+Edwards_a21	Pteridium aquilinum	Pteridium aquilinum	VACR	44	3.9041704
+Edwards_a21	Pteridophyta spore	Pteridophyta spore	VACR	99	8.7843833

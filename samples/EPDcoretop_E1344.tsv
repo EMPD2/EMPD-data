@@ -1,21 +1,21 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	EPDcoretop_E1344	1	2	1	Abies	Abies	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	173	1.1560694
-1	EPDcoretop_E1344	9	1	9	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	173	0.57803468
-2	EPDcoretop_E1344	12	1	12	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	173	0.57803468
-3	EPDcoretop_E1344	515	2	79	Hedera	Hedera	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	173	1.1560694
-4	EPDcoretop_E1344	19	98	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	173	56.647399
-5	EPDcoretop_E1344	208	1	208	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	173	0.57803468
-6	EPDcoretop_E1344	601	2	36	Umbelliferae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	173	1.1560694
-7	EPDcoretop_E1344	37	1	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	173	0.57803468
-8	EPDcoretop_E1344	721	1	53	Liguliflorae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	173	0.57803468
-9	EPDcoretop_E1344	61	41	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	173	23.699422
-10	EPDcoretop_E1344	2583	3	69	Papilionaceae	Fabaceae	HERB	Herbs	HERB	True	True	Herbs	5	173	1.734104
-11	EPDcoretop_E1344	735	7	286	Plantago	Plantago	HERB	Herbs	HERB	True	True	Herbs	5	173	4.0462428
-12	EPDcoretop_E1344	1611	5	106	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	173	2.8901734
-13	EPDcoretop_E1344	3751	1	3751	Monolete spore(s)	Monolete spore(s)	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	173	0.57803468
-14	EPDcoretop_E1344	1989	7	1989	Pteris	Pteris	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	173	4.0462428
-15	EPDcoretop_E1344	516	2	516	Myriophyllum	Myriophyllum	AQUA	Aquatics	AQUA	False	True	Aquatics	7	173	1.1560694
-16	EPDcoretop_E1344	3757	10	3757	Mounted volume (0.001 ml)	Mounted volume (0.001 ml)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	173	
-17	EPDcoretop_E1344	3777	18	1904	Number of counted lines	Number of counted lines	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	173	
-18	EPDcoretop_E1344	4304	70	4304	Volume of residue (ml)	Volume of residue (ml)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	173	
-19	EPDcoretop_E1344	4308	30	1888	Weight	Weight	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	173	
+samplename	original_varname	acc_varname	groupid	count	percentage
+EPDcoretop_E1344	Abies	Abies	TRSH	2	1.1560694
+EPDcoretop_E1344	Corylus	Corylus	TRSH	1	0.57803468
+EPDcoretop_E1344	Fagus	Fagus	TRSH	1	0.57803468
+EPDcoretop_E1344	Hedera	Hedera	TRSH	2	1.1560694
+EPDcoretop_E1344	Pinus	Pinus	TRSH	98	56.647399
+EPDcoretop_E1344	Quercus	Quercus	TRSH	1	0.57803468
+EPDcoretop_E1344	Umbelliferae	Apiaceae	HERB	2	1.1560694
+EPDcoretop_E1344	Artemisia	Artemisia	HERB	1	0.57803468
+EPDcoretop_E1344	Liguliflorae	Asteraceae subf. Cichorioideae	HERB	1	0.57803468
+EPDcoretop_E1344	Cyperaceae	Cyperaceae	HERB	41	23.699422
+EPDcoretop_E1344	Papilionaceae	Fabaceae	HERB	3	1.734104
+EPDcoretop_E1344	Plantago	Plantago	HERB	7	4.0462428
+EPDcoretop_E1344	Gramineae	Poaceae	HERB	5	2.8901734
+EPDcoretop_E1344	Myriophyllum	Myriophyllum	AQUA	2	1.1560694
+EPDcoretop_E1344	Monolete spore(s)	Monolete spore(s)	VACR	1	0.57803468
+EPDcoretop_E1344	Mounted volume (0.001 ml)	Mounted volume (0.001 ml)	NOPO	10	
+EPDcoretop_E1344	Number of counted lines	Number of counted lines	NOPO	18	
+EPDcoretop_E1344	Pteris	Pteris	VACR	7	4.0462428
+EPDcoretop_E1344	Volume of residue (ml)	Volume of residue (ml)	NOPO	70	
+EPDcoretop_E1344	Weight	Weight	NOPO	30	

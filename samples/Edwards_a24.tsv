@@ -1,20 +1,20 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Edwards_a24	5	46	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	982	4.6843177
-1	Edwards_a24	470	205	470	Calluna vulgaris	Calluna vulgaris	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	982	20.875764
-2	Edwards_a24	3408	9	3408	Corylus avellana-type	Corylus avellana-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	982	0.91649695
-3	Edwards_a24	3493	23	2608	Erica tetralix-type	Erica tetralix-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	982	2.3421589
-4	Edwards_a24	799	6	148	Pinus sylvestris	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	982	0.61099796
-5	Edwards_a24	208	5	208	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	982	0.50916497
-6	Edwards_a24	25	8	25	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	982	0.81466395
-7	Edwards_a24	31	3	31	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	982	0.30549898
-8	Edwards_a24	155	7	155	Asteraceae	Asteraceae	HERB	Herbs	HERB	True	True	Herbs	5	982	0.71283096
-9	Edwards_a24	3428	251	3428	Cyperaceae class 2	Cyperaceae class 2	HERB	Herbs	HERB	True	True	Herbs	5	982	25.560081
-10	Edwards_a24	3771	2	3771	Narthecium ossifragum	Narthecium ossifragum	HERB	Herbs	HERB	True	True	Herbs	5	982	0.20366599
-11	Edwards_a24	87	8	87	Plantago lanceolata	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	982	0.81466395
-12	Edwards_a24	3898	170	3898	Poaceae class 2	Poaceae class 2	HERB	Herbs	HERB	True	True	Herbs	5	982	17.311609
-13	Edwards_a24	3899	9	3899	Poaceae class 3	Poaceae class 3	HERB	Herbs	HERB	True	True	Herbs	5	982	0.91649695
-14	Edwards_a24	637	7	524	Potentilla-type	Potentilla-type	HERB	Herbs	HERB	True	True	Herbs	5	982	0.71283096
-15	Edwards_a24	4154	8	4154	Solidago virgaurea-type	Solidago virgaurea-type	HERB	Herbs	HERB	True	True	Herbs	5	982	0.81466395
-16	Edwards_a24	200	7	200	Pteridium aquilinum	Pteridium aquilinum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	982	0.71283096
-17	Edwards_a24	3961	208	3961	Pteridophyta spore	Pteridophyta spore	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	982	21.181263
-18	Edwards_a24	165	201	165	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	982	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Edwards_a24	Betula	Betula	TRSH	46	4.6843177
+Edwards_a24	Calluna vulgaris	Calluna vulgaris	TRSH	205	20.875764
+Edwards_a24	Corylus avellana-type	Corylus avellana-type	TRSH	9	0.91649695
+Edwards_a24	Erica tetralix-type	Erica tetralix-type	DWAR	23	2.3421589
+Edwards_a24	Pinus sylvestris	Pinus sylvestris-type	TRSH	6	0.61099796
+Edwards_a24	Quercus	Quercus	TRSH	5	0.50916497
+Edwards_a24	Salix	Salix	TRSH	8	0.81466395
+Edwards_a24	Ulmus	Ulmus/Zelkova	TRSH	3	0.30549898
+Edwards_a24	Asteraceae	Asteraceae	HERB	7	0.71283096
+Edwards_a24	Cyperaceae class 2	Cyperaceae class 2	HERB	251	25.560081
+Edwards_a24	Narthecium ossifragum	Narthecium ossifragum	HERB	2	0.20366599
+Edwards_a24	Plantago lanceolata	Plantago lanceolata-type	HERB	8	0.81466395
+Edwards_a24	Poaceae class 2	Poaceae class 2	HERB	170	17.311609
+Edwards_a24	Poaceae class 3	Poaceae class 3	HERB	9	0.91649695
+Edwards_a24	Potentilla-type	Potentilla-type	HERB	7	0.71283096
+Edwards_a24	Solidago virgaurea-type	Solidago virgaurea-type	HERB	8	0.81466395
+Edwards_a24	Pteridium aquilinum	Pteridium aquilinum	VACR	7	0.71283096
+Edwards_a24	Pteridophyta spore	Pteridophyta spore	VACR	208	21.181263
+Edwards_a24	Sphagnum	Sphagnum	NOPO	201	

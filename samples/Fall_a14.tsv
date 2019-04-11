@@ -1,25 +1,25 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Fall_a14	3181	1	3181	Betula/Carpinus	Betula/Carpinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	496	0.2016129
-1	Fall_a14	179	2	179	Ephedra	Ephedra	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	496	0.40322581
-2	Fall_a14	85	25	85	Juniperus	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	496	5.0403226
-3	Fall_a14	455	47	95	Olea	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	496	9.4758065
-4	Fall_a14	19	3	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	496	0.60483871
-5	Fall_a14	103	2	103	Pistacia	Pistacia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	496	0.40322581
-6	Fall_a14	208	2	208	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	496	0.40322581
-7	Fall_a14	512	3	430	Tamarix	Tamarix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	496	0.60483871
-8	Fall_a14	4214	3	2088	Thymelaeaceae	Thymelaeaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	496	0.60483871
-9	Fall_a14	3079	10	1630	Alkanna-type	Alkanna-type	HERB	Herbs	HERB	True	True	Herbs	5	496	2.016129
-10	Fall_a14	37	26	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	496	5.2419355
-11	Fall_a14	722	52	180	Tubuliflorae	Asteraceae subf. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	496	10.483871
-12	Fall_a14	721	25	53	Liguliflorae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	496	5.0403226
-13	Fall_a14	1391	5	1391	Carduus-type	Carduus-type	HERB	Herbs	HERB	True	True	Herbs	5	496	1.0080645
-14	Fall_a14	46	18	46	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	496	3.6290323
-15	Fall_a14	3246	10	3246	Centaurea-type	Centaurea-type	HERB	Herbs	HERB	True	True	Herbs	5	496	2.016129
-16	Fall_a14	52	72	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	496	14.516129
-17	Fall_a14	54	2	54	Cistaceae	Cistaceae	HERB	Herbs	HERB	True	True	Herbs	5	496	0.40322581
-18	Fall_a14	2583	13	69	Papilionaceae	Fabaceae	HERB	Herbs	HERB	True	True	Herbs	5	496	2.6209677
-19	Fall_a14	600	5	34	Anthemis-type	Matricaria-type	HERB	Herbs	HERB	True	True	Herbs	5	496	1.0080645
-20	Fall_a14	735	145	286	Plantago	Plantago	HERB	Herbs	HERB	True	True	Herbs	5	496	29.233871
-21	Fall_a14	106	25	106	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	496	5.0403226
-22	Fall_a14	196	1	196	Typha	Sparganium-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	496	0.2016129
-23	Fall_a14	3631	42	197	Indeterminable: unknown	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	496	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Fall_a14	Betula/Carpinus	Betula/Carpinus	TRSH	1	0.2016129
+Fall_a14	Ephedra	Ephedra	TRSH	2	0.40322581
+Fall_a14	Juniperus	Juniperus communis-type	TRSH	25	5.0403226
+Fall_a14	Olea	Olea europaea	TRSH	47	9.4758065
+Fall_a14	Pinus	Pinus	TRSH	3	0.60483871
+Fall_a14	Pistacia	Pistacia	TRSH	2	0.40322581
+Fall_a14	Quercus	Quercus	TRSH	2	0.40322581
+Fall_a14	Tamarix	Tamarix	TRSH	3	0.60483871
+Fall_a14	Thymelaeaceae	Thymelaeaceae	TRSH	3	0.60483871
+Fall_a14	Alkanna-type	Alkanna-type	HERB	10	2.016129
+Fall_a14	Artemisia	Artemisia	HERB	26	5.2419355
+Fall_a14	Tubuliflorae	Asteraceae subf. Asteroideae	HERB	52	10.483871
+Fall_a14	Liguliflorae	Asteraceae subf. Cichorioideae	HERB	25	5.0403226
+Fall_a14	Carduus-type	Carduus-type	HERB	5	1.0080645
+Fall_a14	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	18	3.6290323
+Fall_a14	Centaurea-type	Centaurea-type	HERB	10	2.016129
+Fall_a14	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	72	14.516129
+Fall_a14	Cistaceae	Cistaceae	HERB	2	0.40322581
+Fall_a14	Papilionaceae	Fabaceae	HERB	13	2.6209677
+Fall_a14	Anthemis-type	Matricaria-type	HERB	5	1.0080645
+Fall_a14	Plantago	Plantago	HERB	145	29.233871
+Fall_a14	Poaceae	Poaceae	HERB	25	5.0403226
+Fall_a14	Typha	Sparganium-type	AQUA	1	0.2016129
+Fall_a14	Indeterminable: unknown	Indeterminable: unknown	INUN	42	

@@ -1,16 +1,16 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	EPDcoretop_E584	771	1	175	Alnus glutinosa	Alnus glutinosa-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	421	0.23752969
-1	EPDcoretop_E584	2117	3	175	Alnus incana	Alnus glutinosa-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	421	0.71258907
-2	EPDcoretop_E584	2116	1	5	Betula undifferentiated	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	421	0.23752969
-3	EPDcoretop_E584	1373	9	149	Betula nana	Betula nana-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	421	2.1377672
-4	EPDcoretop_E584	1740	15	150	Betula pendula	Betula pubescens-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	421	3.5629454
-5	EPDcoretop_E584	948	55	150	Betula pubescens	Betula pubescens-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	421	13.064133
-6	EPDcoretop_E584	2128	28	11	Ericales	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	421	6.6508314
-7	EPDcoretop_E584	18	10	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	421	2.3752969
-8	EPDcoretop_E584	799	251	148	Pinus sylvestris	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	421	59.619952
-9	EPDcoretop_E584	61	10	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	421	2.3752969
-10	EPDcoretop_E584	1611	17	106	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	421	4.0380048
-11	EPDcoretop_E584	156	1	156	Ranunculaceae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	421	0.23752969
-12	EPDcoretop_E584	168	15	168	Bryales	Bryophyte spores	BRYO	Bryophytes	VACR	True	True	Ferns	6	421	3.5629454
-13	EPDcoretop_E584	166	5	166	Equisetum	Equisetum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	421	1.1876485
-14	EPDcoretop_E584	165	80	165	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	421	
+samplename	original_varname	acc_varname	groupid	count	percentage
+EPDcoretop_E584	Alnus glutinosa	Alnus glutinosa-type	TRSH	1	0.23752969
+EPDcoretop_E584	Alnus incana	Alnus glutinosa-type	TRSH	3	0.71258907
+EPDcoretop_E584	Betula undifferentiated	Betula	TRSH	1	0.23752969
+EPDcoretop_E584	Betula nana	Betula nana-type	DWAR	9	2.1377672
+EPDcoretop_E584	Betula pendula	Betula pubescens-type	TRSH	15	3.5629454
+EPDcoretop_E584	Betula pubescens	Betula pubescens-type	TRSH	55	13.064133
+EPDcoretop_E584	Ericales	Ericales (tetrad)	DWAR	28	6.6508314
+EPDcoretop_E584	Picea	Picea	TRSH	10	2.3752969
+EPDcoretop_E584	Pinus sylvestris	Pinus sylvestris-type	TRSH	251	59.619952
+EPDcoretop_E584	Cyperaceae	Cyperaceae	HERB	10	2.3752969
+EPDcoretop_E584	Gramineae	Poaceae	HERB	17	4.0380048
+EPDcoretop_E584	Ranunculaceae	Ranunculaceae	HERB	1	0.23752969
+EPDcoretop_E584	Bryales	Bryophyte spores	BRYO	15	3.5629454
+EPDcoretop_E584	Equisetum	Equisetum	VACR	5	1.1876485
+EPDcoretop_E584	Sphagnum	Sphagnum	NOPO	80	

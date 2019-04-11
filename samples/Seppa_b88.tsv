@@ -1,23 +1,23 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Seppa_b88	4	39	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	552	7.0652174
-1	Seppa_b88	5	156	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	552	28.26087
-2	Seppa_b88	3182	2	3182	Betula/Corylus/Myrica	Betula/Corylus/Myrica	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	552	0.36231884
-3	Seppa_b88	470	1	470	Calluna vulgaris	Calluna vulgaris	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	552	0.18115942
-4	Seppa_b88	59	2	9	Corylus avellana	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	552	0.36231884
-5	Seppa_b88	950	1	750	Empetrum nigrum	Empetrum nigrum	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	552	0.18115942
-6	Seppa_b88	3498	1	3498	Ericaceae-type	Ericaceae-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	552	0.18115942
-7	Seppa_b88	952	7	85	Juniperus communis	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	552	1.2681159
-8	Seppa_b88	18	53	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	552	9.6014493
-9	Seppa_b88	799	262	148	Pinus sylvestris	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	552	47.463768
-10	Seppa_b88	3934	1	3934	Populus tremula	Populus tremula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	552	0.18115942
-11	Seppa_b88	208	1	208	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	552	0.18115942
-12	Seppa_b88	4088	3	4088	Salix undifferentiated	Salix undifferentiated	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	552	0.54347826
-13	Seppa_b88	31	1	31	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	552	0.18115942
-14	Seppa_b88	3102	1	3102	Angelica-type	Angelica-type	HERB	Herbs	HERB	True	True	Herbs	5	552	0.18115942
-15	Seppa_b88	37	1	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	552	0.18115942
-16	Seppa_b88	3017	2	50	Cerealia undifferentiated	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	552	0.36231884
-17	Seppa_b88	3573	14	3573	Gramineae undifferentiated	Gramineae undifferentiated	HERB	Herbs	HERB	True	True	Herbs	5	552	2.5362319
-18	Seppa_b88	637	1	524	Potentilla-type	Potentilla-type	HERB	Herbs	HERB	True	True	Herbs	5	552	0.18115942
-19	Seppa_b88	3991	1	3991	Ranunculaceae undifferentiated	Ranunculaceae undifferentiated	HERB	Herbs	HERB	True	True	Herbs	5	552	0.18115942
-20	Seppa_b88	272	1	272	Secale cereale	Secale cereale	HERB	Herbs	HERB	True	True	Herbs	5	552	0.18115942
-21	Seppa_b88	1257	1	783	Dryopteris-type	Dryopteris-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	552	0.18115942
+samplename	original_varname	acc_varname	groupid	count	percentage
+Seppa_b88	Alnus	Alnus	TRSH	39	7.0652174
+Seppa_b88	Betula	Betula	TRSH	156	28.26087
+Seppa_b88	Betula/Corylus/Myrica	Betula/Corylus/Myrica	TRSH	2	0.36231884
+Seppa_b88	Calluna vulgaris	Calluna vulgaris	TRSH	1	0.18115942
+Seppa_b88	Corylus avellana	Corylus	TRSH	2	0.36231884
+Seppa_b88	Empetrum nigrum	Empetrum nigrum	DWAR	1	0.18115942
+Seppa_b88	Ericaceae-type	Ericaceae-type	DWAR	1	0.18115942
+Seppa_b88	Juniperus communis	Juniperus communis-type	TRSH	7	1.2681159
+Seppa_b88	Picea	Picea	TRSH	53	9.6014493
+Seppa_b88	Pinus sylvestris	Pinus sylvestris-type	TRSH	262	47.463768
+Seppa_b88	Populus tremula	Populus tremula	TRSH	1	0.18115942
+Seppa_b88	Quercus	Quercus	TRSH	1	0.18115942
+Seppa_b88	Salix undifferentiated	Salix undifferentiated	TRSH	3	0.54347826
+Seppa_b88	Ulmus	Ulmus/Zelkova	TRSH	1	0.18115942
+Seppa_b88	Angelica-type	Angelica-type	HERB	1	0.18115942
+Seppa_b88	Artemisia	Artemisia	HERB	1	0.18115942
+Seppa_b88	Cerealia undifferentiated	Cerealia-type	HERB	2	0.36231884
+Seppa_b88	Gramineae undifferentiated	Gramineae undifferentiated	HERB	14	2.5362319
+Seppa_b88	Potentilla-type	Potentilla-type	HERB	1	0.18115942
+Seppa_b88	Ranunculaceae undifferentiated	Ranunculaceae undifferentiated	HERB	1	0.18115942
+Seppa_b88	Secale cereale	Secale cereale	HERB	1	0.18115942
+Seppa_b88	Dryopteris-type	Dryopteris-type	VACR	1	0.18115942

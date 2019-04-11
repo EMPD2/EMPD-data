@@ -1,26 +1,26 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	EPDcoretop_E622	2	3	2	Acer	Acer campestre-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	168	1.7857143
-1	EPDcoretop_E622	4	4	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	168	2.3809524
-2	EPDcoretop_E622	5	3	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	168	1.7857143
-3	EPDcoretop_E622	574	8	7	Carpinus betulus	Carpinus betulus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	168	4.7619048
-4	EPDcoretop_E622	9	8	9	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	168	4.7619048
-5	EPDcoretop_E622	12	5	12	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	168	2.9761905
-6	EPDcoretop_E622	1045	12	97	Carpinus orientalis/Ostrya	Ostrya/Carpinus orientalis	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	168	7.1428571
-7	EPDcoretop_E622	1059	7	148	Pinus diploxylon-type	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	168	4.1666667
-8	EPDcoretop_E622	208	24	208	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	168	14.285714
-9	EPDcoretop_E622	25	4	25	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	168	2.3809524
-10	EPDcoretop_E622	29	5	29	Tilia	Tilia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	168	2.9761905
-11	EPDcoretop_E622	31	6	31	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	168	3.5714286
-12	EPDcoretop_E622	37	12	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	168	7.1428571
-13	EPDcoretop_E622	52	10	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	168	5.952381
-14	EPDcoretop_E622	1253	4	614	Cirsium-type	Cirsium	HERB	Herbs	HERB	True	True	Herbs	5	168	2.3809524
-15	EPDcoretop_E622	1343	2	1252	Taraxacum-type	Crepis-type	HERB	Herbs	HERB	True	True	Herbs	5	168	1.1904762
-16	EPDcoretop_E622	61	20	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	168	11.904762
-17	EPDcoretop_E622	738	3	120	Rumex	Rumex/Oxyria	HERB	Herbs	HERB	True	True	Herbs	5	168	1.7857143
-18	EPDcoretop_E622	166	4	166	Equisetum	Equisetum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	168	2.3809524
-19	EPDcoretop_E622	3525	24	3525	Filicopsida monolete undifferentiated	Filicopsida monolete undifferentiated	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	168	14.285714
-20	EPDcoretop_E622	3203	2	3203	Butomus	Butomus	AQUA	Aquatics	AQUA	False	True	Aquatics	7	168	1.1904762
-21	EPDcoretop_E622	280	2	280	Lemna	Lemna	AQUA	Aquatics	AQUA	False	True	Aquatics	7	168	1.1904762
-22	EPDcoretop_E622	516	2	516	Myriophyllum	Myriophyllum	AQUA	Aquatics	AQUA	False	True	Aquatics	7	168	1.1904762
-23	EPDcoretop_E622	4258	5	4258	Typha angustifolia/Sparganium	Typha angustifolia/Sparganium	AQUA	Aquatics	AQUA	False	True	Aquatics	7	168	2.9761905
-24	EPDcoretop_E622	1297	5	433	Typha latifolia	Typha latifolia	HELO	Helophytes	AQUA	False	True	Aquatics	7	168	2.9761905
+samplename	original_varname	acc_varname	groupid	count	percentage
+EPDcoretop_E622	Acer	Acer campestre-type	TRSH	3	1.7857143
+EPDcoretop_E622	Alnus	Alnus	TRSH	4	2.3809524
+EPDcoretop_E622	Betula	Betula	TRSH	3	1.7857143
+EPDcoretop_E622	Carpinus betulus	Carpinus betulus	TRSH	8	4.7619048
+EPDcoretop_E622	Corylus	Corylus	TRSH	8	4.7619048
+EPDcoretop_E622	Fagus	Fagus	TRSH	5	2.9761905
+EPDcoretop_E622	Carpinus orientalis/Ostrya	Ostrya/Carpinus orientalis	TRSH	12	7.1428571
+EPDcoretop_E622	Pinus diploxylon-type	Pinus sylvestris-type	TRSH	7	4.1666667
+EPDcoretop_E622	Quercus	Quercus	TRSH	24	14.285714
+EPDcoretop_E622	Salix	Salix	TRSH	4	2.3809524
+EPDcoretop_E622	Tilia	Tilia	TRSH	5	2.9761905
+EPDcoretop_E622	Ulmus	Ulmus/Zelkova	TRSH	6	3.5714286
+EPDcoretop_E622	Artemisia	Artemisia	HERB	12	7.1428571
+EPDcoretop_E622	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	10	5.952381
+EPDcoretop_E622	Cirsium-type	Cirsium	HERB	4	2.3809524
+EPDcoretop_E622	Taraxacum-type	Crepis-type	HERB	2	1.1904762
+EPDcoretop_E622	Cyperaceae	Cyperaceae	HERB	20	11.904762
+EPDcoretop_E622	Rumex	Rumex/Oxyria	HERB	3	1.7857143
+EPDcoretop_E622	Butomus	Butomus	AQUA	2	1.1904762
+EPDcoretop_E622	Lemna	Lemna	AQUA	2	1.1904762
+EPDcoretop_E622	Myriophyllum	Myriophyllum	AQUA	2	1.1904762
+EPDcoretop_E622	Typha angustifolia/Sparganium	Typha angustifolia/Sparganium	AQUA	5	2.9761905
+EPDcoretop_E622	Typha latifolia	Typha latifolia	HELO	5	2.9761905
+EPDcoretop_E622	Equisetum	Equisetum	VACR	4	2.3809524
+EPDcoretop_E622	Filicopsida monolete undifferentiated	Filicopsida monolete undifferentiated	VACR	24	14.285714

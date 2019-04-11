@@ -1,27 +1,27 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Barboni_a751	4	1	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	545	0.18348624
-1	Barboni_a751	66	1	66	Erica	Erica	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	545	0.18348624
-2	Barboni_a751	85	15	85	Juniperus	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	545	2.7522936
-3	Barboni_a751	455	40	95	Olea	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	545	7.3394495
-4	Barboni_a751	19	98	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	545	17.981651
-5	Barboni_a751	208	35	208	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	545	6.4220183
-6	Barboni_a751	3990	17	3990	Quercus undifferentiated	Quercus undifferentiated	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	545	3.1192661
-7	Barboni_a751	31	1	31	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	545	0.18348624
-8	Barboni_a751	601	3	36	Umbelliferae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	545	0.55045872
-9	Barboni_a751	37	18	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	545	3.3027523
-10	Barboni_a751	494	23	42	Cruciferae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	545	4.2201835
-11	Barboni_a751	46	2	46	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	545	0.36697248
-12	Barboni_a751	1075	11	50	Cerealia-type	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	545	2.0183486
-13	Barboni_a751	52	107	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	545	19.633028
-14	Barboni_a751	54	8	54	Cistaceae	Cistaceae	HERB	Herbs	HERB	True	True	Herbs	5	545	1.4678899
-15	Barboni_a751	3381	2	3381	Compositae subfam. Asteroideae	Compositae subfam. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	545	0.36697248
-16	Barboni_a751	3383	7	3383	Compositae subfam. Cichorioideae	Compositae subfam. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	545	1.2844037
-17	Barboni_a751	531	1	531	Crassulaceae	Crassulaceae	HERB	Herbs	HERB	True	True	Herbs	5	545	0.18348624
-18	Barboni_a751	61	1	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	545	0.18348624
-19	Barboni_a751	497	8	86	Labiatae	Lamiaceae	HERB	Herbs	HERB	True	True	Herbs	5	545	1.4678899
-20	Barboni_a751	755	15	755	Leguminosae	Leguminosae	HERB	Herbs	HERB	True	True	Herbs	5	545	2.7522936
-21	Barboni_a751	735	14	286	Plantago	Plantago	HERB	Herbs	HERB	True	True	Herbs	5	545	2.5688073
-22	Barboni_a751	1611	108	106	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	545	19.816514
-23	Barboni_a751	738	7	120	Rumex	Rumex/Oxyria	HERB	Herbs	HERB	True	True	Herbs	5	545	1.2844037
-24	Barboni_a751	4236	2	295	Trilete spore(s)	Trilete spore(s)	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	545	0.36697248
-25	Barboni_a751	3631	33	197	Indeterminable: unknown	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	545	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Barboni_a751	Alnus	Alnus	TRSH	1	0.18348624
+Barboni_a751	Erica	Erica	DWAR	1	0.18348624
+Barboni_a751	Juniperus	Juniperus communis-type	TRSH	15	2.7522936
+Barboni_a751	Olea	Olea europaea	TRSH	40	7.3394495
+Barboni_a751	Pinus	Pinus	TRSH	98	17.981651
+Barboni_a751	Quercus	Quercus	TRSH	35	6.4220183
+Barboni_a751	Quercus undifferentiated	Quercus undifferentiated	TRSH	17	3.1192661
+Barboni_a751	Ulmus	Ulmus/Zelkova	TRSH	1	0.18348624
+Barboni_a751	Umbelliferae	Apiaceae	HERB	3	0.55045872
+Barboni_a751	Artemisia	Artemisia	HERB	18	3.3027523
+Barboni_a751	Cruciferae	Brassicaceae	HERB	23	4.2201835
+Barboni_a751	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	2	0.36697248
+Barboni_a751	Cerealia-type	Cerealia-type	HERB	11	2.0183486
+Barboni_a751	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	107	19.633028
+Barboni_a751	Cistaceae	Cistaceae	HERB	8	1.4678899
+Barboni_a751	Compositae subfam. Asteroideae	Compositae subfam. Asteroideae	HERB	2	0.36697248
+Barboni_a751	Compositae subfam. Cichorioideae	Compositae subfam. Cichorioideae	HERB	7	1.2844037
+Barboni_a751	Crassulaceae	Crassulaceae	HERB	1	0.18348624
+Barboni_a751	Cyperaceae	Cyperaceae	HERB	1	0.18348624
+Barboni_a751	Labiatae	Lamiaceae	HERB	8	1.4678899
+Barboni_a751	Leguminosae	Leguminosae	HERB	15	2.7522936
+Barboni_a751	Plantago	Plantago	HERB	14	2.5688073
+Barboni_a751	Gramineae	Poaceae	HERB	108	19.816514
+Barboni_a751	Rumex	Rumex/Oxyria	HERB	7	1.2844037
+Barboni_a751	Indeterminable: unknown	Indeterminable: unknown	INUN	33	
+Barboni_a751	Trilete spore(s)	Trilete spore(s)	VACR	2	0.36697248

@@ -1,24 +1,24 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Barboni_a926	2906	1	11	Ericaceae undifferentiated	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	419	0.23866348
-1	Barboni_a926	749	3	28	Juniperus-type	Juniperus-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	419	0.71599045
-2	Barboni_a926	3783	38	3783	Olea-type	Olea-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	419	9.0692124
-3	Barboni_a926	3863	54	3863	Pinus-type	Pinus-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	419	12.887828
-4	Barboni_a926	2801	17	110	Quercus suber-type	Quercus cerris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	419	4.0572792
-5	Barboni_a926	1062	18	22	Quercus ilex-type	Quercus ilex-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	419	4.2959427
-6	Barboni_a926	2964	1	36	Apiaceae undifferentiated	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	419	0.23866348
-7	Barboni_a926	3136	29	3136	Artemisia-type	Artemisia-type	HERB	Herbs	HERB	True	True	Herbs	5	419	6.9212411
-8	Barboni_a926	39	1	39	Asphodelus	Asphodelus	HERB	Herbs	HERB	True	True	Herbs	5	419	0.23866348
-9	Barboni_a926	1347	110	53	Asteraceae Liguliflorae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	419	26.252983
-10	Barboni_a926	2291	8	1469	Bidens-type	Bidens-type	HERB	Herbs	HERB	True	True	Herbs	5	419	1.9093079
-11	Barboni_a926	3237	4	3237	Caryophyllaceae undifferentiated	Caryophyllaceae undifferentiated	HERB	Herbs	HERB	True	True	Herbs	5	419	0.95465394
-12	Barboni_a926	3348	1	3348	Chenopodiaceae undifferentiated	Chenopodiaceae undifferentiated	HERB	Herbs	HERB	True	True	Herbs	5	419	0.23866348
-13	Barboni_a926	3573	58	3573	Gramineae undifferentiated	Gramineae undifferentiated	HERB	Herbs	HERB	True	True	Herbs	5	419	13.842482
-14	Barboni_a926	3592	2	3592	Helianthemum-type	Helianthemum-type	HERB	Herbs	HERB	True	True	Herbs	5	419	0.47732697
-15	Barboni_a926	3624	1	3624	Illecebrum	Illecebrum	HERB	Herbs	HERB	True	True	Herbs	5	419	0.23866348
-16	Barboni_a926	622	1	622	Lotus-type	Lotus-type	HERB	Herbs	HERB	True	True	Herbs	5	419	0.23866348
-17	Barboni_a926	1774	1	495	Campanula-type	Phyteuma-type	HERB	Herbs	HERB	True	True	Herbs	5	419	0.23866348
-18	Barboni_a926	2810	2	58	Plantago coronopus-type	Plantago coronopus-type	HERB	Herbs	HERB	True	True	Herbs	5	419	0.47732697
-19	Barboni_a926	2371	62	405	Polygonum bistorta-type	Polygonum bistorta-type	HERB	Herbs	HERB	True	True	Herbs	5	419	14.797136
-20	Barboni_a926	2623	1	1090	Prunella	Prunella-type	HERB	Herbs	HERB	True	True	Herbs	5	419	0.23866348
-21	Barboni_a926	1554	6	167	Filicales	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	419	1.4319809
-22	Barboni_a926	3431	18	3431	Cyperaceae undifferentiated	Cyperaceae undifferentiated	AQUA	Aquatics	AQUA	False	True	Aquatics	7	419	4.2959427
+samplename	original_varname	acc_varname	groupid	count	percentage
+Barboni_a926	Ericaceae undifferentiated	Ericales (tetrad)	DWAR	1	0.23866348
+Barboni_a926	Juniperus-type	Juniperus-type	TRSH	3	0.71599045
+Barboni_a926	Olea-type	Olea-type	TRSH	38	9.0692124
+Barboni_a926	Pinus-type	Pinus-type	TRSH	54	12.887828
+Barboni_a926	Quercus suber-type	Quercus cerris-type	TRSH	17	4.0572792
+Barboni_a926	Quercus ilex-type	Quercus ilex-type	TRSH	18	4.2959427
+Barboni_a926	Apiaceae undifferentiated	Apiaceae	HERB	1	0.23866348
+Barboni_a926	Artemisia-type	Artemisia-type	HERB	29	6.9212411
+Barboni_a926	Asphodelus	Asphodelus	HERB	1	0.23866348
+Barboni_a926	Asteraceae Liguliflorae	Asteraceae subf. Cichorioideae	HERB	110	26.252983
+Barboni_a926	Bidens-type	Bidens-type	HERB	8	1.9093079
+Barboni_a926	Caryophyllaceae undifferentiated	Caryophyllaceae undifferentiated	HERB	4	0.95465394
+Barboni_a926	Chenopodiaceae undifferentiated	Chenopodiaceae undifferentiated	HERB	1	0.23866348
+Barboni_a926	Gramineae undifferentiated	Gramineae undifferentiated	HERB	58	13.842482
+Barboni_a926	Helianthemum-type	Helianthemum-type	HERB	2	0.47732697
+Barboni_a926	Illecebrum	Illecebrum	HERB	1	0.23866348
+Barboni_a926	Lotus-type	Lotus-type	HERB	1	0.23866348
+Barboni_a926	Campanula-type	Phyteuma-type	HERB	1	0.23866348
+Barboni_a926	Plantago coronopus-type	Plantago coronopus-type	HERB	2	0.47732697
+Barboni_a926	Polygonum bistorta-type	Polygonum bistorta-type	HERB	62	14.797136
+Barboni_a926	Prunella	Prunella-type	HERB	1	0.23866348
+Barboni_a926	Cyperaceae undifferentiated	Cyperaceae undifferentiated	AQUA	18	4.2959427
+Barboni_a926	Filicales	Monolete fern spores	VACR	6	1.4319809

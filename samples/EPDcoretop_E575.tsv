@@ -1,21 +1,21 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	EPDcoretop_E575	4	15	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	748	2.0053476
-1	EPDcoretop_E575	1373	102	149	Betula nana	Betula nana-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	748	13.636364
-2	EPDcoretop_E575	948	154	150	Betula pubescens	Betula pubescens-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	748	20.588235
-3	EPDcoretop_E575	750	3	750	Empetrum	Empetrum nigrum	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	748	0.40106952
-4	EPDcoretop_E575	3499	2	3499	Ericales undifferentiated	Ericales undifferentiated	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	748	0.26737968
-5	EPDcoretop_E575	85	3	85	Juniperus	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	748	0.40106952
-6	EPDcoretop_E575	18	78	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	748	10.427807
-7	EPDcoretop_E575	19	224	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	748	29.946524
-8	EPDcoretop_E575	25	2	25	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	748	0.26737968
-9	EPDcoretop_E575	601	1	36	Umbelliferae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	748	0.13368984
-10	EPDcoretop_E575	37	3	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	748	0.40106952
-11	EPDcoretop_E575	61	114	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	748	15.240642
-12	EPDcoretop_E575	1154	1	221	Humulus/Cannabis	Humulus/Cannabis	HERB	Herbs	HERB	True	True	Herbs	5	748	0.13368984
-13	EPDcoretop_E575	1611	40	106	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	748	5.3475936
-14	EPDcoretop_E575	1257	1	783	Dryopteris-type	Dryopteris-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	748	0.13368984
-15	EPDcoretop_E575	166	4	166	Equisetum	Equisetum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	748	0.53475936
-16	EPDcoretop_E575	679	1	679	Selaginella	Selaginella	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	748	0.13368984
-17	EPDcoretop_E575	972	8	195	Menyanthes trifoliata	Menyanthes trifoliata	AQUA	Aquatics	AQUA	False	True	Aquatics	7	748	1.0695187
-18	EPDcoretop_E575	3631	4	197	Indeterminable: unknown	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	748	
-19	EPDcoretop_E575	165	13	165	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	748	
+samplename	original_varname	acc_varname	groupid	count	percentage
+EPDcoretop_E575	Alnus	Alnus	TRSH	15	2.0053476
+EPDcoretop_E575	Betula nana	Betula nana-type	DWAR	102	13.636364
+EPDcoretop_E575	Betula pubescens	Betula pubescens-type	TRSH	154	20.588235
+EPDcoretop_E575	Empetrum	Empetrum nigrum	DWAR	3	0.40106952
+EPDcoretop_E575	Ericales undifferentiated	Ericales undifferentiated	DWAR	2	0.26737968
+EPDcoretop_E575	Juniperus	Juniperus communis-type	TRSH	3	0.40106952
+EPDcoretop_E575	Picea	Picea	TRSH	78	10.427807
+EPDcoretop_E575	Pinus	Pinus	TRSH	224	29.946524
+EPDcoretop_E575	Salix	Salix	TRSH	2	0.26737968
+EPDcoretop_E575	Umbelliferae	Apiaceae	HERB	1	0.13368984
+EPDcoretop_E575	Artemisia	Artemisia	HERB	3	0.40106952
+EPDcoretop_E575	Cyperaceae	Cyperaceae	HERB	114	15.240642
+EPDcoretop_E575	Humulus/Cannabis	Humulus/Cannabis	HERB	1	0.13368984
+EPDcoretop_E575	Gramineae	Poaceae	HERB	40	5.3475936
+EPDcoretop_E575	Menyanthes trifoliata	Menyanthes trifoliata	AQUA	8	1.0695187
+EPDcoretop_E575	Indeterminable: unknown	Indeterminable: unknown	INUN	4	
+EPDcoretop_E575	Dryopteris-type	Dryopteris-type	VACR	1	0.13368984
+EPDcoretop_E575	Equisetum	Equisetum	VACR	4	0.53475936
+EPDcoretop_E575	Selaginella	Selaginella	VACR	1	0.13368984
+EPDcoretop_E575	Sphagnum	Sphagnum	NOPO	13	

@@ -1,32 +1,32 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Kunes_a96	1	14	1	Abies	Abies	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	875	1.6
-1	Kunes_a96	5	291	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	875	33.257143
-2	Kunes_a96	1373	4	149	Betula nana	Betula nana-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	875	0.45714286
-3	Kunes_a96	3852	45	147	Pinus cembra-type	Pinus cembra-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	875	5.1428571
-4	Kunes_a96	1236	100	148	Pinus sylvestris-type	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	875	11.428571
-5	Kunes_a96	107	16	107	Populus	Populus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	875	1.8285714
-6	Kunes_a96	118	3	118	Rosaceae	Rosaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	875	0.34285714
-7	Kunes_a96	25	9	25	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	875	1.0285714
-8	Kunes_a96	4156	5	4156	Sorbus/Cotoneaster	Sorbus/Cotoneaster	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	875	0.57142857
-9	Kunes_a96	1336	2	538	Allium-type	Allium-type	HERB	Herbs	HERB	True	True	Herbs	5	875	0.22857143
-10	Kunes_a96	36	6	36	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	875	0.68571429
-11	Kunes_a96	37	124	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	875	14.171429
-12	Kunes_a96	42	4	42	Brassicaceae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	875	0.45714286
-13	Kunes_a96	49	2	49	Cerastium	Cerastium-type	HERB	Herbs	HERB	True	True	Herbs	5	875	0.22857143
-14	Kunes_a96	3017	8	50	Cerealia undifferentiated	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	875	0.91428571
-15	Kunes_a96	3347	8	3347	Chenopodiaceae p.p.	Chenopodiaceae p.p.	HERB	Herbs	HERB	True	True	Herbs	5	875	0.91428571
-16	Kunes_a96	3381	6	3381	Compositae subfam. Asteroideae	Compositae subfam. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	875	0.68571429
-17	Kunes_a96	497	7	86	Labiatae	Lamiaceae	HERB	Herbs	HERB	True	True	Herbs	5	875	0.8
-18	Kunes_a96	3668	1	1300	Lathyrus/Vicia-type	Lathyrus/Vicia-type	HERB	Herbs	HERB	True	True	Herbs	5	875	0.11428571
-19	Kunes_a96	188	1	188	Plantaginaceae	Plantaginaceae	HERB	Herbs	HERB	True	True	Herbs	5	875	0.11428571
-20	Kunes_a96	106	72	106	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	875	8.2285714
-21	Kunes_a96	641	3	113	Ranunculus acris-type	Ranunculus acris-type	HERB	Herbs	HERB	True	True	Herbs	5	875	0.34285714
-22	Kunes_a96	119	2	119	Rubiaceae	Rubiaceae	HERB	Herbs	HERB	True	True	Herbs	5	875	0.22857143
-23	Kunes_a96	1788	3	153	Silene-type	Silene-type	HERB	Herbs	HERB	True	True	Herbs	5	875	0.34285714
-24	Kunes_a96	137	25	137	Thalictrum	Thalictrum	HERB	Herbs	HERB	True	True	Herbs	5	875	2.8571429
-25	Kunes_a96	231	1	231	Athyrium filix-femina	Athyrium filix-femina	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	875	0.11428571
-26	Kunes_a96	3470	1	3470	Dryopteris expansa	Dryopteris expansa	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	875	0.11428571
-27	Kunes_a96	3747	4	167	Monolete fern spores	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	875	0.45714286
-28	Kunes_a96	885	106	205	Selaginella selaginoides	Selaginella selaginoides	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	875	12.114286
-29	Kunes_a96	4243	2	4243	Trilete spores undifferentiated	Trilete spores undifferentiated	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	875	0.22857143
-30	Kunes_a96	1108	21	197	Varia	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	875	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Kunes_a96	Abies	Abies	TRSH	14	1.6
+Kunes_a96	Betula	Betula	TRSH	291	33.257143
+Kunes_a96	Betula nana	Betula nana-type	DWAR	4	0.45714286
+Kunes_a96	Pinus cembra-type	Pinus cembra-type	TRSH	45	5.1428571
+Kunes_a96	Pinus sylvestris-type	Pinus sylvestris-type	TRSH	100	11.428571
+Kunes_a96	Populus	Populus	TRSH	16	1.8285714
+Kunes_a96	Rosaceae	Rosaceae	TRSH	3	0.34285714
+Kunes_a96	Salix	Salix	TRSH	9	1.0285714
+Kunes_a96	Sorbus/Cotoneaster	Sorbus/Cotoneaster	TRSH	5	0.57142857
+Kunes_a96	Allium-type	Allium-type	HERB	2	0.22857143
+Kunes_a96	Apiaceae	Apiaceae	HERB	6	0.68571429
+Kunes_a96	Artemisia	Artemisia	HERB	124	14.171429
+Kunes_a96	Brassicaceae	Brassicaceae	HERB	4	0.45714286
+Kunes_a96	Cerastium	Cerastium-type	HERB	2	0.22857143
+Kunes_a96	Cerealia undifferentiated	Cerealia-type	HERB	8	0.91428571
+Kunes_a96	Chenopodiaceae p.p.	Chenopodiaceae p.p.	HERB	8	0.91428571
+Kunes_a96	Compositae subfam. Asteroideae	Compositae subfam. Asteroideae	HERB	6	0.68571429
+Kunes_a96	Labiatae	Lamiaceae	HERB	7	0.8
+Kunes_a96	Lathyrus/Vicia-type	Lathyrus/Vicia-type	HERB	1	0.11428571
+Kunes_a96	Plantaginaceae	Plantaginaceae	HERB	1	0.11428571
+Kunes_a96	Poaceae	Poaceae	HERB	72	8.2285714
+Kunes_a96	Ranunculus acris-type	Ranunculus acris-type	HERB	3	0.34285714
+Kunes_a96	Rubiaceae	Rubiaceae	HERB	2	0.22857143
+Kunes_a96	Silene-type	Silene-type	HERB	3	0.34285714
+Kunes_a96	Thalictrum	Thalictrum	HERB	25	2.8571429
+Kunes_a96	Varia	Indeterminable: unknown	INUN	21	
+Kunes_a96	Athyrium filix-femina	Athyrium filix-femina	VACR	1	0.11428571
+Kunes_a96	Dryopteris expansa	Dryopteris expansa	VACR	1	0.11428571
+Kunes_a96	Monolete fern spores	Monolete fern spores	VACR	4	0.45714286
+Kunes_a96	Selaginella selaginoides	Selaginella selaginoides	VACR	106	12.114286
+Kunes_a96	Trilete spores undifferentiated	Trilete spores undifferentiated	VACR	2	0.22857143

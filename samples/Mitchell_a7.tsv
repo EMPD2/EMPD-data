@@ -1,17 +1,17 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Mitchell_a7	4	1	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	321	0.31152648
-1	Mitchell_a7	5	89	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	321	27.725857
-2	Mitchell_a7	3209	5	3209	Calluna	Calluna	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	321	1.5576324
-3	Mitchell_a7	13	3	13	Fraxinus	Fraxinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	321	0.93457944
-4	Mitchell_a7	515	24	79	Hedera	Hedera	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	321	7.4766355
-5	Mitchell_a7	14	35	14	Ilex	Ilex	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	321	10.903427
-6	Mitchell_a7	19	2	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	321	0.62305296
-7	Mitchell_a7	208	113	208	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	321	35.202492
-8	Mitchell_a7	4045	1	4045	Rosaceae undifferentiated	Rosaceae undifferentiated	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	321	0.31152648
-9	Mitchell_a7	25	2	25	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	321	0.62305296
-10	Mitchell_a7	1611	20	106	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	321	6.2305296
-11	Mitchell_a7	4075	5	4075	Rumex undifferentiated	Rumex undifferentiated	HERB	Herbs	HERB	True	True	Herbs	5	321	1.5576324
-12	Mitchell_a7	3523	4	3523	Filicales undifferentiated	Filicales undifferentiated	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	321	1.2461059
-13	Mitchell_a7	1565	7	478	Osmunda	Osmunda regalis	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	321	2.1806854
-14	Mitchell_a7	677	10	230	Polypodium	Polypodium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	321	3.1152648
-15	Mitchell_a7	3629	5	3629	Indeterminable: deteriorated	Indeterminable: deteriorated	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	321	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Mitchell_a7	Alnus	Alnus	TRSH	1	0.31152648
+Mitchell_a7	Betula	Betula	TRSH	89	27.725857
+Mitchell_a7	Calluna	Calluna	DWAR	5	1.5576324
+Mitchell_a7	Fraxinus	Fraxinus	TRSH	3	0.93457944
+Mitchell_a7	Hedera	Hedera	TRSH	24	7.4766355
+Mitchell_a7	Ilex	Ilex	TRSH	35	10.903427
+Mitchell_a7	Pinus	Pinus	TRSH	2	0.62305296
+Mitchell_a7	Quercus	Quercus	TRSH	113	35.202492
+Mitchell_a7	Rosaceae undifferentiated	Rosaceae undifferentiated	TRSH	1	0.31152648
+Mitchell_a7	Salix	Salix	TRSH	2	0.62305296
+Mitchell_a7	Gramineae	Poaceae	HERB	20	6.2305296
+Mitchell_a7	Rumex undifferentiated	Rumex undifferentiated	HERB	5	1.5576324
+Mitchell_a7	Indeterminable: deteriorated	Indeterminable: deteriorated	INUN	5	
+Mitchell_a7	Filicales undifferentiated	Filicales undifferentiated	VACR	4	1.2461059
+Mitchell_a7	Osmunda	Osmunda regalis	VACR	7	2.1806854
+Mitchell_a7	Polypodium	Polypodium	VACR	10	3.1152648

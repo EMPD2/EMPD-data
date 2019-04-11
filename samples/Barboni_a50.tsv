@@ -1,27 +1,27 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Barboni_a50	1	4	1	Abies	Abies	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	323	1.2383901
-1	Barboni_a50	4	22	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	323	6.8111455
-2	Barboni_a50	5	33	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	323	10.216718
-3	Barboni_a50	3209	19	3209	Calluna	Calluna	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	323	5.8823529
-4	Barboni_a50	454	4	47	Castanea	Castanea sativa	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	323	1.2383901
-5	Barboni_a50	9	18	9	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	323	5.5727554
-6	Barboni_a50	11	1	11	Ericaceae	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	323	0.30959752
-7	Barboni_a50	12	33	12	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	323	10.216718
-8	Barboni_a50	13	18	13	Fraxinus	Fraxinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	323	5.5727554
-9	Barboni_a50	455	1	95	Olea	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	323	0.30959752
-10	Barboni_a50	19	53	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	323	16.408669
-11	Barboni_a50	590	1	22	Quercus ilex	Quercus ilex-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	323	0.30959752
-12	Barboni_a50	3987	37	3987	Quercus robur	Quercus robur	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	323	11.455108
-13	Barboni_a50	118	2	118	Rosaceae	Rosaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	323	0.61919505
-14	Barboni_a50	31	2	31	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	323	0.61919505
-15	Barboni_a50	3381	1	3381	Compositae subfam. Asteroideae	Compositae subfam. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	323	0.30959752
-16	Barboni_a50	61	9	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	323	2.7863777
-17	Barboni_a50	735	3	286	Plantago	Plantago	HERB	Herbs	HERB	True	True	Herbs	5	323	0.92879257
-18	Barboni_a50	87	2	87	Plantago lanceolata	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	323	0.61919505
-19	Barboni_a50	1611	50	106	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	323	15.479876
-20	Barboni_a50	738	4	120	Rumex	Rumex/Oxyria	HERB	Herbs	HERB	True	True	Herbs	5	323	1.2383901
-21	Barboni_a50	820	5	820	Urticaceae	Urticaceae	HERB	Herbs	HERB	True	True	Herbs	5	323	1.5479876
-22	Barboni_a50	3751	1	3751	Monolete spore(s)	Monolete spore(s)	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	323	0.30959752
-23	Barboni_a50	668	1	133	Potamogeton	Potamogeton-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	323	0.30959752
-24	Barboni_a50	196	4	196	Typha	Sparganium-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	323	1.2383901
-25	Barboni_a50	165	1	165	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	323	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Barboni_a50	Abies	Abies	TRSH	4	1.2383901
+Barboni_a50	Alnus	Alnus	TRSH	22	6.8111455
+Barboni_a50	Betula	Betula	TRSH	33	10.216718
+Barboni_a50	Calluna	Calluna	DWAR	19	5.8823529
+Barboni_a50	Castanea	Castanea sativa	TRSH	4	1.2383901
+Barboni_a50	Corylus	Corylus	TRSH	18	5.5727554
+Barboni_a50	Ericaceae	Ericales (tetrad)	DWAR	1	0.30959752
+Barboni_a50	Fagus	Fagus	TRSH	33	10.216718
+Barboni_a50	Fraxinus	Fraxinus	TRSH	18	5.5727554
+Barboni_a50	Olea	Olea europaea	TRSH	1	0.30959752
+Barboni_a50	Pinus	Pinus	TRSH	53	16.408669
+Barboni_a50	Quercus ilex	Quercus ilex-type	TRSH	1	0.30959752
+Barboni_a50	Quercus robur	Quercus robur	TRSH	37	11.455108
+Barboni_a50	Rosaceae	Rosaceae	TRSH	2	0.61919505
+Barboni_a50	Ulmus	Ulmus/Zelkova	TRSH	2	0.61919505
+Barboni_a50	Compositae subfam. Asteroideae	Compositae subfam. Asteroideae	HERB	1	0.30959752
+Barboni_a50	Cyperaceae	Cyperaceae	HERB	9	2.7863777
+Barboni_a50	Plantago	Plantago	HERB	3	0.92879257
+Barboni_a50	Plantago lanceolata	Plantago lanceolata-type	HERB	2	0.61919505
+Barboni_a50	Gramineae	Poaceae	HERB	50	15.479876
+Barboni_a50	Rumex	Rumex/Oxyria	HERB	4	1.2383901
+Barboni_a50	Urticaceae	Urticaceae	HERB	5	1.5479876
+Barboni_a50	Potamogeton	Potamogeton-type	AQUA	1	0.30959752
+Barboni_a50	Typha	Sparganium-type	AQUA	4	1.2383901
+Barboni_a50	Monolete spore(s)	Monolete spore(s)	VACR	1	0.30959752
+Barboni_a50	Sphagnum	Sphagnum	NOPO	1	

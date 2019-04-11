@@ -1,23 +1,23 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Seppa_b8	4	10	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	532	1.8796992
-1	Seppa_b8	5	182	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	532	34.210526
-2	Seppa_b8	3182	2	3182	Betula/Corylus/Myrica	Betula/Corylus/Myrica	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	532	0.37593985
-3	Seppa_b8	470	1	470	Calluna vulgaris	Calluna vulgaris	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	532	0.18796992
-4	Seppa_b8	3498	1	3498	Ericaceae-type	Ericaceae-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	532	0.18796992
-5	Seppa_b8	952	13	85	Juniperus communis	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	532	2.443609
-6	Seppa_b8	18	23	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	532	4.3233083
-7	Seppa_b8	799	239	148	Pinus sylvestris	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	532	44.924812
-8	Seppa_b8	4088	6	4088	Salix undifferentiated	Salix undifferentiated	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	532	1.1278195
-9	Seppa_b8	953	5	953	Vaccinium-type	Vaccinium-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	532	0.93984962
-10	Seppa_b8	52	1	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	532	0.18796992
-11	Seppa_b8	73	1	73	Filipendula	Filipendula	HERB	Herbs	HERB	True	True	Herbs	5	532	0.18796992
-12	Seppa_b8	3573	17	3573	Gramineae undifferentiated	Gramineae undifferentiated	HERB	Herbs	HERB	True	True	Herbs	5	532	3.1954887
-13	Seppa_b8	3991	2	3991	Ranunculaceae undifferentiated	Ranunculaceae undifferentiated	HERB	Herbs	HERB	True	True	Herbs	5	532	0.37593985
-14	Seppa_b8	119	1	119	Rubiaceae	Rubiaceae	HERB	Herbs	HERB	True	True	Herbs	5	532	0.18796992
-15	Seppa_b8	3451	1	3451	Diphasiastrum	Diphasiastrum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	532	0.18796992
-16	Seppa_b8	1257	5	783	Dryopteris-type	Dryopteris-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	532	0.93984962
-17	Seppa_b8	166	1	166	Equisetum	Equisetum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	532	0.18796992
-18	Seppa_b8	2129	20	1330	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	532	3.7593985
-19	Seppa_b8	976	1	203	Lycopodium annotinum	Lycopodium annotinum-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	532	0.18796992
-20	Seppa_b8	3227	9	3227	Carex-type	Carex-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	532	1.6917293
-21	Seppa_b8	3431	6	3431	Cyperaceae undifferentiated	Cyperaceae undifferentiated	AQUA	Aquatics	AQUA	False	True	Aquatics	7	532	1.1278195
+samplename	original_varname	acc_varname	groupid	count	percentage
+Seppa_b8	Alnus	Alnus	TRSH	10	1.8796992
+Seppa_b8	Betula	Betula	TRSH	182	34.210526
+Seppa_b8	Betula/Corylus/Myrica	Betula/Corylus/Myrica	TRSH	2	0.37593985
+Seppa_b8	Calluna vulgaris	Calluna vulgaris	TRSH	1	0.18796992
+Seppa_b8	Ericaceae-type	Ericaceae-type	DWAR	1	0.18796992
+Seppa_b8	Juniperus communis	Juniperus communis-type	TRSH	13	2.443609
+Seppa_b8	Picea	Picea	TRSH	23	4.3233083
+Seppa_b8	Pinus sylvestris	Pinus sylvestris-type	TRSH	239	44.924812
+Seppa_b8	Salix undifferentiated	Salix undifferentiated	TRSH	6	1.1278195
+Seppa_b8	Vaccinium-type	Vaccinium-type	DWAR	5	0.93984962
+Seppa_b8	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.18796992
+Seppa_b8	Filipendula	Filipendula	HERB	1	0.18796992
+Seppa_b8	Gramineae undifferentiated	Gramineae undifferentiated	HERB	17	3.1954887
+Seppa_b8	Ranunculaceae undifferentiated	Ranunculaceae undifferentiated	HERB	2	0.37593985
+Seppa_b8	Rubiaceae	Rubiaceae	HERB	1	0.18796992
+Seppa_b8	Carex-type	Carex-type	AQUA	9	1.6917293
+Seppa_b8	Cyperaceae undifferentiated	Cyperaceae undifferentiated	AQUA	6	1.1278195
+Seppa_b8	Diphasiastrum	Diphasiastrum	VACR	1	0.18796992
+Seppa_b8	Dryopteris-type	Dryopteris-type	VACR	5	0.93984962
+Seppa_b8	Equisetum	Equisetum	VACR	1	0.18796992
+Seppa_b8	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR	20	3.7593985
+Seppa_b8	Lycopodium annotinum	Lycopodium annotinum-type	VACR	1	0.18796992

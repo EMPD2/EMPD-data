@@ -1,30 +1,30 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Kunes_a60	4	1	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1102	0.090744102
-1	Kunes_a60	5	20	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1102	1.814882
-2	Kunes_a60	1373	30	149	Betula nana	Betula nana-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	1102	2.722323
-3	Kunes_a60	3221	1	3221	Caragana	Caragana	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1102	0.090744102
-4	Kunes_a60	3478	1	1398	Empetrum/Ledum	Empetrum/Ledum	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	1102	0.090744102
-5	Kunes_a60	2345	25	16	Larix/Pseudotsuga	Larix/Pseudotsuga	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1102	2.2686025
-6	Kunes_a60	528	3	528	Lonicera	Lonicera	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1102	0.2722323
-7	Kunes_a60	18	126	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1102	11.433757
-8	Kunes_a60	3852	642	147	Pinus cembra-type	Pinus cembra-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1102	58.257713
-9	Kunes_a60	1236	32	148	Pinus sylvestris-type	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1102	2.9038113
-10	Kunes_a60	4156	8	4156	Sorbus/Cotoneaster	Sorbus/Cotoneaster	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1102	0.72595281
-11	Kunes_a60	1707	5	1707	Adonis vernalis	Adonis vernalis	HERB	Herbs	HERB	True	True	Herbs	5	1102	0.45372051
-12	Kunes_a60	36	4	36	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	1102	0.36297641
-13	Kunes_a60	2964	1	36	Apiaceae undifferentiated	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	1102	0.090744102
-14	Kunes_a60	2556	1	36	Bupleurum-type	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	1102	0.090744102
-15	Kunes_a60	37	37	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	1102	3.3575318
-16	Kunes_a60	3137	15	3137	Aruncus-type	Aruncus-type	HERB	Herbs	HERB	True	True	Herbs	5	1102	1.3611615
-17	Kunes_a60	3214	2	3214	Cannabaceae	Cannabaceae	HERB	Herbs	HERB	True	True	Herbs	5	1102	0.1814882
-18	Kunes_a60	49	3	49	Cerastium	Cerastium-type	HERB	Herbs	HERB	True	True	Herbs	5	1102	0.2722323
-19	Kunes_a60	3347	6	3347	Chenopodiaceae p.p.	Chenopodiaceae p.p.	HERB	Herbs	HERB	True	True	Herbs	5	1102	0.54446461
-20	Kunes_a60	61	7	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	1102	0.63520871
-21	Kunes_a60	3880	3	3880	Plantago media/major-type	Plantago media/major-type	HERB	Herbs	HERB	True	True	Herbs	5	1102	0.2722323
-22	Kunes_a60	106	16	106	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	1102	1.4519056
-23	Kunes_a60	637	15	524	Potentilla-type	Potentilla-type	HERB	Herbs	HERB	True	True	Herbs	5	1102	1.3611615
-24	Kunes_a60	641	12	113	Ranunculus acris-type	Ranunculus acris-type	HERB	Herbs	HERB	True	True	Herbs	5	1102	1.0889292
-25	Kunes_a60	119	17	119	Rubiaceae	Rubiaceae	HERB	Herbs	HERB	True	True	Herbs	5	1102	1.5426497
-26	Kunes_a60	4151	2	4151	Silene p.p.	Silene p.p.	HERB	Herbs	HERB	True	True	Herbs	5	1102	0.1814882
-27	Kunes_a60	137	66	137	Thalictrum	Thalictrum	HERB	Herbs	HERB	True	True	Herbs	5	1102	5.9891107
-28	Kunes_a60	4246	1	2172	Trollius europaeus	Trollius europaeus	HERB	Herbs	HERB	True	True	Herbs	5	1102	0.090744102
+samplename	original_varname	acc_varname	groupid	count	percentage
+Kunes_a60	Alnus	Alnus	TRSH	1	0.090744102
+Kunes_a60	Betula	Betula	TRSH	20	1.814882
+Kunes_a60	Betula nana	Betula nana-type	DWAR	30	2.722323
+Kunes_a60	Caragana	Caragana	TRSH	1	0.090744102
+Kunes_a60	Empetrum/Ledum	Empetrum/Ledum	DWAR	1	0.090744102
+Kunes_a60	Larix/Pseudotsuga	Larix/Pseudotsuga	TRSH	25	2.2686025
+Kunes_a60	Lonicera	Lonicera	TRSH	3	0.2722323
+Kunes_a60	Picea	Picea	TRSH	126	11.433757
+Kunes_a60	Pinus cembra-type	Pinus cembra-type	TRSH	642	58.257713
+Kunes_a60	Pinus sylvestris-type	Pinus sylvestris-type	TRSH	32	2.9038113
+Kunes_a60	Sorbus/Cotoneaster	Sorbus/Cotoneaster	TRSH	8	0.72595281
+Kunes_a60	Adonis vernalis	Adonis vernalis	HERB	5	0.45372051
+Kunes_a60	Apiaceae	Apiaceae	HERB	4	0.36297641
+Kunes_a60	Apiaceae undifferentiated	Apiaceae	HERB	1	0.090744102
+Kunes_a60	Bupleurum-type	Apiaceae	HERB	1	0.090744102
+Kunes_a60	Artemisia	Artemisia	HERB	37	3.3575318
+Kunes_a60	Aruncus-type	Aruncus-type	HERB	15	1.3611615
+Kunes_a60	Cannabaceae	Cannabaceae	HERB	2	0.1814882
+Kunes_a60	Cerastium	Cerastium-type	HERB	3	0.2722323
+Kunes_a60	Chenopodiaceae p.p.	Chenopodiaceae p.p.	HERB	6	0.54446461
+Kunes_a60	Cyperaceae	Cyperaceae	HERB	7	0.63520871
+Kunes_a60	Plantago media/major-type	Plantago media/major-type	HERB	3	0.2722323
+Kunes_a60	Poaceae	Poaceae	HERB	16	1.4519056
+Kunes_a60	Potentilla-type	Potentilla-type	HERB	15	1.3611615
+Kunes_a60	Ranunculus acris-type	Ranunculus acris-type	HERB	12	1.0889292
+Kunes_a60	Rubiaceae	Rubiaceae	HERB	17	1.5426497
+Kunes_a60	Silene p.p.	Silene p.p.	HERB	2	0.1814882
+Kunes_a60	Thalictrum	Thalictrum	HERB	66	5.9891107
+Kunes_a60	Trollius europaeus	Trollius europaeus	HERB	1	0.090744102

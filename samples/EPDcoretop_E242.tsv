@@ -1,25 +1,25 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	EPDcoretop_E242	1	2	1	Abies	Abies	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	565	0.3539823
-1	EPDcoretop_E242	4	22	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	565	3.8938053
-2	EPDcoretop_E242	5	22	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	565	3.8938053
-3	EPDcoretop_E242	470	18	470	Calluna vulgaris	Calluna vulgaris	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	565	3.1858407
-4	EPDcoretop_E242	59	2	9	Corylus avellana	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	565	0.3539823
-5	EPDcoretop_E242	11	9	11	Ericaceae	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	565	1.5929204
-6	EPDcoretop_E242	12	10	12	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	565	1.7699115
-7	EPDcoretop_E242	16	10	16	Larix	Larix/Pseudotsuga	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	565	1.7699115
-8	EPDcoretop_E242	18	308	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	565	54.513274
-9	EPDcoretop_E242	19	80	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	565	14.159292
-10	EPDcoretop_E242	208	1	208	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	565	0.17699115
-11	EPDcoretop_E242	29	1	29	Tilia	Tilia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	565	0.17699115
-12	EPDcoretop_E242	1136	1	53	Cichoriaceae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	565	0.17699115
-13	EPDcoretop_E242	46	3	46	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	565	0.53097345
-14	EPDcoretop_E242	50	2	50	Cerealia	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	565	0.3539823
-15	EPDcoretop_E242	61	49	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	565	8.6725664
-16	EPDcoretop_E242	1085	4	87	Plantago lanceolata-type	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	565	0.7079646
-17	EPDcoretop_E242	1611	15	106	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	565	2.6548673
-18	EPDcoretop_E242	4076	3	4076	Rumex-type	Rumex-type	HERB	Herbs	HERB	True	True	Herbs	5	565	0.53097345
-19	EPDcoretop_E242	1240	1	154	Senecio-type	Senecio-type	HERB	Herbs	HERB	True	True	Herbs	5	565	0.17699115
-20	EPDcoretop_E242	1257	1	783	Dryopteris-type	Dryopteris-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	565	0.17699115
-21	EPDcoretop_E242	976	1	203	Lycopodium annotinum	Lycopodium annotinum-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	565	0.17699115
-22	EPDcoretop_E242	3630	12	3630	Indeterminable: undifferentiated	Indeterminable: undifferentiated	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	565	
-23	EPDcoretop_E242	165	805	165	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	565	
+samplename	original_varname	acc_varname	groupid	count	percentage
+EPDcoretop_E242	Abies	Abies	TRSH	2	0.3539823
+EPDcoretop_E242	Alnus	Alnus	TRSH	22	3.8938053
+EPDcoretop_E242	Betula	Betula	TRSH	22	3.8938053
+EPDcoretop_E242	Calluna vulgaris	Calluna vulgaris	TRSH	18	3.1858407
+EPDcoretop_E242	Corylus avellana	Corylus	TRSH	2	0.3539823
+EPDcoretop_E242	Ericaceae	Ericales (tetrad)	DWAR	9	1.5929204
+EPDcoretop_E242	Fagus	Fagus	TRSH	10	1.7699115
+EPDcoretop_E242	Larix	Larix/Pseudotsuga	TRSH	10	1.7699115
+EPDcoretop_E242	Picea	Picea	TRSH	308	54.513274
+EPDcoretop_E242	Pinus	Pinus	TRSH	80	14.159292
+EPDcoretop_E242	Quercus	Quercus	TRSH	1	0.17699115
+EPDcoretop_E242	Tilia	Tilia	TRSH	1	0.17699115
+EPDcoretop_E242	Cichoriaceae	Asteraceae subf. Cichorioideae	HERB	1	0.17699115
+EPDcoretop_E242	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	3	0.53097345
+EPDcoretop_E242	Cerealia	Cerealia-type	HERB	2	0.3539823
+EPDcoretop_E242	Cyperaceae	Cyperaceae	HERB	49	8.6725664
+EPDcoretop_E242	Plantago lanceolata-type	Plantago lanceolata-type	HERB	4	0.7079646
+EPDcoretop_E242	Gramineae	Poaceae	HERB	15	2.6548673
+EPDcoretop_E242	Rumex-type	Rumex-type	HERB	3	0.53097345
+EPDcoretop_E242	Senecio-type	Senecio-type	HERB	1	0.17699115
+EPDcoretop_E242	Indeterminable: undifferentiated	Indeterminable: undifferentiated	INUN	12	
+EPDcoretop_E242	Dryopteris-type	Dryopteris-type	VACR	1	0.17699115
+EPDcoretop_E242	Lycopodium annotinum	Lycopodium annotinum-type	VACR	1	0.17699115
+EPDcoretop_E242	Sphagnum	Sphagnum	NOPO	805	

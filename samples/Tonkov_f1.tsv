@@ -1,33 +1,33 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Tonkov_f1	1	38	1	Abies	Abies	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	758	5.0131926
-1	Tonkov_f1	4	11	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	758	1.4511873
-2	Tonkov_f1	5	9	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	758	1.1873351
-3	Tonkov_f1	574	4	7	Carpinus betulus	Carpinus betulus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	758	0.52770449
-4	Tonkov_f1	766	1	766	Cornus	Cornus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	758	0.13192612
-5	Tonkov_f1	9	16	9	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	758	2.1108179
-6	Tonkov_f1	12	18	12	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	758	2.3746702
-7	Tonkov_f1	15	2	15	Juglans	Juglans	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	758	0.26385224
-8	Tonkov_f1	1045	17	97	Carpinus orientalis/Ostrya	Ostrya/Carpinus orientalis	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	758	2.2427441
-9	Tonkov_f1	18	98	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	758	12.92876
-10	Tonkov_f1	2429	28	147	Pinus peuce	Pinus cembra-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	758	3.6939314
-11	Tonkov_f1	1059	462	148	Pinus diploxylon-type	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	758	60.949868
-12	Tonkov_f1	1061	8	110	Quercus cerris-type	Quercus cerris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	758	1.055409
-13	Tonkov_f1	173	2	21	Quercus robur-type	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	758	0.26385224
-14	Tonkov_f1	25	1	25	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	758	0.13192612
-15	Tonkov_f1	953	1	953	Vaccinium-type	Vaccinium-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	758	0.13192612
-16	Tonkov_f1	146	1	146	Vitis	Vitis	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	758	0.13192612
-17	Tonkov_f1	36	3	36	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	758	0.39577836
-18	Tonkov_f1	37	1	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	758	0.13192612
-19	Tonkov_f1	42	4	42	Brassicaceae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	758	0.52770449
-20	Tonkov_f1	1072	2	57	Centaurea jacea-type	Centaurea nigra-type	HERB	Herbs	HERB	True	True	Herbs	5	758	0.26385224
-21	Tonkov_f1	52	3	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	758	0.39577836
-22	Tonkov_f1	1253	1	614	Cirsium-type	Cirsium	HERB	Herbs	HERB	True	True	Herbs	5	758	0.13192612
-23	Tonkov_f1	1256	2	1256	Dianthus-type	Dianthus/Petrorhagia	HERB	Herbs	HERB	True	True	Herbs	5	758	0.26385224
-24	Tonkov_f1	87	3	87	Plantago lanceolata	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	758	0.39577836
-25	Tonkov_f1	106	13	106	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	758	1.7150396
-26	Tonkov_f1	738	1	120	Rumex	Rumex/Oxyria	HERB	Herbs	HERB	True	True	Herbs	5	758	0.13192612
-27	Tonkov_f1	2401	1	1000	Succisa	Succisa-type	HERB	Herbs	HERB	True	True	Herbs	5	758	0.13192612
-28	Tonkov_f1	137	1	137	Thalictrum	Thalictrum	HERB	Herbs	HERB	True	True	Herbs	5	758	0.13192612
-29	Tonkov_f1	140	1	140	Trifolium	Trifolium-type	HERB	Herbs	HERB	True	True	Herbs	5	758	0.13192612
-30	Tonkov_f1	1054	1	1054	Xanthium	Xanthium	HERB	Herbs	HERB	True	True	Herbs	5	758	0.13192612
-31	Tonkov_f1	167	4	167	Polypodiaceae	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	758	0.52770449
+samplename	original_varname	acc_varname	groupid	count	percentage
+Tonkov_f1	Abies	Abies	TRSH	38	5.0131926
+Tonkov_f1	Alnus	Alnus	TRSH	11	1.4511873
+Tonkov_f1	Betula	Betula	TRSH	9	1.1873351
+Tonkov_f1	Carpinus betulus	Carpinus betulus	TRSH	4	0.52770449
+Tonkov_f1	Cornus	Cornus	TRSH	1	0.13192612
+Tonkov_f1	Corylus	Corylus	TRSH	16	2.1108179
+Tonkov_f1	Fagus	Fagus	TRSH	18	2.3746702
+Tonkov_f1	Juglans	Juglans	TRSH	2	0.26385224
+Tonkov_f1	Carpinus orientalis/Ostrya	Ostrya/Carpinus orientalis	TRSH	17	2.2427441
+Tonkov_f1	Picea	Picea	TRSH	98	12.92876
+Tonkov_f1	Pinus peuce	Pinus cembra-type	TRSH	28	3.6939314
+Tonkov_f1	Pinus diploxylon-type	Pinus sylvestris-type	TRSH	462	60.949868
+Tonkov_f1	Quercus cerris-type	Quercus cerris-type	TRSH	8	1.055409
+Tonkov_f1	Quercus robur-type	Quercus robur-type	TRSH	2	0.26385224
+Tonkov_f1	Salix	Salix	TRSH	1	0.13192612
+Tonkov_f1	Vaccinium-type	Vaccinium-type	DWAR	1	0.13192612
+Tonkov_f1	Vitis	Vitis	TRSH	1	0.13192612
+Tonkov_f1	Apiaceae	Apiaceae	HERB	3	0.39577836
+Tonkov_f1	Artemisia	Artemisia	HERB	1	0.13192612
+Tonkov_f1	Brassicaceae	Brassicaceae	HERB	4	0.52770449
+Tonkov_f1	Centaurea jacea-type	Centaurea nigra-type	HERB	2	0.26385224
+Tonkov_f1	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	3	0.39577836
+Tonkov_f1	Cirsium-type	Cirsium	HERB	1	0.13192612
+Tonkov_f1	Dianthus-type	Dianthus/Petrorhagia	HERB	2	0.26385224
+Tonkov_f1	Plantago lanceolata	Plantago lanceolata-type	HERB	3	0.39577836
+Tonkov_f1	Poaceae	Poaceae	HERB	13	1.7150396
+Tonkov_f1	Rumex	Rumex/Oxyria	HERB	1	0.13192612
+Tonkov_f1	Succisa	Succisa-type	HERB	1	0.13192612
+Tonkov_f1	Thalictrum	Thalictrum	HERB	1	0.13192612
+Tonkov_f1	Trifolium	Trifolium-type	HERB	1	0.13192612
+Tonkov_f1	Xanthium	Xanthium	HERB	1	0.13192612
+Tonkov_f1	Polypodiaceae	Monolete fern spores	VACR	4	0.52770449

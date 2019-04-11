@@ -1,25 +1,25 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Severova_b1	4	16	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	377	4.2440318
-1	Severova_b1	5	82	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	377	21.750663
-2	Severova_b1	9	1	9	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	377	0.26525199
-3	Severova_b1	18	22	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	377	5.8355438
-4	Severova_b1	19	179	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	377	47.480106
-5	Severova_b1	118	16	118	Rosaceae	Rosaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	377	4.2440318
-6	Severova_b1	25	6	25	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	377	1.5915119
-7	Severova_b1	132	1	132	Sorbus	Sorbus-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	377	0.26525199
-8	Severova_b1	29	1	29	Tilia	Tilia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	377	0.26525199
-9	Severova_b1	601	1	36	Umbelliferae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	377	0.26525199
-10	Severova_b1	37	8	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	377	2.1220159
-11	Severova_b1	2471	7	155	Compositae	Asteraceae	HERB	Herbs	HERB	True	True	Herbs	5	377	1.8567639
-12	Severova_b1	494	1	42	Cruciferae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	377	0.26525199
-13	Severova_b1	52	3	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	377	0.79575597
-14	Severova_b1	61	16	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	377	4.2440318
-15	Severova_b1	68	1	68	Euphorbia	Euphorbia	HERB	Herbs	HERB	True	True	Herbs	5	377	0.26525199
-16	Severova_b1	1583	1	839	Humulus	Humulus lupulus	HERB	Herbs	HERB	True	True	Herbs	5	377	0.26525199
-17	Severova_b1	106	7	106	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	377	1.8567639
-18	Severova_b1	3890	1	3890	Poaceae (> 40 um)	Poaceae (> 40 um)	HERB	Herbs	HERB	True	True	Herbs	5	377	0.26525199
-19	Severova_b1	156	1	156	Ranunculaceae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	377	0.26525199
-20	Severova_b1	738	3	120	Rumex	Rumex/Oxyria	HERB	Herbs	HERB	True	True	Herbs	5	377	0.79575597
-21	Severova_b1	167	3	167	Polypodiaceae	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	377	0.79575597
-22	Severova_b1	571	95	571	Lycopodium (counted)	Lycopodium (counted)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	377	
-23	Severova_b1	165	106	165	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	377	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Severova_b1	Alnus	Alnus	TRSH	16	4.2440318
+Severova_b1	Betula	Betula	TRSH	82	21.750663
+Severova_b1	Corylus	Corylus	TRSH	1	0.26525199
+Severova_b1	Picea	Picea	TRSH	22	5.8355438
+Severova_b1	Pinus	Pinus	TRSH	179	47.480106
+Severova_b1	Rosaceae	Rosaceae	TRSH	16	4.2440318
+Severova_b1	Salix	Salix	TRSH	6	1.5915119
+Severova_b1	Sorbus	Sorbus-type	TRSH	1	0.26525199
+Severova_b1	Tilia	Tilia	TRSH	1	0.26525199
+Severova_b1	Umbelliferae	Apiaceae	HERB	1	0.26525199
+Severova_b1	Artemisia	Artemisia	HERB	8	2.1220159
+Severova_b1	Compositae	Asteraceae	HERB	7	1.8567639
+Severova_b1	Cruciferae	Brassicaceae	HERB	1	0.26525199
+Severova_b1	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	3	0.79575597
+Severova_b1	Cyperaceae	Cyperaceae	HERB	16	4.2440318
+Severova_b1	Euphorbia	Euphorbia	HERB	1	0.26525199
+Severova_b1	Humulus	Humulus lupulus	HERB	1	0.26525199
+Severova_b1	Poaceae	Poaceae	HERB	7	1.8567639
+Severova_b1	Poaceae (> 40 um)	Poaceae (> 40 um)	HERB	1	0.26525199
+Severova_b1	Ranunculaceae	Ranunculaceae	HERB	1	0.26525199
+Severova_b1	Rumex	Rumex/Oxyria	HERB	3	0.79575597
+Severova_b1	Lycopodium (counted)	Lycopodium (counted)	NOPO	95	
+Severova_b1	Polypodiaceae	Monolete fern spores	VACR	3	0.79575597
+Severova_b1	Sphagnum	Sphagnum	NOPO	106	

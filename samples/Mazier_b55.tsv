@@ -1,25 +1,25 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Mazier_b55	1	1	1	Abies	Abies	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	639	0.15649452
-1	Mazier_b55	4	5	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	639	0.78247261
-2	Mazier_b55	5	3	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	639	0.46948357
-3	Mazier_b55	3209	9	3209	Calluna	Calluna	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	639	1.4084507
-4	Mazier_b55	454	5	47	Castanea	Castanea sativa	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	639	0.78247261
-5	Mazier_b55	9	8	9	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	639	1.2519562
-6	Mazier_b55	11	2	11	Ericaceae	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	639	0.31298905
-7	Mazier_b55	12	298	12	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	639	46.635368
-8	Mazier_b55	15	1	15	Juglans	Juglans	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	639	0.15649452
-9	Mazier_b55	455	5	95	Olea	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	639	0.78247261
-10	Mazier_b55	19	124	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	639	19.405321
-11	Mazier_b55	21	83	21	Quercus deciduous	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	639	12.989045
-12	Mazier_b55	25	1	25	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	639	0.15649452
-13	Mazier_b55	772	1	180	Asteroideae	Asteraceae subf. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	639	0.15649452
-14	Mazier_b55	42	2	42	Brassicaceae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	639	0.31298905
-15	Mazier_b55	1751	1	283	Centaurea jacea	Centaurea	HERB	Herbs	HERB	True	True	Herbs	5	639	0.15649452
-16	Mazier_b55	52	3	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	639	0.46948357
-17	Mazier_b55	61	1	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	639	0.15649452
-18	Mazier_b55	87	10	87	Plantago lanceolata	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	639	1.5649452
-19	Mazier_b55	106	69	106	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	639	10.798122
-20	Mazier_b55	156	3	156	Ranunculaceae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	639	0.46948357
-21	Mazier_b55	4061	2	4061	Rumex acetosa/R. acetosella	Rumex acetosa/R. acetosella	HERB	Herbs	HERB	True	True	Herbs	5	639	0.31298905
-22	Mazier_b55	142	1	142	Urtica dioica	Urtica dioica	HERB	Herbs	HERB	True	True	Herbs	5	639	0.15649452
-23	Mazier_b55	505	1	505	Valeriana	Valeriana	HERB	Herbs	HERB	True	True	Herbs	5	639	0.15649452
+samplename	original_varname	acc_varname	groupid	count	percentage
+Mazier_b55	Abies	Abies	TRSH	1	0.15649452
+Mazier_b55	Alnus	Alnus	TRSH	5	0.78247261
+Mazier_b55	Betula	Betula	TRSH	3	0.46948357
+Mazier_b55	Calluna	Calluna	DWAR	9	1.4084507
+Mazier_b55	Castanea	Castanea sativa	TRSH	5	0.78247261
+Mazier_b55	Corylus	Corylus	TRSH	8	1.2519562
+Mazier_b55	Ericaceae	Ericales (tetrad)	DWAR	2	0.31298905
+Mazier_b55	Fagus	Fagus	TRSH	298	46.635368
+Mazier_b55	Juglans	Juglans	TRSH	1	0.15649452
+Mazier_b55	Olea	Olea europaea	TRSH	5	0.78247261
+Mazier_b55	Pinus	Pinus	TRSH	124	19.405321
+Mazier_b55	Quercus deciduous	Quercus robur-type	TRSH	83	12.989045
+Mazier_b55	Salix	Salix	TRSH	1	0.15649452
+Mazier_b55	Asteroideae	Asteraceae subf. Asteroideae	HERB	1	0.15649452
+Mazier_b55	Brassicaceae	Brassicaceae	HERB	2	0.31298905
+Mazier_b55	Centaurea jacea	Centaurea	HERB	1	0.15649452
+Mazier_b55	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	3	0.46948357
+Mazier_b55	Cyperaceae	Cyperaceae	HERB	1	0.15649452
+Mazier_b55	Plantago lanceolata	Plantago lanceolata-type	HERB	10	1.5649452
+Mazier_b55	Poaceae	Poaceae	HERB	69	10.798122
+Mazier_b55	Ranunculaceae	Ranunculaceae	HERB	3	0.46948357
+Mazier_b55	Rumex acetosa/R. acetosella	Rumex acetosa/R. acetosella	HERB	2	0.31298905
+Mazier_b55	Urtica dioica	Urtica dioica	HERB	1	0.15649452
+Mazier_b55	Valeriana	Valeriana	HERB	1	0.15649452

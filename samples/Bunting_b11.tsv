@@ -1,19 +1,19 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Bunting_b11	771	5	175	Alnus glutinosa	Alnus glutinosa-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	353	1.4164306
-1	Bunting_b11	5	31	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	353	8.7818697
-2	Bunting_b11	470	146	470	Calluna vulgaris	Calluna vulgaris	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	353	41.359773
-3	Bunting_b11	3408	20	3408	Corylus avellana-type	Corylus avellana-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	353	5.6657224
-4	Bunting_b11	3499	6	3499	Ericales undifferentiated	Ericales undifferentiated	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	353	1.6997167
-5	Bunting_b11	19	13	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	353	3.6827195
-6	Bunting_b11	208	1	208	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	353	0.28328612
-7	Bunting_b11	61	37	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	353	10.481586
-8	Bunting_b11	3762	45	3762	Myrica gale-type	Myrica gale-type	HERB	Herbs	HERB	True	True	Herbs	5	353	12.747875
-9	Bunting_b11	87	1	87	Plantago lanceolata	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	353	0.28328612
-10	Bunting_b11	106	36	106	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	353	10.1983
-11	Bunting_b11	637	8	524	Potentilla-type	Potentilla-type	HERB	Herbs	HERB	True	True	Herbs	5	353	2.266289
-12	Bunting_b11	4075	2	4075	Rumex undifferentiated	Rumex undifferentiated	HERB	Herbs	HERB	True	True	Herbs	5	353	0.56657224
-13	Bunting_b11	166	1	166	Equisetum	Equisetum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	353	0.28328612
-14	Bunting_b11	885	1	205	Selaginella selaginoides	Selaginella selaginoides	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	353	0.28328612
-15	Bunting_b11	2070	12	638	Nymphaea alba	Nymphaea	AQUA	Aquatics	AQUA	False	True	Aquatics	7	353	3.3994334
-16	Bunting_b11	571	127	571	Lycopodium (counted)	Lycopodium (counted)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	353	
-17	Bunting_b11	165	17	165	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	353	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Bunting_b11	Alnus glutinosa	Alnus glutinosa-type	TRSH	5	1.4164306
+Bunting_b11	Betula	Betula	TRSH	31	8.7818697
+Bunting_b11	Calluna vulgaris	Calluna vulgaris	TRSH	146	41.359773
+Bunting_b11	Corylus avellana-type	Corylus avellana-type	TRSH	20	5.6657224
+Bunting_b11	Ericales undifferentiated	Ericales undifferentiated	DWAR	6	1.6997167
+Bunting_b11	Pinus	Pinus	TRSH	13	3.6827195
+Bunting_b11	Quercus	Quercus	TRSH	1	0.28328612
+Bunting_b11	Cyperaceae	Cyperaceae	HERB	37	10.481586
+Bunting_b11	Myrica gale-type	Myrica gale-type	HERB	45	12.747875
+Bunting_b11	Plantago lanceolata	Plantago lanceolata-type	HERB	1	0.28328612
+Bunting_b11	Poaceae	Poaceae	HERB	36	10.1983
+Bunting_b11	Potentilla-type	Potentilla-type	HERB	8	2.266289
+Bunting_b11	Rumex undifferentiated	Rumex undifferentiated	HERB	2	0.56657224
+Bunting_b11	Nymphaea alba	Nymphaea	AQUA	12	3.3994334
+Bunting_b11	Equisetum	Equisetum	VACR	1	0.28328612
+Bunting_b11	Lycopodium (counted)	Lycopodium (counted)	NOPO	127	
+Bunting_b11	Selaginella selaginoides	Selaginella selaginoides	VACR	1	0.28328612
+Bunting_b11	Sphagnum	Sphagnum	NOPO	17	

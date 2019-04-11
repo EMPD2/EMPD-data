@@ -1,32 +1,32 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Ortu_b76	1	2	1	Abies	Abies	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	384	0.52083333
-1	Ortu_b76	2	6	2	Acer	Acer campestre-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	384	1.5625
-2	Ortu_b76	771	3	175	Alnus glutinosa	Alnus glutinosa-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	384	0.78125
-3	Ortu_b76	572	10	151	Alnus viridis	Alnus viridis	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	384	2.6041667
-4	Ortu_b76	5	21	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	384	5.46875
-5	Ortu_b76	7	8	7	Carpinus	Carpinus betulus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	384	2.0833333
-6	Ortu_b76	454	13	47	Castanea	Castanea sativa	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	384	3.3854167
-7	Ortu_b76	9	94	9	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	384	24.479167
-8	Ortu_b76	12	43	12	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	384	11.197917
-9	Ortu_b76	13	37	13	Fraxinus	Fraxinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	384	9.6354167
-10	Ortu_b76	15	1	15	Juglans	Juglans	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	384	0.26041667
-11	Ortu_b76	85	1	85	Juniperus	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	384	0.26041667
-12	Ortu_b76	16	2	16	Larix	Larix/Pseudotsuga	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	384	0.52083333
-13	Ortu_b76	18	53	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	384	13.802083
-14	Ortu_b76	19	21	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	384	5.46875
-15	Ortu_b76	173	15	21	Quercus robur-type	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	384	3.90625
-16	Ortu_b76	25	1	25	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	384	0.26041667
-17	Ortu_b76	36	1	36	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	384	0.26041667
-18	Ortu_b76	772	3	180	Asteroideae	Asteraceae subf. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	384	0.78125
-19	Ortu_b76	460	1	53	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	384	0.26041667
-20	Ortu_b76	42	1	42	Brassicaceae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	384	0.26041667
-21	Ortu_b76	157	1	157	Campanulaceae	Campanulaceae	HERB	Herbs	HERB	True	True	Herbs	5	384	0.26041667
-22	Ortu_b76	50	1	50	Cerealia	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	384	0.26041667
-23	Ortu_b76	61	5	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	384	1.3020833
-24	Ortu_b76	86	1	86	Lamiaceae	Lamiaceae	HERB	Herbs	HERB	True	True	Herbs	5	384	0.26041667
-25	Ortu_b76	87	2	87	Plantago lanceolata	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	384	0.52083333
-26	Ortu_b76	106	30	106	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	384	7.8125
-27	Ortu_b76	636	1	636	Polygonum bistorta	Polygonum bistorta	HERB	Herbs	HERB	True	True	Herbs	5	384	0.26041667
-28	Ortu_b76	156	2	156	Ranunculaceae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	384	0.52083333
-29	Ortu_b76	738	4	120	Rumex	Rumex/Oxyria	HERB	Herbs	HERB	True	True	Herbs	5	384	1.0416667
-30	Ortu_b76	3631	2	197	Indeterminable: unknown	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	384	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Ortu_b76	Abies	Abies	TRSH	2	0.52083333
+Ortu_b76	Acer	Acer campestre-type	TRSH	6	1.5625
+Ortu_b76	Alnus glutinosa	Alnus glutinosa-type	TRSH	3	0.78125
+Ortu_b76	Alnus viridis	Alnus viridis	TRSH	10	2.6041667
+Ortu_b76	Betula	Betula	TRSH	21	5.46875
+Ortu_b76	Carpinus	Carpinus betulus	TRSH	8	2.0833333
+Ortu_b76	Castanea	Castanea sativa	TRSH	13	3.3854167
+Ortu_b76	Corylus	Corylus	TRSH	94	24.479167
+Ortu_b76	Fagus	Fagus	TRSH	43	11.197917
+Ortu_b76	Fraxinus	Fraxinus	TRSH	37	9.6354167
+Ortu_b76	Juglans	Juglans	TRSH	1	0.26041667
+Ortu_b76	Juniperus	Juniperus communis-type	TRSH	1	0.26041667
+Ortu_b76	Larix	Larix/Pseudotsuga	TRSH	2	0.52083333
+Ortu_b76	Picea	Picea	TRSH	53	13.802083
+Ortu_b76	Pinus	Pinus	TRSH	21	5.46875
+Ortu_b76	Quercus robur-type	Quercus robur-type	TRSH	15	3.90625
+Ortu_b76	Salix	Salix	TRSH	1	0.26041667
+Ortu_b76	Apiaceae	Apiaceae	HERB	1	0.26041667
+Ortu_b76	Asteroideae	Asteraceae subf. Asteroideae	HERB	3	0.78125
+Ortu_b76	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	1	0.26041667
+Ortu_b76	Brassicaceae	Brassicaceae	HERB	1	0.26041667
+Ortu_b76	Campanulaceae	Campanulaceae	HERB	1	0.26041667
+Ortu_b76	Cerealia	Cerealia-type	HERB	1	0.26041667
+Ortu_b76	Cyperaceae	Cyperaceae	HERB	5	1.3020833
+Ortu_b76	Lamiaceae	Lamiaceae	HERB	1	0.26041667
+Ortu_b76	Plantago lanceolata	Plantago lanceolata-type	HERB	2	0.52083333
+Ortu_b76	Poaceae	Poaceae	HERB	30	7.8125
+Ortu_b76	Polygonum bistorta	Polygonum bistorta	HERB	1	0.26041667
+Ortu_b76	Ranunculaceae	Ranunculaceae	HERB	2	0.52083333
+Ortu_b76	Rumex	Rumex/Oxyria	HERB	4	1.0416667
+Ortu_b76	Indeterminable: unknown	Indeterminable: unknown	INUN	2	

@@ -1,27 +1,27 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Lapteva_a123	2115	6	151	Alnus viridis subsp. fruticosa	Alnus viridis	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	604	0.99337748
-1	Lapteva_a123	2113	42	149	Betula nana-type	Betula nana-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	604	6.9536424
-2	Lapteva_a123	2123	66	150	Betula pubescens-type	Betula pubescens-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	604	10.927152
-3	Lapteva_a123	11	1	11	Ericaceae	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	604	0.16556291
-4	Lapteva_a123	18	1	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	604	0.16556291
-5	Lapteva_a123	1371	23	147	Pinus sibirica	Pinus cembra-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	604	3.807947
-6	Lapteva_a123	799	12	148	Pinus sylvestris	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	604	1.986755
-7	Lapteva_a123	25	5	25	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	604	0.82781457
-8	Lapteva_a123	4087	2	4087	Salix polaris	Salix polaris	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	604	0.33112583
-9	Lapteva_a123	1387	1	597	Ambrosia-type	Ambrosia	HERB	Herbs	HERB	True	True	Herbs	5	604	0.16556291
-10	Lapteva_a123	37	22	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	604	3.6423841
-11	Lapteva_a123	46	2	46	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	604	0.33112583
-12	Lapteva_a123	61	20	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	604	3.3112583
-13	Lapteva_a123	764	5	764	Pedicularis	Pedicularis	HERB	Herbs	HERB	True	True	Herbs	5	604	0.82781457
-14	Lapteva_a123	106	27	106	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	604	4.4701987
-15	Lapteva_a123	119	1	119	Rubiaceae	Rubiaceae	HERB	Herbs	HERB	True	True	Herbs	5	604	0.16556291
-16	Lapteva_a123	650	2	650	Saxifragaceae	Saxifragaceae	HERB	Herbs	HERB	True	True	Herbs	5	604	0.33112583
-17	Lapteva_a123	973	1	973	Botrychium	Botrychium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	604	0.16556291
-18	Lapteva_a123	3198	365	3198	Bryophyta	Bryophyta	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	604	60.430464
-19	Lapteva_a123	2127	1	2127	Algae	Algae	ALGA	Algae	AQUA	False	True	Aquatics	7	604	0.16556291
-20	Lapteva_a123	2124	2	2124	Centropyxis	Centropyxis	ALGA	Algae	AQUA	False	True	Aquatics	7	604	0.33112583
-21	Lapteva_a123	3630	7	3630	Indeterminable: undifferentiated	Indeterminable: undifferentiated	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	604	
-22	Lapteva_a123	671	11	324	Arcella	Arcella	RHIZ	Rhizopods	NOPO	False	False	Nonpollen	30	604	
-23	Lapteva_a123	698	12	698	Assulina	Assulina	RHIZ	Rhizopods	NOPO	False	False	Nonpollen	30	604	
-24	Lapteva_a123	4025	80	4025	Rhizopoda sp.B	Rhizopoda sp.B	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	604	
-25	Lapteva_a123	4048	1	4048	Rotifera sp.A (egg)	Rotifera sp.A (egg)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	604	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Lapteva_a123	Alnus viridis subsp. fruticosa	Alnus viridis	TRSH	6	0.99337748
+Lapteva_a123	Betula nana-type	Betula nana-type	DWAR	42	6.9536424
+Lapteva_a123	Betula pubescens-type	Betula pubescens-type	TRSH	66	10.927152
+Lapteva_a123	Ericaceae	Ericales (tetrad)	DWAR	1	0.16556291
+Lapteva_a123	Picea	Picea	TRSH	1	0.16556291
+Lapteva_a123	Pinus sibirica	Pinus cembra-type	TRSH	23	3.807947
+Lapteva_a123	Pinus sylvestris	Pinus sylvestris-type	TRSH	12	1.986755
+Lapteva_a123	Salix	Salix	TRSH	5	0.82781457
+Lapteva_a123	Salix polaris	Salix polaris	DWAR	2	0.33112583
+Lapteva_a123	Ambrosia-type	Ambrosia	HERB	1	0.16556291
+Lapteva_a123	Artemisia	Artemisia	HERB	22	3.6423841
+Lapteva_a123	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	2	0.33112583
+Lapteva_a123	Cyperaceae	Cyperaceae	HERB	20	3.3112583
+Lapteva_a123	Pedicularis	Pedicularis	HERB	5	0.82781457
+Lapteva_a123	Poaceae	Poaceae	HERB	27	4.4701987
+Lapteva_a123	Rubiaceae	Rubiaceae	HERB	1	0.16556291
+Lapteva_a123	Saxifragaceae	Saxifragaceae	HERB	2	0.33112583
+Lapteva_a123	Algae	Algae	ALGA	1	0.16556291
+Lapteva_a123	Centropyxis	Centropyxis	ALGA	2	0.33112583
+Lapteva_a123	Indeterminable: undifferentiated	Indeterminable: undifferentiated	INUN	7	
+Lapteva_a123	Arcella	Arcella	RHIZ	11	
+Lapteva_a123	Assulina	Assulina	RHIZ	12	
+Lapteva_a123	Botrychium	Botrychium	VACR	1	0.16556291
+Lapteva_a123	Bryophyta	Bryophyta	VACR	365	60.430464
+Lapteva_a123	Rhizopoda sp.B	Rhizopoda sp.B	NOPO	80	
+Lapteva_a123	Rotifera sp.A (egg)	Rotifera sp.A (egg)	NOPO	1	

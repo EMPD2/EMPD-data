@@ -1,26 +1,26 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Sadori_e8	4	1	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	120	0.83333333
-1	Sadori_e8	587	5	356	Cedrus	Cedrus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	120	4.1666667
-2	Sadori_e8	9	1	9	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	120	0.83333333
-3	Sadori_e8	3423	3	3423	Cupressus-type	Cupressus-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	120	2.5
-4	Sadori_e8	515	3	79	Hedera	Hedera	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	120	2.5
-5	Sadori_e8	582	1	97	Ostrya	Ostrya/Carpinus orientalis	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	120	0.83333333
-6	Sadori_e8	19	39	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	120	32.5
-7	Sadori_e8	146	1	146	Vitis	Vitis	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	120	0.83333333
-8	Sadori_e8	601	6	36	Umbelliferae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	120	5
-9	Sadori_e8	37	2	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	120	1.6666667
-10	Sadori_e8	772	6	180	Asteroideae	Asteraceae subf. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	120	5
-11	Sadori_e8	460	20	53	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	120	16.666667
-12	Sadori_e8	182	2	182	Boraginaceae	Boraginaceae	HERB	Herbs	HERB	True	True	Herbs	5	120	1.6666667
-13	Sadori_e8	494	3	42	Cruciferae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	120	2.5
-14	Sadori_e8	46	4	46	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	120	3.3333333
-15	Sadori_e8	50	2	50	Cerealia	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	120	1.6666667
-16	Sadori_e8	52	6	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	120	5
-17	Sadori_e8	61	1	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	120	0.83333333
-18	Sadori_e8	1611	10	106	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	120	8.3333333
-19	Sadori_e8	1614	1	1515	Polygonum	Polygonum-type (tricolporate)	HERB	Herbs	HERB	True	True	Herbs	5	120	0.83333333
-20	Sadori_e8	119	2	119	Rubiaceae	Rubiaceae	HERB	Herbs	HERB	True	True	Herbs	5	120	1.6666667
-21	Sadori_e8	820	1	820	Urticaceae	Urticaceae	HERB	Herbs	HERB	True	True	Herbs	5	120	0.83333333
-22	Sadori_e8	3631	6	197	Indeterminable: unknown	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	120	
-23	Sadori_e8	703	54000	703	Lycopodium (added)	Lycopodium (added)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	120	
-24	Sadori_e8	571	236	571	Lycopodium (counted)	Lycopodium (counted)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	120	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Sadori_e8	Alnus	Alnus	TRSH	1	0.83333333
+Sadori_e8	Cedrus	Cedrus	TRSH	5	4.1666667
+Sadori_e8	Corylus	Corylus	TRSH	1	0.83333333
+Sadori_e8	Cupressus-type	Cupressus-type	TRSH	3	2.5
+Sadori_e8	Hedera	Hedera	TRSH	3	2.5
+Sadori_e8	Ostrya	Ostrya/Carpinus orientalis	TRSH	1	0.83333333
+Sadori_e8	Pinus	Pinus	TRSH	39	32.5
+Sadori_e8	Vitis	Vitis	TRSH	1	0.83333333
+Sadori_e8	Umbelliferae	Apiaceae	HERB	6	5
+Sadori_e8	Artemisia	Artemisia	HERB	2	1.6666667
+Sadori_e8	Asteroideae	Asteraceae subf. Asteroideae	HERB	6	5
+Sadori_e8	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	20	16.666667
+Sadori_e8	Boraginaceae	Boraginaceae	HERB	2	1.6666667
+Sadori_e8	Cruciferae	Brassicaceae	HERB	3	2.5
+Sadori_e8	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	4	3.3333333
+Sadori_e8	Cerealia	Cerealia-type	HERB	2	1.6666667
+Sadori_e8	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	6	5
+Sadori_e8	Cyperaceae	Cyperaceae	HERB	1	0.83333333
+Sadori_e8	Gramineae	Poaceae	HERB	10	8.3333333
+Sadori_e8	Polygonum	Polygonum-type (tricolporate)	HERB	1	0.83333333
+Sadori_e8	Rubiaceae	Rubiaceae	HERB	2	1.6666667
+Sadori_e8	Urticaceae	Urticaceae	HERB	1	0.83333333
+Sadori_e8	Indeterminable: unknown	Indeterminable: unknown	INUN	6	
+Sadori_e8	Lycopodium (added)	Lycopodium (added)	NOPO	54000	
+Sadori_e8	Lycopodium (counted)	Lycopodium (counted)	NOPO	236	

@@ -1,33 +1,33 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Barboni_a1096	4	6	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	517	1.1605416
-1	Barboni_a1096	5	1	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	517	0.1934236
-2	Barboni_a1096	442	219	356	Cedrus atlantica	Cedrus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	517	42.359768
-3	Barboni_a1096	725	6	363	Cupressaceae	Cupressaceae undiff.	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	517	1.1605416
-4	Barboni_a1096	66	2	66	Erica	Erica	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	517	0.3868472
-5	Barboni_a1096	1158	2	211	Juglans regia	Juglans regia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	517	0.3868472
-6	Barboni_a1096	3768	3	393	Myrtaceae	Myrtaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	517	0.58027079
-7	Barboni_a1096	95	41	95	Olea europaea	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	517	7.9303675
-8	Barboni_a1096	101	1	101	Phillyrea	Phillyrea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	517	0.1934236
-9	Barboni_a1096	451	21	110	Quercus suber	Quercus cerris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	517	4.0618956
-10	Barboni_a1096	1062	97	22	Quercus ilex-type	Quercus ilex-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	517	18.762089
-11	Barboni_a1096	601	1	36	Umbelliferae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	517	0.1934236
-12	Barboni_a1096	37	2	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	517	0.3868472
-13	Barboni_a1096	182	1	182	Boraginaceae	Boraginaceae	HERB	Herbs	HERB	True	True	Herbs	5	517	0.1934236
-14	Barboni_a1096	494	7	42	Cruciferae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	517	1.3539652
-15	Barboni_a1096	3214	6	3214	Cannabaceae	Cannabaceae	HERB	Herbs	HERB	True	True	Herbs	5	517	1.1605416
-16	Barboni_a1096	46	2	46	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	517	0.3868472
-17	Barboni_a1096	780	2	52	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	517	0.3868472
-18	Barboni_a1096	3365	32	3365	Cistus populifolius-type	Cistus populifolius-type	HERB	Herbs	HERB	True	True	Herbs	5	517	6.1895551
-19	Barboni_a1096	3381	5	3381	Compositae subfam. Asteroideae	Compositae subfam. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	517	0.96711799
-20	Barboni_a1096	3383	4	3383	Compositae subfam. Cichorioideae	Compositae subfam. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	517	0.77369439
-21	Barboni_a1096	3582	1	3582	Halimium	Halimium	HERB	Herbs	HERB	True	True	Herbs	5	517	0.1934236
-22	Barboni_a1096	80	1	80	Helianthemum	Helianthemum	HERB	Herbs	HERB	True	True	Herbs	5	517	0.1934236
-23	Barboni_a1096	755	2	755	Leguminosae	Leguminosae	HERB	Herbs	HERB	True	True	Herbs	5	517	0.3868472
-24	Barboni_a1096	89	2	89	Liliaceae	Liliaceae-type	HERB	Herbs	HERB	True	True	Herbs	5	517	0.3868472
-25	Barboni_a1096	1497	1	388	Malva	Malvaceae	HERB	Herbs	HERB	True	True	Herbs	5	517	0.1934236
-26	Barboni_a1096	58	5	58	Plantago coronopus	Plantago coronopus-type	HERB	Herbs	HERB	True	True	Herbs	5	517	0.96711799
-27	Barboni_a1096	1611	30	106	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	517	5.8027079
-28	Barboni_a1096	156	1	156	Ranunculaceae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	517	0.1934236
-29	Barboni_a1096	738	12	120	Rumex	Rumex/Oxyria	HERB	Herbs	HERB	True	True	Herbs	5	517	2.3210832
-30	Barboni_a1096	193	1	193	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	Herbs	HERB	True	True	Herbs	5	517	0.1934236
-31	Barboni_a1096	564	1	382	Isoetes	Isoetes	AQPT	Aquatic Pteridophyta	AQUA	False	True	Aquatics	7	517	0.1934236
+samplename	original_varname	acc_varname	groupid	count	percentage
+Barboni_a1096	Alnus	Alnus	TRSH	6	1.1605416
+Barboni_a1096	Betula	Betula	TRSH	1	0.1934236
+Barboni_a1096	Cedrus atlantica	Cedrus	TRSH	219	42.359768
+Barboni_a1096	Cupressaceae	Cupressaceae undiff.	TRSH	6	1.1605416
+Barboni_a1096	Erica	Erica	DWAR	2	0.3868472
+Barboni_a1096	Juglans regia	Juglans regia	TRSH	2	0.3868472
+Barboni_a1096	Myrtaceae	Myrtaceae	TRSH	3	0.58027079
+Barboni_a1096	Olea europaea	Olea europaea	TRSH	41	7.9303675
+Barboni_a1096	Phillyrea	Phillyrea	TRSH	1	0.1934236
+Barboni_a1096	Quercus suber	Quercus cerris-type	TRSH	21	4.0618956
+Barboni_a1096	Quercus ilex-type	Quercus ilex-type	TRSH	97	18.762089
+Barboni_a1096	Umbelliferae	Apiaceae	HERB	1	0.1934236
+Barboni_a1096	Artemisia	Artemisia	HERB	2	0.3868472
+Barboni_a1096	Boraginaceae	Boraginaceae	HERB	1	0.1934236
+Barboni_a1096	Cruciferae	Brassicaceae	HERB	7	1.3539652
+Barboni_a1096	Cannabaceae	Cannabaceae	HERB	6	1.1605416
+Barboni_a1096	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	2	0.3868472
+Barboni_a1096	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	2	0.3868472
+Barboni_a1096	Cistus populifolius-type	Cistus populifolius-type	HERB	32	6.1895551
+Barboni_a1096	Compositae subfam. Asteroideae	Compositae subfam. Asteroideae	HERB	5	0.96711799
+Barboni_a1096	Compositae subfam. Cichorioideae	Compositae subfam. Cichorioideae	HERB	4	0.77369439
+Barboni_a1096	Halimium	Halimium	HERB	1	0.1934236
+Barboni_a1096	Helianthemum	Helianthemum	HERB	1	0.1934236
+Barboni_a1096	Leguminosae	Leguminosae	HERB	2	0.3868472
+Barboni_a1096	Liliaceae	Liliaceae-type	HERB	2	0.3868472
+Barboni_a1096	Malva	Malvaceae	HERB	1	0.1934236
+Barboni_a1096	Plantago coronopus	Plantago coronopus-type	HERB	5	0.96711799
+Barboni_a1096	Gramineae	Poaceae	HERB	30	5.8027079
+Barboni_a1096	Ranunculaceae	Ranunculaceae	HERB	1	0.1934236
+Barboni_a1096	Rumex	Rumex/Oxyria	HERB	12	2.3210832
+Barboni_a1096	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	1	0.1934236
+Barboni_a1096	Isoetes	Isoetes	AQPT	1	0.1934236

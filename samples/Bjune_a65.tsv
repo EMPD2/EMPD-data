@@ -1,23 +1,23 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Bjune_a65	4	12	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	496	2.4193548
-1	Bjune_a65	5	98	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	496	19.758065
-2	Bjune_a65	470	5	470	Calluna vulgaris	Calluna vulgaris	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	496	1.0080645
-3	Bjune_a65	3498	1	3498	Ericaceae-type	Ericaceae-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	496	0.2016129
-4	Bjune_a65	952	12	85	Juniperus communis	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	496	2.4193548
-5	Bjune_a65	18	85	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	496	17.137097
-6	Bjune_a65	799	245	148	Pinus sylvestris	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	496	49.395161
-7	Bjune_a65	208	2	208	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	496	0.40322581
-8	Bjune_a65	4088	3	4088	Salix undifferentiated	Salix undifferentiated	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	496	0.60483871
-9	Bjune_a65	3573	16	3573	Gramineae undifferentiated	Gramineae undifferentiated	HERB	Herbs	HERB	True	True	Herbs	5	496	3.2258065
-10	Bjune_a65	1402	1	1316	Parnassia palustris	Parnassia palustris	HERB	Herbs	HERB	True	True	Herbs	5	496	0.2016129
-11	Bjune_a65	121	2	121	Rumex acetosa	Rumex acetosa-type	HERB	Herbs	HERB	True	True	Herbs	5	496	0.40322581
-12	Bjune_a65	1408	3	122	Rumex acetosella-type	Rumex acetosella	HERB	Herbs	HERB	True	True	Herbs	5	496	0.60483871
-13	Bjune_a65	1413	1	262	Sinapis-type	Sinapis-type	HERB	Herbs	HERB	True	True	Herbs	5	496	0.2016129
-14	Bjune_a65	663	7	663	Urtica	Urtica	HERB	Herbs	HERB	True	True	Herbs	5	496	1.4112903
-15	Bjune_a65	1257	3	783	Dryopteris-type	Dryopteris-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	496	0.60483871
-16	Bjune_a65	674	38	674	Botryococcus	Botryococcus	ALGA	Algae	AQUA	False	True	Aquatics	7	496	7.6612903
-17	Bjune_a65	3227	7	3227	Carex-type	Carex-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	496	1.4112903
-18	Bjune_a65	673	12	673	Pediastrum	Pediastrum	ALGA	Algae	AQUA	False	True	Aquatics	7	496	2.4193548
-19	Bjune_a65	3625	2	1008	Indeterminable: broken	Indeterminable: broken	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	496	
-20	Bjune_a65	3627	1	1334	Indeterminable: corroded	Indeterminable: corroded	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	496	
-21	Bjune_a65	165	11	165	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	496	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Bjune_a65	Alnus	Alnus	TRSH	12	2.4193548
+Bjune_a65	Betula	Betula	TRSH	98	19.758065
+Bjune_a65	Calluna vulgaris	Calluna vulgaris	TRSH	5	1.0080645
+Bjune_a65	Ericaceae-type	Ericaceae-type	DWAR	1	0.2016129
+Bjune_a65	Juniperus communis	Juniperus communis-type	TRSH	12	2.4193548
+Bjune_a65	Picea	Picea	TRSH	85	17.137097
+Bjune_a65	Pinus sylvestris	Pinus sylvestris-type	TRSH	245	49.395161
+Bjune_a65	Quercus	Quercus	TRSH	2	0.40322581
+Bjune_a65	Salix undifferentiated	Salix undifferentiated	TRSH	3	0.60483871
+Bjune_a65	Gramineae undifferentiated	Gramineae undifferentiated	HERB	16	3.2258065
+Bjune_a65	Parnassia palustris	Parnassia palustris	HERB	1	0.2016129
+Bjune_a65	Rumex acetosa	Rumex acetosa-type	HERB	2	0.40322581
+Bjune_a65	Rumex acetosella-type	Rumex acetosella	HERB	3	0.60483871
+Bjune_a65	Sinapis-type	Sinapis-type	HERB	1	0.2016129
+Bjune_a65	Urtica	Urtica	HERB	7	1.4112903
+Bjune_a65	Botryococcus	Botryococcus	ALGA	38	7.6612903
+Bjune_a65	Carex-type	Carex-type	AQUA	7	1.4112903
+Bjune_a65	Pediastrum	Pediastrum	ALGA	12	2.4193548
+Bjune_a65	Indeterminable: broken	Indeterminable: broken	INUN	2	
+Bjune_a65	Indeterminable: corroded	Indeterminable: corroded	INUN	1	
+Bjune_a65	Dryopteris-type	Dryopteris-type	VACR	3	0.60483871
+Bjune_a65	Sphagnum	Sphagnum	NOPO	11	

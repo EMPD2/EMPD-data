@@ -1,26 +1,26 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	EPDcoretop_E234	4	31	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	341	9.0909091
-1	EPDcoretop_E234	5	19	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	341	5.5718475
-2	EPDcoretop_E234	470	46	470	Calluna vulgaris	Calluna vulgaris	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	341	13.489736
-3	EPDcoretop_E234	9	61	9	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	341	17.888563
-4	EPDcoretop_E234	12	1	12	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	341	0.29325513
-5	EPDcoretop_E234	18	1	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	341	0.29325513
-6	EPDcoretop_E234	19	18	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	341	5.2785924
-7	EPDcoretop_E234	208	17	208	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	341	4.9853372
-8	EPDcoretop_E234	601	1	36	Umbelliferae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	341	0.29325513
-9	EPDcoretop_E234	46	1	46	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	341	0.29325513
-10	EPDcoretop_E234	52	67	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	341	19.648094
-11	EPDcoretop_E234	3381	3	3381	Compositae subfam. Asteroideae	Compositae subfam. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	341	0.8797654
-12	EPDcoretop_E234	3383	2	3383	Compositae subfam. Cichorioideae	Compositae subfam. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	341	0.58651026
-13	EPDcoretop_E234	61	7	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	341	2.0527859
-14	EPDcoretop_E234	73	1	73	Filipendula	Filipendula	HERB	Herbs	HERB	True	True	Herbs	5	341	0.29325513
-15	EPDcoretop_E234	735	12	286	Plantago	Plantago	HERB	Herbs	HERB	True	True	Herbs	5	341	3.5190616
-16	EPDcoretop_E234	1611	21	106	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	341	6.1583578
-17	EPDcoretop_E234	3524	18	3524	Filicopsida	Filicopsida	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	341	5.2785924
-18	EPDcoretop_E234	478	1	478	Osmunda regalis	Osmunda regalis	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	341	0.29325513
-19	EPDcoretop_E234	677	1	230	Polypodium	Polypodium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	341	0.29325513
-20	EPDcoretop_E234	1279	12	1279	Pteridium	Pteridium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	341	3.5190616
-21	EPDcoretop_E234	516	1	516	Myriophyllum	Myriophyllum	AQUA	Aquatics	AQUA	False	True	Aquatics	7	341	0.29325513
-22	EPDcoretop_E234	638	1	638	Nymphaea	Nymphaea	AQUA	Aquatics	AQUA	False	True	Aquatics	7	341	0.29325513
-23	EPDcoretop_E234	196	3	196	Typha	Sparganium-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	341	0.8797654
-24	EPDcoretop_E234	165	45	165	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	341	
+samplename	original_varname	acc_varname	groupid	count	percentage
+EPDcoretop_E234	Alnus	Alnus	TRSH	31	9.0909091
+EPDcoretop_E234	Betula	Betula	TRSH	19	5.5718475
+EPDcoretop_E234	Calluna vulgaris	Calluna vulgaris	TRSH	46	13.489736
+EPDcoretop_E234	Corylus	Corylus	TRSH	61	17.888563
+EPDcoretop_E234	Fagus	Fagus	TRSH	1	0.29325513
+EPDcoretop_E234	Picea	Picea	TRSH	1	0.29325513
+EPDcoretop_E234	Pinus	Pinus	TRSH	18	5.2785924
+EPDcoretop_E234	Quercus	Quercus	TRSH	17	4.9853372
+EPDcoretop_E234	Umbelliferae	Apiaceae	HERB	1	0.29325513
+EPDcoretop_E234	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	1	0.29325513
+EPDcoretop_E234	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	67	19.648094
+EPDcoretop_E234	Compositae subfam. Asteroideae	Compositae subfam. Asteroideae	HERB	3	0.8797654
+EPDcoretop_E234	Compositae subfam. Cichorioideae	Compositae subfam. Cichorioideae	HERB	2	0.58651026
+EPDcoretop_E234	Cyperaceae	Cyperaceae	HERB	7	2.0527859
+EPDcoretop_E234	Filipendula	Filipendula	HERB	1	0.29325513
+EPDcoretop_E234	Plantago	Plantago	HERB	12	3.5190616
+EPDcoretop_E234	Gramineae	Poaceae	HERB	21	6.1583578
+EPDcoretop_E234	Myriophyllum	Myriophyllum	AQUA	1	0.29325513
+EPDcoretop_E234	Nymphaea	Nymphaea	AQUA	1	0.29325513
+EPDcoretop_E234	Typha	Sparganium-type	AQUA	3	0.8797654
+EPDcoretop_E234	Filicopsida	Filicopsida	VACR	18	5.2785924
+EPDcoretop_E234	Osmunda regalis	Osmunda regalis	VACR	1	0.29325513
+EPDcoretop_E234	Polypodium	Polypodium	VACR	1	0.29325513
+EPDcoretop_E234	Pteridium	Pteridium	VACR	12	3.5190616
+EPDcoretop_E234	Sphagnum	Sphagnum	NOPO	45	

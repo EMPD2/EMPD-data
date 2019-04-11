@@ -1,25 +1,25 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Lapteva_a73	1	49	1	Abies	Abies	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	957	5.1201672
-1	Lapteva_a73	175	9	175	Alnus glutinosa-type	Alnus glutinosa-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	957	0.94043887
-2	Lapteva_a73	2123	165	150	Betula pubescens-type	Betula pubescens-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	957	17.241379
-3	Lapteva_a73	178	3	178	Caprifoliaceae	Caprifoliaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	957	0.31347962
-4	Lapteva_a73	18	280	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	957	29.258098
-5	Lapteva_a73	799	125	148	Pinus sylvestris	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	957	13.061651
-6	Lapteva_a73	25	6	25	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	957	0.62695925
-7	Lapteva_a73	174	7	174	Tilia cordata-type	Tilia cordata-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	957	0.73145246
-8	Lapteva_a73	4261	7	4261	Ulmus glabra-type	Ulmus glabra-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	957	0.73145246
-9	Lapteva_a73	36	4	36	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	957	0.41797283
-10	Lapteva_a73	37	9	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	957	0.94043887
-11	Lapteva_a73	46	2	46	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	957	0.20898642
-12	Lapteva_a73	52	4	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	957	0.41797283
-13	Lapteva_a73	3381	3	3381	Compositae subfam. Asteroideae	Compositae subfam. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	957	0.31347962
-14	Lapteva_a73	3383	2	3383	Compositae subfam. Cichorioideae	Compositae subfam. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	957	0.20898642
-15	Lapteva_a73	61	24	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	957	2.507837
-16	Lapteva_a73	1170	2	1170	Oxalis acetosella	Oxalis acetosella	HERB	Herbs	HERB	True	True	Herbs	5	957	0.20898642
-17	Lapteva_a73	106	37	106	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	957	3.8662487
-18	Lapteva_a73	156	3	156	Ranunculaceae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	957	0.31347962
-19	Lapteva_a73	168	8	168	Bryales	Bryophyte spores	BRYO	Bryophytes	VACR	True	True	Ferns	6	957	0.83594566
-20	Lapteva_a73	202	3	202	Lycopodium clavatum-type	Lycopodium clavatum-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	957	0.31347962
-21	Lapteva_a73	3962	205	3962	Pteridophyta undifferentiated	Pteridophyta undifferentiated	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	957	21.421108
-22	Lapteva_a73	3630	23	3630	Indeterminable: undifferentiated	Indeterminable: undifferentiated	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	957	
-23	Lapteva_a73	165	12	165	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	957	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Lapteva_a73	Abies	Abies	TRSH	49	5.1201672
+Lapteva_a73	Alnus glutinosa-type	Alnus glutinosa-type	TRSH	9	0.94043887
+Lapteva_a73	Betula pubescens-type	Betula pubescens-type	TRSH	165	17.241379
+Lapteva_a73	Caprifoliaceae	Caprifoliaceae	TRSH	3	0.31347962
+Lapteva_a73	Picea	Picea	TRSH	280	29.258098
+Lapteva_a73	Pinus sylvestris	Pinus sylvestris-type	TRSH	125	13.061651
+Lapteva_a73	Salix	Salix	TRSH	6	0.62695925
+Lapteva_a73	Tilia cordata-type	Tilia cordata-type	TRSH	7	0.73145246
+Lapteva_a73	Ulmus glabra-type	Ulmus glabra-type	TRSH	7	0.73145246
+Lapteva_a73	Apiaceae	Apiaceae	HERB	4	0.41797283
+Lapteva_a73	Artemisia	Artemisia	HERB	9	0.94043887
+Lapteva_a73	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	2	0.20898642
+Lapteva_a73	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	4	0.41797283
+Lapteva_a73	Compositae subfam. Asteroideae	Compositae subfam. Asteroideae	HERB	3	0.31347962
+Lapteva_a73	Compositae subfam. Cichorioideae	Compositae subfam. Cichorioideae	HERB	2	0.20898642
+Lapteva_a73	Cyperaceae	Cyperaceae	HERB	24	2.507837
+Lapteva_a73	Oxalis acetosella	Oxalis acetosella	HERB	2	0.20898642
+Lapteva_a73	Poaceae	Poaceae	HERB	37	3.8662487
+Lapteva_a73	Ranunculaceae	Ranunculaceae	HERB	3	0.31347962
+Lapteva_a73	Indeterminable: undifferentiated	Indeterminable: undifferentiated	INUN	23	
+Lapteva_a73	Bryales	Bryophyte spores	BRYO	8	0.83594566
+Lapteva_a73	Lycopodium clavatum-type	Lycopodium clavatum-type	VACR	3	0.31347962
+Lapteva_a73	Pteridophyta undifferentiated	Pteridophyta undifferentiated	VACR	205	21.421108
+Lapteva_a73	Sphagnum	Sphagnum	NOPO	12	

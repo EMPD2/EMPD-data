@@ -1,26 +1,26 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	EPDcoretop_E814	4	10	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	306	3.2679739
-1	EPDcoretop_E814	5	16	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	306	5.2287582
-2	EPDcoretop_E814	7	2	7	Carpinus	Carpinus betulus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	306	0.65359477
-3	EPDcoretop_E814	9	4	9	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	306	1.3071895
-4	EPDcoretop_E814	11	6	11	Ericaceae	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	306	1.9607843
-5	EPDcoretop_E814	18	4	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	306	1.3071895
-6	EPDcoretop_E814	19	156	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	306	50.980392
-7	EPDcoretop_E814	208	4	208	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	306	1.3071895
-8	EPDcoretop_E814	118	2	118	Rosaceae	Rosaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	306	0.65359477
-9	EPDcoretop_E814	25	2	25	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	306	0.65359477
-10	EPDcoretop_E814	29	2	29	Tilia	Tilia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	306	0.65359477
-11	EPDcoretop_E814	31	2	31	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	306	0.65359477
-12	EPDcoretop_E814	2471	4	155	Compositae	Asteraceae	HERB	Herbs	HERB	True	True	Herbs	5	306	1.3071895
-13	EPDcoretop_E814	494	4	42	Cruciferae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	306	1.3071895
-14	EPDcoretop_E814	52	4	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	306	1.3071895
-15	EPDcoretop_E814	61	4	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	306	1.3071895
-16	EPDcoretop_E814	188	2	188	Plantaginaceae	Plantaginaceae	HERB	Herbs	HERB	True	True	Herbs	5	306	0.65359477
-17	EPDcoretop_E814	1611	6	106	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	306	1.9607843
-18	EPDcoretop_E814	159	2	159	Polygonaceae	Polygonaceae	HERB	Herbs	HERB	True	True	Herbs	5	306	0.65359477
-19	EPDcoretop_E814	156	2	156	Ranunculaceae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	306	0.65359477
-20	EPDcoretop_E814	168	20	168	Bryales	Bryophyte spores	BRYO	Bryophytes	VACR	True	True	Ferns	6	306	6.5359477
-21	EPDcoretop_E814	167	2	167	Polypodiaceae	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	306	0.65359477
-22	EPDcoretop_E814	4170	46	4170	Sphagnales	Sphagnales	BRYO	Bryophytes	VACR	True	True	Ferns	6	306	15.03268
-23	EPDcoretop_E814	667	2	196	Typhaceae	Sparganium-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	306	0.65359477
-24	EPDcoretop_E814	3631	4	197	Indeterminable: unknown	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	306	
+samplename	original_varname	acc_varname	groupid	count	percentage
+EPDcoretop_E814	Alnus	Alnus	TRSH	10	3.2679739
+EPDcoretop_E814	Betula	Betula	TRSH	16	5.2287582
+EPDcoretop_E814	Carpinus	Carpinus betulus	TRSH	2	0.65359477
+EPDcoretop_E814	Corylus	Corylus	TRSH	4	1.3071895
+EPDcoretop_E814	Ericaceae	Ericales (tetrad)	DWAR	6	1.9607843
+EPDcoretop_E814	Picea	Picea	TRSH	4	1.3071895
+EPDcoretop_E814	Pinus	Pinus	TRSH	156	50.980392
+EPDcoretop_E814	Quercus	Quercus	TRSH	4	1.3071895
+EPDcoretop_E814	Rosaceae	Rosaceae	TRSH	2	0.65359477
+EPDcoretop_E814	Salix	Salix	TRSH	2	0.65359477
+EPDcoretop_E814	Tilia	Tilia	TRSH	2	0.65359477
+EPDcoretop_E814	Ulmus	Ulmus/Zelkova	TRSH	2	0.65359477
+EPDcoretop_E814	Compositae	Asteraceae	HERB	4	1.3071895
+EPDcoretop_E814	Cruciferae	Brassicaceae	HERB	4	1.3071895
+EPDcoretop_E814	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	4	1.3071895
+EPDcoretop_E814	Cyperaceae	Cyperaceae	HERB	4	1.3071895
+EPDcoretop_E814	Plantaginaceae	Plantaginaceae	HERB	2	0.65359477
+EPDcoretop_E814	Gramineae	Poaceae	HERB	6	1.9607843
+EPDcoretop_E814	Polygonaceae	Polygonaceae	HERB	2	0.65359477
+EPDcoretop_E814	Ranunculaceae	Ranunculaceae	HERB	2	0.65359477
+EPDcoretop_E814	Typhaceae	Sparganium-type	AQUA	2	0.65359477
+EPDcoretop_E814	Indeterminable: unknown	Indeterminable: unknown	INUN	4	
+EPDcoretop_E814	Bryales	Bryophyte spores	BRYO	20	6.5359477
+EPDcoretop_E814	Polypodiaceae	Monolete fern spores	VACR	2	0.65359477
+EPDcoretop_E814	Sphagnales	Sphagnales	BRYO	46	15.03268

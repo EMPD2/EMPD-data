@@ -1,29 +1,29 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Barboni_a661	4	1	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	652	0.15337423
-1	Barboni_a661	11	1	11	Ericaceae	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	652	0.15337423
-2	Barboni_a661	85	19	85	Juniperus	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	652	2.9141104
-3	Barboni_a661	455	4	95	Olea	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	652	0.61349693
-4	Barboni_a661	1624	2	97	Ostrya/Carpinus	Ostrya/Carpinus orientalis	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	652	0.30674847
-5	Barboni_a661	19	33	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	652	5.0613497
-6	Barboni_a661	103	1	103	Pistacia	Pistacia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	652	0.15337423
-7	Barboni_a661	1061	70	110	Quercus cerris-type	Quercus cerris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	652	10.736196
-8	Barboni_a661	3990	450	3990	Quercus undifferentiated	Quercus undifferentiated	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	652	69.018405
-9	Barboni_a661	35	2	35	Allium	Allium ursinum-type	HERB	Herbs	HERB	True	True	Herbs	5	652	0.30674847
-10	Barboni_a661	601	4	36	Umbelliferae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	652	0.61349693
-11	Barboni_a661	3134	8	3134	Artemisia herba-alba-type	Artemisia herba-alba-type	HERB	Herbs	HERB	True	True	Herbs	5	652	1.2269939
-12	Barboni_a661	3195	1	3195	Brassica-type	Brassica-type	HERB	Herbs	HERB	True	True	Herbs	5	652	0.15337423
-13	Barboni_a661	1075	2	50	Cerealia-type	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	652	0.30674847
-14	Barboni_a661	52	3	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	652	0.4601227
-15	Barboni_a661	3381	1	3381	Compositae subfam. Asteroideae	Compositae subfam. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	652	0.15337423
-16	Barboni_a661	3383	3	3383	Compositae subfam. Cichorioideae	Compositae subfam. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	652	0.4601227
-17	Barboni_a661	3444	1	3444	Delphinium-type	Delphinium-type	HERB	Herbs	HERB	True	True	Herbs	5	652	0.15337423
-18	Barboni_a661	3522	1	3522	Filago-type	Filago-type	HERB	Herbs	HERB	True	True	Herbs	5	652	0.15337423
-19	Barboni_a661	3548	8	3548	Galium-type	Galium-type	HERB	Herbs	HERB	True	True	Herbs	5	652	1.2269939
-20	Barboni_a661	1154	12	221	Humulus/Cannabis	Humulus/Cannabis	HERB	Herbs	HERB	True	True	Herbs	5	652	1.8404908
-21	Barboni_a661	1082	2	34	Matricaria-type	Matricaria-type	HERB	Herbs	HERB	True	True	Herbs	5	652	0.30674847
-22	Barboni_a661	1085	2	87	Plantago lanceolata-type	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	652	0.30674847
-23	Barboni_a661	1611	17	106	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	652	2.607362
-24	Barboni_a661	126	2	126	Sanguisorba minor	Sanguisorba minor-type	HERB	Herbs	HERB	True	True	Herbs	5	652	0.30674847
-25	Barboni_a661	1878	1	1878	Solanum	Solanum	HERB	Herbs	HERB	True	True	Herbs	5	652	0.15337423
-26	Barboni_a661	4270	1	466	Urtica dioica-type	Urtica dioica-type	HERB	Herbs	HERB	True	True	Herbs	5	652	0.15337423
-27	Barboni_a661	3631	1	197	Indeterminable: unknown	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	652	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Barboni_a661	Alnus	Alnus	TRSH	1	0.15337423
+Barboni_a661	Ericaceae	Ericales (tetrad)	DWAR	1	0.15337423
+Barboni_a661	Juniperus	Juniperus communis-type	TRSH	19	2.9141104
+Barboni_a661	Olea	Olea europaea	TRSH	4	0.61349693
+Barboni_a661	Ostrya/Carpinus	Ostrya/Carpinus orientalis	TRSH	2	0.30674847
+Barboni_a661	Pinus	Pinus	TRSH	33	5.0613497
+Barboni_a661	Pistacia	Pistacia	TRSH	1	0.15337423
+Barboni_a661	Quercus cerris-type	Quercus cerris-type	TRSH	70	10.736196
+Barboni_a661	Quercus undifferentiated	Quercus undifferentiated	TRSH	450	69.018405
+Barboni_a661	Allium	Allium ursinum-type	HERB	2	0.30674847
+Barboni_a661	Umbelliferae	Apiaceae	HERB	4	0.61349693
+Barboni_a661	Artemisia herba-alba-type	Artemisia herba-alba-type	HERB	8	1.2269939
+Barboni_a661	Brassica-type	Brassica-type	HERB	1	0.15337423
+Barboni_a661	Cerealia-type	Cerealia-type	HERB	2	0.30674847
+Barboni_a661	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	3	0.4601227
+Barboni_a661	Compositae subfam. Asteroideae	Compositae subfam. Asteroideae	HERB	1	0.15337423
+Barboni_a661	Compositae subfam. Cichorioideae	Compositae subfam. Cichorioideae	HERB	3	0.4601227
+Barboni_a661	Delphinium-type	Delphinium-type	HERB	1	0.15337423
+Barboni_a661	Filago-type	Filago-type	HERB	1	0.15337423
+Barboni_a661	Galium-type	Galium-type	HERB	8	1.2269939
+Barboni_a661	Humulus/Cannabis	Humulus/Cannabis	HERB	12	1.8404908
+Barboni_a661	Matricaria-type	Matricaria-type	HERB	2	0.30674847
+Barboni_a661	Plantago lanceolata-type	Plantago lanceolata-type	HERB	2	0.30674847
+Barboni_a661	Gramineae	Poaceae	HERB	17	2.607362
+Barboni_a661	Sanguisorba minor	Sanguisorba minor-type	HERB	2	0.30674847
+Barboni_a661	Solanum	Solanum	HERB	1	0.15337423
+Barboni_a661	Urtica dioica-type	Urtica dioica-type	HERB	1	0.15337423
+Barboni_a661	Indeterminable: unknown	Indeterminable: unknown	INUN	1	

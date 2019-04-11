@@ -1,30 +1,30 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Dambach_a58	1	3	1	Abies	Abies	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	797	0.37641154
-1	Dambach_a58	4	47	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	797	5.8971142
-2	Dambach_a58	5	52	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	797	6.5244668
-3	Dambach_a58	7	3	7	Carpinus	Carpinus betulus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	797	0.37641154
-4	Dambach_a58	454	1	47	Castanea	Castanea sativa	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	797	0.12547051
-5	Dambach_a58	9	20	9	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	797	2.5094103
-6	Dambach_a58	12	15	12	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	797	1.8820577
-7	Dambach_a58	13	3	13	Fraxinus	Fraxinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	797	0.37641154
-8	Dambach_a58	18	347	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	797	43.538269
-9	Dambach_a58	19	211	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	797	26.474279
-10	Dambach_a58	208	6	208	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	797	0.75282309
-11	Dambach_a58	25	3	25	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	797	0.37641154
-12	Dambach_a58	31	1	31	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	797	0.12547051
-13	Dambach_a58	601	2	36	Umbelliferae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	797	0.25094103
-14	Dambach_a58	37	2	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	797	0.25094103
-15	Dambach_a58	772	24	180	Asteroideae	Asteraceae subf. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	797	3.0112923
-16	Dambach_a58	460	1	53	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	797	0.12547051
-17	Dambach_a58	46	2	46	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	797	0.25094103
-18	Dambach_a58	1075	5	50	Cerealia-type	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	797	0.62735257
-19	Dambach_a58	52	2	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	797	0.25094103
-20	Dambach_a58	61	3	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	797	0.37641154
-21	Dambach_a58	3510	3	3510	Eurumex	Eurumex	HERB	Herbs	HERB	True	True	Herbs	5	797	0.37641154
-22	Dambach_a58	87	10	87	Plantago lanceolata	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	797	1.2547051
-23	Dambach_a58	1611	19	106	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	797	2.3839398
-24	Dambach_a58	156	3	156	Ranunculaceae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	797	0.37641154
-25	Dambach_a58	2438	7	290	Ranunculus-type	Ranunculus-type	HERB	Herbs	HERB	True	True	Herbs	5	797	0.8782936
-26	Dambach_a58	167	2	167	Polypodiaceae	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	797	0.25094103
-27	Dambach_a58	3631	6	197	Indeterminable: unknown	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	797	
-28	Dambach_a58	1108	1	197	Varia	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	797	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Dambach_a58	Abies	Abies	TRSH	3	0.37641154
+Dambach_a58	Alnus	Alnus	TRSH	47	5.8971142
+Dambach_a58	Betula	Betula	TRSH	52	6.5244668
+Dambach_a58	Carpinus	Carpinus betulus	TRSH	3	0.37641154
+Dambach_a58	Castanea	Castanea sativa	TRSH	1	0.12547051
+Dambach_a58	Corylus	Corylus	TRSH	20	2.5094103
+Dambach_a58	Fagus	Fagus	TRSH	15	1.8820577
+Dambach_a58	Fraxinus	Fraxinus	TRSH	3	0.37641154
+Dambach_a58	Picea	Picea	TRSH	347	43.538269
+Dambach_a58	Pinus	Pinus	TRSH	211	26.474279
+Dambach_a58	Quercus	Quercus	TRSH	6	0.75282309
+Dambach_a58	Salix	Salix	TRSH	3	0.37641154
+Dambach_a58	Ulmus	Ulmus/Zelkova	TRSH	1	0.12547051
+Dambach_a58	Umbelliferae	Apiaceae	HERB	2	0.25094103
+Dambach_a58	Artemisia	Artemisia	HERB	2	0.25094103
+Dambach_a58	Asteroideae	Asteraceae subf. Asteroideae	HERB	24	3.0112923
+Dambach_a58	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	1	0.12547051
+Dambach_a58	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	2	0.25094103
+Dambach_a58	Cerealia-type	Cerealia-type	HERB	5	0.62735257
+Dambach_a58	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	2	0.25094103
+Dambach_a58	Cyperaceae	Cyperaceae	HERB	3	0.37641154
+Dambach_a58	Eurumex	Eurumex	HERB	3	0.37641154
+Dambach_a58	Plantago lanceolata	Plantago lanceolata-type	HERB	10	1.2547051
+Dambach_a58	Gramineae	Poaceae	HERB	19	2.3839398
+Dambach_a58	Ranunculaceae	Ranunculaceae	HERB	3	0.37641154
+Dambach_a58	Ranunculus-type	Ranunculus-type	HERB	7	0.8782936
+Dambach_a58	Indeterminable: unknown	Indeterminable: unknown	INUN	6	
+Dambach_a58	Varia	Indeterminable: unknown	INUN	1	
+Dambach_a58	Polypodiaceae	Monolete fern spores	VACR	2	0.25094103

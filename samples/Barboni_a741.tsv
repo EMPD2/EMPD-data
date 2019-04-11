@@ -1,27 +1,27 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Barboni_a741	454	1	47	Castanea	Castanea sativa	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	406	0.24630542
-1	Barboni_a741	66	1	66	Erica	Erica	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	406	0.24630542
-2	Barboni_a741	85	3	85	Juniperus	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	406	0.73891626
-3	Barboni_a741	455	43	95	Olea	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	406	10.591133
-4	Barboni_a741	19	101	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	406	24.876847
-5	Barboni_a741	208	32	208	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	406	7.8817734
-6	Barboni_a741	118	3	118	Rosaceae	Rosaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	406	0.73891626
-7	Barboni_a741	601	2	36	Umbelliferae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	406	0.49261084
-8	Barboni_a741	37	29	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	406	7.1428571
-9	Barboni_a741	494	7	42	Cruciferae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	406	1.7241379
-10	Barboni_a741	46	10	46	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	406	2.4630542
-11	Barboni_a741	1075	17	50	Cerealia-type	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	406	4.1871921
-12	Barboni_a741	52	11	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	406	2.7093596
-13	Barboni_a741	54	1	54	Cistaceae	Cistaceae	HERB	Herbs	HERB	True	True	Herbs	5	406	0.24630542
-14	Barboni_a741	3381	6	3381	Compositae subfam. Asteroideae	Compositae subfam. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	406	1.4778325
-15	Barboni_a741	3383	12	3383	Compositae subfam. Cichorioideae	Compositae subfam. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	406	2.955665
-16	Barboni_a741	61	2	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	406	0.49261084
-17	Barboni_a741	497	12	86	Labiatae	Lamiaceae	HERB	Herbs	HERB	True	True	Herbs	5	406	2.955665
-18	Barboni_a741	755	16	755	Leguminosae	Leguminosae	HERB	Herbs	HERB	True	True	Herbs	5	406	3.9408867
-19	Barboni_a741	89	4	89	Liliaceae	Liliaceae-type	HERB	Herbs	HERB	True	True	Herbs	5	406	0.98522167
-20	Barboni_a741	1678	3	397	Papaveraceae	Papaveraceae	HERB	Herbs	HERB	True	True	Herbs	5	406	0.73891626
-21	Barboni_a741	735	12	286	Plantago	Plantago	HERB	Herbs	HERB	True	True	Herbs	5	406	2.955665
-22	Barboni_a741	1611	70	106	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	406	17.241379
-23	Barboni_a741	738	5	120	Rumex	Rumex/Oxyria	HERB	Herbs	HERB	True	True	Herbs	5	406	1.2315271
-24	Barboni_a741	1878	3	1878	Solanum	Solanum	HERB	Herbs	HERB	True	True	Herbs	5	406	0.73891626
-25	Barboni_a741	3631	16	197	Indeterminable: unknown	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	406	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Barboni_a741	Castanea	Castanea sativa	TRSH	1	0.24630542
+Barboni_a741	Erica	Erica	DWAR	1	0.24630542
+Barboni_a741	Juniperus	Juniperus communis-type	TRSH	3	0.73891626
+Barboni_a741	Olea	Olea europaea	TRSH	43	10.591133
+Barboni_a741	Pinus	Pinus	TRSH	101	24.876847
+Barboni_a741	Quercus	Quercus	TRSH	32	7.8817734
+Barboni_a741	Rosaceae	Rosaceae	TRSH	3	0.73891626
+Barboni_a741	Umbelliferae	Apiaceae	HERB	2	0.49261084
+Barboni_a741	Artemisia	Artemisia	HERB	29	7.1428571
+Barboni_a741	Cruciferae	Brassicaceae	HERB	7	1.7241379
+Barboni_a741	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	10	2.4630542
+Barboni_a741	Cerealia-type	Cerealia-type	HERB	17	4.1871921
+Barboni_a741	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	11	2.7093596
+Barboni_a741	Cistaceae	Cistaceae	HERB	1	0.24630542
+Barboni_a741	Compositae subfam. Asteroideae	Compositae subfam. Asteroideae	HERB	6	1.4778325
+Barboni_a741	Compositae subfam. Cichorioideae	Compositae subfam. Cichorioideae	HERB	12	2.955665
+Barboni_a741	Cyperaceae	Cyperaceae	HERB	2	0.49261084
+Barboni_a741	Labiatae	Lamiaceae	HERB	12	2.955665
+Barboni_a741	Leguminosae	Leguminosae	HERB	16	3.9408867
+Barboni_a741	Liliaceae	Liliaceae-type	HERB	4	0.98522167
+Barboni_a741	Papaveraceae	Papaveraceae	HERB	3	0.73891626
+Barboni_a741	Plantago	Plantago	HERB	12	2.955665
+Barboni_a741	Gramineae	Poaceae	HERB	70	17.241379
+Barboni_a741	Rumex	Rumex/Oxyria	HERB	5	1.2315271
+Barboni_a741	Solanum	Solanum	HERB	3	0.73891626
+Barboni_a741	Indeterminable: unknown	Indeterminable: unknown	INUN	16	

@@ -1,26 +1,26 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Barboni_a773	4	3	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	444	0.67567568
-1	Barboni_a773	5	3	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	444	0.67567568
-2	Barboni_a773	470	8	470	Calluna vulgaris	Calluna vulgaris	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	444	1.8018018
-3	Barboni_a773	454	2	47	Castanea	Castanea sativa	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	444	0.45045045
-4	Barboni_a773	9	2	9	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	444	0.45045045
-5	Barboni_a773	3483	6	3483	Erica arborea	Erica arborea	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	444	1.3513514
-6	Barboni_a773	2802	1	543	Erica australis	Erica ciliaris-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	444	0.22522523
-7	Barboni_a773	2128	13	11	Ericales	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	444	2.9279279
-8	Barboni_a773	12	2	12	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	444	0.45045045
-9	Barboni_a773	85	5	85	Juniperus	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	444	1.1261261
-10	Barboni_a773	455	6	95	Olea	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	444	1.3513514
-11	Barboni_a773	19	343	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	444	77.252252
-12	Barboni_a773	208	11	208	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	444	2.4774775
-13	Barboni_a773	1062	2	22	Quercus ilex-type	Quercus ilex-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	444	0.45045045
-14	Barboni_a773	3108	1	3108	Anthemis	Anthemis	HERB	Herbs	HERB	True	True	Herbs	5	444	0.22522523
-15	Barboni_a773	601	1	36	Umbelliferae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	444	0.22522523
-16	Barboni_a773	494	2	42	Cruciferae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	444	0.45045045
-17	Barboni_a773	46	8	46	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	444	1.8018018
-18	Barboni_a773	52	2	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	444	0.45045045
-19	Barboni_a773	3383	2	3383	Compositae subfam. Cichorioideae	Compositae subfam. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	444	0.45045045
-20	Barboni_a773	61	1	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	444	0.22522523
-21	Barboni_a773	1611	9	106	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	444	2.027027
-22	Barboni_a773	738	9	120	Rumex	Rumex/Oxyria	HERB	Herbs	HERB	True	True	Herbs	5	444	2.027027
-23	Barboni_a773	3751	2	3751	Monolete spore(s)	Monolete spore(s)	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	444	0.45045045
-24	Barboni_a773	2368	2	1607	Pinus: stomata	Pinus: stomata	VEMI	Vegetative microfossils	NOPO	False	False	Nonpollen	30	444	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Barboni_a773	Alnus	Alnus	TRSH	3	0.67567568
+Barboni_a773	Betula	Betula	TRSH	3	0.67567568
+Barboni_a773	Calluna vulgaris	Calluna vulgaris	TRSH	8	1.8018018
+Barboni_a773	Castanea	Castanea sativa	TRSH	2	0.45045045
+Barboni_a773	Corylus	Corylus	TRSH	2	0.45045045
+Barboni_a773	Erica arborea	Erica arborea	DWAR	6	1.3513514
+Barboni_a773	Erica australis	Erica ciliaris-type	DWAR	1	0.22522523
+Barboni_a773	Ericales	Ericales (tetrad)	DWAR	13	2.9279279
+Barboni_a773	Fagus	Fagus	TRSH	2	0.45045045
+Barboni_a773	Juniperus	Juniperus communis-type	TRSH	5	1.1261261
+Barboni_a773	Olea	Olea europaea	TRSH	6	1.3513514
+Barboni_a773	Pinus	Pinus	TRSH	343	77.252252
+Barboni_a773	Quercus	Quercus	TRSH	11	2.4774775
+Barboni_a773	Quercus ilex-type	Quercus ilex-type	TRSH	2	0.45045045
+Barboni_a773	Anthemis	Anthemis	HERB	1	0.22522523
+Barboni_a773	Umbelliferae	Apiaceae	HERB	1	0.22522523
+Barboni_a773	Cruciferae	Brassicaceae	HERB	2	0.45045045
+Barboni_a773	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	8	1.8018018
+Barboni_a773	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	2	0.45045045
+Barboni_a773	Compositae subfam. Cichorioideae	Compositae subfam. Cichorioideae	HERB	2	0.45045045
+Barboni_a773	Cyperaceae	Cyperaceae	HERB	1	0.22522523
+Barboni_a773	Gramineae	Poaceae	HERB	9	2.027027
+Barboni_a773	Rumex	Rumex/Oxyria	HERB	9	2.027027
+Barboni_a773	Monolete spore(s)	Monolete spore(s)	VACR	2	0.45045045
+Barboni_a773	Pinus: stomata	Pinus: stomata	VEMI	2	

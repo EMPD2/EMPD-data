@@ -1,26 +1,26 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Kunes_a110	1	3	1	Abies	Abies	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	625	0.48
-1	Kunes_a110	572	3	151	Alnus viridis	Alnus viridis	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	625	0.48
-2	Kunes_a110	5	112	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	625	17.92
-3	Kunes_a110	1373	5	149	Betula nana	Betula nana-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	625	0.8
-4	Kunes_a110	18	2	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	625	0.32
-5	Kunes_a110	19	436	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	625	69.76
-6	Kunes_a110	3852	16	147	Pinus cembra-type	Pinus cembra-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	625	2.56
-7	Kunes_a110	118	1	118	Rosaceae	Rosaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	625	0.16
-8	Kunes_a110	25	2	25	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	625	0.32
-9	Kunes_a110	36	2	36	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	625	0.32
-10	Kunes_a110	37	6	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	625	0.96
-11	Kunes_a110	3347	1	3347	Chenopodiaceae p.p.	Chenopodiaceae p.p.	HERB	Herbs	HERB	True	True	Herbs	5	625	0.16
-12	Kunes_a110	614	1	614	Cirsium	Cirsium	HERB	Herbs	HERB	True	True	Herbs	5	625	0.16
-13	Kunes_a110	61	4	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	625	0.64
-14	Kunes_a110	3598	2	1150	Heracleum sphondylium	Heracleum sphondylium	HERB	Herbs	HERB	True	True	Herbs	5	625	0.32
-15	Kunes_a110	3905	6	3905	Poaceae wild grass type	Poaceae wild grass type	HERB	Herbs	HERB	True	True	Herbs	5	625	0.96
-16	Kunes_a110	641	1	113	Ranunculus acris-type	Ranunculus acris-type	HERB	Herbs	HERB	True	True	Herbs	5	625	0.16
-17	Kunes_a110	119	1	119	Rubiaceae	Rubiaceae	HERB	Herbs	HERB	True	True	Herbs	5	625	0.16
-18	Kunes_a110	2814	13	130	Sedum-type	Sedum-type	HERB	Herbs	HERB	True	True	Herbs	5	625	2.08
-19	Kunes_a110	1788	1	153	Silene-type	Silene-type	HERB	Herbs	HERB	True	True	Herbs	5	625	0.16
-20	Kunes_a110	137	2	137	Thalictrum	Thalictrum	HERB	Herbs	HERB	True	True	Herbs	5	625	0.32
-21	Kunes_a110	4292	1	4292	Vicia lathyroides	Vicia lathyroides	HERB	Herbs	HERB	True	True	Herbs	5	625	0.16
-22	Kunes_a110	3747	2	167	Monolete fern spores	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	625	0.32
-23	Kunes_a110	677	2	230	Polypodium	Polypodium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	625	0.32
-24	Kunes_a110	1108	8	197	Varia	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	625	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Kunes_a110	Abies	Abies	TRSH	3	0.48
+Kunes_a110	Alnus viridis	Alnus viridis	TRSH	3	0.48
+Kunes_a110	Betula	Betula	TRSH	112	17.92
+Kunes_a110	Betula nana	Betula nana-type	DWAR	5	0.8
+Kunes_a110	Picea	Picea	TRSH	2	0.32
+Kunes_a110	Pinus	Pinus	TRSH	436	69.76
+Kunes_a110	Pinus cembra-type	Pinus cembra-type	TRSH	16	2.56
+Kunes_a110	Rosaceae	Rosaceae	TRSH	1	0.16
+Kunes_a110	Salix	Salix	TRSH	2	0.32
+Kunes_a110	Apiaceae	Apiaceae	HERB	2	0.32
+Kunes_a110	Artemisia	Artemisia	HERB	6	0.96
+Kunes_a110	Chenopodiaceae p.p.	Chenopodiaceae p.p.	HERB	1	0.16
+Kunes_a110	Cirsium	Cirsium	HERB	1	0.16
+Kunes_a110	Cyperaceae	Cyperaceae	HERB	4	0.64
+Kunes_a110	Heracleum sphondylium	Heracleum sphondylium	HERB	2	0.32
+Kunes_a110	Poaceae wild grass type	Poaceae wild grass type	HERB	6	0.96
+Kunes_a110	Ranunculus acris-type	Ranunculus acris-type	HERB	1	0.16
+Kunes_a110	Rubiaceae	Rubiaceae	HERB	1	0.16
+Kunes_a110	Sedum-type	Sedum-type	HERB	13	2.08
+Kunes_a110	Silene-type	Silene-type	HERB	1	0.16
+Kunes_a110	Thalictrum	Thalictrum	HERB	2	0.32
+Kunes_a110	Vicia lathyroides	Vicia lathyroides	HERB	1	0.16
+Kunes_a110	Varia	Indeterminable: unknown	INUN	8	
+Kunes_a110	Monolete fern spores	Monolete fern spores	VACR	2	0.32
+Kunes_a110	Polypodium	Polypodium	VACR	2	0.32

@@ -1,25 +1,25 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Barboni_a755	4	2	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	544	0.36764706
-1	Barboni_a755	5	9	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	544	1.6544118
-2	Barboni_a755	3209	170	3209	Calluna	Calluna	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	544	31.25
-3	Barboni_a755	454	1	47	Castanea	Castanea sativa	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	544	0.18382353
-4	Barboni_a755	9	14	9	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	544	2.5735294
-5	Barboni_a755	66	19	66	Erica	Erica	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	544	3.4926471
-6	Barboni_a755	11	190	11	Ericaceae	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	544	34.926471
-7	Barboni_a755	67	2	67	Eucalyptus	Eucalyptus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	544	0.36764706
-8	Barboni_a755	17	2	17	Myrica	Myrica	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	544	0.36764706
-9	Barboni_a755	19	41	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	544	7.5367647
-10	Barboni_a755	2901	6	19	Pinus undifferentiated	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	544	1.1029412
-11	Barboni_a755	3857	29	3857	Pinus pinaster-type	Pinus pinaster-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	544	5.3308824
-12	Barboni_a755	1236	6	148	Pinus sylvestris-type	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	544	1.1029412
-13	Barboni_a755	208	8	208	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	544	1.4705882
-14	Barboni_a755	118	1	118	Rosaceae	Rosaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	544	0.18382353
-15	Barboni_a755	25	1	25	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	544	0.18382353
-16	Barboni_a755	46	1	46	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	544	0.18382353
-17	Barboni_a755	61	14	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	544	2.5735294
-18	Barboni_a755	735	1	286	Plantago	Plantago	HERB	Herbs	HERB	True	True	Herbs	5	544	0.18382353
-19	Barboni_a755	106	22	106	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	544	4.0441176
-20	Barboni_a755	3751	2	3751	Monolete spore(s)	Monolete spore(s)	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	544	0.36764706
-21	Barboni_a755	1279	3	1279	Pteridium	Pteridium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	544	0.55147059
-22	Barboni_a755	1108	2	197	Varia	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	544	
-23	Barboni_a755	165	2	165	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	544	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Barboni_a755	Alnus	Alnus	TRSH	2	0.36764706
+Barboni_a755	Betula	Betula	TRSH	9	1.6544118
+Barboni_a755	Calluna	Calluna	DWAR	170	31.25
+Barboni_a755	Castanea	Castanea sativa	TRSH	1	0.18382353
+Barboni_a755	Corylus	Corylus	TRSH	14	2.5735294
+Barboni_a755	Erica	Erica	DWAR	19	3.4926471
+Barboni_a755	Ericaceae	Ericales (tetrad)	DWAR	190	34.926471
+Barboni_a755	Eucalyptus	Eucalyptus	TRSH	2	0.36764706
+Barboni_a755	Myrica	Myrica	TRSH	2	0.36764706
+Barboni_a755	Pinus	Pinus	TRSH	41	7.5367647
+Barboni_a755	Pinus undifferentiated	Pinus	TRSH	6	1.1029412
+Barboni_a755	Pinus pinaster-type	Pinus pinaster-type	TRSH	29	5.3308824
+Barboni_a755	Pinus sylvestris-type	Pinus sylvestris-type	TRSH	6	1.1029412
+Barboni_a755	Quercus	Quercus	TRSH	8	1.4705882
+Barboni_a755	Rosaceae	Rosaceae	TRSH	1	0.18382353
+Barboni_a755	Salix	Salix	TRSH	1	0.18382353
+Barboni_a755	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	1	0.18382353
+Barboni_a755	Cyperaceae	Cyperaceae	HERB	14	2.5735294
+Barboni_a755	Plantago	Plantago	HERB	1	0.18382353
+Barboni_a755	Poaceae	Poaceae	HERB	22	4.0441176
+Barboni_a755	Varia	Indeterminable: unknown	INUN	2	
+Barboni_a755	Monolete spore(s)	Monolete spore(s)	VACR	2	0.36764706
+Barboni_a755	Pteridium	Pteridium	VACR	3	0.55147059
+Barboni_a755	Sphagnum	Sphagnum	NOPO	2	

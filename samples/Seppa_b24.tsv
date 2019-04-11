@@ -1,18 +1,18 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Seppa_b24	4	15	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	522	2.8735632
-1	Seppa_b24	577	1	577	Arctostaphylos	Arctostaphylos	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	522	0.19157088
-2	Seppa_b24	5	114	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	522	21.83908
-3	Seppa_b24	950	3	750	Empetrum nigrum	Empetrum nigrum	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	522	0.57471264
-4	Seppa_b24	952	12	85	Juniperus communis	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	522	2.2988506
-5	Seppa_b24	18	57	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	522	10.91954
-6	Seppa_b24	799	292	148	Pinus sylvestris	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	522	55.938697
-7	Seppa_b24	4088	1	4088	Salix undifferentiated	Salix undifferentiated	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	522	0.19157088
-8	Seppa_b24	3573	12	3573	Gramineae undifferentiated	Gramineae undifferentiated	HERB	Herbs	HERB	True	True	Herbs	5	522	2.2988506
-9	Seppa_b24	3991	1	3991	Ranunculaceae undifferentiated	Ranunculaceae undifferentiated	HERB	Herbs	HERB	True	True	Herbs	5	522	0.19157088
-10	Seppa_b24	2437	1	154	Solidago-type	Senecio-type	HERB	Herbs	HERB	True	True	Herbs	5	522	0.19157088
-11	Seppa_b24	3451	1	3451	Diphasiastrum	Diphasiastrum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	522	0.19157088
-12	Seppa_b24	1257	6	783	Dryopteris-type	Dryopteris-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	522	1.1494253
-13	Seppa_b24	2129	5	1330	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	522	0.95785441
-14	Seppa_b24	1723	1	1559	Lycopodium clavatum	Lycopodium clavatum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	522	0.19157088
-15	Seppa_b24	3227	4	3227	Carex-type	Carex-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	522	0.76628352
-16	Seppa_b24	3431	3	3431	Cyperaceae undifferentiated	Cyperaceae undifferentiated	AQUA	Aquatics	AQUA	False	True	Aquatics	7	522	0.57471264
+samplename	original_varname	acc_varname	groupid	count	percentage
+Seppa_b24	Alnus	Alnus	TRSH	15	2.8735632
+Seppa_b24	Arctostaphylos	Arctostaphylos	DWAR	1	0.19157088
+Seppa_b24	Betula	Betula	TRSH	114	21.83908
+Seppa_b24	Empetrum nigrum	Empetrum nigrum	DWAR	3	0.57471264
+Seppa_b24	Juniperus communis	Juniperus communis-type	TRSH	12	2.2988506
+Seppa_b24	Picea	Picea	TRSH	57	10.91954
+Seppa_b24	Pinus sylvestris	Pinus sylvestris-type	TRSH	292	55.938697
+Seppa_b24	Salix undifferentiated	Salix undifferentiated	TRSH	1	0.19157088
+Seppa_b24	Gramineae undifferentiated	Gramineae undifferentiated	HERB	12	2.2988506
+Seppa_b24	Ranunculaceae undifferentiated	Ranunculaceae undifferentiated	HERB	1	0.19157088
+Seppa_b24	Solidago-type	Senecio-type	HERB	1	0.19157088
+Seppa_b24	Carex-type	Carex-type	AQUA	4	0.76628352
+Seppa_b24	Cyperaceae undifferentiated	Cyperaceae undifferentiated	AQUA	3	0.57471264
+Seppa_b24	Diphasiastrum	Diphasiastrum	VACR	1	0.19157088
+Seppa_b24	Dryopteris-type	Dryopteris-type	VACR	6	1.1494253
+Seppa_b24	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR	5	0.95785441
+Seppa_b24	Lycopodium clavatum	Lycopodium clavatum	VACR	1	0.19157088

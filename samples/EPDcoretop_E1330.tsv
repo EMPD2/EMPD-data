@@ -1,28 +1,28 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	EPDcoretop_E1330	4	9	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	312	2.8846154
-1	EPDcoretop_E1330	5	5	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	312	1.6025641
-2	EPDcoretop_E1330	3209	1	3209	Calluna	Calluna	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	312	0.32051282
-3	EPDcoretop_E1330	9	5	9	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	312	1.6025641
-4	EPDcoretop_E1330	515	1	79	Hedera	Hedera	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	312	0.32051282
-5	EPDcoretop_E1330	19	8	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	312	2.5641026
-6	EPDcoretop_E1330	208	49	208	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	312	15.705128
-7	EPDcoretop_E1330	25	3	25	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	312	0.96153846
-8	EPDcoretop_E1330	31	1	31	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	312	0.32051282
-9	EPDcoretop_E1330	36	19	36	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	312	6.0897436
-10	EPDcoretop_E1330	37	1	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	312	0.32051282
-11	EPDcoretop_E1330	722	6	180	Tubuliflorae	Asteraceae subf. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	312	1.9230769
-12	EPDcoretop_E1330	721	10	53	Liguliflorae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	312	3.2051282
-13	EPDcoretop_E1330	42	3	42	Brassicaceae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	312	0.96153846
-14	EPDcoretop_E1330	46	10	46	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	312	3.2051282
-15	EPDcoretop_E1330	50	4	50	Cerealia	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	312	1.2820513
-16	EPDcoretop_E1330	52	3	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	312	0.96153846
-17	EPDcoretop_E1330	61	31	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	312	9.9358974
-18	EPDcoretop_E1330	1258	2	1258	Fagopyrum	Fagopyrum	HERB	Herbs	HERB	True	True	Herbs	5	312	0.64102564
-19	EPDcoretop_E1330	73	2	73	Filipendula	Filipendula	HERB	Herbs	HERB	True	True	Herbs	5	312	0.64102564
-20	EPDcoretop_E1330	86	1	86	Lamiaceae	Lamiaceae	HERB	Herbs	HERB	True	True	Herbs	5	312	0.32051282
-21	EPDcoretop_E1330	735	4	286	Plantago	Plantago	HERB	Herbs	HERB	True	True	Herbs	5	312	1.2820513
-22	EPDcoretop_E1330	106	53	106	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	312	16.987179
-23	EPDcoretop_E1330	3751	73	3751	Monolete spore(s)	Monolete spore(s)	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	312	23.397436
-24	EPDcoretop_E1330	677	2	230	Polypodium	Polypodium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	312	0.64102564
-25	EPDcoretop_E1330	1989	6	1989	Pteris	Pteris	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	312	1.9230769
-26	EPDcoretop_E1330	3390	58500	3390	Concentration spikes	Concentration spikes	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	312	
+samplename	original_varname	acc_varname	groupid	count	percentage
+EPDcoretop_E1330	Alnus	Alnus	TRSH	9	2.8846154
+EPDcoretop_E1330	Betula	Betula	TRSH	5	1.6025641
+EPDcoretop_E1330	Calluna	Calluna	DWAR	1	0.32051282
+EPDcoretop_E1330	Corylus	Corylus	TRSH	5	1.6025641
+EPDcoretop_E1330	Hedera	Hedera	TRSH	1	0.32051282
+EPDcoretop_E1330	Pinus	Pinus	TRSH	8	2.5641026
+EPDcoretop_E1330	Quercus	Quercus	TRSH	49	15.705128
+EPDcoretop_E1330	Salix	Salix	TRSH	3	0.96153846
+EPDcoretop_E1330	Ulmus	Ulmus/Zelkova	TRSH	1	0.32051282
+EPDcoretop_E1330	Apiaceae	Apiaceae	HERB	19	6.0897436
+EPDcoretop_E1330	Artemisia	Artemisia	HERB	1	0.32051282
+EPDcoretop_E1330	Tubuliflorae	Asteraceae subf. Asteroideae	HERB	6	1.9230769
+EPDcoretop_E1330	Liguliflorae	Asteraceae subf. Cichorioideae	HERB	10	3.2051282
+EPDcoretop_E1330	Brassicaceae	Brassicaceae	HERB	3	0.96153846
+EPDcoretop_E1330	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	10	3.2051282
+EPDcoretop_E1330	Cerealia	Cerealia-type	HERB	4	1.2820513
+EPDcoretop_E1330	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	3	0.96153846
+EPDcoretop_E1330	Cyperaceae	Cyperaceae	HERB	31	9.9358974
+EPDcoretop_E1330	Fagopyrum	Fagopyrum	HERB	2	0.64102564
+EPDcoretop_E1330	Filipendula	Filipendula	HERB	2	0.64102564
+EPDcoretop_E1330	Lamiaceae	Lamiaceae	HERB	1	0.32051282
+EPDcoretop_E1330	Plantago	Plantago	HERB	4	1.2820513
+EPDcoretop_E1330	Poaceae	Poaceae	HERB	53	16.987179
+EPDcoretop_E1330	Concentration spikes	Concentration spikes	NOPO	58500	
+EPDcoretop_E1330	Monolete spore(s)	Monolete spore(s)	VACR	73	23.397436
+EPDcoretop_E1330	Polypodium	Polypodium	VACR	2	0.64102564
+EPDcoretop_E1330	Pteris	Pteris	VACR	6	1.9230769

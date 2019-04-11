@@ -1,23 +1,23 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Seppa_c1	4	40	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	536	7.4626866
-1	Seppa_c1	5	92	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	536	17.164179
-2	Seppa_c1	3209	3	3209	Calluna	Calluna	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	536	0.55970149
-3	Seppa_c1	7	4	7	Carpinus	Carpinus betulus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	536	0.74626866
-4	Seppa_c1	9	4	9	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	536	0.74626866
-5	Seppa_c1	750	1	750	Empetrum	Empetrum nigrum	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	536	0.18656716
-6	Seppa_c1	578	1	481	Frangula alnus	Frangula alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	536	0.18656716
-7	Seppa_c1	85	3	85	Juniperus	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	536	0.55970149
-8	Seppa_c1	18	68	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	536	12.686567
-9	Seppa_c1	19	259	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	536	48.320896
-10	Seppa_c1	208	3	208	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	536	0.55970149
-11	Seppa_c1	25	1	25	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	536	0.18656716
-12	Seppa_c1	29	8	29	Tilia	Tilia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	536	1.4925373
-13	Seppa_c1	31	6	31	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	536	1.119403
-14	Seppa_c1	1075	4	50	Cerealia-type	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	536	0.74626866
-15	Seppa_c1	73	4	73	Filipendula	Filipendula	HERB	Herbs	HERB	True	True	Herbs	5	536	0.74626866
-16	Seppa_c1	1179	1	709	Plantago media	Plantago media	HERB	Herbs	HERB	True	True	Herbs	5	536	0.18656716
-17	Seppa_c1	106	8	106	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	536	1.4925373
-18	Seppa_c1	640	3	290	Ranunculus	Ranunculus-type	HERB	Herbs	HERB	True	True	Herbs	5	536	0.55970149
-19	Seppa_c1	4078	1	4078	Sagina procumbens	Sagina procumbens	HERB	Herbs	HERB	True	True	Herbs	5	536	0.18656716
-20	Seppa_c1	969	1	131	Silene dioica-type	Silene dioica-type	HERB	Herbs	HERB	True	True	Herbs	5	536	0.18656716
-21	Seppa_c1	167	21	167	Polypodiaceae	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	536	3.9179104
+samplename	original_varname	acc_varname	groupid	count	percentage
+Seppa_c1	Alnus	Alnus	TRSH	40	7.4626866
+Seppa_c1	Betula	Betula	TRSH	92	17.164179
+Seppa_c1	Calluna	Calluna	DWAR	3	0.55970149
+Seppa_c1	Carpinus	Carpinus betulus	TRSH	4	0.74626866
+Seppa_c1	Corylus	Corylus	TRSH	4	0.74626866
+Seppa_c1	Empetrum	Empetrum nigrum	DWAR	1	0.18656716
+Seppa_c1	Frangula alnus	Frangula alnus	TRSH	1	0.18656716
+Seppa_c1	Juniperus	Juniperus communis-type	TRSH	3	0.55970149
+Seppa_c1	Picea	Picea	TRSH	68	12.686567
+Seppa_c1	Pinus	Pinus	TRSH	259	48.320896
+Seppa_c1	Quercus	Quercus	TRSH	3	0.55970149
+Seppa_c1	Salix	Salix	TRSH	1	0.18656716
+Seppa_c1	Tilia	Tilia	TRSH	8	1.4925373
+Seppa_c1	Ulmus	Ulmus/Zelkova	TRSH	6	1.119403
+Seppa_c1	Cerealia-type	Cerealia-type	HERB	4	0.74626866
+Seppa_c1	Filipendula	Filipendula	HERB	4	0.74626866
+Seppa_c1	Plantago media	Plantago media	HERB	1	0.18656716
+Seppa_c1	Poaceae	Poaceae	HERB	8	1.4925373
+Seppa_c1	Ranunculus	Ranunculus-type	HERB	3	0.55970149
+Seppa_c1	Sagina procumbens	Sagina procumbens	HERB	1	0.18656716
+Seppa_c1	Silene dioica-type	Silene dioica-type	HERB	1	0.18656716
+Seppa_c1	Polypodiaceae	Monolete fern spores	VACR	21	3.9179104

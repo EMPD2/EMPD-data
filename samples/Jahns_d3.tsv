@@ -1,26 +1,26 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Jahns_d3	1	4	1	Abies	Abies	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1365	0.29304029
-1	Jahns_d3	4	1	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1365	0.073260073
-2	Jahns_d3	3253	3	554	Ceratonia siliqua	Ceratonia siliqua	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1365	0.21978022
-3	Jahns_d3	9	1	9	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1365	0.073260073
-4	Jahns_d3	66	1	66	Erica	Erica	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	1365	0.073260073
-5	Jahns_d3	95	662	95	Olea europaea	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1365	48.498168
-6	Jahns_d3	19	553	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1365	40.512821
-7	Jahns_d3	103	16	103	Pistacia	Pistacia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1365	1.1721612
-8	Jahns_d3	3983	4	3983	Quercus evergreeen	Quercus evergreeen	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1365	0.29304029
-9	Jahns_d3	4105	1	4105	Sarcopoterium-type	Sarcopoterium-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1365	0.073260073
-10	Jahns_d3	3059	8	3059	Aconitum-type	Aconitum-type	HERB	Herbs	HERB	True	True	Herbs	5	1365	0.58608059
-11	Jahns_d3	36	1	36	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	1365	0.073260073
-12	Jahns_d3	1936	14	180	Asteraceae Tubuliflorae	Asteraceae subf. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	1365	1.025641
-13	Jahns_d3	1347	42	53	Asteraceae Liguliflorae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	1365	3.0769231
-14	Jahns_d3	46	3	46	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	1365	0.21978022
-15	Jahns_d3	780	1	52	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	1365	0.073260073
-16	Jahns_d3	54	5	54	Cistaceae	Cistaceae	HERB	Herbs	HERB	True	True	Herbs	5	1365	0.36630037
-17	Jahns_d3	184	1	184	Dipsacaceae	Dipsacaceae	HERB	Herbs	HERB	True	True	Herbs	5	1365	0.073260073
-18	Jahns_d3	510	1	510	Geranium	Geranium	HERB	Herbs	HERB	True	True	Herbs	5	1365	0.073260073
-19	Jahns_d3	86	10	86	Lamiaceae	Lamiaceae	HERB	Herbs	HERB	True	True	Herbs	5	1365	0.73260073
-20	Jahns_d3	93	1	93	Mercurialis annua	Mercurialis annua	HERB	Herbs	HERB	True	True	Herbs	5	1365	0.073260073
-21	Jahns_d3	106	29	106	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	1365	2.1245421
-22	Jahns_d3	119	3	119	Rubiaceae	Rubiaceae	HERB	Herbs	HERB	True	True	Herbs	5	1365	0.21978022
-23	Jahns_d3	1096	2	196	Sparganium-type	Sparganium-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	1365	0.14652015
-24	Jahns_d3	1108	1	197	Varia	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	1365	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Jahns_d3	Abies	Abies	TRSH	4	0.29304029
+Jahns_d3	Alnus	Alnus	TRSH	1	0.073260073
+Jahns_d3	Ceratonia siliqua	Ceratonia siliqua	TRSH	3	0.21978022
+Jahns_d3	Corylus	Corylus	TRSH	1	0.073260073
+Jahns_d3	Erica	Erica	DWAR	1	0.073260073
+Jahns_d3	Olea europaea	Olea europaea	TRSH	662	48.498168
+Jahns_d3	Pinus	Pinus	TRSH	553	40.512821
+Jahns_d3	Pistacia	Pistacia	TRSH	16	1.1721612
+Jahns_d3	Quercus evergreeen	Quercus evergreeen	TRSH	4	0.29304029
+Jahns_d3	Sarcopoterium-type	Sarcopoterium-type	TRSH	1	0.073260073
+Jahns_d3	Aconitum-type	Aconitum-type	HERB	8	0.58608059
+Jahns_d3	Apiaceae	Apiaceae	HERB	1	0.073260073
+Jahns_d3	Asteraceae Tubuliflorae	Asteraceae subf. Asteroideae	HERB	14	1.025641
+Jahns_d3	Asteraceae Liguliflorae	Asteraceae subf. Cichorioideae	HERB	42	3.0769231
+Jahns_d3	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	3	0.21978022
+Jahns_d3	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.073260073
+Jahns_d3	Cistaceae	Cistaceae	HERB	5	0.36630037
+Jahns_d3	Dipsacaceae	Dipsacaceae	HERB	1	0.073260073
+Jahns_d3	Geranium	Geranium	HERB	1	0.073260073
+Jahns_d3	Lamiaceae	Lamiaceae	HERB	10	0.73260073
+Jahns_d3	Mercurialis annua	Mercurialis annua	HERB	1	0.073260073
+Jahns_d3	Poaceae	Poaceae	HERB	29	2.1245421
+Jahns_d3	Rubiaceae	Rubiaceae	HERB	3	0.21978022
+Jahns_d3	Sparganium-type	Sparganium-type	AQUA	2	0.14652015
+Jahns_d3	Varia	Indeterminable: unknown	INUN	1	

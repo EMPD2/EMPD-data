@@ -1,29 +1,29 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Beaudouin_a15	1	4	1	Abies	Abies	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	249	1.6064257
-1	Beaudouin_a15	5	1	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	249	0.40160643
-2	Beaudouin_a15	1125	1	207	Buxus sempervirens	Buxus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	249	0.40160643
-3	Beaudouin_a15	587	3	356	Cedrus	Cedrus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	249	1.2048193
-4	Beaudouin_a15	9	1	9	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	249	0.40160643
-5	Beaudouin_a15	725	18	363	Cupressaceae	Cupressaceae undiff.	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	249	7.2289157
-6	Beaudouin_a15	11	2	11	Ericaceae	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	249	0.80321285
-7	Beaudouin_a15	12	3	12	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	249	1.2048193
-8	Beaudouin_a15	13	2	13	Fraxinus	Fraxinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	249	0.80321285
-9	Beaudouin_a15	455	4	95	Olea	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	249	1.6064257
-10	Beaudouin_a15	18	5	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	249	2.0080321
-11	Beaudouin_a15	19	103	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	249	41.365462
-12	Beaudouin_a15	104	9	104	Platanus	Platanus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	249	3.6144578
-13	Beaudouin_a15	1062	17	22	Quercus ilex-type	Quercus ilex-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	249	6.8273092
-14	Beaudouin_a15	21	37	21	Quercus deciduous	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	249	14.859438
-15	Beaudouin_a15	31	1	31	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	249	0.40160643
-16	Beaudouin_a15	3086	8	3086	Amaranthaceae/Chenopodiaceae	Amaranthaceae/Chenopodiaceae	HERB	Herbs	HERB	True	True	Herbs	5	249	3.2128514
-17	Beaudouin_a15	772	1	180	Asteroideae	Asteraceae subf. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	249	0.40160643
-18	Beaudouin_a15	460	2	53	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	249	0.80321285
-19	Beaudouin_a15	42	4	42	Brassicaceae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	249	1.6064257
-20	Beaudouin_a15	50	2	50	Cerealia	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	249	0.80321285
-21	Beaudouin_a15	61	4	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	249	1.6064257
-22	Beaudouin_a15	69	1	69	Fabaceae	Fabaceae	HERB	Herbs	HERB	True	True	Herbs	5	249	0.40160643
-23	Beaudouin_a15	3634	1	3634	Iridaceae/Amaryllidaceae	Iridaceae/Amaryllidaceae	HERB	Herbs	HERB	True	True	Herbs	5	249	0.40160643
-24	Beaudouin_a15	243	1	243	Mercurialis	Mercurialis	HERB	Herbs	HERB	True	True	Herbs	5	249	0.40160643
-25	Beaudouin_a15	735	5	286	Plantago	Plantago	HERB	Herbs	HERB	True	True	Herbs	5	249	2.0080321
-26	Beaudouin_a15	106	9	106	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	249	3.6144578
-27	Beaudouin_a15	133	1	133	Sparganium	Potamogeton-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	249	0.40160643
+samplename	original_varname	acc_varname	groupid	count	percentage
+Beaudouin_a15	Abies	Abies	TRSH	4	1.6064257
+Beaudouin_a15	Betula	Betula	TRSH	1	0.40160643
+Beaudouin_a15	Buxus sempervirens	Buxus	TRSH	1	0.40160643
+Beaudouin_a15	Cedrus	Cedrus	TRSH	3	1.2048193
+Beaudouin_a15	Corylus	Corylus	TRSH	1	0.40160643
+Beaudouin_a15	Cupressaceae	Cupressaceae undiff.	TRSH	18	7.2289157
+Beaudouin_a15	Ericaceae	Ericales (tetrad)	DWAR	2	0.80321285
+Beaudouin_a15	Fagus	Fagus	TRSH	3	1.2048193
+Beaudouin_a15	Fraxinus	Fraxinus	TRSH	2	0.80321285
+Beaudouin_a15	Olea	Olea europaea	TRSH	4	1.6064257
+Beaudouin_a15	Picea	Picea	TRSH	5	2.0080321
+Beaudouin_a15	Pinus	Pinus	TRSH	103	41.365462
+Beaudouin_a15	Platanus	Platanus	TRSH	9	3.6144578
+Beaudouin_a15	Quercus ilex-type	Quercus ilex-type	TRSH	17	6.8273092
+Beaudouin_a15	Quercus deciduous	Quercus robur-type	TRSH	37	14.859438
+Beaudouin_a15	Ulmus	Ulmus/Zelkova	TRSH	1	0.40160643
+Beaudouin_a15	Amaranthaceae/Chenopodiaceae	Amaranthaceae/Chenopodiaceae	HERB	8	3.2128514
+Beaudouin_a15	Asteroideae	Asteraceae subf. Asteroideae	HERB	1	0.40160643
+Beaudouin_a15	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	2	0.80321285
+Beaudouin_a15	Brassicaceae	Brassicaceae	HERB	4	1.6064257
+Beaudouin_a15	Cerealia	Cerealia-type	HERB	2	0.80321285
+Beaudouin_a15	Cyperaceae	Cyperaceae	HERB	4	1.6064257
+Beaudouin_a15	Fabaceae	Fabaceae	HERB	1	0.40160643
+Beaudouin_a15	Iridaceae/Amaryllidaceae	Iridaceae/Amaryllidaceae	HERB	1	0.40160643
+Beaudouin_a15	Mercurialis	Mercurialis	HERB	1	0.40160643
+Beaudouin_a15	Plantago	Plantago	HERB	5	2.0080321
+Beaudouin_a15	Poaceae	Poaceae	HERB	9	3.6144578
+Beaudouin_a15	Sparganium	Potamogeton-type	AQUA	1	0.40160643

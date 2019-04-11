@@ -1,23 +1,23 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	EPDcoretop_E504	1	130	1	Abies	Abies	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	324	40.123457
-1	EPDcoretop_E504	2	2	2	Acer	Acer campestre-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	324	0.61728395
-2	EPDcoretop_E504	4	19	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	324	5.8641975
-3	EPDcoretop_E504	5	2	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	324	0.61728395
-4	EPDcoretop_E504	454	2	47	Castanea	Castanea sativa	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	324	0.61728395
-5	EPDcoretop_E504	9	9	9	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	324	2.7777778
-6	EPDcoretop_E504	66	4	66	Erica	Erica	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	324	1.2345679
-7	EPDcoretop_E504	12	78	12	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	324	24.074074
-8	EPDcoretop_E504	13	2	13	Fraxinus	Fraxinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	324	0.61728395
-9	EPDcoretop_E504	19	3	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	324	0.92592593
-10	EPDcoretop_E504	208	35	208	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	324	10.802469
-11	EPDcoretop_E504	37	3	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	324	0.92592593
-12	EPDcoretop_E504	3381	1	3381	Compositae subfam. Asteroideae	Compositae subfam. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	324	0.30864198
-13	EPDcoretop_E504	61	2	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	324	0.61728395
-14	EPDcoretop_E504	1611	7	106	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	324	2.1604938
-15	EPDcoretop_E504	4075	2	4075	Rumex undifferentiated	Rumex undifferentiated	HERB	Herbs	HERB	True	True	Herbs	5	324	0.61728395
-16	EPDcoretop_E504	3032	1	503	Saxifraga undifferentiated	Saxifraga	HERB	Herbs	HERB	True	True	Herbs	5	324	0.30864198
-17	EPDcoretop_E504	1413	1	262	Sinapis-type	Sinapis-type	HERB	Herbs	HERB	True	True	Herbs	5	324	0.30864198
-18	EPDcoretop_E504	3524	20	3524	Filicopsida	Filicopsida	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	324	6.1728395
-19	EPDcoretop_E504	677	1	230	Polypodium	Polypodium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	324	0.30864198
-20	EPDcoretop_E504	3390	13911	3390	Concentration spikes	Concentration spikes	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	324	
-21	EPDcoretop_E504	4098	1	894	Sample volume (ml)	Sample volume (ml)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	324	
+samplename	original_varname	acc_varname	groupid	count	percentage
+EPDcoretop_E504	Abies	Abies	TRSH	130	40.123457
+EPDcoretop_E504	Acer	Acer campestre-type	TRSH	2	0.61728395
+EPDcoretop_E504	Alnus	Alnus	TRSH	19	5.8641975
+EPDcoretop_E504	Betula	Betula	TRSH	2	0.61728395
+EPDcoretop_E504	Castanea	Castanea sativa	TRSH	2	0.61728395
+EPDcoretop_E504	Corylus	Corylus	TRSH	9	2.7777778
+EPDcoretop_E504	Erica	Erica	DWAR	4	1.2345679
+EPDcoretop_E504	Fagus	Fagus	TRSH	78	24.074074
+EPDcoretop_E504	Fraxinus	Fraxinus	TRSH	2	0.61728395
+EPDcoretop_E504	Pinus	Pinus	TRSH	3	0.92592593
+EPDcoretop_E504	Quercus	Quercus	TRSH	35	10.802469
+EPDcoretop_E504	Artemisia	Artemisia	HERB	3	0.92592593
+EPDcoretop_E504	Compositae subfam. Asteroideae	Compositae subfam. Asteroideae	HERB	1	0.30864198
+EPDcoretop_E504	Cyperaceae	Cyperaceae	HERB	2	0.61728395
+EPDcoretop_E504	Gramineae	Poaceae	HERB	7	2.1604938
+EPDcoretop_E504	Rumex undifferentiated	Rumex undifferentiated	HERB	2	0.61728395
+EPDcoretop_E504	Saxifraga undifferentiated	Saxifraga	HERB	1	0.30864198
+EPDcoretop_E504	Sinapis-type	Sinapis-type	HERB	1	0.30864198
+EPDcoretop_E504	Concentration spikes	Concentration spikes	NOPO	13911	
+EPDcoretop_E504	Filicopsida	Filicopsida	VACR	20	6.1728395
+EPDcoretop_E504	Polypodium	Polypodium	VACR	1	0.30864198
+EPDcoretop_E504	Sample volume (ml)	Sample volume (ml)	NOPO	1	

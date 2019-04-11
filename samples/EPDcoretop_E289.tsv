@@ -1,17 +1,17 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	EPDcoretop_E289	4	38	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	216	17.592593
-1	EPDcoretop_E289	150	39	150	Betula sect. Albae	Betula pubescens-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	216	18.055556
-2	EPDcoretop_E289	59	1	9	Corylus avellana	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	216	0.46296296
-3	EPDcoretop_E289	794	19	794	Picea abies	Picea abies-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	216	8.7962963
-4	EPDcoretop_E289	799	92	148	Pinus sylvestris	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	216	42.592593
-5	EPDcoretop_E289	118	1	118	Rosaceae	Rosaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	216	0.46296296
-6	EPDcoretop_E289	1416	2	174	Tilia cordata	Tilia cordata-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	216	0.92592593
-7	EPDcoretop_E289	37	2	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	216	0.92592593
-8	EPDcoretop_E289	46	1	46	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	216	0.46296296
-9	EPDcoretop_E289	1075	2	50	Cerealia-type	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	216	0.92592593
-10	EPDcoretop_E289	52	3	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	216	1.3888889
-11	EPDcoretop_E289	61	1	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	216	0.46296296
-12	EPDcoretop_E289	1611	4	106	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	216	1.8518519
-13	EPDcoretop_E289	168	1	168	Bryales	Bryophyte spores	BRYO	Bryophytes	VACR	True	True	Ferns	6	216	0.46296296
-14	EPDcoretop_E289	167	10	167	Polypodiaceae	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	216	4.6296296
-15	EPDcoretop_E289	165	5	165	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	216	
+samplename	original_varname	acc_varname	groupid	count	percentage
+EPDcoretop_E289	Alnus	Alnus	TRSH	38	17.592593
+EPDcoretop_E289	Betula sect. Albae	Betula pubescens-type	TRSH	39	18.055556
+EPDcoretop_E289	Corylus avellana	Corylus	TRSH	1	0.46296296
+EPDcoretop_E289	Picea abies	Picea abies-type	TRSH	19	8.7962963
+EPDcoretop_E289	Pinus sylvestris	Pinus sylvestris-type	TRSH	92	42.592593
+EPDcoretop_E289	Rosaceae	Rosaceae	TRSH	1	0.46296296
+EPDcoretop_E289	Tilia cordata	Tilia cordata-type	TRSH	2	0.92592593
+EPDcoretop_E289	Artemisia	Artemisia	HERB	2	0.92592593
+EPDcoretop_E289	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	1	0.46296296
+EPDcoretop_E289	Cerealia-type	Cerealia-type	HERB	2	0.92592593
+EPDcoretop_E289	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	3	1.3888889
+EPDcoretop_E289	Cyperaceae	Cyperaceae	HERB	1	0.46296296
+EPDcoretop_E289	Gramineae	Poaceae	HERB	4	1.8518519
+EPDcoretop_E289	Bryales	Bryophyte spores	BRYO	1	0.46296296
+EPDcoretop_E289	Polypodiaceae	Monolete fern spores	VACR	10	4.6296296
+EPDcoretop_E289	Sphagnum	Sphagnum	NOPO	5	

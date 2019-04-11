@@ -1,27 +1,27 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Kunes_a59	5	34	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	812	4.1871921
-1	Kunes_a59	1373	2	149	Betula nana	Betula nana-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	812	0.24630542
-2	Kunes_a59	2345	9	16	Larix/Pseudotsuga	Larix/Pseudotsuga	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	812	1.1083744
-3	Kunes_a59	18	10	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	812	1.2315271
-4	Kunes_a59	3852	238	147	Pinus cembra-type	Pinus cembra-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	812	29.310345
-5	Kunes_a59	118	1	118	Rosaceae	Rosaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	812	0.12315271
-6	Kunes_a59	25	5	25	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	812	0.61576355
-7	Kunes_a59	36	1	36	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	812	0.12315271
-8	Kunes_a59	37	51	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	812	6.2807882
-9	Kunes_a59	3137	1	3137	Aruncus-type	Aruncus-type	HERB	Herbs	HERB	True	True	Herbs	5	812	0.12315271
-10	Kunes_a59	3214	2	3214	Cannabaceae	Cannabaceae	HERB	Herbs	HERB	True	True	Herbs	5	812	0.24630542
-11	Kunes_a59	3017	6	50	Cerealia undifferentiated	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	812	0.73891626
-12	Kunes_a59	3347	6	3347	Chenopodiaceae p.p.	Chenopodiaceae p.p.	HERB	Herbs	HERB	True	True	Herbs	5	812	0.73891626
-13	Kunes_a59	614	15	614	Cirsium	Cirsium	HERB	Herbs	HERB	True	True	Herbs	5	812	1.8472906
-14	Kunes_a59	3383	8	3383	Compositae subfam. Cichorioideae	Compositae subfam. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	812	0.98522167
-15	Kunes_a59	61	243	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	812	29.926108
-16	Kunes_a59	497	1	86	Labiatae	Lamiaceae	HERB	Herbs	HERB	True	True	Herbs	5	812	0.12315271
-17	Kunes_a59	106	171	106	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	812	21.059113
-18	Kunes_a59	640	1	290	Ranunculus	Ranunculus-type	HERB	Herbs	HERB	True	True	Herbs	5	812	0.12315271
-19	Kunes_a59	119	1	119	Rubiaceae	Rubiaceae	HERB	Herbs	HERB	True	True	Herbs	5	812	0.12315271
-20	Kunes_a59	2934	1	251	Saussurea-type	Saussurea-type	HERB	Herbs	HERB	True	True	Herbs	5	812	0.12315271
-21	Kunes_a59	137	2	137	Thalictrum	Thalictrum	HERB	Herbs	HERB	True	True	Herbs	5	812	0.24630542
-22	Kunes_a59	663	1	663	Urtica	Urtica	HERB	Herbs	HERB	True	True	Herbs	5	812	0.12315271
-23	Kunes_a59	3470	1	3470	Dryopteris expansa	Dryopteris expansa	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	812	0.12315271
-24	Kunes_a59	4243	1	4243	Trilete spores undifferentiated	Trilete spores undifferentiated	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	812	0.12315271
-25	Kunes_a59	1591	3	923	Potamogeton natans-type	Potamogeton natans-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	812	0.36945813
+samplename	original_varname	acc_varname	groupid	count	percentage
+Kunes_a59	Betula	Betula	TRSH	34	4.1871921
+Kunes_a59	Betula nana	Betula nana-type	DWAR	2	0.24630542
+Kunes_a59	Larix/Pseudotsuga	Larix/Pseudotsuga	TRSH	9	1.1083744
+Kunes_a59	Picea	Picea	TRSH	10	1.2315271
+Kunes_a59	Pinus cembra-type	Pinus cembra-type	TRSH	238	29.310345
+Kunes_a59	Rosaceae	Rosaceae	TRSH	1	0.12315271
+Kunes_a59	Salix	Salix	TRSH	5	0.61576355
+Kunes_a59	Apiaceae	Apiaceae	HERB	1	0.12315271
+Kunes_a59	Artemisia	Artemisia	HERB	51	6.2807882
+Kunes_a59	Aruncus-type	Aruncus-type	HERB	1	0.12315271
+Kunes_a59	Cannabaceae	Cannabaceae	HERB	2	0.24630542
+Kunes_a59	Cerealia undifferentiated	Cerealia-type	HERB	6	0.73891626
+Kunes_a59	Chenopodiaceae p.p.	Chenopodiaceae p.p.	HERB	6	0.73891626
+Kunes_a59	Cirsium	Cirsium	HERB	15	1.8472906
+Kunes_a59	Compositae subfam. Cichorioideae	Compositae subfam. Cichorioideae	HERB	8	0.98522167
+Kunes_a59	Cyperaceae	Cyperaceae	HERB	243	29.926108
+Kunes_a59	Labiatae	Lamiaceae	HERB	1	0.12315271
+Kunes_a59	Poaceae	Poaceae	HERB	171	21.059113
+Kunes_a59	Ranunculus	Ranunculus-type	HERB	1	0.12315271
+Kunes_a59	Rubiaceae	Rubiaceae	HERB	1	0.12315271
+Kunes_a59	Saussurea-type	Saussurea-type	HERB	1	0.12315271
+Kunes_a59	Thalictrum	Thalictrum	HERB	2	0.24630542
+Kunes_a59	Urtica	Urtica	HERB	1	0.12315271
+Kunes_a59	Potamogeton natans-type	Potamogeton natans-type	AQUA	3	0.36945813
+Kunes_a59	Dryopteris expansa	Dryopteris expansa	VACR	1	0.12315271
+Kunes_a59	Trilete spores undifferentiated	Trilete spores undifferentiated	VACR	1	0.12315271

@@ -1,32 +1,32 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Seppa_v16	4	112	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	513	21.832359
-1	Seppa_v16	5	136	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	513	26.510721
-2	Seppa_v16	470	1	470	Calluna vulgaris	Calluna vulgaris	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	513	0.19493177
-3	Seppa_v16	59	8	9	Corylus avellana	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	513	1.5594542
-4	Seppa_v16	952	5	85	Juniperus communis	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	513	0.97465887
-5	Seppa_v16	18	23	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	513	4.4834308
-6	Seppa_v16	799	136	148	Pinus sylvestris	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	513	26.510721
-7	Seppa_v16	208	5	208	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	513	0.97465887
-8	Seppa_v16	4088	2	4088	Salix undifferentiated	Salix undifferentiated	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	513	0.38986355
-9	Seppa_v16	953	1	953	Vaccinium-type	Vaccinium-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	513	0.19493177
-10	Seppa_v16	37	12	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	513	2.3391813
-11	Seppa_v16	3165	10	829	Avena/Triticum-type	Avena/Triticum-type	HERB	Herbs	HERB	True	True	Herbs	5	513	1.9493177
-12	Seppa_v16	3017	3	50	Cerealia undifferentiated	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	513	0.58479532
-13	Seppa_v16	52	2	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	513	0.38986355
-14	Seppa_v16	1258	1	1258	Fagopyrum	Fagopyrum	HERB	Herbs	HERB	True	True	Herbs	5	513	0.19493177
-15	Seppa_v16	73	2	73	Filipendula	Filipendula	HERB	Herbs	HERB	True	True	Herbs	5	513	0.38986355
-16	Seppa_v16	3573	28	3573	Gramineae undifferentiated	Gramineae undifferentiated	HERB	Herbs	HERB	True	True	Herbs	5	513	5.4580897
-17	Seppa_v16	839	4	839	Humulus lupulus	Humulus lupulus	HERB	Herbs	HERB	True	True	Herbs	5	513	0.7797271
-18	Seppa_v16	87	1	87	Plantago lanceolata	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	513	0.19493177
-19	Seppa_v16	3876	1	3876	Plantago major/P. media	Plantago major/P. media	HERB	Herbs	HERB	True	True	Herbs	5	513	0.19493177
-20	Seppa_v16	637	1	524	Potentilla-type	Potentilla-type	HERB	Herbs	HERB	True	True	Herbs	5	513	0.19493177
-21	Seppa_v16	3991	1	3991	Ranunculaceae undifferentiated	Ranunculaceae undifferentiated	HERB	Herbs	HERB	True	True	Herbs	5	513	0.19493177
-22	Seppa_v16	121	4	121	Rumex acetosa	Rumex acetosa-type	HERB	Herbs	HERB	True	True	Herbs	5	513	0.7797271
-23	Seppa_v16	1408	2	122	Rumex acetosella-type	Rumex acetosella	HERB	Herbs	HERB	True	True	Herbs	5	513	0.38986355
-24	Seppa_v16	4069	1	4069	Rumex longifolius-type	Rumex longifolius-type	HERB	Herbs	HERB	True	True	Herbs	5	513	0.19493177
-25	Seppa_v16	272	2	272	Secale cereale	Secale cereale	HERB	Herbs	HERB	True	True	Herbs	5	513	0.38986355
-26	Seppa_v16	1257	3	783	Dryopteris-type	Dryopteris-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	513	0.58479532
-27	Seppa_v16	166	5	166	Equisetum	Equisetum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	513	0.97465887
-28	Seppa_v16	1723	1	1559	Lycopodium clavatum	Lycopodium clavatum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	513	0.19493177
-29	Seppa_v16	3227	3	3227	Carex-type	Carex-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	513	0.58479532
-30	Seppa_v16	165	4	165	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	513	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Seppa_v16	Alnus	Alnus	TRSH	112	21.832359
+Seppa_v16	Betula	Betula	TRSH	136	26.510721
+Seppa_v16	Calluna vulgaris	Calluna vulgaris	TRSH	1	0.19493177
+Seppa_v16	Corylus avellana	Corylus	TRSH	8	1.5594542
+Seppa_v16	Juniperus communis	Juniperus communis-type	TRSH	5	0.97465887
+Seppa_v16	Picea	Picea	TRSH	23	4.4834308
+Seppa_v16	Pinus sylvestris	Pinus sylvestris-type	TRSH	136	26.510721
+Seppa_v16	Quercus	Quercus	TRSH	5	0.97465887
+Seppa_v16	Salix undifferentiated	Salix undifferentiated	TRSH	2	0.38986355
+Seppa_v16	Vaccinium-type	Vaccinium-type	DWAR	1	0.19493177
+Seppa_v16	Artemisia	Artemisia	HERB	12	2.3391813
+Seppa_v16	Avena/Triticum-type	Avena/Triticum-type	HERB	10	1.9493177
+Seppa_v16	Cerealia undifferentiated	Cerealia-type	HERB	3	0.58479532
+Seppa_v16	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	2	0.38986355
+Seppa_v16	Fagopyrum	Fagopyrum	HERB	1	0.19493177
+Seppa_v16	Filipendula	Filipendula	HERB	2	0.38986355
+Seppa_v16	Gramineae undifferentiated	Gramineae undifferentiated	HERB	28	5.4580897
+Seppa_v16	Humulus lupulus	Humulus lupulus	HERB	4	0.7797271
+Seppa_v16	Plantago lanceolata	Plantago lanceolata-type	HERB	1	0.19493177
+Seppa_v16	Plantago major/P. media	Plantago major/P. media	HERB	1	0.19493177
+Seppa_v16	Potentilla-type	Potentilla-type	HERB	1	0.19493177
+Seppa_v16	Ranunculaceae undifferentiated	Ranunculaceae undifferentiated	HERB	1	0.19493177
+Seppa_v16	Rumex acetosa	Rumex acetosa-type	HERB	4	0.7797271
+Seppa_v16	Rumex acetosella-type	Rumex acetosella	HERB	2	0.38986355
+Seppa_v16	Rumex longifolius-type	Rumex longifolius-type	HERB	1	0.19493177
+Seppa_v16	Secale cereale	Secale cereale	HERB	2	0.38986355
+Seppa_v16	Carex-type	Carex-type	AQUA	3	0.58479532
+Seppa_v16	Dryopteris-type	Dryopteris-type	VACR	3	0.58479532
+Seppa_v16	Equisetum	Equisetum	VACR	5	0.97465887
+Seppa_v16	Lycopodium clavatum	Lycopodium clavatum	VACR	1	0.19493177
+Seppa_v16	Sphagnum	Sphagnum	NOPO	4	

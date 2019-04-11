@@ -1,32 +1,32 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Barboni_a971	3209	2	3209	Calluna	Calluna	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	1330	0.15037594
-1	Barboni_a971	3491	12	3491	Erica lusitanica-type	Erica lusitanica-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1330	0.90225564
-2	Barboni_a971	67	8	67	Eucalyptus	Eucalyptus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1330	0.60150376
-3	Barboni_a971	85	11	85	Juniperus	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1330	0.82706767
-4	Barboni_a971	101	52	101	Phillyrea	Phillyrea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1330	3.9097744
-5	Barboni_a971	19	53	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1330	3.9849624
-6	Barboni_a971	451	47	110	Quercus suber	Quercus cerris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1330	3.5338346
-7	Barboni_a971	590	15	22	Quercus ilex	Quercus ilex-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1330	1.1278195
-8	Barboni_a971	25	1	25	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1330	0.07518797
-9	Barboni_a971	31	1	31	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1330	0.07518797
-10	Barboni_a971	3108	8	3108	Anthemis	Anthemis	HERB	Herbs	HERB	True	True	Herbs	5	1330	0.60150376
-11	Barboni_a971	601	4	36	Umbelliferae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	1330	0.30075188
-12	Barboni_a971	37	4	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	1330	0.30075188
-13	Barboni_a971	721	7	53	Liguliflorae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	1330	0.52631579
-14	Barboni_a971	494	2	42	Cruciferae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	1330	0.15037594
-15	Barboni_a971	52	17	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	1330	1.2781955
-16	Barboni_a971	61	610	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	1330	45.864662
-17	Barboni_a971	3547	12	3547	Galium	Galium	HERB	Herbs	HERB	True	True	Herbs	5	1330	0.90225564
-18	Barboni_a971	3571	5	3571	Gramineae 40-50 _m	Gramineae 40-50 _m	HERB	Herbs	HERB	True	True	Herbs	5	1330	0.37593985
-19	Barboni_a971	3567	285	3567	Gramineae <40 _m	Gramineae <40 _m	HERB	Herbs	HERB	True	True	Herbs	5	1330	21.428571
-20	Barboni_a971	90	6	90	Lythrum	Lythrum	HERB	Herbs	HERB	True	True	Herbs	5	1330	0.45112782
-21	Barboni_a971	58	6	58	Plantago coronopus	Plantago coronopus-type	HERB	Herbs	HERB	True	True	Herbs	5	1330	0.45112782
-22	Barboni_a971	3875	5	3875	Plantago lusitanica	Plantago lusitanica	HERB	Herbs	HERB	True	True	Herbs	5	1330	0.37593985
-23	Barboni_a971	3876	1	3876	Plantago major/P. media	Plantago major/P. media	HERB	Herbs	HERB	True	True	Herbs	5	1330	0.07518797
-24	Barboni_a971	4076	21	4076	Rumex-type	Rumex-type	HERB	Herbs	HERB	True	True	Herbs	5	1330	1.5789474
-25	Barboni_a971	1554	135	167	Filicales	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	1330	10.150376
-26	Barboni_a971	2341	1	2341	Isoetes echinospora	Isoetes echinospora	AQPT	Aquatic Pteridophyta	AQUA	False	True	Aquatics	7	1330	0.07518797
-27	Barboni_a971	1980	3	1850	Myriophyllum alterniflorum	Myriophyllum alterniflorum	AQUA	Aquatics	AQUA	False	True	Aquatics	7	1330	0.22556391
-28	Barboni_a971	638	186	638	Nymphaea	Nymphaea	AQUA	Aquatics	AQUA	False	True	Aquatics	7	1330	13.984962
-29	Barboni_a971	668	775	133	Potamogeton	Potamogeton-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	1330	58.270677
-30	Barboni_a971	133	17	133	Sparganium	Potamogeton-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	1330	1.2781955
+samplename	original_varname	acc_varname	groupid	count	percentage
+Barboni_a971	Calluna	Calluna	DWAR	2	0.15037594
+Barboni_a971	Erica lusitanica-type	Erica lusitanica-type	TRSH	12	0.90225564
+Barboni_a971	Eucalyptus	Eucalyptus	TRSH	8	0.60150376
+Barboni_a971	Juniperus	Juniperus communis-type	TRSH	11	0.82706767
+Barboni_a971	Phillyrea	Phillyrea	TRSH	52	3.9097744
+Barboni_a971	Pinus	Pinus	TRSH	53	3.9849624
+Barboni_a971	Quercus suber	Quercus cerris-type	TRSH	47	3.5338346
+Barboni_a971	Quercus ilex	Quercus ilex-type	TRSH	15	1.1278195
+Barboni_a971	Salix	Salix	TRSH	1	0.07518797
+Barboni_a971	Ulmus	Ulmus/Zelkova	TRSH	1	0.07518797
+Barboni_a971	Anthemis	Anthemis	HERB	8	0.60150376
+Barboni_a971	Umbelliferae	Apiaceae	HERB	4	0.30075188
+Barboni_a971	Artemisia	Artemisia	HERB	4	0.30075188
+Barboni_a971	Liguliflorae	Asteraceae subf. Cichorioideae	HERB	7	0.52631579
+Barboni_a971	Cruciferae	Brassicaceae	HERB	2	0.15037594
+Barboni_a971	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	17	1.2781955
+Barboni_a971	Cyperaceae	Cyperaceae	HERB	610	45.864662
+Barboni_a971	Galium	Galium	HERB	12	0.90225564
+Barboni_a971	Gramineae 40-50 _m	Gramineae 40-50 _m	HERB	5	0.37593985
+Barboni_a971	Gramineae <40 _m	Gramineae <40 _m	HERB	285	21.428571
+Barboni_a971	Lythrum	Lythrum	HERB	6	0.45112782
+Barboni_a971	Plantago coronopus	Plantago coronopus-type	HERB	6	0.45112782
+Barboni_a971	Plantago lusitanica	Plantago lusitanica	HERB	5	0.37593985
+Barboni_a971	Plantago major/P. media	Plantago major/P. media	HERB	1	0.07518797
+Barboni_a971	Rumex-type	Rumex-type	HERB	21	1.5789474
+Barboni_a971	Isoetes echinospora	Isoetes echinospora	AQPT	1	0.07518797
+Barboni_a971	Myriophyllum alterniflorum	Myriophyllum alterniflorum	AQUA	3	0.22556391
+Barboni_a971	Nymphaea	Nymphaea	AQUA	186	13.984962
+Barboni_a971	Potamogeton	Potamogeton-type	AQUA	775	58.270677
+Barboni_a971	Sparganium	Potamogeton-type	AQUA	17	1.2781955
+Barboni_a971	Filicales	Monolete fern spores	VACR	135	10.150376

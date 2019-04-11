@@ -1,33 +1,33 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Ortu_b48	771	1	175	Alnus glutinosa	Alnus glutinosa-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	658	0.15197568
-1	Ortu_b48	572	16	151	Alnus viridis	Alnus viridis	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	658	2.4316109
-2	Ortu_b48	5	9	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	658	1.3677812
-3	Ortu_b48	454	5	47	Castanea	Castanea sativa	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	658	0.75987842
-4	Ortu_b48	9	4	9	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	658	0.60790274
-5	Ortu_b48	12	4	12	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	658	0.60790274
-6	Ortu_b48	15	4	15	Juglans	Juglans	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	658	0.60790274
-7	Ortu_b48	85	4	85	Juniperus	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	658	0.60790274
-8	Ortu_b48	18	2	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	658	0.30395137
-9	Ortu_b48	19	118	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	658	17.933131
-10	Ortu_b48	173	1	21	Quercus robur-type	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	658	0.15197568
-11	Ortu_b48	118	2	118	Rosaceae	Rosaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	658	0.30395137
-12	Ortu_b48	25	2	25	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	658	0.30395137
-13	Ortu_b48	36	1	36	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	658	0.15197568
-14	Ortu_b48	37	2	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	658	0.30395137
-15	Ortu_b48	772	1	180	Asteroideae	Asteraceae subf. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	658	0.15197568
-16	Ortu_b48	42	3	42	Brassicaceae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	658	0.45592705
-17	Ortu_b48	46	2	46	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	658	0.30395137
-18	Ortu_b48	531	1	531	Crassulaceae	Crassulaceae	HERB	Herbs	HERB	True	True	Herbs	5	658	0.15197568
-19	Ortu_b48	61	395	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	658	60.030395
-20	Ortu_b48	69	1	69	Fabaceae	Fabaceae	HERB	Herbs	HERB	True	True	Herbs	5	658	0.15197568
-21	Ortu_b48	537	1	537	Gentianaceae	Gentianaceae	HERB	Herbs	HERB	True	True	Herbs	5	658	0.15197568
-22	Ortu_b48	1162	2	622	Lotus	Lotus-type	HERB	Herbs	HERB	True	True	Herbs	5	658	0.30395137
-23	Ortu_b48	2528	9	91	Plantago alpina	Plantago maritima-type	HERB	Herbs	HERB	True	True	Herbs	5	658	1.3677812
-24	Ortu_b48	106	57	106	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	658	8.662614
-25	Ortu_b48	1376	2	524	Potentilla	Potentilla-type	HERB	Herbs	HERB	True	True	Herbs	5	658	0.30395137
-26	Ortu_b48	156	4	156	Ranunculaceae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	658	0.60790274
-27	Ortu_b48	738	2	120	Rumex	Rumex/Oxyria	HERB	Herbs	HERB	True	True	Herbs	5	658	0.30395137
-28	Ortu_b48	820	2	820	Urticaceae	Urticaceae	HERB	Herbs	HERB	True	True	Herbs	5	658	0.30395137
-29	Ortu_b48	3747	1	167	Monolete fern spores	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	658	0.15197568
-30	Ortu_b48	972	1	195	Menyanthes trifoliata	Menyanthes trifoliata	AQUA	Aquatics	AQUA	False	True	Aquatics	7	658	0.15197568
-31	Ortu_b48	3631	1	197	Indeterminable: unknown	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	658	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Ortu_b48	Alnus glutinosa	Alnus glutinosa-type	TRSH	1	0.15197568
+Ortu_b48	Alnus viridis	Alnus viridis	TRSH	16	2.4316109
+Ortu_b48	Betula	Betula	TRSH	9	1.3677812
+Ortu_b48	Castanea	Castanea sativa	TRSH	5	0.75987842
+Ortu_b48	Corylus	Corylus	TRSH	4	0.60790274
+Ortu_b48	Fagus	Fagus	TRSH	4	0.60790274
+Ortu_b48	Juglans	Juglans	TRSH	4	0.60790274
+Ortu_b48	Juniperus	Juniperus communis-type	TRSH	4	0.60790274
+Ortu_b48	Picea	Picea	TRSH	2	0.30395137
+Ortu_b48	Pinus	Pinus	TRSH	118	17.933131
+Ortu_b48	Quercus robur-type	Quercus robur-type	TRSH	1	0.15197568
+Ortu_b48	Rosaceae	Rosaceae	TRSH	2	0.30395137
+Ortu_b48	Salix	Salix	TRSH	2	0.30395137
+Ortu_b48	Apiaceae	Apiaceae	HERB	1	0.15197568
+Ortu_b48	Artemisia	Artemisia	HERB	2	0.30395137
+Ortu_b48	Asteroideae	Asteraceae subf. Asteroideae	HERB	1	0.15197568
+Ortu_b48	Brassicaceae	Brassicaceae	HERB	3	0.45592705
+Ortu_b48	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	2	0.30395137
+Ortu_b48	Crassulaceae	Crassulaceae	HERB	1	0.15197568
+Ortu_b48	Cyperaceae	Cyperaceae	HERB	395	60.030395
+Ortu_b48	Fabaceae	Fabaceae	HERB	1	0.15197568
+Ortu_b48	Gentianaceae	Gentianaceae	HERB	1	0.15197568
+Ortu_b48	Lotus	Lotus-type	HERB	2	0.30395137
+Ortu_b48	Plantago alpina	Plantago maritima-type	HERB	9	1.3677812
+Ortu_b48	Poaceae	Poaceae	HERB	57	8.662614
+Ortu_b48	Potentilla	Potentilla-type	HERB	2	0.30395137
+Ortu_b48	Ranunculaceae	Ranunculaceae	HERB	4	0.60790274
+Ortu_b48	Rumex	Rumex/Oxyria	HERB	2	0.30395137
+Ortu_b48	Urticaceae	Urticaceae	HERB	2	0.30395137
+Ortu_b48	Menyanthes trifoliata	Menyanthes trifoliata	AQUA	1	0.15197568
+Ortu_b48	Indeterminable: unknown	Indeterminable: unknown	INUN	1	
+Ortu_b48	Monolete fern spores	Monolete fern spores	VACR	1	0.15197568

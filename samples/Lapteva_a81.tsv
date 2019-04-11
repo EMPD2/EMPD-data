@@ -1,24 +1,24 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Lapteva_a81	1	13	1	Abies	Abies	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	460	2.826087
-1	Lapteva_a81	175	9	175	Alnus glutinosa-type	Alnus glutinosa-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	460	1.9565217
-2	Lapteva_a81	2113	7	149	Betula nana-type	Betula nana-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	460	1.5217391
-3	Lapteva_a81	2123	124	150	Betula pubescens-type	Betula pubescens-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	460	26.956522
-4	Lapteva_a81	11	2	11	Ericaceae	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	460	0.43478261
-5	Lapteva_a81	18	48	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	460	10.434783
-6	Lapteva_a81	1371	28	147	Pinus sibirica	Pinus cembra-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	460	6.0869565
-7	Lapteva_a81	799	96	148	Pinus sylvestris	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	460	20.869565
-8	Lapteva_a81	118	5	118	Rosaceae	Rosaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	460	1.0869565
-9	Lapteva_a81	25	2	25	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	460	0.43478261
-10	Lapteva_a81	174	1	174	Tilia cordata-type	Tilia cordata-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	460	0.2173913
-11	Lapteva_a81	4261	1	4261	Ulmus glabra-type	Ulmus glabra-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	460	0.2173913
-12	Lapteva_a81	36	1	36	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	460	0.2173913
-13	Lapteva_a81	37	14	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	460	3.0434783
-14	Lapteva_a81	52	6	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	460	1.3043478
-15	Lapteva_a81	61	3	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	460	0.65217391
-16	Lapteva_a81	106	76	106	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	460	16.521739
-17	Lapteva_a81	159	4	159	Polygonaceae	Polygonaceae	HERB	Herbs	HERB	True	True	Herbs	5	460	0.86956522
-18	Lapteva_a81	168	12	168	Bryales	Bryophyte spores	BRYO	Bryophytes	VACR	True	True	Ferns	6	460	2.6086957
-19	Lapteva_a81	202	2	202	Lycopodium clavatum-type	Lycopodium clavatum-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	460	0.43478261
-20	Lapteva_a81	3962	6	3962	Pteridophyta undifferentiated	Pteridophyta undifferentiated	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	460	1.3043478
-21	Lapteva_a81	3630	2	3630	Indeterminable: undifferentiated	Indeterminable: undifferentiated	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	460	
-22	Lapteva_a81	165	17	165	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	460	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Lapteva_a81	Abies	Abies	TRSH	13	2.826087
+Lapteva_a81	Alnus glutinosa-type	Alnus glutinosa-type	TRSH	9	1.9565217
+Lapteva_a81	Betula nana-type	Betula nana-type	DWAR	7	1.5217391
+Lapteva_a81	Betula pubescens-type	Betula pubescens-type	TRSH	124	26.956522
+Lapteva_a81	Ericaceae	Ericales (tetrad)	DWAR	2	0.43478261
+Lapteva_a81	Picea	Picea	TRSH	48	10.434783
+Lapteva_a81	Pinus sibirica	Pinus cembra-type	TRSH	28	6.0869565
+Lapteva_a81	Pinus sylvestris	Pinus sylvestris-type	TRSH	96	20.869565
+Lapteva_a81	Rosaceae	Rosaceae	TRSH	5	1.0869565
+Lapteva_a81	Salix	Salix	TRSH	2	0.43478261
+Lapteva_a81	Tilia cordata-type	Tilia cordata-type	TRSH	1	0.2173913
+Lapteva_a81	Ulmus glabra-type	Ulmus glabra-type	TRSH	1	0.2173913
+Lapteva_a81	Apiaceae	Apiaceae	HERB	1	0.2173913
+Lapteva_a81	Artemisia	Artemisia	HERB	14	3.0434783
+Lapteva_a81	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	6	1.3043478
+Lapteva_a81	Cyperaceae	Cyperaceae	HERB	3	0.65217391
+Lapteva_a81	Poaceae	Poaceae	HERB	76	16.521739
+Lapteva_a81	Polygonaceae	Polygonaceae	HERB	4	0.86956522
+Lapteva_a81	Indeterminable: undifferentiated	Indeterminable: undifferentiated	INUN	2	
+Lapteva_a81	Bryales	Bryophyte spores	BRYO	12	2.6086957
+Lapteva_a81	Lycopodium clavatum-type	Lycopodium clavatum-type	VACR	2	0.43478261
+Lapteva_a81	Pteridophyta undifferentiated	Pteridophyta undifferentiated	VACR	6	1.3043478
+Lapteva_a81	Sphagnum	Sphagnum	NOPO	17	

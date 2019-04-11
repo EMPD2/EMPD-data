@@ -1,24 +1,24 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Barboni_a1266	1	2	1	Abies	Abies	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	290	0.68965517
-1	Barboni_a1266	4	173	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	290	59.655172
-2	Barboni_a1266	7	12	7	Carpinus	Carpinus betulus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	290	4.137931
-3	Barboni_a1266	9	2	9	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	290	0.68965517
-4	Barboni_a1266	2906	1	11	Ericaceae undifferentiated	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	290	0.34482759
-5	Barboni_a1266	12	26	12	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	290	8.9655172
-6	Barboni_a1266	72	5	72	Fraxinus ornus	Fraxinus ornus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	290	1.7241379
-7	Barboni_a1266	15	6	15	Juglans	Juglans	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	290	2.0689655
-8	Barboni_a1266	455	2	95	Olea	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	290	0.68965517
-9	Barboni_a1266	101	3	101	Phillyrea	Phillyrea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	290	1.0344828
-10	Barboni_a1266	19	4	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	290	1.3793103
-11	Barboni_a1266	1768	3	21	Quercus pubescens-type	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	290	1.0344828
-12	Barboni_a1266	3990	20	3990	Quercus undifferentiated	Quercus undifferentiated	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	290	6.8965517
-13	Barboni_a1266	29	1	29	Tilia	Tilia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	290	0.34482759
-14	Barboni_a1266	31	3	31	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	290	1.0344828
-15	Barboni_a1266	601	5	36	Umbelliferae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	290	1.7241379
-16	Barboni_a1266	46	1	46	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	290	0.34482759
-17	Barboni_a1266	61	1	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	290	0.34482759
-18	Barboni_a1266	960	1	274	Hordeum-type	Hordeum-type	HERB	Herbs	HERB	True	True	Herbs	5	290	0.34482759
-19	Barboni_a1266	1611	6	106	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	290	2.0689655
-20	Barboni_a1266	640	8	290	Ranunculus	Ranunculus-type	HERB	Herbs	HERB	True	True	Herbs	5	290	2.7586207
-21	Barboni_a1266	1413	1	262	Sinapis-type	Sinapis-type	HERB	Herbs	HERB	True	True	Herbs	5	290	0.34482759
-22	Barboni_a1266	1545	4	232	Asplenium	Asplenium-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	290	1.3793103
+samplename	original_varname	acc_varname	groupid	count	percentage
+Barboni_a1266	Abies	Abies	TRSH	2	0.68965517
+Barboni_a1266	Alnus	Alnus	TRSH	173	59.655172
+Barboni_a1266	Carpinus	Carpinus betulus	TRSH	12	4.137931
+Barboni_a1266	Corylus	Corylus	TRSH	2	0.68965517
+Barboni_a1266	Ericaceae undifferentiated	Ericales (tetrad)	DWAR	1	0.34482759
+Barboni_a1266	Fagus	Fagus	TRSH	26	8.9655172
+Barboni_a1266	Fraxinus ornus	Fraxinus ornus	TRSH	5	1.7241379
+Barboni_a1266	Juglans	Juglans	TRSH	6	2.0689655
+Barboni_a1266	Olea	Olea europaea	TRSH	2	0.68965517
+Barboni_a1266	Phillyrea	Phillyrea	TRSH	3	1.0344828
+Barboni_a1266	Pinus	Pinus	TRSH	4	1.3793103
+Barboni_a1266	Quercus pubescens-type	Quercus robur-type	TRSH	3	1.0344828
+Barboni_a1266	Quercus undifferentiated	Quercus undifferentiated	TRSH	20	6.8965517
+Barboni_a1266	Tilia	Tilia	TRSH	1	0.34482759
+Barboni_a1266	Ulmus	Ulmus/Zelkova	TRSH	3	1.0344828
+Barboni_a1266	Umbelliferae	Apiaceae	HERB	5	1.7241379
+Barboni_a1266	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	1	0.34482759
+Barboni_a1266	Cyperaceae	Cyperaceae	HERB	1	0.34482759
+Barboni_a1266	Hordeum-type	Hordeum-type	HERB	1	0.34482759
+Barboni_a1266	Gramineae	Poaceae	HERB	6	2.0689655
+Barboni_a1266	Ranunculus	Ranunculus-type	HERB	8	2.7586207
+Barboni_a1266	Sinapis-type	Sinapis-type	HERB	1	0.34482759
+Barboni_a1266	Asplenium	Asplenium-type	VACR	4	1.3793103

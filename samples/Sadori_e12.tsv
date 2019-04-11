@@ -1,19 +1,19 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Sadori_e12	4	2	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	272	0.73529412
-1	Sadori_e12	574	1	7	Carpinus betulus	Carpinus betulus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	272	0.36764706
-2	Sadori_e12	454	3	47	Castanea	Castanea sativa	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	272	1.1029412
-3	Sadori_e12	9	3	9	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	272	1.1029412
-4	Sadori_e12	13	17	13	Fraxinus	Fraxinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	272	6.25
-5	Sadori_e12	582	131	97	Ostrya	Ostrya/Carpinus orientalis	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	272	48.161765
-6	Sadori_e12	19	15	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	272	5.5147059
-7	Sadori_e12	3983	25	3983	Quercus evergreeen	Quercus evergreeen	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	272	9.1911765
-8	Sadori_e12	21	31	21	Quercus deciduous	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	272	11.397059
-9	Sadori_e12	601	1	36	Umbelliferae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	272	0.36764706
-10	Sadori_e12	494	2	42	Cruciferae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	272	0.73529412
-11	Sadori_e12	52	1	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	272	0.36764706
-12	Sadori_e12	1611	4	106	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	272	1.4705882
-13	Sadori_e12	3747	16	167	Monolete fern spores	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	272	5.8823529
-14	Sadori_e12	677	20	230	Polypodium	Polypodium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	272	7.3529412
-15	Sadori_e12	3631	6	197	Indeterminable: unknown	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	272	
-16	Sadori_e12	703	54000	703	Lycopodium (added)	Lycopodium (added)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	272	
-17	Sadori_e12	571	41	571	Lycopodium (counted)	Lycopodium (counted)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	272	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Sadori_e12	Alnus	Alnus	TRSH	2	0.73529412
+Sadori_e12	Carpinus betulus	Carpinus betulus	TRSH	1	0.36764706
+Sadori_e12	Castanea	Castanea sativa	TRSH	3	1.1029412
+Sadori_e12	Corylus	Corylus	TRSH	3	1.1029412
+Sadori_e12	Fraxinus	Fraxinus	TRSH	17	6.25
+Sadori_e12	Ostrya	Ostrya/Carpinus orientalis	TRSH	131	48.161765
+Sadori_e12	Pinus	Pinus	TRSH	15	5.5147059
+Sadori_e12	Quercus evergreeen	Quercus evergreeen	TRSH	25	9.1911765
+Sadori_e12	Quercus deciduous	Quercus robur-type	TRSH	31	11.397059
+Sadori_e12	Umbelliferae	Apiaceae	HERB	1	0.36764706
+Sadori_e12	Cruciferae	Brassicaceae	HERB	2	0.73529412
+Sadori_e12	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.36764706
+Sadori_e12	Gramineae	Poaceae	HERB	4	1.4705882
+Sadori_e12	Indeterminable: unknown	Indeterminable: unknown	INUN	6	
+Sadori_e12	Lycopodium (added)	Lycopodium (added)	NOPO	54000	
+Sadori_e12	Lycopodium (counted)	Lycopodium (counted)	NOPO	41	
+Sadori_e12	Monolete fern spores	Monolete fern spores	VACR	16	5.8823529
+Sadori_e12	Polypodium	Polypodium	VACR	20	7.3529412

@@ -1,21 +1,21 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Seppa_b38	4	22	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	538	4.0892193
-1	Seppa_b38	5	83	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	538	15.427509
-2	Seppa_b38	3182	2	3182	Betula/Corylus/Myrica	Betula/Corylus/Myrica	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	538	0.37174721
-3	Seppa_b38	470	1	470	Calluna vulgaris	Calluna vulgaris	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	538	0.18587361
-4	Seppa_b38	59	1	9	Corylus avellana	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	538	0.18587361
-5	Seppa_b38	3498	1	3498	Ericaceae-type	Ericaceae-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	538	0.18587361
-6	Seppa_b38	75	1	75	Fraxinus excelsior	Fraxinus excelsior-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	538	0.18587361
-7	Seppa_b38	952	3	85	Juniperus communis	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	538	0.55762082
-8	Seppa_b38	18	37	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	538	6.8773234
-9	Seppa_b38	799	365	148	Pinus sylvestris	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	538	67.843866
-10	Seppa_b38	4088	1	4088	Salix undifferentiated	Salix undifferentiated	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	538	0.18587361
-11	Seppa_b38	37	1	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	538	0.18587361
-12	Seppa_b38	52	1	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	538	0.18587361
-13	Seppa_b38	3573	7	3573	Gramineae undifferentiated	Gramineae undifferentiated	HERB	Herbs	HERB	True	True	Herbs	5	538	1.3011152
-14	Seppa_b38	121	1	121	Rumex acetosa	Rumex acetosa-type	HERB	Herbs	HERB	True	True	Herbs	5	538	0.18587361
-15	Seppa_b38	663	1	663	Urtica	Urtica	HERB	Herbs	HERB	True	True	Herbs	5	538	0.18587361
-16	Seppa_b38	1257	5	783	Dryopteris-type	Dryopteris-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	538	0.92936803
-17	Seppa_b38	2129	4	1330	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	538	0.74349442
-18	Seppa_b38	976	1	203	Lycopodium annotinum	Lycopodium annotinum-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	538	0.18587361
-19	Seppa_b38	3227	4	3227	Carex-type	Carex-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	538	0.74349442
+samplename	original_varname	acc_varname	groupid	count	percentage
+Seppa_b38	Alnus	Alnus	TRSH	22	4.0892193
+Seppa_b38	Betula	Betula	TRSH	83	15.427509
+Seppa_b38	Betula/Corylus/Myrica	Betula/Corylus/Myrica	TRSH	2	0.37174721
+Seppa_b38	Calluna vulgaris	Calluna vulgaris	TRSH	1	0.18587361
+Seppa_b38	Corylus avellana	Corylus	TRSH	1	0.18587361
+Seppa_b38	Ericaceae-type	Ericaceae-type	DWAR	1	0.18587361
+Seppa_b38	Fraxinus excelsior	Fraxinus excelsior-type	TRSH	1	0.18587361
+Seppa_b38	Juniperus communis	Juniperus communis-type	TRSH	3	0.55762082
+Seppa_b38	Picea	Picea	TRSH	37	6.8773234
+Seppa_b38	Pinus sylvestris	Pinus sylvestris-type	TRSH	365	67.843866
+Seppa_b38	Salix undifferentiated	Salix undifferentiated	TRSH	1	0.18587361
+Seppa_b38	Artemisia	Artemisia	HERB	1	0.18587361
+Seppa_b38	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.18587361
+Seppa_b38	Gramineae undifferentiated	Gramineae undifferentiated	HERB	7	1.3011152
+Seppa_b38	Rumex acetosa	Rumex acetosa-type	HERB	1	0.18587361
+Seppa_b38	Urtica	Urtica	HERB	1	0.18587361
+Seppa_b38	Carex-type	Carex-type	AQUA	4	0.74349442
+Seppa_b38	Dryopteris-type	Dryopteris-type	VACR	5	0.92936803
+Seppa_b38	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR	4	0.74349442
+Seppa_b38	Lycopodium annotinum	Lycopodium annotinum-type	VACR	1	0.18587361

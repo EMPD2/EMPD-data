@@ -1,33 +1,33 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Bakker_a9	2	2	2	Acer	Acer campestre-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	440	0.45454545
-1	Bakker_a9	4	2	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	440	0.45454545
-2	Bakker_a9	5	2	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	440	0.45454545
-3	Bakker_a9	2083	1	1620	Cercis siliquastrum	Cercis siliquastrum	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	440	0.22727273
-4	Bakker_a9	9	1	9	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	440	0.22727273
-5	Bakker_a9	12	1	12	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	440	0.22727273
-6	Bakker_a9	13	1	13	Fraxinus	Fraxinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	440	0.22727273
-7	Bakker_a9	1158	1	211	Juglans regia	Juglans regia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	440	0.22727273
-8	Bakker_a9	3644	15	3644	Juniperus excelsa/J. oxycedrus	Juniperus excelsa/J. oxycedrus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	440	3.4090909
-9	Bakker_a9	19	35	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	440	7.9545455
-10	Bakker_a9	107	1	107	Populus	Populus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	440	0.22727273
-11	Bakker_a9	3980	25	3980	Quercus coccifera	Quercus coccifera	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	440	5.6818182
-12	Bakker_a9	118	1	118	Rosaceae	Rosaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	440	0.22727273
-13	Bakker_a9	25	2	25	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	440	0.45454545
-14	Bakker_a9	36	12	36	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	440	2.7272727
-15	Bakker_a9	3134	2	3134	Artemisia herba-alba-type	Artemisia herba-alba-type	HERB	Herbs	HERB	True	True	Herbs	5	440	0.45454545
-16	Bakker_a9	772	36	180	Asteroideae	Asteraceae subf. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	440	8.1818182
-17	Bakker_a9	460	222	53	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	440	50.454545
-18	Bakker_a9	42	3	42	Brassicaceae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	440	0.68181818
-19	Bakker_a9	46	4	46	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	440	0.90909091
-20	Bakker_a9	50	16	50	Cerealia	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	440	3.6363636
-21	Bakker_a9	52	31	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	440	7.0454545
-22	Bakker_a9	1338	2	1338	Convolvulus	Convolvulus	HERB	Herbs	HERB	True	True	Herbs	5	440	0.45454545
-23	Bakker_a9	61	1	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	440	0.22727273
-24	Bakker_a9	1146	1	1146	Eryngium	Eryngium	HERB	Herbs	HERB	True	True	Herbs	5	440	0.22727273
-25	Bakker_a9	1258	4	1258	Fagopyrum	Fagopyrum	HERB	Herbs	HERB	True	True	Herbs	5	440	0.90909091
-26	Bakker_a9	82	1	82	Hypericum	Hypericum	HERB	Herbs	HERB	True	True	Herbs	5	440	0.22727273
-27	Bakker_a9	106	8	106	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	440	1.8181818
-28	Bakker_a9	3033	2	1515	Polygonum undifferentiated	Polygonum-type (tricolporate)	HERB	Herbs	HERB	True	True	Herbs	5	440	0.45454545
-29	Bakker_a9	127	4	127	Scabiosa	Scabiosa	HERB	Herbs	HERB	True	True	Herbs	5	440	0.90909091
-30	Bakker_a9	137	1	137	Thalictrum	Thalictrum	HERB	Herbs	HERB	True	True	Herbs	5	440	0.22727273
-31	Bakker_a9	980	41	197	Unknown	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	440	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Bakker_a9	Acer	Acer campestre-type	TRSH	2	0.45454545
+Bakker_a9	Alnus	Alnus	TRSH	2	0.45454545
+Bakker_a9	Betula	Betula	TRSH	2	0.45454545
+Bakker_a9	Cercis siliquastrum	Cercis siliquastrum	TRSH	1	0.22727273
+Bakker_a9	Corylus	Corylus	TRSH	1	0.22727273
+Bakker_a9	Fagus	Fagus	TRSH	1	0.22727273
+Bakker_a9	Fraxinus	Fraxinus	TRSH	1	0.22727273
+Bakker_a9	Juglans regia	Juglans regia	TRSH	1	0.22727273
+Bakker_a9	Juniperus excelsa/J. oxycedrus	Juniperus excelsa/J. oxycedrus	TRSH	15	3.4090909
+Bakker_a9	Pinus	Pinus	TRSH	35	7.9545455
+Bakker_a9	Populus	Populus	TRSH	1	0.22727273
+Bakker_a9	Quercus coccifera	Quercus coccifera	TRSH	25	5.6818182
+Bakker_a9	Rosaceae	Rosaceae	TRSH	1	0.22727273
+Bakker_a9	Salix	Salix	TRSH	2	0.45454545
+Bakker_a9	Apiaceae	Apiaceae	HERB	12	2.7272727
+Bakker_a9	Artemisia herba-alba-type	Artemisia herba-alba-type	HERB	2	0.45454545
+Bakker_a9	Asteroideae	Asteraceae subf. Asteroideae	HERB	36	8.1818182
+Bakker_a9	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	222	50.454545
+Bakker_a9	Brassicaceae	Brassicaceae	HERB	3	0.68181818
+Bakker_a9	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	4	0.90909091
+Bakker_a9	Cerealia	Cerealia-type	HERB	16	3.6363636
+Bakker_a9	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	31	7.0454545
+Bakker_a9	Convolvulus	Convolvulus	HERB	2	0.45454545
+Bakker_a9	Cyperaceae	Cyperaceae	HERB	1	0.22727273
+Bakker_a9	Eryngium	Eryngium	HERB	1	0.22727273
+Bakker_a9	Fagopyrum	Fagopyrum	HERB	4	0.90909091
+Bakker_a9	Hypericum	Hypericum	HERB	1	0.22727273
+Bakker_a9	Poaceae	Poaceae	HERB	8	1.8181818
+Bakker_a9	Polygonum undifferentiated	Polygonum-type (tricolporate)	HERB	2	0.45454545
+Bakker_a9	Scabiosa	Scabiosa	HERB	4	0.90909091
+Bakker_a9	Thalictrum	Thalictrum	HERB	1	0.22727273
+Bakker_a9	Unknown	Indeterminable: unknown	INUN	41	

@@ -1,29 +1,29 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	EPDcoretop_E350	4	53	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	569	9.314587
-1	EPDcoretop_E350	5	117	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	569	20.56239
-2	EPDcoretop_E350	470	1	470	Calluna vulgaris	Calluna vulgaris	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	569	0.17574692
-3	EPDcoretop_E350	3401	2	3401	Cornus mas/C. suecica	Cornus mas/C. suecica	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	569	0.35149385
-4	EPDcoretop_E350	9	5	9	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	569	0.87873462
-5	EPDcoretop_E350	11	1	11	Ericaceae	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	569	0.17574692
-6	EPDcoretop_E350	85	16	85	Juniperus	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	569	2.8119508
-7	EPDcoretop_E350	18	60	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	569	10.544815
-8	EPDcoretop_E350	19	261	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	569	45.869947
-9	EPDcoretop_E350	208	2	208	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	569	0.35149385
-10	EPDcoretop_E350	25	1	25	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	569	0.17574692
-11	EPDcoretop_E350	31	1	31	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	569	0.17574692
-12	EPDcoretop_E350	37	2	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	569	0.35149385
-13	EPDcoretop_E350	3214	1	3214	Cannabaceae	Cannabaceae	HERB	Herbs	HERB	True	True	Herbs	5	569	0.17574692
-14	EPDcoretop_E350	1075	2	50	Cerealia-type	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	569	0.35149385
-15	EPDcoretop_E350	129	5	50	Secale	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	569	0.87873462
-16	EPDcoretop_E350	61	7	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	569	1.2302285
-17	EPDcoretop_E350	73	1	73	Filipendula	Filipendula	HERB	Herbs	HERB	True	True	Herbs	5	569	0.17574692
-18	EPDcoretop_E350	1583	1	839	Humulus	Humulus lupulus	HERB	Herbs	HERB	True	True	Herbs	5	569	0.17574692
-19	EPDcoretop_E350	755	1	755	Leguminosae	Leguminosae	HERB	Herbs	HERB	True	True	Herbs	5	569	0.17574692
-20	EPDcoretop_E350	1611	19	106	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	569	3.3391916
-21	EPDcoretop_E350	156	1	156	Ranunculaceae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	569	0.17574692
-22	EPDcoretop_E350	738	6	120	Rumex	Rumex/Oxyria	HERB	Herbs	HERB	True	True	Herbs	5	569	1.0544815
-23	EPDcoretop_E350	166	1	166	Equisetum	Equisetum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	569	0.17574692
-24	EPDcoretop_E350	164	1	164	Lycopodium	Lycopodium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	569	0.17574692
-25	EPDcoretop_E350	1279	1	1279	Pteridium	Pteridium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	569	0.17574692
-26	EPDcoretop_E350	564	5	382	Isoetes	Isoetes	AQPT	Aquatic Pteridophyta	AQUA	False	True	Aquatics	7	569	0.87873462
-27	EPDcoretop_E350	165	3	165	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	569	
+samplename	original_varname	acc_varname	groupid	count	percentage
+EPDcoretop_E350	Alnus	Alnus	TRSH	53	9.314587
+EPDcoretop_E350	Betula	Betula	TRSH	117	20.56239
+EPDcoretop_E350	Calluna vulgaris	Calluna vulgaris	TRSH	1	0.17574692
+EPDcoretop_E350	Cornus mas/C. suecica	Cornus mas/C. suecica	TRSH	2	0.35149385
+EPDcoretop_E350	Corylus	Corylus	TRSH	5	0.87873462
+EPDcoretop_E350	Ericaceae	Ericales (tetrad)	DWAR	1	0.17574692
+EPDcoretop_E350	Juniperus	Juniperus communis-type	TRSH	16	2.8119508
+EPDcoretop_E350	Picea	Picea	TRSH	60	10.544815
+EPDcoretop_E350	Pinus	Pinus	TRSH	261	45.869947
+EPDcoretop_E350	Quercus	Quercus	TRSH	2	0.35149385
+EPDcoretop_E350	Salix	Salix	TRSH	1	0.17574692
+EPDcoretop_E350	Ulmus	Ulmus/Zelkova	TRSH	1	0.17574692
+EPDcoretop_E350	Artemisia	Artemisia	HERB	2	0.35149385
+EPDcoretop_E350	Cannabaceae	Cannabaceae	HERB	1	0.17574692
+EPDcoretop_E350	Cerealia-type	Cerealia-type	HERB	2	0.35149385
+EPDcoretop_E350	Secale	Cerealia-type	HERB	5	0.87873462
+EPDcoretop_E350	Cyperaceae	Cyperaceae	HERB	7	1.2302285
+EPDcoretop_E350	Filipendula	Filipendula	HERB	1	0.17574692
+EPDcoretop_E350	Humulus	Humulus lupulus	HERB	1	0.17574692
+EPDcoretop_E350	Leguminosae	Leguminosae	HERB	1	0.17574692
+EPDcoretop_E350	Gramineae	Poaceae	HERB	19	3.3391916
+EPDcoretop_E350	Ranunculaceae	Ranunculaceae	HERB	1	0.17574692
+EPDcoretop_E350	Rumex	Rumex/Oxyria	HERB	6	1.0544815
+EPDcoretop_E350	Isoetes	Isoetes	AQPT	5	0.87873462
+EPDcoretop_E350	Equisetum	Equisetum	VACR	1	0.17574692
+EPDcoretop_E350	Lycopodium	Lycopodium	VACR	1	0.17574692
+EPDcoretop_E350	Pteridium	Pteridium	VACR	1	0.17574692
+EPDcoretop_E350	Sphagnum	Sphagnum	NOPO	3	

@@ -1,27 +1,27 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Barboni_a1342	4	1	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	469	0.21321962
-1	Barboni_a1342	5	130	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	469	27.71855
-2	Barboni_a1342	11	16	11	Ericaceae	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	469	3.4115139
-3	Barboni_a1342	85	13	85	Juniperus	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	469	2.771855
-4	Barboni_a1342	18	21	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	469	4.4776119
-5	Barboni_a1342	1059	224	148	Pinus diploxylon-type	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	469	47.761194
-6	Barboni_a1342	208	2	208	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	469	0.42643923
-7	Barboni_a1342	25	3	25	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	469	0.63965885
-8	Barboni_a1342	132	1	132	Sorbus	Sorbus-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	469	0.21321962
-9	Barboni_a1342	597	2	597	Ambrosia	Ambrosia	HERB	Herbs	HERB	True	True	Herbs	5	469	0.42643923
-10	Barboni_a1342	37	2	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	469	0.42643923
-11	Barboni_a1342	46	1	46	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	469	0.21321962
-12	Barboni_a1342	52	1	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	469	0.21321962
-13	Barboni_a1342	3381	1	3381	Compositae subfam. Asteroideae	Compositae subfam. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	469	0.21321962
-14	Barboni_a1342	61	3	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	469	0.63965885
-15	Barboni_a1342	1611	29	106	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	469	6.1833689
-16	Barboni_a1342	1376	7	524	Potentilla	Potentilla-type	HERB	Herbs	HERB	True	True	Herbs	5	469	1.4925373
-17	Barboni_a1342	738	3	120	Rumex	Rumex/Oxyria	HERB	Herbs	HERB	True	True	Herbs	5	469	0.63965885
-18	Barboni_a1342	137	2	137	Thalictrum	Thalictrum	HERB	Herbs	HERB	True	True	Herbs	5	469	0.42643923
-19	Barboni_a1342	820	1	820	Urticaceae	Urticaceae	HERB	Herbs	HERB	True	True	Herbs	5	469	0.21321962
-20	Barboni_a1342	166	1	166	Equisetum	Equisetum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	469	0.21321962
-21	Barboni_a1342	3525	2	3525	Filicopsida monolete undifferentiated	Filicopsida monolete undifferentiated	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	469	0.42643923
-22	Barboni_a1342	3526	1	3526	Filicopsida trilete undifferentiated	Filicopsida trilete undifferentiated	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	469	0.21321962
-23	Barboni_a1342	164	2	164	Lycopodium	Lycopodium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	469	0.42643923
-24	Barboni_a1342	3630	36	3630	Indeterminable: undifferentiated	Indeterminable: undifferentiated	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	469	
-25	Barboni_a1342	165	3	165	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	469	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Barboni_a1342	Alnus	Alnus	TRSH	1	0.21321962
+Barboni_a1342	Betula	Betula	TRSH	130	27.71855
+Barboni_a1342	Ericaceae	Ericales (tetrad)	DWAR	16	3.4115139
+Barboni_a1342	Juniperus	Juniperus communis-type	TRSH	13	2.771855
+Barboni_a1342	Picea	Picea	TRSH	21	4.4776119
+Barboni_a1342	Pinus diploxylon-type	Pinus sylvestris-type	TRSH	224	47.761194
+Barboni_a1342	Quercus	Quercus	TRSH	2	0.42643923
+Barboni_a1342	Salix	Salix	TRSH	3	0.63965885
+Barboni_a1342	Sorbus	Sorbus-type	TRSH	1	0.21321962
+Barboni_a1342	Ambrosia	Ambrosia	HERB	2	0.42643923
+Barboni_a1342	Artemisia	Artemisia	HERB	2	0.42643923
+Barboni_a1342	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	1	0.21321962
+Barboni_a1342	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.21321962
+Barboni_a1342	Compositae subfam. Asteroideae	Compositae subfam. Asteroideae	HERB	1	0.21321962
+Barboni_a1342	Cyperaceae	Cyperaceae	HERB	3	0.63965885
+Barboni_a1342	Gramineae	Poaceae	HERB	29	6.1833689
+Barboni_a1342	Potentilla	Potentilla-type	HERB	7	1.4925373
+Barboni_a1342	Rumex	Rumex/Oxyria	HERB	3	0.63965885
+Barboni_a1342	Thalictrum	Thalictrum	HERB	2	0.42643923
+Barboni_a1342	Urticaceae	Urticaceae	HERB	1	0.21321962
+Barboni_a1342	Indeterminable: undifferentiated	Indeterminable: undifferentiated	INUN	36	
+Barboni_a1342	Equisetum	Equisetum	VACR	1	0.21321962
+Barboni_a1342	Filicopsida monolete undifferentiated	Filicopsida monolete undifferentiated	VACR	2	0.42643923
+Barboni_a1342	Filicopsida trilete undifferentiated	Filicopsida trilete undifferentiated	VACR	1	0.21321962
+Barboni_a1342	Lycopodium	Lycopodium	VACR	2	0.42643923
+Barboni_a1342	Sphagnum	Sphagnum	NOPO	3	

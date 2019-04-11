@@ -1,27 +1,27 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Ortu_d16	1	2	1	Abies	Abies	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	312	0.64102564
-1	Ortu_d16	4	2	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	312	0.64102564
-2	Ortu_d16	5	4	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	312	1.2820513
-3	Ortu_d16	207	1	207	Buxus	Buxus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	312	0.32051282
-4	Ortu_d16	9	2	9	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	312	0.64102564
-5	Ortu_d16	12	6	12	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	312	1.9230769
-6	Ortu_d16	1058	3	492	Hippophae	Hippophae rhamnoides	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	312	0.96153846
-7	Ortu_d16	15	1	15	Juglans	Juglans	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	312	0.32051282
-8	Ortu_d16	85	6	85	Juniperus	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	312	1.9230769
-9	Ortu_d16	792	2	792	Oleaceae	Oleaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	312	0.64102564
-10	Ortu_d16	19	252	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	312	80.769231
-11	Ortu_d16	104	1	104	Platanus	Platanus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	312	0.32051282
-12	Ortu_d16	590	1	22	Quercus ilex	Quercus ilex-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	312	0.32051282
-13	Ortu_d16	173	9	21	Quercus robur-type	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	312	2.8846154
-14	Ortu_d16	25	1	25	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	312	0.32051282
-15	Ortu_d16	1416	1	174	Tilia cordata	Tilia cordata-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	312	0.32051282
-16	Ortu_d16	3106	1	3106	Anthemidae	Anthemidae	HERB	Herbs	HERB	True	True	Herbs	5	312	0.32051282
-17	Ortu_d16	37	2	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	312	0.64102564
-18	Ortu_d16	460	1	53	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	312	0.32051282
-19	Ortu_d16	3224	1	3224	Cardiaceae	Cardiaceae	HERB	Herbs	HERB	True	True	Herbs	5	312	0.32051282
-20	Ortu_d16	50	2	50	Cerealia	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	312	0.64102564
-21	Ortu_d16	61	2	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	312	0.64102564
-22	Ortu_d16	3547	1	3547	Galium	Galium	HERB	Herbs	HERB	True	True	Herbs	5	312	0.32051282
-23	Ortu_d16	755	1	755	Leguminosae	Leguminosae	HERB	Herbs	HERB	True	True	Herbs	5	312	0.32051282
-24	Ortu_d16	1611	7	106	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	312	2.2435897
-25	Ortu_d16	3631	4	197	Indeterminable: unknown	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	312	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Ortu_d16	Abies	Abies	TRSH	2	0.64102564
+Ortu_d16	Alnus	Alnus	TRSH	2	0.64102564
+Ortu_d16	Betula	Betula	TRSH	4	1.2820513
+Ortu_d16	Buxus	Buxus	TRSH	1	0.32051282
+Ortu_d16	Corylus	Corylus	TRSH	2	0.64102564
+Ortu_d16	Fagus	Fagus	TRSH	6	1.9230769
+Ortu_d16	Hippophae	Hippophae rhamnoides	TRSH	3	0.96153846
+Ortu_d16	Juglans	Juglans	TRSH	1	0.32051282
+Ortu_d16	Juniperus	Juniperus communis-type	TRSH	6	1.9230769
+Ortu_d16	Oleaceae	Oleaceae	TRSH	2	0.64102564
+Ortu_d16	Pinus	Pinus	TRSH	252	80.769231
+Ortu_d16	Platanus	Platanus	TRSH	1	0.32051282
+Ortu_d16	Quercus ilex	Quercus ilex-type	TRSH	1	0.32051282
+Ortu_d16	Quercus robur-type	Quercus robur-type	TRSH	9	2.8846154
+Ortu_d16	Salix	Salix	TRSH	1	0.32051282
+Ortu_d16	Tilia cordata	Tilia cordata-type	TRSH	1	0.32051282
+Ortu_d16	Anthemidae	Anthemidae	HERB	1	0.32051282
+Ortu_d16	Artemisia	Artemisia	HERB	2	0.64102564
+Ortu_d16	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	1	0.32051282
+Ortu_d16	Cardiaceae	Cardiaceae	HERB	1	0.32051282
+Ortu_d16	Cerealia	Cerealia-type	HERB	2	0.64102564
+Ortu_d16	Cyperaceae	Cyperaceae	HERB	2	0.64102564
+Ortu_d16	Galium	Galium	HERB	1	0.32051282
+Ortu_d16	Leguminosae	Leguminosae	HERB	1	0.32051282
+Ortu_d16	Gramineae	Poaceae	HERB	7	2.2435897
+Ortu_d16	Indeterminable: unknown	Indeterminable: unknown	INUN	4	

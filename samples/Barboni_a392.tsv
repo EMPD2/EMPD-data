@@ -1,24 +1,24 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Barboni_a392	454	17	47	Castanea	Castanea sativa	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	306	5.5555556
-1	Barboni_a392	3495	1	3495	Erica undifferentiated	Erica undifferentiated	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	306	0.32679739
-2	Barboni_a392	749	1	28	Juniperus-type	Juniperus-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	306	0.32679739
-3	Barboni_a392	3783	27	3783	Olea-type	Olea-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	306	8.8235294
-4	Barboni_a392	3863	107	3863	Pinus-type	Pinus-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	306	34.96732
-5	Barboni_a392	22	30	22	Quercus evergreen	Quercus ilex-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	306	9.8039216
-6	Barboni_a392	21	5	21	Quercus deciduous	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	306	1.6339869
-7	Barboni_a392	2964	1	36	Apiaceae undifferentiated	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	306	0.32679739
-8	Barboni_a392	3136	45	3136	Artemisia-type	Artemisia-type	HERB	Herbs	HERB	True	True	Herbs	5	306	14.705882
-9	Barboni_a392	1347	5	53	Asteraceae Liguliflorae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	306	1.6339869
-10	Barboni_a392	3237	1	3237	Caryophyllaceae undifferentiated	Caryophyllaceae undifferentiated	HERB	Herbs	HERB	True	True	Herbs	5	306	0.32679739
-11	Barboni_a392	3348	4	3348	Chenopodiaceae undifferentiated	Chenopodiaceae undifferentiated	HERB	Herbs	HERB	True	True	Herbs	5	306	1.3071895
-12	Barboni_a392	3369	1	3369	Cistus-type	Cistus-type	HERB	Herbs	HERB	True	True	Herbs	5	306	0.32679739
-13	Barboni_a392	3481	1	3481	Ephedra-type	Ephedra-type	HERB	Herbs	HERB	True	True	Herbs	5	306	0.32679739
-14	Barboni_a392	3660	15	3660	Lamiaceae undifferentiated	Lamiaceae undifferentiated	HERB	Herbs	HERB	True	True	Herbs	5	306	4.9019608
-15	Barboni_a392	600	4	34	Anthemis-type	Matricaria-type	HERB	Herbs	HERB	True	True	Herbs	5	306	1.3071895
-16	Barboni_a392	3886	10	3886	Plantago-type	Plantago-type	HERB	Herbs	HERB	True	True	Herbs	5	306	3.2679739
-17	Barboni_a392	106	26	106	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	306	8.496732
-18	Barboni_a392	114	2	114	Reseda	Reseda	HERB	Herbs	HERB	True	True	Herbs	5	306	0.65359477
-19	Barboni_a392	4046	2	4046	Rosmarinus	Rosmarinus	HERB	Herbs	HERB	True	True	Herbs	5	306	0.65359477
-20	Barboni_a392	4076	1	4076	Rumex-type	Rumex-type	HERB	Herbs	HERB	True	True	Herbs	5	306	0.32679739
-21	Barboni_a392	3431	1	3431	Cyperaceae undifferentiated	Cyperaceae undifferentiated	AQUA	Aquatics	AQUA	False	True	Aquatics	7	306	0.32679739
-22	Barboni_a392	3514	5	3514	Fabaceae undifferentiated	Fabaceae undifferentiated	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	306	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Barboni_a392	Castanea	Castanea sativa	TRSH	17	5.5555556
+Barboni_a392	Erica undifferentiated	Erica undifferentiated	DWAR	1	0.32679739
+Barboni_a392	Juniperus-type	Juniperus-type	TRSH	1	0.32679739
+Barboni_a392	Olea-type	Olea-type	TRSH	27	8.8235294
+Barboni_a392	Pinus-type	Pinus-type	TRSH	107	34.96732
+Barboni_a392	Quercus evergreen	Quercus ilex-type	TRSH	30	9.8039216
+Barboni_a392	Quercus deciduous	Quercus robur-type	TRSH	5	1.6339869
+Barboni_a392	Apiaceae undifferentiated	Apiaceae	HERB	1	0.32679739
+Barboni_a392	Artemisia-type	Artemisia-type	HERB	45	14.705882
+Barboni_a392	Asteraceae Liguliflorae	Asteraceae subf. Cichorioideae	HERB	5	1.6339869
+Barboni_a392	Caryophyllaceae undifferentiated	Caryophyllaceae undifferentiated	HERB	1	0.32679739
+Barboni_a392	Chenopodiaceae undifferentiated	Chenopodiaceae undifferentiated	HERB	4	1.3071895
+Barboni_a392	Cistus-type	Cistus-type	HERB	1	0.32679739
+Barboni_a392	Ephedra-type	Ephedra-type	HERB	1	0.32679739
+Barboni_a392	Lamiaceae undifferentiated	Lamiaceae undifferentiated	HERB	15	4.9019608
+Barboni_a392	Anthemis-type	Matricaria-type	HERB	4	1.3071895
+Barboni_a392	Plantago-type	Plantago-type	HERB	10	3.2679739
+Barboni_a392	Poaceae	Poaceae	HERB	26	8.496732
+Barboni_a392	Reseda	Reseda	HERB	2	0.65359477
+Barboni_a392	Rosmarinus	Rosmarinus	HERB	2	0.65359477
+Barboni_a392	Rumex-type	Rumex-type	HERB	1	0.32679739
+Barboni_a392	Cyperaceae undifferentiated	Cyperaceae undifferentiated	AQUA	1	0.32679739
+Barboni_a392	Fabaceae undifferentiated	Fabaceae undifferentiated	INUN	5	

@@ -1,31 +1,31 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Theuerkauf_a35	4	118	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1085	10.875576
-1	Theuerkauf_a35	2123	156	150	Betula pubescens-type	Betula pubescens-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1085	14.37788
-2	Theuerkauf_a35	3209	15	3209	Calluna	Calluna	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	1085	1.3824885
-3	Theuerkauf_a35	7	7	7	Carpinus	Carpinus betulus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1085	0.64516129
-4	Theuerkauf_a35	9	39	9	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1085	3.59447
-5	Theuerkauf_a35	12	27	12	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1085	2.4884793
-6	Theuerkauf_a35	13	1	13	Fraxinus	Fraxinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1085	0.092165899
-7	Theuerkauf_a35	18	4	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1085	0.36866359
-8	Theuerkauf_a35	796	453	148	Pinus diploxylon	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1085	41.751152
-9	Theuerkauf_a35	208	71	208	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1085	6.5437788
-10	Theuerkauf_a35	25	4	25	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1085	0.36866359
-11	Theuerkauf_a35	29	1	29	Tilia	Tilia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1085	0.092165899
-12	Theuerkauf_a35	31	6	31	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1085	0.55299539
-13	Theuerkauf_a35	601	1	36	Umbelliferae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	1085	0.092165899
-14	Theuerkauf_a35	37	7	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	1085	0.64516129
-15	Theuerkauf_a35	3164	4	3164	Avena/Triticum-group	Avena/Triticum-group	HERB	Herbs	HERB	True	True	Herbs	5	1085	0.36866359
-16	Theuerkauf_a35	129	25	50	Secale	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	1085	2.3041475
-17	Theuerkauf_a35	61	11	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	1085	1.0138249
-18	Theuerkauf_a35	1582	4	274	Hordeum	Hordeum-type	HERB	Herbs	HERB	True	True	Herbs	5	1085	0.36866359
-19	Theuerkauf_a35	87	9	87	Plantago lanceolata	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	1085	0.82949309
-20	Theuerkauf_a35	1611	72	106	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	1085	6.6359447
-21	Theuerkauf_a35	645	5	121	Rumex acetosa-type	Rumex acetosa-type	HERB	Herbs	HERB	True	True	Herbs	5	1085	0.46082949
-22	Theuerkauf_a35	4061	21	4061	Rumex acetosa/R. acetosella	Rumex acetosa/R. acetosella	HERB	Herbs	HERB	True	True	Herbs	5	1085	1.9354839
-23	Theuerkauf_a35	122	16	122	Rumex acetosella	Rumex acetosella	HERB	Herbs	HERB	True	True	Herbs	5	1085	1.4746544
-24	Theuerkauf_a35	1413	2	262	Sinapis-type	Sinapis-type	HERB	Herbs	HERB	True	True	Herbs	5	1085	0.1843318
-25	Theuerkauf_a35	142	4	142	Urtica dioica	Urtica dioica	HERB	Herbs	HERB	True	True	Herbs	5	1085	0.36866359
-26	Theuerkauf_a35	3748	2	3748	Monolete fern spores (psilate)	Monolete fern spores (psilate)	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	1085	0.1843318
-27	Theuerkauf_a35	1980	2	1850	Myriophyllum alterniflorum	Myriophyllum alterniflorum	AQUA	Aquatics	AQUA	False	True	Aquatics	7	1085	0.1843318
-28	Theuerkauf_a35	3631	5	197	Indeterminable: unknown	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	1085	
-29	Theuerkauf_a35	165	2	165	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	1085	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Theuerkauf_a35	Alnus	Alnus	TRSH	118	10.875576
+Theuerkauf_a35	Betula pubescens-type	Betula pubescens-type	TRSH	156	14.37788
+Theuerkauf_a35	Calluna	Calluna	DWAR	15	1.3824885
+Theuerkauf_a35	Carpinus	Carpinus betulus	TRSH	7	0.64516129
+Theuerkauf_a35	Corylus	Corylus	TRSH	39	3.59447
+Theuerkauf_a35	Fagus	Fagus	TRSH	27	2.4884793
+Theuerkauf_a35	Fraxinus	Fraxinus	TRSH	1	0.092165899
+Theuerkauf_a35	Picea	Picea	TRSH	4	0.36866359
+Theuerkauf_a35	Pinus diploxylon	Pinus sylvestris-type	TRSH	453	41.751152
+Theuerkauf_a35	Quercus	Quercus	TRSH	71	6.5437788
+Theuerkauf_a35	Salix	Salix	TRSH	4	0.36866359
+Theuerkauf_a35	Tilia	Tilia	TRSH	1	0.092165899
+Theuerkauf_a35	Ulmus	Ulmus/Zelkova	TRSH	6	0.55299539
+Theuerkauf_a35	Umbelliferae	Apiaceae	HERB	1	0.092165899
+Theuerkauf_a35	Artemisia	Artemisia	HERB	7	0.64516129
+Theuerkauf_a35	Avena/Triticum-group	Avena/Triticum-group	HERB	4	0.36866359
+Theuerkauf_a35	Secale	Cerealia-type	HERB	25	2.3041475
+Theuerkauf_a35	Cyperaceae	Cyperaceae	HERB	11	1.0138249
+Theuerkauf_a35	Hordeum	Hordeum-type	HERB	4	0.36866359
+Theuerkauf_a35	Plantago lanceolata	Plantago lanceolata-type	HERB	9	0.82949309
+Theuerkauf_a35	Gramineae	Poaceae	HERB	72	6.6359447
+Theuerkauf_a35	Rumex acetosa-type	Rumex acetosa-type	HERB	5	0.46082949
+Theuerkauf_a35	Rumex acetosa/R. acetosella	Rumex acetosa/R. acetosella	HERB	21	1.9354839
+Theuerkauf_a35	Rumex acetosella	Rumex acetosella	HERB	16	1.4746544
+Theuerkauf_a35	Sinapis-type	Sinapis-type	HERB	2	0.1843318
+Theuerkauf_a35	Urtica dioica	Urtica dioica	HERB	4	0.36866359
+Theuerkauf_a35	Myriophyllum alterniflorum	Myriophyllum alterniflorum	AQUA	2	0.1843318
+Theuerkauf_a35	Indeterminable: unknown	Indeterminable: unknown	INUN	5	
+Theuerkauf_a35	Monolete fern spores (psilate)	Monolete fern spores (psilate)	VACR	2	0.1843318
+Theuerkauf_a35	Sphagnum	Sphagnum	NOPO	2	

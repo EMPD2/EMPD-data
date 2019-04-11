@@ -1,22 +1,22 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Bjune_a164	4	5	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	544	0.91911765
-1	Bjune_a164	5	187	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	544	34.375
-2	Bjune_a164	3411	1	3411	Corylus/Myrica	Corylus/Myrica	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	544	0.18382353
-3	Bjune_a164	3498	1	3498	Ericaceae-type	Ericaceae-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	544	0.18382353
-4	Bjune_a164	952	4	85	Juniperus communis	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	544	0.73529412
-5	Bjune_a164	18	21	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	544	3.8602941
-6	Bjune_a164	799	308	148	Pinus sylvestris	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	544	56.617647
-7	Bjune_a164	4088	1	4088	Salix undifferentiated	Salix undifferentiated	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	544	0.18382353
-8	Bjune_a164	3099	2	3099	Anemone nemorosa-type/Hepatica nobilis	Anemone nemorosa-type/Hepatica nobilis	HERB	Herbs	HERB	True	True	Herbs	5	544	0.36764706
-9	Bjune_a164	37	2	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	544	0.36764706
-10	Bjune_a164	3573	10	3573	Gramineae undifferentiated	Gramineae undifferentiated	HERB	Herbs	HERB	True	True	Herbs	5	544	1.8382353
-11	Bjune_a164	87	1	87	Plantago lanceolata	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	544	0.18382353
-12	Bjune_a164	976	1	203	Lycopodium annotinum	Lycopodium annotinum-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	544	0.18382353
-13	Bjune_a164	674	80	674	Botryococcus	Botryococcus	ALGA	Algae	AQUA	False	True	Aquatics	7	544	14.705882
-14	Bjune_a164	3227	10	3227	Carex-type	Carex-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	544	1.8382353
-15	Bjune_a164	3431	3	3431	Cyperaceae undifferentiated	Cyperaceae undifferentiated	AQUA	Aquatics	AQUA	False	True	Aquatics	7	544	0.55147059
-16	Bjune_a164	1600	4	1600	Isoetes lacustris	Isoetes lacustris	AQPT	Aquatic Pteridophyta	AQUA	False	True	Aquatics	7	544	0.73529412
-17	Bjune_a164	3626	1	1009	Indeterminable: concealed	Indeterminable: concealed	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	544	
-18	Bjune_a164	3627	1	1334	Indeterminable: corroded	Indeterminable: corroded	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	544	
-19	Bjune_a164	729	1	729	Indeterminable: degraded	Indeterminable: degraded	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	544	
-20	Bjune_a164	165	3	165	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	544	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Bjune_a164	Alnus	Alnus	TRSH	5	0.91911765
+Bjune_a164	Betula	Betula	TRSH	187	34.375
+Bjune_a164	Corylus/Myrica	Corylus/Myrica	TRSH	1	0.18382353
+Bjune_a164	Ericaceae-type	Ericaceae-type	DWAR	1	0.18382353
+Bjune_a164	Juniperus communis	Juniperus communis-type	TRSH	4	0.73529412
+Bjune_a164	Picea	Picea	TRSH	21	3.8602941
+Bjune_a164	Pinus sylvestris	Pinus sylvestris-type	TRSH	308	56.617647
+Bjune_a164	Salix undifferentiated	Salix undifferentiated	TRSH	1	0.18382353
+Bjune_a164	Anemone nemorosa-type/Hepatica nobilis	Anemone nemorosa-type/Hepatica nobilis	HERB	2	0.36764706
+Bjune_a164	Artemisia	Artemisia	HERB	2	0.36764706
+Bjune_a164	Gramineae undifferentiated	Gramineae undifferentiated	HERB	10	1.8382353
+Bjune_a164	Plantago lanceolata	Plantago lanceolata-type	HERB	1	0.18382353
+Bjune_a164	Botryococcus	Botryococcus	ALGA	80	14.705882
+Bjune_a164	Carex-type	Carex-type	AQUA	10	1.8382353
+Bjune_a164	Cyperaceae undifferentiated	Cyperaceae undifferentiated	AQUA	3	0.55147059
+Bjune_a164	Isoetes lacustris	Isoetes lacustris	AQPT	4	0.73529412
+Bjune_a164	Indeterminable: concealed	Indeterminable: concealed	INUN	1	
+Bjune_a164	Indeterminable: corroded	Indeterminable: corroded	INUN	1	
+Bjune_a164	Indeterminable: degraded	Indeterminable: degraded	INUN	1	
+Bjune_a164	Lycopodium annotinum	Lycopodium annotinum-type	VACR	1	0.18382353
+Bjune_a164	Sphagnum	Sphagnum	NOPO	3	

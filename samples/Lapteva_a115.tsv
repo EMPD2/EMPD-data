@@ -1,29 +1,29 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Lapteva_a115	2115	1	151	Alnus viridis subsp. fruticosa	Alnus viridis	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1161	0.086132644
-1	Lapteva_a115	2113	28	149	Betula nana-type	Betula nana-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	1161	2.411714
-2	Lapteva_a115	2123	38	150	Betula pubescens-type	Betula pubescens-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1161	3.2730405
-3	Lapteva_a115	11	3	11	Ericaceae	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	1161	0.25839793
-4	Lapteva_a115	18	11	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1161	0.94745909
-5	Lapteva_a115	1371	5	147	Pinus sibirica	Pinus cembra-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1161	0.43066322
-6	Lapteva_a115	799	48	148	Pinus sylvestris	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1161	4.1343669
-7	Lapteva_a115	25	45	25	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1161	3.875969
-8	Lapteva_a115	37	5	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	1161	0.43066322
-9	Lapteva_a115	3223	1	1713	Cardamine-type	Cardamine-type	HERB	Herbs	HERB	True	True	Herbs	5	1161	0.086132644
-10	Lapteva_a115	52	2	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	1161	0.17226529
-11	Lapteva_a115	3383	10	3383	Compositae subfam. Cichorioideae	Compositae subfam. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	1161	0.86132644
-12	Lapteva_a115	61	143	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	1161	12.316968
-13	Lapteva_a115	106	298	106	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	1161	25.667528
-14	Lapteva_a115	156	191	156	Ranunculaceae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	1161	16.451335
-15	Lapteva_a115	738	3	120	Rumex	Rumex/Oxyria	HERB	Herbs	HERB	True	True	Herbs	5	1161	0.25839793
-16	Lapteva_a115	168	325	168	Bryales	Bryophyte spores	BRYO	Bryophytes	VACR	True	True	Ferns	6	1161	27.993109
-17	Lapteva_a115	204	1	204	Huperzia selago-type	Huperzia selago	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	1161	0.086132644
-18	Lapteva_a115	202	1	202	Lycopodium clavatum-type	Lycopodium clavatum-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	1161	0.086132644
-19	Lapteva_a115	3962	2	3962	Pteridophyta undifferentiated	Pteridophyta undifferentiated	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	1161	0.17226529
-20	Lapteva_a115	3194	2	3194	Botryococcus pila	Botryococcus pila	ALGA	Algae	AQUA	False	True	Aquatics	7	1161	0.17226529
-21	Lapteva_a115	673	3	673	Pediastrum	Pediastrum	ALGA	Algae	AQUA	False	True	Aquatics	7	1161	0.25839793
-22	Lapteva_a115	2134	1	2134	Pediastrum kawraiskyi	Pediastrum kawraiskyi	ALGA	Algae	AQUA	False	True	Aquatics	7	1161	0.086132644
-23	Lapteva_a115	668	1	133	Potamogeton	Potamogeton-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	1161	0.086132644
-24	Lapteva_a115	3630	27	3630	Indeterminable: undifferentiated	Indeterminable: undifferentiated	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	1161	
-25	Lapteva_a115	3819	9	3819	Pediastrum boryanum var. longicorne	Pediastrum boryanum var. longicorne	CHLO	Chlorophytes	NOPO	False	False	Nonpollen	30	1161	
-26	Lapteva_a115	165	4	165	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	1161	
-27	Lapteva_a115	4317	1	4317	Zygnema	Zygnema	CHLO	Chlorophytes	NOPO	False	False	Nonpollen	30	1161	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Lapteva_a115	Alnus viridis subsp. fruticosa	Alnus viridis	TRSH	1	0.086132644
+Lapteva_a115	Betula nana-type	Betula nana-type	DWAR	28	2.411714
+Lapteva_a115	Betula pubescens-type	Betula pubescens-type	TRSH	38	3.2730405
+Lapteva_a115	Ericaceae	Ericales (tetrad)	DWAR	3	0.25839793
+Lapteva_a115	Picea	Picea	TRSH	11	0.94745909
+Lapteva_a115	Pinus sibirica	Pinus cembra-type	TRSH	5	0.43066322
+Lapteva_a115	Pinus sylvestris	Pinus sylvestris-type	TRSH	48	4.1343669
+Lapteva_a115	Salix	Salix	TRSH	45	3.875969
+Lapteva_a115	Artemisia	Artemisia	HERB	5	0.43066322
+Lapteva_a115	Cardamine-type	Cardamine-type	HERB	1	0.086132644
+Lapteva_a115	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	2	0.17226529
+Lapteva_a115	Compositae subfam. Cichorioideae	Compositae subfam. Cichorioideae	HERB	10	0.86132644
+Lapteva_a115	Cyperaceae	Cyperaceae	HERB	143	12.316968
+Lapteva_a115	Poaceae	Poaceae	HERB	298	25.667528
+Lapteva_a115	Ranunculaceae	Ranunculaceae	HERB	191	16.451335
+Lapteva_a115	Rumex	Rumex/Oxyria	HERB	3	0.25839793
+Lapteva_a115	Botryococcus pila	Botryococcus pila	ALGA	2	0.17226529
+Lapteva_a115	Pediastrum	Pediastrum	ALGA	3	0.25839793
+Lapteva_a115	Pediastrum kawraiskyi	Pediastrum kawraiskyi	ALGA	1	0.086132644
+Lapteva_a115	Potamogeton	Potamogeton-type	AQUA	1	0.086132644
+Lapteva_a115	Indeterminable: undifferentiated	Indeterminable: undifferentiated	INUN	27	
+Lapteva_a115	Bryales	Bryophyte spores	BRYO	325	27.993109
+Lapteva_a115	Huperzia selago-type	Huperzia selago	VACR	1	0.086132644
+Lapteva_a115	Lycopodium clavatum-type	Lycopodium clavatum-type	VACR	1	0.086132644
+Lapteva_a115	Pediastrum boryanum var. longicorne	Pediastrum boryanum var. longicorne	CHLO	9	
+Lapteva_a115	Pteridophyta undifferentiated	Pteridophyta undifferentiated	VACR	2	0.17226529
+Lapteva_a115	Sphagnum	Sphagnum	NOPO	4	
+Lapteva_a115	Zygnema	Zygnema	CHLO	1	

@@ -1,31 +1,31 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Barboni_a519	4	2	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1315	0.15209125
-1	Barboni_a519	9	2	9	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1315	0.15209125
-2	Barboni_a519	85	3	85	Juniperus	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1315	0.22813688
-3	Barboni_a519	455	1	95	Olea	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1315	0.076045627
-4	Barboni_a519	1624	1	97	Ostrya/Carpinus	Ostrya/Carpinus orientalis	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1315	0.076045627
-5	Barboni_a519	19	21	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1315	1.5969582
-6	Barboni_a519	1061	6	110	Quercus cerris-type	Quercus cerris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1315	0.45627376
-7	Barboni_a519	3990	4	3990	Quercus undifferentiated	Quercus undifferentiated	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1315	0.30418251
-8	Barboni_a519	512	1	430	Tamarix	Tamarix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1315	0.076045627
-9	Barboni_a519	3134	2	3134	Artemisia herba-alba-type	Artemisia herba-alba-type	HERB	Herbs	HERB	True	True	Herbs	5	1315	0.15209125
-10	Barboni_a519	3135	2	3135	Artemisia vulgaris-type	Artemisia vulgaris-type	HERB	Herbs	HERB	True	True	Herbs	5	1315	0.15209125
-11	Barboni_a519	3245	3	3245	Centaurea solstitialis-type	Centaurea solstitialis-type	HERB	Herbs	HERB	True	True	Herbs	5	1315	0.22813688
-12	Barboni_a519	1075	3	50	Cerealia-type	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	1315	0.22813688
-13	Barboni_a519	52	712	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	1315	54.144487
-14	Barboni_a519	3383	20	3383	Compositae subfam. Cichorioideae	Compositae subfam. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	1315	1.5209125
-15	Barboni_a519	61	19	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	1315	1.4448669
-16	Barboni_a519	3548	1	3548	Galium-type	Galium-type	HERB	Herbs	HERB	True	True	Herbs	5	1315	0.076045627
-17	Barboni_a519	622	1	622	Lotus-type	Lotus-type	HERB	Herbs	HERB	True	True	Herbs	5	1315	0.076045627
-18	Barboni_a519	1082	1	34	Matricaria-type	Matricaria-type	HERB	Herbs	HERB	True	True	Herbs	5	1315	0.076045627
-19	Barboni_a519	2810	333	58	Plantago coronopus-type	Plantago coronopus-type	HERB	Herbs	HERB	True	True	Herbs	5	1315	25.323194
-20	Barboni_a519	3879	1	3879	Plantago media-type	Plantago media-type	HERB	Herbs	HERB	True	True	Herbs	5	1315	0.076045627
-21	Barboni_a519	1611	149	106	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	1315	11.330798
-22	Barboni_a519	1088	10	278	Polygonum aviculare-type	Polygonum aviculare-type	HERB	Herbs	HERB	True	True	Herbs	5	1315	0.76045627
-23	Barboni_a519	126	2	126	Sanguisorba minor	Sanguisorba minor-type	HERB	Herbs	HERB	True	True	Herbs	5	1315	0.15209125
-24	Barboni_a519	1428	2	134	Spergularia	Spergularia-type	HERB	Herbs	HERB	True	True	Herbs	5	1315	0.15209125
-25	Barboni_a519	1294	5	140	Trifolium-type	Trifolium-type	HERB	Herbs	HERB	True	True	Herbs	5	1315	0.38022814
-26	Barboni_a519	1054	5	1054	Xanthium	Xanthium	HERB	Herbs	HERB	True	True	Herbs	5	1315	0.38022814
-27	Barboni_a519	1257	1	783	Dryopteris-type	Dryopteris-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	1315	0.076045627
-28	Barboni_a519	1279	2	1279	Pteridium	Pteridium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	1315	0.15209125
-29	Barboni_a519	1096	690	196	Sparganium-type	Sparganium-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	1315	52.471483
+samplename	original_varname	acc_varname	groupid	count	percentage
+Barboni_a519	Alnus	Alnus	TRSH	2	0.15209125
+Barboni_a519	Corylus	Corylus	TRSH	2	0.15209125
+Barboni_a519	Juniperus	Juniperus communis-type	TRSH	3	0.22813688
+Barboni_a519	Olea	Olea europaea	TRSH	1	0.076045627
+Barboni_a519	Ostrya/Carpinus	Ostrya/Carpinus orientalis	TRSH	1	0.076045627
+Barboni_a519	Pinus	Pinus	TRSH	21	1.5969582
+Barboni_a519	Quercus cerris-type	Quercus cerris-type	TRSH	6	0.45627376
+Barboni_a519	Quercus undifferentiated	Quercus undifferentiated	TRSH	4	0.30418251
+Barboni_a519	Tamarix	Tamarix	TRSH	1	0.076045627
+Barboni_a519	Artemisia herba-alba-type	Artemisia herba-alba-type	HERB	2	0.15209125
+Barboni_a519	Artemisia vulgaris-type	Artemisia vulgaris-type	HERB	2	0.15209125
+Barboni_a519	Centaurea solstitialis-type	Centaurea solstitialis-type	HERB	3	0.22813688
+Barboni_a519	Cerealia-type	Cerealia-type	HERB	3	0.22813688
+Barboni_a519	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	712	54.144487
+Barboni_a519	Compositae subfam. Cichorioideae	Compositae subfam. Cichorioideae	HERB	20	1.5209125
+Barboni_a519	Cyperaceae	Cyperaceae	HERB	19	1.4448669
+Barboni_a519	Galium-type	Galium-type	HERB	1	0.076045627
+Barboni_a519	Lotus-type	Lotus-type	HERB	1	0.076045627
+Barboni_a519	Matricaria-type	Matricaria-type	HERB	1	0.076045627
+Barboni_a519	Plantago coronopus-type	Plantago coronopus-type	HERB	333	25.323194
+Barboni_a519	Plantago media-type	Plantago media-type	HERB	1	0.076045627
+Barboni_a519	Gramineae	Poaceae	HERB	149	11.330798
+Barboni_a519	Polygonum aviculare-type	Polygonum aviculare-type	HERB	10	0.76045627
+Barboni_a519	Sanguisorba minor	Sanguisorba minor-type	HERB	2	0.15209125
+Barboni_a519	Spergularia	Spergularia-type	HERB	2	0.15209125
+Barboni_a519	Trifolium-type	Trifolium-type	HERB	5	0.38022814
+Barboni_a519	Xanthium	Xanthium	HERB	5	0.38022814
+Barboni_a519	Sparganium-type	Sparganium-type	AQUA	690	52.471483
+Barboni_a519	Dryopteris-type	Dryopteris-type	VACR	1	0.076045627
+Barboni_a519	Pteridium	Pteridium	VACR	2	0.15209125

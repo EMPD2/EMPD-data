@@ -1,29 +1,29 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Mazier_b51	1	2	1	Abies	Abies	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	432	0.46296296
-1	Mazier_b51	4	7	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	432	1.6203704
-2	Mazier_b51	5	3	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	432	0.69444444
-3	Mazier_b51	207	1	207	Buxus	Buxus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	432	0.23148148
-4	Mazier_b51	3209	1	3209	Calluna	Calluna	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	432	0.23148148
-5	Mazier_b51	454	1	47	Castanea	Castanea sativa	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	432	0.23148148
-6	Mazier_b51	9	9	9	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	432	2.0833333
-7	Mazier_b51	11	3	11	Ericaceae	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	432	0.69444444
-8	Mazier_b51	12	41	12	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	432	9.4907407
-9	Mazier_b51	13	2	13	Fraxinus	Fraxinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	432	0.46296296
-10	Mazier_b51	455	3	95	Olea	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	432	0.69444444
-11	Mazier_b51	19	47	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	432	10.87963
-12	Mazier_b51	590	2	22	Quercus ilex	Quercus ilex-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	432	0.46296296
-13	Mazier_b51	21	51	21	Quercus deciduous	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	432	11.805556
-14	Mazier_b51	115	1	115	Rhamnus	Rhamnus-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	432	0.23148148
-15	Mazier_b51	118	1	118	Rosaceae	Rosaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	432	0.23148148
-16	Mazier_b51	25	1	25	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	432	0.23148148
-17	Mazier_b51	31	1	31	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	432	0.23148148
-18	Mazier_b51	772	1	180	Asteroideae	Asteraceae subf. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	432	0.23148148
-19	Mazier_b51	42	4	42	Brassicaceae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	432	0.92592593
-20	Mazier_b51	52	2	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	432	0.46296296
-21	Mazier_b51	61	51	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	432	11.805556
-22	Mazier_b51	89	1	89	Liliaceae	Liliaceae-type	HERB	Herbs	HERB	True	True	Herbs	5	432	0.23148148
-23	Mazier_b51	87	1	87	Plantago lanceolata	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	432	0.23148148
-24	Mazier_b51	106	184	106	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	432	42.592593
-25	Mazier_b51	637	9	524	Potentilla-type	Potentilla-type	HERB	Herbs	HERB	True	True	Herbs	5	432	2.0833333
-26	Mazier_b51	119	1	119	Rubiaceae	Rubiaceae	HERB	Herbs	HERB	True	True	Herbs	5	432	0.23148148
-27	Mazier_b51	4061	1	4061	Rumex acetosa/R. acetosella	Rumex acetosa/R. acetosella	HERB	Herbs	HERB	True	True	Herbs	5	432	0.23148148
+samplename	original_varname	acc_varname	groupid	count	percentage
+Mazier_b51	Abies	Abies	TRSH	2	0.46296296
+Mazier_b51	Alnus	Alnus	TRSH	7	1.6203704
+Mazier_b51	Betula	Betula	TRSH	3	0.69444444
+Mazier_b51	Buxus	Buxus	TRSH	1	0.23148148
+Mazier_b51	Calluna	Calluna	DWAR	1	0.23148148
+Mazier_b51	Castanea	Castanea sativa	TRSH	1	0.23148148
+Mazier_b51	Corylus	Corylus	TRSH	9	2.0833333
+Mazier_b51	Ericaceae	Ericales (tetrad)	DWAR	3	0.69444444
+Mazier_b51	Fagus	Fagus	TRSH	41	9.4907407
+Mazier_b51	Fraxinus	Fraxinus	TRSH	2	0.46296296
+Mazier_b51	Olea	Olea europaea	TRSH	3	0.69444444
+Mazier_b51	Pinus	Pinus	TRSH	47	10.87963
+Mazier_b51	Quercus ilex	Quercus ilex-type	TRSH	2	0.46296296
+Mazier_b51	Quercus deciduous	Quercus robur-type	TRSH	51	11.805556
+Mazier_b51	Rhamnus	Rhamnus-type	TRSH	1	0.23148148
+Mazier_b51	Rosaceae	Rosaceae	TRSH	1	0.23148148
+Mazier_b51	Salix	Salix	TRSH	1	0.23148148
+Mazier_b51	Ulmus	Ulmus/Zelkova	TRSH	1	0.23148148
+Mazier_b51	Asteroideae	Asteraceae subf. Asteroideae	HERB	1	0.23148148
+Mazier_b51	Brassicaceae	Brassicaceae	HERB	4	0.92592593
+Mazier_b51	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	2	0.46296296
+Mazier_b51	Cyperaceae	Cyperaceae	HERB	51	11.805556
+Mazier_b51	Liliaceae	Liliaceae-type	HERB	1	0.23148148
+Mazier_b51	Plantago lanceolata	Plantago lanceolata-type	HERB	1	0.23148148
+Mazier_b51	Poaceae	Poaceae	HERB	184	42.592593
+Mazier_b51	Potentilla-type	Potentilla-type	HERB	9	2.0833333
+Mazier_b51	Rubiaceae	Rubiaceae	HERB	1	0.23148148
+Mazier_b51	Rumex acetosa/R. acetosella	Rumex acetosa/R. acetosella	HERB	1	0.23148148

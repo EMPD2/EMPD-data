@@ -1,29 +1,29 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Bjune_a39	4	4	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	514	0.77821012
-1	Bjune_a39	5	205	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	514	39.883268
-2	Bjune_a39	470	5	470	Calluna vulgaris	Calluna vulgaris	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	514	0.97276265
-3	Bjune_a39	3498	2	3498	Ericaceae-type	Ericaceae-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	514	0.38910506
-4	Bjune_a39	952	16	85	Juniperus communis	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	514	3.1128405
-5	Bjune_a39	18	97	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	514	18.871595
-6	Bjune_a39	799	128	148	Pinus sylvestris	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	514	24.902724
-7	Bjune_a39	4088	5	4088	Salix undifferentiated	Salix undifferentiated	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	514	0.97276265
-8	Bjune_a39	953	1	953	Vaccinium-type	Vaccinium-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	514	0.19455253
-9	Bjune_a39	37	1	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	514	0.19455253
-10	Bjune_a39	3573	21	3573	Gramineae undifferentiated	Gramineae undifferentiated	HERB	Herbs	HERB	True	True	Herbs	5	514	4.0856031
-11	Bjune_a39	486	1	486	Melampyrum	Melampyrum	HERB	Herbs	HERB	True	True	Herbs	5	514	0.19455253
-12	Bjune_a39	2120	2	192	Rubus chamaemorus	Rubus chamaemorus	HERB	Herbs	HERB	True	True	Herbs	5	514	0.38910506
-13	Bjune_a39	121	3	121	Rumex acetosa	Rumex acetosa-type	HERB	Herbs	HERB	True	True	Herbs	5	514	0.58365759
-14	Bjune_a39	1408	1	122	Rumex acetosella-type	Rumex acetosella	HERB	Herbs	HERB	True	True	Herbs	5	514	0.19455253
-15	Bjune_a39	1257	19	783	Dryopteris-type	Dryopteris-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	514	3.6964981
-16	Bjune_a39	2129	2	1330	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	514	0.38910506
-17	Bjune_a39	976	1	203	Lycopodium annotinum	Lycopodium annotinum-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	514	0.19455253
-18	Bjune_a39	674	51	674	Botryococcus	Botryococcus	ALGA	Algae	AQUA	False	True	Aquatics	7	514	9.922179
-19	Bjune_a39	3227	15	3227	Carex-type	Carex-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	514	2.9182879
-20	Bjune_a39	3431	8	3431	Cyperaceae undifferentiated	Cyperaceae undifferentiated	AQUA	Aquatics	AQUA	False	True	Aquatics	7	514	1.5564202
-21	Bjune_a39	3502	1	3502	Eriophorum-type	Eriophorum-type	HELO	Helophytes	AQUA	False	True	Aquatics	7	514	0.19455253
-22	Bjune_a39	638	1	638	Nymphaea	Nymphaea	AQUA	Aquatics	AQUA	False	True	Aquatics	7	514	0.19455253
-23	Bjune_a39	673	2	673	Pediastrum	Pediastrum	ALGA	Algae	AQUA	False	True	Aquatics	7	514	0.38910506
-24	Bjune_a39	3626	2	1009	Indeterminable: concealed	Indeterminable: concealed	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	514	
-25	Bjune_a39	3627	2	1334	Indeterminable: corroded	Indeterminable: corroded	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	514	
-26	Bjune_a39	3628	1	1934	Indeterminable: crumpled	Indeterminable: crumpled	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	514	
-27	Bjune_a39	165	18	165	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	514	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Bjune_a39	Alnus	Alnus	TRSH	4	0.77821012
+Bjune_a39	Betula	Betula	TRSH	205	39.883268
+Bjune_a39	Calluna vulgaris	Calluna vulgaris	TRSH	5	0.97276265
+Bjune_a39	Ericaceae-type	Ericaceae-type	DWAR	2	0.38910506
+Bjune_a39	Juniperus communis	Juniperus communis-type	TRSH	16	3.1128405
+Bjune_a39	Picea	Picea	TRSH	97	18.871595
+Bjune_a39	Pinus sylvestris	Pinus sylvestris-type	TRSH	128	24.902724
+Bjune_a39	Salix undifferentiated	Salix undifferentiated	TRSH	5	0.97276265
+Bjune_a39	Vaccinium-type	Vaccinium-type	DWAR	1	0.19455253
+Bjune_a39	Artemisia	Artemisia	HERB	1	0.19455253
+Bjune_a39	Gramineae undifferentiated	Gramineae undifferentiated	HERB	21	4.0856031
+Bjune_a39	Melampyrum	Melampyrum	HERB	1	0.19455253
+Bjune_a39	Rubus chamaemorus	Rubus chamaemorus	HERB	2	0.38910506
+Bjune_a39	Rumex acetosa	Rumex acetosa-type	HERB	3	0.58365759
+Bjune_a39	Rumex acetosella-type	Rumex acetosella	HERB	1	0.19455253
+Bjune_a39	Botryococcus	Botryococcus	ALGA	51	9.922179
+Bjune_a39	Carex-type	Carex-type	AQUA	15	2.9182879
+Bjune_a39	Cyperaceae undifferentiated	Cyperaceae undifferentiated	AQUA	8	1.5564202
+Bjune_a39	Eriophorum-type	Eriophorum-type	HELO	1	0.19455253
+Bjune_a39	Nymphaea	Nymphaea	AQUA	1	0.19455253
+Bjune_a39	Pediastrum	Pediastrum	ALGA	2	0.38910506
+Bjune_a39	Indeterminable: concealed	Indeterminable: concealed	INUN	2	
+Bjune_a39	Indeterminable: corroded	Indeterminable: corroded	INUN	2	
+Bjune_a39	Indeterminable: crumpled	Indeterminable: crumpled	INUN	1	
+Bjune_a39	Dryopteris-type	Dryopteris-type	VACR	19	3.6964981
+Bjune_a39	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR	2	0.38910506
+Bjune_a39	Lycopodium annotinum	Lycopodium annotinum-type	VACR	1	0.19455253
+Bjune_a39	Sphagnum	Sphagnum	NOPO	18	

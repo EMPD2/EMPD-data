@@ -1,27 +1,27 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Barboni_a949	1	15	1	Abies	Abies	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	355	4.2253521
-1	Barboni_a949	4	58	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	355	16.338028
-2	Barboni_a949	5	31	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	355	8.7323944
-3	Barboni_a949	207	1	207	Buxus	Buxus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	355	0.28169014
-4	Barboni_a949	9	25	9	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	355	7.0422535
-5	Barboni_a949	12	32	12	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	355	9.0140845
-6	Barboni_a949	13	4	13	Fraxinus	Fraxinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	355	1.1267606
-7	Barboni_a949	1792	2	77	Genista-type	Genista-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	355	0.56338028
-8	Barboni_a949	19	4	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	355	1.1267606
-9	Barboni_a949	1768	73	21	Quercus pubescens-type	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	355	20.56338
-10	Barboni_a949	115	1	115	Rhamnus	Rhamnus-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	355	0.28169014
-11	Barboni_a949	215	1	136	Taxus	Taxus baccata	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	355	0.28169014
-12	Barboni_a949	29	4	29	Tilia	Tilia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	355	1.1267606
-13	Barboni_a949	31	1	31	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	355	0.28169014
-14	Barboni_a949	37	1	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	355	0.28169014
-15	Barboni_a949	61	38	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	355	10.704225
-16	Barboni_a949	3547	1	3547	Galium	Galium	HERB	Herbs	HERB	True	True	Herbs	5	355	0.28169014
-17	Barboni_a949	755	1	755	Leguminosae	Leguminosae	HERB	Herbs	HERB	True	True	Herbs	5	355	0.28169014
-18	Barboni_a949	735	3	286	Plantago	Plantago	HERB	Herbs	HERB	True	True	Herbs	5	355	0.84507042
-19	Barboni_a949	1611	8	106	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	355	2.2535211
-20	Barboni_a949	1376	4	524	Potentilla	Potentilla-type	HERB	Herbs	HERB	True	True	Herbs	5	355	1.1267606
-21	Barboni_a949	738	1	120	Rumex	Rumex/Oxyria	HERB	Herbs	HERB	True	True	Herbs	5	355	0.28169014
-22	Barboni_a949	3751	45	3751	Monolete spore(s)	Monolete spore(s)	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	355	12.676056
-23	Barboni_a949	1279	1	1279	Pteridium	Pteridium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	355	0.28169014
-24	Barboni_a949	924	1	196	Typha angustifolia	Sparganium-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	355	0.28169014
-25	Barboni_a949	165	1	165	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	355	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Barboni_a949	Abies	Abies	TRSH	15	4.2253521
+Barboni_a949	Alnus	Alnus	TRSH	58	16.338028
+Barboni_a949	Betula	Betula	TRSH	31	8.7323944
+Barboni_a949	Buxus	Buxus	TRSH	1	0.28169014
+Barboni_a949	Corylus	Corylus	TRSH	25	7.0422535
+Barboni_a949	Fagus	Fagus	TRSH	32	9.0140845
+Barboni_a949	Fraxinus	Fraxinus	TRSH	4	1.1267606
+Barboni_a949	Genista-type	Genista-type	TRSH	2	0.56338028
+Barboni_a949	Pinus	Pinus	TRSH	4	1.1267606
+Barboni_a949	Quercus pubescens-type	Quercus robur-type	TRSH	73	20.56338
+Barboni_a949	Rhamnus	Rhamnus-type	TRSH	1	0.28169014
+Barboni_a949	Taxus	Taxus baccata	TRSH	1	0.28169014
+Barboni_a949	Tilia	Tilia	TRSH	4	1.1267606
+Barboni_a949	Ulmus	Ulmus/Zelkova	TRSH	1	0.28169014
+Barboni_a949	Artemisia	Artemisia	HERB	1	0.28169014
+Barboni_a949	Cyperaceae	Cyperaceae	HERB	38	10.704225
+Barboni_a949	Galium	Galium	HERB	1	0.28169014
+Barboni_a949	Leguminosae	Leguminosae	HERB	1	0.28169014
+Barboni_a949	Plantago	Plantago	HERB	3	0.84507042
+Barboni_a949	Gramineae	Poaceae	HERB	8	2.2535211
+Barboni_a949	Potentilla	Potentilla-type	HERB	4	1.1267606
+Barboni_a949	Rumex	Rumex/Oxyria	HERB	1	0.28169014
+Barboni_a949	Typha angustifolia	Sparganium-type	AQUA	1	0.28169014
+Barboni_a949	Monolete spore(s)	Monolete spore(s)	VACR	45	12.676056
+Barboni_a949	Pteridium	Pteridium	VACR	1	0.28169014
+Barboni_a949	Sphagnum	Sphagnum	NOPO	1	

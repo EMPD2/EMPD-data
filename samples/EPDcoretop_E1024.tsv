@@ -1,30 +1,30 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	EPDcoretop_E1024	770	7	1	Abies alba	Abies	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	491	1.4256619
-1	EPDcoretop_E1024	4	7	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	491	1.4256619
-2	EPDcoretop_E1024	5	12	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	491	2.4439919
-3	EPDcoretop_E1024	454	1	47	Castanea	Castanea sativa	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	491	0.20366599
-4	EPDcoretop_E1024	9	3	9	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	491	0.61099796
-5	EPDcoretop_E1024	2906	9	11	Ericaceae undifferentiated	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	491	1.8329939
-6	EPDcoretop_E1024	12	3	12	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	491	0.61099796
-7	EPDcoretop_E1024	13	2	13	Fraxinus	Fraxinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	491	0.40733198
-8	EPDcoretop_E1024	18	41	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	491	8.3503055
-9	EPDcoretop_E1024	19	368	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	491	74.949084
-10	EPDcoretop_E1024	208	7	208	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	491	1.4256619
-11	EPDcoretop_E1024	4045	1	4045	Rosaceae undifferentiated	Rosaceae undifferentiated	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	491	0.20366599
-12	EPDcoretop_E1024	25	1	25	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	491	0.20366599
-13	EPDcoretop_E1024	29	1	29	Tilia	Tilia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	491	0.20366599
-14	EPDcoretop_E1024	36	1	36	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	491	0.20366599
-15	EPDcoretop_E1024	37	1	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	491	0.20366599
-16	EPDcoretop_E1024	61	1	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	491	0.20366599
-17	EPDcoretop_E1024	3598	1	1150	Heracleum sphondylium	Heracleum sphondylium	HERB	Herbs	HERB	True	True	Herbs	5	491	0.20366599
-18	EPDcoretop_E1024	735	5	286	Plantago	Plantago	HERB	Herbs	HERB	True	True	Herbs	5	491	1.0183299
-19	EPDcoretop_E1024	105	1	105	Plantago major	Plantago major	HERB	Herbs	HERB	True	True	Herbs	5	491	0.20366599
-20	EPDcoretop_E1024	106	8	106	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	491	1.6293279
-21	EPDcoretop_E1024	965	3	113	Ranunculus acris	Ranunculus acris-type	HERB	Herbs	HERB	True	True	Herbs	5	491	0.61099796
-22	EPDcoretop_E1024	119	1	119	Rubiaceae	Rubiaceae	HERB	Herbs	HERB	True	True	Herbs	5	491	0.20366599
-23	EPDcoretop_E1024	738	1	120	Rumex	Rumex/Oxyria	HERB	Herbs	HERB	True	True	Herbs	5	491	0.20366599
-24	EPDcoretop_E1024	1257	5	783	Dryopteris-type	Dryopteris-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	491	1.0183299
-25	EPDcoretop_E1024	1433	1	248	Caltha-type	Caltha-type	HELO	Helophytes	AQUA	False	True	Aquatics	7	491	0.20366599
-26	EPDcoretop_E1024	1108	1	197	Varia	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	491	
-27	EPDcoretop_E1024	703	24200	703	Lycopodium (added)	Lycopodium (added)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	491	
-28	EPDcoretop_E1024	571	38	571	Lycopodium (counted)	Lycopodium (counted)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	491	
+samplename	original_varname	acc_varname	groupid	count	percentage
+EPDcoretop_E1024	Abies alba	Abies	TRSH	7	1.4256619
+EPDcoretop_E1024	Alnus	Alnus	TRSH	7	1.4256619
+EPDcoretop_E1024	Betula	Betula	TRSH	12	2.4439919
+EPDcoretop_E1024	Castanea	Castanea sativa	TRSH	1	0.20366599
+EPDcoretop_E1024	Corylus	Corylus	TRSH	3	0.61099796
+EPDcoretop_E1024	Ericaceae undifferentiated	Ericales (tetrad)	DWAR	9	1.8329939
+EPDcoretop_E1024	Fagus	Fagus	TRSH	3	0.61099796
+EPDcoretop_E1024	Fraxinus	Fraxinus	TRSH	2	0.40733198
+EPDcoretop_E1024	Picea	Picea	TRSH	41	8.3503055
+EPDcoretop_E1024	Pinus	Pinus	TRSH	368	74.949084
+EPDcoretop_E1024	Quercus	Quercus	TRSH	7	1.4256619
+EPDcoretop_E1024	Rosaceae undifferentiated	Rosaceae undifferentiated	TRSH	1	0.20366599
+EPDcoretop_E1024	Salix	Salix	TRSH	1	0.20366599
+EPDcoretop_E1024	Tilia	Tilia	TRSH	1	0.20366599
+EPDcoretop_E1024	Apiaceae	Apiaceae	HERB	1	0.20366599
+EPDcoretop_E1024	Artemisia	Artemisia	HERB	1	0.20366599
+EPDcoretop_E1024	Cyperaceae	Cyperaceae	HERB	1	0.20366599
+EPDcoretop_E1024	Heracleum sphondylium	Heracleum sphondylium	HERB	1	0.20366599
+EPDcoretop_E1024	Plantago	Plantago	HERB	5	1.0183299
+EPDcoretop_E1024	Plantago major	Plantago major	HERB	1	0.20366599
+EPDcoretop_E1024	Poaceae	Poaceae	HERB	8	1.6293279
+EPDcoretop_E1024	Ranunculus acris	Ranunculus acris-type	HERB	3	0.61099796
+EPDcoretop_E1024	Rubiaceae	Rubiaceae	HERB	1	0.20366599
+EPDcoretop_E1024	Rumex	Rumex/Oxyria	HERB	1	0.20366599
+EPDcoretop_E1024	Caltha-type	Caltha-type	HELO	1	0.20366599
+EPDcoretop_E1024	Varia	Indeterminable: unknown	INUN	1	
+EPDcoretop_E1024	Dryopteris-type	Dryopteris-type	VACR	5	1.0183299
+EPDcoretop_E1024	Lycopodium (added)	Lycopodium (added)	NOPO	24200	
+EPDcoretop_E1024	Lycopodium (counted)	Lycopodium (counted)	NOPO	38	

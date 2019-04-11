@@ -1,17 +1,17 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Dambach_a406	1	1	1	Abies	Abies	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	857	0.11668611
-1	Dambach_a406	4	10	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	857	1.1668611
-2	Dambach_a406	5	5	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	857	0.58343057
-3	Dambach_a406	7	2	7	Carpinus	Carpinus betulus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	857	0.23337223
-4	Dambach_a406	9	1	9	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	857	0.11668611
-5	Dambach_a406	12	329	12	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	857	38.389732
-6	Dambach_a406	18	3	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	857	0.35005834
-7	Dambach_a406	19	411	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	857	47.957993
-8	Dambach_a406	208	3	208	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	857	0.35005834
-9	Dambach_a406	42	1	42	Brassicaceae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	857	0.11668611
-10	Dambach_a406	46	1	46	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	857	0.11668611
-11	Dambach_a406	1075	3	50	Cerealia-type	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	857	0.35005834
-12	Dambach_a406	61	3	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	857	0.35005834
-13	Dambach_a406	1611	80	106	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	857	9.3348891
-14	Dambach_a406	645	1	121	Rumex acetosa-type	Rumex acetosa-type	HERB	Herbs	HERB	True	True	Herbs	5	857	0.11668611
-15	Dambach_a406	167	3	167	Polypodiaceae	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	857	0.35005834
+samplename	original_varname	acc_varname	groupid	count	percentage
+Dambach_a406	Abies	Abies	TRSH	1	0.11668611
+Dambach_a406	Alnus	Alnus	TRSH	10	1.1668611
+Dambach_a406	Betula	Betula	TRSH	5	0.58343057
+Dambach_a406	Carpinus	Carpinus betulus	TRSH	2	0.23337223
+Dambach_a406	Corylus	Corylus	TRSH	1	0.11668611
+Dambach_a406	Fagus	Fagus	TRSH	329	38.389732
+Dambach_a406	Picea	Picea	TRSH	3	0.35005834
+Dambach_a406	Pinus	Pinus	TRSH	411	47.957993
+Dambach_a406	Quercus	Quercus	TRSH	3	0.35005834
+Dambach_a406	Brassicaceae	Brassicaceae	HERB	1	0.11668611
+Dambach_a406	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	1	0.11668611
+Dambach_a406	Cerealia-type	Cerealia-type	HERB	3	0.35005834
+Dambach_a406	Cyperaceae	Cyperaceae	HERB	3	0.35005834
+Dambach_a406	Gramineae	Poaceae	HERB	80	9.3348891
+Dambach_a406	Rumex acetosa-type	Rumex acetosa-type	HERB	1	0.11668611
+Dambach_a406	Polypodiaceae	Monolete fern spores	VACR	3	0.35005834

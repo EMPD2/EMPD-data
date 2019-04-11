@@ -1,28 +1,28 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Miras_e1	1	1	1	Abies	Abies	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	297	0.33670034
-1	Miras_e1	4	13	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	297	4.3771044
-2	Miras_e1	5	29	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	297	9.7643098
-3	Miras_e1	3209	14	3209	Calluna	Calluna	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	297	4.7138047
-4	Miras_e1	454	7	47	Castanea	Castanea sativa	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	297	2.3569024
-5	Miras_e1	9	7	9	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	297	2.3569024
-6	Miras_e1	11	3	11	Ericaceae	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	297	1.010101
-7	Miras_e1	12	8	12	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	297	2.6936027
-8	Miras_e1	13	1	13	Fraxinus	Fraxinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	297	0.33670034
-9	Miras_e1	85	1	85	Juniperus	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	297	0.33670034
-10	Miras_e1	455	1	95	Olea	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	297	0.33670034
-11	Miras_e1	18	15	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	297	5.0505051
-12	Miras_e1	19	61	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	297	20.538721
-13	Miras_e1	208	50	208	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	297	16.835017
-14	Miras_e1	118	7	118	Rosaceae	Rosaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	297	2.3569024
-15	Miras_e1	29	1	29	Tilia	Tilia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	297	0.33670034
-16	Miras_e1	772	2	180	Asteroideae	Asteraceae subf. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	297	0.67340067
-17	Miras_e1	46	1	46	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	297	0.33670034
-18	Miras_e1	832	1	475	Centaurea cyanus	Centaurea cyanus-type	HERB	Herbs	HERB	True	True	Herbs	5	297	0.33670034
-19	Miras_e1	1075	4	50	Cerealia-type	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	297	1.3468013
-20	Miras_e1	69	8	69	Fabaceae	Fabaceae	HERB	Herbs	HERB	True	True	Herbs	5	297	2.6936027
-21	Miras_e1	3547	2	3547	Galium	Galium	HERB	Herbs	HERB	True	True	Herbs	5	297	0.67340067
-22	Miras_e1	735	4	286	Plantago	Plantago	HERB	Herbs	HERB	True	True	Herbs	5	297	1.3468013
-23	Miras_e1	87	4	87	Plantago lanceolata	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	297	1.3468013
-24	Miras_e1	106	52	106	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	297	17.508418
-25	Miras_e1	668	1	133	Potamogeton	Potamogeton-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	297	0.33670034
-26	Miras_e1	1108	8	197	Varia	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	297	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Miras_e1	Abies	Abies	TRSH	1	0.33670034
+Miras_e1	Alnus	Alnus	TRSH	13	4.3771044
+Miras_e1	Betula	Betula	TRSH	29	9.7643098
+Miras_e1	Calluna	Calluna	DWAR	14	4.7138047
+Miras_e1	Castanea	Castanea sativa	TRSH	7	2.3569024
+Miras_e1	Corylus	Corylus	TRSH	7	2.3569024
+Miras_e1	Ericaceae	Ericales (tetrad)	DWAR	3	1.010101
+Miras_e1	Fagus	Fagus	TRSH	8	2.6936027
+Miras_e1	Fraxinus	Fraxinus	TRSH	1	0.33670034
+Miras_e1	Juniperus	Juniperus communis-type	TRSH	1	0.33670034
+Miras_e1	Olea	Olea europaea	TRSH	1	0.33670034
+Miras_e1	Picea	Picea	TRSH	15	5.0505051
+Miras_e1	Pinus	Pinus	TRSH	61	20.538721
+Miras_e1	Quercus	Quercus	TRSH	50	16.835017
+Miras_e1	Rosaceae	Rosaceae	TRSH	7	2.3569024
+Miras_e1	Tilia	Tilia	TRSH	1	0.33670034
+Miras_e1	Asteroideae	Asteraceae subf. Asteroideae	HERB	2	0.67340067
+Miras_e1	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	1	0.33670034
+Miras_e1	Centaurea cyanus	Centaurea cyanus-type	HERB	1	0.33670034
+Miras_e1	Cerealia-type	Cerealia-type	HERB	4	1.3468013
+Miras_e1	Fabaceae	Fabaceae	HERB	8	2.6936027
+Miras_e1	Galium	Galium	HERB	2	0.67340067
+Miras_e1	Plantago	Plantago	HERB	4	1.3468013
+Miras_e1	Plantago lanceolata	Plantago lanceolata-type	HERB	4	1.3468013
+Miras_e1	Poaceae	Poaceae	HERB	52	17.508418
+Miras_e1	Potamogeton	Potamogeton-type	AQUA	1	0.33670034
+Miras_e1	Varia	Indeterminable: unknown	INUN	8	

@@ -1,21 +1,21 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Barboni_a1311	3084	1	3084	Alnus-type	Alnus-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	562	0.17793594
-1	Barboni_a1311	3410	2	3410	Corylus-type	Corylus-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	562	0.35587189
-2	Barboni_a1311	2433	3	64	Ephedra fragilis-type	Ephedra fragilis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	562	0.53380783
-3	Barboni_a1311	12	1	12	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	562	0.17793594
-4	Barboni_a1311	749	17	28	Juniperus-type	Juniperus-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	562	3.024911
-5	Barboni_a1311	3783	34	3783	Olea-type	Olea-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	562	6.0498221
-6	Barboni_a1311	3837	2	3837	Phillyrea-type	Phillyrea-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	562	0.35587189
-7	Barboni_a1311	3863	136	3863	Pinus-type	Pinus-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	562	24.199288
-8	Barboni_a1311	3867	2	3867	Pistacia-type	Pistacia-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	562	0.35587189
-9	Barboni_a1311	2801	1	110	Quercus suber-type	Quercus cerris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	562	0.17793594
-10	Barboni_a1311	1062	38	22	Quercus ilex-type	Quercus ilex-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	562	6.7615658
-11	Barboni_a1311	3136	37	3136	Artemisia-type	Artemisia-type	HERB	Herbs	HERB	True	True	Herbs	5	562	6.5836299
-12	Barboni_a1311	1347	7	53	Asteraceae Liguliflorae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	562	1.2455516
-13	Barboni_a1311	2291	4	1469	Bidens-type	Bidens-type	HERB	Herbs	HERB	True	True	Herbs	5	562	0.71174377
-14	Barboni_a1311	3196	2	3196	Brassicaceae undifferentiated	Brassicaceae undifferentiated	HERB	Herbs	HERB	True	True	Herbs	5	562	0.35587189
-15	Barboni_a1311	3348	220	3348	Chenopodiaceae undifferentiated	Chenopodiaceae undifferentiated	HERB	Herbs	HERB	True	True	Herbs	5	562	39.145907
-16	Barboni_a1311	3573	52	3573	Gramineae undifferentiated	Gramineae undifferentiated	HERB	Herbs	HERB	True	True	Herbs	5	562	9.252669
-17	Barboni_a1311	2810	1	58	Plantago coronopus-type	Plantago coronopus-type	HERB	Herbs	HERB	True	True	Herbs	5	562	0.17793594
-18	Barboni_a1311	4076	2	4076	Rumex-type	Rumex-type	HERB	Herbs	HERB	True	True	Herbs	5	562	0.35587189
-19	Barboni_a1311	3431	1	3431	Cyperaceae undifferentiated	Cyperaceae undifferentiated	AQUA	Aquatics	AQUA	False	True	Aquatics	7	562	0.17793594
+samplename	original_varname	acc_varname	groupid	count	percentage
+Barboni_a1311	Alnus-type	Alnus-type	TRSH	1	0.17793594
+Barboni_a1311	Corylus-type	Corylus-type	TRSH	2	0.35587189
+Barboni_a1311	Ephedra fragilis-type	Ephedra fragilis-type	TRSH	3	0.53380783
+Barboni_a1311	Fagus	Fagus	TRSH	1	0.17793594
+Barboni_a1311	Juniperus-type	Juniperus-type	TRSH	17	3.024911
+Barboni_a1311	Olea-type	Olea-type	TRSH	34	6.0498221
+Barboni_a1311	Phillyrea-type	Phillyrea-type	TRSH	2	0.35587189
+Barboni_a1311	Pinus-type	Pinus-type	TRSH	136	24.199288
+Barboni_a1311	Pistacia-type	Pistacia-type	TRSH	2	0.35587189
+Barboni_a1311	Quercus suber-type	Quercus cerris-type	TRSH	1	0.17793594
+Barboni_a1311	Quercus ilex-type	Quercus ilex-type	TRSH	38	6.7615658
+Barboni_a1311	Artemisia-type	Artemisia-type	HERB	37	6.5836299
+Barboni_a1311	Asteraceae Liguliflorae	Asteraceae subf. Cichorioideae	HERB	7	1.2455516
+Barboni_a1311	Bidens-type	Bidens-type	HERB	4	0.71174377
+Barboni_a1311	Brassicaceae undifferentiated	Brassicaceae undifferentiated	HERB	2	0.35587189
+Barboni_a1311	Chenopodiaceae undifferentiated	Chenopodiaceae undifferentiated	HERB	220	39.145907
+Barboni_a1311	Gramineae undifferentiated	Gramineae undifferentiated	HERB	52	9.252669
+Barboni_a1311	Plantago coronopus-type	Plantago coronopus-type	HERB	1	0.17793594
+Barboni_a1311	Rumex-type	Rumex-type	HERB	2	0.35587189
+Barboni_a1311	Cyperaceae undifferentiated	Cyperaceae undifferentiated	AQUA	1	0.17793594

@@ -1,27 +1,27 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Fall_a13	9	3	9	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	472	0.63559322
-1	Fall_a13	179	4	179	Ephedra	Ephedra	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	472	0.84745763
-2	Fall_a13	67	4	67	Eucalyptus	Eucalyptus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	472	0.84745763
-3	Fall_a13	85	23	85	Juniperus	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	472	4.8728814
-4	Fall_a13	455	20	95	Olea	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	472	4.2372881
-5	Fall_a13	19	7	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	472	1.4830508
-6	Fall_a13	512	3	430	Tamarix	Tamarix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	472	0.63559322
-7	Fall_a13	4214	21	2088	Thymelaeaceae	Thymelaeaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	472	4.4491525
-8	Fall_a13	1387	2	597	Ambrosia-type	Ambrosia	HERB	Herbs	HERB	True	True	Herbs	5	472	0.42372881
-9	Fall_a13	36	6	36	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	472	1.2711864
-10	Fall_a13	37	7	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	472	1.4830508
-11	Fall_a13	722	50	180	Tubuliflorae	Asteraceae subf. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	472	10.59322
-12	Fall_a13	721	14	53	Liguliflorae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	472	2.9661017
-13	Fall_a13	1391	18	1391	Carduus-type	Carduus-type	HERB	Herbs	HERB	True	True	Herbs	5	472	3.8135593
-14	Fall_a13	46	37	46	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	472	7.8389831
-15	Fall_a13	3246	4	3246	Centaurea-type	Centaurea-type	HERB	Herbs	HERB	True	True	Herbs	5	472	0.84745763
-16	Fall_a13	1075	7	50	Cerealia-type	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	472	1.4830508
-17	Fall_a13	52	117	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	472	24.788136
-18	Fall_a13	1253	8	614	Cirsium-type	Cirsium	HERB	Herbs	HERB	True	True	Herbs	5	472	1.6949153
-19	Fall_a13	2583	8	69	Papilionaceae	Fabaceae	HERB	Herbs	HERB	True	True	Herbs	5	472	1.6949153
-20	Fall_a13	3596	2	3596	Helleborus-type	Helleborus-type	HERB	Herbs	HERB	True	True	Herbs	5	472	0.42372881
-21	Fall_a13	86	1	86	Lamiaceae	Lamiaceae	HERB	Herbs	HERB	True	True	Herbs	5	472	0.21186441
-22	Fall_a13	735	89	286	Plantago	Plantago	HERB	Herbs	HERB	True	True	Herbs	5	472	18.855932
-23	Fall_a13	106	17	106	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	472	3.6016949
-24	Fall_a13	3631	170	197	Indeterminable: unknown	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	472	
-25	Fall_a13	980	17	197	Unknown	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	472	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Fall_a13	Corylus	Corylus	TRSH	3	0.63559322
+Fall_a13	Ephedra	Ephedra	TRSH	4	0.84745763
+Fall_a13	Eucalyptus	Eucalyptus	TRSH	4	0.84745763
+Fall_a13	Juniperus	Juniperus communis-type	TRSH	23	4.8728814
+Fall_a13	Olea	Olea europaea	TRSH	20	4.2372881
+Fall_a13	Pinus	Pinus	TRSH	7	1.4830508
+Fall_a13	Tamarix	Tamarix	TRSH	3	0.63559322
+Fall_a13	Thymelaeaceae	Thymelaeaceae	TRSH	21	4.4491525
+Fall_a13	Ambrosia-type	Ambrosia	HERB	2	0.42372881
+Fall_a13	Apiaceae	Apiaceae	HERB	6	1.2711864
+Fall_a13	Artemisia	Artemisia	HERB	7	1.4830508
+Fall_a13	Tubuliflorae	Asteraceae subf. Asteroideae	HERB	50	10.59322
+Fall_a13	Liguliflorae	Asteraceae subf. Cichorioideae	HERB	14	2.9661017
+Fall_a13	Carduus-type	Carduus-type	HERB	18	3.8135593
+Fall_a13	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	37	7.8389831
+Fall_a13	Centaurea-type	Centaurea-type	HERB	4	0.84745763
+Fall_a13	Cerealia-type	Cerealia-type	HERB	7	1.4830508
+Fall_a13	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	117	24.788136
+Fall_a13	Cirsium-type	Cirsium	HERB	8	1.6949153
+Fall_a13	Papilionaceae	Fabaceae	HERB	8	1.6949153
+Fall_a13	Helleborus-type	Helleborus-type	HERB	2	0.42372881
+Fall_a13	Lamiaceae	Lamiaceae	HERB	1	0.21186441
+Fall_a13	Plantago	Plantago	HERB	89	18.855932
+Fall_a13	Poaceae	Poaceae	HERB	17	3.6016949
+Fall_a13	Indeterminable: unknown	Indeterminable: unknown	INUN	170	
+Fall_a13	Unknown	Indeterminable: unknown	INUN	17	

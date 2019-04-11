@@ -1,29 +1,29 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Ortu_b37	771	8	175	Alnus glutinosa	Alnus glutinosa-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	436	1.8348624
-1	Ortu_b37	572	1	151	Alnus viridis	Alnus viridis	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	436	0.2293578
-2	Ortu_b37	454	5	47	Castanea	Castanea sativa	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	436	1.146789
-3	Ortu_b37	9	7	9	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	436	1.6055046
-4	Ortu_b37	11	1	11	Ericaceae	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	436	0.2293578
-5	Ortu_b37	12	4	12	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	436	0.91743119
-6	Ortu_b37	13	4	13	Fraxinus	Fraxinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	436	0.91743119
-7	Ortu_b37	15	1	15	Juglans	Juglans	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	436	0.2293578
-8	Ortu_b37	16	4	16	Larix	Larix/Pseudotsuga	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	436	0.91743119
-9	Ortu_b37	19	346	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	436	79.357798
-10	Ortu_b37	173	1	21	Quercus robur-type	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	436	0.2293578
-11	Ortu_b37	31	1	31	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	436	0.2293578
-12	Ortu_b37	36	3	36	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	436	0.68807339
-13	Ortu_b37	772	1	180	Asteroideae	Asteraceae subf. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	436	0.2293578
-14	Ortu_b37	42	1	42	Brassicaceae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	436	0.2293578
-15	Ortu_b37	52	2	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	436	0.4587156
-16	Ortu_b37	61	1	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	436	0.2293578
-17	Ortu_b37	80	2	80	Helianthemum	Helianthemum	HERB	Herbs	HERB	True	True	Herbs	5	436	0.4587156
-18	Ortu_b37	86	1	86	Lamiaceae	Lamiaceae	HERB	Herbs	HERB	True	True	Herbs	5	436	0.2293578
-19	Ortu_b37	106	36	106	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	436	8.2568807
-20	Ortu_b37	156	1	156	Ranunculaceae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	436	0.2293578
-21	Ortu_b37	119	1	119	Rubiaceae	Rubiaceae	HERB	Herbs	HERB	True	True	Herbs	5	436	0.2293578
-22	Ortu_b37	738	1	120	Rumex	Rumex/Oxyria	HERB	Herbs	HERB	True	True	Herbs	5	436	0.2293578
-23	Ortu_b37	820	1	820	Urticaceae	Urticaceae	HERB	Herbs	HERB	True	True	Herbs	5	436	0.2293578
-24	Ortu_b37	973	1	973	Botrychium	Botrychium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	436	0.2293578
-25	Ortu_b37	3747	1	167	Monolete fern spores	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	436	0.2293578
-26	Ortu_b37	3631	6	197	Indeterminable: unknown	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	436	
-27	Ortu_b37	2990	6	2780	Stomata	Stomata	VEMI	Vegetative microfossils	NOPO	False	False	Nonpollen	30	436	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Ortu_b37	Alnus glutinosa	Alnus glutinosa-type	TRSH	8	1.8348624
+Ortu_b37	Alnus viridis	Alnus viridis	TRSH	1	0.2293578
+Ortu_b37	Castanea	Castanea sativa	TRSH	5	1.146789
+Ortu_b37	Corylus	Corylus	TRSH	7	1.6055046
+Ortu_b37	Ericaceae	Ericales (tetrad)	DWAR	1	0.2293578
+Ortu_b37	Fagus	Fagus	TRSH	4	0.91743119
+Ortu_b37	Fraxinus	Fraxinus	TRSH	4	0.91743119
+Ortu_b37	Juglans	Juglans	TRSH	1	0.2293578
+Ortu_b37	Larix	Larix/Pseudotsuga	TRSH	4	0.91743119
+Ortu_b37	Pinus	Pinus	TRSH	346	79.357798
+Ortu_b37	Quercus robur-type	Quercus robur-type	TRSH	1	0.2293578
+Ortu_b37	Ulmus	Ulmus/Zelkova	TRSH	1	0.2293578
+Ortu_b37	Apiaceae	Apiaceae	HERB	3	0.68807339
+Ortu_b37	Asteroideae	Asteraceae subf. Asteroideae	HERB	1	0.2293578
+Ortu_b37	Brassicaceae	Brassicaceae	HERB	1	0.2293578
+Ortu_b37	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	2	0.4587156
+Ortu_b37	Cyperaceae	Cyperaceae	HERB	1	0.2293578
+Ortu_b37	Helianthemum	Helianthemum	HERB	2	0.4587156
+Ortu_b37	Lamiaceae	Lamiaceae	HERB	1	0.2293578
+Ortu_b37	Poaceae	Poaceae	HERB	36	8.2568807
+Ortu_b37	Ranunculaceae	Ranunculaceae	HERB	1	0.2293578
+Ortu_b37	Rubiaceae	Rubiaceae	HERB	1	0.2293578
+Ortu_b37	Rumex	Rumex/Oxyria	HERB	1	0.2293578
+Ortu_b37	Urticaceae	Urticaceae	HERB	1	0.2293578
+Ortu_b37	Indeterminable: unknown	Indeterminable: unknown	INUN	6	
+Ortu_b37	Botrychium	Botrychium	VACR	1	0.2293578
+Ortu_b37	Monolete fern spores	Monolete fern spores	VACR	1	0.2293578
+Ortu_b37	Stomata	Stomata	VEMI	6	

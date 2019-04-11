@@ -1,25 +1,25 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Barboni_a361	4	3	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	634	0.47318612
-1	Barboni_a361	5	180	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	634	28.391167
-2	Barboni_a361	3209	2	3209	Calluna	Calluna	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	634	0.31545741
-3	Barboni_a361	7	11	7	Carpinus	Carpinus betulus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	634	1.7350158
-4	Barboni_a361	9	2	9	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	634	0.31545741
-5	Barboni_a361	12	19	12	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	634	2.9968454
-6	Barboni_a361	13	1	13	Fraxinus	Fraxinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	634	0.15772871
-7	Barboni_a361	18	21	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	634	3.3123028
-8	Barboni_a361	19	32	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	634	5.0473186
-9	Barboni_a361	173	296	21	Quercus robur-type	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	634	46.687697
-10	Barboni_a361	25	4	25	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	634	0.63091483
-11	Barboni_a361	601	1	36	Umbelliferae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	634	0.15772871
-12	Barboni_a361	494	1	42	Cruciferae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	634	0.15772871
-13	Barboni_a361	832	1	475	Centaurea cyanus	Centaurea cyanus-type	HERB	Herbs	HERB	True	True	Herbs	5	634	0.15772871
-14	Barboni_a361	1075	4	50	Cerealia-type	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	634	0.63091483
-15	Barboni_a361	52	1	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	634	0.15772871
-16	Barboni_a361	61	2	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	634	0.31545741
-17	Barboni_a361	73	3	73	Filipendula	Filipendula	HERB	Herbs	HERB	True	True	Herbs	5	634	0.47318612
-18	Barboni_a361	87	3	87	Plantago lanceolata	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	634	0.47318612
-19	Barboni_a361	1611	40	106	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	634	6.3091483
-20	Barboni_a361	810	1	810	Primulaceae	Primulaceae	HERB	Herbs	HERB	True	True	Herbs	5	634	0.15772871
-21	Barboni_a361	738	1	120	Rumex	Rumex/Oxyria	HERB	Herbs	HERB	True	True	Herbs	5	634	0.15772871
-22	Barboni_a361	3751	3	3751	Monolete spore(s)	Monolete spore(s)	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	634	0.47318612
-23	Barboni_a361	1279	2	1279	Pteridium	Pteridium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	634	0.31545741
+samplename	original_varname	acc_varname	groupid	count	percentage
+Barboni_a361	Alnus	Alnus	TRSH	3	0.47318612
+Barboni_a361	Betula	Betula	TRSH	180	28.391167
+Barboni_a361	Calluna	Calluna	DWAR	2	0.31545741
+Barboni_a361	Carpinus	Carpinus betulus	TRSH	11	1.7350158
+Barboni_a361	Corylus	Corylus	TRSH	2	0.31545741
+Barboni_a361	Fagus	Fagus	TRSH	19	2.9968454
+Barboni_a361	Fraxinus	Fraxinus	TRSH	1	0.15772871
+Barboni_a361	Picea	Picea	TRSH	21	3.3123028
+Barboni_a361	Pinus	Pinus	TRSH	32	5.0473186
+Barboni_a361	Quercus robur-type	Quercus robur-type	TRSH	296	46.687697
+Barboni_a361	Salix	Salix	TRSH	4	0.63091483
+Barboni_a361	Umbelliferae	Apiaceae	HERB	1	0.15772871
+Barboni_a361	Cruciferae	Brassicaceae	HERB	1	0.15772871
+Barboni_a361	Centaurea cyanus	Centaurea cyanus-type	HERB	1	0.15772871
+Barboni_a361	Cerealia-type	Cerealia-type	HERB	4	0.63091483
+Barboni_a361	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.15772871
+Barboni_a361	Cyperaceae	Cyperaceae	HERB	2	0.31545741
+Barboni_a361	Filipendula	Filipendula	HERB	3	0.47318612
+Barboni_a361	Plantago lanceolata	Plantago lanceolata-type	HERB	3	0.47318612
+Barboni_a361	Gramineae	Poaceae	HERB	40	6.3091483
+Barboni_a361	Primulaceae	Primulaceae	HERB	1	0.15772871
+Barboni_a361	Rumex	Rumex/Oxyria	HERB	1	0.15772871
+Barboni_a361	Monolete spore(s)	Monolete spore(s)	VACR	3	0.47318612
+Barboni_a361	Pteridium	Pteridium	VACR	2	0.31545741

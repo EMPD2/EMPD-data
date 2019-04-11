@@ -1,33 +1,33 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Barboni_a1294	1	1	1	Abies	Abies	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	312	0.32051282
-1	Barboni_a1294	4	7	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	312	2.2435897
-2	Barboni_a1294	5	1	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	312	0.32051282
-3	Barboni_a1294	207	1	207	Buxus	Buxus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	312	0.32051282
-4	Barboni_a1294	470	11	470	Calluna vulgaris	Calluna vulgaris	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	312	3.525641
-5	Barboni_a1294	454	6	47	Castanea	Castanea sativa	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	312	1.9230769
-6	Barboni_a1294	9	13	9	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	312	4.1666667
-7	Barboni_a1294	11	8	11	Ericaceae	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	312	2.5641026
-8	Barboni_a1294	12	14	12	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	312	4.4871795
-9	Barboni_a1294	13	3	13	Fraxinus	Fraxinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	312	0.96153846
-10	Barboni_a1294	455	7	95	Olea	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	312	2.2435897
-11	Barboni_a1294	19	58	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	312	18.589744
-12	Barboni_a1294	208	27	208	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	312	8.6538462
-13	Barboni_a1294	590	2	22	Quercus ilex	Quercus ilex-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	312	0.64102564
-14	Barboni_a1294	118	1	118	Rosaceae	Rosaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	312	0.32051282
-15	Barboni_a1294	31	1	31	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	312	0.32051282
-16	Barboni_a1294	601	1	36	Umbelliferae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	312	0.32051282
-17	Barboni_a1294	157	1	157	Campanulaceae	Campanulaceae	HERB	Herbs	HERB	True	True	Herbs	5	312	0.32051282
-18	Barboni_a1294	52	5	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	312	1.6025641
-19	Barboni_a1294	3383	1	3383	Compositae subfam. Cichorioideae	Compositae subfam. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	312	0.32051282
-20	Barboni_a1294	61	14	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	312	4.4871795
-21	Barboni_a1294	735	2	286	Plantago	Plantago	HERB	Herbs	HERB	True	True	Herbs	5	312	0.64102564
-22	Barboni_a1294	87	1	87	Plantago lanceolata	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	312	0.32051282
-23	Barboni_a1294	1611	114	106	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	312	36.538462
-24	Barboni_a1294	637	1	524	Potentilla-type	Potentilla-type	HERB	Herbs	HERB	True	True	Herbs	5	312	0.32051282
-25	Barboni_a1294	156	2	156	Ranunculaceae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	312	0.64102564
-26	Barboni_a1294	119	1	119	Rubiaceae	Rubiaceae	HERB	Herbs	HERB	True	True	Herbs	5	312	0.32051282
-27	Barboni_a1294	645	1	121	Rumex acetosa-type	Rumex acetosa-type	HERB	Herbs	HERB	True	True	Herbs	5	312	0.32051282
-28	Barboni_a1294	738	1	120	Rumex	Rumex/Oxyria	HERB	Herbs	HERB	True	True	Herbs	5	312	0.32051282
-29	Barboni_a1294	503	1	503	Saxifraga	Saxifraga	HERB	Herbs	HERB	True	True	Herbs	5	312	0.32051282
-30	Barboni_a1294	663	3	663	Urtica	Urtica	HERB	Herbs	HERB	True	True	Herbs	5	312	0.96153846
-31	Barboni_a1294	1279	2	1279	Pteridium	Pteridium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	312	0.64102564
+samplename	original_varname	acc_varname	groupid	count	percentage
+Barboni_a1294	Abies	Abies	TRSH	1	0.32051282
+Barboni_a1294	Alnus	Alnus	TRSH	7	2.2435897
+Barboni_a1294	Betula	Betula	TRSH	1	0.32051282
+Barboni_a1294	Buxus	Buxus	TRSH	1	0.32051282
+Barboni_a1294	Calluna vulgaris	Calluna vulgaris	TRSH	11	3.525641
+Barboni_a1294	Castanea	Castanea sativa	TRSH	6	1.9230769
+Barboni_a1294	Corylus	Corylus	TRSH	13	4.1666667
+Barboni_a1294	Ericaceae	Ericales (tetrad)	DWAR	8	2.5641026
+Barboni_a1294	Fagus	Fagus	TRSH	14	4.4871795
+Barboni_a1294	Fraxinus	Fraxinus	TRSH	3	0.96153846
+Barboni_a1294	Olea	Olea europaea	TRSH	7	2.2435897
+Barboni_a1294	Pinus	Pinus	TRSH	58	18.589744
+Barboni_a1294	Quercus	Quercus	TRSH	27	8.6538462
+Barboni_a1294	Quercus ilex	Quercus ilex-type	TRSH	2	0.64102564
+Barboni_a1294	Rosaceae	Rosaceae	TRSH	1	0.32051282
+Barboni_a1294	Ulmus	Ulmus/Zelkova	TRSH	1	0.32051282
+Barboni_a1294	Umbelliferae	Apiaceae	HERB	1	0.32051282
+Barboni_a1294	Campanulaceae	Campanulaceae	HERB	1	0.32051282
+Barboni_a1294	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	5	1.6025641
+Barboni_a1294	Compositae subfam. Cichorioideae	Compositae subfam. Cichorioideae	HERB	1	0.32051282
+Barboni_a1294	Cyperaceae	Cyperaceae	HERB	14	4.4871795
+Barboni_a1294	Plantago	Plantago	HERB	2	0.64102564
+Barboni_a1294	Plantago lanceolata	Plantago lanceolata-type	HERB	1	0.32051282
+Barboni_a1294	Gramineae	Poaceae	HERB	114	36.538462
+Barboni_a1294	Potentilla-type	Potentilla-type	HERB	1	0.32051282
+Barboni_a1294	Ranunculaceae	Ranunculaceae	HERB	2	0.64102564
+Barboni_a1294	Rubiaceae	Rubiaceae	HERB	1	0.32051282
+Barboni_a1294	Rumex acetosa-type	Rumex acetosa-type	HERB	1	0.32051282
+Barboni_a1294	Rumex	Rumex/Oxyria	HERB	1	0.32051282
+Barboni_a1294	Saxifraga	Saxifraga	HERB	1	0.32051282
+Barboni_a1294	Urtica	Urtica	HERB	3	0.96153846
+Barboni_a1294	Pteridium	Pteridium	VACR	2	0.64102564

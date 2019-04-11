@@ -1,30 +1,30 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Seppa_f1	4	55	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	548	10.036496
-1	Seppa_f1	5	124	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	548	22.627737
-2	Seppa_f1	3209	2	3209	Calluna	Calluna	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	548	0.3649635
-3	Seppa_f1	7	1	7	Carpinus	Carpinus betulus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	548	0.18248175
-4	Seppa_f1	9	14	9	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	548	2.5547445
-5	Seppa_f1	578	1	481	Frangula alnus	Frangula alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	548	0.18248175
-6	Seppa_f1	85	2	85	Juniperus	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	548	0.3649635
-7	Seppa_f1	18	46	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	548	8.3941606
-8	Seppa_f1	19	260	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	548	47.445255
-9	Seppa_f1	208	5	208	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	548	0.91240876
-10	Seppa_f1	25	1	25	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	548	0.18248175
-11	Seppa_f1	29	1	29	Tilia	Tilia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	548	0.18248175
-12	Seppa_f1	31	1	31	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	548	0.18248175
-13	Seppa_f1	2533	1	552	Vaccinium myrtillus	Vaccinium	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	548	0.18248175
-14	Seppa_f1	37	3	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	548	0.54744526
-15	Seppa_f1	608	1	41	Aster-type	Aster-type	HERB	Herbs	HERB	True	True	Herbs	5	548	0.18248175
-16	Seppa_f1	1075	6	50	Cerealia-type	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	548	1.0948905
-17	Seppa_f1	52	1	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	548	0.18248175
-18	Seppa_f1	879	2	879	Chrysosplenium	Chrysosplenium	HERB	Herbs	HERB	True	True	Herbs	5	548	0.3649635
-19	Seppa_f1	73	4	73	Filipendula	Filipendula	HERB	Herbs	HERB	True	True	Herbs	5	548	0.72992701
-20	Seppa_f1	1583	1	839	Humulus	Humulus lupulus	HERB	Herbs	HERB	True	True	Herbs	5	548	0.18248175
-21	Seppa_f1	2523	1	2523	Lychnis flos-cuculi	Lychnis flos-cuculi	HERB	Herbs	HERB	True	True	Herbs	5	548	0.18248175
-22	Seppa_f1	600	1	34	Anthemis-type	Matricaria-type	HERB	Herbs	HERB	True	True	Herbs	5	548	0.18248175
-23	Seppa_f1	87	1	87	Plantago lanceolata	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	548	0.18248175
-24	Seppa_f1	106	6	106	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	548	1.0948905
-25	Seppa_f1	663	2	663	Urtica	Urtica	HERB	Herbs	HERB	True	True	Herbs	5	548	0.3649635
-26	Seppa_f1	2602	1	1547	Cystopteris fragilis	Cystopteris fragilis	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	548	0.18248175
-27	Seppa_f1	167	4	167	Polypodiaceae	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	548	0.72992701
-28	Seppa_f1	1474	1	1311	Carex	Carex	HELO	Helophytes	AQUA	False	True	Aquatics	7	548	0.18248175
+samplename	original_varname	acc_varname	groupid	count	percentage
+Seppa_f1	Alnus	Alnus	TRSH	55	10.036496
+Seppa_f1	Betula	Betula	TRSH	124	22.627737
+Seppa_f1	Calluna	Calluna	DWAR	2	0.3649635
+Seppa_f1	Carpinus	Carpinus betulus	TRSH	1	0.18248175
+Seppa_f1	Corylus	Corylus	TRSH	14	2.5547445
+Seppa_f1	Frangula alnus	Frangula alnus	TRSH	1	0.18248175
+Seppa_f1	Juniperus	Juniperus communis-type	TRSH	2	0.3649635
+Seppa_f1	Picea	Picea	TRSH	46	8.3941606
+Seppa_f1	Pinus	Pinus	TRSH	260	47.445255
+Seppa_f1	Quercus	Quercus	TRSH	5	0.91240876
+Seppa_f1	Salix	Salix	TRSH	1	0.18248175
+Seppa_f1	Tilia	Tilia	TRSH	1	0.18248175
+Seppa_f1	Ulmus	Ulmus/Zelkova	TRSH	1	0.18248175
+Seppa_f1	Vaccinium myrtillus	Vaccinium	DWAR	1	0.18248175
+Seppa_f1	Artemisia	Artemisia	HERB	3	0.54744526
+Seppa_f1	Aster-type	Aster-type	HERB	1	0.18248175
+Seppa_f1	Cerealia-type	Cerealia-type	HERB	6	1.0948905
+Seppa_f1	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.18248175
+Seppa_f1	Chrysosplenium	Chrysosplenium	HERB	2	0.3649635
+Seppa_f1	Filipendula	Filipendula	HERB	4	0.72992701
+Seppa_f1	Humulus	Humulus lupulus	HERB	1	0.18248175
+Seppa_f1	Lychnis flos-cuculi	Lychnis flos-cuculi	HERB	1	0.18248175
+Seppa_f1	Anthemis-type	Matricaria-type	HERB	1	0.18248175
+Seppa_f1	Plantago lanceolata	Plantago lanceolata-type	HERB	1	0.18248175
+Seppa_f1	Poaceae	Poaceae	HERB	6	1.0948905
+Seppa_f1	Urtica	Urtica	HERB	2	0.3649635
+Seppa_f1	Carex	Carex	HELO	1	0.18248175
+Seppa_f1	Cystopteris fragilis	Cystopteris fragilis	VACR	1	0.18248175
+Seppa_f1	Polypodiaceae	Monolete fern spores	VACR	4	0.72992701

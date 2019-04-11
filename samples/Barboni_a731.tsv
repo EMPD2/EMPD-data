@@ -1,27 +1,27 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Barboni_a731	5	1	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	328	0.30487805
-1	Barboni_a731	574	8	7	Carpinus betulus	Carpinus betulus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	328	2.4390244
-2	Barboni_a731	9	5	9	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	328	1.5243902
-3	Barboni_a731	12	2	12	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	328	0.6097561
-4	Barboni_a731	15	1	15	Juglans	Juglans	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	328	0.30487805
-5	Barboni_a731	1044	5	97	Carpinus orientalis	Ostrya/Carpinus orientalis	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	328	1.5243902
-6	Barboni_a731	18	1	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	328	0.30487805
-7	Barboni_a731	19	6	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	328	1.8292683
-8	Barboni_a731	208	36	208	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	328	10.97561
-9	Barboni_a731	29	1	29	Tilia	Tilia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	328	0.30487805
-10	Barboni_a731	31	4	31	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	328	1.2195122
-11	Barboni_a731	3136	24	3136	Artemisia-type	Artemisia-type	HERB	Herbs	HERB	True	True	Herbs	5	328	7.3170732
-12	Barboni_a731	1075	3	50	Cerealia-type	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	328	0.91463415
-13	Barboni_a731	52	16	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	328	4.8780488
-14	Barboni_a731	3381	8	3381	Compositae subfam. Asteroideae	Compositae subfam. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	328	2.4390244
-15	Barboni_a731	3383	3	3383	Compositae subfam. Cichorioideae	Compositae subfam. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	328	0.91463415
-16	Barboni_a731	61	6	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	328	1.8292683
-17	Barboni_a731	497	2	86	Labiatae	Lamiaceae	HERB	Herbs	HERB	True	True	Herbs	5	328	0.6097561
-18	Barboni_a731	89	1	89	Liliaceae	Liliaceae-type	HERB	Herbs	HERB	True	True	Herbs	5	328	0.30487805
-19	Barboni_a731	1085	4	87	Plantago lanceolata-type	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	328	1.2195122
-20	Barboni_a731	1611	188	106	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	328	57.317073
-21	Barboni_a731	156	1	156	Ranunculaceae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	328	0.30487805
-22	Barboni_a731	126	2	126	Sanguisorba minor	Sanguisorba minor-type	HERB	Herbs	HERB	True	True	Herbs	5	328	0.6097561
-23	Barboni_a731	668	3	133	Potamogeton	Potamogeton-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	328	0.91463415
-24	Barboni_a731	4258	8	4258	Typha angustifolia/Sparganium	Typha angustifolia/Sparganium	AQUA	Aquatics	AQUA	False	True	Aquatics	7	328	2.4390244
-25	Barboni_a731	1297	6	433	Typha latifolia	Typha latifolia	HELO	Helophytes	AQUA	False	True	Aquatics	7	328	1.8292683
+samplename	original_varname	acc_varname	groupid	count	percentage
+Barboni_a731	Betula	Betula	TRSH	1	0.30487805
+Barboni_a731	Carpinus betulus	Carpinus betulus	TRSH	8	2.4390244
+Barboni_a731	Corylus	Corylus	TRSH	5	1.5243902
+Barboni_a731	Fagus	Fagus	TRSH	2	0.6097561
+Barboni_a731	Juglans	Juglans	TRSH	1	0.30487805
+Barboni_a731	Carpinus orientalis	Ostrya/Carpinus orientalis	TRSH	5	1.5243902
+Barboni_a731	Picea	Picea	TRSH	1	0.30487805
+Barboni_a731	Pinus	Pinus	TRSH	6	1.8292683
+Barboni_a731	Quercus	Quercus	TRSH	36	10.97561
+Barboni_a731	Tilia	Tilia	TRSH	1	0.30487805
+Barboni_a731	Ulmus	Ulmus/Zelkova	TRSH	4	1.2195122
+Barboni_a731	Artemisia-type	Artemisia-type	HERB	24	7.3170732
+Barboni_a731	Cerealia-type	Cerealia-type	HERB	3	0.91463415
+Barboni_a731	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	16	4.8780488
+Barboni_a731	Compositae subfam. Asteroideae	Compositae subfam. Asteroideae	HERB	8	2.4390244
+Barboni_a731	Compositae subfam. Cichorioideae	Compositae subfam. Cichorioideae	HERB	3	0.91463415
+Barboni_a731	Cyperaceae	Cyperaceae	HERB	6	1.8292683
+Barboni_a731	Labiatae	Lamiaceae	HERB	2	0.6097561
+Barboni_a731	Liliaceae	Liliaceae-type	HERB	1	0.30487805
+Barboni_a731	Plantago lanceolata-type	Plantago lanceolata-type	HERB	4	1.2195122
+Barboni_a731	Gramineae	Poaceae	HERB	188	57.317073
+Barboni_a731	Ranunculaceae	Ranunculaceae	HERB	1	0.30487805
+Barboni_a731	Sanguisorba minor	Sanguisorba minor-type	HERB	2	0.6097561
+Barboni_a731	Potamogeton	Potamogeton-type	AQUA	3	0.91463415
+Barboni_a731	Typha angustifolia/Sparganium	Typha angustifolia/Sparganium	AQUA	8	2.4390244
+Barboni_a731	Typha latifolia	Typha latifolia	HELO	6	1.8292683

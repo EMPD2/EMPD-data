@@ -1,23 +1,23 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	EPDcoretop_E1285	1	2	1	Abies	Abies	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	102	1.9607843
-1	EPDcoretop_E1285	4	2	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	102	1.9607843
-2	EPDcoretop_E1285	5	2	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	102	1.9607843
-3	EPDcoretop_E1285	3209	10	3209	Calluna	Calluna	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	102	9.8039216
-4	EPDcoretop_E1285	9	16	9	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	102	15.686275
-5	EPDcoretop_E1285	17	1	17	Myrica	Myrica	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	102	0.98039216
-6	EPDcoretop_E1285	19	11	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	102	10.784314
-7	EPDcoretop_E1285	208	7	208	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	102	6.8627451
-8	EPDcoretop_E1285	29	1	29	Tilia	Tilia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	102	0.98039216
-9	EPDcoretop_E1285	31	1	31	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	102	0.98039216
-10	EPDcoretop_E1285	722	1	180	Tubuliflorae	Asteraceae subf. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	102	0.98039216
-11	EPDcoretop_E1285	721	1	53	Liguliflorae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	102	0.98039216
-12	EPDcoretop_E1285	61	11	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	102	10.784314
-13	EPDcoretop_E1285	735	1	286	Plantago	Plantago	HERB	Herbs	HERB	True	True	Herbs	5	102	0.98039216
-14	EPDcoretop_E1285	106	14	106	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	102	13.72549
-15	EPDcoretop_E1285	1554	15	167	Filicales	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	102	14.705882
-16	EPDcoretop_E1285	677	1	230	Polypodium	Polypodium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	102	0.98039216
-17	EPDcoretop_E1285	1989	5	1989	Pteris	Pteris	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	102	4.9019608
-18	EPDcoretop_E1285	3757	10	3757	Mounted volume (0.001 ml)	Mounted volume (0.001 ml)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	102	
-19	EPDcoretop_E1285	3777	44	1904	Number of counted lines	Number of counted lines	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	102	
-20	EPDcoretop_E1285	4304	3	4304	Volume of residue (ml)	Volume of residue (ml)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	102	
-21	EPDcoretop_E1285	4308	7	1888	Weight	Weight	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	102	
+samplename	original_varname	acc_varname	groupid	count	percentage
+EPDcoretop_E1285	Abies	Abies	TRSH	2	1.9607843
+EPDcoretop_E1285	Alnus	Alnus	TRSH	2	1.9607843
+EPDcoretop_E1285	Betula	Betula	TRSH	2	1.9607843
+EPDcoretop_E1285	Calluna	Calluna	DWAR	10	9.8039216
+EPDcoretop_E1285	Corylus	Corylus	TRSH	16	15.686275
+EPDcoretop_E1285	Myrica	Myrica	TRSH	1	0.98039216
+EPDcoretop_E1285	Pinus	Pinus	TRSH	11	10.784314
+EPDcoretop_E1285	Quercus	Quercus	TRSH	7	6.8627451
+EPDcoretop_E1285	Tilia	Tilia	TRSH	1	0.98039216
+EPDcoretop_E1285	Ulmus	Ulmus/Zelkova	TRSH	1	0.98039216
+EPDcoretop_E1285	Tubuliflorae	Asteraceae subf. Asteroideae	HERB	1	0.98039216
+EPDcoretop_E1285	Liguliflorae	Asteraceae subf. Cichorioideae	HERB	1	0.98039216
+EPDcoretop_E1285	Cyperaceae	Cyperaceae	HERB	11	10.784314
+EPDcoretop_E1285	Plantago	Plantago	HERB	1	0.98039216
+EPDcoretop_E1285	Poaceae	Poaceae	HERB	14	13.72549
+EPDcoretop_E1285	Filicales	Monolete fern spores	VACR	15	14.705882
+EPDcoretop_E1285	Mounted volume (0.001 ml)	Mounted volume (0.001 ml)	NOPO	10	
+EPDcoretop_E1285	Number of counted lines	Number of counted lines	NOPO	44	
+EPDcoretop_E1285	Polypodium	Polypodium	VACR	1	0.98039216
+EPDcoretop_E1285	Pteris	Pteris	VACR	5	4.9019608
+EPDcoretop_E1285	Volume of residue (ml)	Volume of residue (ml)	NOPO	3	
+EPDcoretop_E1285	Weight	Weight	NOPO	7	

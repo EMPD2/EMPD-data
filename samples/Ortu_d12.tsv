@@ -1,24 +1,24 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Ortu_d12	1	1	1	Abies	Abies	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	300	0.33333333
-1	Ortu_d12	9	5	9	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	300	1.6666667
-2	Ortu_d12	12	1	12	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	300	0.33333333
-3	Ortu_d12	792	1	792	Oleaceae	Oleaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	300	0.33333333
-4	Ortu_d12	101	1	101	Phillyrea	Phillyrea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	300	0.33333333
-5	Ortu_d12	19	171	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	300	57
-6	Ortu_d12	173	5	21	Quercus robur-type	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	300	1.6666667
-7	Ortu_d12	118	1	118	Rosaceae	Rosaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	300	0.33333333
-8	Ortu_d12	3106	6	3106	Anthemidae	Anthemidae	HERB	Herbs	HERB	True	True	Herbs	5	300	2
-9	Ortu_d12	601	14	36	Umbelliferae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	300	4.6666667
-10	Ortu_d12	37	1	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	300	0.33333333
-11	Ortu_d12	460	1	53	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	300	0.33333333
-12	Ortu_d12	3224	1	3224	Cardiaceae	Cardiaceae	HERB	Herbs	HERB	True	True	Herbs	5	300	0.33333333
-13	Ortu_d12	52	1	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	300	0.33333333
-14	Ortu_d12	3547	18	3547	Galium	Galium	HERB	Herbs	HERB	True	True	Herbs	5	300	6
-15	Ortu_d12	80	1	80	Helianthemum	Helianthemum	HERB	Herbs	HERB	True	True	Herbs	5	300	0.33333333
-16	Ortu_d12	755	1	755	Leguminosae	Leguminosae	HERB	Herbs	HERB	True	True	Herbs	5	300	0.33333333
-17	Ortu_d12	735	34	286	Plantago	Plantago	HERB	Herbs	HERB	True	True	Herbs	5	300	11.333333
-18	Ortu_d12	1611	27	106	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	300	9
-19	Ortu_d12	156	1	156	Ranunculaceae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	300	0.33333333
-20	Ortu_d12	738	2	120	Rumex	Rumex/Oxyria	HERB	Herbs	HERB	True	True	Herbs	5	300	0.66666667
-21	Ortu_d12	140	6	140	Trifolium	Trifolium-type	HERB	Herbs	HERB	True	True	Herbs	5	300	2
-22	Ortu_d12	3631	1	197	Indeterminable: unknown	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	300	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Ortu_d12	Abies	Abies	TRSH	1	0.33333333
+Ortu_d12	Corylus	Corylus	TRSH	5	1.6666667
+Ortu_d12	Fagus	Fagus	TRSH	1	0.33333333
+Ortu_d12	Oleaceae	Oleaceae	TRSH	1	0.33333333
+Ortu_d12	Phillyrea	Phillyrea	TRSH	1	0.33333333
+Ortu_d12	Pinus	Pinus	TRSH	171	57
+Ortu_d12	Quercus robur-type	Quercus robur-type	TRSH	5	1.6666667
+Ortu_d12	Rosaceae	Rosaceae	TRSH	1	0.33333333
+Ortu_d12	Anthemidae	Anthemidae	HERB	6	2
+Ortu_d12	Umbelliferae	Apiaceae	HERB	14	4.6666667
+Ortu_d12	Artemisia	Artemisia	HERB	1	0.33333333
+Ortu_d12	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	1	0.33333333
+Ortu_d12	Cardiaceae	Cardiaceae	HERB	1	0.33333333
+Ortu_d12	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.33333333
+Ortu_d12	Galium	Galium	HERB	18	6
+Ortu_d12	Helianthemum	Helianthemum	HERB	1	0.33333333
+Ortu_d12	Leguminosae	Leguminosae	HERB	1	0.33333333
+Ortu_d12	Plantago	Plantago	HERB	34	11.333333
+Ortu_d12	Gramineae	Poaceae	HERB	27	9
+Ortu_d12	Ranunculaceae	Ranunculaceae	HERB	1	0.33333333
+Ortu_d12	Rumex	Rumex/Oxyria	HERB	2	0.66666667
+Ortu_d12	Trifolium	Trifolium-type	HERB	6	2
+Ortu_d12	Indeterminable: unknown	Indeterminable: unknown	INUN	1	

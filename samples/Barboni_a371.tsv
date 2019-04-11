@@ -1,13 +1,13 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Barboni_a371	4	2	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	479	0.41753653
-1	Barboni_a371	5	140	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	479	29.227557
-2	Barboni_a371	750	9	750	Empetrum	Empetrum nigrum	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	479	1.8789144
-3	Barboni_a371	85	1	85	Juniperus	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	479	0.20876827
-4	Barboni_a371	18	40	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	479	8.3507307
-5	Barboni_a371	19	280	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	479	58.455115
-6	Barboni_a371	52	1	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	479	0.20876827
-7	Barboni_a371	1611	1	106	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	479	0.20876827
-8	Barboni_a371	166	1	166	Equisetum	Equisetum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	479	0.20876827
-9	Barboni_a371	1723	2	1559	Lycopodium clavatum	Lycopodium clavatum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	479	0.41753653
-10	Barboni_a371	3751	1	3751	Monolete spore(s)	Monolete spore(s)	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	479	0.20876827
-11	Barboni_a371	1279	1	1279	Pteridium	Pteridium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	479	0.20876827
+samplename	original_varname	acc_varname	groupid	count	percentage
+Barboni_a371	Alnus	Alnus	TRSH	2	0.41753653
+Barboni_a371	Betula	Betula	TRSH	140	29.227557
+Barboni_a371	Empetrum	Empetrum nigrum	DWAR	9	1.8789144
+Barboni_a371	Juniperus	Juniperus communis-type	TRSH	1	0.20876827
+Barboni_a371	Picea	Picea	TRSH	40	8.3507307
+Barboni_a371	Pinus	Pinus	TRSH	280	58.455115
+Barboni_a371	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.20876827
+Barboni_a371	Gramineae	Poaceae	HERB	1	0.20876827
+Barboni_a371	Equisetum	Equisetum	VACR	1	0.20876827
+Barboni_a371	Lycopodium clavatum	Lycopodium clavatum	VACR	2	0.41753653
+Barboni_a371	Monolete spore(s)	Monolete spore(s)	VACR	1	0.20876827
+Barboni_a371	Pteridium	Pteridium	VACR	1	0.20876827

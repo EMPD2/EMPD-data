@@ -1,25 +1,25 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Lapteva_a104	2115	13	151	Alnus viridis subsp. fruticosa	Alnus viridis	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	953	1.3641133
-1	Lapteva_a104	2113	250	149	Betula nana-type	Betula nana-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	953	26.232949
-2	Lapteva_a104	2123	213	150	Betula pubescens-type	Betula pubescens-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	953	22.350472
-3	Lapteva_a104	750	1	750	Empetrum	Empetrum nigrum	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	953	0.10493179
-4	Lapteva_a104	11	2	11	Ericaceae	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	953	0.20986359
-5	Lapteva_a104	18	1	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	953	0.10493179
-6	Lapteva_a104	1371	21	147	Pinus sibirica	Pinus cembra-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	953	2.2035677
-7	Lapteva_a104	799	17	148	Pinus sylvestris	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	953	1.7838405
-8	Lapteva_a104	25	9	25	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	953	0.94438615
-9	Lapteva_a104	1387	2	597	Ambrosia-type	Ambrosia	HERB	Herbs	HERB	True	True	Herbs	5	953	0.20986359
-10	Lapteva_a104	37	5	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	953	0.52465897
-11	Lapteva_a104	61	8	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	953	0.83945435
-12	Lapteva_a104	510	1	510	Geranium	Geranium	HERB	Herbs	HERB	True	True	Herbs	5	953	0.10493179
-13	Lapteva_a104	735	2	286	Plantago	Plantago	HERB	Herbs	HERB	True	True	Herbs	5	953	0.20986359
-14	Lapteva_a104	106	7	106	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	953	0.73452256
-15	Lapteva_a104	159	8	159	Polygonaceae	Polygonaceae	HERB	Herbs	HERB	True	True	Herbs	5	953	0.83945435
-16	Lapteva_a104	2120	1	192	Rubus chamaemorus	Rubus chamaemorus	HERB	Herbs	HERB	True	True	Herbs	5	953	0.10493179
-17	Lapteva_a104	663	1	663	Urtica	Urtica	HERB	Herbs	HERB	True	True	Herbs	5	953	0.10493179
-18	Lapteva_a104	168	390	168	Bryales	Bryophyte spores	BRYO	Bryophytes	VACR	True	True	Ferns	6	953	40.9234
-19	Lapteva_a104	3962	1	3962	Pteridophyta undifferentiated	Pteridophyta undifferentiated	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	953	0.10493179
-20	Lapteva_a104	674	1	674	Botryococcus	Botryococcus	ALGA	Algae	AQUA	False	True	Aquatics	7	953	0.10493179
-21	Lapteva_a104	698	6	698	Assulina	Assulina	RHIZ	Rhizopods	NOPO	False	False	Nonpollen	30	953	
-22	Lapteva_a104	2353	4	2353	Microthyrium	Microthyrium	FUNG	Fungi	NOPO	False	False	Nonpollen	30	953	
-23	Lapteva_a104	4024	3	4024	Rhizopoda sp.A	Rhizopoda sp.A	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	953	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Lapteva_a104	Alnus viridis subsp. fruticosa	Alnus viridis	TRSH	13	1.3641133
+Lapteva_a104	Betula nana-type	Betula nana-type	DWAR	250	26.232949
+Lapteva_a104	Betula pubescens-type	Betula pubescens-type	TRSH	213	22.350472
+Lapteva_a104	Empetrum	Empetrum nigrum	DWAR	1	0.10493179
+Lapteva_a104	Ericaceae	Ericales (tetrad)	DWAR	2	0.20986359
+Lapteva_a104	Picea	Picea	TRSH	1	0.10493179
+Lapteva_a104	Pinus sibirica	Pinus cembra-type	TRSH	21	2.2035677
+Lapteva_a104	Pinus sylvestris	Pinus sylvestris-type	TRSH	17	1.7838405
+Lapteva_a104	Salix	Salix	TRSH	9	0.94438615
+Lapteva_a104	Ambrosia-type	Ambrosia	HERB	2	0.20986359
+Lapteva_a104	Artemisia	Artemisia	HERB	5	0.52465897
+Lapteva_a104	Cyperaceae	Cyperaceae	HERB	8	0.83945435
+Lapteva_a104	Geranium	Geranium	HERB	1	0.10493179
+Lapteva_a104	Plantago	Plantago	HERB	2	0.20986359
+Lapteva_a104	Poaceae	Poaceae	HERB	7	0.73452256
+Lapteva_a104	Polygonaceae	Polygonaceae	HERB	8	0.83945435
+Lapteva_a104	Rubus chamaemorus	Rubus chamaemorus	HERB	1	0.10493179
+Lapteva_a104	Urtica	Urtica	HERB	1	0.10493179
+Lapteva_a104	Botryococcus	Botryococcus	ALGA	1	0.10493179
+Lapteva_a104	Assulina	Assulina	RHIZ	6	
+Lapteva_a104	Bryales	Bryophyte spores	BRYO	390	40.9234
+Lapteva_a104	Microthyrium	Microthyrium	FUNG	4	
+Lapteva_a104	Pteridophyta undifferentiated	Pteridophyta undifferentiated	VACR	1	0.10493179
+Lapteva_a104	Rhizopoda sp.A	Rhizopoda sp.A	NOPO	3	

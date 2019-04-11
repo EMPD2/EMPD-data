@@ -1,31 +1,31 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	EPDcoretop_E323	4	116	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1434	8.0892608
-1	EPDcoretop_E323	5	389	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1434	27.126918
-2	EPDcoretop_E323	3411	1	3411	Corylus/Myrica	Corylus/Myrica	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1434	0.069735007
-3	EPDcoretop_E323	3498	3	3498	Ericaceae-type	Ericaceae-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	1434	0.20920502
-4	EPDcoretop_E323	749	10	28	Juniperus-type	Juniperus-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1434	0.69735007
-5	EPDcoretop_E323	18	59	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1434	4.1143654
-6	EPDcoretop_E323	19	487	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1434	33.960948
-7	EPDcoretop_E323	4045	5	4045	Rosaceae undifferentiated	Rosaceae undifferentiated	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1434	0.34867503
-8	EPDcoretop_E323	25	30	25	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1434	2.0920502
-9	EPDcoretop_E323	31	2	31	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1434	0.13947001
-10	EPDcoretop_E323	601	1	36	Umbelliferae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	1434	0.069735007
-11	EPDcoretop_E323	3135	1	3135	Artemisia vulgaris-type	Artemisia vulgaris-type	HERB	Herbs	HERB	True	True	Herbs	5	1434	0.069735007
-12	EPDcoretop_E323	1075	4	50	Cerealia-type	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	1434	0.27894003
-13	EPDcoretop_E323	52	2	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	1434	0.13947001
-14	EPDcoretop_E323	3382	5	3382	Compositae subfam. Asteroideae undifferentiated	Compositae subfam. Asteroideae undifferentiated	HERB	Herbs	HERB	True	True	Herbs	5	1434	0.34867503
-15	EPDcoretop_E323	61	11	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	1434	0.76708508
-16	EPDcoretop_E323	959	1	559	Epilobium-type	Epilobium	HERB	Herbs	HERB	True	True	Herbs	5	1434	0.069735007
-17	EPDcoretop_E323	73	6	73	Filipendula	Filipendula	HERB	Herbs	HERB	True	True	Herbs	5	1434	0.41841004
-18	EPDcoretop_E323	3573	81	3573	Gramineae undifferentiated	Gramineae undifferentiated	HERB	Herbs	HERB	True	True	Herbs	5	1434	5.6485356
-19	EPDcoretop_E323	1350	7	221	Cannabis-type	Humulus/Cannabis	HERB	Herbs	HERB	True	True	Herbs	5	1434	0.48814505
-20	EPDcoretop_E323	3876	3	3876	Plantago major/P. media	Plantago major/P. media	HERB	Herbs	HERB	True	True	Herbs	5	1434	0.20920502
-21	EPDcoretop_E323	637	2	524	Potentilla-type	Potentilla-type	HERB	Herbs	HERB	True	True	Herbs	5	1434	0.13947001
-22	EPDcoretop_E323	2438	4	290	Ranunculus-type	Ranunculus-type	HERB	Herbs	HERB	True	True	Herbs	5	1434	0.27894003
-23	EPDcoretop_E323	4074	27	4074	Rumex subgen. Acetosa/R. subgen. Acetosella	Rumex subgen. Acetosa/R. subgen. Acetosella	HERB	Herbs	HERB	True	True	Herbs	5	1434	1.8828452
-24	EPDcoretop_E323	272	4	272	Secale cereale	Secale cereale	HERB	Herbs	HERB	True	True	Herbs	5	1434	0.27894003
-25	EPDcoretop_E323	166	1	166	Equisetum	Equisetum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	1434	0.069735007
-26	EPDcoretop_E323	976	1	203	Lycopodium annotinum	Lycopodium annotinum-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	1434	0.069735007
-27	EPDcoretop_E323	167	170	167	Polypodiaceae	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	1434	11.854951
-28	EPDcoretop_E323	679	1	679	Selaginella	Selaginella	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	1434	0.069735007
-29	EPDcoretop_E323	165	9	165	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	1434	
+samplename	original_varname	acc_varname	groupid	count	percentage
+EPDcoretop_E323	Alnus	Alnus	TRSH	116	8.0892608
+EPDcoretop_E323	Betula	Betula	TRSH	389	27.126918
+EPDcoretop_E323	Corylus/Myrica	Corylus/Myrica	TRSH	1	0.069735007
+EPDcoretop_E323	Ericaceae-type	Ericaceae-type	DWAR	3	0.20920502
+EPDcoretop_E323	Juniperus-type	Juniperus-type	TRSH	10	0.69735007
+EPDcoretop_E323	Picea	Picea	TRSH	59	4.1143654
+EPDcoretop_E323	Pinus	Pinus	TRSH	487	33.960948
+EPDcoretop_E323	Rosaceae undifferentiated	Rosaceae undifferentiated	TRSH	5	0.34867503
+EPDcoretop_E323	Salix	Salix	TRSH	30	2.0920502
+EPDcoretop_E323	Ulmus	Ulmus/Zelkova	TRSH	2	0.13947001
+EPDcoretop_E323	Umbelliferae	Apiaceae	HERB	1	0.069735007
+EPDcoretop_E323	Artemisia vulgaris-type	Artemisia vulgaris-type	HERB	1	0.069735007
+EPDcoretop_E323	Cerealia-type	Cerealia-type	HERB	4	0.27894003
+EPDcoretop_E323	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	2	0.13947001
+EPDcoretop_E323	Compositae subfam. Asteroideae undifferentiated	Compositae subfam. Asteroideae undifferentiated	HERB	5	0.34867503
+EPDcoretop_E323	Cyperaceae	Cyperaceae	HERB	11	0.76708508
+EPDcoretop_E323	Epilobium-type	Epilobium	HERB	1	0.069735007
+EPDcoretop_E323	Filipendula	Filipendula	HERB	6	0.41841004
+EPDcoretop_E323	Gramineae undifferentiated	Gramineae undifferentiated	HERB	81	5.6485356
+EPDcoretop_E323	Cannabis-type	Humulus/Cannabis	HERB	7	0.48814505
+EPDcoretop_E323	Plantago major/P. media	Plantago major/P. media	HERB	3	0.20920502
+EPDcoretop_E323	Potentilla-type	Potentilla-type	HERB	2	0.13947001
+EPDcoretop_E323	Ranunculus-type	Ranunculus-type	HERB	4	0.27894003
+EPDcoretop_E323	Rumex subgen. Acetosa/R. subgen. Acetosella	Rumex subgen. Acetosa/R. subgen. Acetosella	HERB	27	1.8828452
+EPDcoretop_E323	Secale cereale	Secale cereale	HERB	4	0.27894003
+EPDcoretop_E323	Equisetum	Equisetum	VACR	1	0.069735007
+EPDcoretop_E323	Lycopodium annotinum	Lycopodium annotinum-type	VACR	1	0.069735007
+EPDcoretop_E323	Polypodiaceae	Monolete fern spores	VACR	170	11.854951
+EPDcoretop_E323	Selaginella	Selaginella	VACR	1	0.069735007
+EPDcoretop_E323	Sphagnum	Sphagnum	NOPO	9	

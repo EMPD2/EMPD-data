@@ -1,25 +1,25 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Novenko_a6	4	130	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	805	16.149068
-1	Novenko_a6	5	89	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	805	11.055901
-2	Novenko_a6	9	8	9	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	805	0.99378882
-3	Novenko_a6	2128	1	11	Ericales	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	805	0.1242236
-4	Novenko_a6	18	256	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	805	31.801242
-5	Novenko_a6	19	83	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	805	10.310559
-6	Novenko_a6	118	3	118	Rosaceae	Rosaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	805	0.37267081
-7	Novenko_a6	493	6	423	Sambucus	Sambucus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	805	0.74534161
-8	Novenko_a6	29	3	29	Tilia	Tilia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	805	0.37267081
-9	Novenko_a6	31	10	31	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	805	1.242236
-10	Novenko_a6	36	1	36	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	805	0.1242236
-11	Novenko_a6	37	3	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	805	0.37267081
-12	Novenko_a6	2471	5	155	Compositae	Asteraceae	HERB	Herbs	HERB	True	True	Herbs	5	805	0.62111801
-13	Novenko_a6	46	6	46	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	805	0.74534161
-14	Novenko_a6	768	1	283	Centaurea	Centaurea	HERB	Herbs	HERB	True	True	Herbs	5	805	0.1242236
-15	Novenko_a6	52	4	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	805	0.49689441
-16	Novenko_a6	86	1	86	Lamiaceae	Lamiaceae	HERB	Herbs	HERB	True	True	Herbs	5	805	0.1242236
-17	Novenko_a6	1170	2	1170	Oxalis acetosella	Oxalis acetosella	HERB	Herbs	HERB	True	True	Herbs	5	805	0.2484472
-18	Novenko_a6	106	13	106	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	805	1.6149068
-19	Novenko_a6	159	1	159	Polygonaceae	Polygonaceae	HERB	Herbs	HERB	True	True	Herbs	5	805	0.1242236
-20	Novenko_a6	156	1	156	Ranunculaceae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	805	0.1242236
-21	Novenko_a6	663	1	663	Urtica	Urtica	HERB	Herbs	HERB	True	True	Herbs	5	805	0.1242236
-22	Novenko_a6	1723	2	1559	Lycopodium clavatum	Lycopodium clavatum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	805	0.2484472
-23	Novenko_a6	167	175	167	Polypodiaceae	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	805	21.73913
+samplename	original_varname	acc_varname	groupid	count	percentage
+Novenko_a6	Alnus	Alnus	TRSH	130	16.149068
+Novenko_a6	Betula	Betula	TRSH	89	11.055901
+Novenko_a6	Corylus	Corylus	TRSH	8	0.99378882
+Novenko_a6	Ericales	Ericales (tetrad)	DWAR	1	0.1242236
+Novenko_a6	Picea	Picea	TRSH	256	31.801242
+Novenko_a6	Pinus	Pinus	TRSH	83	10.310559
+Novenko_a6	Rosaceae	Rosaceae	TRSH	3	0.37267081
+Novenko_a6	Sambucus	Sambucus	TRSH	6	0.74534161
+Novenko_a6	Tilia	Tilia	TRSH	3	0.37267081
+Novenko_a6	Ulmus	Ulmus/Zelkova	TRSH	10	1.242236
+Novenko_a6	Apiaceae	Apiaceae	HERB	1	0.1242236
+Novenko_a6	Artemisia	Artemisia	HERB	3	0.37267081
+Novenko_a6	Compositae	Asteraceae	HERB	5	0.62111801
+Novenko_a6	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	6	0.74534161
+Novenko_a6	Centaurea	Centaurea	HERB	1	0.1242236
+Novenko_a6	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	4	0.49689441
+Novenko_a6	Lamiaceae	Lamiaceae	HERB	1	0.1242236
+Novenko_a6	Oxalis acetosella	Oxalis acetosella	HERB	2	0.2484472
+Novenko_a6	Poaceae	Poaceae	HERB	13	1.6149068
+Novenko_a6	Polygonaceae	Polygonaceae	HERB	1	0.1242236
+Novenko_a6	Ranunculaceae	Ranunculaceae	HERB	1	0.1242236
+Novenko_a6	Urtica	Urtica	HERB	1	0.1242236
+Novenko_a6	Lycopodium clavatum	Lycopodium clavatum	VACR	2	0.2484472
+Novenko_a6	Polypodiaceae	Monolete fern spores	VACR	175	21.73913

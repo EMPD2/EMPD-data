@@ -1,20 +1,20 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Lapteva_a101	1	2	1	Abies	Abies	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	691	0.2894356
-1	Lapteva_a101	2123	116	150	Betula pubescens-type	Betula pubescens-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	691	16.787265
-2	Lapteva_a101	18	25	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	691	3.617945
-3	Lapteva_a101	799	433	148	Pinus sylvestris	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	691	62.662808
-4	Lapteva_a101	118	2	118	Rosaceae	Rosaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	691	0.2894356
-5	Lapteva_a101	4261	1	4261	Ulmus glabra-type	Ulmus glabra-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	691	0.1447178
-6	Lapteva_a101	36	1	36	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	691	0.1447178
-7	Lapteva_a101	37	15	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	691	2.170767
-8	Lapteva_a101	52	7	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	691	1.0130246
-9	Lapteva_a101	3381	2	3381	Compositae subfam. Asteroideae	Compositae subfam. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	691	0.2894356
-10	Lapteva_a101	3383	2	3383	Compositae subfam. Cichorioideae	Compositae subfam. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	691	0.2894356
-11	Lapteva_a101	184	1	184	Dipsacaceae	Dipsacaceae	HERB	Herbs	HERB	True	True	Herbs	5	691	0.1447178
-12	Lapteva_a101	69	1	69	Fabaceae	Fabaceae	HERB	Herbs	HERB	True	True	Herbs	5	691	0.1447178
-13	Lapteva_a101	86	2	86	Lamiaceae	Lamiaceae	HERB	Herbs	HERB	True	True	Herbs	5	691	0.2894356
-14	Lapteva_a101	106	6	106	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	691	0.8683068
-15	Lapteva_a101	159	1	159	Polygonaceae	Polygonaceae	HERB	Herbs	HERB	True	True	Herbs	5	691	0.1447178
-16	Lapteva_a101	1198	1	487	Sanguisorba officinalis	Sanguisorba officinalis	HERB	Herbs	HERB	True	True	Herbs	5	691	0.1447178
-17	Lapteva_a101	3962	73	3962	Pteridophyta undifferentiated	Pteridophyta undifferentiated	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	691	10.564399
-18	Lapteva_a101	3630	2	3630	Indeterminable: undifferentiated	Indeterminable: undifferentiated	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	691	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Lapteva_a101	Abies	Abies	TRSH	2	0.2894356
+Lapteva_a101	Betula pubescens-type	Betula pubescens-type	TRSH	116	16.787265
+Lapteva_a101	Picea	Picea	TRSH	25	3.617945
+Lapteva_a101	Pinus sylvestris	Pinus sylvestris-type	TRSH	433	62.662808
+Lapteva_a101	Rosaceae	Rosaceae	TRSH	2	0.2894356
+Lapteva_a101	Ulmus glabra-type	Ulmus glabra-type	TRSH	1	0.1447178
+Lapteva_a101	Apiaceae	Apiaceae	HERB	1	0.1447178
+Lapteva_a101	Artemisia	Artemisia	HERB	15	2.170767
+Lapteva_a101	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	7	1.0130246
+Lapteva_a101	Compositae subfam. Asteroideae	Compositae subfam. Asteroideae	HERB	2	0.2894356
+Lapteva_a101	Compositae subfam. Cichorioideae	Compositae subfam. Cichorioideae	HERB	2	0.2894356
+Lapteva_a101	Dipsacaceae	Dipsacaceae	HERB	1	0.1447178
+Lapteva_a101	Fabaceae	Fabaceae	HERB	1	0.1447178
+Lapteva_a101	Lamiaceae	Lamiaceae	HERB	2	0.2894356
+Lapteva_a101	Poaceae	Poaceae	HERB	6	0.8683068
+Lapteva_a101	Polygonaceae	Polygonaceae	HERB	1	0.1447178
+Lapteva_a101	Sanguisorba officinalis	Sanguisorba officinalis	HERB	1	0.1447178
+Lapteva_a101	Indeterminable: undifferentiated	Indeterminable: undifferentiated	INUN	2	
+Lapteva_a101	Pteridophyta undifferentiated	Pteridophyta undifferentiated	VACR	73	10.564399

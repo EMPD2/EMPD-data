@@ -1,14 +1,14 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Edwards_a27	5	8	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	976	0.81967213
-1	Edwards_a27	470	553	470	Calluna vulgaris	Calluna vulgaris	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	976	56.659836
-2	Edwards_a27	3408	6	3408	Corylus avellana-type	Corylus avellana-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	976	0.6147541
-3	Edwards_a27	3493	4	2608	Erica tetralix-type	Erica tetralix-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	976	0.40983607
-4	Edwards_a27	3428	110	3428	Cyperaceae class 2	Cyperaceae class 2	HERB	Herbs	HERB	True	True	Herbs	5	976	11.270492
-5	Edwards_a27	3429	6	3429	Cyperaceae class 3	Cyperaceae class 3	HERB	Herbs	HERB	True	True	Herbs	5	976	0.6147541
-6	Edwards_a27	87	9	87	Plantago lanceolata	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	976	0.92213115
-7	Edwards_a27	3898	9	3898	Poaceae class 2	Poaceae class 2	HERB	Herbs	HERB	True	True	Herbs	5	976	0.92213115
-8	Edwards_a27	3899	85	3899	Poaceae class 3	Poaceae class 3	HERB	Herbs	HERB	True	True	Herbs	5	976	8.7090164
-9	Edwards_a27	637	20	524	Potentilla-type	Potentilla-type	HERB	Herbs	HERB	True	True	Herbs	5	976	2.0491803
-10	Edwards_a27	119	6	119	Rubiaceae	Rubiaceae	HERB	Herbs	HERB	True	True	Herbs	5	976	0.6147541
-11	Edwards_a27	3961	160	3961	Pteridophyta spore	Pteridophyta spore	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	976	16.393443
-12	Edwards_a27	165	160	165	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	976	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Edwards_a27	Betula	Betula	TRSH	8	0.81967213
+Edwards_a27	Calluna vulgaris	Calluna vulgaris	TRSH	553	56.659836
+Edwards_a27	Corylus avellana-type	Corylus avellana-type	TRSH	6	0.6147541
+Edwards_a27	Erica tetralix-type	Erica tetralix-type	DWAR	4	0.40983607
+Edwards_a27	Cyperaceae class 2	Cyperaceae class 2	HERB	110	11.270492
+Edwards_a27	Cyperaceae class 3	Cyperaceae class 3	HERB	6	0.6147541
+Edwards_a27	Plantago lanceolata	Plantago lanceolata-type	HERB	9	0.92213115
+Edwards_a27	Poaceae class 2	Poaceae class 2	HERB	9	0.92213115
+Edwards_a27	Poaceae class 3	Poaceae class 3	HERB	85	8.7090164
+Edwards_a27	Potentilla-type	Potentilla-type	HERB	20	2.0491803
+Edwards_a27	Rubiaceae	Rubiaceae	HERB	6	0.6147541
+Edwards_a27	Pteridophyta spore	Pteridophyta spore	VACR	160	16.393443
+Edwards_a27	Sphagnum	Sphagnum	NOPO	160	

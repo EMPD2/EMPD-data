@@ -1,24 +1,24 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Miras_d6	4	1	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	243	0.41152263
-1	Miras_d6	5	37	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	243	15.226337
-2	Miras_d6	3209	5	3209	Calluna	Calluna	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	243	2.0576132
-3	Miras_d6	7	1	7	Carpinus	Carpinus betulus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	243	0.41152263
-4	Miras_d6	454	2	47	Castanea	Castanea sativa	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	243	0.82304527
-5	Miras_d6	9	9	9	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	243	3.7037037
-6	Miras_d6	12	11	12	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	243	4.526749
-7	Miras_d6	455	1	95	Olea	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	243	0.41152263
-8	Miras_d6	18	10	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	243	4.1152263
-9	Miras_d6	19	34	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	243	13.99177
-10	Miras_d6	208	36	208	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	243	14.814815
-11	Miras_d6	31	1	31	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	243	0.41152263
-12	Miras_d6	42	1	42	Brassicaceae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	243	0.41152263
-13	Miras_d6	2569	1	531	Crassula	Crassulaceae	HERB	Herbs	HERB	True	True	Herbs	5	243	0.41152263
-14	Miras_d6	61	1	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	243	0.41152263
-15	Miras_d6	3547	2	3547	Galium	Galium	HERB	Herbs	HERB	True	True	Herbs	5	243	0.82304527
-16	Miras_d6	735	2	286	Plantago	Plantago	HERB	Herbs	HERB	True	True	Herbs	5	243	0.82304527
-17	Miras_d6	106	83	106	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	243	34.156379
-18	Miras_d6	156	1	156	Ranunculaceae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	243	0.41152263
-19	Miras_d6	193	1	193	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	Herbs	HERB	True	True	Herbs	5	243	0.41152263
-20	Miras_d6	3747	1	167	Monolete fern spores	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	243	0.41152263
-21	Miras_d6	432	2	295	Trilete spores	Trilete spore(s)	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	243	0.82304527
-22	Miras_d6	1108	6	197	Varia	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	243	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Miras_d6	Alnus	Alnus	TRSH	1	0.41152263
+Miras_d6	Betula	Betula	TRSH	37	15.226337
+Miras_d6	Calluna	Calluna	DWAR	5	2.0576132
+Miras_d6	Carpinus	Carpinus betulus	TRSH	1	0.41152263
+Miras_d6	Castanea	Castanea sativa	TRSH	2	0.82304527
+Miras_d6	Corylus	Corylus	TRSH	9	3.7037037
+Miras_d6	Fagus	Fagus	TRSH	11	4.526749
+Miras_d6	Olea	Olea europaea	TRSH	1	0.41152263
+Miras_d6	Picea	Picea	TRSH	10	4.1152263
+Miras_d6	Pinus	Pinus	TRSH	34	13.99177
+Miras_d6	Quercus	Quercus	TRSH	36	14.814815
+Miras_d6	Ulmus	Ulmus/Zelkova	TRSH	1	0.41152263
+Miras_d6	Brassicaceae	Brassicaceae	HERB	1	0.41152263
+Miras_d6	Crassula	Crassulaceae	HERB	1	0.41152263
+Miras_d6	Cyperaceae	Cyperaceae	HERB	1	0.41152263
+Miras_d6	Galium	Galium	HERB	2	0.82304527
+Miras_d6	Plantago	Plantago	HERB	2	0.82304527
+Miras_d6	Poaceae	Poaceae	HERB	83	34.156379
+Miras_d6	Ranunculaceae	Ranunculaceae	HERB	1	0.41152263
+Miras_d6	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	1	0.41152263
+Miras_d6	Varia	Indeterminable: unknown	INUN	6	
+Miras_d6	Monolete fern spores	Monolete fern spores	VACR	1	0.41152263
+Miras_d6	Trilete spores	Trilete spore(s)	VACR	2	0.82304527

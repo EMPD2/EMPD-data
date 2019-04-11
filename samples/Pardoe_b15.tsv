@@ -1,21 +1,21 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Pardoe_b15	4	62	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	500	12.4
-1	Pardoe_b15	5	114	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	500	22.8
-2	Pardoe_b15	7	1	7	Carpinus	Carpinus betulus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	500	0.2
-3	Pardoe_b15	9	16	9	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	500	3.2
-4	Pardoe_b15	750	1	750	Empetrum	Empetrum nigrum	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	500	0.2
-5	Pardoe_b15	85	9	85	Juniperus	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	500	1.8
-6	Pardoe_b15	18	13	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	500	2.6
-7	Pardoe_b15	19	174	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	500	34.8
-8	Pardoe_b15	25	13	25	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	500	2.6
-9	Pardoe_b15	552	1	552	Vaccinium	Vaccinium	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	500	0.2
-10	Pardoe_b15	37	1	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	500	0.2
-11	Pardoe_b15	46	2	46	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	500	0.4
-12	Pardoe_b15	52	1	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	500	0.2
-13	Pardoe_b15	61	4	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	500	0.8
-14	Pardoe_b15	755	3	755	Leguminosae	Leguminosae	HERB	Herbs	HERB	True	True	Herbs	5	500	0.6
-15	Pardoe_b15	756	20	257	Oxyria	Oxyria digyna	HERB	Herbs	HERB	True	True	Herbs	5	500	4
-16	Pardoe_b15	102	1	102	Pinguicula	Pinguicula	HERB	Herbs	HERB	True	True	Herbs	5	500	0.2
-17	Pardoe_b15	1611	48	106	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	500	9.6
-18	Pardoe_b15	156	7	156	Ranunculaceae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	500	1.4
-19	Pardoe_b15	738	9	120	Rumex	Rumex/Oxyria	HERB	Herbs	HERB	True	True	Herbs	5	500	1.8
+samplename	original_varname	acc_varname	groupid	count	percentage
+Pardoe_b15	Alnus	Alnus	TRSH	62	12.4
+Pardoe_b15	Betula	Betula	TRSH	114	22.8
+Pardoe_b15	Carpinus	Carpinus betulus	TRSH	1	0.2
+Pardoe_b15	Corylus	Corylus	TRSH	16	3.2
+Pardoe_b15	Empetrum	Empetrum nigrum	DWAR	1	0.2
+Pardoe_b15	Juniperus	Juniperus communis-type	TRSH	9	1.8
+Pardoe_b15	Picea	Picea	TRSH	13	2.6
+Pardoe_b15	Pinus	Pinus	TRSH	174	34.8
+Pardoe_b15	Salix	Salix	TRSH	13	2.6
+Pardoe_b15	Vaccinium	Vaccinium	DWAR	1	0.2
+Pardoe_b15	Artemisia	Artemisia	HERB	1	0.2
+Pardoe_b15	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	2	0.4
+Pardoe_b15	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.2
+Pardoe_b15	Cyperaceae	Cyperaceae	HERB	4	0.8
+Pardoe_b15	Leguminosae	Leguminosae	HERB	3	0.6
+Pardoe_b15	Oxyria	Oxyria digyna	HERB	20	4
+Pardoe_b15	Pinguicula	Pinguicula	HERB	1	0.2
+Pardoe_b15	Gramineae	Poaceae	HERB	48	9.6
+Pardoe_b15	Ranunculaceae	Ranunculaceae	HERB	7	1.4
+Pardoe_b15	Rumex	Rumex/Oxyria	HERB	9	1.8

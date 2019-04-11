@@ -1,16 +1,16 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Pardoe_b32	4	12	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	513	2.3391813
-1	Pardoe_b32	5	74	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	513	14.424951
-2	Pardoe_b32	9	2	9	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	513	0.38986355
-3	Pardoe_b32	750	2	750	Empetrum	Empetrum nigrum	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	513	0.38986355
-4	Pardoe_b32	85	1	85	Juniperus	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	513	0.19493177
-5	Pardoe_b32	18	15	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	513	2.9239766
-6	Pardoe_b32	19	280	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	513	54.580897
-7	Pardoe_b32	25	1	25	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	513	0.19493177
-8	Pardoe_b32	157	1	157	Campanulaceae	Campanulaceae	HERB	Herbs	HERB	True	True	Herbs	5	513	0.19493177
-9	Pardoe_b32	61	4	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	513	0.7797271
-10	Pardoe_b32	756	6	257	Oxyria	Oxyria digyna	HERB	Herbs	HERB	True	True	Herbs	5	513	1.1695906
-11	Pardoe_b32	1611	107	106	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	513	20.8577
-12	Pardoe_b32	156	3	156	Ranunculaceae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	513	0.58479532
-13	Pardoe_b32	503	4	503	Saxifraga	Saxifraga	HERB	Herbs	HERB	True	True	Herbs	5	513	0.7797271
-14	Pardoe_b32	166	1	166	Equisetum	Equisetum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	513	0.19493177
+samplename	original_varname	acc_varname	groupid	count	percentage
+Pardoe_b32	Alnus	Alnus	TRSH	12	2.3391813
+Pardoe_b32	Betula	Betula	TRSH	74	14.424951
+Pardoe_b32	Corylus	Corylus	TRSH	2	0.38986355
+Pardoe_b32	Empetrum	Empetrum nigrum	DWAR	2	0.38986355
+Pardoe_b32	Juniperus	Juniperus communis-type	TRSH	1	0.19493177
+Pardoe_b32	Picea	Picea	TRSH	15	2.9239766
+Pardoe_b32	Pinus	Pinus	TRSH	280	54.580897
+Pardoe_b32	Salix	Salix	TRSH	1	0.19493177
+Pardoe_b32	Campanulaceae	Campanulaceae	HERB	1	0.19493177
+Pardoe_b32	Cyperaceae	Cyperaceae	HERB	4	0.7797271
+Pardoe_b32	Oxyria	Oxyria digyna	HERB	6	1.1695906
+Pardoe_b32	Gramineae	Poaceae	HERB	107	20.8577
+Pardoe_b32	Ranunculaceae	Ranunculaceae	HERB	3	0.58479532
+Pardoe_b32	Saxifraga	Saxifraga	HERB	4	0.7797271
+Pardoe_b32	Equisetum	Equisetum	VACR	1	0.19493177

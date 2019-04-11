@@ -1,16 +1,16 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Seppa_b18	4	3	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	529	0.56710775
-1	Seppa_b18	5	129	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	529	24.385633
-2	Seppa_b18	3182	4	3182	Betula/Corylus/Myrica	Betula/Corylus/Myrica	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	529	0.75614367
-3	Seppa_b18	950	1	750	Empetrum nigrum	Empetrum nigrum	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	529	0.18903592
-4	Seppa_b18	3498	4	3498	Ericaceae-type	Ericaceae-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	529	0.75614367
-5	Seppa_b18	952	2	85	Juniperus communis	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	529	0.37807183
-6	Seppa_b18	18	27	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	529	5.1039698
-7	Seppa_b18	799	334	148	Pinus sylvestris	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	529	63.137996
-8	Seppa_b18	3934	1	3934	Populus tremula	Populus tremula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	529	0.18903592
-9	Seppa_b18	31	1	31	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	529	0.18903592
-10	Seppa_b18	3573	20	3573	Gramineae undifferentiated	Gramineae undifferentiated	HERB	Herbs	HERB	True	True	Herbs	5	529	3.7807183
-11	Seppa_b18	637	1	524	Potentilla-type	Potentilla-type	HERB	Herbs	HERB	True	True	Herbs	5	529	0.18903592
-12	Seppa_b18	2129	2	1330	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	529	0.37807183
-13	Seppa_b18	3227	4	3227	Carex-type	Carex-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	529	0.75614367
-14	Seppa_b18	3431	2	3431	Cyperaceae undifferentiated	Cyperaceae undifferentiated	AQUA	Aquatics	AQUA	False	True	Aquatics	7	529	0.37807183
+samplename	original_varname	acc_varname	groupid	count	percentage
+Seppa_b18	Alnus	Alnus	TRSH	3	0.56710775
+Seppa_b18	Betula	Betula	TRSH	129	24.385633
+Seppa_b18	Betula/Corylus/Myrica	Betula/Corylus/Myrica	TRSH	4	0.75614367
+Seppa_b18	Empetrum nigrum	Empetrum nigrum	DWAR	1	0.18903592
+Seppa_b18	Ericaceae-type	Ericaceae-type	DWAR	4	0.75614367
+Seppa_b18	Juniperus communis	Juniperus communis-type	TRSH	2	0.37807183
+Seppa_b18	Picea	Picea	TRSH	27	5.1039698
+Seppa_b18	Pinus sylvestris	Pinus sylvestris-type	TRSH	334	63.137996
+Seppa_b18	Populus tremula	Populus tremula	TRSH	1	0.18903592
+Seppa_b18	Ulmus	Ulmus/Zelkova	TRSH	1	0.18903592
+Seppa_b18	Gramineae undifferentiated	Gramineae undifferentiated	HERB	20	3.7807183
+Seppa_b18	Potentilla-type	Potentilla-type	HERB	1	0.18903592
+Seppa_b18	Carex-type	Carex-type	AQUA	4	0.75614367
+Seppa_b18	Cyperaceae undifferentiated	Cyperaceae undifferentiated	AQUA	2	0.37807183
+Seppa_b18	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR	2	0.37807183

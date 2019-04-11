@@ -1,28 +1,28 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Pidek_a13	1	34	1	Abies	Abies	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1131	3.0061892
-1	Pidek_a13	4	35	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1131	3.0946065
-2	Pidek_a13	5	53	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1131	4.6861185
-3	Pidek_a13	7	35	7	Carpinus	Carpinus betulus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1131	3.0946065
-4	Pidek_a13	9	3	9	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1131	0.26525199
-5	Pidek_a13	12	18	12	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1131	1.5915119
-6	Pidek_a13	18	4	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1131	0.35366932
-7	Pidek_a13	19	135	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1131	11.93634
-8	Pidek_a13	208	7	208	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1131	0.61892131
-9	Pidek_a13	953	1	953	Vaccinium-type	Vaccinium-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	1131	0.08841733
-10	Pidek_a13	625	1	598	Lysimachia	Anagallis-type	HERB	Herbs	HERB	True	True	Herbs	5	1131	0.08841733
-11	Pidek_a13	37	13	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	1131	1.1494253
-12	Pidek_a13	42	4	42	Brassicaceae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	1131	0.35366932
-13	Pidek_a13	3237	1	3237	Caryophyllaceae undifferentiated	Caryophyllaceae undifferentiated	HERB	Herbs	HERB	True	True	Herbs	5	1131	0.08841733
-14	Pidek_a13	3017	14	50	Cerealia undifferentiated	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	1131	1.2378426
-15	Pidek_a13	129	2	50	Secale	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	1131	0.17683466
-16	Pidek_a13	52	6	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	1131	0.53050398
-17	Pidek_a13	3383	12	3383	Compositae subfam. Cichorioideae	Compositae subfam. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	1131	1.061008
-18	Pidek_a13	61	3	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	1131	0.26525199
-19	Pidek_a13	1258	2	1258	Fagopyrum	Fagopyrum	HERB	Herbs	HERB	True	True	Herbs	5	1131	0.17683466
-20	Pidek_a13	600	3	34	Anthemis-type	Matricaria-type	HERB	Herbs	HERB	True	True	Herbs	5	1131	0.26525199
-21	Pidek_a13	87	8	87	Plantago lanceolata	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	1131	0.70733864
-22	Pidek_a13	106	540	106	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	1131	47.745358
-23	Pidek_a13	640	1	290	Ranunculus	Ranunculus-type	HERB	Herbs	HERB	True	True	Herbs	5	1131	0.08841733
-24	Pidek_a13	4075	190	4075	Rumex undifferentiated	Rumex undifferentiated	HERB	Herbs	HERB	True	True	Herbs	5	1131	16.799293
-25	Pidek_a13	1286	1	1286	Scleranthus perennis	Scleranthus perennis	HERB	Herbs	HERB	True	True	Herbs	5	1131	0.08841733
-26	Pidek_a13	2437	5	154	Solidago-type	Senecio-type	HERB	Herbs	HERB	True	True	Herbs	5	1131	0.44208665
+samplename	original_varname	acc_varname	groupid	count	percentage
+Pidek_a13	Abies	Abies	TRSH	34	3.0061892
+Pidek_a13	Alnus	Alnus	TRSH	35	3.0946065
+Pidek_a13	Betula	Betula	TRSH	53	4.6861185
+Pidek_a13	Carpinus	Carpinus betulus	TRSH	35	3.0946065
+Pidek_a13	Corylus	Corylus	TRSH	3	0.26525199
+Pidek_a13	Fagus	Fagus	TRSH	18	1.5915119
+Pidek_a13	Picea	Picea	TRSH	4	0.35366932
+Pidek_a13	Pinus	Pinus	TRSH	135	11.93634
+Pidek_a13	Quercus	Quercus	TRSH	7	0.61892131
+Pidek_a13	Vaccinium-type	Vaccinium-type	DWAR	1	0.08841733
+Pidek_a13	Lysimachia	Anagallis-type	HERB	1	0.08841733
+Pidek_a13	Artemisia	Artemisia	HERB	13	1.1494253
+Pidek_a13	Brassicaceae	Brassicaceae	HERB	4	0.35366932
+Pidek_a13	Caryophyllaceae undifferentiated	Caryophyllaceae undifferentiated	HERB	1	0.08841733
+Pidek_a13	Cerealia undifferentiated	Cerealia-type	HERB	14	1.2378426
+Pidek_a13	Secale	Cerealia-type	HERB	2	0.17683466
+Pidek_a13	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	6	0.53050398
+Pidek_a13	Compositae subfam. Cichorioideae	Compositae subfam. Cichorioideae	HERB	12	1.061008
+Pidek_a13	Cyperaceae	Cyperaceae	HERB	3	0.26525199
+Pidek_a13	Fagopyrum	Fagopyrum	HERB	2	0.17683466
+Pidek_a13	Anthemis-type	Matricaria-type	HERB	3	0.26525199
+Pidek_a13	Plantago lanceolata	Plantago lanceolata-type	HERB	8	0.70733864
+Pidek_a13	Poaceae	Poaceae	HERB	540	47.745358
+Pidek_a13	Ranunculus	Ranunculus-type	HERB	1	0.08841733
+Pidek_a13	Rumex undifferentiated	Rumex undifferentiated	HERB	190	16.799293
+Pidek_a13	Scleranthus perennis	Scleranthus perennis	HERB	1	0.08841733
+Pidek_a13	Solidago-type	Senecio-type	HERB	5	0.44208665

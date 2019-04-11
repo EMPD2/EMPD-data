@@ -1,25 +1,25 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Mitchell_a26	4	1	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	686	0.14577259
-1	Mitchell_a26	5	403	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	686	58.746356
-2	Mitchell_a26	9	2	9	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	686	0.29154519
-3	Mitchell_a26	12	3	12	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	686	0.43731778
-4	Mitchell_a26	13	9	13	Fraxinus	Fraxinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	686	1.3119534
-5	Mitchell_a26	515	70	79	Hedera	Hedera	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	686	10.204082
-6	Mitchell_a26	14	40	14	Ilex	Ilex	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	686	5.8309038
-7	Mitchell_a26	19	6	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	686	0.87463557
-8	Mitchell_a26	208	85	208	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	686	12.390671
-9	Mitchell_a26	23	1	23	Rhododendron	Rhododendron	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	686	0.14577259
-10	Mitchell_a26	4045	1	4045	Rosaceae undifferentiated	Rosaceae undifferentiated	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	686	0.14577259
-11	Mitchell_a26	25	3	25	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	686	0.43731778
-12	Mitchell_a26	215	33	136	Taxus	Taxus baccata	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	686	4.8104956
-13	Mitchell_a26	31	3	31	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	686	0.43731778
-14	Mitchell_a26	1347	1	53	Asteraceae Liguliflorae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	686	0.14577259
-15	Mitchell_a26	87	2	87	Plantago lanceolata	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	686	0.29154519
-16	Mitchell_a26	1611	12	106	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	686	1.7492711
-17	Mitchell_a26	4102	2	4102	Sanicula	Sanicula	HERB	Herbs	HERB	True	True	Herbs	5	686	0.29154519
-18	Mitchell_a26	677	2	230	Polypodium	Polypodium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	686	0.29154519
-19	Mitchell_a26	1279	7	1279	Pteridium	Pteridium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	686	1.0204082
-20	Mitchell_a26	3626	2	1009	Indeterminable: concealed	Indeterminable: concealed	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	686	
-21	Mitchell_a26	3628	8	1934	Indeterminable: crumpled	Indeterminable: crumpled	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	686	
-22	Mitchell_a26	3629	7	3629	Indeterminable: deteriorated	Indeterminable: deteriorated	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	686	
-23	Mitchell_a26	980	3	197	Unknown	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	686	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Mitchell_a26	Alnus	Alnus	TRSH	1	0.14577259
+Mitchell_a26	Betula	Betula	TRSH	403	58.746356
+Mitchell_a26	Corylus	Corylus	TRSH	2	0.29154519
+Mitchell_a26	Fagus	Fagus	TRSH	3	0.43731778
+Mitchell_a26	Fraxinus	Fraxinus	TRSH	9	1.3119534
+Mitchell_a26	Hedera	Hedera	TRSH	70	10.204082
+Mitchell_a26	Ilex	Ilex	TRSH	40	5.8309038
+Mitchell_a26	Pinus	Pinus	TRSH	6	0.87463557
+Mitchell_a26	Quercus	Quercus	TRSH	85	12.390671
+Mitchell_a26	Rhododendron	Rhododendron	TRSH	1	0.14577259
+Mitchell_a26	Rosaceae undifferentiated	Rosaceae undifferentiated	TRSH	1	0.14577259
+Mitchell_a26	Salix	Salix	TRSH	3	0.43731778
+Mitchell_a26	Taxus	Taxus baccata	TRSH	33	4.8104956
+Mitchell_a26	Ulmus	Ulmus/Zelkova	TRSH	3	0.43731778
+Mitchell_a26	Asteraceae Liguliflorae	Asteraceae subf. Cichorioideae	HERB	1	0.14577259
+Mitchell_a26	Plantago lanceolata	Plantago lanceolata-type	HERB	2	0.29154519
+Mitchell_a26	Gramineae	Poaceae	HERB	12	1.7492711
+Mitchell_a26	Sanicula	Sanicula	HERB	2	0.29154519
+Mitchell_a26	Indeterminable: concealed	Indeterminable: concealed	INUN	2	
+Mitchell_a26	Indeterminable: crumpled	Indeterminable: crumpled	INUN	8	
+Mitchell_a26	Indeterminable: deteriorated	Indeterminable: deteriorated	INUN	7	
+Mitchell_a26	Unknown	Indeterminable: unknown	INUN	3	
+Mitchell_a26	Polypodium	Polypodium	VACR	2	0.29154519
+Mitchell_a26	Pteridium	Pteridium	VACR	7	1.0204082

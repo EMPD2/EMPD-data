@@ -1,30 +1,30 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Bjune_a313	4	1	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	149	0.67114094
-1	Bjune_a313	5	12	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	149	8.0536913
-2	Bjune_a313	59	1	9	Corylus avellana	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	149	0.67114094
-3	Bjune_a313	3498	1	3498	Ericaceae-type	Ericaceae-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	149	0.67114094
-4	Bjune_a313	799	8	148	Pinus sylvestris	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	149	5.3691275
-5	Bjune_a313	4088	30	4088	Salix undifferentiated	Salix undifferentiated	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	149	20.134228
-6	Bjune_a313	37	3	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	149	2.0134228
-7	Bjune_a313	494	11	42	Cruciferae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	149	7.3825503
-8	Bjune_a313	3250	1	3250	Cerastium alpinum-type	Cerastium alpinum-type	HERB	Herbs	HERB	True	True	Herbs	5	149	0.67114094
-9	Bjune_a313	52	1	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	149	0.67114094
-10	Bjune_a313	3573	26	3573	Gramineae undifferentiated	Gramineae undifferentiated	HERB	Herbs	HERB	True	True	Herbs	5	149	17.449664
-11	Bjune_a313	257	38	257	Oxyria digyna	Oxyria digyna	HERB	Herbs	HERB	True	True	Herbs	5	149	25.503356
-12	Bjune_a313	4109	1	4109	Saxifraga cespitosa-type	Saxifraga cespitosa-type	HERB	Herbs	HERB	True	True	Herbs	5	149	0.67114094
-13	Bjune_a313	2962	2	1412	Saxifraga cernua-type	Saxifraga granulata-type	HERB	Herbs	HERB	True	True	Herbs	5	149	1.3422819
-14	Bjune_a313	967	1	651	Saxifraga oppositifolia-type	Saxifraga oppositifolia-type	HERB	Herbs	HERB	True	True	Herbs	5	149	0.67114094
-15	Bjune_a313	137	1	137	Thalictrum	Thalictrum	HERB	Herbs	HERB	True	True	Herbs	5	149	0.67114094
-16	Bjune_a313	1257	1	783	Dryopteris-type	Dryopteris-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	149	0.67114094
-17	Bjune_a313	975	9	204	Huperzia selago	Huperzia selago	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	149	6.0402685
-18	Bjune_a313	3718	1	3718	Lycopodium undifferentiated	Lycopodium undifferentiated	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	149	0.67114094
-19	Bjune_a313	674	499	674	Botryococcus	Botryococcus	ALGA	Algae	AQUA	False	True	Aquatics	7	149	334.89933
-20	Bjune_a313	3227	4	3227	Carex-type	Carex-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	149	2.6845638
-21	Bjune_a313	3431	2	3431	Cyperaceae undifferentiated	Cyperaceae undifferentiated	AQUA	Aquatics	AQUA	False	True	Aquatics	7	149	1.3422819
-22	Bjune_a313	673	58	673	Pediastrum	Pediastrum	ALGA	Algae	AQUA	False	True	Aquatics	7	149	38.926174
-23	Bjune_a313	4012	1	4012	Ranunculus trichophyllus-type	Ranunculus trichophyllus-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	149	0.67114094
-24	Bjune_a313	3625	1	1008	Indeterminable: broken	Indeterminable: broken	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	149	
-25	Bjune_a313	3626	1	1009	Indeterminable: concealed	Indeterminable: concealed	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	149	
-26	Bjune_a313	3627	13	1334	Indeterminable: corroded	Indeterminable: corroded	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	149	
-27	Bjune_a313	729	4	729	Indeterminable: degraded	Indeterminable: degraded	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	149	
-28	Bjune_a313	165	2	165	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	149	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Bjune_a313	Alnus	Alnus	TRSH	1	0.67114094
+Bjune_a313	Betula	Betula	TRSH	12	8.0536913
+Bjune_a313	Corylus avellana	Corylus	TRSH	1	0.67114094
+Bjune_a313	Ericaceae-type	Ericaceae-type	DWAR	1	0.67114094
+Bjune_a313	Pinus sylvestris	Pinus sylvestris-type	TRSH	8	5.3691275
+Bjune_a313	Salix undifferentiated	Salix undifferentiated	TRSH	30	20.134228
+Bjune_a313	Artemisia	Artemisia	HERB	3	2.0134228
+Bjune_a313	Cruciferae	Brassicaceae	HERB	11	7.3825503
+Bjune_a313	Cerastium alpinum-type	Cerastium alpinum-type	HERB	1	0.67114094
+Bjune_a313	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.67114094
+Bjune_a313	Gramineae undifferentiated	Gramineae undifferentiated	HERB	26	17.449664
+Bjune_a313	Oxyria digyna	Oxyria digyna	HERB	38	25.503356
+Bjune_a313	Saxifraga cespitosa-type	Saxifraga cespitosa-type	HERB	1	0.67114094
+Bjune_a313	Saxifraga cernua-type	Saxifraga granulata-type	HERB	2	1.3422819
+Bjune_a313	Saxifraga oppositifolia-type	Saxifraga oppositifolia-type	HERB	1	0.67114094
+Bjune_a313	Thalictrum	Thalictrum	HERB	1	0.67114094
+Bjune_a313	Botryococcus	Botryococcus	ALGA	499	334.89933
+Bjune_a313	Carex-type	Carex-type	AQUA	4	2.6845638
+Bjune_a313	Cyperaceae undifferentiated	Cyperaceae undifferentiated	AQUA	2	1.3422819
+Bjune_a313	Pediastrum	Pediastrum	ALGA	58	38.926174
+Bjune_a313	Ranunculus trichophyllus-type	Ranunculus trichophyllus-type	AQUA	1	0.67114094
+Bjune_a313	Indeterminable: broken	Indeterminable: broken	INUN	1	
+Bjune_a313	Indeterminable: concealed	Indeterminable: concealed	INUN	1	
+Bjune_a313	Indeterminable: corroded	Indeterminable: corroded	INUN	13	
+Bjune_a313	Indeterminable: degraded	Indeterminable: degraded	INUN	4	
+Bjune_a313	Dryopteris-type	Dryopteris-type	VACR	1	0.67114094
+Bjune_a313	Huperzia selago	Huperzia selago	VACR	9	6.0402685
+Bjune_a313	Lycopodium undifferentiated	Lycopodium undifferentiated	VACR	1	0.67114094
+Bjune_a313	Sphagnum	Sphagnum	NOPO	2	

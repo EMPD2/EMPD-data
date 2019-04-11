@@ -1,24 +1,24 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Barboni_a1169	1742	1	1742	Cistus salvifolius	Cistus salvifolius	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	336	0.29761905
-1	Barboni_a1169	725	11	363	Cupressaceae	Cupressaceae undiff.	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	336	3.2738095
-2	Barboni_a1169	66	3	66	Erica	Erica	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	336	0.89285714
-3	Barboni_a1169	3550	6	3550	Genista/Ulex	Genista/Ulex	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	336	1.7857143
-4	Barboni_a1169	3768	1	393	Myrtaceae	Myrtaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	336	0.29761905
-5	Barboni_a1169	95	3	95	Olea europaea	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	336	0.89285714
-6	Barboni_a1169	101	2	101	Phillyrea	Phillyrea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	336	0.5952381
-7	Barboni_a1169	19	33	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	336	9.8214286
-8	Barboni_a1169	103	13	103	Pistacia	Pistacia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	336	3.8690476
-9	Barboni_a1169	1062	217	22	Quercus ilex-type	Quercus ilex-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	336	64.583333
-10	Barboni_a1169	601	1	36	Umbelliferae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	336	0.29761905
-11	Barboni_a1169	494	2	42	Cruciferae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	336	0.5952381
-12	Barboni_a1169	1253	1	614	Cirsium-type	Cirsium	HERB	Herbs	HERB	True	True	Herbs	5	336	0.29761905
-13	Barboni_a1169	3367	1	3367	Cistus undifferentiated	Cistus undifferentiated	HERB	Herbs	HERB	True	True	Herbs	5	336	0.29761905
-14	Barboni_a1169	3381	6	3381	Compositae subfam. Asteroideae	Compositae subfam. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	336	1.7857143
-15	Barboni_a1169	3383	16	3383	Compositae subfam. Cichorioideae	Compositae subfam. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	336	4.7619048
-16	Barboni_a1169	89	2	89	Liliaceae	Liliaceae-type	HERB	Herbs	HERB	True	True	Herbs	5	336	0.5952381
-17	Barboni_a1169	1162	1	622	Lotus	Lotus-type	HERB	Herbs	HERB	True	True	Herbs	5	336	0.29761905
-18	Barboni_a1169	243	1	243	Mercurialis	Mercurialis	HERB	Herbs	HERB	True	True	Herbs	5	336	0.29761905
-19	Barboni_a1169	58	2	58	Plantago coronopus	Plantago coronopus-type	HERB	Herbs	HERB	True	True	Herbs	5	336	0.5952381
-20	Barboni_a1169	1085	2	87	Plantago lanceolata-type	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	336	0.5952381
-21	Barboni_a1169	1611	11	106	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	336	3.2738095
-22	Barboni_a1169	1108	1	197	Varia	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	336	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Barboni_a1169	Cistus salvifolius	Cistus salvifolius	TRSH	1	0.29761905
+Barboni_a1169	Cupressaceae	Cupressaceae undiff.	TRSH	11	3.2738095
+Barboni_a1169	Erica	Erica	DWAR	3	0.89285714
+Barboni_a1169	Genista/Ulex	Genista/Ulex	TRSH	6	1.7857143
+Barboni_a1169	Myrtaceae	Myrtaceae	TRSH	1	0.29761905
+Barboni_a1169	Olea europaea	Olea europaea	TRSH	3	0.89285714
+Barboni_a1169	Phillyrea	Phillyrea	TRSH	2	0.5952381
+Barboni_a1169	Pinus	Pinus	TRSH	33	9.8214286
+Barboni_a1169	Pistacia	Pistacia	TRSH	13	3.8690476
+Barboni_a1169	Quercus ilex-type	Quercus ilex-type	TRSH	217	64.583333
+Barboni_a1169	Umbelliferae	Apiaceae	HERB	1	0.29761905
+Barboni_a1169	Cruciferae	Brassicaceae	HERB	2	0.5952381
+Barboni_a1169	Cirsium-type	Cirsium	HERB	1	0.29761905
+Barboni_a1169	Cistus undifferentiated	Cistus undifferentiated	HERB	1	0.29761905
+Barboni_a1169	Compositae subfam. Asteroideae	Compositae subfam. Asteroideae	HERB	6	1.7857143
+Barboni_a1169	Compositae subfam. Cichorioideae	Compositae subfam. Cichorioideae	HERB	16	4.7619048
+Barboni_a1169	Liliaceae	Liliaceae-type	HERB	2	0.5952381
+Barboni_a1169	Lotus	Lotus-type	HERB	1	0.29761905
+Barboni_a1169	Mercurialis	Mercurialis	HERB	1	0.29761905
+Barboni_a1169	Plantago coronopus	Plantago coronopus-type	HERB	2	0.5952381
+Barboni_a1169	Plantago lanceolata-type	Plantago lanceolata-type	HERB	2	0.5952381
+Barboni_a1169	Gramineae	Poaceae	HERB	11	3.2738095
+Barboni_a1169	Varia	Indeterminable: unknown	INUN	1	

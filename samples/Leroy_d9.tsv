@@ -1,31 +1,31 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Leroy_d9	1	1	1	Abies	Abies	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	378	0.26455026
-1	Leroy_d9	4	5	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	378	1.3227513
-2	Leroy_d9	3229	154	3229	Carpinus betulus-type	Carpinus betulus-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	378	40.740741
-3	Leroy_d9	454	9	47	Castanea	Castanea sativa	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	378	2.3809524
-4	Leroy_d9	9	6	9	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	378	1.5873016
-5	Leroy_d9	725	1	363	Cupressaceae	Cupressaceae undiff.	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	378	0.26455026
-6	Leroy_d9	11	1	11	Ericaceae	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	378	0.26455026
-7	Leroy_d9	12	60	12	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	378	15.873016
-8	Leroy_d9	1057	1	75	Fraxinus excelsior-type	Fraxinus excelsior-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	378	0.26455026
-9	Leroy_d9	515	5	79	Hedera	Hedera	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	378	1.3227513
-10	Leroy_d9	14	2	14	Ilex	Ilex	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	378	0.52910053
-11	Leroy_d9	15	5	15	Juglans	Juglans	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	378	1.3227513
-12	Leroy_d9	455	3	95	Olea	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	378	0.79365079
-13	Leroy_d9	19	67	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	378	17.724868
-14	Leroy_d9	21	11	21	Quercus deciduous	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	378	2.9100529
-15	Leroy_d9	118	1	118	Rosaceae	Rosaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	378	0.26455026
-16	Leroy_d9	25	4	25	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	378	1.0582011
-17	Leroy_d9	146	1	146	Vitis	Vitis	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	378	0.26455026
-18	Leroy_d9	3086	5	3086	Amaranthaceae/Chenopodiaceae	Amaranthaceae/Chenopodiaceae	HERB	Herbs	HERB	True	True	Herbs	5	378	1.3227513
-19	Leroy_d9	36	1	36	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	378	0.26455026
-20	Leroy_d9	37	1	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	378	0.26455026
-21	Leroy_d9	1936	16	180	Asteraceae Tubuliflorae	Asteraceae subf. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	378	4.2328042
-22	Leroy_d9	89	1	89	Liliaceae	Liliaceae-type	HERB	Herbs	HERB	True	True	Herbs	5	378	0.26455026
-23	Leroy_d9	93	1	93	Mercurialis annua	Mercurialis annua	HERB	Herbs	HERB	True	True	Herbs	5	378	0.26455026
-24	Leroy_d9	106	11	106	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	378	2.9100529
-25	Leroy_d9	3891	1	3891	Poaceae (37 um)	Poaceae (37 um)	HERB	Herbs	HERB	True	True	Herbs	5	378	0.26455026
-26	Leroy_d9	156	2	156	Ranunculaceae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	378	0.52910053
-27	Leroy_d9	641	1	113	Ranunculus acris-type	Ranunculus acris-type	HERB	Herbs	HERB	True	True	Herbs	5	378	0.26455026
-28	Leroy_d9	738	1	120	Rumex	Rumex/Oxyria	HERB	Herbs	HERB	True	True	Herbs	5	378	0.26455026
-29	Leroy_d9	3631	19	197	Indeterminable: unknown	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	378	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Leroy_d9	Abies	Abies	TRSH	1	0.26455026
+Leroy_d9	Alnus	Alnus	TRSH	5	1.3227513
+Leroy_d9	Carpinus betulus-type	Carpinus betulus-type	TRSH	154	40.740741
+Leroy_d9	Castanea	Castanea sativa	TRSH	9	2.3809524
+Leroy_d9	Corylus	Corylus	TRSH	6	1.5873016
+Leroy_d9	Cupressaceae	Cupressaceae undiff.	TRSH	1	0.26455026
+Leroy_d9	Ericaceae	Ericales (tetrad)	DWAR	1	0.26455026
+Leroy_d9	Fagus	Fagus	TRSH	60	15.873016
+Leroy_d9	Fraxinus excelsior-type	Fraxinus excelsior-type	TRSH	1	0.26455026
+Leroy_d9	Hedera	Hedera	TRSH	5	1.3227513
+Leroy_d9	Ilex	Ilex	TRSH	2	0.52910053
+Leroy_d9	Juglans	Juglans	TRSH	5	1.3227513
+Leroy_d9	Olea	Olea europaea	TRSH	3	0.79365079
+Leroy_d9	Pinus	Pinus	TRSH	67	17.724868
+Leroy_d9	Quercus deciduous	Quercus robur-type	TRSH	11	2.9100529
+Leroy_d9	Rosaceae	Rosaceae	TRSH	1	0.26455026
+Leroy_d9	Salix	Salix	TRSH	4	1.0582011
+Leroy_d9	Vitis	Vitis	TRSH	1	0.26455026
+Leroy_d9	Amaranthaceae/Chenopodiaceae	Amaranthaceae/Chenopodiaceae	HERB	5	1.3227513
+Leroy_d9	Apiaceae	Apiaceae	HERB	1	0.26455026
+Leroy_d9	Artemisia	Artemisia	HERB	1	0.26455026
+Leroy_d9	Asteraceae Tubuliflorae	Asteraceae subf. Asteroideae	HERB	16	4.2328042
+Leroy_d9	Liliaceae	Liliaceae-type	HERB	1	0.26455026
+Leroy_d9	Mercurialis annua	Mercurialis annua	HERB	1	0.26455026
+Leroy_d9	Poaceae	Poaceae	HERB	11	2.9100529
+Leroy_d9	Poaceae (37 um)	Poaceae (37 um)	HERB	1	0.26455026
+Leroy_d9	Ranunculaceae	Ranunculaceae	HERB	2	0.52910053
+Leroy_d9	Ranunculus acris-type	Ranunculus acris-type	HERB	1	0.26455026
+Leroy_d9	Rumex	Rumex/Oxyria	HERB	1	0.26455026
+Leroy_d9	Indeterminable: unknown	Indeterminable: unknown	INUN	19	

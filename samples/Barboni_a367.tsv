@@ -1,19 +1,19 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Barboni_a367	5	286	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	391	73.14578
-1	Barboni_a367	3209	1	3209	Calluna	Calluna	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	391	0.25575448
-2	Barboni_a367	750	4	750	Empetrum	Empetrum nigrum	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	391	1.0230179
-3	Barboni_a367	11	1	11	Ericaceae	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	391	0.25575448
-4	Barboni_a367	85	1	85	Juniperus	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	391	0.25575448
-5	Barboni_a367	18	1	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	391	0.25575448
-6	Barboni_a367	19	23	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	391	5.8823529
-7	Barboni_a367	173	1	21	Quercus robur-type	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	391	0.25575448
-8	Barboni_a367	25	1	25	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	391	0.25575448
-9	Barboni_a367	73	1	73	Filipendula	Filipendula	HERB	Herbs	HERB	True	True	Herbs	5	391	0.25575448
-10	Barboni_a367	1611	61	106	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	391	15.601023
-11	Barboni_a367	738	1	120	Rumex	Rumex/Oxyria	HERB	Herbs	HERB	True	True	Herbs	5	391	0.25575448
-12	Barboni_a367	1723	1	1559	Lycopodium clavatum	Lycopodium clavatum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	391	0.25575448
-13	Barboni_a367	3751	6	3751	Monolete spore(s)	Monolete spore(s)	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	391	1.5345269
-14	Barboni_a367	1279	1	1279	Pteridium	Pteridium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	391	0.25575448
-15	Barboni_a367	4236	1	295	Trilete spore(s)	Trilete spore(s)	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	391	0.25575448
-16	Barboni_a367	1168	1	392	Myriophyllum spicatum	Myriophyllum spicatum	AQUA	Aquatics	AQUA	False	True	Aquatics	7	391	0.25575448
-17	Barboni_a367	165	1	165	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	391	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Barboni_a367	Betula	Betula	TRSH	286	73.14578
+Barboni_a367	Calluna	Calluna	DWAR	1	0.25575448
+Barboni_a367	Empetrum	Empetrum nigrum	DWAR	4	1.0230179
+Barboni_a367	Ericaceae	Ericales (tetrad)	DWAR	1	0.25575448
+Barboni_a367	Juniperus	Juniperus communis-type	TRSH	1	0.25575448
+Barboni_a367	Picea	Picea	TRSH	1	0.25575448
+Barboni_a367	Pinus	Pinus	TRSH	23	5.8823529
+Barboni_a367	Quercus robur-type	Quercus robur-type	TRSH	1	0.25575448
+Barboni_a367	Salix	Salix	TRSH	1	0.25575448
+Barboni_a367	Filipendula	Filipendula	HERB	1	0.25575448
+Barboni_a367	Gramineae	Poaceae	HERB	61	15.601023
+Barboni_a367	Rumex	Rumex/Oxyria	HERB	1	0.25575448
+Barboni_a367	Myriophyllum spicatum	Myriophyllum spicatum	AQUA	1	0.25575448
+Barboni_a367	Lycopodium clavatum	Lycopodium clavatum	VACR	1	0.25575448
+Barboni_a367	Monolete spore(s)	Monolete spore(s)	VACR	6	1.5345269
+Barboni_a367	Pteridium	Pteridium	VACR	1	0.25575448
+Barboni_a367	Sphagnum	Sphagnum	NOPO	1	
+Barboni_a367	Trilete spore(s)	Trilete spore(s)	VACR	1	0.25575448

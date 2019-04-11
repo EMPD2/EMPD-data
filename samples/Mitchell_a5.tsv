@@ -1,32 +1,32 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Mitchell_a5	4	5	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	547	0.91407678
-1	Mitchell_a5	5	74	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	547	13.528336
-2	Mitchell_a5	3209	20	3209	Calluna	Calluna	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	547	3.6563071
-3	Mitchell_a5	9	5	9	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	547	0.91407678
-4	Mitchell_a5	12	1	12	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	547	0.18281536
-5	Mitchell_a5	14	161	14	Ilex	Ilex	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	547	29.433272
-6	Mitchell_a5	528	1	528	Lonicera	Lonicera	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	547	0.18281536
-7	Mitchell_a5	19	11	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	547	2.0109689
-8	Mitchell_a5	208	111	208	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	547	20.292505
-9	Mitchell_a5	4045	3	4045	Rosaceae undifferentiated	Rosaceae undifferentiated	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	547	0.54844607
-10	Mitchell_a5	25	3	25	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	547	0.54844607
-11	Mitchell_a5	132	1	132	Sorbus	Sorbus-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	547	0.18281536
-12	Mitchell_a5	31	1	31	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	547	0.18281536
-13	Mitchell_a5	552	1	552	Vaccinium	Vaccinium	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	547	0.18281536
-14	Mitchell_a5	1347	1	53	Asteraceae Liguliflorae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	547	0.18281536
-15	Mitchell_a5	61	2	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	547	0.36563071
-16	Mitchell_a5	73	1	73	Filipendula	Filipendula	HERB	Herbs	HERB	True	True	Herbs	5	547	0.18281536
-17	Mitchell_a5	755	1	755	Leguminosae	Leguminosae	HERB	Herbs	HERB	True	True	Herbs	5	547	0.18281536
-18	Mitchell_a5	87	7	87	Plantago lanceolata	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	547	1.2797075
-19	Mitchell_a5	1611	109	106	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	547	19.926874
-20	Mitchell_a5	119	1	119	Rubiaceae	Rubiaceae	HERB	Herbs	HERB	True	True	Herbs	5	547	0.18281536
-21	Mitchell_a5	1408	3	122	Rumex acetosella-type	Rumex acetosella	HERB	Herbs	HERB	True	True	Herbs	5	547	0.54844607
-22	Mitchell_a5	2385	2	267	Rumex crispus-type	Rumex crispus-type	HERB	Herbs	HERB	True	True	Herbs	5	547	0.36563071
-23	Mitchell_a5	3523	1	3523	Filicales undifferentiated	Filicales undifferentiated	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	547	0.18281536
-24	Mitchell_a5	3620	11	3620	Hymenophyllum wilsonii	Hymenophyllum wilsonii	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	547	2.0109689
-25	Mitchell_a5	1565	1	478	Osmunda	Osmunda regalis	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	547	0.18281536
-26	Mitchell_a5	677	9	230	Polypodium	Polypodium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	547	1.6453382
-27	Mitchell_a5	3626	1	1009	Indeterminable: concealed	Indeterminable: concealed	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	547	
-28	Mitchell_a5	3628	6	1934	Indeterminable: crumpled	Indeterminable: crumpled	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	547	
-29	Mitchell_a5	980	2	197	Unknown	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	547	
-30	Mitchell_a5	165	1	165	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	547	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Mitchell_a5	Alnus	Alnus	TRSH	5	0.91407678
+Mitchell_a5	Betula	Betula	TRSH	74	13.528336
+Mitchell_a5	Calluna	Calluna	DWAR	20	3.6563071
+Mitchell_a5	Corylus	Corylus	TRSH	5	0.91407678
+Mitchell_a5	Fagus	Fagus	TRSH	1	0.18281536
+Mitchell_a5	Ilex	Ilex	TRSH	161	29.433272
+Mitchell_a5	Lonicera	Lonicera	TRSH	1	0.18281536
+Mitchell_a5	Pinus	Pinus	TRSH	11	2.0109689
+Mitchell_a5	Quercus	Quercus	TRSH	111	20.292505
+Mitchell_a5	Rosaceae undifferentiated	Rosaceae undifferentiated	TRSH	3	0.54844607
+Mitchell_a5	Salix	Salix	TRSH	3	0.54844607
+Mitchell_a5	Sorbus	Sorbus-type	TRSH	1	0.18281536
+Mitchell_a5	Ulmus	Ulmus/Zelkova	TRSH	1	0.18281536
+Mitchell_a5	Vaccinium	Vaccinium	DWAR	1	0.18281536
+Mitchell_a5	Asteraceae Liguliflorae	Asteraceae subf. Cichorioideae	HERB	1	0.18281536
+Mitchell_a5	Cyperaceae	Cyperaceae	HERB	2	0.36563071
+Mitchell_a5	Filipendula	Filipendula	HERB	1	0.18281536
+Mitchell_a5	Leguminosae	Leguminosae	HERB	1	0.18281536
+Mitchell_a5	Plantago lanceolata	Plantago lanceolata-type	HERB	7	1.2797075
+Mitchell_a5	Gramineae	Poaceae	HERB	109	19.926874
+Mitchell_a5	Rubiaceae	Rubiaceae	HERB	1	0.18281536
+Mitchell_a5	Rumex acetosella-type	Rumex acetosella	HERB	3	0.54844607
+Mitchell_a5	Rumex crispus-type	Rumex crispus-type	HERB	2	0.36563071
+Mitchell_a5	Indeterminable: concealed	Indeterminable: concealed	INUN	1	
+Mitchell_a5	Indeterminable: crumpled	Indeterminable: crumpled	INUN	6	
+Mitchell_a5	Unknown	Indeterminable: unknown	INUN	2	
+Mitchell_a5	Filicales undifferentiated	Filicales undifferentiated	VACR	1	0.18281536
+Mitchell_a5	Hymenophyllum wilsonii	Hymenophyllum wilsonii	VACR	11	2.0109689
+Mitchell_a5	Osmunda	Osmunda regalis	VACR	1	0.18281536
+Mitchell_a5	Polypodium	Polypodium	VACR	9	1.6453382
+Mitchell_a5	Sphagnum	Sphagnum	NOPO	1	

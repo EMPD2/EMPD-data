@@ -1,18 +1,18 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	EPDcoretop_E227	4	10	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	328	3.0487805
-1	EPDcoretop_E227	5	6	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	328	1.8292683
-2	EPDcoretop_E227	9	3	9	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	328	0.91463415
-3	EPDcoretop_E227	11	6	11	Ericaceae	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	328	1.8292683
-4	EPDcoretop_E227	12	1	12	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	328	0.30487805
-5	EPDcoretop_E227	18	3	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	328	0.91463415
-6	EPDcoretop_E227	19	173	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	328	52.743902
-7	EPDcoretop_E227	208	3	208	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	328	0.91463415
-8	EPDcoretop_E227	118	3	118	Rosaceae	Rosaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	328	0.91463415
-9	EPDcoretop_E227	2471	13	155	Compositae	Asteraceae	HERB	Herbs	HERB	True	True	Herbs	5	328	3.9634146
-10	EPDcoretop_E227	46	3	46	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	328	0.91463415
-11	EPDcoretop_E227	1075	3	50	Cerealia-type	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	328	0.91463415
-12	EPDcoretop_E227	61	28	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	328	8.5365854
-13	EPDcoretop_E227	1611	66	106	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	328	20.121951
-14	EPDcoretop_E227	164	3	164	Lycopodium	Lycopodium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	328	0.91463415
-15	EPDcoretop_E227	167	4	167	Polypodiaceae	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	328	1.2195122
-16	EPDcoretop_E227	1108	10	197	Varia	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	328	
+samplename	original_varname	acc_varname	groupid	count	percentage
+EPDcoretop_E227	Alnus	Alnus	TRSH	10	3.0487805
+EPDcoretop_E227	Betula	Betula	TRSH	6	1.8292683
+EPDcoretop_E227	Corylus	Corylus	TRSH	3	0.91463415
+EPDcoretop_E227	Ericaceae	Ericales (tetrad)	DWAR	6	1.8292683
+EPDcoretop_E227	Fagus	Fagus	TRSH	1	0.30487805
+EPDcoretop_E227	Picea	Picea	TRSH	3	0.91463415
+EPDcoretop_E227	Pinus	Pinus	TRSH	173	52.743902
+EPDcoretop_E227	Quercus	Quercus	TRSH	3	0.91463415
+EPDcoretop_E227	Rosaceae	Rosaceae	TRSH	3	0.91463415
+EPDcoretop_E227	Compositae	Asteraceae	HERB	13	3.9634146
+EPDcoretop_E227	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	3	0.91463415
+EPDcoretop_E227	Cerealia-type	Cerealia-type	HERB	3	0.91463415
+EPDcoretop_E227	Cyperaceae	Cyperaceae	HERB	28	8.5365854
+EPDcoretop_E227	Gramineae	Poaceae	HERB	66	20.121951
+EPDcoretop_E227	Varia	Indeterminable: unknown	INUN	10	
+EPDcoretop_E227	Lycopodium	Lycopodium	VACR	3	0.91463415
+EPDcoretop_E227	Polypodiaceae	Monolete fern spores	VACR	4	1.2195122

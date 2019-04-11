@@ -1,23 +1,23 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Barboni_a197	15	1	15	Juglans	Juglans	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	101	0.99009901
-1	Barboni_a197	85	1	85	Juniperus	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	101	0.99009901
-2	Barboni_a197	455	1	95	Olea	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	101	0.99009901
-3	Barboni_a197	796	2	148	Pinus diploxylon	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	101	1.980198
-4	Barboni_a197	21	18	21	Quercus deciduous	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	101	17.821782
-5	Barboni_a197	36	8	36	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	101	7.9207921
-6	Barboni_a197	37	5	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	101	4.950495
-7	Barboni_a197	182	1	182	Boraginaceae	Boraginaceae	HERB	Herbs	HERB	True	True	Herbs	5	101	0.99009901
-8	Barboni_a197	1658	1	42	Brassica	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	101	0.99009901
-9	Barboni_a197	768	2	283	Centaurea	Centaurea	HERB	Herbs	HERB	True	True	Herbs	5	101	1.980198
-10	Barboni_a197	3017	2	50	Cerealia undifferentiated	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	101	1.980198
-11	Barboni_a197	52	1	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	101	0.99009901
-12	Barboni_a197	3382	2	3382	Compositae subfam. Asteroideae undifferentiated	Compositae subfam. Asteroideae undifferentiated	HERB	Herbs	HERB	True	True	Herbs	5	101	1.980198
-13	Barboni_a197	3384	1	3384	Compositae subfam. Cichorioideae undifferentiated	Compositae subfam. Cichorioideae undifferentiated	HERB	Herbs	HERB	True	True	Herbs	5	101	0.99009901
-14	Barboni_a197	61	1	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	101	0.99009901
-15	Barboni_a197	3547	1	3547	Galium	Galium	HERB	Herbs	HERB	True	True	Herbs	5	101	0.99009901
-16	Barboni_a197	735	1	286	Plantago	Plantago	HERB	Herbs	HERB	True	True	Herbs	5	101	0.99009901
-17	Barboni_a197	87	3	87	Plantago lanceolata	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	101	2.970297
-18	Barboni_a197	1611	38	106	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	101	37.623762
-19	Barboni_a197	1614	4	1515	Polygonum	Polygonum-type (tricolporate)	HERB	Herbs	HERB	True	True	Herbs	5	101	3.960396
-20	Barboni_a197	738	1	120	Rumex	Rumex/Oxyria	HERB	Herbs	HERB	True	True	Herbs	5	101	0.99009901
-21	Barboni_a197	649	6	487	Sanguisorba	Sanguisorba officinalis	HERB	Herbs	HERB	True	True	Herbs	5	101	5.9405941
+samplename	original_varname	acc_varname	groupid	count	percentage
+Barboni_a197	Juglans	Juglans	TRSH	1	0.99009901
+Barboni_a197	Juniperus	Juniperus communis-type	TRSH	1	0.99009901
+Barboni_a197	Olea	Olea europaea	TRSH	1	0.99009901
+Barboni_a197	Pinus diploxylon	Pinus sylvestris-type	TRSH	2	1.980198
+Barboni_a197	Quercus deciduous	Quercus robur-type	TRSH	18	17.821782
+Barboni_a197	Apiaceae	Apiaceae	HERB	8	7.9207921
+Barboni_a197	Artemisia	Artemisia	HERB	5	4.950495
+Barboni_a197	Boraginaceae	Boraginaceae	HERB	1	0.99009901
+Barboni_a197	Brassica	Brassicaceae	HERB	1	0.99009901
+Barboni_a197	Centaurea	Centaurea	HERB	2	1.980198
+Barboni_a197	Cerealia undifferentiated	Cerealia-type	HERB	2	1.980198
+Barboni_a197	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.99009901
+Barboni_a197	Compositae subfam. Asteroideae undifferentiated	Compositae subfam. Asteroideae undifferentiated	HERB	2	1.980198
+Barboni_a197	Compositae subfam. Cichorioideae undifferentiated	Compositae subfam. Cichorioideae undifferentiated	HERB	1	0.99009901
+Barboni_a197	Cyperaceae	Cyperaceae	HERB	1	0.99009901
+Barboni_a197	Galium	Galium	HERB	1	0.99009901
+Barboni_a197	Plantago	Plantago	HERB	1	0.99009901
+Barboni_a197	Plantago lanceolata	Plantago lanceolata-type	HERB	3	2.970297
+Barboni_a197	Gramineae	Poaceae	HERB	38	37.623762
+Barboni_a197	Polygonum	Polygonum-type (tricolporate)	HERB	4	3.960396
+Barboni_a197	Rumex	Rumex/Oxyria	HERB	1	0.99009901
+Barboni_a197	Sanguisorba	Sanguisorba officinalis	HERB	6	5.9405941

@@ -1,17 +1,17 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	EPDcoretop_E1369	9	4	9	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	204	1.9607843
-1	EPDcoretop_E1369	19	10	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	204	4.9019608
-2	EPDcoretop_E1369	208	3	208	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	204	1.4705882
-3	EPDcoretop_E1369	25	3	25	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	204	1.4705882
-4	EPDcoretop_E1369	36	3	36	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	204	1.4705882
-5	EPDcoretop_E1369	722	3	180	Tubuliflorae	Asteraceae subf. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	204	1.4705882
-6	EPDcoretop_E1369	721	10	53	Liguliflorae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	204	4.9019608
-7	EPDcoretop_E1369	52	2	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	204	0.98039216
-8	EPDcoretop_E1369	61	41	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	204	20.098039
-9	EPDcoretop_E1369	106	52	106	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	204	25.490196
-10	EPDcoretop_E1369	3751	72	3751	Monolete spore(s)	Monolete spore(s)	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	204	35.294118
-11	EPDcoretop_E1369	677	1	230	Polypodium	Polypodium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	204	0.49019608
-12	EPDcoretop_E1369	3757	20	3757	Mounted volume (0.001 ml)	Mounted volume (0.001 ml)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	204	
-13	EPDcoretop_E1369	3777	40	1904	Number of counted lines	Number of counted lines	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	204	
-14	EPDcoretop_E1369	4304	5	4304	Volume of residue (ml)	Volume of residue (ml)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	204	
-15	EPDcoretop_E1369	4308	10	1888	Weight	Weight	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	204	
+samplename	original_varname	acc_varname	groupid	count	percentage
+EPDcoretop_E1369	Corylus	Corylus	TRSH	4	1.9607843
+EPDcoretop_E1369	Pinus	Pinus	TRSH	10	4.9019608
+EPDcoretop_E1369	Quercus	Quercus	TRSH	3	1.4705882
+EPDcoretop_E1369	Salix	Salix	TRSH	3	1.4705882
+EPDcoretop_E1369	Apiaceae	Apiaceae	HERB	3	1.4705882
+EPDcoretop_E1369	Tubuliflorae	Asteraceae subf. Asteroideae	HERB	3	1.4705882
+EPDcoretop_E1369	Liguliflorae	Asteraceae subf. Cichorioideae	HERB	10	4.9019608
+EPDcoretop_E1369	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	2	0.98039216
+EPDcoretop_E1369	Cyperaceae	Cyperaceae	HERB	41	20.098039
+EPDcoretop_E1369	Poaceae	Poaceae	HERB	52	25.490196
+EPDcoretop_E1369	Monolete spore(s)	Monolete spore(s)	VACR	72	35.294118
+EPDcoretop_E1369	Mounted volume (0.001 ml)	Mounted volume (0.001 ml)	NOPO	20	
+EPDcoretop_E1369	Number of counted lines	Number of counted lines	NOPO	40	
+EPDcoretop_E1369	Polypodium	Polypodium	VACR	1	0.49019608
+EPDcoretop_E1369	Volume of residue (ml)	Volume of residue (ml)	NOPO	5	
+EPDcoretop_E1369	Weight	Weight	NOPO	10	

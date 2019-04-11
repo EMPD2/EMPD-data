@@ -1,27 +1,27 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Novenko_b7	4	20	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	505	3.960396
-1	Novenko_b7	2266	150	150	Betula alba	Betula pubescens-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	505	29.70297
-2	Novenko_b7	9	10	9	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	505	1.980198
-3	Novenko_b7	13	26	13	Fraxinus	Fraxinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	505	5.1485149
-4	Novenko_b7	18	6	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	505	1.1881188
-5	Novenko_b7	3859	39	3859	Pinus sect. Diploxylon	Pinus sect. Diploxylon	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	505	7.7227723
-6	Novenko_b7	208	50	208	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	505	9.9009901
-7	Novenko_b7	118	1	118	Rosaceae	Rosaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	505	0.1980198
-8	Novenko_b7	29	115	29	Tilia	Tilia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	505	22.772277
-9	Novenko_b7	31	7	31	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	505	1.3861386
-10	Novenko_b7	37	7	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	505	1.3861386
-11	Novenko_b7	155	8	155	Asteraceae	Asteraceae	HERB	Herbs	HERB	True	True	Herbs	5	505	1.5841584
-12	Novenko_b7	460	6	53	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	505	1.1881188
-13	Novenko_b7	42	2	42	Brassicaceae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	505	0.3960396
-14	Novenko_b7	46	1	46	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	505	0.1980198
-15	Novenko_b7	50	2	50	Cerealia	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	505	0.3960396
-16	Novenko_b7	52	11	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	505	2.1782178
-17	Novenko_b7	69	1	69	Fabaceae	Fabaceae	HERB	Herbs	HERB	True	True	Herbs	5	505	0.1980198
-18	Novenko_b7	158	1	158	Onagraceae	Onagraceae	HERB	Herbs	HERB	True	True	Herbs	5	505	0.1980198
-19	Novenko_b7	106	29	106	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	505	5.7425743
-20	Novenko_b7	159	3	159	Polygonaceae	Polygonaceae	HERB	Herbs	HERB	True	True	Herbs	5	505	0.59405941
-21	Novenko_b7	636	1	636	Polygonum bistorta	Polygonum bistorta	HERB	Herbs	HERB	True	True	Herbs	5	505	0.1980198
-22	Novenko_b7	976	1	203	Lycopodium annotinum	Lycopodium annotinum-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	505	0.1980198
-23	Novenko_b7	1723	2	1559	Lycopodium clavatum	Lycopodium clavatum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	505	0.3960396
-24	Novenko_b7	167	6	167	Polypodiaceae	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	505	1.1881188
-25	Novenko_b7	165	2	165	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	505	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Novenko_b7	Alnus	Alnus	TRSH	20	3.960396
+Novenko_b7	Betula alba	Betula pubescens-type	TRSH	150	29.70297
+Novenko_b7	Corylus	Corylus	TRSH	10	1.980198
+Novenko_b7	Fraxinus	Fraxinus	TRSH	26	5.1485149
+Novenko_b7	Picea	Picea	TRSH	6	1.1881188
+Novenko_b7	Pinus sect. Diploxylon	Pinus sect. Diploxylon	TRSH	39	7.7227723
+Novenko_b7	Quercus	Quercus	TRSH	50	9.9009901
+Novenko_b7	Rosaceae	Rosaceae	TRSH	1	0.1980198
+Novenko_b7	Tilia	Tilia	TRSH	115	22.772277
+Novenko_b7	Ulmus	Ulmus/Zelkova	TRSH	7	1.3861386
+Novenko_b7	Artemisia	Artemisia	HERB	7	1.3861386
+Novenko_b7	Asteraceae	Asteraceae	HERB	8	1.5841584
+Novenko_b7	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	6	1.1881188
+Novenko_b7	Brassicaceae	Brassicaceae	HERB	2	0.3960396
+Novenko_b7	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	1	0.1980198
+Novenko_b7	Cerealia	Cerealia-type	HERB	2	0.3960396
+Novenko_b7	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	11	2.1782178
+Novenko_b7	Fabaceae	Fabaceae	HERB	1	0.1980198
+Novenko_b7	Onagraceae	Onagraceae	HERB	1	0.1980198
+Novenko_b7	Poaceae	Poaceae	HERB	29	5.7425743
+Novenko_b7	Polygonaceae	Polygonaceae	HERB	3	0.59405941
+Novenko_b7	Polygonum bistorta	Polygonum bistorta	HERB	1	0.1980198
+Novenko_b7	Lycopodium annotinum	Lycopodium annotinum-type	VACR	1	0.1980198
+Novenko_b7	Lycopodium clavatum	Lycopodium clavatum	VACR	2	0.3960396
+Novenko_b7	Polypodiaceae	Monolete fern spores	VACR	6	1.1881188
+Novenko_b7	Sphagnum	Sphagnum	NOPO	2	

@@ -1,23 +1,23 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Pardoe_a13	4	12	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	525	2.2857143
-1	Pardoe_a13	5	152	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	525	28.952381
-2	Pardoe_a13	9	2	9	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	525	0.38095238
-3	Pardoe_a13	750	1	750	Empetrum	Empetrum nigrum	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	525	0.19047619
-4	Pardoe_a13	85	1	85	Juniperus	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	525	0.19047619
-5	Pardoe_a13	18	3	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	525	0.57142857
-6	Pardoe_a13	19	115	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	525	21.904762
-7	Pardoe_a13	25	152	25	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	525	28.952381
-8	Pardoe_a13	552	2	552	Vaccinium	Vaccinium	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	525	0.38095238
-9	Pardoe_a13	37	1	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	525	0.19047619
-10	Pardoe_a13	46	6	46	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	525	1.1428571
-11	Pardoe_a13	52	1	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	525	0.19047619
-12	Pardoe_a13	3383	1	3383	Compositae subfam. Cichorioideae	Compositae subfam. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	525	0.19047619
-13	Pardoe_a13	61	9	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	525	1.7142857
-14	Pardoe_a13	3798	17	3798	Oxyria/Rumex	Oxyria/Rumex	HERB	Herbs	HERB	True	True	Herbs	5	525	3.2380952
-15	Pardoe_a13	735	1	286	Plantago	Plantago	HERB	Herbs	HERB	True	True	Herbs	5	525	0.19047619
-16	Pardoe_a13	1611	29	106	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	525	5.5238095
-17	Pardoe_a13	156	8	156	Ranunculaceae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	525	1.5238095
-18	Pardoe_a13	761	1	653	Saxifraga stellaris	Saxifraga stellaris-type	HERB	Herbs	HERB	True	True	Herbs	5	525	0.19047619
-19	Pardoe_a13	166	4	166	Equisetum	Equisetum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	525	0.76190476
-20	Pardoe_a13	1554	7	167	Filicales	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	525	1.3333333
-21	Pardoe_a13	165	1	165	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	525	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Pardoe_a13	Alnus	Alnus	TRSH	12	2.2857143
+Pardoe_a13	Betula	Betula	TRSH	152	28.952381
+Pardoe_a13	Corylus	Corylus	TRSH	2	0.38095238
+Pardoe_a13	Empetrum	Empetrum nigrum	DWAR	1	0.19047619
+Pardoe_a13	Juniperus	Juniperus communis-type	TRSH	1	0.19047619
+Pardoe_a13	Picea	Picea	TRSH	3	0.57142857
+Pardoe_a13	Pinus	Pinus	TRSH	115	21.904762
+Pardoe_a13	Salix	Salix	TRSH	152	28.952381
+Pardoe_a13	Vaccinium	Vaccinium	DWAR	2	0.38095238
+Pardoe_a13	Artemisia	Artemisia	HERB	1	0.19047619
+Pardoe_a13	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	6	1.1428571
+Pardoe_a13	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.19047619
+Pardoe_a13	Compositae subfam. Cichorioideae	Compositae subfam. Cichorioideae	HERB	1	0.19047619
+Pardoe_a13	Cyperaceae	Cyperaceae	HERB	9	1.7142857
+Pardoe_a13	Oxyria/Rumex	Oxyria/Rumex	HERB	17	3.2380952
+Pardoe_a13	Plantago	Plantago	HERB	1	0.19047619
+Pardoe_a13	Gramineae	Poaceae	HERB	29	5.5238095
+Pardoe_a13	Ranunculaceae	Ranunculaceae	HERB	8	1.5238095
+Pardoe_a13	Saxifraga stellaris	Saxifraga stellaris-type	HERB	1	0.19047619
+Pardoe_a13	Equisetum	Equisetum	VACR	4	0.76190476
+Pardoe_a13	Filicales	Monolete fern spores	VACR	7	1.3333333
+Pardoe_a13	Sphagnum	Sphagnum	NOPO	1	

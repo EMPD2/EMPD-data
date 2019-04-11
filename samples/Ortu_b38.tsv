@@ -1,33 +1,33 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Ortu_b38	572	7	151	Alnus viridis	Alnus viridis	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	452	1.5486726
-1	Ortu_b38	5	20	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	452	4.4247788
-2	Ortu_b38	454	6	47	Castanea	Castanea sativa	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	452	1.3274336
-3	Ortu_b38	9	6	9	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	452	1.3274336
-4	Ortu_b38	11	7	11	Ericaceae	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	452	1.5486726
-5	Ortu_b38	12	16	12	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	452	3.539823
-6	Ortu_b38	13	10	13	Fraxinus	Fraxinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	452	2.2123894
-7	Ortu_b38	15	1	15	Juglans	Juglans	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	452	0.22123894
-8	Ortu_b38	85	1	85	Juniperus	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	452	0.22123894
-9	Ortu_b38	16	3	16	Larix	Larix/Pseudotsuga	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	452	0.66371681
-10	Ortu_b38	19	233	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	452	51.548673
-11	Ortu_b38	173	8	21	Quercus robur-type	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	452	1.7699115
-12	Ortu_b38	24	1	24	Rhus	Rhus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	452	0.22123894
-13	Ortu_b38	146	2	146	Vitis	Vitis	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	452	0.44247788
-14	Ortu_b38	2147	1	2147	Androsace	Androsace	HERB	Herbs	HERB	True	True	Herbs	5	452	0.22123894
-15	Ortu_b38	36	1	36	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	452	0.22123894
-16	Ortu_b38	37	1	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	452	0.22123894
-17	Ortu_b38	772	1	180	Asteroideae	Asteraceae subf. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	452	0.22123894
-18	Ortu_b38	460	1	53	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	452	0.22123894
-19	Ortu_b38	42	2	42	Brassicaceae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	452	0.44247788
-20	Ortu_b38	52	1	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	452	0.22123894
-21	Ortu_b38	61	20	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	452	4.4247788
-22	Ortu_b38	86	3	86	Lamiaceae	Lamiaceae	HERB	Herbs	HERB	True	True	Herbs	5	452	0.66371681
-23	Ortu_b38	87	2	87	Plantago lanceolata	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	452	0.44247788
-24	Ortu_b38	106	61	106	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	452	13.495575
-25	Ortu_b38	1376	25	524	Potentilla	Potentilla-type	HERB	Herbs	HERB	True	True	Herbs	5	452	5.5309735
-26	Ortu_b38	156	2	156	Ranunculaceae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	452	0.44247788
-27	Ortu_b38	738	4	120	Rumex	Rumex/Oxyria	HERB	Herbs	HERB	True	True	Herbs	5	452	0.88495575
-28	Ortu_b38	193	4	193	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	Herbs	HERB	True	True	Herbs	5	452	0.88495575
-29	Ortu_b38	3747	2	167	Monolete fern spores	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	452	0.44247788
-30	Ortu_b38	3631	8	197	Indeterminable: unknown	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	452	
-31	Ortu_b38	2990	1	2780	Stomata	Stomata	VEMI	Vegetative microfossils	NOPO	False	False	Nonpollen	30	452	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Ortu_b38	Alnus viridis	Alnus viridis	TRSH	7	1.5486726
+Ortu_b38	Betula	Betula	TRSH	20	4.4247788
+Ortu_b38	Castanea	Castanea sativa	TRSH	6	1.3274336
+Ortu_b38	Corylus	Corylus	TRSH	6	1.3274336
+Ortu_b38	Ericaceae	Ericales (tetrad)	DWAR	7	1.5486726
+Ortu_b38	Fagus	Fagus	TRSH	16	3.539823
+Ortu_b38	Fraxinus	Fraxinus	TRSH	10	2.2123894
+Ortu_b38	Juglans	Juglans	TRSH	1	0.22123894
+Ortu_b38	Juniperus	Juniperus communis-type	TRSH	1	0.22123894
+Ortu_b38	Larix	Larix/Pseudotsuga	TRSH	3	0.66371681
+Ortu_b38	Pinus	Pinus	TRSH	233	51.548673
+Ortu_b38	Quercus robur-type	Quercus robur-type	TRSH	8	1.7699115
+Ortu_b38	Rhus	Rhus	TRSH	1	0.22123894
+Ortu_b38	Vitis	Vitis	TRSH	2	0.44247788
+Ortu_b38	Androsace	Androsace	HERB	1	0.22123894
+Ortu_b38	Apiaceae	Apiaceae	HERB	1	0.22123894
+Ortu_b38	Artemisia	Artemisia	HERB	1	0.22123894
+Ortu_b38	Asteroideae	Asteraceae subf. Asteroideae	HERB	1	0.22123894
+Ortu_b38	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	1	0.22123894
+Ortu_b38	Brassicaceae	Brassicaceae	HERB	2	0.44247788
+Ortu_b38	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.22123894
+Ortu_b38	Cyperaceae	Cyperaceae	HERB	20	4.4247788
+Ortu_b38	Lamiaceae	Lamiaceae	HERB	3	0.66371681
+Ortu_b38	Plantago lanceolata	Plantago lanceolata-type	HERB	2	0.44247788
+Ortu_b38	Poaceae	Poaceae	HERB	61	13.495575
+Ortu_b38	Potentilla	Potentilla-type	HERB	25	5.5309735
+Ortu_b38	Ranunculaceae	Ranunculaceae	HERB	2	0.44247788
+Ortu_b38	Rumex	Rumex/Oxyria	HERB	4	0.88495575
+Ortu_b38	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	4	0.88495575
+Ortu_b38	Indeterminable: unknown	Indeterminable: unknown	INUN	8	
+Ortu_b38	Monolete fern spores	Monolete fern spores	VACR	2	0.44247788
+Ortu_b38	Stomata	Stomata	VEMI	1	

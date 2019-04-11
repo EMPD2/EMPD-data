@@ -1,12 +1,12 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Lopez_a332	2541	1	468	Erica arborea-type	Erica arborea-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	498	0.20080321
-1	Lopez_a332	452	85	452	Pinus pinaster	Pinus pinaster	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	498	17.068273
-2	Lopez_a332	3862	367	3862	Pinus sylvestris/nigra-type	Pinus sylvestris/nigra-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	498	73.694779
-3	Lopez_a332	21	33	21	Quercus deciduous	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	498	6.626506
-4	Lopez_a332	4044	2	4044	Rosaceae undiff,	Rosaceae undiff,	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	498	0.40160643
-5	Lopez_a332	494	4	42	Cruciferae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	498	0.80321285
-6	Lopez_a332	1085	2	87	Plantago lanceolata-type	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	498	0.40160643
-7	Lopez_a332	2928	2	106	Poaceae undifferentiated	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	498	0.40160643
-8	Lopez_a332	119	1	119	Rubiaceae	Rubiaceae	HERB	Herbs	HERB	True	True	Herbs	5	498	0.20080321
-9	Lopez_a332	503	1	503	Saxifraga	Saxifraga	HERB	Herbs	HERB	True	True	Herbs	5	498	0.20080321
-10	Lopez_a332	3514	2	3514	Fabaceae undifferentiated	Fabaceae undifferentiated	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	498	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Lopez_a332	Erica arborea-type	Erica arborea-type	TRSH	1	0.20080321
+Lopez_a332	Pinus pinaster	Pinus pinaster	TRSH	85	17.068273
+Lopez_a332	Pinus sylvestris/nigra-type	Pinus sylvestris/nigra-type	TRSH	367	73.694779
+Lopez_a332	Quercus deciduous	Quercus robur-type	TRSH	33	6.626506
+Lopez_a332	Rosaceae undiff,	Rosaceae undiff,	TRSH	2	0.40160643
+Lopez_a332	Cruciferae	Brassicaceae	HERB	4	0.80321285
+Lopez_a332	Plantago lanceolata-type	Plantago lanceolata-type	HERB	2	0.40160643
+Lopez_a332	Poaceae undifferentiated	Poaceae	HERB	2	0.40160643
+Lopez_a332	Rubiaceae	Rubiaceae	HERB	1	0.20080321
+Lopez_a332	Saxifraga	Saxifraga	HERB	1	0.20080321
+Lopez_a332	Fabaceae undifferentiated	Fabaceae undifferentiated	INUN	2	

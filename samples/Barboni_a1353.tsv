@@ -1,28 +1,28 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Barboni_a1353	4	22	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	644	3.4161491
-1	Barboni_a1353	5	24	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	644	3.7267081
-2	Barboni_a1353	3209	54	3209	Calluna	Calluna	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	644	8.3850932
-3	Barboni_a1353	9	34	9	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	644	5.2795031
-4	Barboni_a1353	3411	3	3411	Corylus/Myrica	Corylus/Myrica	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	644	0.46583851
-5	Barboni_a1353	2128	17	11	Ericales	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	644	2.6397516
-6	Barboni_a1353	19	71	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	644	11.024845
-7	Barboni_a1353	208	4	208	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	644	0.62111801
-8	Barboni_a1353	31	4	31	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	644	0.62111801
-9	Barboni_a1353	46	1	46	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	644	0.1552795
-10	Barboni_a1353	61	48	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	644	7.4534161
-11	Barboni_a1353	3548	2	3548	Galium-type	Galium-type	HERB	Herbs	HERB	True	True	Herbs	5	644	0.31055901
-12	Barboni_a1353	510	1	510	Geranium	Geranium	HERB	Herbs	HERB	True	True	Herbs	5	644	0.1552795
-13	Barboni_a1353	243	2	243	Mercurialis	Mercurialis	HERB	Herbs	HERB	True	True	Herbs	5	644	0.31055901
-14	Barboni_a1353	87	2	87	Plantago lanceolata	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	644	0.31055901
-15	Barboni_a1353	1611	154	106	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	644	23.913043
-16	Barboni_a1353	637	1	524	Potentilla-type	Potentilla-type	HERB	Herbs	HERB	True	True	Herbs	5	644	0.1552795
-17	Barboni_a1353	2438	3	290	Ranunculus-type	Ranunculus-type	HERB	Herbs	HERB	True	True	Herbs	5	644	0.46583851
-18	Barboni_a1353	738	2	120	Rumex	Rumex/Oxyria	HERB	Herbs	HERB	True	True	Herbs	5	644	0.31055901
-19	Barboni_a1353	663	2	663	Urtica	Urtica	HERB	Herbs	HERB	True	True	Herbs	5	644	0.31055901
-20	Barboni_a1353	3715	17	3715	Lycopodium cf. L. annotinum	Lycopodium cf. L. annotinum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	644	2.6397516
-21	Barboni_a1353	3752	159	3752	Monolete spore(s) undifferentiated	Monolete spore(s) undifferentiated	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	644	24.689441
-22	Barboni_a1353	677	1	230	Polypodium	Polypodium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	644	0.1552795
-23	Barboni_a1353	1279	3	1279	Pteridium	Pteridium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	644	0.46583851
-24	Barboni_a1353	885	13	205	Selaginella selaginoides	Selaginella selaginoides	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	644	2.0186335
-25	Barboni_a1353	668	1	133	Potamogeton	Potamogeton-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	644	0.1552795
-26	Barboni_a1353	165	5	165	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	644	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Barboni_a1353	Alnus	Alnus	TRSH	22	3.4161491
+Barboni_a1353	Betula	Betula	TRSH	24	3.7267081
+Barboni_a1353	Calluna	Calluna	DWAR	54	8.3850932
+Barboni_a1353	Corylus	Corylus	TRSH	34	5.2795031
+Barboni_a1353	Corylus/Myrica	Corylus/Myrica	TRSH	3	0.46583851
+Barboni_a1353	Ericales	Ericales (tetrad)	DWAR	17	2.6397516
+Barboni_a1353	Pinus	Pinus	TRSH	71	11.024845
+Barboni_a1353	Quercus	Quercus	TRSH	4	0.62111801
+Barboni_a1353	Ulmus	Ulmus/Zelkova	TRSH	4	0.62111801
+Barboni_a1353	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	1	0.1552795
+Barboni_a1353	Cyperaceae	Cyperaceae	HERB	48	7.4534161
+Barboni_a1353	Galium-type	Galium-type	HERB	2	0.31055901
+Barboni_a1353	Geranium	Geranium	HERB	1	0.1552795
+Barboni_a1353	Mercurialis	Mercurialis	HERB	2	0.31055901
+Barboni_a1353	Plantago lanceolata	Plantago lanceolata-type	HERB	2	0.31055901
+Barboni_a1353	Gramineae	Poaceae	HERB	154	23.913043
+Barboni_a1353	Potentilla-type	Potentilla-type	HERB	1	0.1552795
+Barboni_a1353	Ranunculus-type	Ranunculus-type	HERB	3	0.46583851
+Barboni_a1353	Rumex	Rumex/Oxyria	HERB	2	0.31055901
+Barboni_a1353	Urtica	Urtica	HERB	2	0.31055901
+Barboni_a1353	Potamogeton	Potamogeton-type	AQUA	1	0.1552795
+Barboni_a1353	Lycopodium cf. L. annotinum	Lycopodium cf. L. annotinum	VACR	17	2.6397516
+Barboni_a1353	Monolete spore(s) undifferentiated	Monolete spore(s) undifferentiated	VACR	159	24.689441
+Barboni_a1353	Polypodium	Polypodium	VACR	1	0.1552795
+Barboni_a1353	Pteridium	Pteridium	VACR	3	0.46583851
+Barboni_a1353	Selaginella selaginoides	Selaginella selaginoides	VACR	13	2.0186335
+Barboni_a1353	Sphagnum	Sphagnum	NOPO	5	

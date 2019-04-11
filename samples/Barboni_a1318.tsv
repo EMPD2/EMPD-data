@@ -1,23 +1,23 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Barboni_a1318	5	83	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	475	17.473684
-1	Barboni_a1318	1373	9	149	Betula nana	Betula nana-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	475	1.8947368
-2	Barboni_a1318	470	1	470	Calluna vulgaris	Calluna vulgaris	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	475	0.21052632
-3	Barboni_a1318	11	20	11	Ericaceae	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	475	4.2105263
-4	Barboni_a1318	85	5	85	Juniperus	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	475	1.0526316
-5	Barboni_a1318	18	15	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	475	3.1578947
-6	Barboni_a1318	1059	204	148	Pinus diploxylon-type	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	475	42.947368
-7	Barboni_a1318	162	1	162	Rubus	Rubus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	475	0.21052632
-8	Barboni_a1318	25	1	25	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	475	0.21052632
-9	Barboni_a1318	61	87	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	475	18.315789
-10	Barboni_a1318	3509	1	3509	Euphrasia-type	Euphrasia-type	HERB	Herbs	HERB	True	True	Herbs	5	475	0.21052632
-11	Barboni_a1318	486	12	486	Melampyrum	Melampyrum	HERB	Herbs	HERB	True	True	Herbs	5	475	2.5263158
-12	Barboni_a1318	1611	15	106	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	475	3.1578947
-13	Barboni_a1318	1376	1	524	Potentilla	Potentilla-type	HERB	Herbs	HERB	True	True	Herbs	5	475	0.21052632
-14	Barboni_a1318	156	3	156	Ranunculaceae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	475	0.63157895
-15	Barboni_a1318	137	4	137	Thalictrum	Thalictrum	HERB	Herbs	HERB	True	True	Herbs	5	475	0.84210526
-16	Barboni_a1318	166	1	166	Equisetum	Equisetum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	475	0.21052632
-17	Barboni_a1318	3525	1	3525	Filicopsida monolete undifferentiated	Filicopsida monolete undifferentiated	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	475	0.21052632
-18	Barboni_a1318	3526	1	3526	Filicopsida trilete undifferentiated	Filicopsida trilete undifferentiated	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	475	0.21052632
-19	Barboni_a1318	164	4	164	Lycopodium	Lycopodium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	475	0.84210526
-20	Barboni_a1318	885	6	205	Selaginella selaginoides	Selaginella selaginoides	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	475	1.2631579
-21	Barboni_a1318	165	1	165	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	475	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Barboni_a1318	Betula	Betula	TRSH	83	17.473684
+Barboni_a1318	Betula nana	Betula nana-type	DWAR	9	1.8947368
+Barboni_a1318	Calluna vulgaris	Calluna vulgaris	TRSH	1	0.21052632
+Barboni_a1318	Ericaceae	Ericales (tetrad)	DWAR	20	4.2105263
+Barboni_a1318	Juniperus	Juniperus communis-type	TRSH	5	1.0526316
+Barboni_a1318	Picea	Picea	TRSH	15	3.1578947
+Barboni_a1318	Pinus diploxylon-type	Pinus sylvestris-type	TRSH	204	42.947368
+Barboni_a1318	Rubus	Rubus	TRSH	1	0.21052632
+Barboni_a1318	Salix	Salix	TRSH	1	0.21052632
+Barboni_a1318	Cyperaceae	Cyperaceae	HERB	87	18.315789
+Barboni_a1318	Euphrasia-type	Euphrasia-type	HERB	1	0.21052632
+Barboni_a1318	Melampyrum	Melampyrum	HERB	12	2.5263158
+Barboni_a1318	Gramineae	Poaceae	HERB	15	3.1578947
+Barboni_a1318	Potentilla	Potentilla-type	HERB	1	0.21052632
+Barboni_a1318	Ranunculaceae	Ranunculaceae	HERB	3	0.63157895
+Barboni_a1318	Thalictrum	Thalictrum	HERB	4	0.84210526
+Barboni_a1318	Equisetum	Equisetum	VACR	1	0.21052632
+Barboni_a1318	Filicopsida monolete undifferentiated	Filicopsida monolete undifferentiated	VACR	1	0.21052632
+Barboni_a1318	Filicopsida trilete undifferentiated	Filicopsida trilete undifferentiated	VACR	1	0.21052632
+Barboni_a1318	Lycopodium	Lycopodium	VACR	4	0.84210526
+Barboni_a1318	Selaginella selaginoides	Selaginella selaginoides	VACR	6	1.2631579
+Barboni_a1318	Sphagnum	Sphagnum	NOPO	1	

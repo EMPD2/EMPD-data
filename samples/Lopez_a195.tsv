@@ -1,23 +1,23 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Lopez_a195	1	11	1	Abies	Abies	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	613	1.7944535
-1	Lopez_a195	3418	42	3418	Crataegus-type	Crataegus-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	613	6.8515498
-2	Lopez_a195	455	16	95	Olea	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	613	2.6101142
-3	Lopez_a195	101	21	101	Phillyrea	Phillyrea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	613	3.4257749
-4	Lopez_a195	3858	21	3858	Pinus pinea/halepensis-type	Pinus pinea/halepensis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	613	3.4257749
-5	Lopez_a195	3862	4	3862	Pinus sylvestris/nigra-type	Pinus sylvestris/nigra-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	613	0.65252855
-6	Lopez_a195	457	61	103	Pistacia lentiscus	Pistacia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	613	9.9510604
-7	Lopez_a195	3957	31	3957	Prunus/Rubus-type	Prunus/Rubus-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	613	5.0570962
-8	Lopez_a195	451	1	110	Quercus suber	Quercus cerris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	613	0.16313214
-9	Lopez_a195	22	27	22	Quercus evergreen	Quercus ilex-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	613	4.4045677
-10	Lopez_a195	21	327	21	Quercus deciduous	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	613	53.344209
-11	Lopez_a195	4044	2	4044	Rosaceae undiff,	Rosaceae undiff,	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	613	0.32626427
-12	Lopez_a195	3436	10	3436	Cytisus/Genista-type	Cytisus/Genista-type	HERB	Herbs	HERB	True	True	Herbs	5	613	1.6313214
-13	Lopez_a195	68	1	68	Euphorbia	Euphorbia	HERB	Herbs	HERB	True	True	Herbs	5	613	0.16313214
-14	Lopez_a195	600	1	34	Anthemis-type	Matricaria-type	HERB	Herbs	HERB	True	True	Herbs	5	613	0.16313214
-15	Lopez_a195	2928	26	106	Poaceae undifferentiated	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	613	4.2414356
-16	Lopez_a195	193	11	193	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	Herbs	HERB	True	True	Herbs	5	613	1.7944535
-17	Lopez_a195	2415	3	568	Cercophora	Cercophora-type	FUNG	Fungi	NOPO	False	False	Nonpollen	30	613	
-18	Lopez_a195	3563	3	3563	Glomus cf. G. fasciculatum	Glomus cf. G. fasciculatum	FUNG	Fungi	NOPO	False	False	Nonpollen	30	613	
-19	Lopez_a195	682	5	570	Podospora	Podospora-type	FUNG	Fungi	NOPO	False	False	Nonpollen	30	613	
-20	Lopez_a195	4157	11	4157	Sordaria	Sordaria	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	613	
-21	Lopez_a195	688	1	569	Sporormiella	Sporormiella-type	FUNG	Fungi	NOPO	False	False	Nonpollen	30	613	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Lopez_a195	Abies	Abies	TRSH	11	1.7944535
+Lopez_a195	Crataegus-type	Crataegus-type	TRSH	42	6.8515498
+Lopez_a195	Olea	Olea europaea	TRSH	16	2.6101142
+Lopez_a195	Phillyrea	Phillyrea	TRSH	21	3.4257749
+Lopez_a195	Pinus pinea/halepensis-type	Pinus pinea/halepensis-type	TRSH	21	3.4257749
+Lopez_a195	Pinus sylvestris/nigra-type	Pinus sylvestris/nigra-type	TRSH	4	0.65252855
+Lopez_a195	Pistacia lentiscus	Pistacia	TRSH	61	9.9510604
+Lopez_a195	Prunus/Rubus-type	Prunus/Rubus-type	TRSH	31	5.0570962
+Lopez_a195	Quercus suber	Quercus cerris-type	TRSH	1	0.16313214
+Lopez_a195	Quercus evergreen	Quercus ilex-type	TRSH	27	4.4045677
+Lopez_a195	Quercus deciduous	Quercus robur-type	TRSH	327	53.344209
+Lopez_a195	Rosaceae undiff,	Rosaceae undiff,	TRSH	2	0.32626427
+Lopez_a195	Cytisus/Genista-type	Cytisus/Genista-type	HERB	10	1.6313214
+Lopez_a195	Euphorbia	Euphorbia	HERB	1	0.16313214
+Lopez_a195	Anthemis-type	Matricaria-type	HERB	1	0.16313214
+Lopez_a195	Poaceae undifferentiated	Poaceae	HERB	26	4.2414356
+Lopez_a195	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	11	1.7944535
+Lopez_a195	Cercophora	Cercophora-type	FUNG	3	
+Lopez_a195	Glomus cf. G. fasciculatum	Glomus cf. G. fasciculatum	FUNG	3	
+Lopez_a195	Podospora	Podospora-type	FUNG	5	
+Lopez_a195	Sordaria	Sordaria	NOPO	11	
+Lopez_a195	Sporormiella	Sporormiella-type	FUNG	1	

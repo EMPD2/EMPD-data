@@ -1,28 +1,28 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	EPDcoretop_E262	1	1	1	Abies	Abies	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	485	0.20618557
-1	EPDcoretop_E262	771	15	175	Alnus glutinosa	Alnus glutinosa-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	485	3.0927835
-2	EPDcoretop_E262	2117	45	175	Alnus incana	Alnus glutinosa-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	485	9.2783505
-3	EPDcoretop_E262	1373	36	149	Betula nana	Betula nana-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	485	7.4226804
-4	EPDcoretop_E262	1740	36	150	Betula pendula	Betula pubescens-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	485	7.4226804
-5	EPDcoretop_E262	948	97	150	Betula pubescens	Betula pubescens-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	485	20
-6	EPDcoretop_E262	2128	3	11	Ericales	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	485	0.6185567
-7	EPDcoretop_E262	18	25	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	485	5.1546392
-8	EPDcoretop_E262	799	158	148	Pinus sylvestris	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	485	32.57732
-9	EPDcoretop_E262	118	2	118	Rosaceae	Rosaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	485	0.41237113
-10	EPDcoretop_E262	25	3	25	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	485	0.6185567
-11	EPDcoretop_E262	601	3	36	Umbelliferae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	485	0.6185567
-12	EPDcoretop_E262	37	2	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	485	0.41237113
-13	EPDcoretop_E262	494	1	42	Cruciferae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	485	0.20618557
-14	EPDcoretop_E262	52	3	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	485	0.6185567
-15	EPDcoretop_E262	3381	1	3381	Compositae subfam. Asteroideae	Compositae subfam. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	485	0.20618557
-16	EPDcoretop_E262	61	18	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	485	3.7113402
-17	EPDcoretop_E262	755	1	755	Leguminosae	Leguminosae	HERB	Herbs	HERB	True	True	Herbs	5	485	0.20618557
-18	EPDcoretop_E262	735	1	286	Plantago	Plantago	HERB	Herbs	HERB	True	True	Herbs	5	485	0.20618557
-19	EPDcoretop_E262	1611	14	106	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	485	2.8865979
-20	EPDcoretop_E262	193	1	193	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	Herbs	HERB	True	True	Herbs	5	485	0.20618557
-21	EPDcoretop_E262	168	18	168	Bryales	Bryophyte spores	BRYO	Bryophytes	VACR	True	True	Ferns	6	485	3.7113402
-22	EPDcoretop_E262	166	1	166	Equisetum	Equisetum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	485	0.20618557
-23	EPDcoretop_E262	1144	2	1002	Drosera	Drosera	AQUA	Aquatics	AQUA	False	True	Aquatics	7	485	0.41237113
-24	EPDcoretop_E262	924	1	196	Typha angustifolia	Sparganium-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	485	0.20618557
-25	EPDcoretop_E262	3631	2	197	Indeterminable: unknown	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	485	
-26	EPDcoretop_E262	165	4	165	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	485	
+samplename	original_varname	acc_varname	groupid	count	percentage
+EPDcoretop_E262	Abies	Abies	TRSH	1	0.20618557
+EPDcoretop_E262	Alnus glutinosa	Alnus glutinosa-type	TRSH	15	3.0927835
+EPDcoretop_E262	Alnus incana	Alnus glutinosa-type	TRSH	45	9.2783505
+EPDcoretop_E262	Betula nana	Betula nana-type	DWAR	36	7.4226804
+EPDcoretop_E262	Betula pendula	Betula pubescens-type	TRSH	36	7.4226804
+EPDcoretop_E262	Betula pubescens	Betula pubescens-type	TRSH	97	20
+EPDcoretop_E262	Ericales	Ericales (tetrad)	DWAR	3	0.6185567
+EPDcoretop_E262	Picea	Picea	TRSH	25	5.1546392
+EPDcoretop_E262	Pinus sylvestris	Pinus sylvestris-type	TRSH	158	32.57732
+EPDcoretop_E262	Rosaceae	Rosaceae	TRSH	2	0.41237113
+EPDcoretop_E262	Salix	Salix	TRSH	3	0.6185567
+EPDcoretop_E262	Umbelliferae	Apiaceae	HERB	3	0.6185567
+EPDcoretop_E262	Artemisia	Artemisia	HERB	2	0.41237113
+EPDcoretop_E262	Cruciferae	Brassicaceae	HERB	1	0.20618557
+EPDcoretop_E262	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	3	0.6185567
+EPDcoretop_E262	Compositae subfam. Asteroideae	Compositae subfam. Asteroideae	HERB	1	0.20618557
+EPDcoretop_E262	Cyperaceae	Cyperaceae	HERB	18	3.7113402
+EPDcoretop_E262	Leguminosae	Leguminosae	HERB	1	0.20618557
+EPDcoretop_E262	Plantago	Plantago	HERB	1	0.20618557
+EPDcoretop_E262	Gramineae	Poaceae	HERB	14	2.8865979
+EPDcoretop_E262	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	1	0.20618557
+EPDcoretop_E262	Drosera	Drosera	AQUA	2	0.41237113
+EPDcoretop_E262	Typha angustifolia	Sparganium-type	AQUA	1	0.20618557
+EPDcoretop_E262	Indeterminable: unknown	Indeterminable: unknown	INUN	2	
+EPDcoretop_E262	Bryales	Bryophyte spores	BRYO	18	3.7113402
+EPDcoretop_E262	Equisetum	Equisetum	VACR	1	0.20618557
+EPDcoretop_E262	Sphagnum	Sphagnum	NOPO	4	

@@ -1,33 +1,33 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Lopez_a346	4	2	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	494	0.4048583
-1	Lopez_a346	5	50	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	494	10.121457
-2	Lopez_a346	454	1	47	Castanea	Castanea sativa	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	494	0.20242915
-3	Lopez_a346	9	3	9	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	494	0.60728745
-4	Lopez_a346	2541	2	468	Erica arborea-type	Erica arborea-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	494	0.4048583
-5	Lopez_a346	13	72	13	Fraxinus	Fraxinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	494	14.574899
-6	Lopez_a346	749	1	28	Juniperus-type	Juniperus-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	494	0.20242915
-7	Lopez_a346	452	40	452	Pinus pinaster	Pinus pinaster	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	494	8.097166
-8	Lopez_a346	3858	115	3858	Pinus pinea/halepensis-type	Pinus pinea/halepensis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	494	23.279352
-9	Lopez_a346	3862	5	3862	Pinus sylvestris/nigra-type	Pinus sylvestris/nigra-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	494	1.0121457
-10	Lopez_a346	107	10	107	Populus	Populus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	494	2.0242915
-11	Lopez_a346	22	1	22	Quercus evergreen	Quercus ilex-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	494	0.20242915
-12	Lopez_a346	21	6	21	Quercus deciduous	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	494	1.2145749
-13	Lopez_a346	4044	7	4044	Rosaceae undiff,	Rosaceae undiff,	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	494	1.417004
-14	Lopez_a346	25	3	25	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	494	0.60728745
-15	Lopez_a346	36	3	36	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	494	0.60728745
-16	Lopez_a346	494	4	42	Cruciferae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	494	0.8097166
-17	Lopez_a346	46	1	46	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	494	0.20242915
-18	Lopez_a346	780	7	52	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	494	1.417004
-19	Lopez_a346	3361	1	3361	Cistus ladanifer	Cistus ladanifer	HERB	Herbs	HERB	True	True	Herbs	5	494	0.20242915
-20	Lopez_a346	61	7	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	494	1.417004
-21	Lopez_a346	3436	12	3436	Cytisus/Genista-type	Cytisus/Genista-type	HERB	Herbs	HERB	True	True	Herbs	5	494	2.4291498
-22	Lopez_a346	497	1	86	Labiatae	Lamiaceae	HERB	Herbs	HERB	True	True	Herbs	5	494	0.20242915
-23	Lopez_a346	2354	4	506	Papaver rhoeas-type	Papaver rhoeas-type	HERB	Herbs	HERB	True	True	Herbs	5	494	0.8097166
-24	Lopez_a346	1774	3	495	Campanula-type	Phyteuma-type	HERB	Herbs	HERB	True	True	Herbs	5	494	0.60728745
-25	Lopez_a346	1085	4	87	Plantago lanceolata-type	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	494	0.8097166
-26	Lopez_a346	2928	60	106	Poaceae undifferentiated	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	494	12.145749
-27	Lopez_a346	1088	3	278	Polygonum aviculare-type	Polygonum aviculare-type	HERB	Herbs	HERB	True	True	Herbs	5	494	0.60728745
-28	Lopez_a346	503	3	503	Saxifraga	Saxifraga	HERB	Herbs	HERB	True	True	Herbs	5	494	0.60728745
-29	Lopez_a346	193	1	193	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	Herbs	HERB	True	True	Herbs	5	494	0.20242915
-30	Lopez_a346	4270	62	466	Urtica dioica-type	Urtica dioica-type	HERB	Herbs	HERB	True	True	Herbs	5	494	12.550607
-31	Lopez_a346	4157	9	4157	Sordaria	Sordaria	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	494	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Lopez_a346	Alnus	Alnus	TRSH	2	0.4048583
+Lopez_a346	Betula	Betula	TRSH	50	10.121457
+Lopez_a346	Castanea	Castanea sativa	TRSH	1	0.20242915
+Lopez_a346	Corylus	Corylus	TRSH	3	0.60728745
+Lopez_a346	Erica arborea-type	Erica arborea-type	TRSH	2	0.4048583
+Lopez_a346	Fraxinus	Fraxinus	TRSH	72	14.574899
+Lopez_a346	Juniperus-type	Juniperus-type	TRSH	1	0.20242915
+Lopez_a346	Pinus pinaster	Pinus pinaster	TRSH	40	8.097166
+Lopez_a346	Pinus pinea/halepensis-type	Pinus pinea/halepensis-type	TRSH	115	23.279352
+Lopez_a346	Pinus sylvestris/nigra-type	Pinus sylvestris/nigra-type	TRSH	5	1.0121457
+Lopez_a346	Populus	Populus	TRSH	10	2.0242915
+Lopez_a346	Quercus evergreen	Quercus ilex-type	TRSH	1	0.20242915
+Lopez_a346	Quercus deciduous	Quercus robur-type	TRSH	6	1.2145749
+Lopez_a346	Rosaceae undiff,	Rosaceae undiff,	TRSH	7	1.417004
+Lopez_a346	Salix	Salix	TRSH	3	0.60728745
+Lopez_a346	Apiaceae	Apiaceae	HERB	3	0.60728745
+Lopez_a346	Cruciferae	Brassicaceae	HERB	4	0.8097166
+Lopez_a346	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	1	0.20242915
+Lopez_a346	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	7	1.417004
+Lopez_a346	Cistus ladanifer	Cistus ladanifer	HERB	1	0.20242915
+Lopez_a346	Cyperaceae	Cyperaceae	HERB	7	1.417004
+Lopez_a346	Cytisus/Genista-type	Cytisus/Genista-type	HERB	12	2.4291498
+Lopez_a346	Labiatae	Lamiaceae	HERB	1	0.20242915
+Lopez_a346	Papaver rhoeas-type	Papaver rhoeas-type	HERB	4	0.8097166
+Lopez_a346	Campanula-type	Phyteuma-type	HERB	3	0.60728745
+Lopez_a346	Plantago lanceolata-type	Plantago lanceolata-type	HERB	4	0.8097166
+Lopez_a346	Poaceae undifferentiated	Poaceae	HERB	60	12.145749
+Lopez_a346	Polygonum aviculare-type	Polygonum aviculare-type	HERB	3	0.60728745
+Lopez_a346	Saxifraga	Saxifraga	HERB	3	0.60728745
+Lopez_a346	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	1	0.20242915
+Lopez_a346	Urtica dioica-type	Urtica dioica-type	HERB	62	12.550607
+Lopez_a346	Sordaria	Sordaria	NOPO	9	

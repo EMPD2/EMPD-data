@@ -1,23 +1,23 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Lopez_a20	4	65	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	517	12.572534
-1	Lopez_a20	5	52	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	517	10.058027
-2	Lopez_a20	470	2	470	Calluna vulgaris	Calluna vulgaris	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	517	0.3868472
-3	Lopez_a20	2541	103	468	Erica arborea-type	Erica arborea-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	517	19.922631
-4	Lopez_a20	67	8	67	Eucalyptus	Eucalyptus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	517	1.5473888
-5	Lopez_a20	515	5	79	Hedera	Hedera	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	517	0.96711799
-6	Lopez_a20	452	2	452	Pinus pinaster	Pinus pinaster	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	517	0.3868472
-7	Lopez_a20	3862	69	3862	Pinus sylvestris/nigra-type	Pinus sylvestris/nigra-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	517	13.346228
-8	Lopez_a20	21	62	21	Quercus deciduous	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	517	11.992263
-9	Lopez_a20	36	2	36	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	517	0.3868472
-10	Lopez_a20	608	2	41	Aster-type	Aster-type	HERB	Herbs	HERB	True	True	Herbs	5	517	0.3868472
-11	Lopez_a20	780	1	52	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	517	0.1934236
-12	Lopez_a20	61	3	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	517	0.58027079
-13	Lopez_a20	2928	56	106	Poaceae undifferentiated	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	517	10.831721
-14	Lopez_a20	4270	2	466	Urtica dioica-type	Urtica dioica-type	HERB	Herbs	HERB	True	True	Herbs	5	517	0.3868472
-15	Lopez_a20	3749	7	3749	Monolete fern spores undifferentiated	Monolete fern spores undifferentiated	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	517	1.3539652
-16	Lopez_a20	478	2	478	Osmunda regalis	Osmunda regalis	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	517	0.3868472
-17	Lopez_a20	2604	11	230	Polypodium vulgare-type	Polypodium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	517	2.1276596
-18	Lopez_a20	1279	61	1279	Pteridium	Pteridium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	517	11.798839
-19	Lopez_a20	4235	2	4235	Trilete fern spores undifferentiated	Trilete fern spores undifferentiated	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	517	0.3868472
-20	Lopez_a20	2415	1	568	Cercophora	Cercophora-type	FUNG	Fungi	NOPO	False	False	Nonpollen	30	517	
-21	Lopez_a20	4157	169	4157	Sordaria	Sordaria	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	517	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Lopez_a20	Alnus	Alnus	TRSH	65	12.572534
+Lopez_a20	Betula	Betula	TRSH	52	10.058027
+Lopez_a20	Calluna vulgaris	Calluna vulgaris	TRSH	2	0.3868472
+Lopez_a20	Erica arborea-type	Erica arborea-type	TRSH	103	19.922631
+Lopez_a20	Eucalyptus	Eucalyptus	TRSH	8	1.5473888
+Lopez_a20	Hedera	Hedera	TRSH	5	0.96711799
+Lopez_a20	Pinus pinaster	Pinus pinaster	TRSH	2	0.3868472
+Lopez_a20	Pinus sylvestris/nigra-type	Pinus sylvestris/nigra-type	TRSH	69	13.346228
+Lopez_a20	Quercus deciduous	Quercus robur-type	TRSH	62	11.992263
+Lopez_a20	Apiaceae	Apiaceae	HERB	2	0.3868472
+Lopez_a20	Aster-type	Aster-type	HERB	2	0.3868472
+Lopez_a20	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.1934236
+Lopez_a20	Cyperaceae	Cyperaceae	HERB	3	0.58027079
+Lopez_a20	Poaceae undifferentiated	Poaceae	HERB	56	10.831721
+Lopez_a20	Urtica dioica-type	Urtica dioica-type	HERB	2	0.3868472
+Lopez_a20	Cercophora	Cercophora-type	FUNG	1	
+Lopez_a20	Monolete fern spores undifferentiated	Monolete fern spores undifferentiated	VACR	7	1.3539652
+Lopez_a20	Osmunda regalis	Osmunda regalis	VACR	2	0.3868472
+Lopez_a20	Polypodium vulgare-type	Polypodium	VACR	11	2.1276596
+Lopez_a20	Pteridium	Pteridium	VACR	61	11.798839
+Lopez_a20	Sordaria	Sordaria	NOPO	169	
+Lopez_a20	Trilete fern spores undifferentiated	Trilete fern spores undifferentiated	VACR	2	0.3868472

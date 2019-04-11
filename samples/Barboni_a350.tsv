@@ -1,26 +1,26 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Barboni_a350	4	1	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	772	0.12953368
-1	Barboni_a350	587	6	356	Cedrus	Cedrus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	772	0.77720207
-2	Barboni_a350	19	501	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	772	64.896373
-3	Barboni_a350	103	1	103	Pistacia	Pistacia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	772	0.12953368
-4	Barboni_a350	208	1	208	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	772	0.12953368
-5	Barboni_a350	1061	6	110	Quercus cerris-type	Quercus cerris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	772	0.77720207
-6	Barboni_a350	3981	3	3981	Quercus coccifera-type	Quercus coccifera-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	772	0.38860104
-7	Barboni_a350	1468	2	41	Aster	Aster-type	HERB	Herbs	HERB	True	True	Herbs	5	772	0.25906736
-8	Barboni_a350	46	2	46	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	772	0.25906736
-9	Barboni_a350	3036	2	283	Centaurea undifferentiated	Centaurea	HERB	Herbs	HERB	True	True	Herbs	5	772	0.25906736
-10	Barboni_a350	1075	3	50	Cerealia-type	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	772	0.38860104
-11	Barboni_a350	780	4	52	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	772	0.51813472
-12	Barboni_a350	61	30	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	772	3.8860104
-13	Barboni_a350	2344	3	2214	Lactuca	Lactuca-type	HERB	Herbs	HERB	True	True	Herbs	5	772	0.38860104
-14	Barboni_a350	600	3	34	Anthemis-type	Matricaria-type	HERB	Herbs	HERB	True	True	Herbs	5	772	0.38860104
-15	Barboni_a350	1611	21	106	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	772	2.7202073
-16	Barboni_a350	164	183	164	Lycopodium	Lycopodium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	772	23.704663
-17	Barboni_a350	2417	8	2417	Coelastrum reticulatum	Coelastrum reticulatum	ALGA	Algae	AQUA	False	True	Aquatics	7	772	1.0362694
-18	Barboni_a350	638	8	638	Nymphaea	Nymphaea	AQUA	Aquatics	AQUA	False	True	Aquatics	7	772	1.0362694
-19	Barboni_a350	920	177	920	Pediastrum boryanum	Pediastrum boryanum	ALGA	Algae	AQUA	False	True	Aquatics	7	772	22.927461
-20	Barboni_a350	3821	347	3821	Pediastrum clathratum	Pediastrum clathratum	ALGA	Algae	AQUA	False	True	Aquatics	7	772	44.948187
-21	Barboni_a350	2364	198	2027	Pediastrum simplex	Pediastrum simplex	ALGA	Algae	AQUA	False	True	Aquatics	7	772	25.647668
-22	Barboni_a350	133	3	133	Sparganium	Potamogeton-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	772	0.38860104
-23	Barboni_a350	3631	7	197	Indeterminable: unknown	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	772	
-24	Barboni_a350	980	1	197	Unknown	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	772	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Barboni_a350	Alnus	Alnus	TRSH	1	0.12953368
+Barboni_a350	Cedrus	Cedrus	TRSH	6	0.77720207
+Barboni_a350	Pinus	Pinus	TRSH	501	64.896373
+Barboni_a350	Pistacia	Pistacia	TRSH	1	0.12953368
+Barboni_a350	Quercus	Quercus	TRSH	1	0.12953368
+Barboni_a350	Quercus cerris-type	Quercus cerris-type	TRSH	6	0.77720207
+Barboni_a350	Quercus coccifera-type	Quercus coccifera-type	TRSH	3	0.38860104
+Barboni_a350	Aster	Aster-type	HERB	2	0.25906736
+Barboni_a350	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	2	0.25906736
+Barboni_a350	Centaurea undifferentiated	Centaurea	HERB	2	0.25906736
+Barboni_a350	Cerealia-type	Cerealia-type	HERB	3	0.38860104
+Barboni_a350	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	4	0.51813472
+Barboni_a350	Cyperaceae	Cyperaceae	HERB	30	3.8860104
+Barboni_a350	Lactuca	Lactuca-type	HERB	3	0.38860104
+Barboni_a350	Anthemis-type	Matricaria-type	HERB	3	0.38860104
+Barboni_a350	Gramineae	Poaceae	HERB	21	2.7202073
+Barboni_a350	Coelastrum reticulatum	Coelastrum reticulatum	ALGA	8	1.0362694
+Barboni_a350	Nymphaea	Nymphaea	AQUA	8	1.0362694
+Barboni_a350	Pediastrum boryanum	Pediastrum boryanum	ALGA	177	22.927461
+Barboni_a350	Pediastrum clathratum	Pediastrum clathratum	ALGA	347	44.948187
+Barboni_a350	Pediastrum simplex	Pediastrum simplex	ALGA	198	25.647668
+Barboni_a350	Sparganium	Potamogeton-type	AQUA	3	0.38860104
+Barboni_a350	Indeterminable: unknown	Indeterminable: unknown	INUN	7	
+Barboni_a350	Unknown	Indeterminable: unknown	INUN	1	
+Barboni_a350	Lycopodium	Lycopodium	VACR	183	23.704663

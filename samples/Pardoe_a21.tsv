@@ -1,22 +1,22 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
-0	Pardoe_a21	4	9	4	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	506	1.7786561
-1	Pardoe_a21	5	199	5	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	506	39.328063
-2	Pardoe_a21	7	1	7	Carpinus	Carpinus betulus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	506	0.19762846
-3	Pardoe_a21	9	4	9	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	506	0.79051383
-4	Pardoe_a21	18	5	18	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	506	0.98814229
-5	Pardoe_a21	19	58	19	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	506	11.462451
-6	Pardoe_a21	25	30	25	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	506	5.9288538
-7	Pardoe_a21	552	3	552	Vaccinium	Vaccinium	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	506	0.59288538
-8	Pardoe_a21	601	18	36	Umbelliferae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	506	3.5573123
-9	Pardoe_a21	37	1	37	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	506	0.19762846
-10	Pardoe_a21	157	2	157	Campanulaceae	Campanulaceae	HERB	Herbs	HERB	True	True	Herbs	5	506	0.39525692
-11	Pardoe_a21	3385	6	3385	Compositae tubuliflorae	Compositae tubuliflorae	HERB	Herbs	HERB	True	True	Herbs	5	506	1.1857708
-12	Pardoe_a21	61	13	61	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	506	2.56917
-13	Pardoe_a21	3798	31	3798	Oxyria/Rumex	Oxyria/Rumex	HERB	Herbs	HERB	True	True	Herbs	5	506	6.1264822
-14	Pardoe_a21	102	5	102	Pinguicula	Pinguicula	HERB	Herbs	HERB	True	True	Herbs	5	506	0.98814229
-15	Pardoe_a21	1611	82	106	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	506	16.205534
-16	Pardoe_a21	156	25	156	Ranunculaceae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	506	4.9407115
-17	Pardoe_a21	759	9	445	Viola	Viola	HERB	Herbs	HERB	True	True	Herbs	5	506	1.7786561
-18	Pardoe_a21	565	1	565	Cryptogramma	Cryptogramma crispa	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	506	0.19762846
-19	Pardoe_a21	1554	4	167	Filicales	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	506	0.79051383
-20	Pardoe_a21	165	1	165	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	506	
+samplename	original_varname	acc_varname	groupid	count	percentage
+Pardoe_a21	Alnus	Alnus	TRSH	9	1.7786561
+Pardoe_a21	Betula	Betula	TRSH	199	39.328063
+Pardoe_a21	Carpinus	Carpinus betulus	TRSH	1	0.19762846
+Pardoe_a21	Corylus	Corylus	TRSH	4	0.79051383
+Pardoe_a21	Picea	Picea	TRSH	5	0.98814229
+Pardoe_a21	Pinus	Pinus	TRSH	58	11.462451
+Pardoe_a21	Salix	Salix	TRSH	30	5.9288538
+Pardoe_a21	Vaccinium	Vaccinium	DWAR	3	0.59288538
+Pardoe_a21	Umbelliferae	Apiaceae	HERB	18	3.5573123
+Pardoe_a21	Artemisia	Artemisia	HERB	1	0.19762846
+Pardoe_a21	Campanulaceae	Campanulaceae	HERB	2	0.39525692
+Pardoe_a21	Compositae tubuliflorae	Compositae tubuliflorae	HERB	6	1.1857708
+Pardoe_a21	Cyperaceae	Cyperaceae	HERB	13	2.56917
+Pardoe_a21	Oxyria/Rumex	Oxyria/Rumex	HERB	31	6.1264822
+Pardoe_a21	Pinguicula	Pinguicula	HERB	5	0.98814229
+Pardoe_a21	Gramineae	Poaceae	HERB	82	16.205534
+Pardoe_a21	Ranunculaceae	Ranunculaceae	HERB	25	4.9407115
+Pardoe_a21	Viola	Viola	HERB	9	1.7786561
+Pardoe_a21	Cryptogramma	Cryptogramma crispa	VACR	1	0.19762846
+Pardoe_a21	Filicales	Monolete fern spores	VACR	4	0.79051383
+Pardoe_a21	Sphagnum	Sphagnum	NOPO	1	
