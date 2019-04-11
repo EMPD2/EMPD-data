@@ -1,39 +1,39 @@
 groupid	groupname	higher_groupid	included_in_percent_sum	make_percent
-ALGA	Algae	AQUA	False	True
-AQBR	Aquatic Bryophytes	NOPO	False	True
-AQPT	Aquatic Pteridophyta	AQUA	False	True
-AQUA	Aquatics	AQUA	False	True
-AQVP	Aquatic Vascular Plants	AQUA	False	True
-BRYO	Bryophytes	NOPO	True	True
-BRYO/VACR	TO BE REMOVED	TBR	False	False
-CHAR	Charcoal	CHAR	False	False
-CHLO	Chlorophytes	NOPO	False	False
-CYAN	Cyanobacteria	NOPO	False	False
-DINO	Dinoflagellates	NOPO	False	False
-DWAR	Dwarf shrubs	TRSH	True	True
-FUNG	Fungi	NOPO	False	False
-HELO	Helophytes	AQUA	False	True
-HERB	Herbs	HERB	True	True
-INUN	Indeterminables and unknowns	INUN	False	False
-INVE	Invertebrates	NOPO	False	False
-LIAN	Liana	TRSH	True	True
-MACR	Macrofossils	NOPO	False	False
-NOPO	Nonpollen	NOPO	False	False
-PLAT	Platyhelminthes (flatworms)	NOPO	False	False
-PREQ	Pre-Quaternary type	NOPO	False	False
-RHIZ	Rhizopods	NOPO	False	False
-ROTI	Rotifera (Rotifers)	NOPO	False	False
-SPOR	Taxonomically undifferentiated spores	INUN	False	False
-TEAM	Testate amoebae	NOPO	False	False
-TRSH	Trees and shrubs	TRSH	True	True
-UNPP	Undifferentiated NPP	INUN	False	False
-UPBR	Upland Bryophytes	NOPO	True	True
-UPHE	Upland herbs	HERB	True	True
-VACR	Vascular cryptogams (Pteridophytes)	NOPO	True	True
-VEMI	Vegetative microfossils	NOPO	False	False
-NEMA	Nematoda (roundworms)	NOPO	False	False
-ACRI	Acritarchs	NOPO	False	False
-EUMY	Eumycete	NOPO	False	False
-HEMI	Hemi-parasitic	NOPO	False	False
-MOSS	Moss	NOPO	False	False
-MICR	Microcrustaceans	NOPO	False	False
+ALGA	Algae	AQUA	f	t
+AQBR	Aquatic Bryophytes	NOPO	f	t
+AQPT	Aquatic Pteridophyta	AQUA	f	t
+AQUA	Aquatics	AQUA	f	t
+AQVP	Aquatic Vascular Plants	AQUA	f	t
+BRYO	Bryophytes	NOPO	t	t
+BRYO/VACR	TO BE REMOVED	TBR	f	f
+CHAR	Charcoal	CHAR	f	f
+CHLO	Chlorophytes	NOPO	f	f
+CYAN	Cyanobacteria	NOPO	f	f
+DINO	Dinoflagellates	NOPO	f	f
+DWAR	Dwarf shrubs	TRSH	t	t
+FUNG	Fungi	NOPO	f	f
+HELO	Helophytes	AQUA	f	t
+HERB	Herbs	HERB	t	t
+INUN	Indeterminables and unknowns	INUN	f	f
+INVE	Invertebrates	NOPO	f	f
+LIAN	Liana	TRSH	t	t
+MACR	Macrofossils	NOPO	f	f
+NOPO	Nonpollen	NOPO	f	f
+PLAT	Platyhelminthes (flatworms)	NOPO	f	f
+PREQ	Pre-Quaternary type	NOPO	f	f
+RHIZ	Rhizopods	NOPO	f	f
+ROTI	Rotifera (Rotifers)	NOPO	f	f
+SPOR	Taxonomically undifferentiated spores	INUN	f	f
+TEAM	Testate amoebae	NOPO	f	f
+TRSH	Trees and shrubs	TRSH	t	t
+UNPP	Undifferentiated NPP	INUN	f	f
+UPBR	Upland Bryophytes	NOPO	t	t
+UPHE	Upland herbs	HERB	t	t
+VACR	Vascular cryptogams (Pteridophytes)	NOPO	t	t
+VEMI	Vegetative microfossils	NOPO	f	f
+NEMA	Nematoda (roundworms)	NOPO	f	f
+ACRI	Acritarchs	NOPO	f	f
+EUMY	Eumycete	NOPO	f	f
+HEMI	Hemi-parasitic	NOPO	f	f
+MOSS	Moss	NOPO	f	f
+MICR	Microcrustaceans	NOPO	f	f
