@@ -104,7 +104,8 @@ for key, row in METADATA[METADATA.okexcept.astype(bool)].iterrows():
             if col in ['Country', 'SampleContext', 'SampleMethod',
                        'SampleType'] and notnull(row[col]):
                 okexcept[col].add(row[col])
-                row_okexcept.remove(col)
+                if col != 'Country':
+                    row_okexcept.remove(col)
         METADATA.loc[key, 'okexcept'] = ','.join(row_okexcept)
         orig_METADATA.loc[key, 'okexcept'] = ','.join(row_okexcept)
         save_orig = True
