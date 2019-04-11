@@ -45,13 +45,12 @@ def skip_ci(request):
 
 
 @pytest.fixture
-def counts():
+def counts(data_files):
     import pandas as pd
     read_tsv = partial(pd.read_csv, sep='\t')
-    files = _data_files()
-    if not len(files):
+    if not len(data_files):
         pytest.skip("No sample data provided")
-    return pd.concat(list(map(read_tsv, files)))
+    return pd.concat(list(map(read_tsv, data_files)))
 
 
 @pytest.fixture(scope='session')

@@ -208,7 +208,9 @@ ALTER TABLE ONLY workerRoles ADD CONSTRAINT workerRoles_pkey PRIMARY KEY (worker
 CREATE TABLE groupID (
     groupid character varying(9) NOT NULL, ------ PK
     groupname character varying(60) NOT NULL,
-    higher_groupid character varying(4) NOT NULL
+    higher_groupid character varying(4) NOT NULL,
+    included_in_percent_sum boolean DEFAULT FALSE,
+    make_percent boolean DEFAULT FALSE
 );
 ALTER TABLE groupID OWNER TO postgres;
 ALTER TABLE ONLY groupID ADD CONSTRAINT groupID_pkey PRIMARY KEY (groupid);

@@ -1,8 +1,9 @@
 # Module for fixing errors in the meta data
 import requests
+import os.path as osp
 from itertools import starmap
-import numpy as np
 import pandas as pd
+import numpy as np
 import pytest
 from latlon_utils import get_climate
 
@@ -15,6 +16,9 @@ def get_elevation(points):
     # one approach is to use pandas json functionality:
     elevation = pd.io.json.json_normalize(r, 'results')['elevation'].values
     return elevation
+
+
+group_order = ['TRSH', 'PALM', 'MANG', 'LIAN', 'SUCC', 'HERB', 'VACR', 'AQUA']
 
 
 @pytest.mark.formatfix
@@ -70,6 +74,29 @@ def fix_newline_chars(full_meta, meta, meta_file, commit_fixes,
                 message + ('\n\n[skip ci]' if skip_ci else ''))
     else:
         print("No cells contained newline characters")
+
+
+@pytest.mark.formatfix
+@pytest.mark.dbfix
+def fix_sample_data_formatting(data_files, groupids, commit_fixes, local_repo,
+                               skip_ci):
+    for fname in data_files:
+        counts = pd.read_csv(fname, '\t')
+        counts['samplename'] = osp.splitext(osp.basename(fname))[0]
+        counts = counts.merge(groupids, on='groupid', how='left')
+        summed = counts[counts.included_in_percent_sum]['count'].sum()
+        counts['percentage'] = np.nan
+        mask = counts.make_percent.values
+        counts.loc[mask, 'percentage'] = counts.loc[mask, 'count'] / summed
+        notes = ['notes'] if 'notes' in counts.columns else []
+        counts = counts[['samplename', 'orig_varname', 'acc_varname',
+                         'count', 'percentage'] + notes]
+        counts.to_csv(fname, sep='\t', index=False)
+        if commit_fixes:
+            local_repo.index.add(['samples'])
+            local_repo.index.commit(
+                "Fixed formatting of samples data" + (
+                    '\n\n[skip ci]' if skip_ci else ''))
 
 
 @pytest.mark.metafix
