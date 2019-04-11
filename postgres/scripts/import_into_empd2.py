@@ -46,18 +46,6 @@ def listdir_fullpath(d):
     return [os.path.join(d, f) for f in os.listdir(d)]
 
 
-# script for returning elevation from lat, long, based on open elevation data
-# which in turn is based on SRTM
-def get_elevation(lat, long):
-    query = ('https://api.open-elevation.com/api/v1/lookup'
-             f'?locations={lat},{long}')
-    # json object, various ways you can extract value
-    r = requests.get(query).json()
-    # one approach is to use pandas json functionality:
-    elevation = pd.io.json.json_normalize(r, 'results')['elevation'].values[0]
-    return elevation
-
-
 def clean_doi(doi):
     DOI = doi.replace('https://doi.org/', '')
     DOI = DOI.replace('http://dx.doi.org/', '')
@@ -79,7 +67,6 @@ WORKER_ID = (cursor.fetchall()[0][0] or 0) + 1
 
 err = 0
 list_of_errors = []
-missing_elevation = {}
 
 
 METADATA = pd.read_csv(meta, sep='\t')
@@ -262,28 +249,6 @@ for x in range(WORKERS.shape[0]):
 # ---
 for x in range(METADATA.shape[0]):
     to_update = METADATA.iloc[x]['SampleName'] in existing_samples
-    elevation = METADATA.iloc[x][6]
-    elev_notes = str(METADATA.iloc[x][8])
-    if elevation == '':
-        if elev_notes == '':
-            elev_notes = ('Elevation estimated from Google Earth from the '
-                          'coordinates.')
-        else:
-            elev_notes += ('; Elevation estimated from Google Earth from the '
-                           'coordinates')
-        if METADATA.iloc[x][0] in missing_elevation.keys():
-            elevation = missing_elevation[METADATA.iloc[x][0]]
-        else:
-            try:
-                print(METADATA.iloc[x]['SampleName'])
-                elevation = get_elevation(METADATA.iloc[x]['Latitude'],
-                                          METADATA.iloc[x]['Longitude'])
-                f_missing_elev = open("missing_elevation.csv", "a")
-                f_missing_elev.write(
-                    METADATA.iloc[x][0] + "," + str(elevation) + "\n")
-                f_missing_elev.close()
-            except Exception:
-                elevation = -9999
     try:
         if to_update:
             query = (
@@ -313,9 +278,9 @@ for x in range(METADATA.shape[0]):
             is_null_str(METADATA.iloc[x]['Country']),
             is_null_str(str(METADATA.iloc[x]['Longitude'])),
             is_null_str(str(METADATA.iloc[x]['Latitude'])),
-            is_null_str(str(elevation)),
+            is_null_str(str(METADATA.iloc[x]['Elevation'])),
             is_null_str(METADATA.iloc[x]['LocationReliability']),
-            is_null_str(elev_notes),
+            is_null_str(METADATA.iloc[x]['LocationNotes']),
             is_null_str(str(METADATA.iloc[x]['AreaOfSite'])),
             is_null_str(METADATA.iloc[x]['SampleContext'].lower()),
             is_null_str(METADATA.iloc[x]['SiteDescription']),
@@ -467,3 +432,6 @@ for samplename in METADATA.SampleName:
                             conn.commit()
             except Exception:
                 print(samplename, VAR_, "!" + str(row['count']) + "!")
+
+
+assert err == 0, '\n'.join(list_of_errors)
