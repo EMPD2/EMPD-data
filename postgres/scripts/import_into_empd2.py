@@ -401,7 +401,9 @@ cursor.execute("SELECT MAX(var_) FROM p_vars")
 res = cursor.fetchall()
 TAXON_ID = (res[0][0] or 0) + 1
 
-for samplename in METADATA.SampleName:
+# TODO: Updating samples is not yet supported!
+for samplename in filter(lambda s: s not in existing_samples,
+                         METADATA.SampleName):
     COUNTS = pd.read_csv(os.path.join(samples_dir, samplename + '.tsv'),
                          sep='\t')
     for x, row in COUNTS.iterrows():
