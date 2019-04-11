@@ -103,11 +103,11 @@ def fix_sample_data_formatting(data_files, groupids_table, commit_fixes,
         counts = counts[['samplename', 'original_varname', 'acc_varname',
                          'groupid', 'count', 'percentage'] + notes]
         counts.to_csv(fname, sep='\t', index=False, float_format='%1.8g')
-        if commit_fixes:
-            local_repo.index.add(['samples'])
-            local_repo.index.commit(
-                "Fixed formatting of samples data" + (
-                    '\n\n[skip ci]' if skip_ci else ''))
+    if commit_fixes:
+        local_repo.index.add(['samples'])
+        local_repo.index.commit(
+            "Fixed formatting of samples data" + (
+                '\n\n[skip ci]' if skip_ci else ''))
 
 
 @pytest.mark.metafix
