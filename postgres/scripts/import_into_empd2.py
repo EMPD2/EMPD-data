@@ -377,8 +377,9 @@ for x in range(METADATA.shape[0]):
     else:
         cursor.execute(
             "INSERT INTO climate VALUES (%s,%s,%s)" % (
-                is_null_str(METADATA.iloc[x]['SampleName']), temperature,
-                precip))
+                is_null_str(METADATA.iloc[x]['SampleName']),
+                temperature.replace('nan', 'NULL'),
+                precip.replace('nan', 'NULL')))
     conn.commit()
 
     for _worker in map('Worker{}_'.format, '1234'):
