@@ -98,7 +98,10 @@ for key, row in METADATA[METADATA.okexcept.astype(bool)].iterrows():
         save_orig = True
 
 if save_orig:
-    orig_METADATA.to_csv(meta, sep='\t', index=False, float_format='%1.8g')
+    try:
+        orig_METADATA.to_csv(meta, sep='\t', index=False, float_format='%1.8g')
+    except PermissionError:
+        pass
 
 table_map = {
     'Country': 'countries',
@@ -123,7 +126,10 @@ for col, vals in okexcept.items():
                 '({})'.format(', '.join(map(is_null_str, v)))
                 for v in new_vals)))
         conn.commit()
-        df.to_csv(fname, sep='\t', index=False)
+        try:
+            df.to_csv(fname, sep='\t', index=False)
+        except PermissionError:
+            pass
 
 
 METADATA.replace(np.nan, '', inplace=True)
