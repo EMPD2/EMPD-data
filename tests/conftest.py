@@ -171,6 +171,14 @@ def locationreliabilities(meta_file):
 
 
 @pytest.fixture(scope='session')
+def groupids_table(meta_file):
+    import pandas as pd
+    return pd.read_csv(
+        osp.join(osp.dirname(meta_file), 'tab-delimited', 'groupid.tsv'),
+        sep='\t')
+
+
+@pytest.fixture(scope='session')
 def groupids(meta_file):
     import pandas as pd
     return pd.read_csv(

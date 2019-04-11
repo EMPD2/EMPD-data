@@ -78,19 +78,27 @@ def fix_newline_chars(full_meta, meta, meta_file, commit_fixes,
 
 @pytest.mark.formatfix
 @pytest.mark.dbfix
-def fix_sample_data_formatting(data_files, groupids, commit_fixes, local_repo,
-                               skip_ci):
+def fix_sample_data_formatting(data_files, groupids_table, commit_fixes,
+                               local_repo, skip_ci):
     for fname in data_files:
         counts = pd.read_csv(fname, '\t')
         counts['samplename'] = osp.splitext(osp.basename(fname))[0]
-        counts = counts.merge(groupids, on='groupid', how='left')
+        counts = counts[[c for c in counts.columns
+                         if c == 'groupid' or c not in groupids_table]]
+
+        counts = counts.merge(groupids_table, on='groupid', how='left')
         summed = counts[counts.included_in_percent_sum]['count'].sum()
         counts['percentage'] = np.nan
         mask = counts.make_percent.values
         counts.loc[mask, 'percentage'] = counts.loc[mask, 'count'] / summed
+
+        # order the samples
+        counts['order'] = counts.groupid.apply(group_order.index)
+        counts.sort_values(['order', 'acc_varname'], inplace=True)
+
         notes = ['notes'] if 'notes' in counts.columns else []
-        counts = counts[['samplename', 'orig_varname', 'acc_varname',
-                         'count', 'percentage'] + notes]
+        counts = counts[['samplename', 'original_varname', 'acc_varname',
+                         'groupid', 'count', 'percentage'] + notes]
         counts.to_csv(fname, sep='\t', index=False)
         if commit_fixes:
             local_repo.index.add(['samples'])
