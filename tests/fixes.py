@@ -90,16 +90,19 @@ def fix_sample_data_formatting(data_files, groupids_table, commit_fixes,
         summed = counts[counts.included_in_percent_sum]['count'].sum()
         counts['percentage'] = np.nan
         mask = counts.make_percent.values
-        counts.loc[mask, 'percentage'] = counts.loc[mask, 'count'] / summed
+        counts.loc[mask, 'percentage'] = (
+            100. * counts.loc[mask, 'count'] / summed)
+
+        ordered_groups = group_order + groupids_table.groupid.tolist()
 
         # order the samples
-        counts['order'] = counts.groupid.apply(group_order.index)
+        counts['order'] = counts.higher_groupid.apply(ordered_groups.index)
         counts.sort_values(['order', 'acc_varname'], inplace=True)
 
         notes = ['notes'] if 'notes' in counts.columns else []
         counts = counts[['samplename', 'original_varname', 'acc_varname',
                          'groupid', 'count', 'percentage'] + notes]
-        counts.to_csv(fname, sep='\t', index=False)
+        counts.to_csv(fname, sep='\t', index=False, float_format='%1.8g')
         if commit_fixes:
             local_repo.index.add(['samples'])
             local_repo.index.commit(
