@@ -175,7 +175,7 @@ def groupids_table(meta_file):
     import pandas as pd
     return pd.read_csv(
         osp.join(osp.dirname(meta_file), 'tab-delimited', 'groupid.tsv'),
-        sep='\t')
+        sep='\t').replace('t', True).replace('f', False)
 
 
 @pytest.fixture(scope='session')
