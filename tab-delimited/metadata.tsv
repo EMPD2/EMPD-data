@@ -639,6 +639,7 @@ Barboni_a164	541	Puy de Pailleret	France	2.83	45.5	1400	C										f	Elevation i
 Barboni_a165	542	Col de la Geniste	France	2.83	45.5	1361	B										f	Elevation near correct. No site name. Coordinates unchanged. Not in Bordon database.		EMPD2
 Barboni_a166	543	Graviere	France	2.61	45.45	760	C										f	Elevation incorrect. No site name. Coordinates unchanged. Not in Bordon database.		EMPD2
 Barboni_a379	Arr_de_l___5	Arroyo de las Ciervas	Spain	-6.233333	41.966667	790											f			EMPD2
+Barboni_a447	BE_FRAA	FRAA	Spain	-6.0188889	40.45	610	C						moss				f			EMPD2
 Barboni_a167	544	Mazauriel	France	2.61	45.43	770	B						moss				f	Site is located in the Massif central region of France. Study area appears roughly correct in comparison to map in Miras et al 2003, however, no coordinates given and can t be sure whether this paper is referring to the correct sites. Contact author: Vergne and source: Peyron. Elevation incorrect. Coordinates unchanged.		EMPD2
 Barboni_a168	545	Gelerie	France	2.58	45.4	735	C										f	Elevation incorrect. No site name. Coordinates unchanged. Not in Bordon database.		EMPD2
 Barboni_a169	546	Merigot-Valessard	France	2.6	45.38	800	B						moss				f	Elevation almost correct. Site is located in the Massif central region of France. Study area appears roughly correct in comparison to map in Miras et al 2003, however, no coordinates given and can t be sure whether this paper is referring to the correct sites. Contact author: Vergne and source: Peyron. Coordinates not changed.		EMPD2
@@ -798,7 +799,6 @@ Barboni_a443	BE_FRA6	FRA6	Spain	-6.118889	40.517222	1100	C						moss				f			EMPD
 Barboni_a444	BE_FRA7	FRA7	Spain	-6.117222	40.467222	1230	C						moss				f			EMPD2
 Barboni_a445	BE_FRA8	FRA8	Spain	-6.118889	40.5	975	C						moss				f			EMPD2
 Barboni_a446	BE_FRA9	FRA9	Spain	-6.15	40.418889	630	C						moss				f			EMPD2
-Barboni_a447	BE_FRAA	FRAA	Spain	-6.0188889	40.45	610	C						moss				f			EMPD2
 Barboni_a448	BE_GAT1	GAT1	Spain	-6.367222	40.1	600	C						moss				f			EMPD2
 Barboni_a449	BE_GAT2	GAT2	Spain	-6.4	40.118889	550	C						moss				f			EMPD2
 Barboni_a45	2443	IT39	Italy	15.7	40.28	710											f			EMPD2
@@ -873,6 +873,7 @@ Barboni_a510	BE_SAN1	SAN1	Spain	-3.968889	43.418889	20	C						moss				f			EMPD2
 Barboni_a511	BE_SAN2	SAN2	Spain	-3.95	43.418889	40	C						moss				f			EMPD2
 Barboni_a512	BE_SAN3	SAN3	Spain	-3.617222	43.4	150	C						moss				f			EMPD2
 Barboni_a714	Bulga17	Bulga17	Bulgaria	31.118889	42.885556	0											f		Country,Precipitation,Temperature,	EMPD2
+Barboni_a764	Demi_Gol___1	Demiryurt Golu	Turkey	37.383333	39.733333	1491.76											f			EMPD2
 Barboni_a513	BO_G001	G001	Greece	22.709722	40.515278	0	C						soil				f	No coordinates reported in ref paper. Point placed according to Fig. 2 and description in ref paper. Position really uncertain.		EMPD2
 Barboni_a514	BO_G002	G002	Greece	22.709167	40.516944	0	C						soil				f	No coordinates reported in ref paper. Point placed according to Fig. 2 and description in ref paper. Position really uncertain.		EMPD2
 Barboni_a515	BO_G003	G003	Greece	22.708333	40.519167	0	C						soil				f	No coordinates reported in ref paper. Point placed according to Fig. 2 and description in ref paper. Position really uncertain.		EMPD2
@@ -1150,7 +1151,6 @@ Barboni_a760	Clot_Yes_I	Clota Yesera I	Spain	-0.116806	41.39875	352				lake					
 Barboni_a761	Clot_Yes_II	Clota Yesera II	Spain	-0.11375	41.394861	349				lake							f	Point placed according to Balsa et al. 1991 (pagg. 16-17)		EMPD2
 Barboni_a762	Colfioer__90	Colfiorito	Italy	12.875	43.02	754	B			peatbog			core_top				f	Coring coordinates not reported in ref paper. Point placed according to Fig.1 in ref paper.		EMPD2
 Barboni_a763	Cue_de_l__10	Cueto de la Avellanosa	Spain	-4.364167	43.116667	1320			2.5				core_top				f			EMPD2
-Barboni_a764	Demi_Gol___1	Demiryurt Golu	Turkey	37.383333	39.733333	1491.76											f			EMPD2
 Barboni_a765	dra__35	Banyoles	Spain	-2.75	42.13	173											f			EMPD2
 Barboni_a766	El_Po_1___5	El Portillo 1	Spain	-6.3	41.916667	870											f			EMPD2
 Barboni_a767	El_Po_2___5	El Portillo 2	Spain	-6.3	41.916667	870											f			EMPD2
@@ -1286,6 +1286,7 @@ Barboni_a883	L_Grande_Mid	Laguna Grande-Mid	Spain	-4.302474	37.10874	794			5.674
 Barboni_a884	L_Honda	Laguna Honda	Spain	-4.143056	37.598056	449				lake							f	No coordinates available. Site found using website http://www.ideandalucia.es/ (Spatial Data Infrastructures of Andalusia)		EMPD2
 Barboni_a885	L_Iglesia	Laguna Iglesia	Spain	-4.568889	41.203333	785				lake							f	No coordinates available. Site found using picture http://rednatura.jcyl.es/natura2000/Mapas%20generales/MAPAsegovia_2.pdf (see bibliography folder) from website http://rednatura.jcyl.es/natura2000/inicio.html		EMPD2
 Barboni_a926	La_Lagun2	La Laguna 2	Spain	-3.9944444	37.091667	2260											f			EMPD2
+Bjune_a120	120	Unnamed	Norway	7.7493357	58.301872	290				lake			sediment	gravity corer		B	f	Sylvia is retired (since 2005)		EMPD2
 Barboni_a886	L_Lomillos	Laguna Lomillos	Spain	-3.935278	38.743056	755				lake							f	No coordinates available. Site identified through website http://ide.jccm.es (Infraestructura de Datos Espaciales de Castilla - La Mancha).		EMPD2
 Barboni_a887	L_Ma_1_Upp	Laguna Marchalicho 1 (Upper)	Spain	-1.8763889	37.133333	700											f			EMPD2
 Barboni_a888	L_Malgarejo	Laguna Malgarejo	Spain	-2.828472	39.395	671				lake							f	No coordinates available. Site found using website http://wikimapia.org		EMPD2
@@ -1451,7 +1452,6 @@ Bjune_a115	115	Fjelltjern	Norway	5.5645958	61.247485	221				lake			sediment	grav
 Bjune_a116	116	Stemtjern	Norway	7.8782097	58.435107	250				lake			sediment	gravity corer		B	f	Sylvia is retired (since 2005)		EMPD2
 Bjune_a117	117	Buveitstjern	Norway	7.9756647	58.38203	255				lake			sediment	gravity corer		B	f	Sylvia is retired (since 2005)		EMPD2
 Bjune_a118	118	Ljosetjern	Norway	8.0244204	58.597977	480				lake			sediment	gravity corer		B	f	Sylvia is retired (since 2005)		EMPD2
-Bjune_a120	120	Unnamed	Norway	7.7493357	58.301872	290				lake			sediment	gravity corer		B	f	Sylvia is retired (since 2005)		EMPD2
 Bjune_a121	121	Unnamed	Norway	7.9359865	59.072402	635				lake			sediment	gravity corer		B	f	Sylvia is retired (since 2005)		EMPD2
 Bjune_a122	122	Sandtjern	Norway	8.7481068	58.932831	173				lake			sediment	gravity corer		B	f	Sylvia is retired (since 2005)		EMPD2
 Bjune_a123	123	Bjortjern	Norway	8.5873238	59.013245	265				lake			sediment	gravity corer		B	f	Sylvia is retired (since 2005)		EMPD2
@@ -1681,7 +1681,6 @@ Bjune_a35	35	Tronetjern	Norway	13.083992	64.864248	421				lake			sediment	gravit
 Bjune_a36	36	Toriltjern	Norway	13.65125	64.915344	605				lake			sediment	gravity corer		B	f	Sylvia is retired (since 2005)		EMPD2
 Bjune_a37	37	Agatjern	Norway	11.547011	64.438161	160				lake			sediment	gravity corer		B	f	Sylvia is retired (since 2005)		EMPD2
 Bjune_a38	38	Nyhustjern	Norway	12.749496	64.471731	333				lake			sediment	gravity corer		B	f	Sylvia is retired (since 2005)		EMPD2
-Bjune_a39	39	Unnamed	Norway	13.944563	64.498619	390				lake			sediment	gravity corer		B	f	Sylvia is retired (since 2005)	Country	EMPD2
 Bjune_a4	4	Naestarjavri	Norway	25.091318	70.299507	60				lake			sediment	gravity corer		B	f	Sylvia is retired (since 2005)		EMPD2
 Bjune_a40	40	Kvervtern	Norway	10.393578	63.942024	188				lake			sediment	gravity corer		B	f	Sylvia is retired (since 2005)		EMPD2
 Bjune_a41	41	Andolvatn	Norway	11.632124	62.93338	153				lake			sediment	gravity corer		B	f	Sylvia is retired (since 2005)		EMPD2
@@ -1816,7 +1815,6 @@ Connor_b6	Moss 10	Castelejo	Portugal	-8.943263	37.101528	60				scattered trees/s
 Connor_b7	Moss Carrapateira 1	Carrapateira 1	Portugal	-8.88489	37.2036	25				scattered trees/shrubs		Pinus pinea forest with some Juniperus turbinata and Cistus salvifolius	moss	hand picking - multiple samples	-61	A	f			EMPD2
 Connor_b8	Moss Carrapateira 2	Carrapateira 2	Portugal	-8.8893	37.2004	25				scattered trees/shrubs		Open shrubland of Corema album, with scattered Pinus pinea and Juniperus turbinata	moss	hand picking - multiple samples	-61	A	f			EMPD2
 Connor_b9	Moss Sancha 1	Lagoa da Sancha 1	Portugal	-8.8305	38.02583	25				scattered trees/shrubs		Dune vegetation of Santolina, Halimium, Stauracanthus etc.	moss	hand picking - multiple samples	-61	A	f			EMPD2
-Connor_c1	CL-0	Cirque Lake, Kargapazari Mts.	Turkey	41.7	40.1	2200			1	wetland		Sedge-dominated wetland surrounded by mountain pastures; some trees in sheltered places	sediment	russian corer	-48	A	f	Southern slope of the Karagapazari Mountains; exact location unknown		EMPD2
 Connor_d1	Ispani-0	Ispani-II bog, Colchis	Georgia	41.8012	41.863	1.5			100	wetland bog		Sphagnum-Molinia bog with Frangula alnus, Alnus barbata and Vaccinium arctostaphylos on the margins; surrounds mostly tea and citrus plantations	moss	hand picking	-53	A	f			EMPD2
 Connor_e1	Bezbog-1	Lake Bezbog, Pirin Mts.	Bulgaria	23.521894	41.733281	2250			2	lake		Pinus mugo-dominated vegetation, grading into alpine meadows	sediment	gravity corer	-60	A	f	Unpublished data		EMPD2
 Connor_e2	Lebed-0.5	Blato do Lebed, Rhodope Mts.	Bulgaria	25.210148	41.472586	725			4	lake		Mixture of mixed oak forest, open pastures and gardens	sediment	gravity corer	-60	A	f	Unpublished data		EMPD2
@@ -2372,6 +2370,7 @@ EPDcoretop_E1213	EPDcoretop_E1213	Gerlos	Austria	12.138889	47.243056	1590	B			we
 EPDcoretop_E1214	EPDcoretop_E1214	Moor am Rofenberg	Austria	10.825556	46.829167	2760			0.04	wetland bog	Bog. Other info: Palsa-like hummocky bog	grazed meadows far above tree limit. LocalVeg: Polytr.norv.,alp.,jun.,Nardus,Trich.caes	peat	box	-15	A	f	Sample method: tin boxes 50x8x8 cm		EMPD2
 EPDcoretop_E1216	EPDcoretop_E1216	Le Loclat	Switzerland	6.996806	47.018611	435			0.05	lake	Natural Open Water. Other info: Lake	open water	sediment	piston corer	-36	A	f	Place identified using GoogleEarth. Sample method: Streif-Livingstone corer		EMPD2
 Lopez_a101	Avila-79	Valle del Tietar	Spain	-5.3396389	40.182639	680				scattered trees/shrubs		Jaral/Helechal	moss				f			EMPD2
+EPDcoretop_E1345	EPDcoretop_E1345	Marais de Marchesieux	France	-1.3	49.173333	5				wetland	Marsh. Other info: marsh	cultivated fields	peat		-40	A	f			EMPD2
 EPDcoretop_E122	EPDcoretop_E122	Blato	Czech Republic	15.191667	49.041667	645			25	wetland bog	Raised Bog. Other info: After deep drainage quite mineral peat	present: secondary spruce plantations	sediment	hiller corer	-18	A	f	Sample method: Hiller		EMPD2
 EPDcoretop_E1227	EPDcoretop_E1227	Lac du Mont d Orge, Sion	Switzerland	7.3380556	46.233472	640				wetland	Natural Open Water. Other info: partly filled-up natural lake	vineyard, orchard	sediment	hiller corer	-20	A	f	position checked using GoogleEarth. Coordinates from ref paper slightly modified to match better with lake position.. Sample method: Hiller corer		EMPD2
 EPDcoretop_E1230	EPDcoretop_E1230	Marais de Charauze	France	5.566944	45.368333	375	A		20	wetland	Marsh. Other info: marsh	humid vegetation. LocalVeg: Phragmite with shrubs and trees	peat		-40	A	f	Elevation near correct. Incorrect by 7m. EPD site. Site location Marias de Ch is near Voiron according to different websites. Voiron identified near site location. Coordinates reported on website (http://biblioteca.universia.net/html_bura/ficha/params/title/lithology-of-sediment-core-cze1-marais-charauze-france/id/51832773.html) same as in database. No journal articles found. Coordinates appear correct - not updated.		EMPD2
@@ -2392,14 +2391,12 @@ EPDcoretop_E1285	EPDcoretop_E1285	Le Loch Sunart	United Kingdom	-5.866667	56.666
 EPDcoretop_E1287	EPDcoretop_E1287	Baie de Seine estuary	France	-0.033333	49.416667	0			40000	estuarine	Estuarine. Other info: bay of Seine estuary		sediment	gravity corer	-40	A	f	Sample method: Küllenberg corer	Country,Precipitation,Temperature,	EMPD2
 EPDcoretop_E1289	EPDcoretop_E1289	Baie de Seine estuary	France	-0.033333	49.416667	0			40000	estuarine	Estuarine. Other info: bay of Seine estuary		sediment	auger corer	-40	A	f	Sample method: vibrocore Ifremer/Genavir	Country,Precipitation,Temperature,	EMPD2
 EPDcoretop_E1292	EPDcoretop_E1292	Lac du Bouchet	France	3.783333	44.916667	1200			127	lake	Volcanic Origin Lake Basin. Other info: Lake	Beech and planted Picea woodstands	sediment	auger corer	0	A	f	Sample method:  Sedidrill  corer		EMPD2
-EPDcoretop_E1299	EPDcoretop_E1299	Gradenmoos	Austria	12.808333	47.965278	1920			2.5	wetland bog	Bog. Other info: bog	Pinus/larch. LocalVeg: Carex	peat	piston corer	-40	A	f	Sample method: Dachnowski-Sonde	Country	EMPD2
 EPDcoretop_E1327	EPDcoretop_E1327	Anse Saint-Martin	France	-1.878611	49.703889	5				marine	Marine - Coastal. Other info: foreshore	cultivated fields	sediment		0	A	f			EMPD2
 EPDcoretop_E1328	EPDcoretop_E1328	Anse Saint-Martin	France	-1.878611	49.703889	5				marine	Marine - Coastal. Other info: foreshore	cultivated fields. LocalVeg: meadow	sediment		-40	A	f			EMPD2
 EPDcoretop_E133	EPDcoretop_E133	Boehnigsee Goldmoos	Switzerland	7.843056	46.259167	2061					Unknown				-15	A	f	Sample method: Unspecified device		EMPD2
 EPDcoretop_E1330	EPDcoretop_E1330	Etang paysan	France	-1.867222	49.696111	41				lake	Pond. Other info: pond	cultivated fields	sediment		-40	A	f			EMPD2
 EPDcoretop_E1344	EPDcoretop_E1344	Lingreville	France	-1.543056	48.929722	5				estuarine	Estuarine. Other info: beach	cultivated fields	sediment		-40	A	f			EMPD2
 Lopez_a102	Avila-80	Valle del Tietar	Spain	-5.3422778	40.182667	720				scattered trees/shrubs		Jaral/Helechal	moss				f			EMPD2
-EPDcoretop_E1345	EPDcoretop_E1345	Marais de Marchesieux	France	-1.3	49.173333	5				wetland	Marsh. Other info: marsh	cultivated fields	peat		-40	A	f			EMPD2
 EPDcoretop_E1349	EPDcoretop_E1349	Tourbière de Mathon	France	-1.5	49.218889	20				wetland bog	Bog. Other info: peat bog	cultivated fields	peat		-40	A	f			EMPD2
 EPDcoretop_E1355	EPDcoretop_E1355	Montfarville	France	-1.254167	49.645	3				marine	Marine - Coastal. Other info: cultivated field	cultivated fields	sediment		-40	A	f			EMPD2
 EPDcoretop_E1356	EPDcoretop_E1356	Montfarville	France	-1.254167	49.645	3				marine	Marine - Coastal. Other info: cultivated field	cultivated fields	sediment		-40	A	f			EMPD2
@@ -2431,6 +2428,7 @@ EPDcoretop_E237	EPDcoretop_E237	Fougères	France	-0.833333	48.516667	186					Unk
 EPDcoretop_E24	EPDcoretop_E24	Kalsa Mire	Estonia	27.45	58.166667	38			170	wetland bog	Mire. Other info: Mire, peat cutting at the edges	Pinus, Betula, Picea forest. in SW field. LocalVeg: Sphagnum	sphagnum peat	russian corer	0	A	f	Sample method: Russian corer		EMPD2
 EPDcoretop_E240	EPDcoretop_E240	Le Fourneau	France	-0.191667	48.444444	276	B				Unknown				-40	A	f	Elevation incorrect by 30m. EPD site. Location reported in Barbier and Visset 2000 same as database. Coordinates not updated.. Sample method: Unspecified device		EMPD2
 EPDcoretop_E242	EPDcoretop_E242	Fuchsschwanzmoos	Austria	13.9	47.116667	1680			3.5	wetland bog	Raised Bog	Picea forest	peat	piston corer	-34	A	f	Sample method: large Dachnowski		EMPD2
+Lopez_a103	Avila-81	Valle del Tietar	Spain	-5.3523889	40.185417	700				scattered trees/shrubs		Jaral/Helechal	moss				f			EMPD2
 EPDcoretop_E243	EPDcoretop_E243	Giecz	Poland	17.363333	52.319444	100			2	ephemeral lake/pond	Drained Lake. Other info: Dried lake	sedges and herbes	sediment		0	A	f	Sample method: Instorf corer		EMPD2
 EPDcoretop_E25	EPDcoretop_E25	Kamenicky	Czech Republic	15.966667	49.733333	624			0.5	wetland bog	Soligenous (mineraltrophic) Mire. Other info: Drained sloping spring mire	Alder carr. LocalVeg: ruderal secondary vegetation	peat	unspecified	-26	A	f	Sample method: Unspecified device		EMPD2
 EPDcoretop_E26	EPDcoretop_E26	Kansjon	Sweden	14.533333	57.633333	308			80	wetland	Palustrine. Other info: Lake	Pinus, Betula	peat	russian corer	0	A	f	Sample method: Russian corer		EMPD2
@@ -2459,7 +2457,6 @@ EPDcoretop_E33	EPDcoretop_E33	Lago de Ajo	Spain	-6.15	43.05	1570				lake	Glacial
 EPDcoretop_E330	EPDcoretop_E330	Khimaditis III	Greece	21.586111	40.6125	560			500	lake	Origin Unknown, Natural Open Water. Other info: Lake	degraded deciduous	sediment	piston corer	0	A	f	Sample method: Livingstone		EMPD2
 EPDcoretop_E333	EPDcoretop_E333	Kirkkosaari	Finland	24.5	60.866667	84				wetland bog	Bog. Other info: Young mire connecting island to mainland	deciduous forest	peat	russian corer	-30	A	f	Sample method: Russian peat corer		EMPD2
 EPDcoretop_E334	EPDcoretop_E334	Kittilä	Finland	24.683333	65.025	8			1		Unknown. Other info: Ditched wooded mire	pine forest with birch and willow	peat	spade	-30	A	f	Sample method: Spade		EMPD2
-EPDcoretop_E338	EPDcoretop_E338	Lake Kolmilaträsk	Finland	20.15	60.283333	12			4	wetland	Glacial Origin, Natural Open Water		peat	russian corer	-40	A	f	Sample method: Russian corer	Country	EMPD2
 EPDcoretop_E344	EPDcoretop_E344	Krageholmssjön	Sweden	13.733333	55.5	43			220	lake	Glacial Origin, Natural Open Water. Other info: Lake	80% arable land, 20% Fagus forest	sediment	piston corer	-40	A	f	Sample method: Letteval sampler, 60mm piston		EMPD2
 Seppa_b159	168	St Laggarbotjärnen	Sweden	15.67	59.78	134											f			EMPD2
 EPDcoretop_E35	EPDcoretop_E35	Mohos	Romania	25.916667	46.083333	1050			80	wetland	Volcanic Origin Lake Basin. Other info: Sphagnum peat bog	Pinus, Betula and Alnus forest. LocalVeg: sphagnum	sphagnum peat	russian corer	0	A	f	Sample method: Russian sampler		EMPD2
@@ -2467,7 +2464,6 @@ EPDcoretop_E350	EPDcoretop_E350	Kuivajarvi	Finland	23.833333	60.783333	97				lak
 EPDcoretop_E351	EPDcoretop_E351	Kunyok	Russian Federation	33.666667	67.833333	220			3	wetland bog	Bog. Other info: Peat bog	pine forest	peat		0	A	f	Sample method: Unspecified device		EMPD2
 EPDcoretop_E352	EPDcoretop_E352	Kupena	Bulgaria	24.333333	41.983333	1300			8	wetland	Swamp. Other info: Peat bog	Pinus sylvestris forest	peat	russian corer	0	A	f	Sample method: Russian peat corer		EMPD2
 EPDcoretop_E353	EPDcoretop_E353	Kupena	Bulgaria	24.333333	41.983333	1300			8	wetland bog	Unknown. Other info: Peat bog	Pinus sylvestris forest	peat	piston corer	0	A	f	Sample method: Dachnowski coring equipment		EMPD2
-EPDcoretop_E359	EPDcoretop_E359	Lagodekhi	Georgia	46.416111	41.930833	2750			0.15	riverine	Fluvial. Other info: The bottom of the cirque of old glacial	alpine herbaceous	sediment	spade	0	A	f	Sample method: Spade	CountryTemperature,	EMPD2
 EPDcoretop_E36	EPDcoretop_E36	Mohos	Romania	25.916667	46.083333	1050			80	wetland bog	Volcanic Origin Lake Basin. Other info: Sphagnum peat bog	Pinus, Betula and Alnus forest. LocalVeg: Sphagnum	sphagnum peat	russian corer	0	A	f	Sample method: Russian sampler		EMPD2
 EPDcoretop_E363	EPDcoretop_E363	Lalaxkärret	Finland	21.866667	60.15	20			10	wetland bog	Bog. Other info: Forested peat bog	Pinus, Calluna, Empetrum, Vaccinium sp	peat	russian corer	0	A	f	Sample method: Russian peat corer	Country,	EMPD2
 EPDcoretop_E366	EPDcoretop_E366	Laguna de la Roya	Spain	-6.766667	42.216667	1608			2.5	lake	Unknown. Other info: Lake in a Natural Park	vegetation affected by burning,grazing	sediment	piston corer	0	A	f	Sample method: Square-rod piston corer		EMPD2
@@ -2541,7 +2537,6 @@ EPDcoretop_E590	EPDcoretop_E590	Loch Sionascaig	United Kingdom	-5.175	58.060556	
 EPDcoretop_E591	EPDcoretop_E591	Sipola	Finland	24.791667	65.05	7			1	wetland	Unknown. Other info: Small fen	patch of birch within pine forest	peat	spade	0	A	f	Sample method: Spade		EMPD2
 EPDcoretop_E593	EPDcoretop_E593	Saint Sixte	France	5.625	45.425	650			2	wetland	Drained Lake		peat	russian corer	-30	A	f	Sample method: Russian corer		EMPD2
 EPDcoretop_E6	EPDcoretop_E6	Arts Lough	Ireland	-6.433333	52.95	490			3	wetland bog	Blanket Bog. Other info: Eroding blanket peat	Heathland vegetation	peat	unspecified	-35	A	f	Sample method: Unspecified device		EMPD2
-EPDcoretop_E605	EPDcoretop_E605	Sluggan Moss	United Kingdom	-6.3	54.933333	52			600	wetland bog	Raised Bog. Other info: Suffered large scale peat erosion	raised bog	peat		-35	A	f	Sample method: Unspecified device		EMPD2
 EPDcoretop_E606	EPDcoretop_E606	Moselotte	France	7	48.031944	1290			0.01	wetland bog	Mire. Other info: Fen peat	Sphagnum magellanicum-Trichophorum	sphagnum peat	piston corer	-40	A	f	Sample method: Dachnowski sampler		EMPD2
 EPDcoretop_E609	EPDcoretop_E609	Marais de la Perge	France	-1.010278	45.3975	2				wetland	Unknown. Other info: Marsh La Perge	Pinus forest, Alnus quercetum, Caricetum	sediment	piston corer	0	A	f	Sample method: Stationary piston corer		EMPD2
 EPDcoretop_E611	EPDcoretop_E611	Sögüt Gölü	Turkey	29.898333	36.9975	1400			500	ephemeral lake/pond	Drained Lake. Other info: Drained lake	scattered Juniperus (actual)		piston corer	0	A	f	Sample method: Dachnowski		EMPD2
@@ -2553,12 +2548,10 @@ EPDcoretop_E625	EPDcoretop_E625	Steklin	Poland	18.983333	52.933333	73			112.3	la
 EPDcoretop_E686	EPDcoretop_E686	Vishnevskoe Lake	Russian Federation	29.516944	60.502222	15			1020	lake	Natural Open Water. Other info: Small, shallow flat bottomed lake	pine-birch forest	sediment	piston corer	0	A	f	Sample method: vacuum tube		EMPD2
 EPDcoretop_E631	EPDcoretop_E631	Saint Viaud Contin	France	-2.016667	47.265	2	B				Unknown				0	A	f	Elevation correct. Incorrect spelling: changed from Contin to Cantin. Saint Viaud Cantin identified on map near site. EPD site. Site could be nearby lake? No articles found (PhD dissertation). Coordinates not updated.. Sample method: Unspecified device		EMPD2
 EPDcoretop_E635	EPDcoretop_E635	Dry Lake II	Bulgaria	23.533333	42.05	1900			2	wetland bog	Unknown. Other info: Peat bog on the place of former lake	Pinus silvestris, Pinus peuce, Picea, Abies	peat	piston corer	0	A	f	Sample method: Streif sampler		EMPD2
-EPDcoretop_E637	EPDcoretop_E637	Svatoborice-Mistrin	Czech Republic	17.166667	48.833333	175				wetland	Fen. Other info: Peat bog	Quercetea robori-petraeae	peat		-40	A	f	Sample method: Unspecified device	Country	EMPD2
 EPDcoretop_E639	EPDcoretop_E639	Svitjaz	Belarus	25.916667	53.433333	242			224	wetland	Natural Open Water. Other info: Lake	cultivated area with Pinus, Betula	peat	russian corer	0	A	f	Sample method: Russian corer		EMPD2
 EPDcoretop_E64	EPDcoretop_E64	Amtkel 1	Georgia	41.291667	43.283333	1860			0.1	riverine	Fluvial. Other info: Bottom of the trough valley on Amtkel mn	subalpine foot of morainic ridge	sediment	spade	0	A	f	Sample method: Spade		EMPD2
 EPDcoretop_E640	EPDcoretop_E640	Syrjälänsuo	Finland	28.116667	61.216667	83			0.2	wetland bog	Bog. Other info: Restricted peat bog	Pinus, tall dwarf shrubs	peat	russian corer	0	A	f	Sample method: Russian peat corer		EMPD2
 EPDcoretop_E641	EPDcoretop_E641	Szymbark	Poland	21.1	49.633333	465			0.15	wetland bog	Soligenous (mineraltrophic) Mire. Other info: Mesotrophic peat-bog	fir-Beech forests	peat		0	A	f	Sample method: Instorf sampler		EMPD2
-EPDcoretop_E643	EPDcoretop_E643	Tarnawa Wyzna	Poland	22.833333	49.1	670			9	wetland bog	Raised Bog. Other info: Raised bog	meadows, fen, spruce (spruce-fir) stands	peat	hiller corer	0	A	f	Sample method: Hiller sampler	Country	EMPD2
 EPDcoretop_E646	EPDcoretop_E646	Loch Tarff	United Kingdom	-4.595833	57.154167	291				lake	Unknown. Other info: Small lake in moorland	deforested acid moorland	sediment	gravity corer	0	A	f	Sample method: Mackereth (1958)		EMPD2
 EPDcoretop_E647	EPDcoretop_E647	Tarnowiec	Poland	21.616667	49.7	220			12	ephemeral lake/pond	Drained Lake. Other info: Depression with lacustrine chalk and peat	fields and meadows	sediment		0	A	f	Sample method: Unspecified device		EMPD2
 EPDcoretop_E65	EPDcoretop_E65	Amtkel 2	Georgia	41.284167	43.291667	1850			0.1	riverine	Fluvial. Other info: Bottom of old trough	subalpine beech elfin woodland	sediment	spade	0	A	f	Sample method: Spade		EMPD2
@@ -2580,6 +2573,7 @@ EPDcoretop_E673	EPDcoretop_E673	Ust Mashevskoe	Russian Federation	57.883333	56.3
 EPDcoretop_E677	EPDcoretop_E677	Lake Van	Turkey	43	38.5	1645					Unknown				0	A	f	Sample method: Unspecified device		EMPD2
 EPDcoretop_E684	EPDcoretop_E684	Vernerovice	Czech Republic	16.25	50.1	450			1.5	wetland bog	Valley Mire. Other info: Flat valley	cultivated fields, meadow, spruce	peat	box	-24	A	f	Sample method: Monolith (10x10 cm)		EMPD2
 Leroy_d9	Keltepe Rd 800	Lake Sapanca	Turkey	30.14595	40.660217	800				treeless vegetation			moss	hand picking	-55	A	f			EMPD2
+EPDcoretop_E643	EPDcoretop_E643	Tarnawa Wyzna	Poland	22.833333	49.1	670			9	wetland bog	Raised Bog. Other info: Raised bog	meadows, fen, spruce (spruce-fir) stands	peat	hiller corer	0	A	f	Sample method: Hiller sampler	Country	EMPD2
 EPDcoretop_E697	EPDcoretop_E697	Mire Pelisoo	Estonia	22.383333	58.466667	33			700	wetland bog	Raised Bog. Other info: Partly drained raised bog.	Pinus and mixed forest	peat	russian corer	0	A	f	Sample method: Russian peat corer		EMPD2
 EPDcoretop_E698	EPDcoretop_E698	Wiggenhall St. Germans	United Kingdom	0.333333	52.683333	1				wetland	Other. Other info: Dyke side, arable landscape.	arable agriculture	sediment	piston corer	0	A	f	Sample method: Piston corer		EMPD2
 EPDcoretop_E699	EPDcoretop_E699	Willingham Mere	United Kingdom	-0.051389	52.333333	2				wetland	Drained Lake. Other info: Arable agriculture	arable agriculture	peat	russian corer	0	A	f	Sample method: Russian sampler		EMPD2
@@ -2705,7 +2699,6 @@ Ejarque_a16	16	Madriu-Perafita-Claror Valley	Andorra	1.6175	42.483056	2058				pa
 Ejarque_a17	17	Madriu-Perafita-Claror Valley	Andorra	1.6113889	42.484167	2056				pasture		Nitrophilous and ruderal community of a livestock enclosure dominated by Poaceae, Chenopodiaceae, Trifolium pratense, Plantago major and Caryophyllaceae.	litter				f			EMPD2
 Ejarque_a18	18	Madriu-Perafita-Claror Valley	Andorra	1.6063889	42.490278	1977				open forest		Grazed pine forest clearance of c. 40x100 m dominated by Poaceae. Abundance of Plantago lanceolata, Caryophyllaceae, Galium verum and Achyllea millefolium.	litter				f			EMPD2
 Ejarque_a19	19	Madriu-Perafita-Claror Valley	Andorra	1.5936111	42.491111	1879				pasture		Grazed mown meadow located near a mountain shelter dominated by Poaceae. Abundance of Plantago media, Chenopodiaceae, Trifolium sp. Presence of Ranunculaceae and Plantago major.	litter				f			EMPD2
-Ejarque_a2	2	Madriu-Perafita-Claror Valley	Andorra	1.6580556	42.494722	2519				treeless vegetation		Dry alpine meadows of Festuca airoides. Dominance of Festuca airoides , presence of Trifolium sp, Campanulaceae, Asteroideae and Polygonum sp	moss				f		Country	EMPD2
 Ejarque_a20	20	Madriu-Perafita-Claror Valley	Andorra	1.5944444	42.492222	1884				pasture		Nitrophilous and ruderal community close to a mountain shelter dominated by Chenopodium bonus-henricus and Urtica dioica. Presence of Poaceae and primulaceae.	moss				f			EMPD2
 Ejarque_a21	21	Madriu-Perafita-Claror Valley	Andorra	1.5891667	42.495	1872				open forest		Subalpine woodland undergrowth dominated by Arctostaphylos uva-ursi. Abundance of Pinus sylvestris and presence of Betula pendula, Poaceae and Epilobium.	moss				f			EMPD2
 Ejarque_a22	22	Madriu-Perafita-Claror Valley	Andorra	1.5866667	42.495278	1817				closed forest		Dense Pinus silvestrys forest without grazing pressure. Abundance of Vaccinium myrtillus and Poaceae and presence of Calluna vulgaris.	moss				f			EMPD2
@@ -2714,12 +2707,10 @@ Ejarque_a24	24	Madriu-Perafita-Claror Valley	Andorra	1.5786111	42.496944	1674			
 Ejarque_a25	25	Madriu-Perafita-Claror Valley	Andorra	1.575	42.496944	1630				scattered trees/shrubs		Abandoned and highly grazed cropping terraces close to a Pinus sylvestris and a deciduous mountain forest. Dominance of Poaceae, Asteroideae, Galium verum and Achyllea millefolium.	litter				f			EMPD2
 Ejarque_a26	26	Madriu-Perafita-Claror Valley	Andorra	1.5691667	42.497778	1578				closed forest		Track in pine woodland and Corylus avellana formations. Abundance of Corylus avellana, Buxus sempervirens and Poaceae.	moss				f			EMPD2
 Ejarque_a27	27	Madriu-Perafita-Claror Valley	Andorra	1.5522222	42.503611	1242				closed forest		Abandoned cropping terraces colonised by a mountain deciduous forest. Dominance of Pinus sylvestris and abundance of  Poaceae, Quercus petraea, Corylus avellana and Buxus sempervirens	moss				f			EMPD2
-Ejarque_a3	3	Madriu-Perafita-Claror Valley	Andorra	1.6541667	42.494444	2479				pasture		Track in alpine grazed meadows. Dominance of Nardus stricta, abundance of Plantago alpina and presence of Sedum sp, Asteroideae and Trifolium sp.	litter				f		Country	EMPD2
 Ejarque_a4	4	Madriu-Perafita-Claror Valley	Andorra	1.6491667	42.490556	2435				treeless vegetation		Alpine wet meadows of Nardus stricta. Dominance of Nardus stricta, presence of Lamium sp, Calluna vulgaris, Trifolium sp, Asteroideae, Plantago sp.	litter				f			EMPD2
 Ejarque_a5	5	Madriu-Perafita-Claror Valley	Andorra	1.6475	42.49	2428				pasture		Livestock resting place near a lake and a shepherd shed. Dominance of Nardus stricta, abundance of Trifolium repens and Lotus sp. and presence of Asteroideae.	litter				f			EMPD2
 Ejarque_a6	6	Madriu-Perafita-Claror Valley	Andorra	1.6475	42.488333	2400				scattered trees/shrubs		Pine tree limit in south facing slope colonised by Juniperus communis ssp alpina. Abundance of Poaceae, Juniperus communis ssp alpina, and presence of Pinus uncinata ssp mugo and Trifolium repens.	litter				f			EMPD2
 Ejarque_a7	7	Madriu-Perafita-Claror Valley	Andorra	1.6466667	42.486389	2348				open forest		Open subalpine woodland with Juniperus communis ssp alpina undergrowth. Dominance of Pinus uncinata ssp mugo,  Juniperus communis ssp alpina and Poaceae. Presence of Rhododendron ferrugineum, Vaccinium myrtillus and Calluna vulgaris.	moss				f			EMPD2
-Ejarque_a8	8	Madriu-Perafita-Claror Valley	Andorra	1.6522222	42.483333	2360				scattered trees/shrubs		Pine tree limit in north facing slope colonised by Rhododendron ferrugineum, which dominates de plant assemblage. Also abundance of Juniperus communis ssp alpina, Vaccinium myrtillus and Poaceae.	moss				f		Country	EMPD2
 Ejarque_a9	9	Madriu-Perafita-Claror Valley	Andorra	1.6063889	42.475556	2311				closed forest		Dense subalpine woodland of Pinus uncinata ssp mugo, which dominates de plant assemblage.  Abundance of Rhododendron ferrugineum, Vaccinium myrtillus and Poaceae.	moss				f			EMPD2
 Fall_a1	21	Central Jordan Rift	Jordan	35.49882	30.40749	1700				closed forest		Remnant oak woodland located just below the top of Jebel esh-Shara (1736 m).  Quercus calliprinos woodland with a few Pistacia palestina trees form the overstory with a sparse understory including Astragalus sp., other Papilionaceae, and grasses.  Artemisia herba-alba shrubs grow in disturbed areas.	soil	hand picking - multiple samples		A	f			EMPD2
 Fall_a10	12	Central Jordan Rift	Jordan	35.41481	30.43815	800				treeless vegetation		Hammada salicornia, Fagonia mollis, grasses, Peganum hamala, and Chenopodiaceae with a few Ephedra on rocky cliffs and Centaurea in disturbed areas.	soil	hand picking - multiple samples		A	f			EMPD2
@@ -2734,6 +2725,7 @@ Fall_a18	4	Central Jordan Rift	Jordan	35.32521	30.5647	0				treeless vegetation	
 Fall_a19	3	Central Jordan Rift	Jordan	35.38494	30.75096	-100				treeless vegetation		Sparse vegetation with Plantago sp., grasses, Haloxylon persicum, Hammada salicornia, Centaurea and Neurada procumbens.	soil	hand picking - multiple samples		A	f			EMPD2
 Fall_a2	20	Central Jordan Rift	Jordan	35.48847	30.40096	1600				closed forest		Located near the edge of remnant oak stand.  Quercus calliprinos woodland with a single Pistacia palestina tree.  Understory includes Artemisia herba-alba and a few grasses, Peganum harmala grows in disturbed places with Verbascum sp., and Ononis sp.	soil	hand picking - multiple samples		A	f			EMPD2
 Fall_a20	2	Central Jordan Rift	Jordan	35.42741	30.87001	-200				treeless vegetation		Sparse vegetation. Plantago sp., grasses, Hammada salicornia and a few Haloxylon persicum.  Acacia sp. grows along drainages.  Calotropis procera trees.	soil	hand picking - multiple samples		A	f			EMPD2
+Ejarque_a8	8	Madriu-Perafita-Claror Valley	Andorra	1.6522222	42.483333	2360				scattered trees/shrubs		Pine tree limit in north facing slope colonised by Rhododendron ferrugineum, which dominates de plant assemblage. Also abundance of Juniperus communis ssp alpina, Vaccinium myrtillus and Poaceae.	moss				f		Country	EMPD2
 Fall_a21	1	Central Jordan Rift	Jordan	35.41629	30.89953	-300				treeless vegetation		Samples were collected below the Pleistocene shoreline.  Vegetation is much more abundant than in sample # 2.  Tamarix sp., Halyoxylon persicum., Acacia sp.,  Calotropis procera, and grasses are found with Phragmities sp. along wadis.	soil	hand picking - multiple samples		A	f			EMPD2
 Fall_a3	19	Central Jordan Rift	Jordan	35.48821	30.39092	1500				treeless vegetation		Shrub steppe domiated by Artemisia herba-alba with grasses, Echinops, and Centaurea. A few scattered Q. calliprinos are found in vicinity.	soil	hand picking - multiple samples		A	f			EMPD2
 Fall_a4	18	Central Jordan Rift	Jordan	35.48624	30.3793	1400				treeless vegetation		Degraded Artemisia herba-alba shurb steppe with grasses and cultivated Triticum in nearby fields with Echinops and Centaurea.  A single Crataegus tree grows at edge of field.	soil	hand picking - multiple samples		A	f			EMPD2
@@ -3303,7 +3295,6 @@ Leroy_d34	KA.2	Lake Sapanca	Turkey	30.174194	40.714833	15.2				lake			sediment	g
 Leroy_d35	KB.2	Lake Sapanca	Turkey	30.165556	40.715472	11				lake			sediment	gravity corer	-55	A	f			EMPD2
 Leroy_d36	KC.2	Lake Sapanca	Turkey	30.161472	40.715194	4.5				lake			sediment	gravity corer	-55	A	f			EMPD2
 Seppa_b160	169	Botjärnen	Sweden	15.22	59.9	292											f			EMPD2
-Lopez_a103	Avila-81	Valle del Tietar	Spain	-5.3523889	40.185417	700				scattered trees/shrubs		Jaral/Helechal	moss				f			EMPD2
 Lopez_a104	Avila-82	Valle del Alberche	Spain	-4.5100833	40.357861	1100				closed forest		Castanar	moss				f			EMPD2
 Lopez_a105	Avila-83	Valle del Alberche	Spain	-4.5021389	40.359083	1300				closed forest		Castanar	moss				f			EMPD2
 Lopez_a106	Avila-84	Valle del Alberche	Spain	-4.5100833	40.351528	1250				closed forest		Castanar	moss				f			EMPD2
@@ -3884,6 +3875,7 @@ Mazier_b15	Phy15	Western Pyrenees	France	-1.0972112	43.047756	1137		Elevation es
 Mazier_b16	Phy16	Western Pyrenees	France	-1.0982997	43.047099	1161		Elevation estimated from Google Earth from the coordinates.					moss	hand picking - multiple samples	-52	A	f			EMPD2
 Mazier_b17	Phy17	Western Pyrenees	France	-1.0993934	43.046667	1161		Elevation estimated from Google Earth from the coordinates.					moss	hand picking - multiple samples	-52	A	f			EMPD2
 Seppa_b164	173	Mörktjärnen	Sweden	14.167	59.4	145											f			EMPD2
+Odgaard_a1	Gribso	Gribso	Denmark	12.304403	55.986778	50			10	lake		Mixed forest	sediment	gravity corer	-46	A	f			EMPD2
 Mazier_b18	Phy18	Western Pyrenees	France	-1.1003207	43.046457	1199		Elevation estimated from Google Earth from the coordinates.					moss	hand picking - multiple samples	-52	A	f			EMPD2
 Mazier_b19	Phy19	Western Pyrenees	France	-1.1006308	43.046354	1199		Elevation estimated from Google Earth from the coordinates.					moss	hand picking - multiple samples	-52	A	f			EMPD2
 Mazier_b2	Phy02	Western Pyrenees	France	-1.0974275	43.050686	1152		Elevation estimated from Google Earth from the coordinates.					moss	hand picking - multiple samples	-52	A	f			EMPD2
@@ -4156,7 +4148,6 @@ Novenko_b5	5	Lobynskoe	Russian Federation	37.712028	54.076806	217	A	Responsible 
 Novenko_b6	6	Ozerny (1)	Russian Federation	37.628333	54.044167	242	A	Responsible author has checked locations and has not reported any correction. (MZ)		closed forest		broad-leaved forest	soil	hand picking - multiple samples	-55	A	f			EMPD2
 Novenko_b7	7	Ozerny (2)	Russian Federation	37.618889	54.043889	246	A	Responsible author has checked locations and has not reported any correction. (MZ)		closed forest		broad-leaved forest	soil	hand picking - multiple samples	-55	A	f			EMPD2
 Novenko_b8	8	Zhukovskoe	Russian Federation	84.833333	56.333333	168	A	Responsible author has checked locations and has not reported any correction. (MZ)		wetland		south taiga	peat	corer unspecified	-55	A	f			EMPD2
-Odgaard_a1	Gribso	Gribso	Denmark	12.304403	55.986778	50			10	lake		Mixed forest	sediment	gravity corer	-46	A	f			EMPD2
 Odgaard_a10	Molleso	Molleso	Denmark	11.980969	54.847431	50			10	lake		cereal crops	sediment	gravity corer	-46	A	f			EMPD2
 Odgaard_a11	Magleso	Magleso	Denmark	11.693116	55.634461	50			15	lake		Mixed forest, pasture	sediment	gravity corer	-46	A	f			EMPD2
 Odgaard_a12	Praesteso	Praesteso	Denmark	10.348292	57.623996	50			7	lake		Heathland, coniferous forest	sediment	gravity corer	-46	A	f			EMPD2
@@ -4189,6 +4180,7 @@ Ortu_a9	PMpl	Pian Marchisio	Italy	7.7291667	44.2	1624	A	Responsible author has c
 Ortu_b39	ALPI039	Val Varaita	Italy	7.075	44.616	2023	A	Responsible author has checked location and reports that it looks correct. (MZ)					moss				f			EMPD2
 Ortu_b4	ALPI004	Aosta Valley	Italy	7.21	45.569	1794	A	Responsible author has checked location and reports that it looks correct. (MZ)		open forest			moss	hand picking	-50	A	f			EMPD2
 Ortu_b40	ALPI040	Val Varaita	Italy	7.069	44.615	1978	A	Responsible author has checked location and reports that it looks correct. (MZ)					moss				f			EMPD2
+Seppa_b173	182	Siggeforasjön	Sweden	17.13	59.98	92											f			EMPD2
 Ortu_b1	ALPI001	Aosta Valley	Italy	7.209	45.56	1728	A	Responsible author has checked location and reports that it looks correct. (MZ)		open forest		Relict broad-leaved formations occurred in the lowland (below1500 m), with conifers over 1300 m; spruce (Picea abies (L.) Karsten)-dominated formations with larch (Larix deciduas Miller) developed at 1500-1800 m. Larch-dominated woods (1800 and 2150 m), with shrubs such as Rhododendron ferrugineum L., Vaccinium myrtillus L., Juniperus communis L., and herbs forming the understory above 2000 m. The larches gave place over 2300m to shrub-dominated communities with Salix hastata L. and typical alpine pasture taxa like Trifolium alpinum L., Carex curvula All., Nardus stricta L. and Leontodon pyrenaicus Gouan ssp. helveticus Finch. The upper limit for isolated trees was around 2415 m, and above this alpine pastures became dominant. Above 2500m plant communities were dominated by Poaceae and Cyperaceae and characterised by typical alpine herbaceous taxa (Silene acaulis (L.) Jacq., Trifolium alpinum, Myosotis alpestris gr., Alchemilla vulgaris gr., Gentiana verna L., Leucanthemopsis alpina (L.) Heywood, Viola tricolor L., Sagina sp., Saxifraga sp., Rumex alpinus L., Trifolium pratense L. ssp. Frigidum Gaudin, Artemisia glacialis L.).	moss	hand picking	-50	A	f			EMPD2
 Ortu_b10	ALPI010	Aosta Valley	Italy	7.214	45.546	1980	A	Responsible author has checked location and reports that it looks correct. (MZ)		open forest			moss	hand picking	-50	A	f			EMPD2
 Ortu_b11	ALPI011	Aosta Valley	Italy	7.216	45.546	2080	A	Responsible author has checked location and reports that it looks correct. (MZ)		open forest			moss	hand picking	-50	A	f			EMPD2
@@ -4222,7 +4214,6 @@ Ortu_b36	ALPI036	Val Varaita	Italy	7.066	44.614	1871	A	Responsible author has ch
 Ortu_b37	ALPI037	Val Varaita	Italy	7.069	44.615	1978	A	Responsible author has checked location and reports that it looks correct. (MZ)					moss				f			EMPD2
 Ortu_b38	ALPI038	Val Varaita	Italy	7.075	44.616	2023	A	Responsible author has checked location and reports that it looks correct. (MZ)					moss				f			EMPD2
 Ortu_b41	ALPI041	Val Varaita	Italy	6.978	44.689	2738	A	Responsible author has checked location and reports that it looks correct. (MZ)					moss				f			EMPD2
-Ortu_b42	ALPI042	Val Varaita	Italy	6.976	44.69	2651	A	Responsible author has checked location and reports that it looks correct. (MZ)					moss				f		Country	EMPD2
 Ortu_b43	ALPI043	Val Varaita	Italy	6.975	44.689	2684	A	Responsible author has checked location and reports that it looks correct. (MZ)					moss				f			EMPD2
 Ortu_b44	ALPI044	Val Varaita	Italy	6.976	44.689	2697	A	Responsible author has checked location and reports that it looks correct. (MZ)					moss				f			EMPD2
 Ortu_b45	ALPI045	Val Varaita	Italy	6.978	44.688	2633	A	Responsible author has checked location and reports that it looks correct. (MZ)					moss				f			EMPD2
@@ -4255,13 +4246,13 @@ Ortu_b69	ALPI069	Vinadio Valley	Italy	7.109	44.243	1800	A	Responsible author has
 Ortu_b7	ALPI007	Aosta Valley	Italy	7.197	45.623	1391	A	Responsible author has checked location and reports that it looks correct. (MZ)		open forest			moss	hand picking	-50	A	f			EMPD2
 Ortu_b70	ALPI070	Vinadio Valley	Italy	7.113	44.231	1915	A	Responsible author has checked location and reports that it looks correct. (MZ)					moss				f			EMPD2
 Ortu_b71	ALPI071	Vinadio Valley	Italy	7.116	44.242	2003	A	Responsible author has checked location and reports that it looks correct. (MZ)					moss				f			EMPD2
-Ortu_b72	ALPI072	Vinadio Valley	Italy	7.131	44.024	2192	A	Responsible author has checked location and reports that it looks correct. (MZ)					moss				f		Country	EMPD2
 Ortu_b73	ALPI073	Vinadio Valley	Italy	7.126	44.226	2130	A	Responsible author has checked location and reports that it looks correct. (MZ)					moss				f			EMPD2
 Ortu_b74	ALPI074	Vinadio Valley	Italy	7.145	44.211	2310	A	Responsible author has checked location and reports that it looks correct. (MZ)					moss				f			EMPD2
-Ortu_b75	ALPI075	Vinadio Valley	Italy	7.148	44.205	2360	A	Responsible author has checked location and reports that it looks correct. (MZ)					moss				f		Country	EMPD2
 Ortu_b76	ALPI076	Bauges Massif	France	6.088	45.621	1024	A	Responsible author has checked location and reports that it looks correct. (MZ)					moss				f			EMPD2
 Ortu_b77	ALPI077	Bauges Massif	France	6.089	45.621	1049	A	Responsible author has checked location and reports that it looks correct. (MZ)					moss				f			EMPD2
 Seppa_b169	178	Mörtsjön	Sweden	17.08	59.87	87											f			EMPD2
+Ortu_b72	ALPI072	Vinadio Valley	Italy	7.131	44.024	2192	A	Responsible author has checked location and reports that it looks correct. (MZ)					moss				f		Country	EMPD2
+Ortu_b75	ALPI075	Vinadio Valley	Italy	7.148	44.205	2360	A	Responsible author has checked location and reports that it looks correct. (MZ)					moss				f		Country	EMPD2
 Ortu_b78	ALPI078	Bauges Massif	France	6.089	45.621	1049	A	Responsible author has checked location and reports that it looks correct. (MZ)					moss				f			EMPD2
 Ortu_b79	ALPI079	Bauges Massif	France	6.091	45.619	1136	A	Responsible author has checked location and reports that it looks correct. (MZ)					moss				f			EMPD2
 Ortu_b8	ALPI008	Aosta Valley	Italy	7.197	45.623	1392	A	Responsible author has checked location and reports that it looks correct. (MZ)		open forest			moss	hand picking	-50	A	f			EMPD2
@@ -4584,7 +4575,6 @@ Seppa_b151	160	Pukasjön	Sweden	14.38	57.85	299											f			EMPD2
 Seppa_b152	161	Lissel-Ecklingen	Sweden	16.5	61.78	111											f			EMPD2
 Seppa_b153	162	Lerbäckstjärnen	Sweden	16.502783	62.589294	257											f			EMPD2
 Seppa_b154	163	Gäddtjärn	Sweden	16.3	62.4	270											f			EMPD2
-Seppa_b173	182	Siggeforasjön	Sweden	17.13	59.98	92											f			EMPD2
 Seppa_b18	21	Iso Ivalampi	Finland	29.17	66.32	253											f			EMPD2
 Seppa_b19	22	Kiviperänlampi	Finland	29.82	66.07	263											f			EMPD2
 Seppa_b2	2	Allijärvi	Finland	24.75	68.28	373											f			EMPD2
@@ -4692,7 +4682,6 @@ Seppa_p1	L14	Lith-14	Lithuania	24.28	54.38	178											f			EMPD2
 Seppa_q1	L15	Lith-15	Lithuania	24.2	54.28	130											f			EMPD2
 Seppa_r1	L16	Lith-16	Lithuania	23.63	54.12	140											f			EMPD2
 Seppa_s1	L17	Lith-17	Lithuania	24.43	54.35	131											f			EMPD2
-Seppa_t1	L18	Lith-18	Lithuania	23.35	54.03	134											f		Country	EMPD2
 Seppa_u1	L19	Lith-19	Lithuania	23.78	54.07	118											f			EMPD2
 Seppa_v1	1	Lake 1	Russian Federation	33.1	58.05	180											f			EMPD2
 Seppa_v10	10	Lake 10	Russian Federation	29.08	56.45	148											f			EMPD2
@@ -4723,6 +4712,7 @@ Severova_a2	cutover area (spruce forest)	natural reserve area near Moscow	Russia
 Severova_a3	birch forest, small openning	natural reserve area near Moscow	Russian Federation	36.75	55.683333	190	D	Ask author for more precise information; Elevation estimated from Google Earth from the coordinates		open forest	birch forest, small openning	secondary spruce, pine-spruce and spruce-birch forests more than 100 years old in densely populated area	moss	hand picking	-60	A	f			EMPD2
 Severova_a4	spruce forest, small openning	natural reserve area near Moscow	Russian Federation	36.75	55.683333	190	D	Ask author for more precise information; Elevation estimated from Google Earth from the coordinates		open forest	spruce forest, small openning	secondary spruce, pine-spruce and spruce-birch forests more than 100 years old in densely populated area	moss	hand picking	-60	A	f			EMPD2
 Swieta_g2	WO-D	Wielkie Oczko Lake	Poland	17.983333	54.05	157		Elevation estimated from Google Earth from the coordinates.	4.5	lake		Pine forest (Leucobryo-Pinetum)	sediment	hand picking			f	WO-D		EMPD2
+Seppa_t1	L18	Lith-18	Lithuania	23.35	54.03	134											f		Country	EMPD2
 Severova_a5	oligotrophic bog 500 m diameter	natural reserve area near Moscow	Russian Federation	36.75	55.683333	190	D	Ask author for more precise information; Elevation estimated from Google Earth from the coordinates		wetland bog	oligotrophic bog 500 m diameter	secondary spruce, pine-spruce and spruce-birch forests more than 100 years old in densely populated area	moss	hand picking	-60	A	f			EMPD2
 Severova_b1	Starosel e 0-4 cm	natural reserve area near Moscow	Russian Federation	36.75	55.683333	190	D	Ask author for more precise information; Elevation estimated from Google Earth from the coordinates									f			EMPD2
 Shaw_a1	NHP	Glen Affric, Scotland, UK	United Kingdom	-5.0279306	57.253508	285	A	Responsible author has checked locations and assures these are correct. Data obtained via hand held GPS.Datum is WGS84 (MZ)		open forest		Immendiately surrounded by Pinus sylvestris and poaceae dominated ground flora. Wider environment Pinus and betula and heath/ blanket bog.	moss	corer unspecified	-50	A	f			EMPD2
@@ -4825,3 +4815,13 @@ Tonkov_n1	14	Lake Ribno Banderishko, Pirin Mts.	Bulgaria	23.415253	41.738375	219
 Tonkov_o1	15	Lake Muratovo, Pirin Mts.	Bulgaria	23.406181	41.7456	2230	A	Responsible author has checked locations and assures these are correct. (MZ)		treeless vegetation		Groups of Pinus mugo within patches of herb vegetation	sediment	piston corer	-44	A	f			EMPD2
 Tonkov_p1	16	Belasitza Mts.	Bulgaria	23.004217	41.335783	1640	A	Responsible author has checked locations and assures these are correct. (MZ)		treeless vegetation		Open herb vegetation above the Fagus tree-line, single trees of Pinus sylvestris	moss	hand picking	-50	A	f			EMPD2
 Tonkov_q1	17	Belasitza Mts.	Bulgaria	22.970439	41.338019	1600	A	Responsible author has checked locations and assures these are correct. (MZ)		treeless vegetation		Open herb vegetation above the Fagus tree-line, isolated trees of Pinus sylvestris	moss	hand picking	-50	A	f			EMPD2
+Bjune_a39	39	Unnamed	Norway	13.944563	64.498619	390				lake			sediment	gravity corer		B	f	Sylvia is retired (since 2005)	Country	EMPD2
+Connor_c1	CL-0	Cirque Lake, Kargapazari Mts.	Turkey	41.7	40.1	2200			1	wetland		Sedge-dominated wetland surrounded by mountain pastures; some trees in sheltered places	sediment	russian corer	-48	A	f	Southern slope of the Karagapazari Mountains; exact location unknown		EMPD2
+EPDcoretop_E1299	EPDcoretop_E1299	Gradenmoos	Austria	12.808333	47.965278	1920			2.5	wetland bog	Bog. Other info: bog	Pinus/larch. LocalVeg: Carex	peat	piston corer	-40	A	f	Sample method: Dachnowski-Sonde	Country	EMPD2
+EPDcoretop_E338	EPDcoretop_E338	Lake Kolmilaträsk	Finland	20.15	60.283333	12			4	wetland	Glacial Origin, Natural Open Water		peat	russian corer	-40	A	f	Sample method: Russian corer	Country	EMPD2
+EPDcoretop_E359	EPDcoretop_E359	Lagodekhi	Georgia	46.416111	41.930833	2750			0.15	riverine	Fluvial. Other info: The bottom of the cirque of old glacial	alpine herbaceous	sediment	spade	0	A	f	Sample method: Spade	CountryTemperature,	EMPD2
+EPDcoretop_E605	EPDcoretop_E605	Sluggan Moss	United Kingdom	-6.3	54.933333	52			600	wetland bog	Raised Bog. Other info: Suffered large scale peat erosion	raised bog	peat		-35	A	f	Sample method: Unspecified device		EMPD2
+EPDcoretop_E637	EPDcoretop_E637	Svatoborice-Mistrin	Czech Republic	17.166667	48.833333	175				wetland	Fen. Other info: Peat bog	Quercetea robori-petraeae	peat		-40	A	f	Sample method: Unspecified device	Country	EMPD2
+Ejarque_a2	2	Madriu-Perafita-Claror Valley	Andorra	1.6580556	42.494722	2519				treeless vegetation		Dry alpine meadows of Festuca airoides. Dominance of Festuca airoides , presence of Trifolium sp, Campanulaceae, Asteroideae and Polygonum sp	moss				f		Country	EMPD2
+Ejarque_a3	3	Madriu-Perafita-Claror Valley	Andorra	1.6541667	42.494444	2479				pasture		Track in alpine grazed meadows. Dominance of Nardus stricta, abundance of Plantago alpina and presence of Sedum sp, Asteroideae and Trifolium sp.	litter				f		Country	EMPD2
+Ortu_b42	ALPI042	Val Varaita	Italy	6.976	44.69	2651	A	Responsible author has checked location and reports that it looks correct. (MZ)					moss				f		Country	EMPD2
