@@ -1,23 +1,23 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	EPDcoretop_E2533	4	2	4	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-1	EPDcoretop_E2533	5	2	5	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-2	EPDcoretop_E2533	80	2	80	Helianthemum	Helianthemum	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-3	EPDcoretop_E2533	19	9	19	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-4	EPDcoretop_E2533	156	1	156	Ranunculaceae	Ranunculaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-5	EPDcoretop_E2533	118	1	118	Rosaceae	Rosaceae	TRSH	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
-6	EPDcoretop_E2533	25	1	25	Salix	Salix	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-7	EPDcoretop_E2533	137	1	137	Thalictrum	Thalictrum	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-8	EPDcoretop_E2533	29	1	29	Tilia	Tilia	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-9	EPDcoretop_E2533	1817	1	44	Carduus	Carduus	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-10	EPDcoretop_E2533	4098	27	894	Sample volume (ml)	Sample volume (ml)	NOPO	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-11	EPDcoretop_E2533	3415	795	3415	Counted exote	Counted exote	NOPO	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-12	EPDcoretop_E2533	4728	12524	1303	Lycopodium (spores/tablet)	Lycopodium (spores/tablet)	NOPO	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-13	EPDcoretop_E2533	3717	2	1305	Lycopodium tablets (number)	Lycopodium tablets (number)	NOPO	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-14	EPDcoretop_E2533	4729	10	2391	Spheroidal carbonaceous particle	Spheroidal carbonaceous particle	NOPO	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-15	EPDcoretop_E2533	4783	143	4783	Charcoal <40µm	Charcoal <40µm	CHAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-16	EPDcoretop_E2533	4784	8	4784	Charcoal >40µm	Charcoal >40µm	CHAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-17	EPDcoretop_E2533	832	1	475	Centaurea cyanus	Centaurea cyanus-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-18	EPDcoretop_E2533	1611	2	106	Gramineae	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-19	EPDcoretop_E2533	85	1	85	Juniperus	Juniperus communis-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-20	EPDcoretop_E2533	31	1	31	Ulmus	Ulmus/Zelkova	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-21	EPDcoretop_E2533	50	1	50	Cerealia	Cerealia-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+EPDcoretop_E2533	Alnus	Alnus	TRSH	2	7.4074074	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+EPDcoretop_E2533	Betula	Betula	TRSH	2	7.4074074	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+EPDcoretop_E2533	Juniperus	Juniperus communis-type	TRSH	1	3.7037037	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E2533	Pinus	Pinus	TRSH	9	33.333333	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+EPDcoretop_E2533	Rosaceae	Rosaceae	TRSH	1	3.7037037	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
+EPDcoretop_E2533	Salix	Salix	TRSH	1	3.7037037	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+EPDcoretop_E2533	Tilia	Tilia	TRSH	1	3.7037037	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+EPDcoretop_E2533	Ulmus	Ulmus/Zelkova	TRSH	1	3.7037037	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+EPDcoretop_E2533	Carduus	Carduus	HERB	1	3.7037037	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E2533	Centaurea cyanus	Centaurea cyanus-type	HERB	1	3.7037037	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E2533	Cerealia	Cerealia-type	HERB	1	3.7037037	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E2533	Helianthemum	Helianthemum	HERB	2	7.4074074	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E2533	Gramineae	Poaceae	HERB	2	7.4074074	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+EPDcoretop_E2533	Ranunculaceae	Ranunculaceae	HERB	1	3.7037037	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+EPDcoretop_E2533	Thalictrum	Thalictrum	HERB	1	3.7037037	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+EPDcoretop_E2533	Charcoal <40µm	Charcoal <40µm	CHAR	143		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E2533	Charcoal >40µm	Charcoal >40µm	CHAR	8		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E2533	Counted exote	Counted exote	NOPO	795		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E2533	Lycopodium (spores/tablet)	Lycopodium (spores/tablet)	NOPO	12524		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E2533	Lycopodium tablets (number)	Lycopodium tablets (number)	NOPO	2		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E2533	Sample volume (ml)	Sample volume (ml)	NOPO	27		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E2533	Spheroidal carbonaceous particle	Spheroidal carbonaceous particle	NOPO	10		GroupID taken from POLNET. Only one taxon matched that acc_varname.

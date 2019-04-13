@@ -1,23 +1,23 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	EPDcoretop_E2142	4	7	4	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-1	EPDcoretop_E2142	9	4	9	Corylus	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-2	EPDcoretop_E2142	61	24	61	Cyperaceae	Cyperaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-3	EPDcoretop_E2142	638	1	638	Nymphaea	Nymphaea	AQUA	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-4	EPDcoretop_E2142	19	28	19	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-5	EPDcoretop_E2142	735	2	286	Plantago	Plantago	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-6	EPDcoretop_E2142	208	11	208	Quercus	Quercus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-7	EPDcoretop_E2142	156	2	156	Ranunculaceae	Ranunculaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-8	EPDcoretop_E2142	119	7	119	Rubiaceae	Rubiaceae	HERB	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
-9	EPDcoretop_E2142	1466	1	1466	Alisma	Alisma-type	HELO	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-10	EPDcoretop_E2142	454	1	47	Castanea	Castanea sativa	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-11	EPDcoretop_E2142	52	1	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-12	EPDcoretop_E2142	4339	44	53	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-13	EPDcoretop_E2142	1611	220	106	Gramineae	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-14	EPDcoretop_E2142	85	1	85	Juniperus	Juniperus communis-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-15	EPDcoretop_E2142	1612	1	69	Leguminosae	Fabaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-16	EPDcoretop_E2142	115	1	115	Rhamnus	Rhamnus-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-17	EPDcoretop_E2142	601	5	36	Umbelliferae	Apiaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-18	EPDcoretop_E2142	446	1	200	Pteridium	Pteridium aquilinum	VACR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-19	EPDcoretop_E2142	1538	1	745	Typha	Typha/Sparganium	AQUA	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-20	EPDcoretop_E2142	1565	1	478	Osmunda	Osmunda regalis	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-21	EPDcoretop_E2142	1554	1	167	Filicales	Monolete fern spores	VACR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+EPDcoretop_E2142	Alnus	Alnus	TRSH	7	1.9337017	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+EPDcoretop_E2142	Castanea	Castanea sativa	TRSH	1	0.27624309	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E2142	Corylus	Corylus	TRSH	4	1.1049724	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+EPDcoretop_E2142	Juniperus	Juniperus communis-type	TRSH	1	0.27624309	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E2142	Pinus	Pinus	TRSH	28	7.7348066	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+EPDcoretop_E2142	Quercus	Quercus	TRSH	11	3.038674	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+EPDcoretop_E2142	Rhamnus	Rhamnus-type	TRSH	1	0.27624309	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E2142	Umbelliferae	Apiaceae	HERB	5	1.3812155	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+EPDcoretop_E2142	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB	44	12.154696	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+EPDcoretop_E2142	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.27624309	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E2142	Cyperaceae	Cyperaceae	HERB	24	6.6298343	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+EPDcoretop_E2142	Leguminosae	Fabaceae	HERB	1	0.27624309	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+EPDcoretop_E2142	Plantago	Plantago	HERB	2	0.55248619	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+EPDcoretop_E2142	Gramineae	Poaceae	HERB	220	60.773481	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+EPDcoretop_E2142	Ranunculaceae	Ranunculaceae	HERB	2	0.55248619	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+EPDcoretop_E2142	Rubiaceae	Rubiaceae	HERB	7	1.9337017	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
+EPDcoretop_E2142	Alisma	Alisma-type	HELO	1	0.27624309	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E2142	Nymphaea	Nymphaea	AQUA	1	0.27624309	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+EPDcoretop_E2142	Typha	Typha/Sparganium	AQUA	1	0.27624309	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+EPDcoretop_E2142	Filicales	Monolete fern spores	VACR	1	0.27624309	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E2142	Osmunda	Osmunda regalis	VACR	1	0.27624309	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+EPDcoretop_E2142	Pteridium	Pteridium aquilinum	VACR	1	0.27624309	GroupID taken from POLNET. Only one taxon matched that acc_varname.

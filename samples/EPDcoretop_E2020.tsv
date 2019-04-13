@@ -1,21 +1,21 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	EPDcoretop_E2020	4	4	4	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-1	EPDcoretop_E2020	587	1	356	Cedrus	Cedrus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-2	EPDcoretop_E2020	1075	1	50	Cerealia-type	Cerealia-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-3	EPDcoretop_E2020	61	2	61	Cyperaceae	Cyperaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-4	EPDcoretop_E2020	13	1	13	Fraxinus	Fraxinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-5	EPDcoretop_E2020	88	1	88	Ligustrum	Ligustrum	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-6	EPDcoretop_E2020	19	131	19	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-7	EPDcoretop_E2020	208	16	208	Quercus	Quercus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-8	EPDcoretop_E2020	156	2	156	Ranunculaceae	Ranunculaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-9	EPDcoretop_E2020	118	1	118	Rosaceae	Rosaceae	TRSH	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
-10	EPDcoretop_E2020	25	4	25	Salix	Salix	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-11	EPDcoretop_E2020	1296	2	1296	Typha angustifolia	Typha angustifolia	HELO	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-12	EPDcoretop_E2020	106	15	106	Poaceae	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-13	EPDcoretop_E2020	42	1	42	Brassicaceae	Brassicaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-14	EPDcoretop_E2020	454	1	47	Castanea	Castanea sativa	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-15	EPDcoretop_E2020	52	2	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-16	EPDcoretop_E2020	11	1	11	Ericaceae	Ericales (tetrad)	DWAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-17	EPDcoretop_E2020	4321	3	167	Monolete spore(s)	Monolete fern spores	VACR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-18	EPDcoretop_E2020	590	10	22	Quercus ilex	Quercus ilex-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-19	EPDcoretop_E2020	4622	1	246	Convolvulus sepium-type	Calystegia	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+EPDcoretop_E2020	Alnus	Alnus	TRSH	4	2.020202	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+EPDcoretop_E2020	Castanea	Castanea sativa	TRSH	1	0.50505051	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E2020	Cedrus	Cedrus	TRSH	1	0.50505051	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+EPDcoretop_E2020	Ericaceae	Ericales (tetrad)	DWAR	1	0.50505051	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E2020	Fraxinus	Fraxinus	TRSH	1	0.50505051	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+EPDcoretop_E2020	Ligustrum	Ligustrum	TRSH	1	0.50505051	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+EPDcoretop_E2020	Pinus	Pinus	TRSH	131	66.161616	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+EPDcoretop_E2020	Quercus	Quercus	TRSH	16	8.0808081	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+EPDcoretop_E2020	Quercus ilex	Quercus ilex-type	TRSH	10	5.0505051	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E2020	Rosaceae	Rosaceae	TRSH	1	0.50505051	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
+EPDcoretop_E2020	Salix	Salix	TRSH	4	2.020202	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+EPDcoretop_E2020	Brassicaceae	Brassicaceae	HERB	1	0.50505051	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+EPDcoretop_E2020	Convolvulus sepium-type	Calystegia	HERB	1	0.50505051	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E2020	Cerealia-type	Cerealia-type	HERB	1	0.50505051	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E2020	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	2	1.010101	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E2020	Cyperaceae	Cyperaceae	HERB	2	1.010101	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+EPDcoretop_E2020	Poaceae	Poaceae	HERB	15	7.5757576	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+EPDcoretop_E2020	Ranunculaceae	Ranunculaceae	HERB	2	1.010101	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+EPDcoretop_E2020	Typha angustifolia	Typha angustifolia	HELO	2	1.010101	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E2020	Monolete spore(s)	Monolete fern spores	VACR	3	1.5151515	GroupID taken from POLNET. Only one taxon matched that acc_varname.

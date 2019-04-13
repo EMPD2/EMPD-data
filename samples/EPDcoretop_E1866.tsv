@@ -1,22 +1,22 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	EPDcoretop_E1866	1	3	1	Abies	Abies	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-1	EPDcoretop_E1866	37	135	37	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-2	EPDcoretop_E1866	61	10	61	Cyperaceae	Cyperaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-3	EPDcoretop_E1866	179	4	179	Ephedra	Ephedra	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-4	EPDcoretop_E1866	1498	5	388	Malvaceae	Malvaceae	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-5	EPDcoretop_E1866	158	6	158	Onagraceae	Onagraceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-6	EPDcoretop_E1866	18	4	18	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-7	EPDcoretop_E1866	159	6	159	Polygonaceae	Polygonaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-8	EPDcoretop_E1866	25	6	25	Salix	Salix	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-9	EPDcoretop_E1866	650	6	650	Saxifragaceae	Saxifragaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-10	EPDcoretop_E1866	165	1	165	Sphagnum	Sphagnum	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-11	EPDcoretop_E1866	106	10	106	Poaceae	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-12	EPDcoretop_E1866	52	21	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-13	EPDcoretop_E1866	799	72	148	Pinus sylvestris	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-14	EPDcoretop_E1866	649	6	487	Sanguisorba	Sanguisorba officinalis	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-15	EPDcoretop_E1866	168	8	168	Bryales	Bryophyte spores	BRYO	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-16	EPDcoretop_E1866	167	54	167	Polypodiaceae	Monolete fern spores	VACR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-17	EPDcoretop_E1866	1371	30	147	Pinus sibirica	Pinus cembra-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-18	EPDcoretop_E1866	4552	9	202	Diphasiastrum alpinum	Lycopodium clavatum-type	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-19	EPDcoretop_E1866	4553	2	202	Diphasiastrum complanatum	Lycopodium clavatum-type	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-20	EPDcoretop_E1866	4588	24	5	Betula sect. Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+EPDcoretop_E1866	Abies	Abies	TRSH	3	0.71258907	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+EPDcoretop_E1866	Betula sect. Betula	Betula	TRSH	24	5.7007126	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+EPDcoretop_E1866	Ephedra	Ephedra	TRSH	4	0.95011876	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+EPDcoretop_E1866	Picea	Picea	TRSH	4	0.95011876	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+EPDcoretop_E1866	Pinus sibirica	Pinus cembra-type	TRSH	30	7.1258907	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E1866	Pinus sylvestris	Pinus sylvestris-type	TRSH	72	17.102138	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E1866	Salix	Salix	TRSH	6	1.4251781	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+EPDcoretop_E1866	Artemisia	Artemisia	HERB	135	32.066508	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+EPDcoretop_E1866	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	21	4.9881235	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E1866	Cyperaceae	Cyperaceae	HERB	10	2.3752969	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+EPDcoretop_E1866	Malvaceae	Malvaceae	HERB	5	1.1876485	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E1866	Onagraceae	Onagraceae	HERB	6	1.4251781	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+EPDcoretop_E1866	Poaceae	Poaceae	HERB	10	2.3752969	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+EPDcoretop_E1866	Polygonaceae	Polygonaceae	HERB	6	1.4251781	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+EPDcoretop_E1866	Sanguisorba	Sanguisorba officinalis	HERB	6	1.4251781	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+EPDcoretop_E1866	Saxifragaceae	Saxifragaceae	HERB	6	1.4251781	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+EPDcoretop_E1866	Bryales	Bryophyte spores	BRYO	8	1.9002375	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E1866	Diphasiastrum alpinum	Lycopodium clavatum-type	VACR	9	2.1377672	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+EPDcoretop_E1866	Diphasiastrum complanatum	Lycopodium clavatum-type	VACR	2	0.47505938	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+EPDcoretop_E1866	Polypodiaceae	Monolete fern spores	VACR	54	12.826603	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E1866	Sphagnum	Sphagnum	NOPO	1		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.

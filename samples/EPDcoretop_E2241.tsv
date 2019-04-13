@@ -1,31 +1,31 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	EPDcoretop_E2241	4	44	4	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-1	EPDcoretop_E2241	5	166	5	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-2	EPDcoretop_E2241	9	10	9	Corylus	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-3	EPDcoretop_E2241	61	12	61	Cyperaceae	Cyperaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-4	EPDcoretop_E2241	13	2	13	Fraxinus	Fraxinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-5	EPDcoretop_E2241	515	4	79	Hedera	Hedera	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-6	EPDcoretop_E2241	14	6	14	Ilex	Ilex	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-7	EPDcoretop_E2241	516	1	516	Myriophyllum	Myriophyllum	AQUA	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-8	EPDcoretop_E2241	19	4	19	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-9	EPDcoretop_E2241	735	1	286	Plantago	Plantago	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-10	EPDcoretop_E2241	208	18	208	Quercus	Quercus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-11	EPDcoretop_E2241	156	1	156	Ranunculaceae	Ranunculaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-12	EPDcoretop_E2241	25	1	25	Salix	Salix	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-13	EPDcoretop_E2241	677	1	230	Polypodium	Polypodium	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-14	EPDcoretop_E2241	3625	14	1008	Indeterminable: broken	Indeterminable: broken	INUN	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-15	EPDcoretop_E2241	729	4	729	Indeterminable: degraded	Indeterminable: degraded	INUN	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-16	EPDcoretop_E2241	165	6	165	Sphagnum	Sphagnum	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-17	EPDcoretop_E2241	3628	24	1934	Indeterminable: crumpled	Indeterminable: crumpled	INUN	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-18	EPDcoretop_E2241	106	25	106	Poaceae	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-19	EPDcoretop_E2241	155	2	155	Asteraceae	Asteraceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-20	EPDcoretop_E2241	4649	15	1932	Indeterminable: hidden	Indeterminable: hidden	INUN	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-21	EPDcoretop_E2241	2128	1	11	Ericales	Ericales (tetrad)	DWAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-22	EPDcoretop_E2241	1485	1	119	Galium	Rubiaceae	HERB	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
-23	EPDcoretop_E2241	1376	5	524	Potentilla	Potentilla-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-24	EPDcoretop_E2241	485	1	118	Rosaceae undiff.	Rosaceae	TRSH	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
-25	EPDcoretop_E2241	215	1	136	Taxus	Taxus baccata	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-26	EPDcoretop_E2241	31	3	31	Ulmus	Ulmus/Zelkova	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-27	EPDcoretop_E2241	446	6	200	Pteridium	Pteridium aquilinum	VACR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-28	EPDcoretop_E2241	592	15	470	Calluna	Calluna vulgaris	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-29	EPDcoretop_E2241	4683	4	167	Leptosporangiatae	Monolete fern spores	VACR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+EPDcoretop_E2241	Alnus	Alnus	TRSH	44	13.173653	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+EPDcoretop_E2241	Betula	Betula	TRSH	166	49.700599	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+EPDcoretop_E2241	Calluna	Calluna vulgaris	TRSH	15	4.491018	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+EPDcoretop_E2241	Corylus	Corylus	TRSH	10	2.994012	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+EPDcoretop_E2241	Ericales	Ericales (tetrad)	DWAR	1	0.2994012	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E2241	Fraxinus	Fraxinus	TRSH	2	0.5988024	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+EPDcoretop_E2241	Hedera	Hedera	TRSH	4	1.1976048	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+EPDcoretop_E2241	Ilex	Ilex	TRSH	6	1.7964072	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+EPDcoretop_E2241	Pinus	Pinus	TRSH	4	1.1976048	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+EPDcoretop_E2241	Quercus	Quercus	TRSH	18	5.3892216	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+EPDcoretop_E2241	Rosaceae undiff.	Rosaceae	TRSH	1	0.2994012	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
+EPDcoretop_E2241	Salix	Salix	TRSH	1	0.2994012	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+EPDcoretop_E2241	Taxus	Taxus baccata	TRSH	1	0.2994012	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E2241	Ulmus	Ulmus/Zelkova	TRSH	3	0.89820359	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+EPDcoretop_E2241	Asteraceae	Asteraceae	HERB	2	0.5988024	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+EPDcoretop_E2241	Cyperaceae	Cyperaceae	HERB	12	3.5928144	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+EPDcoretop_E2241	Plantago	Plantago	HERB	1	0.2994012	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+EPDcoretop_E2241	Poaceae	Poaceae	HERB	25	7.4850299	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+EPDcoretop_E2241	Potentilla	Potentilla-type	HERB	5	1.497006	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+EPDcoretop_E2241	Ranunculaceae	Ranunculaceae	HERB	1	0.2994012	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+EPDcoretop_E2241	Galium	Rubiaceae	HERB	1	0.2994012	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
+EPDcoretop_E2241	Myriophyllum	Myriophyllum	AQUA	1	0.2994012	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+EPDcoretop_E2241	Indeterminable: broken	Indeterminable: broken	INUN	14		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E2241	Indeterminable: crumpled	Indeterminable: crumpled	INUN	24		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E2241	Indeterminable: degraded	Indeterminable: degraded	INUN	4		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E2241	Indeterminable: hidden	Indeterminable: hidden	INUN	15		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E2241	Leptosporangiatae	Monolete fern spores	VACR	4	1.1976048	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E2241	Polypodium	Polypodium	VACR	1	0.2994012	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+EPDcoretop_E2241	Pteridium	Pteridium aquilinum	VACR	6	1.7964072	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E2241	Sphagnum	Sphagnum	NOPO	6		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.

@@ -1,21 +1,21 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	EPDcoretop_E1798	4	86	4	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-1	EPDcoretop_E1798	37	2	37	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-2	EPDcoretop_E1798	5	98	5	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-3	EPDcoretop_E1798	61	14	61	Cyperaceae	Cyperaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-4	EPDcoretop_E1798	19	124	19	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-5	EPDcoretop_E1798	25	3	25	Salix	Salix	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-6	EPDcoretop_E1798	165	6	165	Sphagnum	Sphagnum	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-7	EPDcoretop_E1798	4098	1	894	Sample volume (ml)	Sample volume (ml)	NOPO	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-8	EPDcoretop_E1798	4568	118	2750	Eucalyptus spike (counted)	Eucalyptus spike (counted)	NOPO	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-9	EPDcoretop_E1798	3389	12077	706	Concentration pollen	Concentration pollen	NOPO	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-10	EPDcoretop_E1798	106	1	106	Poaceae	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-11	EPDcoretop_E1798	4569	2	4569	Eucalyptus spike (added)	Eucalyptus spike (added)	NOPO	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-12	EPDcoretop_E1798	4570	2	4570	Saxifraga hieraciifolia	Saxifraga hieraciifolia	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-13	EPDcoretop_E1798	751	1	543	Cassiope	Erica ciliaris-type	DWAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-14	EPDcoretop_E1798	951	6	11	Ericales undiff.	Ericales (tetrad)	DWAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-15	EPDcoretop_E1798	85	1	85	Juniperus	Juniperus communis-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-16	EPDcoretop_E1798	16	23	16	Larix	Larix/Pseudotsuga	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-17	EPDcoretop_E1798	485	1	118	Rosaceae undiff.	Rosaceae	TRSH	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
-18	EPDcoretop_E1798	4504	1	167	Monolete spore(s) undiff.	Monolete fern spores	VACR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-19	EPDcoretop_E1798	1565	2	478	Osmunda	Osmunda regalis	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+EPDcoretop_E1798	Alnus	Alnus	TRSH	86	23.561644	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+EPDcoretop_E1798	Betula	Betula	TRSH	98	26.849315	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+EPDcoretop_E1798	Cassiope	Erica ciliaris-type	DWAR	1	0.2739726	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E1798	Ericales undiff.	Ericales (tetrad)	DWAR	6	1.6438356	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E1798	Juniperus	Juniperus communis-type	TRSH	1	0.2739726	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E1798	Larix	Larix/Pseudotsuga	TRSH	23	6.3013699	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E1798	Pinus	Pinus	TRSH	124	33.972603	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+EPDcoretop_E1798	Rosaceae undiff.	Rosaceae	TRSH	1	0.2739726	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
+EPDcoretop_E1798	Salix	Salix	TRSH	3	0.82191781	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+EPDcoretop_E1798	Artemisia	Artemisia	HERB	2	0.54794521	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+EPDcoretop_E1798	Cyperaceae	Cyperaceae	HERB	14	3.8356164	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+EPDcoretop_E1798	Poaceae	Poaceae	HERB	1	0.2739726	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+EPDcoretop_E1798	Saxifraga hieraciifolia	Saxifraga hieraciifolia	HERB	2	0.54794521	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E1798	Concentration pollen	Concentration pollen	NOPO	12077		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E1798	Eucalyptus spike (added)	Eucalyptus spike (added)	NOPO	2		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E1798	Eucalyptus spike (counted)	Eucalyptus spike (counted)	NOPO	118		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E1798	Monolete spore(s) undiff.	Monolete fern spores	VACR	1	0.2739726	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E1798	Osmunda	Osmunda regalis	VACR	2	0.54794521	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+EPDcoretop_E1798	Sample volume (ml)	Sample volume (ml)	NOPO	1		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E1798	Sphagnum	Sphagnum	NOPO	6		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.

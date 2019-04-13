@@ -1,21 +1,21 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	EPDcoretop_E2376	4	33	4	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-1	EPDcoretop_E2376	5	1	5	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-2	EPDcoretop_E2376	61	6	61	Cyperaceae	Cyperaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-3	EPDcoretop_E2376	13	7	13	Fraxinus	Fraxinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-4	EPDcoretop_E2376	515	2	79	Hedera	Hedera	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-5	EPDcoretop_E2376	208	11	208	Quercus	Quercus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-6	EPDcoretop_E2376	25	2	25	Salix	Salix	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-7	EPDcoretop_E2376	677	3	230	Polypodium	Polypodium	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-8	EPDcoretop_E2376	165	6	165	Sphagnum	Sphagnum	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-9	EPDcoretop_E2376	1135	13	1135	Charcoal	Charcoal	CHAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-10	EPDcoretop_E2376	4330	59	2637	Lycopodium spike (counted)	Lycopodium spike (counted)	NOPO	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-11	EPDcoretop_E2376	3388	22534	3388	Concentration of spike	Concentration of spike	NOPO	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-12	EPDcoretop_E2376	4389	1	4389	Quantity of spike	Quantity of spike	NOPO	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-13	EPDcoretop_E2376	4305	2	704	Volume of sample (cm3)	Volume of sample (cm3)	NOPO	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-14	EPDcoretop_E2376	4650	297	3411	Corylus-type	Corylus/Myrica	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-15	EPDcoretop_E2376	87	9	87	Plantago lanceolata	Plantago lanceolata-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-16	EPDcoretop_E2376	31	2	31	Ulmus	Ulmus/Zelkova	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-17	EPDcoretop_E2376	4750	13	106	Gramineae undiff.	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-18	EPDcoretop_E2376	1108	1	197	Varia	Indeterminable: unknown	INUN	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-19	EPDcoretop_E2376	592	133	470	Calluna	Calluna vulgaris	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+EPDcoretop_E2376	Alnus	Alnus	TRSH	33	6.3583815	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+EPDcoretop_E2376	Betula	Betula	TRSH	1	0.19267823	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+EPDcoretop_E2376	Calluna	Calluna vulgaris	TRSH	133	25.626204	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+EPDcoretop_E2376	Corylus-type	Corylus/Myrica	TRSH	297	57.225434	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E2376	Fraxinus	Fraxinus	TRSH	7	1.3487476	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+EPDcoretop_E2376	Hedera	Hedera	TRSH	2	0.38535645	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+EPDcoretop_E2376	Quercus	Quercus	TRSH	11	2.1194605	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+EPDcoretop_E2376	Salix	Salix	TRSH	2	0.38535645	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+EPDcoretop_E2376	Ulmus	Ulmus/Zelkova	TRSH	2	0.38535645	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+EPDcoretop_E2376	Cyperaceae	Cyperaceae	HERB	6	1.1560694	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+EPDcoretop_E2376	Plantago lanceolata	Plantago lanceolata-type	HERB	9	1.734104	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E2376	Gramineae undiff.	Poaceae	HERB	13	2.504817	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+EPDcoretop_E2376	Charcoal	Charcoal	CHAR	13		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E2376	Varia	Indeterminable: unknown	INUN	1		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E2376	Concentration of spike	Concentration of spike	NOPO	22534		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E2376	Lycopodium spike (counted)	Lycopodium spike (counted)	NOPO	59		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E2376	Polypodium	Polypodium	VACR	3	0.57803468	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+EPDcoretop_E2376	Quantity of spike	Quantity of spike	NOPO	1		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E2376	Sphagnum	Sphagnum	NOPO	6		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+EPDcoretop_E2376	Volume of sample (cm3)	Volume of sample (cm3)	NOPO	2		GroupID taken from POLNET. Only one taxon matched that acc_varname.

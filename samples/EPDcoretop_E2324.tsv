@@ -1,30 +1,30 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	EPDcoretop_E2324	5	14	5	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-1	EPDcoretop_E2324	1075	1	50	Cerealia-type	Cerealia-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-2	EPDcoretop_E2324	61	3	61	Cyperaceae	Cyperaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-3	EPDcoretop_E2324	3493	31	2608	Erica tetralix-type	Erica tetralix-type	DWAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-4	EPDcoretop_E2324	1792	7	77	Genista-type	Genista-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-5	EPDcoretop_E2324	19	71	19	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-6	EPDcoretop_E2324	1085	3	87	Plantago lanceolata-type	Plantago lanceolata-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-7	EPDcoretop_E2324	1062	24	22	Quercus ilex-type	Quercus ilex-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-8	EPDcoretop_E2324	173	36	21	Quercus robur-type	Quercus robur-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-9	EPDcoretop_E2324	642	1	642	Rhinanthus-type	Rhinanthus-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-10	EPDcoretop_E2324	645	1	121	Rumex acetosa-type	Rumex acetosa-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-11	EPDcoretop_E2324	25	1	25	Salix	Salix	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-12	EPDcoretop_E2324	2541	88	468	Erica arborea-type	Erica arborea-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-13	EPDcoretop_E2324	4329	13911	4329	Lycopodium spike (added)	Lycopodium spike (added)	NOPO	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-14	EPDcoretop_E2324	4330	41	2637	Lycopodium spike (counted)	Lycopodium spike (counted)	NOPO	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-15	EPDcoretop_E2324	3389	598124	706	Concentration pollen	Concentration pollen	NOPO	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-16	EPDcoretop_E2324	106	20	106	Poaceae	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-17	EPDcoretop_E2324	36	1	36	Apiaceae	Apiaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-18	EPDcoretop_E2324	42	1	42	Brassicaceae	Brassicaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-19	EPDcoretop_E2324	4397	2	4397	Lycopodium tablets	Lycopodium tablets	NOPO	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-20	EPDcoretop_E2324	89	1	89	Liliaceae	Liliaceae-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-21	EPDcoretop_E2324	455	5	95	Olea	Olea europaea	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-22	EPDcoretop_E2324	4340	1	471	Plantago major/P. media	Plantago major/P. media-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-23	EPDcoretop_E2324	4719	13	543	Erica australis-type	Erica ciliaris-type	DWAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-24	EPDcoretop_E2324	4723	10	66	Erica undiff.	Erica	DWAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-25	EPDcoretop_E2324	592	71	470	Calluna	Calluna vulgaris	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-26	EPDcoretop_E2324	4492	2	55	Cistus-type	Cistus	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-27	EPDcoretop_E2324	4510	1	197	Indeterminable: unidentified	Indeterminable: unknown	INUN	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-28	EPDcoretop_E2324	4724	1	258	Echium vulgare-type	Echium	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+EPDcoretop_E2324	Betula	Betula	TRSH	14	3.4398034	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+EPDcoretop_E2324	Calluna	Calluna vulgaris	TRSH	71	17.444717	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+EPDcoretop_E2324	Cistus-type	Cistus	TRSH	2	0.49140049	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E2324	Erica undiff.	Erica	DWAR	10	2.4570025	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E2324	Erica arborea-type	Erica arborea-type	TRSH	88	21.621622	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E2324	Erica australis-type	Erica ciliaris-type	DWAR	13	3.1941032	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E2324	Erica tetralix-type	Erica tetralix-type	DWAR	31	7.6167076	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E2324	Genista-type	Genista-type	TRSH	7	1.7199017	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+EPDcoretop_E2324	Olea	Olea europaea	TRSH	5	1.2285012	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E2324	Pinus	Pinus	TRSH	71	17.444717	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+EPDcoretop_E2324	Quercus ilex-type	Quercus ilex-type	TRSH	24	5.8968059	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E2324	Quercus robur-type	Quercus robur-type	TRSH	36	8.8452088	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E2324	Salix	Salix	TRSH	1	0.24570025	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+EPDcoretop_E2324	Apiaceae	Apiaceae	HERB	1	0.24570025	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+EPDcoretop_E2324	Brassicaceae	Brassicaceae	HERB	1	0.24570025	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+EPDcoretop_E2324	Cerealia-type	Cerealia-type	HERB	1	0.24570025	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E2324	Cyperaceae	Cyperaceae	HERB	3	0.73710074	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+EPDcoretop_E2324	Echium vulgare-type	Echium	HERB	1	0.24570025	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E2324	Liliaceae	Liliaceae-type	HERB	1	0.24570025	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E2324	Plantago lanceolata-type	Plantago lanceolata-type	HERB	3	0.73710074	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E2324	Plantago major/P. media	Plantago major/P. media-type	HERB	1	0.24570025	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E2324	Poaceae	Poaceae	HERB	20	4.9140049	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+EPDcoretop_E2324	Rhinanthus-type	Rhinanthus-type	HERB	1	0.24570025	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E2324	Rumex acetosa-type	Rumex acetosa-type	HERB	1	0.24570025	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E2324	Indeterminable: unidentified	Indeterminable: unknown	INUN	1		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E2324	Concentration pollen	Concentration pollen	NOPO	598124		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E2324	Lycopodium spike (added)	Lycopodium spike (added)	NOPO	13911		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E2324	Lycopodium spike (counted)	Lycopodium spike (counted)	NOPO	41		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E2324	Lycopodium tablets	Lycopodium tablets	NOPO	2		GroupID taken from POLNET. Only one taxon matched that acc_varname.

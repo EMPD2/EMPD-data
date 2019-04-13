@@ -1,20 +1,20 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	EPDcoretop_E1551	1	4	1	Abies	Abies	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-1	EPDcoretop_E1551	5	27	5	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-2	EPDcoretop_E1551	9	3	9	Corylus	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-3	EPDcoretop_E1551	61	1	61	Cyperaceae	Cyperaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-4	EPDcoretop_E1551	12	16	12	Fagus	Fagus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-5	EPDcoretop_E1551	73	1	73	Filipendula	Filipendula	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-6	EPDcoretop_E1551	18	111	18	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-7	EPDcoretop_E1551	19	188	19	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-8	EPDcoretop_E1551	105	3	105	Plantago major	Plantago major	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-9	EPDcoretop_E1551	208	5	208	Quercus	Quercus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-10	EPDcoretop_E1551	25	1	25	Salix	Salix	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-11	EPDcoretop_E1551	137	1	137	Thalictrum	Thalictrum	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-12	EPDcoretop_E1551	552	13	552	Vaccinium	Vaccinium	DWAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-13	EPDcoretop_E1551	106	16	106	Poaceae	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-14	EPDcoretop_E1551	86	1	86	Lamiaceae	Lamiaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-15	EPDcoretop_E1551	7	2	7	Carpinus	Carpinus betulus	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-16	EPDcoretop_E1551	11	3	11	Ericaceae	Ericales (tetrad)	DWAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-17	EPDcoretop_E1551	87	4	87	Plantago lanceolata	Plantago lanceolata-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-18	EPDcoretop_E1551	738	2	120	Rumex	Rumex/Oxyria	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+EPDcoretop_E1551	Abies	Abies	TRSH	4	0.99502488	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+EPDcoretop_E1551	Betula	Betula	TRSH	27	6.7164179	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+EPDcoretop_E1551	Carpinus	Carpinus betulus	TRSH	2	0.49751244	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E1551	Corylus	Corylus	TRSH	3	0.74626866	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+EPDcoretop_E1551	Ericaceae	Ericales (tetrad)	DWAR	3	0.74626866	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E1551	Fagus	Fagus	TRSH	16	3.9800995	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+EPDcoretop_E1551	Picea	Picea	TRSH	111	27.61194	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+EPDcoretop_E1551	Pinus	Pinus	TRSH	188	46.766169	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+EPDcoretop_E1551	Quercus	Quercus	TRSH	5	1.2437811	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+EPDcoretop_E1551	Salix	Salix	TRSH	1	0.24875622	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+EPDcoretop_E1551	Vaccinium	Vaccinium	DWAR	13	3.2338308	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E1551	Cyperaceae	Cyperaceae	HERB	1	0.24875622	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+EPDcoretop_E1551	Filipendula	Filipendula	HERB	1	0.24875622	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+EPDcoretop_E1551	Lamiaceae	Lamiaceae	HERB	1	0.24875622	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+EPDcoretop_E1551	Plantago lanceolata	Plantago lanceolata-type	HERB	4	0.99502488	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E1551	Plantago major	Plantago major	HERB	3	0.74626866	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+EPDcoretop_E1551	Poaceae	Poaceae	HERB	16	3.9800995	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+EPDcoretop_E1551	Rumex	Rumex/Oxyria	HERB	2	0.49751244	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+EPDcoretop_E1551	Thalictrum	Thalictrum	HERB	1	0.24875622	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
