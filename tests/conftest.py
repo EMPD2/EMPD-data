@@ -304,7 +304,8 @@ def pytest_sessionfinish(session):
         if d and not any(report.skipped for report in reports):
             md += '<details><summary>%s..<b>%s</b></summary>\n' % (
                 report.nodeid, report.outcome.upper())
-            if len(d) == 1 and not 'failed_samples' in user_props:
+            if len(d) == 1 and (not 'failed_samples' in user_props and
+                                not 'failed_data' in user_props):
                 message, val = next(iter(d.items()))
                 if message == 'error':
                     val = '\n\n```\n%s\n```' % val
