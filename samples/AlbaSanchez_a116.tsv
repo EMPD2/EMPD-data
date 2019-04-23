@@ -1,11 +1,11 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	AlbaSanchez_a116	442	74	356	Cedrus atlantica	Cedrus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-1	AlbaSanchez_a116	22	163	22	Quercus evergreen	Quercus ilex-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-2	AlbaSanchez_a116	443	1	148	Pinus sylvestris/nigra/uncinata t.	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-3	AlbaSanchez_a116	444	9	106	Poaceae undiff.	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-4	AlbaSanchez_a116	455	45	95	Olea	Olea europaea	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-5	AlbaSanchez_a116	101	1	101	Phillyrea	Phillyrea	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-6	AlbaSanchez_a116	465	6	58	Plantago coronopus t.	Plantago coronopus-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-7	AlbaSanchez_a116	37	2	37	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-8	AlbaSanchez_a116	182	1	182	Boraginaceae	Boraginaceae	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-9	AlbaSanchez_a116	496	1	285	Fabaceae undiff.	Fabaceae undiff.	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+AlbaSanchez_a116	Cedrus atlantica	Cedrus	TRSH	74	24.422442	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+AlbaSanchez_a116	Olea	Olea europaea	TRSH	45	14.851485	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a116	Phillyrea	Phillyrea	TRSH	1	0.330033	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a116	Pinus sylvestris/nigra/uncinata t.	Pinus sylvestris-type	TRSH	1	0.330033	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a116	Quercus evergreen	Quercus ilex-type	TRSH	163	53.79538	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a116	Artemisia	Artemisia	HERB	2	0.66006601	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+AlbaSanchez_a116	Boraginaceae	Boraginaceae	HERB	1	0.330033	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a116	Fabaceae undiff.	Fabaceae undiff.	HERB	1	0.330033	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+AlbaSanchez_a116	Plantago coronopus t.	Plantago coronopus-type	HERB	6	1.980198	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a116	Poaceae undiff.	Poaceae	HERB	9	2.970297	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.

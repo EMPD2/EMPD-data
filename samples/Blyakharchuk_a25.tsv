@@ -1,23 +1,23 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Blyakharchuk_a25	799	77	148	Pinus sylvestris	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-1	Blyakharchuk_a25	1371	17	147	Pinus sibirica	Pinus cembra-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-2	Blyakharchuk_a25	170	15	170	Abies sibirica	Abies sibirica	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-3	Blyakharchuk_a25	2138	2	794	Picea obovata	Picea abies-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-4	Blyakharchuk_a25	2139	8	16	Larix sibirica	Larix/Pseudotsuga	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-5	Blyakharchuk_a25	1740	88	150	Betula pendula	Betula pubescens-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-6	Blyakharchuk_a25	948	8	150	Betula pubescens	Betula pubescens-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-7	Blyakharchuk_a25	1373	3	149	Betula nana	Betula nana-type	DWAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-8	Blyakharchuk_a25	85	4	85	Juniperus	Juniperus communis-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-9	Blyakharchuk_a25	37	13	37	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-10	Blyakharchuk_a25	52	7	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-11	Blyakharchuk_a25	460	4	53	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-12	Blyakharchuk_a25	61	8	61	Cyperaceae	Cyperaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-13	Blyakharchuk_a25	106	60	106	Poaceae	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-14	Blyakharchuk_a25	1582	3	274	Hordeum	Hordeum-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-15	Blyakharchuk_a25	2158	2	69	Fabaceaa	Fabaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-16	Blyakharchuk_a25	735	1	286	Plantago	Plantago	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-17	Blyakharchuk_a25	118	1	118	Rosaceae	Rosaceae	TRSH	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
-18	Blyakharchuk_a25	137	1	137	Thalictrum	Thalictrum	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-19	Blyakharchuk_a25	663	1	663	Urtica	Urtica	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-20	Blyakharchuk_a25	2174	1	2174	Valerianella type	Valerianella	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-21	Blyakharchuk_a25	2178	10	167	Monolete	Monolete fern spores	VACR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Blyakharchuk_a25	Abies sibirica	Abies sibirica	TRSH	15	4.491018	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Blyakharchuk_a25	Betula nana	Betula nana-type	DWAR	3	0.89820359	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Blyakharchuk_a25	Betula pendula	Betula pubescens-type	TRSH	88	26.347305	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Blyakharchuk_a25	Betula pubescens	Betula pubescens-type	TRSH	8	2.3952096	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Blyakharchuk_a25	Juniperus	Juniperus communis-type	TRSH	4	1.1976048	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Blyakharchuk_a25	Larix sibirica	Larix/Pseudotsuga	TRSH	8	2.3952096	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Blyakharchuk_a25	Picea obovata	Picea abies-type	TRSH	2	0.5988024	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Blyakharchuk_a25	Pinus sibirica	Pinus cembra-type	TRSH	17	5.0898204	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Blyakharchuk_a25	Pinus sylvestris	Pinus sylvestris-type	TRSH	77	23.053892	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Blyakharchuk_a25	Rosaceae	Rosaceae	TRSH	1	0.2994012	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
+Blyakharchuk_a25	Artemisia	Artemisia	HERB	13	3.8922156	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Blyakharchuk_a25	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	4	1.1976048	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Blyakharchuk_a25	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	7	2.0958084	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Blyakharchuk_a25	Cyperaceae	Cyperaceae	HERB	8	2.3952096	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Blyakharchuk_a25	Fabaceaa	Fabaceae	HERB	2	0.5988024	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Blyakharchuk_a25	Hordeum	Hordeum-type	HERB	3	0.89820359	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Blyakharchuk_a25	Plantago	Plantago	HERB	1	0.2994012	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Blyakharchuk_a25	Poaceae	Poaceae	HERB	60	17.964072	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Blyakharchuk_a25	Thalictrum	Thalictrum	HERB	1	0.2994012	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Blyakharchuk_a25	Urtica	Urtica	HERB	1	0.2994012	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Blyakharchuk_a25	Valerianella type	Valerianella	HERB	1	0.2994012	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Blyakharchuk_a25	Monolete	Monolete fern spores	VACR	10	2.994012	GroupID taken from POLNET. Only one taxon matched that acc_varname.

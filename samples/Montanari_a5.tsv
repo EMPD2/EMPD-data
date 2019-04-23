@@ -1,68 +1,68 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Montanari_a5	2638	270	148	PINUS sylv.	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-1	Montanari_a5	2639	16	147	PINUS CEMBRA	Pinus cembra-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-2	Montanari_a5	2640	76	19	PINUS indiff..	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-3	Montanari_a5	2641	19	16	LARIX	Larix/Pseudotsuga	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-4	Montanari_a5	399	37	18	PICEA	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-5	Montanari_a5	337	1	1	ABIES	Abies	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-6	Montanari_a5	363	5	363	CUPRESSACEAE	Cupressaceae undiff.	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-7	Montanari_a5	355	176	47	CASTANEA	Castanea sativa	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-8	Montanari_a5	362	63	9	CORYLUS	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-9	Montanari_a5	346	45	5	BETULA	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-10	Montanari_a5	395	2	97	OSTRYA	Ostrya/Carpinus orientalis	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-11	Montanari_a5	2644	41	175	ALNUS  incana	Alnus glutinosa-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-12	Montanari_a5	2645	21	151	ALNUS viridis	Alnus viridis	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-13	Montanari_a5	2646	16	4	ALNUS indiff.	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-14	Montanari_a5	2647	27	21	QUERCUS decid.	Quercus robur-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-15	Montanari_a5	375	23	13	FRAXINUS	Fraxinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-16	Montanari_a5	386	1	88	LIGUSTRUM	Ligustrum	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-17	Montanari_a5	2650	8	29	TILIA	Tilia	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-18	Montanari_a5	383	4	15	JUGLANS	Juglans	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-19	Montanari_a5	373	1	12	FAGUS	Fagus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-20	Montanari_a5	2651	6	3	AESCULUS	Aesculus	TRSH	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
-21	Montanari_a5	2652	1	883	MORUS	Morus	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-22	Montanari_a5	2653	66	132	SORBUS	Sorbus-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-23	Montanari_a5	338	26	2	ACER	Acer campestre-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-24	Montanari_a5	422	46	25	SALIX	Salix	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-25	Montanari_a5	2657	4	470	CALLUNA	Calluna vulgaris	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-26	Montanari_a5	2658	1	552	VACCINIUM	Vaccinium	DWAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-27	Montanari_a5	2659	13	11	ERICACEAE indiff.	Ericales (tetrad)	DWAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-28	Montanari_a5	2660	2	162	RUBUS idaeus	Rubus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-29	Montanari_a5	2661	28	502	ROSACEAE indiff.	Rosaceae (non-operculate)	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-30	Montanari_a5	2664	4	1222	AILANTHUS	Ailanthus	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-31	Montanari_a5	437	3	32	VIBURNUM	Viburnum	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-32	Montanari_a5	423	7	423	SAMBUCUS	Sambucus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-33	Montanari_a5	404	368	106	POACEAE	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-34	Montanari_a5	2668	2	50	POACEAE > 45 µm	Cerealia-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-35	Montanari_a5	2669	4	73	cf. Filipendula	Filipendula	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-36	Montanari_a5	2670	1	660	GEUM	Geum-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-37	Montanari_a5	2671	18	130	SEDUM	Sedum-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-38	Montanari_a5	1326	21	36	UMBELLIFERAE	Apiaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-39	Montanari_a5	2672	13	180	ASTERACEAE aster.	Asteraceae subf. Asteroideae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-40	Montanari_a5	2673	22	352	ASTERACEAE cichor.	Asteraceae subf. Carduoideae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-41	Montanari_a5	344	7	37	ARTEMISIA	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-42	Montanari_a5	2675	12	820	URTICACEAE	Urticaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-43	Montanari_a5	2676	3	286	PLANTAGO indet.	Plantago	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-44	Montanari_a5	2677	6	87	PLANTAGO lanceol.	Plantago lanceolata-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-45	Montanari_a5	2678	2	105	PLANTAGO major	Plantago major	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-46	Montanari_a5	2679	12	52	CHENOPODIACEAE	Chenopodiaceae/Amaranthaceae	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-47	Montanari_a5	2681	1	267	RUMEX cf. obtusif.	Rumex crispus-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-48	Montanari_a5	2683	20	636	POLYGONUM bistorta	Polygonum bistorta	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-49	Montanari_a5	1314	3	119	GALIUM	Rubiaceae	HERB	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
-50	Montanari_a5	424	4	193	SCROPHULARIACEAE	Scrophulariaceae (colporate-reticulate)	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-51	Montanari_a5	2687	1	69	LEGUMINOSAE	Fabaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-52	Montanari_a5	2688	4	157	CAMPANULACEAE	Campanulaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-53	Montanari_a5	2689	2	2689	EPILOBIUM angustif.	Epilobium angustifolium-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-54	Montanari_a5	354	2	46	CARYOPHYLLACEAE	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-55	Montanari_a5	367	1	184	DIPSACACEAE	Dipsacaceae	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-56	Montanari_a5	2691	1	510	GERANIUM	Geranium	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-57	Montanari_a5	1315	1	86	LABIATAE	Lamiaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-58	Montanari_a5	2692	2	182	BORAGINACEAE	Boraginaceae	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-59	Montanari_a5	2693	3	925	TYPHA latif.	Typha latifolia-type	HELO	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-60	Montanari_a5	2694	2	295	FILICALES tril.	Trilete spore(s)	VACR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-61	Montanari_a5	2695	6	167	FILICALES monol.	Monolete fern spores	VACR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-62	Montanari_a5	2699	3	197	unidentified	Indeterminable: unknown	INUN	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-63	Montanari_a5	2700	219	168	BRYOPHYTA	Bryophyte spores	BRYO	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-64	Montanari_a5	2701	10	894	sample volume (Vp) (ml)	Sample volume (ml)	NOPO	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-65	Montanari_a5	2702	0.02	2702	examined volume (Vg) (ml)	Sample volume analysed (ml)	NOPO	GroupID taken from spreadsheet
-66	Montanari_a5	2703	2.1175	2703	sample weight (Pp) (grams)	Weight (g)	NOPO	GroupID taken from spreadsheet
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Montanari_a5	ABIES	Abies	TRSH	1	0.054975261	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Montanari_a5	ACER	Acer campestre-type	TRSH	26	1.4293568	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Montanari_a5	AESCULUS	Aesculus	TRSH	6	0.32985157	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
+Montanari_a5	AILANTHUS	Ailanthus	TRSH	4	0.21990104	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Montanari_a5	ALNUS indiff.	Alnus	TRSH	16	0.87960418	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Montanari_a5	ALNUS  incana	Alnus glutinosa-type	TRSH	41	2.2539857	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Montanari_a5	ALNUS viridis	Alnus viridis	TRSH	21	1.1544805	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Montanari_a5	BETULA	Betula	TRSH	45	2.4738868	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Montanari_a5	CALLUNA	Calluna vulgaris	TRSH	4	0.21990104	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Montanari_a5	CASTANEA	Castanea sativa	TRSH	176	9.675646	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Montanari_a5	CORYLUS	Corylus	TRSH	63	3.4634415	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Montanari_a5	CUPRESSACEAE	Cupressaceae undiff.	TRSH	5	0.27487631	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Montanari_a5	ERICACEAE indiff.	Ericales (tetrad)	DWAR	13	0.71467839	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Montanari_a5	FAGUS	Fagus	TRSH	1	0.054975261	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Montanari_a5	FRAXINUS	Fraxinus	TRSH	23	1.264431	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Montanari_a5	JUGLANS	Juglans	TRSH	4	0.21990104	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Montanari_a5	LARIX	Larix/Pseudotsuga	TRSH	19	1.04453	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Montanari_a5	LIGUSTRUM	Ligustrum	TRSH	1	0.054975261	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Montanari_a5	MORUS	Morus	TRSH	1	0.054975261	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Montanari_a5	OSTRYA	Ostrya/Carpinus orientalis	TRSH	2	0.10995052	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Montanari_a5	PICEA	Picea	TRSH	37	2.0340847	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Montanari_a5	PINUS indiff..	Pinus	TRSH	76	4.1781198	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Montanari_a5	PINUS CEMBRA	Pinus cembra-type	TRSH	16	0.87960418	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Montanari_a5	PINUS sylv.	Pinus sylvestris-type	TRSH	270	14.843321	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Montanari_a5	QUERCUS decid.	Quercus robur-type	TRSH	27	1.4843321	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Montanari_a5	ROSACEAE indiff.	Rosaceae (non-operculate)	TRSH	28	1.5393073	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Montanari_a5	RUBUS idaeus	Rubus	TRSH	2	0.10995052	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Montanari_a5	SALIX	Salix	TRSH	46	2.528862	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Montanari_a5	SAMBUCUS	Sambucus	TRSH	7	0.38482683	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Montanari_a5	SORBUS	Sorbus-type	TRSH	66	3.6283672	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Montanari_a5	TILIA	Tilia	TRSH	8	0.43980209	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Montanari_a5	VACCINIUM	Vaccinium	DWAR	1	0.054975261	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Montanari_a5	VIBURNUM	Viburnum	TRSH	3	0.16492578	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Montanari_a5	UMBELLIFERAE	Apiaceae	HERB	21	1.1544805	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Montanari_a5	ARTEMISIA	Artemisia	HERB	7	0.38482683	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Montanari_a5	ASTERACEAE aster.	Asteraceae subf. Asteroideae	HERB	13	0.71467839	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Montanari_a5	ASTERACEAE cichor.	Asteraceae subf. Carduoideae	HERB	22	1.2094557	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Montanari_a5	BORAGINACEAE	Boraginaceae	HERB	2	0.10995052	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Montanari_a5	CAMPANULACEAE	Campanulaceae	HERB	4	0.21990104	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Montanari_a5	CARYOPHYLLACEAE	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	2	0.10995052	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Montanari_a5	POACEAE > 45 µm	Cerealia-type	HERB	2	0.10995052	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Montanari_a5	CHENOPODIACEAE	Chenopodiaceae/Amaranthaceae	HERB	12	0.65970313	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Montanari_a5	DIPSACACEAE	Dipsacaceae	HERB	1	0.054975261	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Montanari_a5	EPILOBIUM angustif.	Epilobium angustifolium-type	HERB	2	0.10995052	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Montanari_a5	LEGUMINOSAE	Fabaceae	HERB	1	0.054975261	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Montanari_a5	cf. Filipendula	Filipendula	HERB	4	0.21990104	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Montanari_a5	GERANIUM	Geranium	HERB	1	0.054975261	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Montanari_a5	GEUM	Geum-type	HERB	1	0.054975261	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Montanari_a5	LABIATAE	Lamiaceae	HERB	1	0.054975261	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Montanari_a5	PLANTAGO indet.	Plantago	HERB	3	0.16492578	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Montanari_a5	PLANTAGO lanceol.	Plantago lanceolata-type	HERB	6	0.32985157	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Montanari_a5	PLANTAGO major	Plantago major	HERB	2	0.10995052	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Montanari_a5	POACEAE	Poaceae	HERB	368	20.230896	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Montanari_a5	POLYGONUM bistorta	Polygonum bistorta	HERB	20	1.0995052	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Montanari_a5	GALIUM	Rubiaceae	HERB	3	0.16492578	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
+Montanari_a5	RUMEX cf. obtusif.	Rumex crispus-type	HERB	1	0.054975261	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Montanari_a5	SCROPHULARIACEAE	Scrophulariaceae (colporate-reticulate)	HERB	4	0.21990104	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Montanari_a5	SEDUM	Sedum-type	HERB	18	0.9895547	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Montanari_a5	URTICACEAE	Urticaceae	HERB	12	0.65970313	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Montanari_a5	TYPHA latif.	Typha latifolia-type	HELO	3	0.16492578	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Montanari_a5	unidentified	Indeterminable: unknown	INUN	3		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Montanari_a5	BRYOPHYTA	Bryophyte spores	BRYO	219	12.039582	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Montanari_a5	FILICALES monol.	Monolete fern spores	VACR	6	0.32985157	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Montanari_a5	sample volume (Vp) (ml)	Sample volume (ml)	NOPO	10		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Montanari_a5	examined volume (Vg) (ml)	Sample volume analysed (ml)	NOPO	0.02		GroupID taken from spreadsheet
+Montanari_a5	FILICALES tril.	Trilete spore(s)	VACR	2	0.10995052	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Montanari_a5	sample weight (Pp) (grams)	Weight (g)	NOPO	2.1175		GroupID taken from spreadsheet

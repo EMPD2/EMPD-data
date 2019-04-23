@@ -1,15 +1,15 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Tarasov_a65	2	1.87	2	Acer	Acer campestre-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-1	Tarasov_a65	3	1.87	3	Aesculus	Aesculus	TRSH	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
-2	Tarasov_a65	4	1.87	4	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-3	Tarasov_a65	5	1.87	5	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-4	Tarasov_a65	7	2.8	7	Carpinus	Carpinus betulus	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-5	Tarasov_a65	9	4.67	9	Corylus	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-6	Tarasov_a65	10	5.61	10	Cryptomeria	Cryptomeria-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-7	Tarasov_a65	12	7.48	12	Fagus	Fagus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-8	Tarasov_a65	14	1.87	14	Ilex	Ilex	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-9	Tarasov_a65	19	12.14	19	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-10	Tarasov_a65	21	52.34	21	Quercus deciduous	Quercus robur-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-11	Tarasov_a65	27	1.87	27	Symplocos	Symplocos	PREQ	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
-12	Tarasov_a65	30	1.87	30	Tsuga	Tsuga	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-13	Tarasov_a65	31	1.87	31	Ulmus	Ulmus/Zelkova	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Tarasov_a65	Acer	Acer campestre-type	TRSH	1.87	1.9056354	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Tarasov_a65	Aesculus	Aesculus	TRSH	1.87	1.9056354	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
+Tarasov_a65	Alnus	Alnus	TRSH	1.87	1.9056354	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Tarasov_a65	Betula	Betula	TRSH	1.87	1.9056354	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Tarasov_a65	Carpinus	Carpinus betulus	TRSH	2.8	2.8533578	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Tarasov_a65	Corylus	Corylus	TRSH	4.67	4.7589932	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Tarasov_a65	Cryptomeria	Cryptomeria-type	TRSH	5.61	5.7169061	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Tarasov_a65	Fagus	Fagus	TRSH	7.48	7.6225415	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Tarasov_a65	Ilex	Ilex	TRSH	1.87	1.9056354	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Tarasov_a65	Pinus	Pinus	TRSH	12.14	12.371344	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Tarasov_a65	Quercus deciduous	Quercus robur-type	TRSH	52.34	53.33741	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Tarasov_a65	Tsuga	Tsuga	TRSH	1.87	1.9056354	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Tarasov_a65	Ulmus	Ulmus/Zelkova	TRSH	1.87	1.9056354	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Tarasov_a65	Symplocos	Symplocos	PREQ	1.87		Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.

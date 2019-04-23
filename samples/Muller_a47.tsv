@@ -1,21 +1,21 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Muller_a47	16	33	16	Larix	Larix/Pseudotsuga	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-1	Muller_a47	18	5	18	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-2	Muller_a47	1059	192	148	Pinus diploxylon-type	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-3	Muller_a47	1953	40	1953	Pinaceae	Pinaceae	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-4	Muller_a47	149	82	149	Betula sect. Nanae	Betula nana-type	DWAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-5	Muller_a47	2971	6	151	Alnus fruticosa	Alnus viridis	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-6	Muller_a47	1060	19	147	Pinus haploxylon-type	Pinus cembra-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-7	Muller_a47	61	9	61	Cyperaceae	Cyperaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-8	Muller_a47	106	4	106	Poaceae	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-9	Muller_a47	559	2	559	Epilobium	Epilobium	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-10	Muller_a47	11	7	11	Ericaceae	Ericales (tetrad)	DWAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-11	Muller_a47	156	1	156	Ranunculaceae	Ranunculaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-12	Muller_a47	3004	28	163	Selaginella rupestris	Selaginella rupestris	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-13	Muller_a47	2353	3	2353	Microthyrium	Microthyrium	FUNG	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-14	Muller_a47	3006	2	197	scalariform perforation plate	Indeterminable: unknown	INUN	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-15	Muller_a47	3007	18	197	Tracheids	Indeterminable: unknown	INUN	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-16	Muller_a47	3008	2	197	Spores indeterminata	Indeterminable: unknown	INUN	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-17	Muller_a47	2979	400	197	Pollen, terrestrial	Indeterminable: unknown	INUN	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-18	Muller_a47	3009	100	571	Lycopodium spores counted	Lycopodium (counted)	NOPO	GroupID taken from spreadsheet
-19	Muller_a47	3010	8543	3010	Pollen per unit sediment mass	Pollen per unit sediment mass (/g)	NOPO	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Muller_a47	Alnus fruticosa	Alnus viridis	TRSH	6	1.4018692	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Muller_a47	Betula sect. Nanae	Betula nana-type	DWAR	82	19.158879	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Muller_a47	Ericaceae	Ericales (tetrad)	DWAR	7	1.635514	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Muller_a47	Larix	Larix/Pseudotsuga	TRSH	33	7.7102804	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Muller_a47	Picea	Picea	TRSH	5	1.1682243	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Muller_a47	Pinaceae	Pinaceae	TRSH	40	9.3457944	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Muller_a47	Pinus haploxylon-type	Pinus cembra-type	TRSH	19	4.4392523	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Muller_a47	Pinus diploxylon-type	Pinus sylvestris-type	TRSH	192	44.859813	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Muller_a47	Cyperaceae	Cyperaceae	HERB	9	2.1028037	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Muller_a47	Epilobium	Epilobium	HERB	2	0.46728972	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Muller_a47	Poaceae	Poaceae	HERB	4	0.93457944	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Muller_a47	Ranunculaceae	Ranunculaceae	HERB	1	0.23364486	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Muller_a47	scalariform perforation plate	Indeterminable: unknown	INUN	2		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Muller_a47	Tracheids	Indeterminable: unknown	INUN	18		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Muller_a47	Spores indeterminata	Indeterminable: unknown	INUN	2		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Muller_a47	Pollen, terrestrial	Indeterminable: unknown	INUN	400		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Muller_a47	Lycopodium spores counted	Lycopodium (counted)	NOPO	100		GroupID taken from spreadsheet
+Muller_a47	Microthyrium	Microthyrium	FUNG	3		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Muller_a47	Pollen per unit sediment mass	Pollen per unit sediment mass (/g)	NOPO	8543		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Muller_a47	Selaginella rupestris	Selaginella rupestris	VACR	28	6.5420561	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.

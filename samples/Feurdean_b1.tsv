@@ -1,21 +1,21 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Feurdean_b1	1370	176	571	Lycopodium marker	Lycopodium (counted)	NOPO	GroupID taken from spreadsheet
-1	Feurdean_b1	799	160	148	Pinus sylvestris	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-2	Feurdean_b1	1371	25	147	Pinus sibirica	Pinus cembra-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-3	Feurdean_b1	794	4	794	Picea abies	Picea abies-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-4	Feurdean_b1	1372	148	5	Betula tree	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-5	Feurdean_b1	1373	20	149	Betula nana	Betula nana-type	DWAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-6	Feurdean_b1	25	4	25	Salix	Salix	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-7	Feurdean_b1	1	4	1	Abies	Abies	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-8	Feurdean_b1	4	4	4	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-9	Feurdean_b1	572	4	151	Alnus viridis	Alnus viridis	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-10	Feurdean_b1	9	4	9	Corylus	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-11	Feurdean_b1	11	7	11	Ericaceae	Ericales (tetrad)	DWAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-12	Feurdean_b1	552	1	552	Vaccinium	Vaccinium	DWAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-13	Feurdean_b1	106	8	106	Poaceae	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-14	Feurdean_b1	37	10	37	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-15	Feurdean_b1	137	2	137	Thalictrum	Thalictrum	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-16	Feurdean_b1	1378	2	105	Plantago sp./major	Plantago major	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-17	Feurdean_b1	61	4	61	Cyperaceae	Cyperaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-18	Feurdean_b1	1380	8	295	Spores trilete	Trilete spore(s)	VACR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-19	Feurdean_b1	165	232	165	Sphagnum	Sphagnum	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Feurdean_b1	Abies	Abies	TRSH	4	0.95465394	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Feurdean_b1	Alnus	Alnus	TRSH	4	0.95465394	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Feurdean_b1	Alnus viridis	Alnus viridis	TRSH	4	0.95465394	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Feurdean_b1	Betula tree	Betula	TRSH	148	35.322196	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Feurdean_b1	Betula nana	Betula nana-type	DWAR	20	4.7732697	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Feurdean_b1	Corylus	Corylus	TRSH	4	0.95465394	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Feurdean_b1	Ericaceae	Ericales (tetrad)	DWAR	7	1.6706444	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Feurdean_b1	Picea abies	Picea abies-type	TRSH	4	0.95465394	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Feurdean_b1	Pinus sibirica	Pinus cembra-type	TRSH	25	5.9665871	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Feurdean_b1	Pinus sylvestris	Pinus sylvestris-type	TRSH	160	38.186158	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Feurdean_b1	Salix	Salix	TRSH	4	0.95465394	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Feurdean_b1	Vaccinium	Vaccinium	DWAR	1	0.23866348	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Feurdean_b1	Artemisia	Artemisia	HERB	10	2.3866348	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Feurdean_b1	Cyperaceae	Cyperaceae	HERB	4	0.95465394	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Feurdean_b1	Plantago sp./major	Plantago major	HERB	2	0.47732697	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Feurdean_b1	Poaceae	Poaceae	HERB	8	1.9093079	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Feurdean_b1	Thalictrum	Thalictrum	HERB	2	0.47732697	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Feurdean_b1	Lycopodium marker	Lycopodium (counted)	NOPO	176		GroupID taken from spreadsheet
+Feurdean_b1	Sphagnum	Sphagnum	NOPO	232		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Feurdean_b1	Spores trilete	Trilete spore(s)	VACR	8	1.9093079	GroupID taken from POLNET. Only one taxon matched that acc_varname.

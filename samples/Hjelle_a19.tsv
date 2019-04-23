@@ -1,33 +1,33 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Hjelle_a19	4	43	4	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-1	Hjelle_a19	5	67	5	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-2	Hjelle_a19	59	22	9	Corylus avellana	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-3	Hjelle_a19	13	1	13	Fraxinus	Fraxinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-4	Hjelle_a19	18	7	18	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-5	Hjelle_a19	799	643	148	Pinus sylvestris	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-6	Hjelle_a19	107	1	107	Populus	Populus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-7	Hjelle_a19	2379	1	2379	Prunus padus	Prunus padus	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-8	Hjelle_a19	208	7	208	Quercus	Quercus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-9	Hjelle_a19	31	4	31	Ulmus	Ulmus/Zelkova	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-10	Hjelle_a19	85	2	85	Juniperus	Juniperus communis-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-11	Hjelle_a19	25	1	25	Salix	Salix	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-12	Hjelle_a19	470	39	470	Calluna vulgaris	Calluna vulgaris	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-13	Hjelle_a19	2609	3	17	Myrica gale	Myrica	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-14	Hjelle_a19	34	1	34	Achillea type	Matricaria-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-15	Hjelle_a19	1375	1	53	Asteraceae Cichorioideae	Asteraceae subf. Cichorioideae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-16	Hjelle_a19	2614	1	49	Cerastium group	Cerastium-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-17	Hjelle_a19	61	13	61	Cyperaceae	Cyperaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-18	Hjelle_a19	1943	1	274	Hordeum type	Hordeum-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-19	Hjelle_a19	1162	1	622	Lotus	Lotus-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-20	Hjelle_a19	106	128	106	Poaceae	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-21	Hjelle_a19	710	3	524	Potentilla type	Potentilla-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-22	Hjelle_a19	113	2	113	Ranunculus acris type	Ranunculus acris-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-23	Hjelle_a19	2626	1	121	Rumex sect. Acetosa	Rumex acetosa-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-24	Hjelle_a19	663	1	663	Urtica	Urtica	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-25	Hjelle_a19	1394	11	1334	Corroded	Indeterminable: corroded	INUN	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-26	Hjelle_a19	2635	1	1330	Gymnocarpium dryopteris type	Gymnocarpium dryopteris	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-27	Hjelle_a19	167	54	167	Polypodiaceae	Monolete fern spores	VACR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-28	Hjelle_a19	678	4	230	Polypodium vulgare	Polypodium	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-29	Hjelle_a19	446	5	200	Pteridium	Pteridium aquilinum	VACR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-30	Hjelle_a19	679	1	679	Selaginella	Selaginella	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-31	Hjelle_a19	165	34	165	Sphagnum	Sphagnum	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Hjelle_a19	Alnus	Alnus	TRSH	43	4.0604344	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Hjelle_a19	Betula	Betula	TRSH	67	6.3267233	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Hjelle_a19	Calluna vulgaris	Calluna vulgaris	TRSH	39	3.6827195	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Hjelle_a19	Corylus avellana	Corylus	TRSH	22	2.0774315	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Hjelle_a19	Fraxinus	Fraxinus	TRSH	1	0.094428706	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Hjelle_a19	Juniperus	Juniperus communis-type	TRSH	2	0.18885741	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Hjelle_a19	Myrica gale	Myrica	TRSH	3	0.28328612	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Hjelle_a19	Picea	Picea	TRSH	7	0.66100094	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Hjelle_a19	Pinus sylvestris	Pinus sylvestris-type	TRSH	643	60.717658	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Hjelle_a19	Populus	Populus	TRSH	1	0.094428706	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Hjelle_a19	Prunus padus	Prunus padus	TRSH	1	0.094428706	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Hjelle_a19	Quercus	Quercus	TRSH	7	0.66100094	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Hjelle_a19	Salix	Salix	TRSH	1	0.094428706	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Hjelle_a19	Ulmus	Ulmus/Zelkova	TRSH	4	0.37771483	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Hjelle_a19	Asteraceae Cichorioideae	Asteraceae subf. Cichorioideae	HERB	1	0.094428706	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Hjelle_a19	Cerastium group	Cerastium-type	HERB	1	0.094428706	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Hjelle_a19	Cyperaceae	Cyperaceae	HERB	13	1.2275732	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Hjelle_a19	Hordeum type	Hordeum-type	HERB	1	0.094428706	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Hjelle_a19	Lotus	Lotus-type	HERB	1	0.094428706	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Hjelle_a19	Achillea type	Matricaria-type	HERB	1	0.094428706	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Hjelle_a19	Poaceae	Poaceae	HERB	128	12.086874	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Hjelle_a19	Potentilla type	Potentilla-type	HERB	3	0.28328612	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Hjelle_a19	Ranunculus acris type	Ranunculus acris-type	HERB	2	0.18885741	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Hjelle_a19	Rumex sect. Acetosa	Rumex acetosa-type	HERB	1	0.094428706	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Hjelle_a19	Urtica	Urtica	HERB	1	0.094428706	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Hjelle_a19	Corroded	Indeterminable: corroded	INUN	11		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Hjelle_a19	Gymnocarpium dryopteris type	Gymnocarpium dryopteris	VACR	1	0.094428706	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Hjelle_a19	Polypodiaceae	Monolete fern spores	VACR	54	5.0991501	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Hjelle_a19	Polypodium vulgare	Polypodium	VACR	4	0.37771483	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Hjelle_a19	Pteridium	Pteridium aquilinum	VACR	5	0.47214353	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Hjelle_a19	Selaginella	Selaginella	VACR	1	0.094428706	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Hjelle_a19	Sphagnum	Sphagnum	NOPO	34		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.

@@ -1,6 +1,6 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Tarasov_a700	8	60.26	8	Castanopsis	Castanopsis	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-1	Tarasov_a700	10	10.9	10	Cryptomeria	Cryptomeria-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-2	Tarasov_a700	19	1.92	19	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-3	Tarasov_a700	22	0.64	22	Quercus evergreen	Quercus ilex-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-4	Tarasov_a700	32	26.28	32	Viburnum	Viburnum	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Tarasov_a700	Castanopsis	Castanopsis	TRSH	60.26	60.26	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Tarasov_a700	Cryptomeria	Cryptomeria-type	TRSH	10.9	10.9	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Tarasov_a700	Pinus	Pinus	TRSH	1.92	1.92	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Tarasov_a700	Quercus evergreen	Quercus ilex-type	TRSH	0.64	0.64	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Tarasov_a700	Viburnum	Viburnum	TRSH	26.28	26.28	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.

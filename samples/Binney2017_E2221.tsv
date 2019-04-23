@@ -1,19 +1,19 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Binney2017_E2221	4	28	4	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-1	Binney2017_E2221	37	2	37	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-2	Binney2017_E2221	5	150	5	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-3	Binney2017_E2221	832	1	475	Centaurea cyanus	Centaurea cyanus-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-4	Binney2017_E2221	50	5	50	Cerealia	Cerealia-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-5	Binney2017_E2221	52	8	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-6	Binney2017_E2221	9	8	9	Corylus	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-7	Binney2017_E2221	61	2	61	Cyperaceae	Cyperaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-8	Binney2017_E2221	783	1	783	Dryopteris	Dryopteris-type	VACR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-9	Binney2017_E2221	166	4	166	Equisetum	Equisetum	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-10	Binney2017_E2221	18	19	18	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-11	Binney2017_E2221	799	87	148	Pinus sylvestris	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-12	Binney2017_E2221	87	5	87	Plantago lanceolata	Plantago lanceolata-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-13	Binney2017_E2221	167	2	167	Polypodiaceae	Monolete fern spores	VACR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-14	Binney2017_E2221	208	2	208	Quercus	Quercus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-15	Binney2017_E2221	640	2	290	Ranunculus	Ranunculus-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-16	Binney2017_E2221	165	9	165	Sphagnum	Sphagnum	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-17	Binney2017_E2221	663	1	663	Urtica	Urtica	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Binney2017_E2221	Alnus	Alnus	TRSH	28	8.5626911	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Binney2017_E2221	Betula	Betula	TRSH	150	45.87156	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Binney2017_E2221	Corylus	Corylus	TRSH	8	2.4464832	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Binney2017_E2221	Picea	Picea	TRSH	19	5.8103976	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Binney2017_E2221	Pinus sylvestris	Pinus sylvestris-type	TRSH	87	26.605505	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Binney2017_E2221	Quercus	Quercus	TRSH	2	0.6116208	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Binney2017_E2221	Artemisia	Artemisia	HERB	2	0.6116208	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Binney2017_E2221	Centaurea cyanus	Centaurea cyanus-type	HERB	1	0.3058104	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Binney2017_E2221	Cerealia	Cerealia-type	HERB	5	1.529052	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Binney2017_E2221	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	8	2.4464832	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Binney2017_E2221	Cyperaceae	Cyperaceae	HERB	2	0.6116208	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Binney2017_E2221	Plantago lanceolata	Plantago lanceolata-type	HERB	5	1.529052	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Binney2017_E2221	Ranunculus	Ranunculus-type	HERB	2	0.6116208	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Binney2017_E2221	Urtica	Urtica	HERB	1	0.3058104	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Binney2017_E2221	Dryopteris	Dryopteris-type	VACR	1	0.3058104	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Binney2017_E2221	Equisetum	Equisetum	VACR	4	1.2232416	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Binney2017_E2221	Polypodiaceae	Monolete fern spores	VACR	2	0.6116208	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Binney2017_E2221	Sphagnum	Sphagnum	NOPO	9		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.

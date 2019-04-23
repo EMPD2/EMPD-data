@@ -1,32 +1,32 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Remazani_a1	4	29	4	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-1	Remazani_a1	206	419	7	Carpinus type	Carpinus betulus	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-2	Remazani_a1	208	314	208	Quercus	Quercus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-3	Remazani_a1	13	3	13	Fraxinus	Fraxinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-4	Remazani_a1	12	30	12	Fagus	Fagus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-5	Remazani_a1	211	2	211	Juglans regia type	Juglans regia	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-6	Remazani_a1	212	10	2	Acer campestre type	Acer campestre-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-7	Remazani_a1	19	1	19	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-8	Remazani_a1	213	1	213	Diospyros	Diospyros	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-9	Remazani_a1	217	1	31	Zelkova	Ulmus/Zelkova	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-10	Remazani_a1	37	5	37	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-11	Remazani_a1	228	9	52	Chenopodiaceae and Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-12	Remazani_a1	236	1	236	Dryopteris filix-mas type	Dryopteris filix-mas-type	VACR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-13	Remazani_a1	265	7	106	Wild grass group	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-14	Remazani_a1	266	1	121	Rumex acetosa type	Rumex acetosa-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-15	Remazani_a1	275	3	275	Thalictrum flavum type	Thalictrum flavum-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-16	Remazani_a1	276	3	118	Non-operculate Rosaceae	Rosaceae	TRSH	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
-17	Remazani_a1	61	1	61	Cyperaceae	Cyperaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-18	Remazani_a1	282	1	53	Lactuceae undiff.  type	Asteraceae subf. Cichorioideae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-19	Remazani_a1	286	2	286	Plantago undiff. type	Plantago	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-20	Remazani_a1	288	22	118	Rosaceae  undiff.  type	Rosaceae	TRSH	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
-21	Remazani_a1	289	3	36	Umbelliferae  undiff. type	Apiaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-22	Remazani_a1	291	4	167	Monolete spore without perine	Monolete fern spores	VACR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-23	Remazani_a1	303	1	208	Quercus clumps of two	Quercus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-24	Remazani_a1	309	1	118	Rosaceae  undiff.  Type	Rosaceae	TRSH	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
-25	Remazani_a1	317	266	197	Ideterminable grains	Indeterminable: unknown	INUN	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-26	Remazani_a1	318	1	197	Indet. clumps	Indeterminable: unknown	INUN	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-27	Remazani_a1	319	1	197	Indet.	Indeterminable: unknown	INUN	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-28	Remazani_a1	322	1	322	Type 44: Ustulina deusta	Ustulina deusta	FUNG	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-29	Remazani_a1	323	18	323	Type 503	Type 503	INUN	GroupID taken from spreadsheet
-30	Remazani_a1	325	1	325	Arcella discoides C	Arcella discoides	RHIZ	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Remazani_a1	Acer campestre type	Acer campestre-type	TRSH	10	1.1441648	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Remazani_a1	Alnus	Alnus	TRSH	29	3.3180778	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Remazani_a1	Carpinus type	Carpinus betulus	TRSH	419	47.940503	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Remazani_a1	Diospyros	Diospyros	TRSH	1	0.11441648	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Remazani_a1	Fagus	Fagus	TRSH	30	3.4324943	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Remazani_a1	Fraxinus	Fraxinus	TRSH	3	0.34324943	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Remazani_a1	Juglans regia type	Juglans regia	TRSH	2	0.22883295	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Remazani_a1	Pinus	Pinus	TRSH	1	0.11441648	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Remazani_a1	Quercus	Quercus	TRSH	314	35.926773	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Remazani_a1	Quercus clumps of two	Quercus	TRSH	1	0.11441648	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Remazani_a1	Non-operculate Rosaceae	Rosaceae	TRSH	3	0.34324943	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
+Remazani_a1	Rosaceae  undiff.  type	Rosaceae	TRSH	22	2.5171625	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
+Remazani_a1	Rosaceae  undiff.  Type	Rosaceae	TRSH	1	0.11441648	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
+Remazani_a1	Zelkova	Ulmus/Zelkova	TRSH	1	0.11441648	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Remazani_a1	Umbelliferae  undiff. type	Apiaceae	HERB	3	0.34324943	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Remazani_a1	Artemisia	Artemisia	HERB	5	0.57208238	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Remazani_a1	Lactuceae undiff.  type	Asteraceae subf. Cichorioideae	HERB	1	0.11441648	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Remazani_a1	Chenopodiaceae and Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	9	1.0297483	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Remazani_a1	Cyperaceae	Cyperaceae	HERB	1	0.11441648	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Remazani_a1	Plantago undiff. type	Plantago	HERB	2	0.22883295	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Remazani_a1	Wild grass group	Poaceae	HERB	7	0.80091533	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Remazani_a1	Rumex acetosa type	Rumex acetosa-type	HERB	1	0.11441648	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Remazani_a1	Thalictrum flavum type	Thalictrum flavum-type	HERB	3	0.34324943	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Remazani_a1	Ideterminable grains	Indeterminable: unknown	INUN	266		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Remazani_a1	Indet. clumps	Indeterminable: unknown	INUN	1		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Remazani_a1	Indet.	Indeterminable: unknown	INUN	1		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Remazani_a1	Type 503	Type 503	INUN	18		GroupID taken from spreadsheet
+Remazani_a1	Arcella discoides C	Arcella discoides	RHIZ	1		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Remazani_a1	Dryopteris filix-mas type	Dryopteris filix-mas-type	VACR	1	0.11441648	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Remazani_a1	Monolete spore without perine	Monolete fern spores	VACR	4	0.4576659	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Remazani_a1	Type 44: Ustulina deusta	Ustulina deusta	FUNG	1		GroupID taken from POLNET. Only one taxon matched that acc_varname.

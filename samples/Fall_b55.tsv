@@ -1,17 +1,17 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Fall_b55	4	3	4	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-1	Fall_b55	1622	30	28	Cupressus type	Juniperus-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-2	Fall_b55	219	37	28	Juniperus type	Juniperus-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-3	Fall_b55	455	1	95	Olea	Olea europaea	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-4	Fall_b55	1625	209	19	Pinus sp	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-5	Fall_b55	1626	37	148	Pinus dip	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-6	Fall_b55	1627	36	147	Pinus hap	Pinus cembra-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-7	Fall_b55	103	2	103	Pistacia	Pistacia	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-8	Fall_b55	208	2	208	Quercus	Quercus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-9	Fall_b55	1651	1	1651	Asteraceae Helianthus type	Helianthus	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-10	Fall_b55	1347	14	53	Asteraceae Liguliflorae	Asteraceae subf. Cichorioideae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-11	Fall_b55	1663	4	52	Chenopodiaceae Sueda/Atriplex type	Chenopodiaceae/Amaranthaceae	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-12	Fall_b55	55	1	55	Cistus	Cistus	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-13	Fall_b55	1674	21	1674	Matthiola sp	Matthiola	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-14	Fall_b55	106	3	106	Poaceae	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-15	Fall_b55	1681	1	50	Poaceae Cerealia	Cerealia-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Fall_b55	Alnus	Alnus	TRSH	3	0.74626866	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Fall_b55	Cistus	Cistus	TRSH	1	0.24875622	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Fall_b55	Cupressus type	Juniperus-type	TRSH	30	7.4626866	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Fall_b55	Juniperus type	Juniperus-type	TRSH	37	9.2039801	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Fall_b55	Olea	Olea europaea	TRSH	1	0.24875622	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Fall_b55	Pinus sp	Pinus	TRSH	209	51.99005	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Fall_b55	Pinus hap	Pinus cembra-type	TRSH	36	8.9552239	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Fall_b55	Pinus dip	Pinus sylvestris-type	TRSH	37	9.2039801	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Fall_b55	Pistacia	Pistacia	TRSH	2	0.49751244	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Fall_b55	Quercus	Quercus	TRSH	2	0.49751244	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Fall_b55	Asteraceae Liguliflorae	Asteraceae subf. Cichorioideae	HERB	14	3.4825871	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Fall_b55	Poaceae Cerealia	Cerealia-type	HERB	1	0.24875622	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Fall_b55	Chenopodiaceae Sueda/Atriplex type	Chenopodiaceae/Amaranthaceae	HERB	4	0.99502488	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Fall_b55	Asteraceae Helianthus type	Helianthus	HERB	1	0.24875622	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Fall_b55	Matthiola sp	Matthiola	HERB	21	5.2238806	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Fall_b55	Poaceae	Poaceae	HERB	3	0.74626866	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.

@@ -1,24 +1,24 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Muller_a39	16	31	16	Larix	Larix/Pseudotsuga	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-1	Muller_a39	18	4	18	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-2	Muller_a39	1059	193	148	Pinus diploxylon-type	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-3	Muller_a39	1953	2	1953	Pinaceae	Pinaceae	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-4	Muller_a39	149	114	149	Betula sect. Nanae	Betula nana-type	DWAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-5	Muller_a39	2971	16	151	Alnus fruticosa	Alnus viridis	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-6	Muller_a39	1060	2	147	Pinus haploxylon-type	Pinus cembra-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-7	Muller_a39	25	1	25	Salix	Salix	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-8	Muller_a39	61	40	61	Cyperaceae	Cyperaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-9	Muller_a39	106	13	106	Poaceae	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-10	Muller_a39	42	1	42	Brassicaceae	Brassicaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-11	Muller_a39	11	3	11	Ericaceae	Ericales (tetrad)	DWAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-12	Muller_a39	2995	1	750	Ericaceae empetrum-type	Empetrum nigrum	DWAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-13	Muller_a39	2996	4	552	Ericaceae vaccinium-type	Vaccinium	DWAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-14	Muller_a39	156	5	156	Ranunculaceae	Ranunculaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-15	Muller_a39	118	1	118	Rosaceae	Rosaceae	TRSH	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
-16	Muller_a39	3005	2	683	Delitschia	Fungi	FUNG	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-17	Muller_a39	682	2	570	Podospora	Podospora-type	FUNG	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-18	Muller_a39	2990	1	2780	Stomata	Stomata	VEMI	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-19	Muller_a39	3008	11	197	Spores indeterminata	Indeterminable: unknown	INUN	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-20	Muller_a39	2979	431	197	Pollen, terrestrial	Indeterminable: unknown	INUN	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-21	Muller_a39	3009	43	571	Lycopodium spores counted	Lycopodium (counted)	NOPO	GroupID taken from spreadsheet
-22	Muller_a39	3010	21408	3010	Pollen per unit sediment mass	Pollen per unit sediment mass (/g)	NOPO	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Muller_a39	Alnus fruticosa	Alnus viridis	TRSH	16	3.712297	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Muller_a39	Betula sect. Nanae	Betula nana-type	DWAR	114	26.450116	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Muller_a39	Ericaceae empetrum-type	Empetrum nigrum	DWAR	1	0.23201856	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Muller_a39	Ericaceae	Ericales (tetrad)	DWAR	3	0.69605568	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Muller_a39	Larix	Larix/Pseudotsuga	TRSH	31	7.1925754	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Muller_a39	Picea	Picea	TRSH	4	0.92807425	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Muller_a39	Pinaceae	Pinaceae	TRSH	2	0.46403712	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Muller_a39	Pinus haploxylon-type	Pinus cembra-type	TRSH	2	0.46403712	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Muller_a39	Pinus diploxylon-type	Pinus sylvestris-type	TRSH	193	44.779582	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Muller_a39	Rosaceae	Rosaceae	TRSH	1	0.23201856	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
+Muller_a39	Salix	Salix	TRSH	1	0.23201856	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Muller_a39	Ericaceae vaccinium-type	Vaccinium	DWAR	4	0.92807425	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Muller_a39	Brassicaceae	Brassicaceae	HERB	1	0.23201856	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Muller_a39	Cyperaceae	Cyperaceae	HERB	40	9.2807425	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Muller_a39	Poaceae	Poaceae	HERB	13	3.0162413	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Muller_a39	Ranunculaceae	Ranunculaceae	HERB	5	1.1600928	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Muller_a39	Spores indeterminata	Indeterminable: unknown	INUN	11		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Muller_a39	Pollen, terrestrial	Indeterminable: unknown	INUN	431		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Muller_a39	Delitschia	Fungi	FUNG	2		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Muller_a39	Lycopodium spores counted	Lycopodium (counted)	NOPO	43		GroupID taken from spreadsheet
+Muller_a39	Podospora	Podospora-type	FUNG	2		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Muller_a39	Pollen per unit sediment mass	Pollen per unit sediment mass (/g)	NOPO	21408		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Muller_a39	Stomata	Stomata	VEMI	1		GroupID taken from POLNET. Only one taxon matched that acc_varname.

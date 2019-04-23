@@ -1,17 +1,17 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Ryabogina_a80	4	1	4	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-1	Ryabogina_a80	1458	3	5	Betula or Bet.s.Albae	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-2	Ryabogina_a80	1459	179	149	Bet._nana	Betula nana-type	DWAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-3	Ryabogina_a80	9	4	9	Corylus	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-4	Ryabogina_a80	18	6	18	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-5	Ryabogina_a80	1462	271	148	Pin._sylv.	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-6	Ryabogina_a80	25	1	25	Salix	Salix	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-7	Ryabogina_a80	1475	1	46	Caryop-eae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-8	Ryabogina_a80	69	1	69	Fabaceae	Fabaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-9	Ryabogina_a80	1532	1	193	Scroph-eae	Scrophulariaceae (colporate-reticulate)	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-10	Ryabogina_a80	1556	6	202	Lyc._alpinum	Lycopodium clavatum-type	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-11	Ryabogina_a80	1559	5	1559	Lyc._clavaum	Lycopodium clavatum	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-12	Ryabogina_a80	1562	1	204	Lyc._selago	Huperzia selago	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-13	Ryabogina_a80	1567	1	167	Polyp-eae	Monolete fern spores	VACR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-14	Ryabogina_a80	165	110	165	Sphagnum	Sphagnum	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-15	Ryabogina_a80	1580	124	197	Sp	Indeterminable: unknown	INUN	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Ryabogina_a80	Alnus	Alnus	TRSH	1	0.20790021	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Ryabogina_a80	Betula or Bet.s.Albae	Betula	TRSH	3	0.62370062	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Ryabogina_a80	Bet._nana	Betula nana-type	DWAR	179	37.214137	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Ryabogina_a80	Corylus	Corylus	TRSH	4	0.83160083	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Ryabogina_a80	Picea	Picea	TRSH	6	1.2474012	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Ryabogina_a80	Pin._sylv.	Pinus sylvestris-type	TRSH	271	56.340956	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Ryabogina_a80	Salix	Salix	TRSH	1	0.20790021	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Ryabogina_a80	Caryop-eae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	1	0.20790021	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Ryabogina_a80	Fabaceae	Fabaceae	HERB	1	0.20790021	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Ryabogina_a80	Scroph-eae	Scrophulariaceae (colporate-reticulate)	HERB	1	0.20790021	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Ryabogina_a80	Sp	Indeterminable: unknown	INUN	124		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Ryabogina_a80	Lyc._selago	Huperzia selago	VACR	1	0.20790021	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Ryabogina_a80	Lyc._clavaum	Lycopodium clavatum	VACR	5	1.039501	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Ryabogina_a80	Lyc._alpinum	Lycopodium clavatum-type	VACR	6	1.2474012	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Ryabogina_a80	Polyp-eae	Monolete fern spores	VACR	1	0.20790021	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Ryabogina_a80	Sphagnum	Sphagnum	NOPO	110		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.

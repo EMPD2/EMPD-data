@@ -1,25 +1,25 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Di_Rita_a12	340	3	4	ALNUS	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-1	Di_Rita_a12	344	1	37	ARTEMISIA	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-2	Di_Rita_a12	345	4	180	ASTEROIDEAE	Asteraceae subf. Asteroideae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-3	Di_Rita_a12	348	2	42	BRASSICACEAE	Brassicaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-4	Di_Rita_a12	351	1	351	CANNABACEAE	Cannabaceae/Urticaceae	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-5	Di_Rita_a12	358	1	50	cereal type	Cerealia-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-6	Di_Rita_a12	359	14	52	CHENOPODIACEAE/AMARANTHACEAE	Chenopodiaceae/Amaranthaceae	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-7	Di_Rita_a12	360	13	53	CICHORIOIDEAE	Asteraceae subf. Cichorioideae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-8	Di_Rita_a12	366	124	61	CYPERACEAE/JUNCACEAE	Cyperaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-9	Di_Rita_a12	373	1	12	FAGUS	Fagus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-10	Di_Rita_a12	381	14	197	Indeterminable grains	Indeterminable: unknown	INUN	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-11	Di_Rita_a12	384	3	28	JUNIPERUS	Juniperus-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-12	Di_Rita_a12	394	7	95	OLEA	Olea europaea	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-13	Di_Rita_a12	398	3	101	PHILLYREA	Phillyrea	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-14	Di_Rita_a12	400	4	19	PINUS	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-15	Di_Rita_a12	402	1	286	PLANTAGO	Plantago	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-16	Di_Rita_a12	404	10	106	POACEAE	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-17	Di_Rita_a12	410	4	22	QUERCUS COCCIFERA type	Quercus ilex-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-18	Di_Rita_a12	411	4	21	QUERCUS deciduous	Quercus robur-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-19	Di_Rita_a12	416	6	156	RANUNCULACEAE	Ranunculaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-20	Di_Rita_a12	422	1	25	SALIX	Salix	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-21	Di_Rita_a12	426	26	196	SPARGANIUM/TYPHA	Sparganium-type	AQUA	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-22	Di_Rita_a12	431	1	137	THALICTRUM type	Thalictrum	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-23	Di_Rita_a12	434	23	433	TYPHA LATIFOLIA	Typha latifolia	HELO	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Di_Rita_a12	ALNUS	Alnus	TRSH	3	1.4423077	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Di_Rita_a12	FAGUS	Fagus	TRSH	1	0.48076923	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Di_Rita_a12	JUNIPERUS	Juniperus-type	TRSH	3	1.4423077	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Di_Rita_a12	OLEA	Olea europaea	TRSH	7	3.3653846	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Di_Rita_a12	PHILLYREA	Phillyrea	TRSH	3	1.4423077	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Di_Rita_a12	PINUS	Pinus	TRSH	4	1.9230769	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Di_Rita_a12	QUERCUS COCCIFERA type	Quercus ilex-type	TRSH	4	1.9230769	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Di_Rita_a12	QUERCUS deciduous	Quercus robur-type	TRSH	4	1.9230769	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Di_Rita_a12	SALIX	Salix	TRSH	1	0.48076923	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Di_Rita_a12	ARTEMISIA	Artemisia	HERB	1	0.48076923	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Di_Rita_a12	ASTEROIDEAE	Asteraceae subf. Asteroideae	HERB	4	1.9230769	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Di_Rita_a12	CICHORIOIDEAE	Asteraceae subf. Cichorioideae	HERB	13	6.25	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Di_Rita_a12	BRASSICACEAE	Brassicaceae	HERB	2	0.96153846	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Di_Rita_a12	CANNABACEAE	Cannabaceae/Urticaceae	HERB	1	0.48076923	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Di_Rita_a12	cereal type	Cerealia-type	HERB	1	0.48076923	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Di_Rita_a12	CHENOPODIACEAE/AMARANTHACEAE	Chenopodiaceae/Amaranthaceae	HERB	14	6.7307692	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Di_Rita_a12	CYPERACEAE/JUNCACEAE	Cyperaceae	HERB	124	59.615385	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Di_Rita_a12	PLANTAGO	Plantago	HERB	1	0.48076923	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Di_Rita_a12	POACEAE	Poaceae	HERB	10	4.8076923	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Di_Rita_a12	RANUNCULACEAE	Ranunculaceae	HERB	6	2.8846154	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Di_Rita_a12	THALICTRUM type	Thalictrum	HERB	1	0.48076923	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Di_Rita_a12	SPARGANIUM/TYPHA	Sparganium-type	AQUA	26	12.5	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Di_Rita_a12	TYPHA LATIFOLIA	Typha latifolia	HELO	23	11.057692	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Di_Rita_a12	Indeterminable grains	Indeterminable: unknown	INUN	14		GroupID taken from POLNET. Only one taxon matched that acc_varname.

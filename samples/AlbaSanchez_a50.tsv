@@ -1,11 +1,11 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	AlbaSanchez_a50	441	15	441	Abies marocana	Abies marocana	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-1	AlbaSanchez_a50	442	241	356	Cedrus atlantica	Cedrus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-2	AlbaSanchez_a50	22	5	22	Quercus evergreen	Quercus ilex-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-3	AlbaSanchez_a50	443	4	148	Pinus sylvestris/nigra/uncinata t.	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-4	AlbaSanchez_a50	448	2	448	Genisteae	Genista-group	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-5	AlbaSanchez_a50	455	11	95	Olea	Olea europaea	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-6	AlbaSanchez_a50	101	3	101	Phillyrea	Phillyrea	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-7	AlbaSanchez_a50	460	2	53	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-8	AlbaSanchez_a50	465	2	58	Plantago coronopus t.	Plantago coronopus-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-9	AlbaSanchez_a50	571	2	571	Lycopodium (counted)	Lycopodium (counted)	NOPO	GroupID taken from spreadsheet
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+AlbaSanchez_a50	Abies marocana	Abies marocana	TRSH	15	5.2631579	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a50	Cedrus atlantica	Cedrus	TRSH	241	84.561404	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+AlbaSanchez_a50	Genisteae	Genista-group	TRSH	2	0.70175439	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a50	Olea	Olea europaea	TRSH	11	3.8596491	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a50	Phillyrea	Phillyrea	TRSH	3	1.0526316	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a50	Pinus sylvestris/nigra/uncinata t.	Pinus sylvestris-type	TRSH	4	1.4035088	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a50	Quercus evergreen	Quercus ilex-type	TRSH	5	1.754386	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a50	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	2	0.70175439	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+AlbaSanchez_a50	Plantago coronopus t.	Plantago coronopus-type	HERB	2	0.70175439	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a50	Lycopodium (counted)	Lycopodium (counted)	NOPO	2		GroupID taken from spreadsheet

@@ -1,17 +1,17 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Schofield_a48	4	1	4	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-1	Schofield_a48	948	6	150	Betula pubescens	Betula pubescens-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-2	Schofield_a48	18	2	18	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-3	Schofield_a48	949	15	949	Betula glandulosa	Betula glandulosa	TRSH	GroupID taken from spreadsheet
-4	Schofield_a48	25	17	25	Salix	Salix	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-5	Schofield_a48	36	6	36	Apiaceae	Apiaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-6	Schofield_a48	61	150	61	Cyperaceae	Cyperaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-7	Schofield_a48	106	203	106	Poaceae	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-8	Schofield_a48	637	1	524	Potentilla-type	Potentilla-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-9	Schofield_a48	965	79	113	Ranunculus acris	Ranunculus acris-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-10	Schofield_a48	121	23	121	Rumex acetosa	Rumex acetosa-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-11	Schofield_a48	122	3	122	Rumex acetosella	Rumex acetosella	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-12	Schofield_a48	970	9	970	Thalictrum alpinum	Thalictrum alpinum-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-13	Schofield_a48	668	1	133	Potamogeton	Potamogeton-type	AQUA	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-14	Schofield_a48	974	2	166	Equisitum	Equisetum	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-15	Schofield_a48	981	10	197	Damaged/indeterminable	Indeterminable: unknown	INUN	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Schofield_a48	Alnus	Alnus	TRSH	1	0.1934236	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Schofield_a48	Betula glandulosa	Betula glandulosa	TRSH	15	2.901354	GroupID taken from spreadsheet
+Schofield_a48	Betula pubescens	Betula pubescens-type	TRSH	6	1.1605416	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Schofield_a48	Picea	Picea	TRSH	2	0.3868472	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Schofield_a48	Salix	Salix	TRSH	17	3.2882012	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Schofield_a48	Apiaceae	Apiaceae	HERB	6	1.1605416	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Schofield_a48	Cyperaceae	Cyperaceae	HERB	150	29.01354	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Schofield_a48	Poaceae	Poaceae	HERB	203	39.26499	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Schofield_a48	Potentilla-type	Potentilla-type	HERB	1	0.1934236	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Schofield_a48	Ranunculus acris	Ranunculus acris-type	HERB	79	15.280464	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Schofield_a48	Rumex acetosa	Rumex acetosa-type	HERB	23	4.4487427	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Schofield_a48	Rumex acetosella	Rumex acetosella	HERB	3	0.58027079	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Schofield_a48	Thalictrum alpinum	Thalictrum alpinum-type	HERB	9	1.7408124	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Schofield_a48	Potamogeton	Potamogeton-type	AQUA	1	0.1934236	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Schofield_a48	Damaged/indeterminable	Indeterminable: unknown	INUN	10		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Schofield_a48	Equisitum	Equisetum	VACR	2	0.3868472	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.

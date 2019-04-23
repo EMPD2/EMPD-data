@@ -1,18 +1,18 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Fall_b19	4	1	4	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-1	Fall_b19	1619	1	47	Castenea	Castanea sativa	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-2	Fall_b19	1622	12	28	Cupressus type	Juniperus-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-3	Fall_b19	219	46	28	Juniperus type	Juniperus-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-4	Fall_b19	455	6	95	Olea	Olea europaea	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-5	Fall_b19	1624	1	97	Ostrya/Carpinus	Ostrya/Carpinus orientalis	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-6	Fall_b19	1625	430	19	Pinus sp	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-7	Fall_b19	1627	2	147	Pinus hap	Pinus cembra-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-8	Fall_b19	103	1	103	Pistacia	Pistacia	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-9	Fall_b19	116	1	116	Rhamnaceae	Rhamnaceae	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-10	Fall_b19	1637	1	621	Apiaceae, Heracleum	Heracleum	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-11	Fall_b19	1347	8	53	Asteraceae Liguliflorae	Asteraceae subf. Cichorioideae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-12	Fall_b19	1663	2	52	Chenopodiaceae Sueda/Atriplex type	Chenopodiaceae/Amaranthaceae	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-13	Fall_b19	55	1	55	Cistus	Cistus	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-14	Fall_b19	1673	1	1673	Lithospermum	Lithospermum officinale	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-15	Fall_b19	106	18	106	Poaceae	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-16	Fall_b19	1683	2	126	Poterium	Sanguisorba minor-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Fall_b19	Alnus	Alnus	TRSH	1	0.18726592	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Fall_b19	Castenea	Castanea sativa	TRSH	1	0.18726592	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Fall_b19	Cistus	Cistus	TRSH	1	0.18726592	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Fall_b19	Cupressus type	Juniperus-type	TRSH	12	2.247191	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Fall_b19	Juniperus type	Juniperus-type	TRSH	46	8.6142322	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Fall_b19	Olea	Olea europaea	TRSH	6	1.1235955	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Fall_b19	Ostrya/Carpinus	Ostrya/Carpinus orientalis	TRSH	1	0.18726592	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Fall_b19	Pinus sp	Pinus	TRSH	430	80.524345	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Fall_b19	Pinus hap	Pinus cembra-type	TRSH	2	0.37453184	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Fall_b19	Pistacia	Pistacia	TRSH	1	0.18726592	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Fall_b19	Rhamnaceae	Rhamnaceae	TRSH	1	0.18726592	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Fall_b19	Asteraceae Liguliflorae	Asteraceae subf. Cichorioideae	HERB	8	1.4981273	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Fall_b19	Chenopodiaceae Sueda/Atriplex type	Chenopodiaceae/Amaranthaceae	HERB	2	0.37453184	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Fall_b19	Apiaceae, Heracleum	Heracleum	HERB	1	0.18726592	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Fall_b19	Lithospermum	Lithospermum officinale	HERB	1	0.18726592	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Fall_b19	Poaceae	Poaceae	HERB	18	3.3707865	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Fall_b19	Poterium	Sanguisorba minor-type	HERB	2	0.37453184	GroupID taken from POLNET. Only one taxon matched that acc_varname.

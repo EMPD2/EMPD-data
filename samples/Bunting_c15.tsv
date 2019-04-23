@@ -1,33 +1,33 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Bunting_c15	982	837	892	Exotic	Exotics (counted)	NOPO	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-1	Bunting_c15	983	1	983	sediment volume (cm^3)	Sediment volume	NOPO	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-2	Bunting_c15	984	2	984	number of exotic tablets	Tablets (added)	NOPO	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-3	Bunting_c15	985	10793	985	exotic per tablet	Number of exotics per tablet	NOPO	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-4	Bunting_c15	986	1	471	Plantago major/media	Plantago major/P. media-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-5	Bunting_c15	73	2	73	Filipendula	Filipendula	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-6	Bunting_c15	13	4	13	Fraxinus	Fraxinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-7	Bunting_c15	592	84	470	Calluna	Calluna vulgaris	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-8	Bunting_c15	25	4	25	Salix	Salix	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-9	Bunting_c15	2	1	2	Acer	Acer campestre-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-10	Bunting_c15	61	10	61	Cyperaceae	Cyperaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-11	Bunting_c15	799	63	148	Pinus sylvestris	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-12	Bunting_c15	988	227	17	Myrica type	Myrica	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-13	Bunting_c15	12	2	12	Fagus	Fagus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-14	Bunting_c15	4	6	4	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-15	Bunting_c15	106	149	106	Poaceae	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-16	Bunting_c15	208	6	208	Quercus	Quercus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-17	Bunting_c15	990	2	290	Ranunculus type	Ranunculus-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-18	Bunting_c15	991	7	120	Rumex undif.	Rumex/Oxyria	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-19	Bunting_c15	5	48	5	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-20	Bunting_c15	992	2	9	Corylus type	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-21	Bunting_c15	18	2	18	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-22	Bunting_c15	993	2	50	Cereal type	Cerealia-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-23	Bunting_c15	52	1	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-24	Bunting_c15	953	4	953	Vaccinium-type	Vaccinium-type	DWAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-25	Bunting_c15	36	1	36	Apiaceae	Apiaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-26	Bunting_c15	42	1	42	Brassicaceae	Brassicaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-27	Bunting_c15	142	9	142	Urtica dioica	Urtica dioica	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-28	Bunting_c15	107	1	107	Populus	Populus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-29	Bunting_c15	165	6	165	Sphagnum	Sphagnum	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-30	Bunting_c15	978	1	167	Pteropsida (monolete) indet.	Monolete fern spores	VACR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-31	Bunting_c15	668	1	133	Potamogeton	Potamogeton-type	AQUA	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Bunting_c15	Acer	Acer campestre-type	TRSH	1	0.15625	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Bunting_c15	Alnus	Alnus	TRSH	6	0.9375	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Bunting_c15	Betula	Betula	TRSH	48	7.5	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Bunting_c15	Calluna	Calluna vulgaris	TRSH	84	13.125	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Bunting_c15	Corylus type	Corylus	TRSH	2	0.3125	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Bunting_c15	Fagus	Fagus	TRSH	2	0.3125	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Bunting_c15	Fraxinus	Fraxinus	TRSH	4	0.625	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Bunting_c15	Myrica type	Myrica	TRSH	227	35.46875	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Bunting_c15	Picea	Picea	TRSH	2	0.3125	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Bunting_c15	Pinus sylvestris	Pinus sylvestris-type	TRSH	63	9.84375	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Bunting_c15	Populus	Populus	TRSH	1	0.15625	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Bunting_c15	Quercus	Quercus	TRSH	6	0.9375	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Bunting_c15	Salix	Salix	TRSH	4	0.625	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Bunting_c15	Vaccinium-type	Vaccinium-type	DWAR	4	0.625	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Bunting_c15	Apiaceae	Apiaceae	HERB	1	0.15625	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Bunting_c15	Brassicaceae	Brassicaceae	HERB	1	0.15625	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Bunting_c15	Cereal type	Cerealia-type	HERB	2	0.3125	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Bunting_c15	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.15625	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Bunting_c15	Cyperaceae	Cyperaceae	HERB	10	1.5625	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Bunting_c15	Filipendula	Filipendula	HERB	2	0.3125	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Bunting_c15	Plantago major/media	Plantago major/P. media-type	HERB	1	0.15625	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Bunting_c15	Poaceae	Poaceae	HERB	149	23.28125	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Bunting_c15	Ranunculus type	Ranunculus-type	HERB	2	0.3125	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Bunting_c15	Rumex undif.	Rumex/Oxyria	HERB	7	1.09375	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Bunting_c15	Urtica dioica	Urtica dioica	HERB	9	1.40625	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Bunting_c15	Potamogeton	Potamogeton-type	AQUA	1	0.15625	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Bunting_c15	Exotic	Exotics (counted)	NOPO	837		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Bunting_c15	Pteropsida (monolete) indet.	Monolete fern spores	VACR	1	0.15625	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Bunting_c15	exotic per tablet	Number of exotics per tablet	NOPO	10793		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Bunting_c15	sediment volume (cm^3)	Sediment volume	NOPO	1		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Bunting_c15	Sphagnum	Sphagnum	NOPO	6		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Bunting_c15	number of exotic tablets	Tablets (added)	NOPO	2		GroupID taken from POLNET. Only one taxon matched that acc_varname.

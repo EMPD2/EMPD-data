@@ -1,12 +1,12 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Tarasov_a708	6	0.48	6	Camellia	Camellia	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-1	Tarasov_a708	8	41.43	8	Castanopsis	Castanopsis	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-2	Tarasov_a708	9	0.48	9	Corylus	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-3	Tarasov_a708	10	32.38	10	Cryptomeria	Cryptomeria-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-4	Tarasov_a708	17	3.33	17	Myrica	Myrica	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-5	Tarasov_a708	19	1.43	19	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-6	Tarasov_a708	21	4.29	21	Quercus deciduous	Quercus robur-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-7	Tarasov_a708	22	13.33	22	Quercus evergreen	Quercus ilex-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-8	Tarasov_a708	24	1.43	24	Rhus	Rhus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-9	Tarasov_a708	28	0.95	28	Taxodiaceae	Juniperus-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-10	Tarasov_a708	32	0.48	32	Viburnum	Viburnum	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Tarasov_a708	Camellia	Camellia	TRSH	0.48	0.479952	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Tarasov_a708	Castanopsis	Castanopsis	TRSH	41.43	41.425857	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Tarasov_a708	Corylus	Corylus	TRSH	0.48	0.479952	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Tarasov_a708	Cryptomeria	Cryptomeria-type	TRSH	32.38	32.376762	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Tarasov_a708	Taxodiaceae	Juniperus-type	TRSH	0.95	0.94990501	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Tarasov_a708	Myrica	Myrica	TRSH	3.33	3.329667	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Tarasov_a708	Pinus	Pinus	TRSH	1.43	1.429857	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Tarasov_a708	Quercus evergreen	Quercus ilex-type	TRSH	13.33	13.328667	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Tarasov_a708	Quercus deciduous	Quercus robur-type	TRSH	4.29	4.289571	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Tarasov_a708	Rhus	Rhus	TRSH	1.43	1.429857	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Tarasov_a708	Viburnum	Viburnum	TRSH	0.48	0.479952	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.

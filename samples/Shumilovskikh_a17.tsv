@@ -1,30 +1,30 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Shumilovskikh_a17	4	25	4	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-1	Shumilovskikh_a17	574	12	7	Carpinus betulus	Carpinus betulus	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-2	Shumilovskikh_a17	454	5	47	Castanea	Castanea sativa	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-3	Shumilovskikh_a17	9	39	9	Corylus	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-4	Shumilovskikh_a17	11	1	11	Ericaceae	Ericales (tetrad)	DWAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-5	Shumilovskikh_a17	12	14	12	Fagus	Fagus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-6	Shumilovskikh_a17	85	1	85	Juniperus	Juniperus communis-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-7	Shumilovskikh_a17	583	4	97	Ostrya-type	Ostrya/Carpinus orientalis	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-8	Shumilovskikh_a17	101	4	101	Phillyrea	Phillyrea	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-9	Shumilovskikh_a17	18	191	18	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-10	Shumilovskikh_a17	1059	21	148	Pinus diploxylon-type	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-11	Shumilovskikh_a17	173	9	21	Quercus robur-type	Quercus robur-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-12	Shumilovskikh_a17	25	2	25	Salix	Salix	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-13	Shumilovskikh_a17	1067	1	31	Ulmus / Zelkova	Ulmus/Zelkova	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-14	Shumilovskikh_a17	36	1	36	Apiaceae	Apiaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-15	Shumilovskikh_a17	155	2	155	Asteraceae	Asteraceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-16	Shumilovskikh_a17	1070	1	1070	Campanula trachelium-type	Campanula trachelium-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-17	Shumilovskikh_a17	1075	3	50	Cerealia-type	Cerealia-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-18	Shumilovskikh_a17	52	1	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-19	Shumilovskikh_a17	69	3	69	Fabaceae	Fabaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-20	Shumilovskikh_a17	721	4	53	Liguliflorae	Asteraceae subf. Cichorioideae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-21	Shumilovskikh_a17	1082	2	34	Matricaria-type	Matricaria-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-22	Shumilovskikh_a17	1085	1	87	Plantago lanceolata-type	Plantago lanceolata-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-23	Shumilovskikh_a17	106	14	106	Poaceae	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-24	Shumilovskikh_a17	137	1	137	Thalictrum	Thalictrum	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-25	Shumilovskikh_a17	1097	1	1097	Valeriana officinalis-type	Valeriana officinalis-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-26	Shumilovskikh_a17	1105	2	1105	4-5 colporat 20 mkm, psilat, schmetterlingsporen	4-5 colporat 20 mkm, psilat, schmetterlingsporen	NOPO	GroupID taken from spreadsheet
-27	Shumilovskikh_a17	1106	4	197	Indeterminata	Indeterminable: unknown	INUN	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-28	Shumilovskikh_a17	1108	2	197	Varia	Indeterminable: unknown	INUN	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Shumilovskikh_a17	Alnus	Alnus	TRSH	25	6.8870523	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Shumilovskikh_a17	Carpinus betulus	Carpinus betulus	TRSH	12	3.3057851	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Shumilovskikh_a17	Castanea	Castanea sativa	TRSH	5	1.3774105	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Shumilovskikh_a17	Corylus	Corylus	TRSH	39	10.743802	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Shumilovskikh_a17	Ericaceae	Ericales (tetrad)	DWAR	1	0.27548209	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Shumilovskikh_a17	Fagus	Fagus	TRSH	14	3.8567493	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Shumilovskikh_a17	Juniperus	Juniperus communis-type	TRSH	1	0.27548209	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Shumilovskikh_a17	Ostrya-type	Ostrya/Carpinus orientalis	TRSH	4	1.1019284	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Shumilovskikh_a17	Phillyrea	Phillyrea	TRSH	4	1.1019284	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Shumilovskikh_a17	Picea	Picea	TRSH	191	52.61708	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Shumilovskikh_a17	Pinus diploxylon-type	Pinus sylvestris-type	TRSH	21	5.785124	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Shumilovskikh_a17	Quercus robur-type	Quercus robur-type	TRSH	9	2.4793388	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Shumilovskikh_a17	Salix	Salix	TRSH	2	0.55096419	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Shumilovskikh_a17	Ulmus / Zelkova	Ulmus/Zelkova	TRSH	1	0.27548209	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Shumilovskikh_a17	Apiaceae	Apiaceae	HERB	1	0.27548209	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Shumilovskikh_a17	Asteraceae	Asteraceae	HERB	2	0.55096419	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Shumilovskikh_a17	Liguliflorae	Asteraceae subf. Cichorioideae	HERB	4	1.1019284	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Shumilovskikh_a17	Campanula trachelium-type	Campanula trachelium-type	HERB	1	0.27548209	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Shumilovskikh_a17	Cerealia-type	Cerealia-type	HERB	3	0.82644628	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Shumilovskikh_a17	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.27548209	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Shumilovskikh_a17	Fabaceae	Fabaceae	HERB	3	0.82644628	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Shumilovskikh_a17	Matricaria-type	Matricaria-type	HERB	2	0.55096419	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Shumilovskikh_a17	Plantago lanceolata-type	Plantago lanceolata-type	HERB	1	0.27548209	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Shumilovskikh_a17	Poaceae	Poaceae	HERB	14	3.8567493	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Shumilovskikh_a17	Thalictrum	Thalictrum	HERB	1	0.27548209	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Shumilovskikh_a17	Valeriana officinalis-type	Valeriana officinalis-type	HERB	1	0.27548209	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Shumilovskikh_a17	Indeterminata	Indeterminable: unknown	INUN	4		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Shumilovskikh_a17	Varia	Indeterminable: unknown	INUN	2		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Shumilovskikh_a17	4-5 colporat 20 mkm, psilat, schmetterlingsporen	4-5 colporat 20 mkm, psilat, schmetterlingsporen	NOPO	2		GroupID taken from spreadsheet

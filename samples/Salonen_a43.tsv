@@ -1,29 +1,29 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Salonen_a43	4	33	4	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-1	Salonen_a43	1708	1	244	Ambrosia type	Ambrosia/Xanthium	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-2	Salonen_a43	242	1	34	Anthemis type	Matricaria-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-3	Salonen_a43	37	10	37	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-4	Salonen_a43	5	273	5	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-5	Salonen_a43	662	1	221	Cannabis/Humulus	Humulus/Cannabis	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-6	Salonen_a43	768	1	283	Centaurea	Centaurea	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-7	Salonen_a43	50	4	50	Cerealia	Cerealia-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-8	Salonen_a43	52	9	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-9	Salonen_a43	9	2	9	Corylus	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-10	Salonen_a43	61	3	61	Cyperaceae	Cyperaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-11	Salonen_a43	1715	1	783	Dryopteris type	Dryopteris-type	VACR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-12	Salonen_a43	73	1	73	Filipendula	Filipendula	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-13	Salonen_a43	1717	20	106	Graminae	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-14	Salonen_a43	18	9	18	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-15	Salonen_a43	19	101	19	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-16	Salonen_a43	87	2	87	Plantago lanceolata	Plantago lanceolata-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-17	Salonen_a43	107	5	107	Populus	Populus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-18	Salonen_a43	208	1	208	Quercus	Quercus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-19	Salonen_a43	156	4	156	Ranunculaceae	Ranunculaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-20	Salonen_a43	122	2	122	Rumex acetosella	Rumex acetosella	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-21	Salonen_a43	940	1	267	Rumex obtusifolius type	Rumex crispus-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-22	Salonen_a43	25	9	25	Salix	Salix	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-23	Salonen_a43	165	13	165	Sphagnum	Sphagnum	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-24	Salonen_a43	29	2	29	Tilia	Tilia	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-25	Salonen_a43	1734	2	760	Trientalis europea	Trientalis europaea	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-26	Salonen_a43	31	2	31	Ulmus	Ulmus/Zelkova	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-27	Salonen_a43	541	1	240	Veronica	Veronica-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Salonen_a43	Alnus	Alnus	TRSH	33	6.5868263	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Salonen_a43	Betula	Betula	TRSH	273	54.491018	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Salonen_a43	Corylus	Corylus	TRSH	2	0.3992016	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Salonen_a43	Picea	Picea	TRSH	9	1.7964072	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Salonen_a43	Pinus	Pinus	TRSH	101	20.159681	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Salonen_a43	Populus	Populus	TRSH	5	0.99800399	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Salonen_a43	Quercus	Quercus	TRSH	1	0.1996008	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Salonen_a43	Salix	Salix	TRSH	9	1.7964072	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Salonen_a43	Tilia	Tilia	TRSH	2	0.3992016	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Salonen_a43	Ulmus	Ulmus/Zelkova	TRSH	2	0.3992016	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Salonen_a43	Ambrosia type	Ambrosia/Xanthium	HERB	1	0.1996008	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Salonen_a43	Artemisia	Artemisia	HERB	10	1.996008	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Salonen_a43	Centaurea	Centaurea	HERB	1	0.1996008	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Salonen_a43	Cerealia	Cerealia-type	HERB	4	0.79840319	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Salonen_a43	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	9	1.7964072	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Salonen_a43	Cyperaceae	Cyperaceae	HERB	3	0.5988024	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Salonen_a43	Filipendula	Filipendula	HERB	1	0.1996008	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Salonen_a43	Cannabis/Humulus	Humulus/Cannabis	HERB	1	0.1996008	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Salonen_a43	Anthemis type	Matricaria-type	HERB	1	0.1996008	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Salonen_a43	Plantago lanceolata	Plantago lanceolata-type	HERB	2	0.3992016	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Salonen_a43	Graminae	Poaceae	HERB	20	3.992016	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Salonen_a43	Ranunculaceae	Ranunculaceae	HERB	4	0.79840319	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Salonen_a43	Rumex acetosella	Rumex acetosella	HERB	2	0.3992016	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Salonen_a43	Rumex obtusifolius type	Rumex crispus-type	HERB	1	0.1996008	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Salonen_a43	Trientalis europea	Trientalis europaea	HERB	2	0.3992016	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Salonen_a43	Veronica	Veronica-type	HERB	1	0.1996008	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Salonen_a43	Dryopteris type	Dryopteris-type	VACR	1	0.1996008	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Salonen_a43	Sphagnum	Sphagnum	NOPO	13		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.

@@ -1,28 +1,28 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Niemeyer_a11	738	2	120	Rumex	Rumex/Oxyria	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-1	Niemeyer_a11	1240	1	154	Senecio-type	Senecio-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-2	Niemeyer_a11	751	2	543	Cassiope	Erica ciliaris-type	DWAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-3	Niemeyer_a11	25	2	25	Salix	Salix	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-4	Niemeyer_a11	106	33	106	Poaceae	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-5	Niemeyer_a11	16	3	16	Larix	Larix/Pseudotsuga	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-6	Niemeyer_a11	4	179	4	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-7	Niemeyer_a11	61	81	61	Cyperaceae	Cyperaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-8	Niemeyer_a11	5	256	5	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-9	Niemeyer_a11	137	1	137	Thalictrum	Thalictrum	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-10	Niemeyer_a11	637	1	524	Potentilla-type	Potentilla-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-11	Niemeyer_a11	1953	5	1953	Pinaceae	Pinaceae	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-12	Niemeyer_a11	3011	1	197	Fenestrate undifferentiated	Indeterminable: unknown	INUN	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-13	Niemeyer_a11	1788	2	153	Silene-type	Silene-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-14	Niemeyer_a11	552	18	552	Vaccinium	Vaccinium	DWAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-15	Niemeyer_a11	118	3	118	Rosaceae	Rosaceae	TRSH	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
-16	Niemeyer_a11	3012	1	2877	Ranunculus arvensis-type	Ranunculus arvensis-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-17	Niemeyer_a11	958	6	49	Cerastium-type	Cerastium-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-18	Niemeyer_a11	42	1	42	Brassicaceae	Brassicaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-19	Niemeyer_a11	89	1	89	Liliaceae	Liliaceae-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-20	Niemeyer_a11	69	8	69	Fabaceae	Fabaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-21	Niemeyer_a11	86	2	86	Lamiaceae	Lamiaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-22	Niemeyer_a11	1268	2	1268	Ledum	Ledum palustre	DWAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-23	Niemeyer_a11	503	1	503	Saxifraga	Saxifraga	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-24	Niemeyer_a11	9	1	9	Corylus	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-25	Niemeyer_a11	85	1	85	Juniperus	Juniperus communis-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-26	Niemeyer_a11	2911	188	2911	Marker, found	Marker (counted)	NOPO	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Niemeyer_a11	Alnus	Alnus	TRSH	179	29.200653	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Niemeyer_a11	Betula	Betula	TRSH	256	41.761827	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Niemeyer_a11	Corylus	Corylus	TRSH	1	0.16313214	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Niemeyer_a11	Cassiope	Erica ciliaris-type	DWAR	2	0.32626427	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Niemeyer_a11	Juniperus	Juniperus communis-type	TRSH	1	0.16313214	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Niemeyer_a11	Larix	Larix/Pseudotsuga	TRSH	3	0.48939641	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Niemeyer_a11	Ledum	Ledum palustre	DWAR	2	0.32626427	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Niemeyer_a11	Pinaceae	Pinaceae	TRSH	5	0.81566069	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Niemeyer_a11	Rosaceae	Rosaceae	TRSH	3	0.48939641	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
+Niemeyer_a11	Salix	Salix	TRSH	2	0.32626427	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Niemeyer_a11	Vaccinium	Vaccinium	DWAR	18	2.9363785	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Niemeyer_a11	Brassicaceae	Brassicaceae	HERB	1	0.16313214	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Niemeyer_a11	Cerastium-type	Cerastium-type	HERB	6	0.97879282	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Niemeyer_a11	Cyperaceae	Cyperaceae	HERB	81	13.213703	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Niemeyer_a11	Fabaceae	Fabaceae	HERB	8	1.3050571	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Niemeyer_a11	Lamiaceae	Lamiaceae	HERB	2	0.32626427	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Niemeyer_a11	Liliaceae	Liliaceae-type	HERB	1	0.16313214	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Niemeyer_a11	Poaceae	Poaceae	HERB	33	5.3833605	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Niemeyer_a11	Potentilla-type	Potentilla-type	HERB	1	0.16313214	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Niemeyer_a11	Ranunculus arvensis-type	Ranunculus arvensis-type	HERB	1	0.16313214	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Niemeyer_a11	Rumex	Rumex/Oxyria	HERB	2	0.32626427	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Niemeyer_a11	Saxifraga	Saxifraga	HERB	1	0.16313214	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Niemeyer_a11	Senecio-type	Senecio-type	HERB	1	0.16313214	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Niemeyer_a11	Silene-type	Silene-type	HERB	2	0.32626427	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Niemeyer_a11	Thalictrum	Thalictrum	HERB	1	0.16313214	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Niemeyer_a11	Fenestrate undifferentiated	Indeterminable: unknown	INUN	1		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Niemeyer_a11	Marker, found	Marker (counted)	NOPO	188		GroupID taken from POLNET. Only one taxon matched that acc_varname.

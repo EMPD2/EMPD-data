@@ -1,23 +1,23 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Djamali_a9	2	5	2	Acer	Acer campestre-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-1	Djamali_a9	4	29	4	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-2	Djamali_a9	7	174	7	Carpinus	Carpinus betulus	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-3	Djamali_a9	179	5	179	Ephedra	Ephedra	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-4	Djamali_a9	12	1	12	Fagus	Fagus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-5	Djamali_a9	85	5	85	Juniperus	Juniperus communis-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-6	Djamali_a9	1446	10	115	Paliurus spina-christi/Rhamnus	Rhamnus-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-7	Djamali_a9	19	7	19	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-8	Djamali_a9	208	508	208	Quercus	Quercus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-9	Djamali_a9	29	2	29	Tilia	Tilia	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-10	Djamali_a9	1447	61	31	Zelkova/Ulmus	Ulmus/Zelkova	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-11	Djamali_a9	36	24	36	Apiaceae	Apiaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-12	Djamali_a9	37	183	37	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-13	Djamali_a9	155	2	155	Asteraceae	Asteraceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-14	Djamali_a9	46	13	46	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-15	Djamali_a9	780	68	52	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-16	Djamali_a9	61	2	61	Cyperaceae	Cyperaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-17	Djamali_a9	106	16	106	Poaceae	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-18	Djamali_a9	1088	26	278	Polygonum aviculare-type	Polygonum aviculare-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-19	Djamali_a9	118	12	118	Rosaceae	Rosaceae	TRSH	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
-20	Djamali_a9	249	1	249	Sambucus ebulus	Sambucus ebulus	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-21	Djamali_a9	193	12	193	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Djamali_a9	Acer	Acer campestre-type	TRSH	5	0.42881647	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Djamali_a9	Alnus	Alnus	TRSH	29	2.4871355	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Djamali_a9	Carpinus	Carpinus betulus	TRSH	174	14.922813	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Djamali_a9	Ephedra	Ephedra	TRSH	5	0.42881647	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Djamali_a9	Fagus	Fagus	TRSH	1	0.085763293	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Djamali_a9	Juniperus	Juniperus communis-type	TRSH	5	0.42881647	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Djamali_a9	Pinus	Pinus	TRSH	7	0.60034305	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Djamali_a9	Quercus	Quercus	TRSH	508	43.567753	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Djamali_a9	Paliurus spina-christi/Rhamnus	Rhamnus-type	TRSH	10	0.85763293	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Djamali_a9	Rosaceae	Rosaceae	TRSH	12	1.0291595	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
+Djamali_a9	Tilia	Tilia	TRSH	2	0.17152659	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Djamali_a9	Zelkova/Ulmus	Ulmus/Zelkova	TRSH	61	5.2315609	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Djamali_a9	Apiaceae	Apiaceae	HERB	24	2.058319	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Djamali_a9	Artemisia	Artemisia	HERB	183	15.694683	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Djamali_a9	Asteraceae	Asteraceae	HERB	2	0.17152659	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Djamali_a9	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	13	1.1149228	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Djamali_a9	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	68	5.8319039	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Djamali_a9	Cyperaceae	Cyperaceae	HERB	2	0.17152659	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Djamali_a9	Poaceae	Poaceae	HERB	16	1.3722127	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Djamali_a9	Polygonum aviculare-type	Polygonum aviculare-type	HERB	26	2.2298456	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Djamali_a9	Sambucus ebulus	Sambucus ebulus	HERB	1	0.085763293	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Djamali_a9	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	12	1.0291595	GroupID taken from POLNET. Only one taxon matched that acc_varname.

@@ -1,15 +1,15 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	AlbaSanchez_a77	442	146	356	Cedrus atlantica	Cedrus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-1	AlbaSanchez_a77	22	69	22	Quercus evergreen	Quercus ilex-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-2	AlbaSanchez_a77	444	1	106	Poaceae undiff.	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-3	AlbaSanchez_a77	450	23	28	Juniperus t.	Juniperus-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-4	AlbaSanchez_a77	453	1	453	Pinus pinea/halepensis t.	Pinus halepensis-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-5	AlbaSanchez_a77	455	24	95	Olea	Olea europaea	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-6	AlbaSanchez_a77	459	1	155	Asteraceae(equinulada)	Asteraceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-7	AlbaSanchez_a77	460	2	53	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-8	AlbaSanchez_a77	37	1	37	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-9	AlbaSanchez_a77	475	2	475	Centaurea cyanus t.	Centaurea cyanus-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-10	AlbaSanchez_a77	46	1	46	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-11	AlbaSanchez_a77	553	1	468	Erica scoparia t.	Erica arborea-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-12	AlbaSanchez_a77	558	1	558	Santalácea	Santalaceae	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-13	AlbaSanchez_a77	571	10	571	Lycopodium (counted)	Lycopodium (counted)	NOPO	GroupID taken from spreadsheet
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+AlbaSanchez_a77	Cedrus atlantica	Cedrus	TRSH	146	53.479853	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+AlbaSanchez_a77	Erica scoparia t.	Erica arborea-type	TRSH	1	0.36630037	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a77	Juniperus t.	Juniperus-type	TRSH	23	8.4249084	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a77	Olea	Olea europaea	TRSH	24	8.7912088	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a77	Pinus pinea/halepensis t.	Pinus halepensis-type	TRSH	1	0.36630037	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a77	Quercus evergreen	Quercus ilex-type	TRSH	69	25.274725	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a77	Artemisia	Artemisia	HERB	1	0.36630037	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+AlbaSanchez_a77	Asteraceae(equinulada)	Asteraceae	HERB	1	0.36630037	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+AlbaSanchez_a77	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	2	0.73260073	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+AlbaSanchez_a77	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	1	0.36630037	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a77	Centaurea cyanus t.	Centaurea cyanus-type	HERB	2	0.73260073	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a77	Poaceae undiff.	Poaceae	HERB	1	0.36630037	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+AlbaSanchez_a77	Santalácea	Santalaceae	HERB	1	0.36630037	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a77	Lycopodium (counted)	Lycopodium (counted)	NOPO	10		GroupID taken from spreadsheet

@@ -1,15 +1,15 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	AlbaSanchez_a58	442	38	356	Cedrus atlantica	Cedrus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-1	AlbaSanchez_a58	22	134	22	Quercus evergreen	Quercus ilex-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-2	AlbaSanchez_a58	444	9	106	Poaceae undiff.	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-3	AlbaSanchez_a58	447	38	55	Cistus t. undiff.	Cistus	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-4	AlbaSanchez_a58	4	1	4	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-5	AlbaSanchez_a58	21	1	21	Quercus deciduous	Quercus robur-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-6	AlbaSanchez_a58	455	70	95	Olea	Olea europaea	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-7	AlbaSanchez_a58	459	1	155	Asteraceae(equinulada)	Asteraceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-8	AlbaSanchez_a58	462	1	121	Rumex acetosella t.	Rumex acetosa-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-9	AlbaSanchez_a58	465	2	58	Plantago coronopus t.	Plantago coronopus-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-10	AlbaSanchez_a58	466	2	466	Urtica dioica t.	Urtica dioica-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-11	AlbaSanchez_a58	52	2	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-12	AlbaSanchez_a58	496	1	285	Fabaceae undiff.	Fabaceae undiff.	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-13	AlbaSanchez_a58	553	2	468	Erica scoparia t.	Erica arborea-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+AlbaSanchez_a58	Alnus	Alnus	TRSH	1	0.33112583	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+AlbaSanchez_a58	Cedrus atlantica	Cedrus	TRSH	38	12.582781	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+AlbaSanchez_a58	Cistus t. undiff.	Cistus	TRSH	38	12.582781	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a58	Erica scoparia t.	Erica arborea-type	TRSH	2	0.66225166	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a58	Olea	Olea europaea	TRSH	70	23.178808	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a58	Quercus evergreen	Quercus ilex-type	TRSH	134	44.370861	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a58	Quercus deciduous	Quercus robur-type	TRSH	1	0.33112583	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a58	Asteraceae(equinulada)	Asteraceae	HERB	1	0.33112583	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+AlbaSanchez_a58	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	2	0.66225166	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a58	Fabaceae undiff.	Fabaceae undiff.	HERB	1	0.33112583	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+AlbaSanchez_a58	Plantago coronopus t.	Plantago coronopus-type	HERB	2	0.66225166	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a58	Poaceae undiff.	Poaceae	HERB	9	2.9801325	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+AlbaSanchez_a58	Rumex acetosella t.	Rumex acetosa-type	HERB	1	0.33112583	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a58	Urtica dioica t.	Urtica dioica-type	HERB	2	0.66225166	GroupID taken from POLNET. Only one taxon matched that acc_varname.

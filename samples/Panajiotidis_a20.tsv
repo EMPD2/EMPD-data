@@ -1,34 +1,34 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Panajiotidis_a20	19	305	19	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-1	Panajiotidis_a20	1	1	1	Abies	Abies	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-2	Panajiotidis_a20	1737	3	28	Juniperus	Juniperus-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-3	Panajiotidis_a20	12	3	12	Fagus	Fagus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-4	Panajiotidis_a20	794	1	794	Picea abies	Picea abies-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-5	Panajiotidis_a20	1738	69	22	Quercus coccifera type	Quercus ilex-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-6	Panajiotidis_a20	1739	9	21	Quercus pubescens type	Quercus robur-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-7	Panajiotidis_a20	4	1	4	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-8	Panajiotidis_a20	1741	91	1741	Cistus monspeliensis	Cistus monspeliensis-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-9	Panajiotidis_a20	1742	6	1742	Cistus salvifolius	Cistus salvifolius	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-10	Panajiotidis_a20	574	6	7	Carpinus betulus	Carpinus betulus	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-11	Panajiotidis_a20	9	4	9	Corylus	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-12	Panajiotidis_a20	15	1	15	Juglans	Juglans	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-13	Panajiotidis_a20	95	31	95	Olea europaea	Olea europaea	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-14	Panajiotidis_a20	1743	4	97	Ostrya carpinifolia/Carpinus orientalis	Ostrya/Carpinus orientalis	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-15	Panajiotidis_a20	1744	10	101	Phillyrea latifolia	Phillyrea	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-16	Panajiotidis_a20	103	67	103	Pistacia	Pistacia	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-17	Panajiotidis_a20	66	31	66	Erica	Erica	DWAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-18	Panajiotidis_a20	1640	2	343	Arbutus	Arbutus	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-19	Panajiotidis_a20	106	13	106	Poaceae	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-20	Panajiotidis_a20	50	1	50	Cerealia	Cerealia-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-21	Panajiotidis_a20	718	1	52	Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-22	Panajiotidis_a20	61	2	61	Cyperaceae	Cyperaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-23	Panajiotidis_a20	141	1	141	Trifolium repens	Trifolium repens-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-24	Panajiotidis_a20	1758	3	69	Fabaceae tribe Psoraleae	Fabaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-25	Panajiotidis_a20	118	9	118	Rosaceae	Rosaceae	TRSH	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
-26	Panajiotidis_a20	1085	1	87	Plantago lanceolata-type	Plantago lanceolata-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-27	Panajiotidis_a20	1762	11	244	Xanthium	Ambrosia/Xanthium	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-28	Panajiotidis_a20	671	6	324	Arcella	Arcella	RHIZ	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-29	Panajiotidis_a20	1764	50	571	Lycpodium counted	Lycopodium (counted)	NOPO	GroupID taken from spreadsheet
-30	Panajiotidis_a20	1765	19.6	1765	Sample quantity	Quantity of sample	NOPO	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-31	Panajiotidis_a20	1766	2	1305	Lycopodium tablets	Lycopodium tablets (number)	NOPO	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-32	Panajiotidis_a20	1767	12542	1303	Lycopodium spores/tablet	Lycopodium (spores/tablet)	NOPO	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Panajiotidis_a20	Abies	Abies	TRSH	1	0.14556041	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Panajiotidis_a20	Alnus	Alnus	TRSH	1	0.14556041	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Panajiotidis_a20	Arbutus	Arbutus	TRSH	2	0.29112082	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Panajiotidis_a20	Carpinus betulus	Carpinus betulus	TRSH	6	0.87336245	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Panajiotidis_a20	Cistus monspeliensis	Cistus monspeliensis-type	TRSH	91	13.245997	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Panajiotidis_a20	Cistus salvifolius	Cistus salvifolius	TRSH	6	0.87336245	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Panajiotidis_a20	Corylus	Corylus	TRSH	4	0.58224163	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Panajiotidis_a20	Erica	Erica	DWAR	31	4.5123726	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Panajiotidis_a20	Fagus	Fagus	TRSH	3	0.43668122	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Panajiotidis_a20	Juglans	Juglans	TRSH	1	0.14556041	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Panajiotidis_a20	Juniperus	Juniperus-type	TRSH	3	0.43668122	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Panajiotidis_a20	Olea europaea	Olea europaea	TRSH	31	4.5123726	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Panajiotidis_a20	Ostrya carpinifolia/Carpinus orientalis	Ostrya/Carpinus orientalis	TRSH	4	0.58224163	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Panajiotidis_a20	Phillyrea latifolia	Phillyrea	TRSH	10	1.4556041	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Panajiotidis_a20	Picea abies	Picea abies-type	TRSH	1	0.14556041	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Panajiotidis_a20	Pinus	Pinus	TRSH	305	44.395924	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Panajiotidis_a20	Pistacia	Pistacia	TRSH	67	9.7525473	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Panajiotidis_a20	Quercus coccifera type	Quercus ilex-type	TRSH	69	10.043668	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Panajiotidis_a20	Quercus pubescens type	Quercus robur-type	TRSH	9	1.3100437	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Panajiotidis_a20	Rosaceae	Rosaceae	TRSH	9	1.3100437	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
+Panajiotidis_a20	Xanthium	Ambrosia/Xanthium	HERB	11	1.6011645	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Panajiotidis_a20	Cerealia	Cerealia-type	HERB	1	0.14556041	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Panajiotidis_a20	Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.14556041	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Panajiotidis_a20	Cyperaceae	Cyperaceae	HERB	2	0.29112082	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Panajiotidis_a20	Fabaceae tribe Psoraleae	Fabaceae	HERB	3	0.43668122	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Panajiotidis_a20	Plantago lanceolata-type	Plantago lanceolata-type	HERB	1	0.14556041	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Panajiotidis_a20	Poaceae	Poaceae	HERB	13	1.8922853	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Panajiotidis_a20	Trifolium repens	Trifolium repens-type	HERB	1	0.14556041	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Panajiotidis_a20	Arcella	Arcella	RHIZ	6		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Panajiotidis_a20	Lycpodium counted	Lycopodium (counted)	NOPO	50		GroupID taken from spreadsheet
+Panajiotidis_a20	Lycopodium spores/tablet	Lycopodium (spores/tablet)	NOPO	12542		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Panajiotidis_a20	Lycopodium tablets	Lycopodium tablets (number)	NOPO	2		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Panajiotidis_a20	Sample quantity	Quantity of sample	NOPO	19.6		GroupID taken from POLNET. Only one taxon matched that acc_varname.

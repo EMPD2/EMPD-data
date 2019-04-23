@@ -1,14 +1,14 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Ryabogina_a107	1459	13	149	Bet._nana	Betula nana-type	DWAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-1	Ryabogina_a107	18	10	18	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-2	Ryabogina_a107	1462	66	148	Pin._sylv.	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-3	Ryabogina_a107	61	11	61	Cyperaceae	Cyperaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-4	Ryabogina_a107	11	1	11	Ericaceae	Ericales (tetrad)	DWAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-5	Ryabogina_a107	1491	1	1491	Hyd-eae	Hydrocharitaceae	AQUA	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-6	Ryabogina_a107	158	1	158	Onagraceae	Onagraceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-7	Ryabogina_a107	106	8	106	Poaceae	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-8	Ryabogina_a107	1543	1	197	indef._pollen	Indeterminable: unknown	INUN	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-9	Ryabogina_a107	168	10	168	Bryales	Bryophyte spores	BRYO	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-10	Ryabogina_a107	166	3	166	Equisetum	Equisetum	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-11	Ryabogina_a107	165	110	165	Sphagnum	Sphagnum	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-12	Ryabogina_a107	1580	124	197	Sp	Indeterminable: unknown	INUN	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Ryabogina_a107	Bet._nana	Betula nana-type	DWAR	13	10.569106	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Ryabogina_a107	Ericaceae	Ericales (tetrad)	DWAR	1	0.81300813	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Ryabogina_a107	Picea	Picea	TRSH	10	8.1300813	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Ryabogina_a107	Pin._sylv.	Pinus sylvestris-type	TRSH	66	53.658537	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Ryabogina_a107	Cyperaceae	Cyperaceae	HERB	11	8.9430894	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Ryabogina_a107	Onagraceae	Onagraceae	HERB	1	0.81300813	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Ryabogina_a107	Poaceae	Poaceae	HERB	8	6.504065	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Ryabogina_a107	Hyd-eae	Hydrocharitaceae	AQUA	1	0.81300813	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Ryabogina_a107	indef._pollen	Indeterminable: unknown	INUN	1		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Ryabogina_a107	Sp	Indeterminable: unknown	INUN	124		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Ryabogina_a107	Bryales	Bryophyte spores	BRYO	10	8.1300813	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Ryabogina_a107	Equisetum	Equisetum	VACR	3	2.4390244	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Ryabogina_a107	Sphagnum	Sphagnum	NOPO	110		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.

@@ -1,22 +1,22 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Mikishin-Gvozdeva_a29	1	20	1	Abies	Abies	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-1	Mikishin-Gvozdeva_a29	18	101	18	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-2	Mikishin-Gvozdeva_a29	16	28	16	Larix	Larix/Pseudotsuga	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-3	Mikishin-Gvozdeva_a29	2228	14	147	Pinus sgen. Haploxylon	Pinus cembra-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-4	Mikishin-Gvozdeva_a29	5	94	5	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-5	Mikishin-Gvozdeva_a29	2113	30	149	Betula nana-type	Betula nana-type	DWAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-6	Mikishin-Gvozdeva_a29	4	26	4	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-7	Mikishin-Gvozdeva_a29	2230	25	151	Alnaster (Alnus shrub-type: Alnaster fruticosus, Alnus fruticosa, Alnus maximowiczii)	Alnus viridis	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-8	Mikishin-Gvozdeva_a29	2231	61	17	Myrica tomentosa	Myrica	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-9	Mikishin-Gvozdeva_a29	208	4	208	Quercus	Quercus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-10	Mikishin-Gvozdeva_a29	31	2	31	Ulmus	Ulmus/Zelkova	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-11	Mikishin-Gvozdeva_a29	106	2	106	Poaceae	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-12	Mikishin-Gvozdeva_a29	37	2	37	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-13	Mikishin-Gvozdeva_a29	156	1	156	Ranunculaceae	Ranunculaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-14	Mikishin-Gvozdeva_a29	2120	3	192	Rubus chamaemorus	Rubus chamaemorus	HERB	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
-15	Mikishin-Gvozdeva_a29	2128	97	11	Ericales	Ericales (tetrad)	DWAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-16	Mikishin-Gvozdeva_a29	165	80	165	Sphagnum	Sphagnum	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-17	Mikishin-Gvozdeva_a29	168	1200	168	Bryales	Bryophyte spores	BRYO	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-18	Mikishin-Gvozdeva_a29	167	1	167	Polypodiaceae	Monolete fern spores	VACR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-19	Mikishin-Gvozdeva_a29	1565	2	478	Osmunda	Osmunda regalis	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-20	Mikishin-Gvozdeva_a29	164	1	164	Lycopodium	Lycopodium	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Mikishin-Gvozdeva_a29	Abies	Abies	TRSH	20	1.1668611	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Mikishin-Gvozdeva_a29	Alnus	Alnus	TRSH	26	1.5169195	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Mikishin-Gvozdeva_a29	Alnaster (Alnus shrub-type: Alnaster fruticosus, Alnus fruticosa, Alnus maximowiczii)	Alnus viridis	TRSH	25	1.4585764	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Mikishin-Gvozdeva_a29	Betula	Betula	TRSH	94	5.4842474	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Mikishin-Gvozdeva_a29	Betula nana-type	Betula nana-type	DWAR	30	1.7502917	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Mikishin-Gvozdeva_a29	Ericales	Ericales (tetrad)	DWAR	97	5.6592765	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Mikishin-Gvozdeva_a29	Larix	Larix/Pseudotsuga	TRSH	28	1.6336056	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Mikishin-Gvozdeva_a29	Myrica tomentosa	Myrica	TRSH	61	3.5589265	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Mikishin-Gvozdeva_a29	Picea	Picea	TRSH	101	5.8926488	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Mikishin-Gvozdeva_a29	Pinus sgen. Haploxylon	Pinus cembra-type	TRSH	14	0.8168028	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Mikishin-Gvozdeva_a29	Quercus	Quercus	TRSH	4	0.23337223	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Mikishin-Gvozdeva_a29	Ulmus	Ulmus/Zelkova	TRSH	2	0.11668611	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Mikishin-Gvozdeva_a29	Artemisia	Artemisia	HERB	2	0.11668611	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Mikishin-Gvozdeva_a29	Poaceae	Poaceae	HERB	2	0.11668611	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Mikishin-Gvozdeva_a29	Ranunculaceae	Ranunculaceae	HERB	1	0.058343057	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Mikishin-Gvozdeva_a29	Rubus chamaemorus	Rubus chamaemorus	HERB	3	0.17502917	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
+Mikishin-Gvozdeva_a29	Bryales	Bryophyte spores	BRYO	1200	70.011669	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Mikishin-Gvozdeva_a29	Lycopodium	Lycopodium	VACR	1	0.058343057	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Mikishin-Gvozdeva_a29	Polypodiaceae	Monolete fern spores	VACR	1	0.058343057	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Mikishin-Gvozdeva_a29	Osmunda	Osmunda regalis	VACR	2	0.11668611	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Mikishin-Gvozdeva_a29	Sphagnum	Sphagnum	NOPO	80		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
