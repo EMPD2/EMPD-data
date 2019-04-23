@@ -1,27 +1,27 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Desprat_a16	982	275	892	Exotic	Exotics (counted)	NOPO	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-1	Desprat_a16	19	12	19	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-2	Desprat_a16	5	3	5	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-3	Desprat_a16	1914	2	75	Fraxinus excelsior  type	Fraxinus excelsior-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-4	Desprat_a16	11	2	11	Ericaceae	Ericales (tetrad)	DWAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-5	Desprat_a16	1917	7	22	Quercus evergreen  type	Quercus ilex-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-6	Desprat_a16	521	1	521	Myrtus	Myrtus communis	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-7	Desprat_a16	455	15	95	Olea	Olea europaea	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-8	Desprat_a16	103	11	103	Pistacia	Pistacia	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-9	Desprat_a16	1621	40	1621	Citrus	Citrus	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-10	Desprat_a16	52	89	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-11	Desprat_a16	37	3	37	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-12	Desprat_a16	1921	2	41	Aster  type	Aster-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-13	Desprat_a16	1880	5	1252	Taraxacum	Crepis-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-14	Desprat_a16	735	55	286	Plantago	Plantago	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-15	Desprat_a16	106	4	106	Poaceae	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-16	Desprat_a16	156	1	156	Ranunculaceae	Ranunculaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-17	Desprat_a16	738	26	120	Rumex	Rumex/Oxyria	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-18	Desprat_a16	69	2	69	Fabaceae	Fabaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-19	Desprat_a16	510	2	510	Geranium	Geranium	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-20	Desprat_a16	118	3	118	Rosaceae	Rosaceae	TRSH	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
-21	Desprat_a16	664	1	664	Verbascum	Verbascum	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-22	Desprat_a16	1376	1	524	Potentilla	Potentilla-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-23	Desprat_a16	1930	3	167	Monolete psilate	Monolete fern spores	VACR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-24	Desprat_a16	1565	2	478	Osmunda	Osmunda regalis	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-25	Desprat_a16	1933	11	1334	Xcorroded	Indeterminable: corroded	INUN	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Desprat_a16	Betula	Betula	TRSH	3	1.0273973	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Desprat_a16	Citrus	Citrus	TRSH	40	13.69863	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Desprat_a16	Ericaceae	Ericales (tetrad)	DWAR	2	0.68493151	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Desprat_a16	Fraxinus excelsior  type	Fraxinus excelsior-type	TRSH	2	0.68493151	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Desprat_a16	Myrtus	Myrtus communis	TRSH	1	0.34246575	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Desprat_a16	Olea	Olea europaea	TRSH	15	5.1369863	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Desprat_a16	Pinus	Pinus	TRSH	12	4.109589	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Desprat_a16	Pistacia	Pistacia	TRSH	11	3.7671233	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Desprat_a16	Quercus evergreen  type	Quercus ilex-type	TRSH	7	2.3972603	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Desprat_a16	Rosaceae	Rosaceae	TRSH	3	1.0273973	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
+Desprat_a16	Artemisia	Artemisia	HERB	3	1.0273973	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Desprat_a16	Aster  type	Aster-type	HERB	2	0.68493151	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Desprat_a16	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	89	30.479452	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Desprat_a16	Taraxacum	Crepis-type	HERB	5	1.7123288	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Desprat_a16	Fabaceae	Fabaceae	HERB	2	0.68493151	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Desprat_a16	Geranium	Geranium	HERB	2	0.68493151	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Desprat_a16	Plantago	Plantago	HERB	55	18.835616	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Desprat_a16	Poaceae	Poaceae	HERB	4	1.369863	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Desprat_a16	Potentilla	Potentilla-type	HERB	1	0.34246575	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Desprat_a16	Ranunculaceae	Ranunculaceae	HERB	1	0.34246575	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Desprat_a16	Rumex	Rumex/Oxyria	HERB	26	8.9041096	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Desprat_a16	Verbascum	Verbascum	HERB	1	0.34246575	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Desprat_a16	Xcorroded	Indeterminable: corroded	INUN	11		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Desprat_a16	Exotic	Exotics (counted)	NOPO	275		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Desprat_a16	Monolete psilate	Monolete fern spores	VACR	3	1.0273973	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Desprat_a16	Osmunda	Osmunda regalis	VACR	2	0.68493151	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.

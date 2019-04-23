@@ -1,14 +1,14 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Ryabogina_a113	4	4	4	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-1	Ryabogina_a113	1458	16	5	Betula or Bet.s.Albae	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-2	Ryabogina_a113	1459	191	149	Bet._nana	Betula nana-type	DWAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-3	Ryabogina_a113	18	11	18	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-4	Ryabogina_a113	1462	200	148	Pin._sylv.	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-5	Ryabogina_a113	25	4	25	Salix	Salix	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-6	Ryabogina_a113	37	4	37	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-7	Ryabogina_a113	1481	4	1319	Comar._pal.	Potentilla palustris	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-8	Ryabogina_a113	61	6	61	Cyperaceae	Cyperaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-9	Ryabogina_a113	11	2	11	Ericaceae	Ericales (tetrad)	DWAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-10	Ryabogina_a113	106	7	106	Poaceae	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-11	Ryabogina_a113	165	96	165	Sphagnum	Sphagnum	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-12	Ryabogina_a113	1580	96	197	Sp	Indeterminable: unknown	INUN	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Ryabogina_a113	Alnus	Alnus	TRSH	4	0.8908686	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Ryabogina_a113	Betula or Bet.s.Albae	Betula	TRSH	16	3.5634744	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Ryabogina_a113	Bet._nana	Betula nana-type	DWAR	191	42.538976	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Ryabogina_a113	Ericaceae	Ericales (tetrad)	DWAR	2	0.4454343	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Ryabogina_a113	Picea	Picea	TRSH	11	2.4498886	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Ryabogina_a113	Pin._sylv.	Pinus sylvestris-type	TRSH	200	44.54343	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Ryabogina_a113	Salix	Salix	TRSH	4	0.8908686	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Ryabogina_a113	Artemisia	Artemisia	HERB	4	0.8908686	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Ryabogina_a113	Cyperaceae	Cyperaceae	HERB	6	1.3363029	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Ryabogina_a113	Poaceae	Poaceae	HERB	7	1.55902	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Ryabogina_a113	Comar._pal.	Potentilla palustris	HERB	4	0.8908686	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Ryabogina_a113	Sp	Indeterminable: unknown	INUN	96		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Ryabogina_a113	Sphagnum	Sphagnum	NOPO	96		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.

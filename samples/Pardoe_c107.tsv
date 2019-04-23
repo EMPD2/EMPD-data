@@ -1,22 +1,22 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Pardoe_c107	5	121	5	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-1	Pardoe_c107	19	121	19	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-2	Pardoe_c107	4	5	4	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-3	Pardoe_c107	18	6	18	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-4	Pardoe_c107	9	7	9	Corylus	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-5	Pardoe_c107	25	75	25	Salix	Salix	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-6	Pardoe_c107	106	76	106	Poaceae	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-7	Pardoe_c107	61	25	61	Cyperaceae	Cyperaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-8	Pardoe_c107	750	36	750	Empetrum	Empetrum nigrum	DWAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-9	Pardoe_c107	552	11	552	Vaccinium	Vaccinium	DWAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-10	Pardoe_c107	155	7	155	Asteraceae	Asteraceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-11	Pardoe_c107	752	1	53	Lactuceae	Asteraceae subf. Cichorioideae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-12	Pardoe_c107	46	2	46	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-13	Pardoe_c107	52	1	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-14	Pardoe_c107	137	13	137	Thalictrum	Thalictrum	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-15	Pardoe_c107	756	14	257	Oxyria	Oxyria digyna	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-16	Pardoe_c107	166	1	166	Equisetum	Equisetum	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-17	Pardoe_c107	679	1	679	Selaginella	Selaginella	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-18	Pardoe_c107	761	1	653	Saxifraga stellaris	Saxifraga stellaris-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-19	Pardoe_c107	762	7	204	Lycopodium selago	Huperzia selago	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-20	Pardoe_c107	763	1	763	Lycopodiaceae	Lycopodiaceae	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Pardoe_c107	Alnus	Alnus	TRSH	5	0.93984962	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Pardoe_c107	Betula	Betula	TRSH	121	22.744361	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Pardoe_c107	Corylus	Corylus	TRSH	7	1.3157895	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Pardoe_c107	Empetrum	Empetrum nigrum	DWAR	36	6.7669173	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Pardoe_c107	Picea	Picea	TRSH	6	1.1278195	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Pardoe_c107	Pinus	Pinus	TRSH	121	22.744361	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Pardoe_c107	Salix	Salix	TRSH	75	14.097744	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Pardoe_c107	Vaccinium	Vaccinium	DWAR	11	2.0676692	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Pardoe_c107	Asteraceae	Asteraceae	HERB	7	1.3157895	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Pardoe_c107	Lactuceae	Asteraceae subf. Cichorioideae	HERB	1	0.18796992	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Pardoe_c107	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	2	0.37593985	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Pardoe_c107	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.18796992	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Pardoe_c107	Cyperaceae	Cyperaceae	HERB	25	4.6992481	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Pardoe_c107	Oxyria	Oxyria digyna	HERB	14	2.6315789	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Pardoe_c107	Poaceae	Poaceae	HERB	76	14.285714	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Pardoe_c107	Saxifraga stellaris	Saxifraga stellaris-type	HERB	1	0.18796992	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Pardoe_c107	Thalictrum	Thalictrum	HERB	13	2.443609	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Pardoe_c107	Equisetum	Equisetum	VACR	1	0.18796992	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Pardoe_c107	Lycopodium selago	Huperzia selago	VACR	7	1.3157895	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Pardoe_c107	Lycopodiaceae	Lycopodiaceae	VACR	1	0.18796992	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Pardoe_c107	Selaginella	Selaginella	VACR	1	0.18796992	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.

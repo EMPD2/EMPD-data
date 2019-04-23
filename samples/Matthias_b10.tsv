@@ -1,31 +1,31 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Matthias_b10	19	614	19	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-1	Matthias_b10	208	51	208	Quercus	Quercus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-2	Matthias_b10	5	93	5	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-3	Matthias_b10	4	102	4	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-4	Matthias_b10	12	38	12	Fagus	Fagus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-5	Matthias_b10	7	11	7	Carpinus	Carpinus betulus	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-6	Matthias_b10	9	8	9	Corylus	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-7	Matthias_b10	1416	2	174	Tilia cordata	Tilia cordata-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-8	Matthias_b10	31	2	31	Ulmus	Ulmus/Zelkova	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-9	Matthias_b10	25	2	25	Salix	Salix	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-10	Matthias_b10	18	7	18	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-11	Matthias_b10	107	1	107	Populus	Populus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-12	Matthias_b10	2345	1	16	Larix/Pseudotsuga	Larix/Pseudotsuga	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-13	Matthias_b10	61	7	61	Cyperaceae	Cyperaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-14	Matthias_b10	106	31	106	Poaceae	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-15	Matthias_b10	823	1	439	Zea mays	Zea mays	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-16	Matthias_b10	1225	2	1121	Avena-type	Avena-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-17	Matthias_b10	960	4	274	Hordeum-type	Hordeum-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-18	Matthias_b10	812	34	272	Secale	Secale cereale	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-19	Matthias_b10	1243	5	1209	Triticum-type	Triticum-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-20	Matthias_b10	1071	2	774	Cannabaceae	Cannabaceae	TRSH	GroupID taken from spreadsheet
-21	Matthias_b10	663	4	663	Urtica	Urtica	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-22	Matthias_b10	87	2	87	Plantago lanceolata	Plantago lanceolata-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-23	Matthias_b10	42	5	42	Brassicaceae	Brassicaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-24	Matthias_b10	645	1	121	Rumex acetosa-type	Rumex acetosa-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-25	Matthias_b10	2590	4	121	Rumex acetosella-type	Rumex acetosa-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-26	Matthias_b10	37	6	37	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-27	Matthias_b10	52	5	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-28	Matthias_b10	592	2	470	Calluna	Calluna vulgaris	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-29	Matthias_b10	486	1	486	Melampyrum	Melampyrum	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Matthias_b10	Alnus	Alnus	TRSH	102	9.7328244	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Matthias_b10	Betula	Betula	TRSH	93	8.8740458	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Matthias_b10	Calluna	Calluna vulgaris	TRSH	2	0.19083969	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Matthias_b10	Cannabaceae	Cannabaceae	TRSH	2	0.19083969	GroupID taken from spreadsheet
+Matthias_b10	Carpinus	Carpinus betulus	TRSH	11	1.0496183	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Matthias_b10	Corylus	Corylus	TRSH	8	0.76335878	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Matthias_b10	Fagus	Fagus	TRSH	38	3.6259542	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Matthias_b10	Larix/Pseudotsuga	Larix/Pseudotsuga	TRSH	1	0.095419847	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Matthias_b10	Picea	Picea	TRSH	7	0.66793893	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Matthias_b10	Pinus	Pinus	TRSH	614	58.587786	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Matthias_b10	Populus	Populus	TRSH	1	0.095419847	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Matthias_b10	Quercus	Quercus	TRSH	51	4.8664122	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Matthias_b10	Salix	Salix	TRSH	2	0.19083969	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Matthias_b10	Tilia cordata	Tilia cordata-type	TRSH	2	0.19083969	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Matthias_b10	Ulmus	Ulmus/Zelkova	TRSH	2	0.19083969	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Matthias_b10	Artemisia	Artemisia	HERB	6	0.57251908	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Matthias_b10	Avena-type	Avena-type	HERB	2	0.19083969	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Matthias_b10	Brassicaceae	Brassicaceae	HERB	5	0.47709924	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Matthias_b10	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	5	0.47709924	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Matthias_b10	Cyperaceae	Cyperaceae	HERB	7	0.66793893	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Matthias_b10	Hordeum-type	Hordeum-type	HERB	4	0.38167939	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Matthias_b10	Melampyrum	Melampyrum	HERB	1	0.095419847	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Matthias_b10	Plantago lanceolata	Plantago lanceolata-type	HERB	2	0.19083969	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Matthias_b10	Poaceae	Poaceae	HERB	31	2.9580153	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Matthias_b10	Rumex acetosa-type	Rumex acetosa-type	HERB	1	0.095419847	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Matthias_b10	Rumex acetosella-type	Rumex acetosa-type	HERB	4	0.38167939	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Matthias_b10	Secale	Secale cereale	HERB	34	3.2442748	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Matthias_b10	Triticum-type	Triticum-type	HERB	5	0.47709924	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Matthias_b10	Urtica	Urtica	HERB	4	0.38167939	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Matthias_b10	Zea mays	Zea mays	HERB	1	0.095419847	GroupID taken from POLNET. Only one taxon matched that acc_varname.

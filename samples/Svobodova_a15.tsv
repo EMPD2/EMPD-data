@@ -1,29 +1,29 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Svobodova_a15	1	3	1	Abies	Abies	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-1	Svobodova_a15	4	13	4	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-2	Svobodova_a15	2510	1	597	Ambrosia t.	Ambrosia	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-3	Svobodova_a15	5	33	5	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-4	Svobodova_a15	42	2	42	Brassicaceae	Brassicaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-5	Svobodova_a15	2512	1	53	C. Cichoriaceae	Asteraceae subf. Cichorioideae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-6	Svobodova_a15	592	24	470	Calluna	Calluna vulgaris	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-7	Svobodova_a15	7	2	7	Carpinus	Carpinus betulus	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-8	Svobodova_a15	52	1	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-9	Svobodova_a15	9	2	9	Corylus	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-10	Svobodova_a15	61	5	61	Cyperaceae	Cyperaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-11	Svobodova_a15	12	5	12	Fagus	Fagus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-12	Svobodova_a15	13	4	13	Fraxinus	Fraxinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-13	Svobodova_a15	86	1	86	Lamiaceae	Lamiaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-14	Svobodova_a15	2524	75	571	Lycopodiums counted	Lycopodium (counted)	NOPO	GroupID taken from spreadsheet
-15	Svobodova_a15	486	11	486	Melampyrum	Melampyrum	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-16	Svobodova_a15	18	30	18	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-17	Svobodova_a15	19	165	19	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-18	Svobodova_a15	87	1	87	Plantago lanceolata	Plantago lanceolata-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-19	Svobodova_a15	106	61	106	Poaceae	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-20	Svobodova_a15	208	6	208	Quercus	Quercus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-21	Svobodova_a15	738	1	120	Rumex	Rumex/Oxyria	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-22	Svobodova_a15	25	1	25	Salix	Salix	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-23	Svobodova_a15	272	2	272	Secale cereale	Secale cereale	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-24	Svobodova_a15	132	1	132	Sorbus	Sorbus-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-25	Svobodova_a15	29	1	29	Tilia	Tilia	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-26	Svobodova_a15	663	2	663	Urtica	Urtica	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-27	Svobodova_a15	552	2	552	Vaccinium	Vaccinium	DWAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Svobodova_a15	Abies	Abies	TRSH	3	0.78740157	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Svobodova_a15	Alnus	Alnus	TRSH	13	3.4120735	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Svobodova_a15	Betula	Betula	TRSH	33	8.6614173	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Svobodova_a15	Calluna	Calluna vulgaris	TRSH	24	6.2992126	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Svobodova_a15	Carpinus	Carpinus betulus	TRSH	2	0.52493438	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Svobodova_a15	Corylus	Corylus	TRSH	2	0.52493438	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Svobodova_a15	Fagus	Fagus	TRSH	5	1.312336	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Svobodova_a15	Fraxinus	Fraxinus	TRSH	4	1.0498688	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Svobodova_a15	Picea	Picea	TRSH	30	7.8740157	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Svobodova_a15	Pinus	Pinus	TRSH	165	43.307087	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Svobodova_a15	Quercus	Quercus	TRSH	6	1.5748031	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Svobodova_a15	Salix	Salix	TRSH	1	0.26246719	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Svobodova_a15	Sorbus	Sorbus-type	TRSH	1	0.26246719	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Svobodova_a15	Tilia	Tilia	TRSH	1	0.26246719	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Svobodova_a15	Vaccinium	Vaccinium	DWAR	2	0.52493438	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Svobodova_a15	Ambrosia t.	Ambrosia	HERB	1	0.26246719	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Svobodova_a15	C. Cichoriaceae	Asteraceae subf. Cichorioideae	HERB	1	0.26246719	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Svobodova_a15	Brassicaceae	Brassicaceae	HERB	2	0.52493438	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Svobodova_a15	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.26246719	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Svobodova_a15	Cyperaceae	Cyperaceae	HERB	5	1.312336	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Svobodova_a15	Lamiaceae	Lamiaceae	HERB	1	0.26246719	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Svobodova_a15	Melampyrum	Melampyrum	HERB	11	2.8871391	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Svobodova_a15	Plantago lanceolata	Plantago lanceolata-type	HERB	1	0.26246719	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Svobodova_a15	Poaceae	Poaceae	HERB	61	16.010499	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Svobodova_a15	Rumex	Rumex/Oxyria	HERB	1	0.26246719	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Svobodova_a15	Secale cereale	Secale cereale	HERB	2	0.52493438	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Svobodova_a15	Urtica	Urtica	HERB	2	0.52493438	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Svobodova_a15	Lycopodiums counted	Lycopodium (counted)	NOPO	75		GroupID taken from spreadsheet

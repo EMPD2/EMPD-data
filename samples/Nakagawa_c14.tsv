@@ -1,22 +1,22 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Nakagawa_c14	1	31	1	Abies	Abies	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-1	Nakagawa_c14	10	85	10	Cryptomeria	Cryptomeria-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-2	Nakagawa_c14	25	4	25	Salix	Salix	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-3	Nakagawa_c14	9	4	9	Corylus	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-4	Nakagawa_c14	5	41	5	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-5	Nakagawa_c14	4	91	4	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-6	Nakagawa_c14	12	2	12	Fagus	Fagus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-7	Nakagawa_c14	1963	24	31	Ulmus-Zelkova	Ulmus/Zelkova	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-8	Nakagawa_c14	29	1	29	Tilia	Tilia	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-9	Nakagawa_c14	37	16	37	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-10	Nakagawa_c14	2	4	2	Acer	Acer campestre-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-11	Nakagawa_c14	7	17	7	Carpinus	Carpinus betulus	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-12	Nakagawa_c14	19	47	19	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-13	Nakagawa_c14	2450	23	2207	Juglans-Pterocarya	Juglandaceae	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-14	Nakagawa_c14	2451	2	2451	T-C-C type	Taxaceae/Cephalotaxaceae/Cupressaceae	TRSH	GroupID taken from spreadsheet
-15	Nakagawa_c14	18	1	18	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-16	Nakagawa_c14	16	2	16	Larix	Larix/Pseudotsuga	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-17	Nakagawa_c14	2469	313	21	Quercus-D	Quercus robur-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-18	Nakagawa_c14	2470	2	22	Quercus-E	Quercus ilex-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-19	Nakagawa_c14	2506	2	106	Gramine.	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-20	Nakagawa_c14	2508	5	155	Compo.	Asteraceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Nakagawa_c14	Abies	Abies	TRSH	31	4.3235704	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Nakagawa_c14	Acer	Acer campestre-type	TRSH	4	0.55788006	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Nakagawa_c14	Alnus	Alnus	TRSH	91	12.691771	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Nakagawa_c14	Betula	Betula	TRSH	41	5.7182706	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Nakagawa_c14	Carpinus	Carpinus betulus	TRSH	17	2.3709902	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Nakagawa_c14	Corylus	Corylus	TRSH	4	0.55788006	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Nakagawa_c14	Cryptomeria	Cryptomeria-type	TRSH	85	11.854951	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Nakagawa_c14	Fagus	Fagus	TRSH	2	0.27894003	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Nakagawa_c14	Juglans-Pterocarya	Juglandaceae	TRSH	23	3.2078103	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Nakagawa_c14	Larix	Larix/Pseudotsuga	TRSH	2	0.27894003	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Nakagawa_c14	Picea	Picea	TRSH	1	0.13947001	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Nakagawa_c14	Pinus	Pinus	TRSH	47	6.5550907	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Nakagawa_c14	Quercus-E	Quercus ilex-type	TRSH	2	0.27894003	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Nakagawa_c14	Quercus-D	Quercus robur-type	TRSH	313	43.654114	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Nakagawa_c14	Salix	Salix	TRSH	4	0.55788006	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Nakagawa_c14	T-C-C type	Taxaceae/Cephalotaxaceae/Cupressaceae	TRSH	2	0.27894003	GroupID taken from spreadsheet
+Nakagawa_c14	Tilia	Tilia	TRSH	1	0.13947001	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Nakagawa_c14	Ulmus-Zelkova	Ulmus/Zelkova	TRSH	24	3.3472803	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Nakagawa_c14	Artemisia	Artemisia	HERB	16	2.2315202	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Nakagawa_c14	Compo.	Asteraceae	HERB	5	0.69735007	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Nakagawa_c14	Gramine.	Poaceae	HERB	2	0.27894003	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.

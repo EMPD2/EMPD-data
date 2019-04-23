@@ -1,23 +1,23 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Atanassova_e13	1	3	1	Abies	Abies	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-1	Atanassova_e13	2	3	2	Acer	Acer campestre-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-2	Atanassova_e13	34	9	34	Achillea type	Matricaria-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-3	Atanassova_e13	4	11	4	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-4	Atanassova_e13	37	3	37	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-5	Atanassova_e13	574	46	7	Carpinus betulus	Carpinus betulus	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-6	Atanassova_e13	50	4	50	Cerealia	Cerealia-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-7	Atanassova_e13	52	15	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-8	Atanassova_e13	9	11	9	Corylus	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-9	Atanassova_e13	12	264	12	Fagus	Fagus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-10	Atanassova_e13	72	5	72	Fraxinus ornus	Fraxinus ornus	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-11	Atanassova_e13	15	1	15	Juglans	Juglans	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-12	Atanassova_e13	18	8	18	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-13	Atanassova_e13	19	496	19	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-14	Atanassova_e13	87	4	87	Plantago lanceolata	Plantago lanceolata-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-15	Atanassova_e13	106	26	106	Poaceae	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-16	Atanassova_e13	1050	2	167	Pteridophyta	Monolete fern spores	VACR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-17	Atanassova_e13	208	66	208	Quercus	Quercus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-18	Atanassova_e13	1051	19	1051	Scleranthus	Scleranthus	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-19	Atanassova_e13	153	3	153	Silene	Silene-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-20	Atanassova_e13	29	7	29	Tilia	Tilia	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-21	Atanassova_e13	146	11	146	Vitis	Vitis	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Atanassova_e13	Abies	Abies	TRSH	3	0.29498525	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Atanassova_e13	Acer	Acer campestre-type	TRSH	3	0.29498525	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Atanassova_e13	Alnus	Alnus	TRSH	11	1.0816126	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Atanassova_e13	Carpinus betulus	Carpinus betulus	TRSH	46	4.5231072	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Atanassova_e13	Corylus	Corylus	TRSH	11	1.0816126	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Atanassova_e13	Fagus	Fagus	TRSH	264	25.958702	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Atanassova_e13	Fraxinus ornus	Fraxinus ornus	TRSH	5	0.49164208	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Atanassova_e13	Juglans	Juglans	TRSH	1	0.098328417	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Atanassova_e13	Picea	Picea	TRSH	8	0.78662734	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Atanassova_e13	Pinus	Pinus	TRSH	496	48.770895	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Atanassova_e13	Quercus	Quercus	TRSH	66	6.4896755	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Atanassova_e13	Tilia	Tilia	TRSH	7	0.68829892	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Atanassova_e13	Vitis	Vitis	TRSH	11	1.0816126	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Atanassova_e13	Artemisia	Artemisia	HERB	3	0.29498525	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Atanassova_e13	Cerealia	Cerealia-type	HERB	4	0.39331367	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Atanassova_e13	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	15	1.4749263	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Atanassova_e13	Achillea type	Matricaria-type	HERB	9	0.88495575	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Atanassova_e13	Plantago lanceolata	Plantago lanceolata-type	HERB	4	0.39331367	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Atanassova_e13	Poaceae	Poaceae	HERB	26	2.5565388	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Atanassova_e13	Scleranthus	Scleranthus	HERB	19	1.8682399	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Atanassova_e13	Silene	Silene-type	HERB	3	0.29498525	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Atanassova_e13	Pteridophyta	Monolete fern spores	VACR	2	0.19665683	GroupID taken from POLNET. Only one taxon matched that acc_varname.

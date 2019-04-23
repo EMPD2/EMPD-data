@@ -1,16 +1,16 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Stivrins_a9	4	21	4	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-1	Stivrins_a9	5	147	5	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-2	Stivrins_a9	592	3	470	Calluna	Calluna vulgaris	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-3	Stivrins_a9	7	3	7	Carpinus	Carpinus betulus	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-4	Stivrins_a9	9	7	9	Corylus	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-5	Stivrins_a9	61	14	61	Cyperaceae	Cyperaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-6	Stivrins_a9	783	7	783	Dryopteris	Dryopteris-type	VACR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-7	Stivrins_a9	11	3	11	Ericaceae	Ericales (tetrad)	DWAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-8	Stivrins_a9	16	3	16	Larix	Larix/Pseudotsuga	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-9	Stivrins_a9	18	48	18	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-10	Stivrins_a9	19	258	19	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-11	Stivrins_a9	106	11	106	Poaceae	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-12	Stivrins_a9	165	72	165	Sphagnum	Sphagnum	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-13	Stivrins_a9	31	3	31	Ulmus	Ulmus/Zelkova	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-14	Stivrins_a9	663	7	663	Urtica	Urtica	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Stivrins_a9	Alnus	Alnus	TRSH	21	3.9252336	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Stivrins_a9	Betula	Betula	TRSH	147	27.476636	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Stivrins_a9	Calluna	Calluna vulgaris	TRSH	3	0.56074766	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Stivrins_a9	Carpinus	Carpinus betulus	TRSH	3	0.56074766	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Stivrins_a9	Corylus	Corylus	TRSH	7	1.3084112	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Stivrins_a9	Ericaceae	Ericales (tetrad)	DWAR	3	0.56074766	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Stivrins_a9	Larix	Larix/Pseudotsuga	TRSH	3	0.56074766	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Stivrins_a9	Picea	Picea	TRSH	48	8.9719626	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Stivrins_a9	Pinus	Pinus	TRSH	258	48.224299	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Stivrins_a9	Ulmus	Ulmus/Zelkova	TRSH	3	0.56074766	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Stivrins_a9	Cyperaceae	Cyperaceae	HERB	14	2.6168224	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Stivrins_a9	Poaceae	Poaceae	HERB	11	2.0560748	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Stivrins_a9	Urtica	Urtica	HERB	7	1.3084112	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Stivrins_a9	Dryopteris	Dryopteris-type	VACR	7	1.3084112	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Stivrins_a9	Sphagnum	Sphagnum	NOPO	72		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.

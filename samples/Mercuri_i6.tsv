@@ -1,22 +1,22 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Mercuri_i6	1	1	1	Abies	Abies	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-1	Mercuri_i6	1805	1	52	Amaranthus	Chenopodiaceae/Amaranthaceae	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-2	Mercuri_i6	772	1	180	Asteroideae	Asteraceae subf. Asteroideae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-3	Mercuri_i6	1474	1	1311	Carex	Carex	HELO	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-4	Mercuri_i6	52	19	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-5	Mercuri_i6	1822	4	53	Cichorieae	Asteraceae subf. Cichorioideae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-6	Mercuri_i6	261	3	119	Galium type	Rubiaceae	HERB	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
-7	Mercuri_i6	1838	23	1838	Kiwi	Actinidia deliciosa	TRSH	GroupID taken from spreadsheet
-8	Mercuri_i6	703	10679	703	Lycopodium (added)	Lycopodium (added)	NOPO	GroupID taken from spreadsheet
-9	Mercuri_i6	571	7	571	Lycopodium (counted)	Lycopodium (counted)	NOPO	GroupID taken from spreadsheet
-10	Mercuri_i6	1846	2	1440	Medicago	Medicago sativa-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-11	Mercuri_i6	1848	75	40	Melilotus	Astragalus-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-12	Mercuri_i6	19	7	19	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-13	Mercuri_i6	735	8	286	Plantago	Plantago	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-14	Mercuri_i6	1864	39	106	Poaceae wild grass group	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-15	Mercuri_i6	1865	258	1865	Pollen Sum	Pollen sums	NOPO	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-16	Mercuri_i6	738	3	120	Rumex	Rumex/Oxyria	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-17	Mercuri_i6	657	37	139	Trifolium pratense type	Trifolium pratense-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-18	Mercuri_i6	1208	33	140	Trifolium undiff.	Trifolium-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-19	Mercuri_i6	1888	6.6	1888	Weight (g)	Weight	NOPO	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-20	Mercuri_i6	823	1	439	Zea mays	Zea mays	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Mercuri_i6	Abies	Abies	TRSH	1	0.38910506	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Mercuri_i6	Kiwi	Actinidia deliciosa	TRSH	23	8.9494163	GroupID taken from spreadsheet
+Mercuri_i6	Pinus	Pinus	TRSH	7	2.7237354	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Mercuri_i6	Asteroideae	Asteraceae subf. Asteroideae	HERB	1	0.38910506	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Mercuri_i6	Cichorieae	Asteraceae subf. Cichorioideae	HERB	4	1.5564202	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Mercuri_i6	Melilotus	Astragalus-type	HERB	75	29.182879	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Mercuri_i6	Amaranthus	Chenopodiaceae/Amaranthaceae	HERB	1	0.38910506	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Mercuri_i6	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	19	7.3929961	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Mercuri_i6	Medicago	Medicago sativa-type	HERB	2	0.77821012	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Mercuri_i6	Plantago	Plantago	HERB	8	3.1128405	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Mercuri_i6	Poaceae wild grass group	Poaceae	HERB	39	15.175097	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Mercuri_i6	Galium type	Rubiaceae	HERB	3	1.1673152	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
+Mercuri_i6	Rumex	Rumex/Oxyria	HERB	3	1.1673152	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Mercuri_i6	Trifolium pratense type	Trifolium pratense-type	HERB	37	14.396887	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Mercuri_i6	Trifolium undiff.	Trifolium-type	HERB	33	12.840467	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Mercuri_i6	Zea mays	Zea mays	HERB	1	0.38910506	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Mercuri_i6	Carex	Carex	HELO	1	0.38910506	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Mercuri_i6	Lycopodium (added)	Lycopodium (added)	NOPO	10679		GroupID taken from spreadsheet
+Mercuri_i6	Lycopodium (counted)	Lycopodium (counted)	NOPO	7		GroupID taken from spreadsheet
+Mercuri_i6	Pollen Sum	Pollen sums	NOPO	258		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Mercuri_i6	Weight (g)	Weight	NOPO	6.6		GroupID taken from POLNET. Only one taxon matched that acc_varname.

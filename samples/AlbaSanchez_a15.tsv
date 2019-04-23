@@ -1,23 +1,23 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	AlbaSanchez_a15	440	11	440	Abies pinsapo	Abies pinsapo	TRSH	GroupID taken from spreadsheet
-1	AlbaSanchez_a15	22	54	22	Quercus evergreen	Quercus ilex-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-2	AlbaSanchez_a15	443	65	148	Pinus sylvestris/nigra/uncinata t.	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-3	AlbaSanchez_a15	444	3	106	Poaceae undiff.	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-4	AlbaSanchez_a15	450	16	28	Juniperus t.	Juniperus-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-5	AlbaSanchez_a15	21	10	21	Quercus deciduous	Quercus robur-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-6	AlbaSanchez_a15	452	3	452	Pinus pinaster	Pinus pinaster	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-7	AlbaSanchez_a15	453	24	453	Pinus pinea/halepensis t.	Pinus halepensis-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-8	AlbaSanchez_a15	455	30	95	Olea	Olea europaea	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-9	AlbaSanchez_a15	101	5	101	Phillyrea	Phillyrea	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-10	AlbaSanchez_a15	459	27	155	Asteraceae(equinulada)	Asteraceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-11	AlbaSanchez_a15	460	6	53	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-12	AlbaSanchez_a15	465	2	58	Plantago coronopus t.	Plantago coronopus-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-13	AlbaSanchez_a15	52	8	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-14	AlbaSanchez_a15	46	2	46	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-15	AlbaSanchez_a15	207	1	207	Buxus	Buxus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-16	AlbaSanchez_a15	553	2	468	Erica scoparia t.	Erica arborea-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-17	AlbaSanchez_a15	556	1	197	Monocot.	Indeterminable: unknown	INUN	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-18	AlbaSanchez_a15	557	3	197	Leg.	Indeterminable: unknown	INUN	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-19	AlbaSanchez_a15	43	2	43	Bupleurum	Bupleurum	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-20	AlbaSanchez_a15	567	3	567	Sordaria sp	Sordaria-type	FUNG	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-21	AlbaSanchez_a15	571	7	571	Lycopodium (counted)	Lycopodium (counted)	NOPO	GroupID taken from spreadsheet
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+AlbaSanchez_a15	Abies pinsapo	Abies pinsapo	TRSH	11	4.0590406	GroupID taken from spreadsheet
+AlbaSanchez_a15	Buxus	Buxus	TRSH	1	0.36900369	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+AlbaSanchez_a15	Erica scoparia t.	Erica arborea-type	TRSH	2	0.73800738	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a15	Juniperus t.	Juniperus-type	TRSH	16	5.904059	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a15	Olea	Olea europaea	TRSH	30	11.070111	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a15	Phillyrea	Phillyrea	TRSH	5	1.8450185	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a15	Pinus pinea/halepensis t.	Pinus halepensis-type	TRSH	24	8.8560886	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a15	Pinus pinaster	Pinus pinaster	TRSH	3	1.1070111	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a15	Pinus sylvestris/nigra/uncinata t.	Pinus sylvestris-type	TRSH	65	23.98524	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a15	Quercus evergreen	Quercus ilex-type	TRSH	54	19.926199	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a15	Quercus deciduous	Quercus robur-type	TRSH	10	3.6900369	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a15	Asteraceae(equinulada)	Asteraceae	HERB	27	9.9630996	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+AlbaSanchez_a15	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	6	2.2140221	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+AlbaSanchez_a15	Bupleurum	Bupleurum	HERB	2	0.73800738	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a15	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	2	0.73800738	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a15	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	8	2.9520295	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a15	Plantago coronopus t.	Plantago coronopus-type	HERB	2	0.73800738	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a15	Poaceae undiff.	Poaceae	HERB	3	1.1070111	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+AlbaSanchez_a15	Monocot.	Indeterminable: unknown	INUN	1		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a15	Leg.	Indeterminable: unknown	INUN	3		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a15	Lycopodium (counted)	Lycopodium (counted)	NOPO	7		GroupID taken from spreadsheet
+AlbaSanchez_a15	Sordaria sp	Sordaria-type	FUNG	3		GroupID taken from POLNET. Only one taxon matched that acc_varname.

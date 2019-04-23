@@ -1,24 +1,24 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Kolaczek_i29	2	1	2	Acer	Acer campestre-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-1	Kolaczek_i29	1386	32	4	Alnus undiff.	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-2	Kolaczek_i29	600	1	34	Anthemis-type	Matricaria-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-3	Kolaczek_i29	1117	1	36	Apiaceae undiff.	Apiaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-4	Kolaczek_i29	37	7	37	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-5	Kolaczek_i29	1225	1	1121	Avena-type	Avena-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-6	Kolaczek_i29	1390	74	5	Betula undiff.	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-7	Kolaczek_i29	574	8	7	Carpinus betulus	Carpinus betulus	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-8	Kolaczek_i29	833	2	50	Cerealia undiff.	Cerealia-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-9	Kolaczek_i29	52	1	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-10	Kolaczek_i29	1394	1	1334	Corroded	Indeterminable: corroded	INUN	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-11	Kolaczek_i29	59	7	9	Corylus avellana	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-12	Kolaczek_i29	73	3	73	Filipendula	Filipendula	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-13	Kolaczek_i29	75	2	75	Fraxinus excelsior	Fraxinus excelsior-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-14	Kolaczek_i29	616	1	119	Galium-type	Rubiaceae	HERB	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
-15	Kolaczek_i29	960	1	274	Hordeum-type	Hordeum-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-16	Kolaczek_i29	794	25.5	794	Picea abies	Picea abies-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-17	Kolaczek_i29	1442	510	148	Pinus sylvestris t.	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-18	Kolaczek_i29	444	5	106	Poaceae undiff.	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-19	Kolaczek_i29	208	9	208	Quercus	Quercus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-20	Kolaczek_i29	645	2	121	Rumex acetosa-type	Rumex acetosa-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-21	Kolaczek_i29	1410	1	25	Salix undiff.	Salix	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-22	Kolaczek_i29	165	3	165	Sphagnum	Sphagnum	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Kolaczek_i29	Acer	Acer campestre-type	TRSH	1	0.14398848	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Kolaczek_i29	Alnus undiff.	Alnus	TRSH	32	4.6076314	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Kolaczek_i29	Betula undiff.	Betula	TRSH	74	10.655148	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Kolaczek_i29	Carpinus betulus	Carpinus betulus	TRSH	8	1.1519078	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Kolaczek_i29	Corylus avellana	Corylus	TRSH	7	1.0079194	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Kolaczek_i29	Fraxinus excelsior	Fraxinus excelsior-type	TRSH	2	0.28797696	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Kolaczek_i29	Picea abies	Picea abies-type	TRSH	25.5	3.6717063	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Kolaczek_i29	Pinus sylvestris t.	Pinus sylvestris-type	TRSH	510	73.434125	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Kolaczek_i29	Quercus	Quercus	TRSH	9	1.2958963	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Kolaczek_i29	Salix undiff.	Salix	TRSH	1	0.14398848	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Kolaczek_i29	Apiaceae undiff.	Apiaceae	HERB	1	0.14398848	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Kolaczek_i29	Artemisia	Artemisia	HERB	7	1.0079194	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Kolaczek_i29	Avena-type	Avena-type	HERB	1	0.14398848	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Kolaczek_i29	Cerealia undiff.	Cerealia-type	HERB	2	0.28797696	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Kolaczek_i29	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.14398848	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Kolaczek_i29	Filipendula	Filipendula	HERB	3	0.43196544	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Kolaczek_i29	Hordeum-type	Hordeum-type	HERB	1	0.14398848	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Kolaczek_i29	Anthemis-type	Matricaria-type	HERB	1	0.14398848	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Kolaczek_i29	Poaceae undiff.	Poaceae	HERB	5	0.7199424	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Kolaczek_i29	Galium-type	Rubiaceae	HERB	1	0.14398848	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
+Kolaczek_i29	Rumex acetosa-type	Rumex acetosa-type	HERB	2	0.28797696	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Kolaczek_i29	Corroded	Indeterminable: corroded	INUN	1		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Kolaczek_i29	Sphagnum	Sphagnum	NOPO	3		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.

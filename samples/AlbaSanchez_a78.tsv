@@ -1,8 +1,8 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	AlbaSanchez_a78	442	55	356	Cedrus atlantica	Cedrus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-1	AlbaSanchez_a78	22	233	22	Quercus evergreen	Quercus ilex-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-2	AlbaSanchez_a78	444	1	106	Poaceae undiff.	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-3	AlbaSanchez_a78	450	2	28	Juniperus t.	Juniperus-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-4	AlbaSanchez_a78	455	4	95	Olea	Olea europaea	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-5	AlbaSanchez_a78	496	2	285	Fabaceae undiff.	Fabaceae undiff.	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-6	AlbaSanchez_a78	571	1	571	Lycopodium (counted)	Lycopodium (counted)	NOPO	GroupID taken from spreadsheet
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+AlbaSanchez_a78	Cedrus atlantica	Cedrus	TRSH	55	18.518519	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+AlbaSanchez_a78	Juniperus t.	Juniperus-type	TRSH	2	0.67340067	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a78	Olea	Olea europaea	TRSH	4	1.3468013	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a78	Quercus evergreen	Quercus ilex-type	TRSH	233	78.451178	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a78	Fabaceae undiff.	Fabaceae undiff.	HERB	2	0.67340067	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+AlbaSanchez_a78	Poaceae undiff.	Poaceae	HERB	1	0.33670034	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+AlbaSanchez_a78	Lycopodium (counted)	Lycopodium (counted)	NOPO	1		GroupID taken from spreadsheet

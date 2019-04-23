@@ -1,16 +1,16 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Muller_a10	150	2	150	Betula sect. Albae	Betula pubescens-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-1	Muller_a10	149	12	149	Betula sect. Nanae	Betula nana-type	DWAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-2	Muller_a10	2971	12	151	Alnus fruticosa	Alnus viridis	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-3	Muller_a10	1060	1	147	Pinus haploxylon-type	Pinus cembra-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-4	Muller_a10	25	218	25	Salix	Salix	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-5	Muller_a10	61	30	61	Cyperaceae	Cyperaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-6	Muller_a10	106	45	106	Poaceae	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-7	Muller_a10	2975	1	251	Asteraceae saussurea-type	Saussurea-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-8	Muller_a10	2996	4	552	Ericaceae vaccinium-type	Vaccinium	DWAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-9	Muller_a10	2909	2	197	Pollen indeterminata	Indeterminable: unknown	INUN	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-10	Muller_a10	118	2	118	Rosaceae	Rosaceae	TRSH	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
-11	Muller_a10	2353	5	2353	Microthyrium	Microthyrium	FUNG	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-12	Muller_a10	2979	329	197	Pollen, terrestrial	Indeterminable: unknown	INUN	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-13	Muller_a10	3009	249	571	Lycopodium spores counted	Lycopodium (counted)	NOPO	GroupID taken from spreadsheet
-14	Muller_a10	3010	2822	3010	Pollen per unit sediment mass	Pollen per unit sediment mass (/g)	NOPO	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Muller_a10	Alnus fruticosa	Alnus viridis	TRSH	12	3.6697248	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Muller_a10	Betula sect. Nanae	Betula nana-type	DWAR	12	3.6697248	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Muller_a10	Betula sect. Albae	Betula pubescens-type	TRSH	2	0.6116208	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Muller_a10	Pinus haploxylon-type	Pinus cembra-type	TRSH	1	0.3058104	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Muller_a10	Rosaceae	Rosaceae	TRSH	2	0.6116208	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
+Muller_a10	Salix	Salix	TRSH	218	66.666667	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Muller_a10	Ericaceae vaccinium-type	Vaccinium	DWAR	4	1.2232416	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Muller_a10	Cyperaceae	Cyperaceae	HERB	30	9.1743119	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Muller_a10	Poaceae	Poaceae	HERB	45	13.761468	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Muller_a10	Asteraceae saussurea-type	Saussurea-type	HERB	1	0.3058104	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Muller_a10	Pollen indeterminata	Indeterminable: unknown	INUN	2		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Muller_a10	Pollen, terrestrial	Indeterminable: unknown	INUN	329		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Muller_a10	Lycopodium spores counted	Lycopodium (counted)	NOPO	249		GroupID taken from spreadsheet
+Muller_a10	Microthyrium	Microthyrium	FUNG	5		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Muller_a10	Pollen per unit sediment mass	Pollen per unit sediment mass (/g)	NOPO	2822		GroupID taken from POLNET. Only one taxon matched that acc_varname.

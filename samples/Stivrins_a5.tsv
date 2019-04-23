@@ -1,35 +1,35 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Stivrins_a5	4	193	4	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-1	Stivrins_a5	36	14	36	Apiaceae	Apiaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-2	Stivrins_a5	987	10	37	Artemisia type	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-3	Stivrins_a5	41	4	41	Aster type	Aster-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-4	Stivrins_a5	1581	30	829	Avena-Triticum	Avena/Triticum-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-5	Stivrins_a5	5	265	5	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-6	Stivrins_a5	42	9	42	Brassicaceae	Brassicaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-7	Stivrins_a5	775	1	775	Cannabis	Cannabis sativa	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-8	Stivrins_a5	7	2	7	Carpinus	Carpinus betulus	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-9	Stivrins_a5	832	2	475	Centaurea cyanus	Centaurea cyanus-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-10	Stivrins_a5	52	6	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-11	Stivrins_a5	9	5	9	Corylus	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-12	Stivrins_a5	61	31	61	Cyperaceae	Cyperaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-13	Stivrins_a5	73	6	73	Filipendula	Filipendula	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-14	Stivrins_a5	13	7	13	Fraxinus	Fraxinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-15	Stivrins_a5	1582	4	274	Hordeum	Hordeum-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-16	Stivrins_a5	85	16	85	Juniperus	Juniperus communis-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-17	Stivrins_a5	18	28	18	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-18	Stivrins_a5	19	245	19	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-19	Stivrins_a5	87	8	87	Plantago lanceolata	Plantago lanceolata-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-20	Stivrins_a5	106	71	106	Poaceae	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-21	Stivrins_a5	167	10	167	Polypodiaceae	Monolete fern spores	VACR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-22	Stivrins_a5	1591	20	923	Potamogeton natans-type	Potamogeton natans-type	AQUA	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-23	Stivrins_a5	810	1	810	Primulaceae	Primulaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-24	Stivrins_a5	208	16	208	Quercus	Quercus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-25	Stivrins_a5	640	1	290	Ranunculus	Ranunculus-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-26	Stivrins_a5	118	2	118	Rosaceae	Rosaceae	TRSH	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
-27	Stivrins_a5	738	12	120	Rumex	Rumex/Oxyria	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-28	Stivrins_a5	25	21	25	Salix	Salix	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-29	Stivrins_a5	272	9	272	Secale cereale	Secale cereale	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-30	Stivrins_a5	29	3	29	Tilia	Tilia	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-31	Stivrins_a5	140	3	140	Trifolium	Trifolium-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-32	Stivrins_a5	31	2	31	Ulmus	Ulmus/Zelkova	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-33	Stivrins_a5	663	5	663	Urtica	Urtica	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Stivrins_a5	Alnus	Alnus	TRSH	193	18.522073	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Stivrins_a5	Betula	Betula	TRSH	265	25.431862	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Stivrins_a5	Carpinus	Carpinus betulus	TRSH	2	0.19193858	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Stivrins_a5	Corylus	Corylus	TRSH	5	0.47984645	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Stivrins_a5	Fraxinus	Fraxinus	TRSH	7	0.67178503	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Stivrins_a5	Juniperus	Juniperus communis-type	TRSH	16	1.5355086	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Stivrins_a5	Picea	Picea	TRSH	28	2.6871401	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Stivrins_a5	Pinus	Pinus	TRSH	245	23.512476	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Stivrins_a5	Quercus	Quercus	TRSH	16	1.5355086	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Stivrins_a5	Rosaceae	Rosaceae	TRSH	2	0.19193858	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
+Stivrins_a5	Salix	Salix	TRSH	21	2.0153551	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Stivrins_a5	Tilia	Tilia	TRSH	3	0.28790787	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Stivrins_a5	Ulmus	Ulmus/Zelkova	TRSH	2	0.19193858	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Stivrins_a5	Apiaceae	Apiaceae	HERB	14	1.3435701	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Stivrins_a5	Artemisia type	Artemisia	HERB	10	0.9596929	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Stivrins_a5	Aster type	Aster-type	HERB	4	0.38387716	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Stivrins_a5	Avena-Triticum	Avena/Triticum-type	HERB	30	2.8790787	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Stivrins_a5	Brassicaceae	Brassicaceae	HERB	9	0.86372361	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Stivrins_a5	Cannabis	Cannabis sativa	HERB	1	0.09596929	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Stivrins_a5	Centaurea cyanus	Centaurea cyanus-type	HERB	2	0.19193858	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Stivrins_a5	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	6	0.57581574	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Stivrins_a5	Cyperaceae	Cyperaceae	HERB	31	2.975048	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Stivrins_a5	Filipendula	Filipendula	HERB	6	0.57581574	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Stivrins_a5	Hordeum	Hordeum-type	HERB	4	0.38387716	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Stivrins_a5	Plantago lanceolata	Plantago lanceolata-type	HERB	8	0.76775432	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Stivrins_a5	Poaceae	Poaceae	HERB	71	6.8138196	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Stivrins_a5	Primulaceae	Primulaceae	HERB	1	0.09596929	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Stivrins_a5	Ranunculus	Ranunculus-type	HERB	1	0.09596929	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Stivrins_a5	Rumex	Rumex/Oxyria	HERB	12	1.1516315	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Stivrins_a5	Secale cereale	Secale cereale	HERB	9	0.86372361	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Stivrins_a5	Trifolium	Trifolium-type	HERB	3	0.28790787	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Stivrins_a5	Urtica	Urtica	HERB	5	0.47984645	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Stivrins_a5	Potamogeton natans-type	Potamogeton natans-type	AQUA	20	1.9193858	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Stivrins_a5	Polypodiaceae	Monolete fern spores	VACR	10	0.9596929	GroupID taken from POLNET. Only one taxon matched that acc_varname.

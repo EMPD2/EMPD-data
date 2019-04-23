@@ -1,31 +1,31 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Leipe_b6	1	125	1	Abies	Abies	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-1	Leipe_b6	2970	5	2970	Adoxaceae	Adoxaceae	HERB	GroupID taken from spreadsheet
-2	Leipe_b6	771	10	175	Alnus glutinosa	Alnus glutinosa-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-3	Leipe_b6	150	108	150	Betula sect. Albae	Betula pubescens-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-4	Leipe_b6	2972	1	2972	Celastraceae	Celastraceae	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-5	Leipe_b6	10	1	10	Cryptomeria	Cryptomeria-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-6	Leipe_b6	1953	48	1953	Pinaceae	Pinaceae	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-7	Leipe_b6	2902	7	148	Pinus subgen. Diploxylon	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-8	Leipe_b6	2903	13	147	Pinus subgen. Haploxylon	Pinus cembra-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-9	Leipe_b6	1959	2	209	Pterocarya	Pterocarya	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-10	Leipe_b6	2924	5	1194	Rhus-type	Rhus-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-11	Leipe_b6	1242	4	132	Sorbus-type	Sorbus-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-12	Leipe_b6	37	14	37	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-13	Leipe_b6	61	3	61	Cyperaceae	Cyperaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-14	Leipe_b6	866	3	866	Impatiens	Impatiens	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-15	Leipe_b6	735	2	286	Plantago	Plantago	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-16	Leipe_b6	106	20	106	Poaceae	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-17	Leipe_b6	159	1	159	Polygonaceae	Polygonaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-18	Leipe_b6	156	9	156	Ranunculaceae	Ranunculaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-19	Leipe_b6	650	1	650	Saxifragaceae	Saxifragaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-20	Leipe_b6	2979	1	197	Pollen, terrestrial	Indeterminable: unknown	INUN	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-21	Leipe_b6	976	1	203	Lycopodium annotinum	Lycopodium annotinum-type	VACR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-22	Leipe_b6	167	1	167	Polypodiaceae	Monolete fern spores	VACR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-23	Leipe_b6	2983	8	2124	Centropyxis sp.	Centropyxis	ALGA	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-24	Leipe_b6	2989	1	2987	Macrobiotus hufelandii	Tardigrada	INVE	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-25	Leipe_b6	2990	4	2780	Stomata	Stomata	VEMI	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-26	Leipe_b6	2991	91	2911	Marker	Marker (counted)	NOPO	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-27	Leipe_b6	2992	329	197	Trees and shrubs	Indeterminable: unknown	INUN	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-28	Leipe_b6	2993	53	2993	Herbs	Herbs	UPHE	GroupID taken from spreadsheet
-29	Leipe_b6	2910	383	197	Pollen total	Indeterminable: unknown	INUN	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Leipe_b6	Abies	Abies	TRSH	125	28.604119	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Leipe_b6	Alnus glutinosa	Alnus glutinosa-type	TRSH	10	2.2883295	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Leipe_b6	Betula sect. Albae	Betula pubescens-type	TRSH	108	24.713959	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Leipe_b6	Celastraceae	Celastraceae	TRSH	1	0.22883295	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Leipe_b6	Cryptomeria	Cryptomeria-type	TRSH	1	0.22883295	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Leipe_b6	Pinaceae	Pinaceae	TRSH	48	10.983982	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Leipe_b6	Pinus subgen. Haploxylon	Pinus cembra-type	TRSH	13	2.9748284	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Leipe_b6	Pinus subgen. Diploxylon	Pinus sylvestris-type	TRSH	7	1.6018307	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Leipe_b6	Pterocarya	Pterocarya	TRSH	2	0.4576659	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Leipe_b6	Rhus-type	Rhus-type	TRSH	5	1.1441648	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Leipe_b6	Sorbus-type	Sorbus-type	TRSH	4	0.91533181	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Leipe_b6	Adoxaceae	Adoxaceae	HERB	5	1.1441648	GroupID taken from spreadsheet
+Leipe_b6	Artemisia	Artemisia	HERB	14	3.2036613	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Leipe_b6	Cyperaceae	Cyperaceae	HERB	3	0.68649886	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Leipe_b6	Herbs	Herbs	UPHE	53	12.128146	GroupID taken from spreadsheet
+Leipe_b6	Impatiens	Impatiens	HERB	3	0.68649886	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Leipe_b6	Plantago	Plantago	HERB	2	0.4576659	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Leipe_b6	Poaceae	Poaceae	HERB	20	4.576659	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Leipe_b6	Polygonaceae	Polygonaceae	HERB	1	0.22883295	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Leipe_b6	Ranunculaceae	Ranunculaceae	HERB	9	2.0594966	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Leipe_b6	Saxifragaceae	Saxifragaceae	HERB	1	0.22883295	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Leipe_b6	Centropyxis sp.	Centropyxis	ALGA	8	1.8306636	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Leipe_b6	Pollen, terrestrial	Indeterminable: unknown	INUN	1		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Leipe_b6	Trees and shrubs	Indeterminable: unknown	INUN	329		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Leipe_b6	Pollen total	Indeterminable: unknown	INUN	383		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Leipe_b6	Lycopodium annotinum	Lycopodium annotinum-type	VACR	1	0.22883295	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Leipe_b6	Marker	Marker (counted)	NOPO	91		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Leipe_b6	Polypodiaceae	Monolete fern spores	VACR	1	0.22883295	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Leipe_b6	Stomata	Stomata	VEMI	4		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Leipe_b6	Macrobiotus hufelandii	Tardigrada	INVE	1		GroupID taken from POLNET. Only one taxon matched that acc_varname.

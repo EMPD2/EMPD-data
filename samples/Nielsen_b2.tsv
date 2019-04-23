@@ -1,36 +1,36 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Nielsen_b2	19	286	19	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-1	Nielsen_b2	18	44	18	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-2	Nielsen_b2	5	266	5	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-3	Nielsen_b2	9	28	9	Corylus	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-4	Nielsen_b2	4	110	4	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-5	Nielsen_b2	208	57	208	Quercus	Quercus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-6	Nielsen_b2	31	5	31	Ulmus	Ulmus/Zelkova	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-7	Nielsen_b2	29	8	29	Tilia	Tilia	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-8	Nielsen_b2	13	4	13	Fraxinus	Fraxinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-9	Nielsen_b2	12	2	12	Fagus	Fagus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-10	Nielsen_b2	25	7	25	Salix	Salix	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-11	Nielsen_b2	85	8	85	Juniperus	Juniperus communis-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-12	Nielsen_b2	493	1	423	Sambucus	Sambucus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-13	Nielsen_b2	1	2	1	Abies	Abies	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-14	Nielsen_b2	470	8	470	Calluna vulgaris	Calluna vulgaris	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-15	Nielsen_b2	272	1	272	Secale cereale	Secale cereale	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-16	Nielsen_b2	960	5	274	Hordeum-type	Hordeum-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-17	Nielsen_b2	823	1	439	Zea mays	Zea mays	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-18	Nielsen_b2	52	1	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-19	Nielsen_b2	1184	12	167	Polypodiaceae undiff.	Monolete fern spores	VACR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-20	Nielsen_b2	87	3	87	Plantago lanceolata	Plantago lanceolata-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-21	Nielsen_b2	106	81	106	Poaceae	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-22	Nielsen_b2	122	15	122	Rumex acetosella	Rumex acetosella	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-23	Nielsen_b2	616	2	119	Galium-type	Rubiaceae	HERB	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
-24	Nielsen_b2	36	1	36	Apiaceae	Apiaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-25	Nielsen_b2	69	1	69	Fabaceae	Fabaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-26	Nielsen_b2	61	42	61	Cyperaceae	Cyperaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-27	Nielsen_b2	1096	1	196	Sparganium-type	Sparganium-type	AQUA	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-28	Nielsen_b2	165	7	165	Sphagnum	Sphagnum	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-29	Nielsen_b2	1719	11	1719	Isoëtes	Isoëtes	AQVP	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-30	Nielsen_b2	668	1	133	Potamogeton	Potamogeton-type	AQUA	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-31	Nielsen_b2	728	1	197	Indeterminable	Indeterminable: unknown	INUN	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-32	Nielsen_b2	674	7	674	Botryococcus	Botryococcus	ALGA	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-33	Nielsen_b2	673	18	673	Pediastrum	Pediastrum	ALGA	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-34	Nielsen_b2	2637	500	2637	Lycopodium spike	Lycopodium spike (counted)	NOPO	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Nielsen_b2	Abies	Abies	TRSH	2	0.1998002	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Nielsen_b2	Alnus	Alnus	TRSH	110	10.989011	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Nielsen_b2	Betula	Betula	TRSH	266	26.573427	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Nielsen_b2	Calluna vulgaris	Calluna vulgaris	TRSH	8	0.7992008	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Nielsen_b2	Corylus	Corylus	TRSH	28	2.7972028	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Nielsen_b2	Fagus	Fagus	TRSH	2	0.1998002	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Nielsen_b2	Fraxinus	Fraxinus	TRSH	4	0.3996004	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Nielsen_b2	Juniperus	Juniperus communis-type	TRSH	8	0.7992008	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Nielsen_b2	Picea	Picea	TRSH	44	4.3956044	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Nielsen_b2	Pinus	Pinus	TRSH	286	28.571429	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Nielsen_b2	Quercus	Quercus	TRSH	57	5.6943057	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Nielsen_b2	Salix	Salix	TRSH	7	0.6993007	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Nielsen_b2	Sambucus	Sambucus	TRSH	1	0.0999001	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Nielsen_b2	Tilia	Tilia	TRSH	8	0.7992008	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Nielsen_b2	Ulmus	Ulmus/Zelkova	TRSH	5	0.4995005	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Nielsen_b2	Apiaceae	Apiaceae	HERB	1	0.0999001	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Nielsen_b2	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.0999001	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Nielsen_b2	Cyperaceae	Cyperaceae	HERB	42	4.1958042	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Nielsen_b2	Fabaceae	Fabaceae	HERB	1	0.0999001	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Nielsen_b2	Hordeum-type	Hordeum-type	HERB	5	0.4995005	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Nielsen_b2	Plantago lanceolata	Plantago lanceolata-type	HERB	3	0.2997003	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Nielsen_b2	Poaceae	Poaceae	HERB	81	8.0919081	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Nielsen_b2	Galium-type	Rubiaceae	HERB	2	0.1998002	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
+Nielsen_b2	Rumex acetosella	Rumex acetosella	HERB	15	1.4985015	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Nielsen_b2	Secale cereale	Secale cereale	HERB	1	0.0999001	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Nielsen_b2	Zea mays	Zea mays	HERB	1	0.0999001	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Nielsen_b2	Botryococcus	Botryococcus	ALGA	7	0.6993007	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Nielsen_b2	Isoëtes	Isoëtes	AQVP	11	1.0989011	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Nielsen_b2	Pediastrum	Pediastrum	ALGA	18	1.7982018	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Nielsen_b2	Potamogeton	Potamogeton-type	AQUA	1	0.0999001	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Nielsen_b2	Sparganium-type	Sparganium-type	AQUA	1	0.0999001	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Nielsen_b2	Indeterminable	Indeterminable: unknown	INUN	1		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Nielsen_b2	Lycopodium spike	Lycopodium spike (counted)	NOPO	500		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Nielsen_b2	Polypodiaceae undiff.	Monolete fern spores	VACR	12	1.1988012	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Nielsen_b2	Sphagnum	Sphagnum	NOPO	7		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.

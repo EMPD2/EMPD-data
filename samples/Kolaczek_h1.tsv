@@ -1,9 +1,9 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Kolaczek_h1	1386	1	4	Alnus undiff.	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-1	Kolaczek_h1	1225	1	1121	Avena-type	Avena-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-2	Kolaczek_h1	833	1	50	Cerealia undiff.	Cerealia-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-3	Kolaczek_h1	75	1	75	Fraxinus excelsior	Fraxinus excelsior-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-4	Kolaczek_h1	794	8	794	Picea abies	Picea abies-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-5	Kolaczek_h1	1405	376	148	Pinus sylvestris type	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-6	Kolaczek_h1	208	1	208	Quercus	Quercus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-7	Kolaczek_h1	165	278	165	Sphagnum	Sphagnum	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Kolaczek_h1	Alnus undiff.	Alnus	TRSH	1	0.25706941	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Kolaczek_h1	Fraxinus excelsior	Fraxinus excelsior-type	TRSH	1	0.25706941	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Kolaczek_h1	Picea abies	Picea abies-type	TRSH	8	2.0565553	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Kolaczek_h1	Pinus sylvestris type	Pinus sylvestris-type	TRSH	376	96.658098	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Kolaczek_h1	Quercus	Quercus	TRSH	1	0.25706941	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Kolaczek_h1	Avena-type	Avena-type	HERB	1	0.25706941	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Kolaczek_h1	Cerealia undiff.	Cerealia-type	HERB	1	0.25706941	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Kolaczek_h1	Sphagnum	Sphagnum	NOPO	278		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.

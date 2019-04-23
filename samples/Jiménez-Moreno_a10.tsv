@@ -1,26 +1,26 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Jiménez-Moreno_a10	718	2	52	Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-1	Jiménez-Moreno_a10	36	1	36	Apiaceae	Apiaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-2	Jiménez-Moreno_a10	37	10	37	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-3	Jiménez-Moreno_a10	722	2	180	Tubuliflorae	Asteraceae subf. Asteroideae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-4	Jiménez-Moreno_a10	42	7	42	Brassicaceae	Brassicaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-5	Jiménez-Moreno_a10	46	2	46	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-6	Jiménez-Moreno_a10	54	4	54	Cistaceae	Cistaceae	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-7	Jiménez-Moreno_a10	725	12	363	Cupressaceae	Cupressaceae undiff.	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-8	Jiménez-Moreno_a10	727	1	11	Ericaceae undiff.	Ericales (tetrad)	DWAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-9	Jiménez-Moreno_a10	69	3	69	Fabaceae	Fabaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-10	Jiménez-Moreno_a10	728	2	197	Indeterminable	Indeterminable: unknown	INUN	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-11	Jiménez-Moreno_a10	730	2	89	Liliaceae-type	Liliaceae-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-12	Jiménez-Moreno_a10	733	89	95	Olea eur	Olea europaea	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-13	Jiménez-Moreno_a10	734	111	19	Pinus undiff.	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-14	Jiménez-Moreno_a10	103	1	103	Pistacia	Pistacia	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-15	Jiménez-Moreno_a10	735	7	286	Plantago	Plantago	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-16	Jiménez-Moreno_a10	106	15	106	Poaceae	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-17	Jiménez-Moreno_a10	21	12	21	Quercus deciduous	Quercus robur-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-18	Jiménez-Moreno_a10	22	12	22	Quercus evergreen	Quercus ilex-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-19	Jiménez-Moreno_a10	156	1	156	Ranunculaceae	Ranunculaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-20	Jiménez-Moreno_a10	737	2	737	Resedaceae	Resedaceae	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-21	Jiménez-Moreno_a10	25	4	25	Salix	Salix	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-22	Jiménez-Moreno_a10	503	3	503	Saxifraga	Saxifraga	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-23	Jiménez-Moreno_a10	741	2	741	Testate amoebae	Testate amoebae	NOPO	GroupID taken from spreadsheet
-24	Jiménez-Moreno_a10	747	4	747	Urticaceae/Moraceae	Urticaceae/Moraceae	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Jiménez-Moreno_a10	Cupressaceae	Cupressaceae undiff.	TRSH	12	3.9087948	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Jiménez-Moreno_a10	Ericaceae undiff.	Ericales (tetrad)	DWAR	1	0.3257329	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Jiménez-Moreno_a10	Olea eur	Olea europaea	TRSH	89	28.990228	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Jiménez-Moreno_a10	Pinus undiff.	Pinus	TRSH	111	36.156352	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Jiménez-Moreno_a10	Pistacia	Pistacia	TRSH	1	0.3257329	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Jiménez-Moreno_a10	Quercus evergreen	Quercus ilex-type	TRSH	12	3.9087948	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Jiménez-Moreno_a10	Quercus deciduous	Quercus robur-type	TRSH	12	3.9087948	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Jiménez-Moreno_a10	Salix	Salix	TRSH	4	1.3029316	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Jiménez-Moreno_a10	Apiaceae	Apiaceae	HERB	1	0.3257329	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Jiménez-Moreno_a10	Artemisia	Artemisia	HERB	10	3.257329	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Jiménez-Moreno_a10	Tubuliflorae	Asteraceae subf. Asteroideae	HERB	2	0.6514658	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Jiménez-Moreno_a10	Brassicaceae	Brassicaceae	HERB	7	2.2801303	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Jiménez-Moreno_a10	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	2	0.6514658	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Jiménez-Moreno_a10	Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	2	0.6514658	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Jiménez-Moreno_a10	Cistaceae	Cistaceae	HERB	4	1.3029316	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Jiménez-Moreno_a10	Fabaceae	Fabaceae	HERB	3	0.9771987	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Jiménez-Moreno_a10	Liliaceae-type	Liliaceae-type	HERB	2	0.6514658	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Jiménez-Moreno_a10	Plantago	Plantago	HERB	7	2.2801303	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Jiménez-Moreno_a10	Poaceae	Poaceae	HERB	15	4.8859935	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Jiménez-Moreno_a10	Ranunculaceae	Ranunculaceae	HERB	1	0.3257329	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Jiménez-Moreno_a10	Resedaceae	Resedaceae	HERB	2	0.6514658	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Jiménez-Moreno_a10	Saxifraga	Saxifraga	HERB	3	0.9771987	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Jiménez-Moreno_a10	Urticaceae/Moraceae	Urticaceae/Moraceae	HERB	4	1.3029316	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Jiménez-Moreno_a10	Indeterminable	Indeterminable: unknown	INUN	2		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Jiménez-Moreno_a10	Testate amoebae	Testate amoebae	NOPO	2		GroupID taken from spreadsheet

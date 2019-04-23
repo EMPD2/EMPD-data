@@ -1,8 +1,8 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Schofield_a55	61	8	61	Cyperaceae	Cyperaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-1	Schofield_a55	106	252	106	Poaceae	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-2	Schofield_a55	965	1	113	Ranunculus acris	Ranunculus acris-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-3	Schofield_a55	121	253	121	Rumex acetosa	Rumex acetosa-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-4	Schofield_a55	122	2	122	Rumex acetosella	Rumex acetosella	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-5	Schofield_a55	978	2	167	Pteropsida (monolete) indet.	Monolete fern spores	VACR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-6	Schofield_a55	981	11	197	Damaged/indeterminable	Indeterminable: unknown	INUN	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Schofield_a55	Cyperaceae	Cyperaceae	HERB	8	1.5444015	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Schofield_a55	Poaceae	Poaceae	HERB	252	48.648649	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Schofield_a55	Ranunculus acris	Ranunculus acris-type	HERB	1	0.19305019	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Schofield_a55	Rumex acetosa	Rumex acetosa-type	HERB	253	48.841699	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Schofield_a55	Rumex acetosella	Rumex acetosella	HERB	2	0.38610039	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Schofield_a55	Damaged/indeterminable	Indeterminable: unknown	INUN	11		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Schofield_a55	Pteropsida (monolete) indet.	Monolete fern spores	VACR	2	0.38610039	GroupID taken from POLNET. Only one taxon matched that acc_varname.

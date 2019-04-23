@@ -1,35 +1,35 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Champvillair_a6	1	8	1	Abies	Abies	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-1	Champvillair_a6	4	43	4	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-2	Champvillair_a6	5	1	5	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-3	Champvillair_a6	454	20	47	Castanea	Castanea sativa	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-4	Champvillair_a6	552	2	552	Vaccinium	Vaccinium	DWAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-5	Champvillair_a6	16	12	16	Larix	Larix/Pseudotsuga	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-6	Champvillair_a6	18	214	18	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-7	Champvillair_a6	584	17	147	Pinus cembra	Pinus cembra-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-8	Champvillair_a6	585	59	148	Pinus sylvestris/mugo	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-9	Champvillair_a6	9	28	9	Corylus	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-10	Champvillair_a6	601	1	36	Umbelliferae	Apiaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-11	Champvillair_a6	497	23	86	Labiatae	Lamiaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-12	Champvillair_a6	37	19	37	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-13	Champvillair_a6	613	3	495	Campanula	Phyteuma-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-14	Champvillair_a6	46	5	46	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-15	Champvillair_a6	460	86	53	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-16	Champvillair_a6	631	46	106	Gramineae P	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-17	Champvillair_a6	639	15	156	Ranunculaceae ND	Ranunculaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-18	Champvillair_a6	69	7	69	Fabaceae	Fabaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-19	Champvillair_a6	61	26	61	Cyperaceae	Cyperaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-20	Champvillair_a6	671	5	324	Arcella	Arcella	RHIZ	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-21	Champvillair_a6	680	1	295	Spore trilete	Trilete spore(s)	VACR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-22	Champvillair_a6	686	2	686	Sordariaceae	Sordariaceae	FUNG	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-23	Champvillair_a6	691	28	691	Anphitrema	Amphitrema	RHIZ	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-24	Champvillair_a6	704	8	704	Volume (cm3)	Volume of sample (cm3)	NOPO	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-25	Champvillair_a6	41	1	41	Aster type	Aster-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-26	Champvillair_a6	261	9	119	Galium type	Rubiaceae	HERB	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
-27	Champvillair_a6	266	9	121	Rumex acetosa type	Rumex acetosa-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-28	Champvillair_a6	237	7	87	Plantago lanceolata type	Plantago lanceolata-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-29	Champvillair_a6	711	133	571	Lycopodium cont	Lycopodium (counted)	NOPO	GroupID taken from spreadsheet
-30	Champvillair_a6	712	12	712	Carboni piccoli contati	Charcoal <50µm	CHAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-31	Champvillair_a6	714	35074	706	Concentrazione pollinica (gran/cm3)	Concentration pollen	NOPO	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-32	Champvillair_a6	715	637	715	Concentrazione carbone P (Part/cm3)	Charcoal <50µm concentration	CHAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-33	Champvillair_a6	717	637	717	Concentrazione carbone tot (Part/cm3)	Concentration charcoal	CHAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Champvillair_a6	Abies	Abies	TRSH	8	1.2084592	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Champvillair_a6	Alnus	Alnus	TRSH	43	6.4954683	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Champvillair_a6	Betula	Betula	TRSH	1	0.1510574	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Champvillair_a6	Castanea	Castanea sativa	TRSH	20	3.021148	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Champvillair_a6	Corylus	Corylus	TRSH	28	4.2296073	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Champvillair_a6	Larix	Larix/Pseudotsuga	TRSH	12	1.8126888	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Champvillair_a6	Picea	Picea	TRSH	214	32.326284	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Champvillair_a6	Pinus cembra	Pinus cembra-type	TRSH	17	2.5679758	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Champvillair_a6	Pinus sylvestris/mugo	Pinus sylvestris-type	TRSH	59	8.9123867	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Champvillair_a6	Vaccinium	Vaccinium	DWAR	2	0.3021148	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Champvillair_a6	Umbelliferae	Apiaceae	HERB	1	0.1510574	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Champvillair_a6	Artemisia	Artemisia	HERB	19	2.8700906	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Champvillair_a6	Aster type	Aster-type	HERB	1	0.1510574	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Champvillair_a6	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	86	12.990937	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Champvillair_a6	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	5	0.75528701	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Champvillair_a6	Cyperaceae	Cyperaceae	HERB	26	3.9274924	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Champvillair_a6	Fabaceae	Fabaceae	HERB	7	1.0574018	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Champvillair_a6	Labiatae	Lamiaceae	HERB	23	3.4743202	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Champvillair_a6	Campanula	Phyteuma-type	HERB	3	0.45317221	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Champvillair_a6	Plantago lanceolata type	Plantago lanceolata-type	HERB	7	1.0574018	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Champvillair_a6	Gramineae P	Poaceae	HERB	46	6.9486405	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Champvillair_a6	Ranunculaceae ND	Ranunculaceae	HERB	15	2.265861	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Champvillair_a6	Galium type	Rubiaceae	HERB	9	1.3595166	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
+Champvillair_a6	Rumex acetosa type	Rumex acetosa-type	HERB	9	1.3595166	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Champvillair_a6	Carboni piccoli contati	Charcoal <50µm	CHAR	12		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Champvillair_a6	Concentrazione carbone P (Part/cm3)	Charcoal <50µm concentration	CHAR	637		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Champvillair_a6	Concentrazione carbone tot (Part/cm3)	Concentration charcoal	CHAR	637		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Champvillair_a6	Anphitrema	Amphitrema	RHIZ	28		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Champvillair_a6	Arcella	Arcella	RHIZ	5		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Champvillair_a6	Concentrazione pollinica (gran/cm3)	Concentration pollen	NOPO	35074		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Champvillair_a6	Lycopodium cont	Lycopodium (counted)	NOPO	133		GroupID taken from spreadsheet
+Champvillair_a6	Sordariaceae	Sordariaceae	FUNG	2		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Champvillair_a6	Spore trilete	Trilete spore(s)	VACR	1	0.1510574	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Champvillair_a6	Volume (cm3)	Volume of sample (cm3)	NOPO	8		GroupID taken from POLNET. Only one taxon matched that acc_varname.

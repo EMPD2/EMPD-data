@@ -1,17 +1,17 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	AlbaSanchez_a44	440	2	440	Abies pinsapo	Abies pinsapo	TRSH	GroupID taken from spreadsheet
-1	AlbaSanchez_a44	22	176	22	Quercus evergreen	Quercus ilex-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-2	AlbaSanchez_a44	443	1	148	Pinus sylvestris/nigra/uncinata t.	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-3	AlbaSanchez_a44	119	2	119	Rubiaceae	Rubiaceae	HERB	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
-4	AlbaSanchez_a44	444	3	106	Poaceae undiff.	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-5	AlbaSanchez_a44	21	49	21	Quercus deciduous	Quercus robur-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-6	AlbaSanchez_a44	452	2	452	Pinus pinaster	Pinus pinaster	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-7	AlbaSanchez_a44	453	30	453	Pinus pinea/halepensis t.	Pinus halepensis-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-8	AlbaSanchez_a44	455	49	95	Olea	Olea europaea	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-9	AlbaSanchez_a44	459	13	155	Asteraceae(equinulada)	Asteraceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-10	AlbaSanchez_a44	465	4	58	Plantago coronopus t.	Plantago coronopus-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-11	AlbaSanchez_a44	466	2	466	Urtica dioica t.	Urtica dioica-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-12	AlbaSanchez_a44	52	5	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-13	AlbaSanchez_a44	553	2	468	Erica scoparia t.	Erica arborea-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-14	AlbaSanchez_a44	557	3	197	Leg.	Indeterminable: unknown	INUN	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-15	AlbaSanchez_a44	571	2	571	Lycopodium (counted)	Lycopodium (counted)	NOPO	GroupID taken from spreadsheet
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+AlbaSanchez_a44	Abies pinsapo	Abies pinsapo	TRSH	2	0.58823529	GroupID taken from spreadsheet
+AlbaSanchez_a44	Erica scoparia t.	Erica arborea-type	TRSH	2	0.58823529	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a44	Olea	Olea europaea	TRSH	49	14.411765	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a44	Pinus pinea/halepensis t.	Pinus halepensis-type	TRSH	30	8.8235294	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a44	Pinus pinaster	Pinus pinaster	TRSH	2	0.58823529	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a44	Pinus sylvestris/nigra/uncinata t.	Pinus sylvestris-type	TRSH	1	0.29411765	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a44	Quercus evergreen	Quercus ilex-type	TRSH	176	51.764706	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a44	Quercus deciduous	Quercus robur-type	TRSH	49	14.411765	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a44	Asteraceae(equinulada)	Asteraceae	HERB	13	3.8235294	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+AlbaSanchez_a44	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	5	1.4705882	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a44	Plantago coronopus t.	Plantago coronopus-type	HERB	4	1.1764706	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a44	Poaceae undiff.	Poaceae	HERB	3	0.88235294	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+AlbaSanchez_a44	Rubiaceae	Rubiaceae	HERB	2	0.58823529	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
+AlbaSanchez_a44	Urtica dioica t.	Urtica dioica-type	HERB	2	0.58823529	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a44	Leg.	Indeterminable: unknown	INUN	3		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a44	Lycopodium (counted)	Lycopodium (counted)	NOPO	2		GroupID taken from spreadsheet

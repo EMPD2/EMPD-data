@@ -1,15 +1,15 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Kolaczek_h15	1386	4	4	Alnus undiff.	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-1	Kolaczek_h15	1390	3	5	Betula undiff.	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-2	Kolaczek_h15	574	1	7	Carpinus betulus	Carpinus betulus	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-3	Kolaczek_h15	833	1	50	Cerealia undiff.	Cerealia-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-4	Kolaczek_h15	61	1	61	Cyperaceae	Cyperaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-5	Kolaczek_h15	1396	1	235	Dryopteris dilatata-type	Dryopteris dilatata	VACR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-6	Kolaczek_h15	70	1	12	Fagus sylvatica	Fagus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-7	Kolaczek_h15	794	10	794	Picea abies	Picea abies-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-8	Kolaczek_h15	1405	210	148	Pinus sylvestris type	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-9	Kolaczek_h15	444	3	106	Poaceae undiff.	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-10	Kolaczek_h15	645	1	121	Rumex acetosa-type	Rumex acetosa-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-11	Kolaczek_h15	1199	1	1199	Scheuchzeria palustris	Scheuchzeria palustris	HELO	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-12	Kolaczek_h15	165	48	165	Sphagnum	Sphagnum	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-13	Kolaczek_h15	1416	1	174	Tilia cordata	Tilia cordata-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Kolaczek_h15	Alnus undiff.	Alnus	TRSH	4	1.6877637	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Kolaczek_h15	Betula undiff.	Betula	TRSH	3	1.2658228	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Kolaczek_h15	Carpinus betulus	Carpinus betulus	TRSH	1	0.42194093	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Kolaczek_h15	Fagus sylvatica	Fagus	TRSH	1	0.42194093	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Kolaczek_h15	Picea abies	Picea abies-type	TRSH	10	4.2194093	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Kolaczek_h15	Pinus sylvestris type	Pinus sylvestris-type	TRSH	210	88.607595	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Kolaczek_h15	Tilia cordata	Tilia cordata-type	TRSH	1	0.42194093	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Kolaczek_h15	Cerealia undiff.	Cerealia-type	HERB	1	0.42194093	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Kolaczek_h15	Cyperaceae	Cyperaceae	HERB	1	0.42194093	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Kolaczek_h15	Poaceae undiff.	Poaceae	HERB	3	1.2658228	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Kolaczek_h15	Rumex acetosa-type	Rumex acetosa-type	HERB	1	0.42194093	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Kolaczek_h15	Scheuchzeria palustris	Scheuchzeria palustris	HELO	1	0.42194093	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Kolaczek_h15	Dryopteris dilatata-type	Dryopteris dilatata	VACR	1	0.42194093	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Kolaczek_h15	Sphagnum	Sphagnum	NOPO	48		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.

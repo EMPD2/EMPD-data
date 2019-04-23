@@ -1,13 +1,13 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Schofield_a56	948	1	150	Betula pubescens	Betula pubescens-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-1	Schofield_a56	949	5	949	Betula glandulosa	Betula glandulosa	TRSH	GroupID taken from spreadsheet
-2	Schofield_a56	25	1	25	Salix	Salix	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-3	Schofield_a56	958	17	49	Cerastium-type	Cerastium-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-4	Schofield_a56	61	3	61	Cyperaceae	Cyperaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-5	Schofield_a56	106	337	106	Poaceae	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-6	Schofield_a56	637	1	524	Potentilla-type	Potentilla-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-7	Schofield_a56	965	83	113	Ranunculus acris	Ranunculus acris-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-8	Schofield_a56	121	60	121	Rumex acetosa	Rumex acetosa-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-9	Schofield_a56	122	1	122	Rumex acetosella	Rumex acetosella	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-10	Schofield_a56	978	1	167	Pteropsida (monolete) indet.	Monolete fern spores	VACR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-11	Schofield_a56	981	12	197	Damaged/indeterminable	Indeterminable: unknown	INUN	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Schofield_a56	Betula glandulosa	Betula glandulosa	TRSH	5	0.98039216	GroupID taken from spreadsheet
+Schofield_a56	Betula pubescens	Betula pubescens-type	TRSH	1	0.19607843	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Schofield_a56	Salix	Salix	TRSH	1	0.19607843	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Schofield_a56	Cerastium-type	Cerastium-type	HERB	17	3.3333333	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Schofield_a56	Cyperaceae	Cyperaceae	HERB	3	0.58823529	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Schofield_a56	Poaceae	Poaceae	HERB	337	66.078431	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Schofield_a56	Potentilla-type	Potentilla-type	HERB	1	0.19607843	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Schofield_a56	Ranunculus acris	Ranunculus acris-type	HERB	83	16.27451	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Schofield_a56	Rumex acetosa	Rumex acetosa-type	HERB	60	11.764706	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Schofield_a56	Rumex acetosella	Rumex acetosella	HERB	1	0.19607843	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Schofield_a56	Damaged/indeterminable	Indeterminable: unknown	INUN	12		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Schofield_a56	Pteropsida (monolete) indet.	Monolete fern spores	VACR	1	0.19607843	GroupID taken from POLNET. Only one taxon matched that acc_varname.

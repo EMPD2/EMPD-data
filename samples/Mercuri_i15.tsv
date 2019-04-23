@@ -1,32 +1,32 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Mercuri_i15	36	1	36	Apiaceae	Apiaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-1	Mercuri_i15	1816	8	42	Brassica type	Brassicaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-2	Mercuri_i15	574	2	7	Carpinus betulus	Carpinus betulus	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-3	Mercuri_i15	46	3	46	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-4	Mercuri_i15	587	10	356	Cedrus	Cedrus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-5	Mercuri_i15	57	1	57	Centaurea nigra type	Centaurea nigra-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-6	Mercuri_i15	52	12	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-7	Mercuri_i15	1822	11	53	Cichorieae	Asteraceae subf. Cichorioideae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-8	Mercuri_i15	61	11	61	Cyperaceae	Cyperaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-9	Mercuri_i15	1011	73	21	deciduous Quercus	Quercus robur-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-10	Mercuri_i15	73	1	73	Filipendula	Filipendula	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-11	Mercuri_i15	13	1	13	Fraxinus	Fraxinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-12	Mercuri_i15	80	2	80	Helianthemum	Helianthemum	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-13	Mercuri_i15	274	7	274	Hordeum group	Hordeum-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-14	Mercuri_i15	219	15	28	Juniperus type	Juniperus-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-15	Mercuri_i15	703	10679	703	Lycopodium (added)	Lycopodium (added)	NOPO	GroupID taken from spreadsheet
-16	Mercuri_i15	571	2	571	Lycopodium (counted)	Lycopodium (counted)	NOPO	GroupID taken from spreadsheet
-17	Mercuri_i15	264	2	92	Mentha type	Mentha-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-18	Mercuri_i15	1852	10	197	Not determined	Indeterminable: unknown	INUN	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-19	Mercuri_i15	455	29	95	Olea	Olea europaea	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-20	Mercuri_i15	18	9	18	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-21	Mercuri_i15	19	55	19	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-22	Mercuri_i15	457	3	103	Pistacia lentiscus	Pistacia	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-23	Mercuri_i15	735	3	286	Plantago	Plantago	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-24	Mercuri_i15	1864	45	106	Poaceae wild grass group	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-25	Mercuri_i15	1865	322	1865	Pollen Sum	Pollen sums	NOPO	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-26	Mercuri_i15	990	2	290	Ranunculus type	Ranunculus-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-27	Mercuri_i15	25	2	25	Salix	Salix	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-28	Mercuri_i15	1879	3	260	Stachys type	Galeopsis-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-29	Mercuri_i15	1881	1	196	Typha angustifolia type	Sparganium-type	AQUA	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-30	Mercuri_i15	1888	5.73	1888	Weight (g)	Weight	NOPO	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Mercuri_i15	Carpinus betulus	Carpinus betulus	TRSH	2	0.64308682	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Mercuri_i15	Cedrus	Cedrus	TRSH	10	3.2154341	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Mercuri_i15	Fraxinus	Fraxinus	TRSH	1	0.32154341	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Mercuri_i15	Juniperus type	Juniperus-type	TRSH	15	4.8231511	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Mercuri_i15	Olea	Olea europaea	TRSH	29	9.3247588	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Mercuri_i15	Picea	Picea	TRSH	9	2.8938907	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Mercuri_i15	Pinus	Pinus	TRSH	55	17.684887	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Mercuri_i15	Pistacia lentiscus	Pistacia	TRSH	3	0.96463023	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Mercuri_i15	deciduous Quercus	Quercus robur-type	TRSH	73	23.472669	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Mercuri_i15	Salix	Salix	TRSH	2	0.64308682	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Mercuri_i15	Apiaceae	Apiaceae	HERB	1	0.32154341	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Mercuri_i15	Cichorieae	Asteraceae subf. Cichorioideae	HERB	11	3.5369775	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Mercuri_i15	Brassica type	Brassicaceae	HERB	8	2.5723473	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Mercuri_i15	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	3	0.96463023	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Mercuri_i15	Centaurea nigra type	Centaurea nigra-type	HERB	1	0.32154341	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Mercuri_i15	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	12	3.8585209	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Mercuri_i15	Cyperaceae	Cyperaceae	HERB	11	3.5369775	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Mercuri_i15	Filipendula	Filipendula	HERB	1	0.32154341	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Mercuri_i15	Stachys type	Galeopsis-type	HERB	3	0.96463023	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Mercuri_i15	Helianthemum	Helianthemum	HERB	2	0.64308682	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Mercuri_i15	Hordeum group	Hordeum-type	HERB	7	2.2508039	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Mercuri_i15	Mentha type	Mentha-type	HERB	2	0.64308682	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Mercuri_i15	Plantago	Plantago	HERB	3	0.96463023	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Mercuri_i15	Poaceae wild grass group	Poaceae	HERB	45	14.469453	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Mercuri_i15	Ranunculus type	Ranunculus-type	HERB	2	0.64308682	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Mercuri_i15	Typha angustifolia type	Sparganium-type	AQUA	1	0.32154341	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Mercuri_i15	Not determined	Indeterminable: unknown	INUN	10		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Mercuri_i15	Lycopodium (added)	Lycopodium (added)	NOPO	10679		GroupID taken from spreadsheet
+Mercuri_i15	Lycopodium (counted)	Lycopodium (counted)	NOPO	2		GroupID taken from spreadsheet
+Mercuri_i15	Pollen Sum	Pollen sums	NOPO	322		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Mercuri_i15	Weight (g)	Weight	NOPO	5.73		GroupID taken from POLNET. Only one taxon matched that acc_varname.

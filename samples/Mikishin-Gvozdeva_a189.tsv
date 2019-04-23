@@ -1,15 +1,15 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Mikishin-Gvozdeva_a189	1	4	1	Abies	Abies	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-1	Mikishin-Gvozdeva_a189	18	44	18	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-2	Mikishin-Gvozdeva_a189	2227	3	148	Pinus sgen. Diploxylon	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-3	Mikishin-Gvozdeva_a189	2228	118	147	Pinus sgen. Haploxylon	Pinus cembra-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-4	Mikishin-Gvozdeva_a189	5	17	5	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-5	Mikishin-Gvozdeva_a189	2113	5	149	Betula nana-type	Betula nana-type	DWAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-6	Mikishin-Gvozdeva_a189	4	5	4	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-7	Mikishin-Gvozdeva_a189	2230	9	151	Alnaster (Alnus shrub-type: Alnaster fruticosus, Alnus fruticosa, Alnus maximowiczii)	Alnus viridis	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-8	Mikishin-Gvozdeva_a189	106	1	106	Poaceae	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-9	Mikishin-Gvozdeva_a189	36	1	36	Apiaceae	Apiaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-10	Mikishin-Gvozdeva_a189	2128	53	11	Ericales	Ericales (tetrad)	DWAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-11	Mikishin-Gvozdeva_a189	165	2	165	Sphagnum	Sphagnum	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-12	Mikishin-Gvozdeva_a189	167	1	167	Polypodiaceae	Monolete fern spores	VACR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-13	Mikishin-Gvozdeva_a189	164	4	164	Lycopodium	Lycopodium	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Mikishin-Gvozdeva_a189	Abies	Abies	TRSH	4	1.509434	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Mikishin-Gvozdeva_a189	Alnus	Alnus	TRSH	5	1.8867925	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Mikishin-Gvozdeva_a189	Alnaster (Alnus shrub-type: Alnaster fruticosus, Alnus fruticosa, Alnus maximowiczii)	Alnus viridis	TRSH	9	3.3962264	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Mikishin-Gvozdeva_a189	Betula	Betula	TRSH	17	6.4150943	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Mikishin-Gvozdeva_a189	Betula nana-type	Betula nana-type	DWAR	5	1.8867925	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Mikishin-Gvozdeva_a189	Ericales	Ericales (tetrad)	DWAR	53	20	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Mikishin-Gvozdeva_a189	Picea	Picea	TRSH	44	16.603774	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Mikishin-Gvozdeva_a189	Pinus sgen. Haploxylon	Pinus cembra-type	TRSH	118	44.528302	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Mikishin-Gvozdeva_a189	Pinus sgen. Diploxylon	Pinus sylvestris-type	TRSH	3	1.1320755	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Mikishin-Gvozdeva_a189	Apiaceae	Apiaceae	HERB	1	0.37735849	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Mikishin-Gvozdeva_a189	Poaceae	Poaceae	HERB	1	0.37735849	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Mikishin-Gvozdeva_a189	Lycopodium	Lycopodium	VACR	4	1.509434	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Mikishin-Gvozdeva_a189	Polypodiaceae	Monolete fern spores	VACR	1	0.37735849	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Mikishin-Gvozdeva_a189	Sphagnum	Sphagnum	NOPO	2		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.

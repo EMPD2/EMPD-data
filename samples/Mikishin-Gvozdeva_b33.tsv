@@ -1,25 +1,25 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Mikishin-Gvozdeva_b33	18	2	18	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-1	Mikishin-Gvozdeva_b33	2227	21	148	Pinus sgen. Diploxylon	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-2	Mikishin-Gvozdeva_b33	2228	1	147	Pinus sgen. Haploxylon	Pinus cembra-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-3	Mikishin-Gvozdeva_b33	5	19	5	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-4	Mikishin-Gvozdeva_b33	4	16	4	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-5	Mikishin-Gvozdeva_b33	208	76	208	Quercus	Quercus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-6	Mikishin-Gvozdeva_b33	31	21	31	Ulmus	Ulmus/Zelkova	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-7	Mikishin-Gvozdeva_b33	15	3	15	Juglans	Juglans	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-8	Mikishin-Gvozdeva_b33	9	10	9	Corylus	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-9	Mikishin-Gvozdeva_b33	61	36	61	Cyperaceae	Cyperaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-10	Mikishin-Gvozdeva_b33	106	30	106	Poaceae	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-11	Mikishin-Gvozdeva_b33	118	5	118	Rosaceae	Rosaceae	TRSH	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
-12	Mikishin-Gvozdeva_b33	37	38	37	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-13	Mikishin-Gvozdeva_b33	155	81	155	Asteraceae	Asteraceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-14	Mikishin-Gvozdeva_b33	52	4	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-15	Mikishin-Gvozdeva_b33	156	57	156	Ranunculaceae	Ranunculaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-16	Mikishin-Gvozdeva_b33	137	4	137	Thalictrum	Thalictrum	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-17	Mikishin-Gvozdeva_b33	159	35	159	Polygonaceae	Polygonaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-18	Mikishin-Gvozdeva_b33	69	5	69	Fabaceae	Fabaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-19	Mikishin-Gvozdeva_b33	194	1	194	Valerianaceae	Valerianaceae	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-20	Mikishin-Gvozdeva_b33	810	14	810	Primulaceae	Primulaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-21	Mikishin-Gvozdeva_b33	157	1	157	Campanulaceae	Campanulaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-22	Mikishin-Gvozdeva_b33	1071	3	774	Cannabaceae	Cannabaceae	TRSH	GroupID taken from spreadsheet
-23	Mikishin-Gvozdeva_b33	167	10	167	Polypodiaceae	Monolete fern spores	VACR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Mikishin-Gvozdeva_b33	Alnus	Alnus	TRSH	16	3.2454361	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Mikishin-Gvozdeva_b33	Betula	Betula	TRSH	19	3.8539554	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Mikishin-Gvozdeva_b33	Cannabaceae	Cannabaceae	TRSH	3	0.60851927	GroupID taken from spreadsheet
+Mikishin-Gvozdeva_b33	Corylus	Corylus	TRSH	10	2.0283976	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Mikishin-Gvozdeva_b33	Juglans	Juglans	TRSH	3	0.60851927	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Mikishin-Gvozdeva_b33	Picea	Picea	TRSH	2	0.40567951	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Mikishin-Gvozdeva_b33	Pinus sgen. Haploxylon	Pinus cembra-type	TRSH	1	0.20283976	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Mikishin-Gvozdeva_b33	Pinus sgen. Diploxylon	Pinus sylvestris-type	TRSH	21	4.2596349	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Mikishin-Gvozdeva_b33	Quercus	Quercus	TRSH	76	15.415822	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Mikishin-Gvozdeva_b33	Rosaceae	Rosaceae	TRSH	5	1.0141988	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
+Mikishin-Gvozdeva_b33	Ulmus	Ulmus/Zelkova	TRSH	21	4.2596349	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Mikishin-Gvozdeva_b33	Artemisia	Artemisia	HERB	38	7.7079108	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Mikishin-Gvozdeva_b33	Asteraceae	Asteraceae	HERB	81	16.43002	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Mikishin-Gvozdeva_b33	Campanulaceae	Campanulaceae	HERB	1	0.20283976	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Mikishin-Gvozdeva_b33	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	4	0.81135903	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Mikishin-Gvozdeva_b33	Cyperaceae	Cyperaceae	HERB	36	7.3022312	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Mikishin-Gvozdeva_b33	Fabaceae	Fabaceae	HERB	5	1.0141988	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Mikishin-Gvozdeva_b33	Poaceae	Poaceae	HERB	30	6.0851927	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Mikishin-Gvozdeva_b33	Polygonaceae	Polygonaceae	HERB	35	7.0993915	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Mikishin-Gvozdeva_b33	Primulaceae	Primulaceae	HERB	14	2.8397566	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Mikishin-Gvozdeva_b33	Ranunculaceae	Ranunculaceae	HERB	57	11.561866	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Mikishin-Gvozdeva_b33	Thalictrum	Thalictrum	HERB	4	0.81135903	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Mikishin-Gvozdeva_b33	Valerianaceae	Valerianaceae	HERB	1	0.20283976	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Mikishin-Gvozdeva_b33	Polypodiaceae	Monolete fern spores	VACR	10	2.0283976	GroupID taken from POLNET. Only one taxon matched that acc_varname.

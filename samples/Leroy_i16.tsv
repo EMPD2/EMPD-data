@@ -1,30 +1,30 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Leroy_i16	1953	117	1953	Pinaceae	Pinaceae	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-1	Leroy_i16	587	6	356	Cedrus	Cedrus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-2	Leroy_i16	1828	1	28	Cupressaceae	Juniperus-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-3	Leroy_i16	179	1	179	Ephedra	Ephedra	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-4	Leroy_i16	9	1	9	Corylus	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-5	Leroy_i16	11	4	11	Ericaceae	Ericales (tetrad)	DWAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-6	Leroy_i16	21	12	21	Quercus deciduous	Quercus robur-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-7	Leroy_i16	22	34	22	Quercus evergreen	Quercus ilex-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-8	Leroy_i16	13	4	13	Fraxinus	Fraxinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-9	Leroy_i16	455	2	95	Olea	Olea europaea	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-10	Leroy_i16	104	15	104	Platanus	Platanus	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-11	Leroy_i16	25	3	25	Salix	Salix	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-12	Leroy_i16	718	8	52	Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-13	Leroy_i16	855	1	53	Asteraceae liguliflorae	Asteraceae subf. Cichorioideae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-14	Leroy_i16	2066	4	180	A. tubuliflorae	Asteraceae subf. Asteroideae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-15	Leroy_i16	61	13	61	Cyperaceae	Cyperaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-16	Leroy_i16	86	1	86	Lamiaceae	Lamiaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-17	Leroy_i16	735	1	286	Plantago	Plantago	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-18	Leroy_i16	106	25	106	Poaceae	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-19	Leroy_i16	50	3	50	Cerealia	Cerealia-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-20	Leroy_i16	738	1	120	Rumex	Rumex/Oxyria	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-21	Leroy_i16	156	3	156	Ranunculaceae	Ranunculaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-22	Leroy_i16	119	2	119	Rubiaceae	Rubiaceae	HERB	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
-23	Leroy_i16	2009	2	2009	Cladium	Cladium mariscus	HELO	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-24	Leroy_i16	2044	2	2044	Emex spinosa	Emex spinosa	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-25	Leroy_i16	668	1	133	Potamogeton	Potamogeton-type	AQUA	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-26	Leroy_i16	1984	1	196	Typha-Sparganium	Sparganium-type	AQUA	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-27	Leroy_i16	1990	2	197	Indeterminated	Indeterminable: unknown	INUN	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-28	Leroy_i16	2075	14	197	Undeterminable	Indeterminable: unknown	INUN	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Leroy_i16	Cedrus	Cedrus	TRSH	6	2.2727273	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Leroy_i16	Corylus	Corylus	TRSH	1	0.37878788	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Leroy_i16	Ephedra	Ephedra	TRSH	1	0.37878788	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Leroy_i16	Ericaceae	Ericales (tetrad)	DWAR	4	1.5151515	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Leroy_i16	Fraxinus	Fraxinus	TRSH	4	1.5151515	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Leroy_i16	Cupressaceae	Juniperus-type	TRSH	1	0.37878788	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Leroy_i16	Olea	Olea europaea	TRSH	2	0.75757576	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Leroy_i16	Pinaceae	Pinaceae	TRSH	117	44.318182	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Leroy_i16	Platanus	Platanus	TRSH	15	5.6818182	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Leroy_i16	Quercus evergreen	Quercus ilex-type	TRSH	34	12.878788	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Leroy_i16	Quercus deciduous	Quercus robur-type	TRSH	12	4.5454545	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Leroy_i16	Salix	Salix	TRSH	3	1.1363636	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Leroy_i16	A. tubuliflorae	Asteraceae subf. Asteroideae	HERB	4	1.5151515	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Leroy_i16	Asteraceae liguliflorae	Asteraceae subf. Cichorioideae	HERB	1	0.37878788	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Leroy_i16	Cerealia	Cerealia-type	HERB	3	1.1363636	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Leroy_i16	Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	8	3.030303	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Leroy_i16	Cyperaceae	Cyperaceae	HERB	13	4.9242424	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Leroy_i16	Emex spinosa	Emex spinosa	HERB	2	0.75757576	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Leroy_i16	Lamiaceae	Lamiaceae	HERB	1	0.37878788	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Leroy_i16	Plantago	Plantago	HERB	1	0.37878788	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Leroy_i16	Poaceae	Poaceae	HERB	25	9.469697	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Leroy_i16	Ranunculaceae	Ranunculaceae	HERB	3	1.1363636	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Leroy_i16	Rubiaceae	Rubiaceae	HERB	2	0.75757576	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
+Leroy_i16	Rumex	Rumex/Oxyria	HERB	1	0.37878788	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Leroy_i16	Cladium	Cladium mariscus	HELO	2	0.75757576	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Leroy_i16	Potamogeton	Potamogeton-type	AQUA	1	0.37878788	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Leroy_i16	Typha-Sparganium	Sparganium-type	AQUA	1	0.37878788	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Leroy_i16	Indeterminated	Indeterminable: unknown	INUN	2		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Leroy_i16	Undeterminable	Indeterminable: unknown	INUN	14		GroupID taken from POLNET. Only one taxon matched that acc_varname.

@@ -1,7 +1,7 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Ryabogina_a139	1458	5	5	Betula or Bet.s.Albae	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-1	Ryabogina_a139	1462	16	148	Pin._sylv.	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-2	Ryabogina_a139	11	88	11	Ericaceae	Ericales (tetrad)	DWAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-3	Ryabogina_a139	1555	2	164	Lyc.	Lycopodium	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-4	Ryabogina_a139	165	111	165	Sphagnum	Sphagnum	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-5	Ryabogina_a139	1580	112	197	Sp	Indeterminable: unknown	INUN	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Ryabogina_a139	Betula or Bet.s.Albae	Betula	TRSH	5	4.5045045	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Ryabogina_a139	Ericaceae	Ericales (tetrad)	DWAR	88	79.279279	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Ryabogina_a139	Pin._sylv.	Pinus sylvestris-type	TRSH	16	14.414414	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Ryabogina_a139	Sp	Indeterminable: unknown	INUN	112		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Ryabogina_a139	Lyc.	Lycopodium	VACR	2	1.8018018	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Ryabogina_a139	Sphagnum	Sphagnum	NOPO	111		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
