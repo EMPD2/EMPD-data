@@ -1,24 +1,24 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Shumilovskikh_a20	4	131	4	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-1	Shumilovskikh_a20	574	29	7	Carpinus betulus	Carpinus betulus	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-2	Shumilovskikh_a20	454	3	47	Castanea	Castanea sativa	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-3	Shumilovskikh_a20	9	76	9	Corylus	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-4	Shumilovskikh_a20	12	13	12	Fagus	Fagus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-5	Shumilovskikh_a20	85	3	85	Juniperus	Juniperus communis-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-6	Shumilovskikh_a20	583	1	97	Ostrya-type	Ostrya/Carpinus orientalis	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-7	Shumilovskikh_a20	18	41	18	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-8	Shumilovskikh_a20	1059	39	148	Pinus diploxylon-type	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-9	Shumilovskikh_a20	173	6	21	Quercus robur-type	Quercus robur-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-10	Shumilovskikh_a20	1063	1	11	Rhododendron ? 22 TE	Ericales (tetrad)	DWAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-11	Shumilovskikh_a20	29	1	29	Tilia	Tilia	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-12	Shumilovskikh_a20	1067	3	31	Ulmus / Zelkova	Ulmus/Zelkova	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-13	Shumilovskikh_a20	37	1	37	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-14	Shumilovskikh_a20	155	2	155	Asteraceae	Asteraceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-15	Shumilovskikh_a20	42	1	42	Brassicaceae	Brassicaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-16	Shumilovskikh_a20	52	1	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-17	Shumilovskikh_a20	61	1	61	Cyperaceae	Cyperaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-18	Shumilovskikh_a20	510	1	510	Geranium	Geranium	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-19	Shumilovskikh_a20	1085	2	87	Plantago lanceolata-type	Plantago lanceolata-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-20	Shumilovskikh_a20	106	5	106	Poaceae	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-21	Shumilovskikh_a20	1099	3	1054	Xanthium spinosum-type	Xanthium	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-22	Shumilovskikh_a20	1106	6	197	Indeterminata	Indeterminable: unknown	INUN	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Shumilovskikh_a20	Alnus	Alnus	TRSH	131	35.989011	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Shumilovskikh_a20	Carpinus betulus	Carpinus betulus	TRSH	29	7.967033	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Shumilovskikh_a20	Castanea	Castanea sativa	TRSH	3	0.82417582	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Shumilovskikh_a20	Corylus	Corylus	TRSH	76	20.879121	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Shumilovskikh_a20	Rhododendron ? 22 TE	Ericales (tetrad)	DWAR	1	0.27472527	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Shumilovskikh_a20	Fagus	Fagus	TRSH	13	3.5714286	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Shumilovskikh_a20	Juniperus	Juniperus communis-type	TRSH	3	0.82417582	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Shumilovskikh_a20	Ostrya-type	Ostrya/Carpinus orientalis	TRSH	1	0.27472527	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Shumilovskikh_a20	Picea	Picea	TRSH	41	11.263736	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Shumilovskikh_a20	Pinus diploxylon-type	Pinus sylvestris-type	TRSH	39	10.714286	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Shumilovskikh_a20	Quercus robur-type	Quercus robur-type	TRSH	6	1.6483516	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Shumilovskikh_a20	Tilia	Tilia	TRSH	1	0.27472527	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Shumilovskikh_a20	Ulmus / Zelkova	Ulmus/Zelkova	TRSH	3	0.82417582	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Shumilovskikh_a20	Artemisia	Artemisia	HERB	1	0.27472527	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Shumilovskikh_a20	Asteraceae	Asteraceae	HERB	2	0.54945055	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Shumilovskikh_a20	Brassicaceae	Brassicaceae	HERB	1	0.27472527	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Shumilovskikh_a20	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.27472527	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Shumilovskikh_a20	Cyperaceae	Cyperaceae	HERB	1	0.27472527	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Shumilovskikh_a20	Geranium	Geranium	HERB	1	0.27472527	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Shumilovskikh_a20	Plantago lanceolata-type	Plantago lanceolata-type	HERB	2	0.54945055	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Shumilovskikh_a20	Poaceae	Poaceae	HERB	5	1.3736264	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Shumilovskikh_a20	Xanthium spinosum-type	Xanthium	HERB	3	0.82417582	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Shumilovskikh_a20	Indeterminata	Indeterminable: unknown	INUN	6		GroupID taken from POLNET. Only one taxon matched that acc_varname.

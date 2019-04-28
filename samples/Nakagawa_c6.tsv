@@ -1,24 +1,24 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Nakagawa_c6	1	67	1	Abies	Abies	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-1	Nakagawa_c6	10	9	10	Cryptomeria	Cryptomeria-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-2	Nakagawa_c6	25	7	25	Salix	Salix	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-3	Nakagawa_c6	5	42	5	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-4	Nakagawa_c6	4	75	4	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-5	Nakagawa_c6	12	1	12	Fagus	Fagus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-6	Nakagawa_c6	1963	22	31	Ulmus-Zelkova	Ulmus/Zelkova	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-7	Nakagawa_c6	29	37	29	Tilia	Tilia	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-8	Nakagawa_c6	11	2	11	Ericaceae	Ericales (tetrad)	DWAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-9	Nakagawa_c6	37	9	37	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-10	Nakagawa_c6	2	2	2	Acer	Acer campestre-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-11	Nakagawa_c6	30	1	30	Tsuga	Tsuga	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-12	Nakagawa_c6	7	3	7	Carpinus	Carpinus betulus	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-13	Nakagawa_c6	19	17	19	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-14	Nakagawa_c6	2449	1	2449	Castanopsis-Castanea	Fagaceae	TRSH	GroupID taken from spreadsheet
-15	Nakagawa_c6	2450	10	2207	Juglans-Pterocarya	Juglandaceae	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-16	Nakagawa_c6	2451	2	2451	T-C-C type	Taxaceae/Cephalotaxaceae/Cupressaceae	TRSH	GroupID taken from spreadsheet
-17	Nakagawa_c6	18	8	18	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-18	Nakagawa_c6	16	1	16	Larix	Larix/Pseudotsuga	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-19	Nakagawa_c6	2469	109	21	Quercus-D	Quercus robur-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-20	Nakagawa_c6	2506	2	106	Gramine.	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-21	Nakagawa_c6	2507	1	52	Chenopo.	Chenopodiaceae/Amaranthaceae	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-22	Nakagawa_c6	2508	3	155	Compo.	Asteraceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Nakagawa_c6	Abies	Abies	TRSH	67	15.545244	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Nakagawa_c6	Acer	Acer campestre-type	TRSH	2	0.46403712	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Nakagawa_c6	Alnus	Alnus	TRSH	75	17.401392	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Nakagawa_c6	Betula	Betula	TRSH	42	9.7447796	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Nakagawa_c6	Carpinus	Carpinus betulus	TRSH	3	0.69605568	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Nakagawa_c6	Cryptomeria	Cryptomeria-type	TRSH	9	2.0881671	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Nakagawa_c6	Ericaceae	Ericales (tetrad)	DWAR	2	0.46403712	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Nakagawa_c6	Castanopsis-Castanea	Fagaceae	TRSH	1	0.23201856	GroupID taken from spreadsheet
+Nakagawa_c6	Fagus	Fagus	TRSH	1	0.23201856	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Nakagawa_c6	Juglans-Pterocarya	Juglandaceae	TRSH	10	2.3201856	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Nakagawa_c6	Larix	Larix/Pseudotsuga	TRSH	1	0.23201856	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Nakagawa_c6	Picea	Picea	TRSH	8	1.8561485	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Nakagawa_c6	Pinus	Pinus	TRSH	17	3.9443155	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Nakagawa_c6	Quercus-D	Quercus robur-type	TRSH	109	25.290023	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Nakagawa_c6	Salix	Salix	TRSH	7	1.6241299	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Nakagawa_c6	T-C-C type	Taxaceae/Cephalotaxaceae/Cupressaceae	TRSH	2	0.46403712	GroupID taken from spreadsheet
+Nakagawa_c6	Tilia	Tilia	TRSH	37	8.5846868	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Nakagawa_c6	Tsuga	Tsuga	TRSH	1	0.23201856	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Nakagawa_c6	Ulmus-Zelkova	Ulmus/Zelkova	TRSH	22	5.1044084	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Nakagawa_c6	Artemisia	Artemisia	HERB	9	2.0881671	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Nakagawa_c6	Compo.	Asteraceae	HERB	3	0.69605568	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Nakagawa_c6	Chenopo.	Chenopodiaceae/Amaranthaceae	HERB	1	0.23201856	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Nakagawa_c6	Gramine.	Poaceae	HERB	2	0.46403712	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.

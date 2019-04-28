@@ -1,25 +1,25 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Nielsen_b3	19	176	19	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-1	Nielsen_b3	18	29	18	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-2	Nielsen_b3	5	34	5	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-3	Nielsen_b3	9	3	9	Corylus	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-4	Nielsen_b3	4	4	4	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-5	Nielsen_b3	208	4	208	Quercus	Quercus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-6	Nielsen_b3	12	1	12	Fagus	Fagus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-7	Nielsen_b3	25	2	25	Salix	Salix	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-8	Nielsen_b3	85	4	85	Juniperus	Juniperus communis-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-9	Nielsen_b3	7	1	7	Carpinus	Carpinus betulus	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-10	Nielsen_b3	272	1	272	Secale cereale	Secale cereale	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-11	Nielsen_b3	1243	1	1209	Triticum-type	Triticum-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-12	Nielsen_b3	37	1	37	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-13	Nielsen_b3	87	1	87	Plantago lanceolata	Plantago lanceolata-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-14	Nielsen_b3	106	15	106	Poaceae	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-15	Nielsen_b3	122	1	122	Rumex acetosella	Rumex acetosella	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-16	Nielsen_b3	641	1	113	Ranunculus acris-type	Ranunculus acris-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-17	Nielsen_b3	954	1	34	Achillea-type	Matricaria-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-18	Nielsen_b3	663	1	663	Urtica	Urtica	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-19	Nielsen_b3	61	5	61	Cyperaceae	Cyperaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-20	Nielsen_b3	1096	1	196	Sparganium-type	Sparganium-type	AQUA	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-21	Nielsen_b3	674	2	674	Botryococcus	Botryococcus	ALGA	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-22	Nielsen_b3	673	3	673	Pediastrum	Pediastrum	ALGA	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-23	Nielsen_b3	2637	473	2637	Lycopodium spike	Lycopodium spike (counted)	NOPO	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Nielsen_b3	Alnus	Alnus	TRSH	4	1.3986014	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Nielsen_b3	Betula	Betula	TRSH	34	11.888112	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Nielsen_b3	Carpinus	Carpinus betulus	TRSH	1	0.34965035	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Nielsen_b3	Corylus	Corylus	TRSH	3	1.048951	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Nielsen_b3	Fagus	Fagus	TRSH	1	0.34965035	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Nielsen_b3	Juniperus	Juniperus communis-type	TRSH	4	1.3986014	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Nielsen_b3	Picea	Picea	TRSH	29	10.13986	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Nielsen_b3	Pinus	Pinus	TRSH	176	61.538462	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Nielsen_b3	Quercus	Quercus	TRSH	4	1.3986014	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Nielsen_b3	Salix	Salix	TRSH	2	0.6993007	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Nielsen_b3	Artemisia	Artemisia	HERB	1	0.34965035	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Nielsen_b3	Cyperaceae	Cyperaceae	HERB	5	1.7482517	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Nielsen_b3	Achillea-type	Matricaria-type	HERB	1	0.34965035	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Nielsen_b3	Plantago lanceolata	Plantago lanceolata-type	HERB	1	0.34965035	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Nielsen_b3	Poaceae	Poaceae	HERB	15	5.2447552	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Nielsen_b3	Ranunculus acris-type	Ranunculus acris-type	HERB	1	0.34965035	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Nielsen_b3	Rumex acetosella	Rumex acetosella	HERB	1	0.34965035	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Nielsen_b3	Secale cereale	Secale cereale	HERB	1	0.34965035	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Nielsen_b3	Triticum-type	Triticum-type	HERB	1	0.34965035	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Nielsen_b3	Urtica	Urtica	HERB	1	0.34965035	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Nielsen_b3	Botryococcus	Botryococcus	ALGA	2	0.6993007	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Nielsen_b3	Pediastrum	Pediastrum	ALGA	3	1.048951	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Nielsen_b3	Sparganium-type	Sparganium-type	AQUA	1	0.34965035	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Nielsen_b3	Lycopodium spike	Lycopodium spike (counted)	NOPO	473		GroupID taken from POLNET. Only one taxon matched that acc_varname.

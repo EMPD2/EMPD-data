@@ -1,17 +1,17 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Panova_a9	799	216	148	Pinus sylvestris	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-1	Panova_a9	165	40	165	Sphagnum	Sphagnum	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-2	Panova_a9	1250	15	150	Betula alba-type	Betula pubescens-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-3	Panova_a9	18	51	18	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-4	Panova_a9	61	10	61	Cyperaceae	Cyperaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-5	Panova_a9	1371	15	147	Pinus sibirica	Pinus cembra-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-6	Panova_a9	167	6	167	Polypodiaceae	Monolete fern spores	VACR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-7	Panova_a9	37	2	37	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-8	Panova_a9	1	3	1	Abies	Abies	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-9	Panova_a9	1108	6	197	Varia	Indeterminable: unknown	INUN	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-10	Panova_a9	16	2	16	Larix	Larix/Pseudotsuga	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-11	Panova_a9	137	1	137	Thalictrum	Thalictrum	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-12	Panova_a9	36	1	36	Apiaceae	Apiaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-13	Panova_a9	763	1	763	Lycopodiaceae	Lycopodiaceae	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-14	Panova_a9	69	3	69	Fabaceae	Fabaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-15	Panova_a9	46	1	46	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Panova_a9	Abies	Abies	TRSH	3	0.91743119	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Panova_a9	Betula alba-type	Betula pubescens-type	TRSH	15	4.587156	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Panova_a9	Larix	Larix/Pseudotsuga	TRSH	2	0.6116208	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Panova_a9	Picea	Picea	TRSH	51	15.59633	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Panova_a9	Pinus sibirica	Pinus cembra-type	TRSH	15	4.587156	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Panova_a9	Pinus sylvestris	Pinus sylvestris-type	TRSH	216	66.055046	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Panova_a9	Apiaceae	Apiaceae	HERB	1	0.3058104	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Panova_a9	Artemisia	Artemisia	HERB	2	0.6116208	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Panova_a9	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	1	0.3058104	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Panova_a9	Cyperaceae	Cyperaceae	HERB	10	3.058104	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Panova_a9	Fabaceae	Fabaceae	HERB	3	0.91743119	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Panova_a9	Thalictrum	Thalictrum	HERB	1	0.3058104	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Panova_a9	Varia	Indeterminable: unknown	INUN	6		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Panova_a9	Lycopodiaceae	Lycopodiaceae	VACR	1	0.3058104	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Panova_a9	Polypodiaceae	Monolete fern spores	VACR	6	1.8348624	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Panova_a9	Sphagnum	Sphagnum	NOPO	40		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.

@@ -1,6 +1,6 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	AlbaSanchez_a100	442	120	356	Cedrus atlantica	Cedrus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-1	AlbaSanchez_a100	22	170	22	Quercus evergreen	Quercus ilex-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-2	AlbaSanchez_a100	450	1	28	Juniperus t.	Juniperus-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-3	AlbaSanchez_a100	455	16	95	Olea	Olea europaea	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-4	AlbaSanchez_a100	465	1	58	Plantago coronopus t.	Plantago coronopus-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+AlbaSanchez_a100	Cedrus atlantica	Cedrus	TRSH	120	38.961039	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+AlbaSanchez_a100	Juniperus t.	Juniperus-type	TRSH	1	0.32467532	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a100	Olea	Olea europaea	TRSH	16	5.1948052	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a100	Quercus evergreen	Quercus ilex-type	TRSH	170	55.194805	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a100	Plantago coronopus t.	Plantago coronopus-type	HERB	1	0.32467532	GroupID taken from POLNET. Only one taxon matched that acc_varname.

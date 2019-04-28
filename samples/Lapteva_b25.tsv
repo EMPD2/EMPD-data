@@ -1,17 +1,17 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Lapteva_b25	170	10	170	Abies sibirica	Abies sibirica	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-1	Lapteva_b25	18	45	18	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-2	Lapteva_b25	171	200	148	Pinus sylvestris=Pinus s/g Diploxylon	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-3	Lapteva_b25	172	5	147	Pinus sibirica=Pinus s/g Haploxylon	Pinus cembra-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-4	Lapteva_b25	150	127	150	Betula sect. Albae	Betula pubescens-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-5	Lapteva_b25	175	3	175	Alnus glutinosa-type	Alnus glutinosa-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-6	Lapteva_b25	25	1	25	Salix	Salix	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-7	Lapteva_b25	106	5	106	Poaceae	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-8	Lapteva_b25	52	1	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-9	Lapteva_b25	37	7	37	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-10	Lapteva_b25	180	1	180	Asteraceae/Asteroideae	Asteraceae subf. Asteroideae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-11	Lapteva_b25	188	1	188	Plantaginaceae	Plantaginaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-12	Lapteva_b25	156	3	156	Ranunculaceae	Ranunculaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-13	Lapteva_b25	118	6	118	Rosaceae	Rosaceae	TRSH	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
-14	Lapteva_b25	202	2	202	Lycopodium clavatum-type	Lycopodium clavatum-type	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-15	Lapteva_b25	165	1	165	Sphagnum	Sphagnum	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Lapteva_b25	Abies sibirica	Abies sibirica	TRSH	10	2.3980815	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Lapteva_b25	Alnus glutinosa-type	Alnus glutinosa-type	TRSH	3	0.71942446	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Lapteva_b25	Betula sect. Albae	Betula pubescens-type	TRSH	127	30.455635	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Lapteva_b25	Picea	Picea	TRSH	45	10.791367	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Lapteva_b25	Pinus sibirica=Pinus s/g Haploxylon	Pinus cembra-type	TRSH	5	1.1990408	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Lapteva_b25	Pinus sylvestris=Pinus s/g Diploxylon	Pinus sylvestris-type	TRSH	200	47.961631	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Lapteva_b25	Rosaceae	Rosaceae	TRSH	6	1.4388489	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
+Lapteva_b25	Salix	Salix	TRSH	1	0.23980815	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Lapteva_b25	Artemisia	Artemisia	HERB	7	1.6786571	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Lapteva_b25	Asteraceae/Asteroideae	Asteraceae subf. Asteroideae	HERB	1	0.23980815	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Lapteva_b25	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.23980815	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Lapteva_b25	Plantaginaceae	Plantaginaceae	HERB	1	0.23980815	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Lapteva_b25	Poaceae	Poaceae	HERB	5	1.1990408	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Lapteva_b25	Ranunculaceae	Ranunculaceae	HERB	3	0.71942446	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Lapteva_b25	Lycopodium clavatum-type	Lycopodium clavatum-type	VACR	2	0.47961631	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Lapteva_b25	Sphagnum	Sphagnum	NOPO	1		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.

@@ -1,29 +1,29 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Klemm_a73	2901	7	19	Pinus undifferentiated	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-1	Klemm_a73	2902	1	148	Pinus subgen. Diploxylon	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-2	Klemm_a73	2903	6	147	Pinus subgen. Haploxylon	Pinus cembra-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-3	Klemm_a73	16	35	16	Larix	Larix/Pseudotsuga	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-4	Klemm_a73	2123	6	150	Betula pubescens-type	Betula pubescens-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-5	Klemm_a73	2113	133	149	Betula nana-type	Betula nana-type	DWAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-6	Klemm_a73	2905	91	151	Alnus viridis subsp. fruticosa-type	Alnus viridis	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-7	Klemm_a73	25	29	25	Salix	Salix	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-8	Klemm_a73	2906	12	11	Ericaceae undifferentiated	Ericales (tetrad)	DWAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-9	Klemm_a73	36	1	36	Apiaceae	Apiaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-10	Klemm_a73	37	5	37	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-11	Klemm_a73	155	3	155	Asteraceae	Asteraceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-12	Klemm_a73	42	2	42	Brassicaceae	Brassicaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-13	Klemm_a73	46	3	46	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-14	Klemm_a73	52	2	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-15	Klemm_a73	2907	1	53	Asteraceae subfam. Cichorioideae	Asteraceae subf. Cichorioideae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-16	Klemm_a73	61	131	61	Cyperaceae	Cyperaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-17	Klemm_a73	106	175	106	Poaceae	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-18	Klemm_a73	1376	2	524	Potentilla	Potentilla-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-19	Klemm_a73	1614	4	1515	Polygonum	Polygonum-type (tricolporate)	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-20	Klemm_a73	545	2	545	Primula	Primula	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-21	Klemm_a73	2908	1	2908	Rhinanthus-group	Rhinanthus-type/Veronica-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-22	Klemm_a73	118	1	118	Rosaceae	Rosaceae	TRSH	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
-23	Klemm_a73	2120	1	192	Rubus chamaemorus	Rubus chamaemorus	HERB	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
-24	Klemm_a73	738	2	120	Rumex	Rumex/Oxyria	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-25	Klemm_a73	649	1	487	Sanguisorba	Sanguisorba officinalis	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-26	Klemm_a73	2909	3	197	Pollen indeterminata	Indeterminable: unknown	INUN	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-27	Klemm_a73	2910	660	197	Pollen total	Indeterminable: unknown	INUN	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Klemm_a73	Alnus viridis subsp. fruticosa-type	Alnus viridis	TRSH	91	13.850837	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Klemm_a73	Betula nana-type	Betula nana-type	DWAR	133	20.243531	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Klemm_a73	Betula pubescens-type	Betula pubescens-type	TRSH	6	0.91324201	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Klemm_a73	Ericaceae undifferentiated	Ericales (tetrad)	DWAR	12	1.826484	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Klemm_a73	Larix	Larix/Pseudotsuga	TRSH	35	5.3272451	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Klemm_a73	Pinus undifferentiated	Pinus	TRSH	7	1.065449	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Klemm_a73	Pinus subgen. Haploxylon	Pinus cembra-type	TRSH	6	0.91324201	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Klemm_a73	Pinus subgen. Diploxylon	Pinus sylvestris-type	TRSH	1	0.152207	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Klemm_a73	Rosaceae	Rosaceae	TRSH	1	0.152207	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
+Klemm_a73	Salix	Salix	TRSH	29	4.414003	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Klemm_a73	Apiaceae	Apiaceae	HERB	1	0.152207	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Klemm_a73	Artemisia	Artemisia	HERB	5	0.76103501	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Klemm_a73	Asteraceae	Asteraceae	HERB	3	0.456621	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Klemm_a73	Asteraceae subfam. Cichorioideae	Asteraceae subf. Cichorioideae	HERB	1	0.152207	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Klemm_a73	Brassicaceae	Brassicaceae	HERB	2	0.304414	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Klemm_a73	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	3	0.456621	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Klemm_a73	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	2	0.304414	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Klemm_a73	Cyperaceae	Cyperaceae	HERB	131	19.939117	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Klemm_a73	Poaceae	Poaceae	HERB	175	26.636225	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Klemm_a73	Polygonum	Polygonum-type (tricolporate)	HERB	4	0.60882801	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Klemm_a73	Potentilla	Potentilla-type	HERB	2	0.304414	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Klemm_a73	Primula	Primula	HERB	2	0.304414	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Klemm_a73	Rhinanthus-group	Rhinanthus-type/Veronica-type	HERB	1	0.152207	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Klemm_a73	Rubus chamaemorus	Rubus chamaemorus	HERB	1	0.152207	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
+Klemm_a73	Rumex	Rumex/Oxyria	HERB	2	0.304414	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Klemm_a73	Sanguisorba	Sanguisorba officinalis	HERB	1	0.152207	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Klemm_a73	Pollen indeterminata	Indeterminable: unknown	INUN	3		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Klemm_a73	Pollen total	Indeterminable: unknown	INUN	660		GroupID taken from POLNET. Only one taxon matched that acc_varname.

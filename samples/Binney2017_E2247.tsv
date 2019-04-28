@@ -1,13 +1,13 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Binney2017_E2247	1	1	1	Abies	Abies	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-1	Binney2017_E2247	4	2	4	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-2	Binney2017_E2247	2113	4	149	Betula nana-type	Betula nana-type	DWAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-3	Binney2017_E2247	2123	38	150	Betula pubescens-type	Betula pubescens-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-4	Binney2017_E2247	61	1	61	Cyperaceae	Cyperaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-5	Binney2017_E2247	11	2	11	Ericaceae	Ericales (tetrad)	DWAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-6	Binney2017_E2247	4817	2	794	Picea abies subsp. obovata	Picea abies-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-7	Binney2017_E2247	4526	19	147	Pinus pumila	Pinus cembra-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-8	Binney2017_E2247	1371	32	147	Pinus sibirica	Pinus cembra-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-9	Binney2017_E2247	799	42	148	Pinus sylvestris	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-10	Binney2017_E2247	193	1	193	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-11	Binney2017_E2247	165	100	165	Sphagnum	Sphagnum	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Binney2017_E2247	Abies	Abies	TRSH	1	0.69444444	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Binney2017_E2247	Alnus	Alnus	TRSH	2	1.3888889	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Binney2017_E2247	Betula nana-type	Betula nana-type	DWAR	4	2.7777778	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Binney2017_E2247	Betula pubescens-type	Betula pubescens-type	TRSH	38	26.388889	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Binney2017_E2247	Ericaceae	Ericales (tetrad)	DWAR	2	1.3888889	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Binney2017_E2247	Picea abies subsp. obovata	Picea abies-type	TRSH	2	1.3888889	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Binney2017_E2247	Pinus pumila	Pinus cembra-type	TRSH	19	13.194444	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Binney2017_E2247	Pinus sibirica	Pinus cembra-type	TRSH	32	22.222222	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Binney2017_E2247	Pinus sylvestris	Pinus sylvestris-type	TRSH	42	29.166667	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Binney2017_E2247	Cyperaceae	Cyperaceae	HERB	1	0.69444444	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Binney2017_E2247	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	1	0.69444444	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Binney2017_E2247	Sphagnum	Sphagnum	NOPO	100		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.

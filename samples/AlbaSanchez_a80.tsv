@@ -1,11 +1,11 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	AlbaSanchez_a80	442	117	356	Cedrus atlantica	Cedrus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-1	AlbaSanchez_a80	22	12	22	Quercus evergreen	Quercus ilex-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-2	AlbaSanchez_a80	450	1	28	Juniperus t.	Juniperus-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-3	AlbaSanchez_a80	21	1	21	Quercus deciduous	Quercus robur-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-4	AlbaSanchez_a80	15	1	15	Juglans	Juglans	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-5	AlbaSanchez_a80	455	1	95	Olea	Olea europaea	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-6	AlbaSanchez_a80	46	1	46	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-7	AlbaSanchez_a80	562	165	295	Filicales triletes undiff.	Trilete spore(s)	VACR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-8	AlbaSanchez_a80	567	1	567	Sordaria sp	Sordaria-type	FUNG	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-9	AlbaSanchez_a80	571	1	571	Lycopodium (counted)	Lycopodium (counted)	NOPO	GroupID taken from spreadsheet
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+AlbaSanchez_a80	Cedrus atlantica	Cedrus	TRSH	117	39.130435	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+AlbaSanchez_a80	Juglans	Juglans	TRSH	1	0.33444816	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+AlbaSanchez_a80	Juniperus t.	Juniperus-type	TRSH	1	0.33444816	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a80	Olea	Olea europaea	TRSH	1	0.33444816	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a80	Quercus evergreen	Quercus ilex-type	TRSH	12	4.0133779	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a80	Quercus deciduous	Quercus robur-type	TRSH	1	0.33444816	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a80	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	1	0.33444816	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a80	Lycopodium (counted)	Lycopodium (counted)	NOPO	1		GroupID taken from spreadsheet
+AlbaSanchez_a80	Sordaria sp	Sordaria-type	FUNG	1		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a80	Filicales triletes undiff.	Trilete spore(s)	VACR	165	55.183946	GroupID taken from POLNET. Only one taxon matched that acc_varname.

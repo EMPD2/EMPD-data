@@ -1,18 +1,18 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Nakagawa_a23	10	96	10	Cryptomeria	Cryptomeria-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-1	Nakagawa_a23	17	2	17	Myrica	Myrica	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-2	Nakagawa_a23	37	1	37	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-3	Nakagawa_a23	26	1	26	Sciadopitys	Sciadopitys	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-4	Nakagawa_a23	2449	48	2449	Castanopsis-Castanea	Fagaceae	TRSH	GroupID taken from spreadsheet
-5	Nakagawa_a23	2451	11	2451	T-C-C type	Taxaceae/Cephalotaxaceae/Cupressaceae	TRSH	GroupID taken from spreadsheet
-6	Nakagawa_a23	2452	1	774	Celtis-Aphananthe	Cannabaceae	TRSH	GroupID taken from spreadsheet
-7	Nakagawa_a23	15	1	15	Juglans	Juglans	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-8	Nakagawa_a23	1959	4	209	Pterocarya	Pterocarya	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-9	Nakagawa_a23	980	11	197	Unknown	Indeterminable: unknown	INUN	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-10	Nakagawa_a23	2466	3	148	Pinus-D	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-11	Nakagawa_a23	2468	1	19	Pinus-undiff.	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-12	Nakagawa_a23	2469	16	21	Quercus-D	Quercus robur-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-13	Nakagawa_a23	2470	269	22	Quercus-E	Quercus ilex-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-14	Nakagawa_a23	2472	1	167	spore-monolete	Monolete fern spores	VACR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-15	Nakagawa_a23	2473	631	295	spore-trilete	Trilete spore(s)	VACR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-16	Nakagawa_a23	2474	41	1008	broken	Indeterminable: broken	INUN	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Nakagawa_a23	Celtis-Aphananthe	Cannabaceae	TRSH	1	0.092081031	GroupID taken from spreadsheet
+Nakagawa_a23	Cryptomeria	Cryptomeria-type	TRSH	96	8.839779	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Nakagawa_a23	Castanopsis-Castanea	Fagaceae	TRSH	48	4.4198895	GroupID taken from spreadsheet
+Nakagawa_a23	Juglans	Juglans	TRSH	1	0.092081031	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Nakagawa_a23	Myrica	Myrica	TRSH	2	0.18416206	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Nakagawa_a23	Pinus-undiff.	Pinus	TRSH	1	0.092081031	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Nakagawa_a23	Pinus-D	Pinus sylvestris-type	TRSH	3	0.27624309	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Nakagawa_a23	Pterocarya	Pterocarya	TRSH	4	0.36832413	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Nakagawa_a23	Quercus-E	Quercus ilex-type	TRSH	269	24.769797	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Nakagawa_a23	Quercus-D	Quercus robur-type	TRSH	16	1.4732965	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Nakagawa_a23	Sciadopitys	Sciadopitys	TRSH	1	0.092081031	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Nakagawa_a23	T-C-C type	Taxaceae/Cephalotaxaceae/Cupressaceae	TRSH	11	1.0128913	GroupID taken from spreadsheet
+Nakagawa_a23	Artemisia	Artemisia	HERB	1	0.092081031	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Nakagawa_a23	broken	Indeterminable: broken	INUN	41		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Nakagawa_a23	Unknown	Indeterminable: unknown	INUN	11		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Nakagawa_a23	spore-monolete	Monolete fern spores	VACR	1	0.092081031	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Nakagawa_a23	spore-trilete	Trilete spore(s)	VACR	631	58.103131	GroupID taken from POLNET. Only one taxon matched that acc_varname.

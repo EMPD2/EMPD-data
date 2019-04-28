@@ -1,23 +1,23 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Nakagawa_a19	1	4	1	Abies	Abies	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-1	Nakagawa_a19	10	270	10	Cryptomeria	Cryptomeria-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-2	Nakagawa_a19	25	1	25	Salix	Salix	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-3	Nakagawa_a19	4	4	4	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-4	Nakagawa_a19	1963	10	31	Ulmus-Zelkova	Ulmus/Zelkova	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-5	Nakagawa_a19	14	12	14	Ilex	Ilex	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-6	Nakagawa_a19	37	1	37	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-7	Nakagawa_a19	30	7	30	Tsuga	Tsuga	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-8	Nakagawa_a19	7	7	7	Carpinus	Carpinus betulus	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-9	Nakagawa_a19	13	6	13	Fraxinus	Fraxinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-10	Nakagawa_a19	32	1	32	Viburnum	Viburnum	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-11	Nakagawa_a19	2449	7	2449	Castanopsis-Castanea	Fagaceae	TRSH	GroupID taken from spreadsheet
-12	Nakagawa_a19	2451	2	2451	T-C-C type	Taxaceae/Cephalotaxaceae/Cupressaceae	TRSH	GroupID taken from spreadsheet
-13	Nakagawa_a19	980	53	197	Unknown	Indeterminable: unknown	INUN	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-14	Nakagawa_a19	2466	23	148	Pinus-D	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-15	Nakagawa_a19	2467	1	147	Pinus-H	Pinus cembra-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-16	Nakagawa_a19	2468	22	19	Pinus-undiff.	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-17	Nakagawa_a19	2469	9	21	Quercus-D	Quercus robur-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-18	Nakagawa_a19	2470	22	22	Quercus-E	Quercus ilex-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-19	Nakagawa_a19	2472	1	167	spore-monolete	Monolete fern spores	VACR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-20	Nakagawa_a19	2473	2	295	spore-trilete	Trilete spore(s)	VACR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-21	Nakagawa_a19	2474	42	1008	broken	Indeterminable: broken	INUN	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Nakagawa_a19	Abies	Abies	TRSH	4	0.97087379	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Nakagawa_a19	Alnus	Alnus	TRSH	4	0.97087379	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Nakagawa_a19	Carpinus	Carpinus betulus	TRSH	7	1.6990291	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Nakagawa_a19	Cryptomeria	Cryptomeria-type	TRSH	270	65.533981	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Nakagawa_a19	Castanopsis-Castanea	Fagaceae	TRSH	7	1.6990291	GroupID taken from spreadsheet
+Nakagawa_a19	Fraxinus	Fraxinus	TRSH	6	1.4563107	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Nakagawa_a19	Ilex	Ilex	TRSH	12	2.9126214	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Nakagawa_a19	Pinus-undiff.	Pinus	TRSH	22	5.3398058	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Nakagawa_a19	Pinus-H	Pinus cembra-type	TRSH	1	0.24271845	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Nakagawa_a19	Pinus-D	Pinus sylvestris-type	TRSH	23	5.5825243	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Nakagawa_a19	Quercus-E	Quercus ilex-type	TRSH	22	5.3398058	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Nakagawa_a19	Quercus-D	Quercus robur-type	TRSH	9	2.184466	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Nakagawa_a19	Salix	Salix	TRSH	1	0.24271845	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Nakagawa_a19	T-C-C type	Taxaceae/Cephalotaxaceae/Cupressaceae	TRSH	2	0.48543689	GroupID taken from spreadsheet
+Nakagawa_a19	Tsuga	Tsuga	TRSH	7	1.6990291	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Nakagawa_a19	Ulmus-Zelkova	Ulmus/Zelkova	TRSH	10	2.4271845	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Nakagawa_a19	Viburnum	Viburnum	TRSH	1	0.24271845	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Nakagawa_a19	Artemisia	Artemisia	HERB	1	0.24271845	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Nakagawa_a19	broken	Indeterminable: broken	INUN	42		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Nakagawa_a19	Unknown	Indeterminable: unknown	INUN	53		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Nakagawa_a19	spore-monolete	Monolete fern spores	VACR	1	0.24271845	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Nakagawa_a19	spore-trilete	Trilete spore(s)	VACR	2	0.48543689	GroupID taken from POLNET. Only one taxon matched that acc_varname.

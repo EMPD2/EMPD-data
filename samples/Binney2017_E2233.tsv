@@ -1,17 +1,17 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Binney2017_E2233	1	5	1	Abies	Abies	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-1	Binney2017_E2233	4	9	4	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-2	Binney2017_E2233	37	5	37	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-3	Binney2017_E2233	155	2	155	Asteraceae	Asteraceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-4	Binney2017_E2233	2113	17	149	Betula nana-type	Betula nana-type	DWAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-5	Binney2017_E2233	2123	21	150	Betula pubescens-type	Betula pubescens-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-6	Binney2017_E2233	61	195	61	Cyperaceae	Cyperaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-7	Binney2017_E2233	11	1	11	Ericaceae	Ericales (tetrad)	DWAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-8	Binney2017_E2233	4832	1	197	Herbs	Indeterminable: unknown	INUN	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-9	Binney2017_E2233	763	1	763	Lycopodiaceae	Lycopodiaceae	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-10	Binney2017_E2233	18	4	18	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-11	Binney2017_E2233	4526	7	147	Pinus pumila	Pinus cembra-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-12	Binney2017_E2233	1371	53	147	Pinus sibirica	Pinus cembra-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-13	Binney2017_E2233	799	130	148	Pinus sylvestris	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-14	Binney2017_E2233	106	2	106	Poaceae	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-15	Binney2017_E2233	25	1	25	Salix	Salix	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Binney2017_E2233	Abies	Abies	TRSH	5	1.1037528	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Binney2017_E2233	Alnus	Alnus	TRSH	9	1.986755	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Binney2017_E2233	Betula nana-type	Betula nana-type	DWAR	17	3.7527594	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Binney2017_E2233	Betula pubescens-type	Betula pubescens-type	TRSH	21	4.6357616	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Binney2017_E2233	Ericaceae	Ericales (tetrad)	DWAR	1	0.22075055	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Binney2017_E2233	Picea	Picea	TRSH	4	0.88300221	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Binney2017_E2233	Pinus pumila	Pinus cembra-type	TRSH	7	1.5452539	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Binney2017_E2233	Pinus sibirica	Pinus cembra-type	TRSH	53	11.699779	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Binney2017_E2233	Pinus sylvestris	Pinus sylvestris-type	TRSH	130	28.697572	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Binney2017_E2233	Salix	Salix	TRSH	1	0.22075055	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Binney2017_E2233	Artemisia	Artemisia	HERB	5	1.1037528	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Binney2017_E2233	Asteraceae	Asteraceae	HERB	2	0.4415011	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Binney2017_E2233	Cyperaceae	Cyperaceae	HERB	195	43.046358	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Binney2017_E2233	Poaceae	Poaceae	HERB	2	0.4415011	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Binney2017_E2233	Herbs	Indeterminable: unknown	INUN	1		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Binney2017_E2233	Lycopodiaceae	Lycopodiaceae	VACR	1	0.22075055	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.

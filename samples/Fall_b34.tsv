@@ -1,22 +1,22 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Fall_b34	554	96	554	Ceratonia	Ceratonia siliqua	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-1	Fall_b34	1395	14	1395	Crataegus	Crataegus	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-2	Fall_b34	219	101	28	Juniperus type	Juniperus-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-3	Fall_b34	13	5	13	Fraxinus	Fraxinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-4	Fall_b34	455	4	95	Olea	Olea europaea	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-5	Fall_b34	1625	91	19	Pinus sp	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-6	Fall_b34	103	4	103	Pistacia	Pistacia	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-7	Fall_b34	24	2	24	Rhus	Rhus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-8	Fall_b34	25	2	25	Salix	Salix	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-9	Fall_b34	597	1	597	Ambrosia	Ambrosia	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-10	Fall_b34	1646	2	57	Asteraceae Centaurea sol.	Centaurea nigra-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-11	Fall_b34	1651	3	1651	Asteraceae Helianthus type	Helianthus	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-12	Fall_b34	1347	10	53	Asteraceae Liguliflorae	Asteraceae subf. Cichorioideae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-13	Fall_b34	1654	2	1654	Asteraceae, Onopordon	Chardinia/Onopordon	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-14	Fall_b34	1663	4	52	Chenopodiaceae Sueda/Atriplex type	Chenopodiaceae/Amaranthaceae	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-15	Fall_b34	55	14	55	Cistus	Cistus	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-16	Fall_b34	80	9	80	Helianthemum	Helianthemum	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-17	Fall_b34	86	5	86	Lamiaceae	Lamiaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-18	Fall_b34	106	16	106	Poaceae	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-19	Fall_b34	1681	2	50	Poaceae Cerealia	Cerealia-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-20	Fall_b34	1683	14	126	Poterium	Sanguisorba minor-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Fall_b34	Ceratonia	Ceratonia siliqua	TRSH	96	23.94015	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Fall_b34	Cistus	Cistus	TRSH	14	3.4912718	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Fall_b34	Crataegus	Crataegus	TRSH	14	3.4912718	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Fall_b34	Fraxinus	Fraxinus	TRSH	5	1.2468828	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Fall_b34	Juniperus type	Juniperus-type	TRSH	101	25.187032	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Fall_b34	Olea	Olea europaea	TRSH	4	0.99750623	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Fall_b34	Pinus sp	Pinus	TRSH	91	22.693267	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Fall_b34	Pistacia	Pistacia	TRSH	4	0.99750623	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Fall_b34	Rhus	Rhus	TRSH	2	0.49875312	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Fall_b34	Salix	Salix	TRSH	2	0.49875312	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Fall_b34	Ambrosia	Ambrosia	HERB	1	0.24937656	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Fall_b34	Asteraceae Liguliflorae	Asteraceae subf. Cichorioideae	HERB	10	2.4937656	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Fall_b34	Asteraceae Centaurea sol.	Centaurea nigra-type	HERB	2	0.49875312	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Fall_b34	Poaceae Cerealia	Cerealia-type	HERB	2	0.49875312	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Fall_b34	Asteraceae, Onopordon	Chardinia/Onopordon	HERB	2	0.49875312	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Fall_b34	Chenopodiaceae Sueda/Atriplex type	Chenopodiaceae/Amaranthaceae	HERB	4	0.99750623	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Fall_b34	Helianthemum	Helianthemum	HERB	9	2.244389	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Fall_b34	Asteraceae Helianthus type	Helianthus	HERB	3	0.74812968	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Fall_b34	Lamiaceae	Lamiaceae	HERB	5	1.2468828	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Fall_b34	Poaceae	Poaceae	HERB	16	3.9900249	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Fall_b34	Poterium	Sanguisorba minor-type	HERB	14	3.4912718	GroupID taken from POLNET. Only one taxon matched that acc_varname.

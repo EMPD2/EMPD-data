@@ -1,14 +1,14 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Pardoe_c145	5	410	5	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-1	Pardoe_c145	19	97	19	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-2	Pardoe_c145	4	9	4	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-3	Pardoe_c145	7	6	7	Carpinus	Carpinus betulus	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-4	Pardoe_c145	18	14	18	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-5	Pardoe_c145	9	19	9	Corylus	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-6	Pardoe_c145	25	13	25	Salix	Salix	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-7	Pardoe_c145	106	9	106	Poaceae	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-8	Pardoe_c145	592	1	470	Calluna	Calluna vulgaris	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-9	Pardoe_c145	750	11	750	Empetrum	Empetrum nigrum	DWAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-10	Pardoe_c145	552	44	552	Vaccinium	Vaccinium	DWAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-11	Pardoe_c145	46	1	46	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-12	Pardoe_c145	679	3	679	Selaginella	Selaginella	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Pardoe_c145	Alnus	Alnus	TRSH	9	1.4128728	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Pardoe_c145	Betula	Betula	TRSH	410	64.364207	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Pardoe_c145	Calluna	Calluna vulgaris	TRSH	1	0.15698587	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Pardoe_c145	Carpinus	Carpinus betulus	TRSH	6	0.94191523	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Pardoe_c145	Corylus	Corylus	TRSH	19	2.9827316	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Pardoe_c145	Empetrum	Empetrum nigrum	DWAR	11	1.7268446	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Pardoe_c145	Picea	Picea	TRSH	14	2.1978022	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Pardoe_c145	Pinus	Pinus	TRSH	97	15.22763	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Pardoe_c145	Salix	Salix	TRSH	13	2.0408163	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Pardoe_c145	Vaccinium	Vaccinium	DWAR	44	6.9073783	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Pardoe_c145	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	1	0.15698587	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Pardoe_c145	Poaceae	Poaceae	HERB	9	1.4128728	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Pardoe_c145	Selaginella	Selaginella	VACR	3	0.47095761	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.

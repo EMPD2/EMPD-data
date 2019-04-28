@@ -1,33 +1,33 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Colombaroli_a11	34	2	34	Achillea type	Matricaria-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-1	Colombaroli_a11	36	1	36	Apiaceae	Apiaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-2	Colombaroli_a11	41	4	41	Aster type	Aster-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-3	Colombaroli_a11	42	1	42	Brassicaceae	Brassicaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-4	Colombaroli_a11	44	2	44	Carduus type	Carduus	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-5	Colombaroli_a11	50	5	50	Cerealia	Cerealia-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-6	Colombaroli_a11	52	2	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-7	Colombaroli_a11	53	12	53	Cichorioidae	Asteraceae subf. Cichorioideae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-8	Colombaroli_a11	55	2	55	Cistus	Cistus	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-9	Colombaroli_a11	57	2	57	Centaurea nigra type	Centaurea nigra-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-10	Colombaroli_a11	61	6	61	Cyperaceae	Cyperaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-11	Colombaroli_a11	64	3	64	Ephedra fragilis type	Ephedra fragilis-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-12	Colombaroli_a11	66	1	66	Erica	Erica	DWAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-13	Colombaroli_a11	67	1	67	Eucalyptus	Eucalyptus	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-14	Colombaroli_a11	70	4	12	Fagus sylvatica	Fagus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-15	Colombaroli_a11	75	46	75	Fraxinus excelsior	Fraxinus excelsior-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-16	Colombaroli_a11	15	1	15	Juglans	Juglans	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-17	Colombaroli_a11	85	6	85	Juniperus	Juniperus communis-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-18	Colombaroli_a11	87	1	87	Plantago lanceolata	Plantago lanceolata-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-19	Colombaroli_a11	89	1	89	Liliaceae	Liliaceae-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-20	Colombaroli_a11	93	2	93	Mercurialis annua	Mercurialis annua	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-21	Colombaroli_a11	95	78	95	Olea europaea	Olea europaea	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-22	Colombaroli_a11	97	1	97	Ostrya carpinifolia	Ostrya/Carpinus orientalis	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-23	Colombaroli_a11	99	3	99	Paronychia	Paronychia	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-24	Colombaroli_a11	19	63	19	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-25	Colombaroli_a11	106	42	106	Poaceae	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-26	Colombaroli_a11	110	92	110	Quercus cerris/suber	Quercus cerris-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-27	Colombaroli_a11	111	8	22	Quercus ilex/coccifera	Quercus ilex-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-28	Colombaroli_a11	112	202	21	Quercus pubescens/petraea	Quercus robur-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-29	Colombaroli_a11	119	1	119	Rubiaceae	Rubiaceae	HERB	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
-30	Colombaroli_a11	126	9	126	Sanguisorba minor	Sanguisorba minor-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-31	Colombaroli_a11	137	1	137	Thalictrum	Thalictrum	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Colombaroli_a11	Cistus	Cistus	TRSH	2	0.33057851	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Colombaroli_a11	Ephedra fragilis type	Ephedra fragilis-type	TRSH	3	0.49586777	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Colombaroli_a11	Erica	Erica	DWAR	1	0.16528926	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Colombaroli_a11	Eucalyptus	Eucalyptus	TRSH	1	0.16528926	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Colombaroli_a11	Fagus sylvatica	Fagus	TRSH	4	0.66115702	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Colombaroli_a11	Fraxinus excelsior	Fraxinus excelsior-type	TRSH	46	7.6033058	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Colombaroli_a11	Juglans	Juglans	TRSH	1	0.16528926	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Colombaroli_a11	Juniperus	Juniperus communis-type	TRSH	6	0.99173554	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Colombaroli_a11	Olea europaea	Olea europaea	TRSH	78	12.892562	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Colombaroli_a11	Ostrya carpinifolia	Ostrya/Carpinus orientalis	TRSH	1	0.16528926	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Colombaroli_a11	Pinus	Pinus	TRSH	63	10.413223	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Colombaroli_a11	Quercus cerris/suber	Quercus cerris-type	TRSH	92	15.206612	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Colombaroli_a11	Quercus ilex/coccifera	Quercus ilex-type	TRSH	8	1.322314	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Colombaroli_a11	Quercus pubescens/petraea	Quercus robur-type	TRSH	202	33.38843	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Colombaroli_a11	Apiaceae	Apiaceae	HERB	1	0.16528926	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Colombaroli_a11	Aster type	Aster-type	HERB	4	0.66115702	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Colombaroli_a11	Cichorioidae	Asteraceae subf. Cichorioideae	HERB	12	1.9834711	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Colombaroli_a11	Brassicaceae	Brassicaceae	HERB	1	0.16528926	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Colombaroli_a11	Carduus type	Carduus	HERB	2	0.33057851	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Colombaroli_a11	Centaurea nigra type	Centaurea nigra-type	HERB	2	0.33057851	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Colombaroli_a11	Cerealia	Cerealia-type	HERB	5	0.82644628	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Colombaroli_a11	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	2	0.33057851	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Colombaroli_a11	Cyperaceae	Cyperaceae	HERB	6	0.99173554	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Colombaroli_a11	Liliaceae	Liliaceae-type	HERB	1	0.16528926	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Colombaroli_a11	Achillea type	Matricaria-type	HERB	2	0.33057851	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Colombaroli_a11	Mercurialis annua	Mercurialis annua	HERB	2	0.33057851	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Colombaroli_a11	Paronychia	Paronychia	HERB	3	0.49586777	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Colombaroli_a11	Plantago lanceolata	Plantago lanceolata-type	HERB	1	0.16528926	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Colombaroli_a11	Poaceae	Poaceae	HERB	42	6.9421488	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Colombaroli_a11	Rubiaceae	Rubiaceae	HERB	1	0.16528926	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
+Colombaroli_a11	Sanguisorba minor	Sanguisorba minor-type	HERB	9	1.4876033	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Colombaroli_a11	Thalictrum	Thalictrum	HERB	1	0.16528926	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.

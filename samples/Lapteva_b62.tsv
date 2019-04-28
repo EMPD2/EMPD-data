@@ -1,16 +1,16 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Lapteva_b62	16	2	16	Larix	Larix/Pseudotsuga	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-1	Lapteva_b62	18	6	18	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-2	Lapteva_b62	171	19	148	Pinus sylvestris=Pinus s/g Diploxylon	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-3	Lapteva_b62	150	20	150	Betula sect. Albae	Betula pubescens-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-4	Lapteva_b62	176	64	149	Betula nana=Betula sect. Nanae	Betula nana-type	DWAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-5	Lapteva_b62	25	1	25	Salix	Salix	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-6	Lapteva_b62	177	2	151	Duschekia fruticosa= Alnus fruticosa-type	Alnus viridis	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-7	Lapteva_b62	11	12	11	Ericaceae	Ericales (tetrad)	DWAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-8	Lapteva_b62	106	1	106	Poaceae	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-9	Lapteva_b62	61	2	61	Cyperaceae	Cyperaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-10	Lapteva_b62	159	2	159	Polygonaceae	Polygonaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-11	Lapteva_b62	118	2	118	Rosaceae	Rosaceae	TRSH	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
-12	Lapteva_b62	197	1	197	Pollen gen. indet.	Indeterminable: unknown	INUN	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-13	Lapteva_b62	202	5	202	Lycopodium clavatum-type	Lycopodium clavatum-type	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-14	Lapteva_b62	165	4	165	Sphagnum	Sphagnum	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Lapteva_b62	Duschekia fruticosa= Alnus fruticosa-type	Alnus viridis	TRSH	2	1.4492754	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Lapteva_b62	Betula nana=Betula sect. Nanae	Betula nana-type	DWAR	64	46.376812	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Lapteva_b62	Betula sect. Albae	Betula pubescens-type	TRSH	20	14.492754	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Lapteva_b62	Ericaceae	Ericales (tetrad)	DWAR	12	8.6956522	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Lapteva_b62	Larix	Larix/Pseudotsuga	TRSH	2	1.4492754	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Lapteva_b62	Picea	Picea	TRSH	6	4.3478261	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Lapteva_b62	Pinus sylvestris=Pinus s/g Diploxylon	Pinus sylvestris-type	TRSH	19	13.768116	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Lapteva_b62	Rosaceae	Rosaceae	TRSH	2	1.4492754	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
+Lapteva_b62	Salix	Salix	TRSH	1	0.72463768	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Lapteva_b62	Cyperaceae	Cyperaceae	HERB	2	1.4492754	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Lapteva_b62	Poaceae	Poaceae	HERB	1	0.72463768	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Lapteva_b62	Polygonaceae	Polygonaceae	HERB	2	1.4492754	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Lapteva_b62	Pollen gen. indet.	Indeterminable: unknown	INUN	1		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Lapteva_b62	Lycopodium clavatum-type	Lycopodium clavatum-type	VACR	5	3.6231884	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Lapteva_b62	Sphagnum	Sphagnum	NOPO	4		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.

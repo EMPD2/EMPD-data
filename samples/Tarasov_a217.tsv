@@ -1,10 +1,10 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Tarasov_a217	3	3.26	3	Aesculus	Aesculus	TRSH	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
-1	Tarasov_a217	4	9.04	4	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-2	Tarasov_a217	5	1.26	5	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-3	Tarasov_a217	10	2	10	Cryptomeria	Cryptomeria-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-4	Tarasov_a217	12	20.82	12	Fagus	Fagus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-5	Tarasov_a217	15	4.52	15	Juglans	Juglans	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-6	Tarasov_a217	16	2	16	Larix	Larix/Pseudotsuga	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-7	Tarasov_a217	19	41.54	19	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-8	Tarasov_a217	21	15.56	21	Quercus deciduous	Quercus robur-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Tarasov_a217	Aesculus	Aesculus	TRSH	3.26	3.26	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
+Tarasov_a217	Alnus	Alnus	TRSH	9.04	9.04	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Tarasov_a217	Betula	Betula	TRSH	1.26	1.26	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Tarasov_a217	Cryptomeria	Cryptomeria-type	TRSH	2	2	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Tarasov_a217	Fagus	Fagus	TRSH	20.82	20.82	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Tarasov_a217	Juglans	Juglans	TRSH	4.52	4.52	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Tarasov_a217	Larix	Larix/Pseudotsuga	TRSH	2	2	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Tarasov_a217	Pinus	Pinus	TRSH	41.54	41.54	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Tarasov_a217	Quercus deciduous	Quercus robur-type	TRSH	15.56	15.56	GroupID taken from POLNET. Only one taxon matched that acc_varname.

@@ -1,12 +1,12 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	AlbaSanchez_a97	442	6	356	Cedrus atlantica	Cedrus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-1	AlbaSanchez_a97	22	280	22	Quercus evergreen	Quercus ilex-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-2	AlbaSanchez_a97	443	1	148	Pinus sylvestris/nigra/uncinata t.	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-3	AlbaSanchez_a97	444	2	106	Poaceae undiff.	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-4	AlbaSanchez_a97	448	1	448	Genisteae	Genista-group	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-5	AlbaSanchez_a97	21	10	21	Quercus deciduous	Quercus robur-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-6	AlbaSanchez_a97	451	120	110	Quercus suber	Quercus cerris-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-7	AlbaSanchez_a97	455	37	95	Olea	Olea europaea	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-8	AlbaSanchez_a97	462	1	121	Rumex acetosella t.	Rumex acetosa-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-9	AlbaSanchez_a97	52	1	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-10	AlbaSanchez_a97	156	2	156	Ranunculaceae	Ranunculaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+AlbaSanchez_a97	Cedrus atlantica	Cedrus	TRSH	6	1.3015184	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+AlbaSanchez_a97	Genisteae	Genista-group	TRSH	1	0.21691974	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a97	Olea	Olea europaea	TRSH	37	8.0260304	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a97	Pinus sylvestris/nigra/uncinata t.	Pinus sylvestris-type	TRSH	1	0.21691974	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a97	Quercus suber	Quercus cerris-type	TRSH	120	26.030369	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a97	Quercus evergreen	Quercus ilex-type	TRSH	280	60.737527	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a97	Quercus deciduous	Quercus robur-type	TRSH	10	2.1691974	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a97	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.21691974	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a97	Poaceae undiff.	Poaceae	HERB	2	0.43383948	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+AlbaSanchez_a97	Ranunculaceae	Ranunculaceae	HERB	2	0.43383948	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+AlbaSanchez_a97	Rumex acetosella t.	Rumex acetosa-type	HERB	1	0.21691974	GroupID taken from POLNET. Only one taxon matched that acc_varname.

@@ -1,22 +1,22 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Ryabogina_a46	1458	150	5	Betula or Bet.s.Albae	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-1	Ryabogina_a46	1462	37	148	Pin._sylv.	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-2	Ryabogina_a46	36	3	36	Apiaceae	Apiaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-3	Ryabogina_a46	37	2	37	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-4	Ryabogina_a46	155	2	155	Asteraceae	Asteraceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-5	Ryabogina_a46	1477	3	52	Chen-eae	Chenopodiaceae/Amaranthaceae	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-6	Ryabogina_a46	61	5	61	Cyperaceae	Cyperaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-7	Ryabogina_a46	89	2	89	Liliaceae	Liliaceae-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-8	Ryabogina_a46	106	15	106	Poaceae	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-9	Ryabogina_a46	1514	6	159	Polyg-eae	Polygonaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-10	Ryabogina_a46	1522	4	156	Ran-eae	Ranunculaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-11	Ryabogina_a46	118	2	118	Rosaceae	Rosaceae	TRSH	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
-12	Ryabogina_a46	162	4	162	Rubus	Rubus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-13	Ryabogina_a46	1533	4	196	Sparg-eae	Sparganium-type	AQUA	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-14	Ryabogina_a46	1543	4	197	indef._pollen	Indeterminable: unknown	INUN	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-15	Ryabogina_a46	168	153	168	Bryales	Bryophyte spores	BRYO	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-16	Ryabogina_a46	166	8	166	Equisetum	Equisetum	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-17	Ryabogina_a46	1567	2	167	Polyp-eae	Monolete fern spores	VACR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-18	Ryabogina_a46	1573	5	205	Sel._ selaginoides	Selaginella selaginoides	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-19	Ryabogina_a46	165	4	165	Sphagnum	Sphagnum	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-20	Ryabogina_a46	1580	170	197	Sp	Indeterminable: unknown	INUN	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Ryabogina_a46	Betula or Bet.s.Albae	Betula	TRSH	150	37.220844	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Ryabogina_a46	Pin._sylv.	Pinus sylvestris-type	TRSH	37	9.1811414	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Ryabogina_a46	Rosaceae	Rosaceae	TRSH	2	0.49627792	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
+Ryabogina_a46	Rubus	Rubus	TRSH	4	0.99255583	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Ryabogina_a46	Apiaceae	Apiaceae	HERB	3	0.74441687	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Ryabogina_a46	Artemisia	Artemisia	HERB	2	0.49627792	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Ryabogina_a46	Asteraceae	Asteraceae	HERB	2	0.49627792	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Ryabogina_a46	Chen-eae	Chenopodiaceae/Amaranthaceae	HERB	3	0.74441687	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Ryabogina_a46	Cyperaceae	Cyperaceae	HERB	5	1.2406948	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Ryabogina_a46	Liliaceae	Liliaceae-type	HERB	2	0.49627792	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Ryabogina_a46	Poaceae	Poaceae	HERB	15	3.7220844	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Ryabogina_a46	Polyg-eae	Polygonaceae	HERB	6	1.4888337	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Ryabogina_a46	Ran-eae	Ranunculaceae	HERB	4	0.99255583	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Ryabogina_a46	Sparg-eae	Sparganium-type	AQUA	4	0.99255583	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Ryabogina_a46	indef._pollen	Indeterminable: unknown	INUN	4		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Ryabogina_a46	Sp	Indeterminable: unknown	INUN	170		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Ryabogina_a46	Bryales	Bryophyte spores	BRYO	153	37.965261	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Ryabogina_a46	Equisetum	Equisetum	VACR	8	1.9851117	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Ryabogina_a46	Polyp-eae	Monolete fern spores	VACR	2	0.49627792	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Ryabogina_a46	Sel._ selaginoides	Selaginella selaginoides	VACR	5	1.2406948	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Ryabogina_a46	Sphagnum	Sphagnum	NOPO	4		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.

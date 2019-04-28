@@ -1,8 +1,8 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Tarasov_a23	7	2.56	7	Carpinus	Carpinus betulus	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-1	Tarasov_a23	8	19.66	8	Castanopsis	Castanopsis	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-2	Tarasov_a23	10	47.01	10	Cryptomeria	Cryptomeria-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-3	Tarasov_a23	19	17.96	19	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-4	Tarasov_a23	21	1.71	21	Quercus deciduous	Quercus robur-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-5	Tarasov_a23	22	8.54	22	Quercus evergreen	Quercus ilex-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-6	Tarasov_a23	25	2.56	25	Salix	Salix	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Tarasov_a23	Carpinus	Carpinus betulus	TRSH	2.56	2.56	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Tarasov_a23	Castanopsis	Castanopsis	TRSH	19.66	19.66	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Tarasov_a23	Cryptomeria	Cryptomeria-type	TRSH	47.01	47.01	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Tarasov_a23	Pinus	Pinus	TRSH	17.96	17.96	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Tarasov_a23	Quercus evergreen	Quercus ilex-type	TRSH	8.54	8.54	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Tarasov_a23	Quercus deciduous	Quercus robur-type	TRSH	1.71	1.71	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Tarasov_a23	Salix	Salix	TRSH	2.56	2.56	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.

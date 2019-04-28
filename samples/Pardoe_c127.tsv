@@ -1,19 +1,19 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Pardoe_c127	5	230	5	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-1	Pardoe_c127	19	203	19	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-2	Pardoe_c127	4	8	4	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-3	Pardoe_c127	18	22	18	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-4	Pardoe_c127	9	5	9	Corylus	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-5	Pardoe_c127	25	8	25	Salix	Salix	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-6	Pardoe_c127	749	1	28	Juniperus-type	Juniperus-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-7	Pardoe_c127	106	27	106	Poaceae	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-8	Pardoe_c127	61	13	61	Cyperaceae	Cyperaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-9	Pardoe_c127	46	3	46	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-10	Pardoe_c127	52	4	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-11	Pardoe_c127	753	3	156	Ranunuculaceae	Ranunculaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-12	Pardoe_c127	735	1	286	Plantago	Plantago	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-13	Pardoe_c127	754	1	651	Saxifraga oppositifolia	Saxifraga oppositifolia-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-14	Pardoe_c127	755	1	755	Leguminosae	Leguminosae	HERB	GroupID taken from spreadsheet
-15	Pardoe_c127	756	32	257	Oxyria	Oxyria digyna	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-16	Pardoe_c127	642	1	642	Rhinanthus-type	Rhinanthus-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-17	Pardoe_c127	761	3	653	Saxifraga stellaris	Saxifraga stellaris-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Pardoe_c127	Alnus	Alnus	TRSH	8	1.4134276	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Pardoe_c127	Betula	Betula	TRSH	230	40.636042	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Pardoe_c127	Corylus	Corylus	TRSH	5	0.88339223	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Pardoe_c127	Juniperus-type	Juniperus-type	TRSH	1	0.17667845	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Pardoe_c127	Picea	Picea	TRSH	22	3.8869258	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Pardoe_c127	Pinus	Pinus	TRSH	203	35.865724	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Pardoe_c127	Salix	Salix	TRSH	8	1.4134276	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Pardoe_c127	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	3	0.53003534	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Pardoe_c127	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	4	0.70671378	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Pardoe_c127	Cyperaceae	Cyperaceae	HERB	13	2.2968198	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Pardoe_c127	Leguminosae	Leguminosae	HERB	1	0.17667845	GroupID taken from spreadsheet
+Pardoe_c127	Oxyria	Oxyria digyna	HERB	32	5.6537102	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Pardoe_c127	Plantago	Plantago	HERB	1	0.17667845	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Pardoe_c127	Poaceae	Poaceae	HERB	27	4.770318	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Pardoe_c127	Ranunuculaceae	Ranunculaceae	HERB	3	0.53003534	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Pardoe_c127	Rhinanthus-type	Rhinanthus-type	HERB	1	0.17667845	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Pardoe_c127	Saxifraga oppositifolia	Saxifraga oppositifolia-type	HERB	1	0.17667845	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Pardoe_c127	Saxifraga stellaris	Saxifraga stellaris-type	HERB	3	0.53003534	GroupID taken from POLNET. Only one taxon matched that acc_varname.

@@ -1,8 +1,8 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Tarasov_a76	4	1.25	4	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-1	Tarasov_a76	8	1.25	8	Castanopsis	Castanopsis	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-2	Tarasov_a76	10	32.5	10	Cryptomeria	Cryptomeria-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-3	Tarasov_a76	14	32.5	14	Ilex	Ilex	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-4	Tarasov_a76	19	22.5	19	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-5	Tarasov_a76	22	3.75	22	Quercus evergreen	Quercus ilex-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-6	Tarasov_a76	28	6.25	28	Taxodiaceae	Juniperus-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Tarasov_a76	Alnus	Alnus	TRSH	1.25	1.25	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Tarasov_a76	Castanopsis	Castanopsis	TRSH	1.25	1.25	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Tarasov_a76	Cryptomeria	Cryptomeria-type	TRSH	32.5	32.5	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Tarasov_a76	Ilex	Ilex	TRSH	32.5	32.5	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Tarasov_a76	Taxodiaceae	Juniperus-type	TRSH	6.25	6.25	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Tarasov_a76	Pinus	Pinus	TRSH	22.5	22.5	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Tarasov_a76	Quercus evergreen	Quercus ilex-type	TRSH	3.75	3.75	GroupID taken from POLNET. Only one taxon matched that acc_varname.

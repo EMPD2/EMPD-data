@@ -1,17 +1,17 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Mikishin-Gvozdeva_a38	1	26	1	Abies	Abies	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-1	Mikishin-Gvozdeva_a38	18	207	18	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-2	Mikishin-Gvozdeva_a38	16	4	16	Larix	Larix/Pseudotsuga	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-3	Mikishin-Gvozdeva_a38	2227	3	148	Pinus sgen. Diploxylon	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-4	Mikishin-Gvozdeva_a38	2228	80	147	Pinus sgen. Haploxylon	Pinus cembra-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-5	Mikishin-Gvozdeva_a38	5	6	5	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-6	Mikishin-Gvozdeva_a38	2113	1	149	Betula nana-type	Betula nana-type	DWAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-7	Mikishin-Gvozdeva_a38	4	1	4	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-8	Mikishin-Gvozdeva_a38	2230	1	151	Alnaster (Alnus shrub-type: Alnaster fruticosus, Alnus fruticosa, Alnus maximowiczii)	Alnus viridis	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-9	Mikishin-Gvozdeva_a38	61	1	61	Cyperaceae	Cyperaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-10	Mikishin-Gvozdeva_a38	37	1	37	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-11	Mikishin-Gvozdeva_a38	155	2	155	Asteraceae	Asteraceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-12	Mikishin-Gvozdeva_a38	165	2	165	Sphagnum	Sphagnum	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-13	Mikishin-Gvozdeva_a38	167	4	167	Polypodiaceae	Monolete fern spores	VACR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-14	Mikishin-Gvozdeva_a38	1565	2	478	Osmunda	Osmunda regalis	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-15	Mikishin-Gvozdeva_a38	164	1	164	Lycopodium	Lycopodium	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Mikishin-Gvozdeva_a38	Abies	Abies	TRSH	26	7.6470588	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Mikishin-Gvozdeva_a38	Alnus	Alnus	TRSH	1	0.29411765	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Mikishin-Gvozdeva_a38	Alnaster (Alnus shrub-type: Alnaster fruticosus, Alnus fruticosa, Alnus maximowiczii)	Alnus viridis	TRSH	1	0.29411765	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Mikishin-Gvozdeva_a38	Betula	Betula	TRSH	6	1.7647059	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Mikishin-Gvozdeva_a38	Betula nana-type	Betula nana-type	DWAR	1	0.29411765	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Mikishin-Gvozdeva_a38	Larix	Larix/Pseudotsuga	TRSH	4	1.1764706	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Mikishin-Gvozdeva_a38	Picea	Picea	TRSH	207	60.882353	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Mikishin-Gvozdeva_a38	Pinus sgen. Haploxylon	Pinus cembra-type	TRSH	80	23.529412	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Mikishin-Gvozdeva_a38	Pinus sgen. Diploxylon	Pinus sylvestris-type	TRSH	3	0.88235294	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Mikishin-Gvozdeva_a38	Artemisia	Artemisia	HERB	1	0.29411765	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Mikishin-Gvozdeva_a38	Asteraceae	Asteraceae	HERB	2	0.58823529	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Mikishin-Gvozdeva_a38	Cyperaceae	Cyperaceae	HERB	1	0.29411765	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Mikishin-Gvozdeva_a38	Lycopodium	Lycopodium	VACR	1	0.29411765	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Mikishin-Gvozdeva_a38	Polypodiaceae	Monolete fern spores	VACR	4	1.1764706	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Mikishin-Gvozdeva_a38	Osmunda	Osmunda regalis	VACR	2	0.58823529	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Mikishin-Gvozdeva_a38	Sphagnum	Sphagnum	NOPO	2		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.

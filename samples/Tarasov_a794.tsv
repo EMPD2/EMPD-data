@@ -1,23 +1,23 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Tarasov_a794	1	1.32	1	Abies	Abies	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-1	Tarasov_a794	2	3.96	2	Acer	Acer campestre-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-2	Tarasov_a794	3	0.33	3	Aesculus	Aesculus	TRSH	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
-3	Tarasov_a794	4	3.63	4	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-4	Tarasov_a794	5	18.48	5	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-5	Tarasov_a794	7	1.98	7	Carpinus	Carpinus betulus	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-6	Tarasov_a794	8	3.63	8	Castanopsis	Castanopsis	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-7	Tarasov_a794	9	4.29	9	Corylus	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-8	Tarasov_a794	10	1.65	10	Cryptomeria	Cryptomeria-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-9	Tarasov_a794	12	0.33	12	Fagus	Fagus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-10	Tarasov_a794	13	1.32	13	Fraxinus	Fraxinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-11	Tarasov_a794	15	2.31	15	Juglans	Juglans	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-12	Tarasov_a794	16	5.28	16	Larix	Larix/Pseudotsuga	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-13	Tarasov_a794	18	1.65	18	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-14	Tarasov_a794	19	3.63	19	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-15	Tarasov_a794	21	36.96	21	Quercus deciduous	Quercus robur-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-16	Tarasov_a794	24	1.65	24	Rhus	Rhus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-17	Tarasov_a794	25	1.65	25	Salix	Salix	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-18	Tarasov_a794	28	0.66	28	Taxodiaceae	Juniperus-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-19	Tarasov_a794	29	0.33	29	Tilia	Tilia	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-20	Tarasov_a794	31	3.96	31	Ulmus	Ulmus/Zelkova	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-21	Tarasov_a794	32	0.99	32	Viburnum	Viburnum	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Tarasov_a794	Abies	Abies	TRSH	1.32	1.320132	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Tarasov_a794	Acer	Acer campestre-type	TRSH	3.96	3.960396	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Tarasov_a794	Aesculus	Aesculus	TRSH	0.33	0.330033	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
+Tarasov_a794	Alnus	Alnus	TRSH	3.63	3.630363	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Tarasov_a794	Betula	Betula	TRSH	18.48	18.481848	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Tarasov_a794	Carpinus	Carpinus betulus	TRSH	1.98	1.980198	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Tarasov_a794	Castanopsis	Castanopsis	TRSH	3.63	3.630363	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Tarasov_a794	Corylus	Corylus	TRSH	4.29	4.290429	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Tarasov_a794	Cryptomeria	Cryptomeria-type	TRSH	1.65	1.650165	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Tarasov_a794	Fagus	Fagus	TRSH	0.33	0.330033	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Tarasov_a794	Fraxinus	Fraxinus	TRSH	1.32	1.320132	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Tarasov_a794	Juglans	Juglans	TRSH	2.31	2.310231	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Tarasov_a794	Taxodiaceae	Juniperus-type	TRSH	0.66	0.66006601	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Tarasov_a794	Larix	Larix/Pseudotsuga	TRSH	5.28	5.2805281	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Tarasov_a794	Picea	Picea	TRSH	1.65	1.650165	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Tarasov_a794	Pinus	Pinus	TRSH	3.63	3.630363	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Tarasov_a794	Quercus deciduous	Quercus robur-type	TRSH	36.96	36.963696	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Tarasov_a794	Rhus	Rhus	TRSH	1.65	1.650165	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Tarasov_a794	Salix	Salix	TRSH	1.65	1.650165	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Tarasov_a794	Tilia	Tilia	TRSH	0.33	0.330033	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Tarasov_a794	Ulmus	Ulmus/Zelkova	TRSH	3.96	3.960396	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Tarasov_a794	Viburnum	Viburnum	TRSH	0.99	0.99009901	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.

@@ -1,23 +1,23 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Kolaczek_h20	2	1	2	Acer	Acer campestre-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-1	Kolaczek_h20	1386	6	4	Alnus undiff.	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-2	Kolaczek_h20	1117	1	36	Apiaceae undiff.	Apiaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-3	Kolaczek_h20	1225	1	1121	Avena-type	Avena-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-4	Kolaczek_h20	1390	11	5	Betula undiff.	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-5	Kolaczek_h20	574	2	7	Carpinus betulus	Carpinus betulus	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-6	Kolaczek_h20	833	1	50	Cerealia undiff.	Cerealia-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-7	Kolaczek_h20	59	2	9	Corylus avellana	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-8	Kolaczek_h20	61	2	61	Cyperaceae	Cyperaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-9	Kolaczek_h20	70	7	12	Fagus sylvatica	Fagus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-10	Kolaczek_h20	1397	1	167	Filicales monoletae	Monolete fern spores	VACR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-11	Kolaczek_h20	73	1	73	Filipendula	Filipendula	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-12	Kolaczek_h20	794	8.5	794	Picea abies	Picea abies-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-13	Kolaczek_h20	1405	205	148	Pinus sylvestris type	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-14	Kolaczek_h20	87	1	87	Plantago lanceolata	Plantago lanceolata-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-15	Kolaczek_h20	444	6	106	Poaceae undiff.	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-16	Kolaczek_h20	208	7	208	Quercus	Quercus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-17	Kolaczek_h20	1425	6	1425	Rhynchospora alba	Rhynchospora	HELO	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-18	Kolaczek_h20	1411	1	594	Sambucus nigra/S. racemosa	Sambucus nigra/S. racemosa	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-19	Kolaczek_h20	272	1	272	Secale cereale	Secale cereale	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-20	Kolaczek_h20	165	6	165	Sphagnum	Sphagnum	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-21	Kolaczek_h20	1419	1	663	Urtica undiff.	Urtica	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Kolaczek_h20	Acer	Acer campestre-type	TRSH	1	0.37523452	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Kolaczek_h20	Alnus undiff.	Alnus	TRSH	6	2.2514071	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Kolaczek_h20	Betula undiff.	Betula	TRSH	11	4.1275797	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Kolaczek_h20	Carpinus betulus	Carpinus betulus	TRSH	2	0.75046904	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Kolaczek_h20	Corylus avellana	Corylus	TRSH	2	0.75046904	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Kolaczek_h20	Fagus sylvatica	Fagus	TRSH	7	2.6266417	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Kolaczek_h20	Picea abies	Picea abies-type	TRSH	8.5	3.1894934	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Kolaczek_h20	Pinus sylvestris type	Pinus sylvestris-type	TRSH	205	76.923077	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Kolaczek_h20	Quercus	Quercus	TRSH	7	2.6266417	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Kolaczek_h20	Sambucus nigra/S. racemosa	Sambucus nigra/S. racemosa	TRSH	1	0.37523452	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Kolaczek_h20	Apiaceae undiff.	Apiaceae	HERB	1	0.37523452	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Kolaczek_h20	Avena-type	Avena-type	HERB	1	0.37523452	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Kolaczek_h20	Cerealia undiff.	Cerealia-type	HERB	1	0.37523452	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Kolaczek_h20	Cyperaceae	Cyperaceae	HERB	2	0.75046904	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Kolaczek_h20	Filipendula	Filipendula	HERB	1	0.37523452	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Kolaczek_h20	Plantago lanceolata	Plantago lanceolata-type	HERB	1	0.37523452	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Kolaczek_h20	Poaceae undiff.	Poaceae	HERB	6	2.2514071	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Kolaczek_h20	Secale cereale	Secale cereale	HERB	1	0.37523452	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Kolaczek_h20	Urtica undiff.	Urtica	HERB	1	0.37523452	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Kolaczek_h20	Rhynchospora alba	Rhynchospora	HELO	6	2.2514071	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Kolaczek_h20	Filicales monoletae	Monolete fern spores	VACR	1	0.37523452	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Kolaczek_h20	Sphagnum	Sphagnum	NOPO	6		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.

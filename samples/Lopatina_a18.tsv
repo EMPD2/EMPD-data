@@ -1,15 +1,15 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Lopatina_a18	148	3	148	Pinus s/g Diploxylon	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-1	Lopatina_a18	25	1	25	Salix	Salix	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-2	Lopatina_a18	149	1	149	Betula sect. Nanae	Betula nana-type	DWAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-3	Lopatina_a18	150	2	150	Betula sect. Albae	Betula pubescens-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-4	Lopatina_a18	151	1	151	Duschekia	Alnus viridis	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-5	Lopatina_a18	106	33	106	Poaceae	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-6	Lopatina_a18	46	1	46	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-7	Lopatina_a18	154	3	154	Senecio	Senecio-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-8	Lopatina_a18	158	147	158	Onagraceae	Onagraceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-9	Lopatina_a18	159	1	159	Polygonaceae	Polygonaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-10	Lopatina_a18	162	2	162	Rubus	Rubus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-11	Lopatina_a18	163	1	163	Selaginella rupestris (L.) Spring.	Selaginella rupestris	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-12	Lopatina_a18	164	1	164	Lycopodium	Lycopodium	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-13	Lopatina_a18	168	3	168	Bryales	Bryophyte spores	BRYO	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Lopatina_a18	Duschekia	Alnus viridis	TRSH	1	0.5	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Lopatina_a18	Betula sect. Nanae	Betula nana-type	DWAR	1	0.5	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Lopatina_a18	Betula sect. Albae	Betula pubescens-type	TRSH	2	1	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Lopatina_a18	Pinus s/g Diploxylon	Pinus sylvestris-type	TRSH	3	1.5	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Lopatina_a18	Rubus	Rubus	TRSH	2	1	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Lopatina_a18	Salix	Salix	TRSH	1	0.5	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Lopatina_a18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	1	0.5	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Lopatina_a18	Onagraceae	Onagraceae	HERB	147	73.5	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Lopatina_a18	Poaceae	Poaceae	HERB	33	16.5	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Lopatina_a18	Polygonaceae	Polygonaceae	HERB	1	0.5	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Lopatina_a18	Senecio	Senecio-type	HERB	3	1.5	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Lopatina_a18	Bryales	Bryophyte spores	BRYO	3	1.5	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Lopatina_a18	Lycopodium	Lycopodium	VACR	1	0.5	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Lopatina_a18	Selaginella rupestris (L.) Spring.	Selaginella rupestris	VACR	1	0.5	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.

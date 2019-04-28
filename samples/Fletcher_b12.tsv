@@ -1,32 +1,32 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Fletcher_b12	587	2.2	356	Cedrus	Cedrus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-1	Fletcher_b12	725	0.6	363	Cupressaceae	Cupressaceae undiff.	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-2	Fletcher_b12	2207	0.3	2207	Juglandaceae	Juglandaceae	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-3	Fletcher_b12	455	6.3	95	Olea	Olea europaea	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-4	Fletcher_b12	101	0.9	101	Phillyrea	Phillyrea	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-5	Fletcher_b12	19	4.7	19	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-6	Fletcher_b12	21	2.8	21	Quercus deciduous	Quercus robur-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-7	Fletcher_b12	22	18.3	22	Quercus evergreen	Quercus ilex-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-8	Fletcher_b12	2208	0.3	65	Ephedra distachya	Ephedra distachya-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-9	Fletcher_b12	1746	1.3	64	Ephedra fragilis	Ephedra fragilis-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-10	Fletcher_b12	1117	0.3	36	Apiaceae undiff.	Apiaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-11	Fletcher_b12	37	2.5	37	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-12	Fletcher_b12	2211	0.3	41	Asteraceae aster type	Aster-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-13	Fletcher_b12	2214	1.3	2214	Asteraceae lactuceae type	Lactuca-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-14	Fletcher_b12	720	0.6	155	Asteraceae undiff.	Asteraceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-15	Fletcher_b12	1432	23.3	42	Brassicaceae undiff.	Brassicaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-16	Fletcher_b12	2216	2.2	2216	Caryophyllaceae herniaria type	Herniaria-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-17	Fletcher_b12	957	0.3	46	Caryophyllaceae undiff.	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-18	Fletcher_b12	2217	0.6	475	Centaurea cyanus type	Centaurea cyanus-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-19	Fletcher_b12	57	0.3	57	Centaurea nigra type	Centaurea nigra-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-20	Fletcher_b12	1819	2.5	52	Chenopodiaceae undiff.	Chenopodiaceae/Amaranthaceae	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-21	Fletcher_b12	2220	0.6	77	Fabaceae genista type	Genista-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-22	Fletcher_b12	2222	4.4	622	Fabaceae lotus type	Lotus-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-23	Fletcher_b12	496	8.8	285	Fabaceae undiff.	Fabaceae undiff.	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-24	Fletcher_b12	80	0.6	80	Helianthemum	Helianthemum	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-25	Fletcher_b12	86	0.3	86	Lamiaceae	Lamiaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-26	Fletcher_b12	444	9.8	106	Poaceae undiff.	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-27	Fletcher_b12	120	0.3	120	Rumex undiff.	Rumex/Oxyria	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-28	Fletcher_b12	2225	0.9	290	Ranunculus undiff.	Ranunculus-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-29	Fletcher_b12	2226	1.9	2226	Zygophyllaceae	Zygophyllaceae	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-30	Fletcher_b12	2023	43767	2023	Concentration	Total concentration	NOPO	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Fletcher_b12	Cedrus	Cedrus	TRSH	2.2	2.2110553	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Fletcher_b12	Cupressaceae	Cupressaceae undiff.	TRSH	0.6	0.60301508	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Fletcher_b12	Ephedra distachya	Ephedra distachya-type	TRSH	0.3	0.30150754	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Fletcher_b12	Ephedra fragilis	Ephedra fragilis-type	TRSH	1.3	1.3065327	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Fletcher_b12	Fabaceae genista type	Genista-type	TRSH	0.6	0.60301508	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Fletcher_b12	Juglandaceae	Juglandaceae	TRSH	0.3	0.30150754	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Fletcher_b12	Olea	Olea europaea	TRSH	6.3	6.3316583	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Fletcher_b12	Phillyrea	Phillyrea	TRSH	0.9	0.90452261	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Fletcher_b12	Pinus	Pinus	TRSH	4.7	4.7236181	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Fletcher_b12	Quercus evergreen	Quercus ilex-type	TRSH	18.3	18.39196	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Fletcher_b12	Quercus deciduous	Quercus robur-type	TRSH	2.8	2.8140704	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Fletcher_b12	Zygophyllaceae	Zygophyllaceae	TRSH	1.9	1.9095477	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Fletcher_b12	Apiaceae undiff.	Apiaceae	HERB	0.3	0.30150754	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Fletcher_b12	Artemisia	Artemisia	HERB	2.5	2.5125628	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Fletcher_b12	Asteraceae aster type	Aster-type	HERB	0.3	0.30150754	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Fletcher_b12	Asteraceae undiff.	Asteraceae	HERB	0.6	0.60301508	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Fletcher_b12	Brassicaceae undiff.	Brassicaceae	HERB	23.3	23.417085	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Fletcher_b12	Caryophyllaceae undiff.	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	0.3	0.30150754	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Fletcher_b12	Centaurea cyanus type	Centaurea cyanus-type	HERB	0.6	0.60301508	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Fletcher_b12	Centaurea nigra type	Centaurea nigra-type	HERB	0.3	0.30150754	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Fletcher_b12	Chenopodiaceae undiff.	Chenopodiaceae/Amaranthaceae	HERB	2.5	2.5125628	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Fletcher_b12	Fabaceae undiff.	Fabaceae undiff.	HERB	8.8	8.8442211	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Fletcher_b12	Helianthemum	Helianthemum	HERB	0.6	0.60301508	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Fletcher_b12	Caryophyllaceae herniaria type	Herniaria-type	HERB	2.2	2.2110553	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Fletcher_b12	Asteraceae lactuceae type	Lactuca-type	HERB	1.3	1.3065327	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Fletcher_b12	Lamiaceae	Lamiaceae	HERB	0.3	0.30150754	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Fletcher_b12	Fabaceae lotus type	Lotus-type	HERB	4.4	4.4221106	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Fletcher_b12	Poaceae undiff.	Poaceae	HERB	9.8	9.8492462	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Fletcher_b12	Ranunculus undiff.	Ranunculus-type	HERB	0.9	0.90452261	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Fletcher_b12	Rumex undiff.	Rumex/Oxyria	HERB	0.3	0.30150754	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Fletcher_b12	Concentration	Total concentration	NOPO	43767		GroupID taken from POLNET. Only one taxon matched that acc_varname.

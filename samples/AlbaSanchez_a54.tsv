@@ -1,12 +1,12 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	AlbaSanchez_a54	442	224	356	Cedrus atlantica	Cedrus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-1	AlbaSanchez_a54	22	34	22	Quercus evergreen	Quercus ilex-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-2	AlbaSanchez_a54	443	2	148	Pinus sylvestris/nigra/uncinata t.	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-3	AlbaSanchez_a54	444	12	106	Poaceae undiff.	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-4	AlbaSanchez_a54	5	1	5	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-5	AlbaSanchez_a54	455	17	95	Olea	Olea europaea	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-6	AlbaSanchez_a54	101	2	101	Phillyrea	Phillyrea	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-7	AlbaSanchez_a54	465	8	58	Plantago coronopus t.	Plantago coronopus-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-8	AlbaSanchez_a54	52	1	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-9	AlbaSanchez_a54	46	1	46	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-10	AlbaSanchez_a54	553	2	468	Erica scoparia t.	Erica arborea-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+AlbaSanchez_a54	Betula	Betula	TRSH	1	0.32894737	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+AlbaSanchez_a54	Cedrus atlantica	Cedrus	TRSH	224	73.684211	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+AlbaSanchez_a54	Erica scoparia t.	Erica arborea-type	TRSH	2	0.65789474	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a54	Olea	Olea europaea	TRSH	17	5.5921053	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a54	Phillyrea	Phillyrea	TRSH	2	0.65789474	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a54	Pinus sylvestris/nigra/uncinata t.	Pinus sylvestris-type	TRSH	2	0.65789474	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a54	Quercus evergreen	Quercus ilex-type	TRSH	34	11.184211	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a54	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	1	0.32894737	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a54	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.32894737	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a54	Plantago coronopus t.	Plantago coronopus-type	HERB	8	2.6315789	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a54	Poaceae undiff.	Poaceae	HERB	12	3.9473684	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.

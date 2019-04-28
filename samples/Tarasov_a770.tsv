@@ -1,25 +1,25 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Tarasov_a770	1	3.22	1	Abies	Abies	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-1	Tarasov_a770	2	0.46	2	Acer	Acer campestre-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-2	Tarasov_a770	3	0.18	3	Aesculus	Aesculus	TRSH	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
-3	Tarasov_a770	4	3.04	4	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-4	Tarasov_a770	5	20.72	5	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-5	Tarasov_a770	7	3.31	7	Carpinus	Carpinus betulus	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-6	Tarasov_a770	8	0.28	8	Castanopsis	Castanopsis	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-7	Tarasov_a770	9	2.12	9	Corylus	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-8	Tarasov_a770	10	1.57	10	Cryptomeria	Cryptomeria-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-9	Tarasov_a770	12	1.57	12	Fagus	Fagus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-10	Tarasov_a770	14	0.37	14	Ilex	Ilex	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-11	Tarasov_a770	15	6.63	15	Juglans	Juglans	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-12	Tarasov_a770	16	2.3	16	Larix	Larix/Pseudotsuga	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-13	Tarasov_a770	18	0.83	18	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-14	Tarasov_a770	19	8.84	19	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-15	Tarasov_a770	21	19.61	21	Quercus deciduous	Quercus robur-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-16	Tarasov_a770	22	0.18	22	Quercus evergreen	Quercus ilex-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-17	Tarasov_a770	23	0.09	23	Rhododendron	Rhododendron	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-18	Tarasov_a770	24	1.2	24	Rhus	Rhus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-19	Tarasov_a770	25	0.55	25	Salix	Salix	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-20	Tarasov_a770	28	0.37	28	Taxodiaceae	Juniperus-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-21	Tarasov_a770	29	0.46	29	Tilia	Tilia	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-22	Tarasov_a770	31	21.82	31	Ulmus	Ulmus/Zelkova	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-23	Tarasov_a770	32	0.28	32	Viburnum	Viburnum	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Tarasov_a770	Abies	Abies	TRSH	3.22	3.22	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Tarasov_a770	Acer	Acer campestre-type	TRSH	0.46	0.46	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Tarasov_a770	Aesculus	Aesculus	TRSH	0.18	0.18	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
+Tarasov_a770	Alnus	Alnus	TRSH	3.04	3.04	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Tarasov_a770	Betula	Betula	TRSH	20.72	20.72	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Tarasov_a770	Carpinus	Carpinus betulus	TRSH	3.31	3.31	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Tarasov_a770	Castanopsis	Castanopsis	TRSH	0.28	0.28	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Tarasov_a770	Corylus	Corylus	TRSH	2.12	2.12	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Tarasov_a770	Cryptomeria	Cryptomeria-type	TRSH	1.57	1.57	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Tarasov_a770	Fagus	Fagus	TRSH	1.57	1.57	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Tarasov_a770	Ilex	Ilex	TRSH	0.37	0.37	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Tarasov_a770	Juglans	Juglans	TRSH	6.63	6.63	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Tarasov_a770	Taxodiaceae	Juniperus-type	TRSH	0.37	0.37	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Tarasov_a770	Larix	Larix/Pseudotsuga	TRSH	2.3	2.3	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Tarasov_a770	Picea	Picea	TRSH	0.83	0.83	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Tarasov_a770	Pinus	Pinus	TRSH	8.84	8.84	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Tarasov_a770	Quercus evergreen	Quercus ilex-type	TRSH	0.18	0.18	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Tarasov_a770	Quercus deciduous	Quercus robur-type	TRSH	19.61	19.61	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Tarasov_a770	Rhododendron	Rhododendron	TRSH	0.09	0.09	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Tarasov_a770	Rhus	Rhus	TRSH	1.2	1.2	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Tarasov_a770	Salix	Salix	TRSH	0.55	0.55	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Tarasov_a770	Tilia	Tilia	TRSH	0.46	0.46	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Tarasov_a770	Ulmus	Ulmus/Zelkova	TRSH	21.82	21.82	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Tarasov_a770	Viburnum	Viburnum	TRSH	0.28	0.28	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.

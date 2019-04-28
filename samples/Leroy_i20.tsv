@@ -1,33 +1,33 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Leroy_i20	1953	121	1953	Pinaceae	Pinaceae	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-1	Leroy_i20	587	1	356	Cedrus	Cedrus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-2	Leroy_i20	1828	3	28	Cupressaceae	Juniperus-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-3	Leroy_i20	4	7	4	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-4	Leroy_i20	5	2	5	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-5	Leroy_i20	9	6	9	Corylus	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-6	Leroy_i20	207	1	207	Buxus	Buxus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-7	Leroy_i20	528	1	528	Lonicera	Lonicera	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-8	Leroy_i20	11	18	11	Ericaceae	Ericales (tetrad)	DWAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-9	Leroy_i20	12	4	12	Fagus	Fagus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-10	Leroy_i20	21	39	21	Quercus deciduous	Quercus robur-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-11	Leroy_i20	22	63	22	Quercus evergreen	Quercus ilex-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-12	Leroy_i20	15	3	15	Juglans	Juglans	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-13	Leroy_i20	13	10	13	Fraxinus	Fraxinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-14	Leroy_i20	455	30	95	Olea	Olea europaea	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-15	Leroy_i20	104	21	104	Platanus	Platanus	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-16	Leroy_i20	31	3	31	Ulmus	Ulmus/Zelkova	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-17	Leroy_i20	146	2	146	Vitis	Vitis	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-18	Leroy_i20	718	7	52	Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-19	Leroy_i20	855	1	53	Asteraceae liguliflorae	Asteraceae subf. Cichorioideae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-20	Leroy_i20	2066	3	180	A. tubuliflorae	Asteraceae subf. Asteroideae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-21	Leroy_i20	37	8	37	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-22	Leroy_i20	42	1	42	Brassicaceae	Brassicaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-23	Leroy_i20	61	4	61	Cyperaceae	Cyperaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-24	Leroy_i20	735	8	286	Plantago	Plantago	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-25	Leroy_i20	106	18	106	Poaceae	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-26	Leroy_i20	50	3	50	Cerealia	Cerealia-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-27	Leroy_i20	738	4	120	Rumex	Rumex/Oxyria	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-28	Leroy_i20	156	2	156	Ranunculaceae	Ranunculaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-29	Leroy_i20	446	1	200	Pteridium	Pteridium aquilinum	VACR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-30	Leroy_i20	1990	9	197	Indeterminated	Indeterminable: unknown	INUN	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-31	Leroy_i20	2075	11	197	Undeterminable	Indeterminable: unknown	INUN	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Leroy_i20	Alnus	Alnus	TRSH	7	1.7721519	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Leroy_i20	Betula	Betula	TRSH	2	0.50632911	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Leroy_i20	Buxus	Buxus	TRSH	1	0.25316456	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Leroy_i20	Cedrus	Cedrus	TRSH	1	0.25316456	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Leroy_i20	Corylus	Corylus	TRSH	6	1.5189873	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Leroy_i20	Ericaceae	Ericales (tetrad)	DWAR	18	4.556962	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Leroy_i20	Fagus	Fagus	TRSH	4	1.0126582	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Leroy_i20	Fraxinus	Fraxinus	TRSH	10	2.5316456	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Leroy_i20	Juglans	Juglans	TRSH	3	0.75949367	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Leroy_i20	Cupressaceae	Juniperus-type	TRSH	3	0.75949367	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Leroy_i20	Lonicera	Lonicera	TRSH	1	0.25316456	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Leroy_i20	Olea	Olea europaea	TRSH	30	7.5949367	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Leroy_i20	Pinaceae	Pinaceae	TRSH	121	30.632911	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Leroy_i20	Platanus	Platanus	TRSH	21	5.3164557	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Leroy_i20	Quercus evergreen	Quercus ilex-type	TRSH	63	15.949367	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Leroy_i20	Quercus deciduous	Quercus robur-type	TRSH	39	9.8734177	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Leroy_i20	Ulmus	Ulmus/Zelkova	TRSH	3	0.75949367	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Leroy_i20	Vitis	Vitis	TRSH	2	0.50632911	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Leroy_i20	Artemisia	Artemisia	HERB	8	2.0253165	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Leroy_i20	A. tubuliflorae	Asteraceae subf. Asteroideae	HERB	3	0.75949367	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Leroy_i20	Asteraceae liguliflorae	Asteraceae subf. Cichorioideae	HERB	1	0.25316456	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Leroy_i20	Brassicaceae	Brassicaceae	HERB	1	0.25316456	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Leroy_i20	Cerealia	Cerealia-type	HERB	3	0.75949367	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Leroy_i20	Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	7	1.7721519	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Leroy_i20	Cyperaceae	Cyperaceae	HERB	4	1.0126582	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Leroy_i20	Plantago	Plantago	HERB	8	2.0253165	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Leroy_i20	Poaceae	Poaceae	HERB	18	4.556962	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Leroy_i20	Ranunculaceae	Ranunculaceae	HERB	2	0.50632911	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Leroy_i20	Rumex	Rumex/Oxyria	HERB	4	1.0126582	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Leroy_i20	Indeterminated	Indeterminable: unknown	INUN	9		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Leroy_i20	Undeterminable	Indeterminable: unknown	INUN	11		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Leroy_i20	Pteridium	Pteridium aquilinum	VACR	1	0.25316456	GroupID taken from POLNET. Only one taxon matched that acc_varname.

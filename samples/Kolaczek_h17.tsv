@@ -1,13 +1,13 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Kolaczek_h17	1386	1	4	Alnus undiff.	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-1	Kolaczek_h17	1390	12	5	Betula undiff.	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-2	Kolaczek_h17	42	1	42	Brassicaceae	Brassicaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-3	Kolaczek_h17	833	1	50	Cerealia undiff.	Cerealia-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-4	Kolaczek_h17	70	1	12	Fagus sylvatica	Fagus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-5	Kolaczek_h17	616	1	119	Galium-type	Rubiaceae	HERB	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
-6	Kolaczek_h17	794	3	794	Picea abies	Picea abies-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-7	Kolaczek_h17	1405	25	148	Pinus sylvestris type	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-8	Kolaczek_h17	444	1	106	Poaceae undiff.	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-9	Kolaczek_h17	208	1	208	Quercus	Quercus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-10	Kolaczek_h17	272	2	272	Secale cereale	Secale cereale	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-11	Kolaczek_h17	165	55	165	Sphagnum	Sphagnum	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Kolaczek_h17	Alnus undiff.	Alnus	TRSH	1	2.0408163	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Kolaczek_h17	Betula undiff.	Betula	TRSH	12	24.489796	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Kolaczek_h17	Fagus sylvatica	Fagus	TRSH	1	2.0408163	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Kolaczek_h17	Picea abies	Picea abies-type	TRSH	3	6.122449	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Kolaczek_h17	Pinus sylvestris type	Pinus sylvestris-type	TRSH	25	51.020408	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Kolaczek_h17	Quercus	Quercus	TRSH	1	2.0408163	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Kolaczek_h17	Brassicaceae	Brassicaceae	HERB	1	2.0408163	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Kolaczek_h17	Cerealia undiff.	Cerealia-type	HERB	1	2.0408163	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Kolaczek_h17	Poaceae undiff.	Poaceae	HERB	1	2.0408163	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Kolaczek_h17	Galium-type	Rubiaceae	HERB	1	2.0408163	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
+Kolaczek_h17	Secale cereale	Secale cereale	HERB	2	4.0816327	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Kolaczek_h17	Sphagnum	Sphagnum	NOPO	55		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.

@@ -1,35 +1,35 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Fletcher_a3	67	1	67	Eucalyptus	Eucalyptus	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-1	Fletcher_a3	19	35.5	19	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-2	Fletcher_a3	455	12	95	Olea	Olea europaea	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-3	Fletcher_a3	451	6	110	Quercus suber	Quercus cerris-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-4	Fletcher_a3	2182	11	208	Quercus undiff.	Quercus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-5	Fletcher_a3	17	1	17	Myrica	Myrica	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-6	Fletcher_a3	101	1	101	Phillyrea	Phillyrea	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-7	Fletcher_a3	103	1	103	Pistacia	Pistacia	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-8	Fletcher_a3	2184	2	467	Cistus ladanifer/populifolius types	Cistus ladanifer-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-9	Fletcher_a3	2185	1	1741	Cistus monspeliensis type	Cistus monspeliensis-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-10	Fletcher_a3	2187	1	86	Lamiaceae (6-colpate)	Lamiaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-11	Fletcher_a3	2188	2	40	Lotus type	Astragalus-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-12	Fletcher_a3	237	7	87	Plantago lanceolata type	Plantago lanceolata-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-13	Fletcher_a3	627	14	58	Plantago coronopus type	Plantago coronopus-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-14	Fletcher_a3	1863	4	286	Plantago undiff.	Plantago	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-15	Fletcher_a3	647	2	121	Rumex acetosella type	Rumex acetosa-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-16	Fletcher_a3	957	3	46	Caryophyllaceae undiff.	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-17	Fletcher_a3	2193	52	180	Asteraceae (Asteroid./Card.)	Asteraceae subf. Asteroideae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-18	Fletcher_a3	2194	171	53	Asteraceae (Lactuc.)	Asteraceae subf. Cichorioideae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-19	Fletcher_a3	2195	1	50	Poaceae Pore>8	Cerealia-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-20	Fletcher_a3	106	562	106	Poaceae	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-21	Fletcher_a3	61	30	61	Cyperaceae	Cyperaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-22	Fletcher_a3	52	138	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-23	Fletcher_a3	2196	5	382	Isoetes undiff.	Isoetes	AQPT	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-24	Fletcher_a3	1980	1	1850	Myriophyllum alterniflorum	Myriophyllum alterniflorum	AQUA	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-25	Fletcher_a3	13	1	13	Fraxinus	Fraxinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-26	Fletcher_a3	512	1	430	Tamarix	Tamarix	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-27	Fletcher_a3	1117	1	36	Apiaceae undiff.	Apiaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-28	Fletcher_a3	42	5	42	Brassicaceae	Brassicaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-29	Fletcher_a3	2202	1	167	Pteropsida (monolete) undif.	Monolete fern spores	VACR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-30	Fletcher_a3	2203	6	295	Pteropsida (trilete) undif.	Trilete spore(s)	VACR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-31	Fletcher_a3	2204	5	197	Indeterminate	Indeterminable: unknown	INUN	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-32	Fletcher_a3	980	13	197	Unknown	Indeterminable: unknown	INUN	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-33	Fletcher_a3	2205	1	2205	Pre-Quaternary	Pre-Quaternary type	PREQ	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Fletcher_a3	Cistus ladanifer/populifolius types	Cistus ladanifer-type	TRSH	2	0.18630647	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Fletcher_a3	Cistus monspeliensis type	Cistus monspeliensis-type	TRSH	1	0.093153237	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Fletcher_a3	Eucalyptus	Eucalyptus	TRSH	1	0.093153237	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Fletcher_a3	Fraxinus	Fraxinus	TRSH	1	0.093153237	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Fletcher_a3	Myrica	Myrica	TRSH	1	0.093153237	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Fletcher_a3	Olea	Olea europaea	TRSH	12	1.1178388	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Fletcher_a3	Phillyrea	Phillyrea	TRSH	1	0.093153237	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Fletcher_a3	Pinus	Pinus	TRSH	35.5	3.3069399	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Fletcher_a3	Pistacia	Pistacia	TRSH	1	0.093153237	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Fletcher_a3	Quercus undiff.	Quercus	TRSH	11	1.0246856	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Fletcher_a3	Quercus suber	Quercus cerris-type	TRSH	6	0.55891942	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Fletcher_a3	Tamarix	Tamarix	TRSH	1	0.093153237	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Fletcher_a3	Apiaceae undiff.	Apiaceae	HERB	1	0.093153237	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Fletcher_a3	Asteraceae (Asteroid./Card.)	Asteraceae subf. Asteroideae	HERB	52	4.8439683	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Fletcher_a3	Asteraceae (Lactuc.)	Asteraceae subf. Cichorioideae	HERB	171	15.929204	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Fletcher_a3	Lotus type	Astragalus-type	HERB	2	0.18630647	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Fletcher_a3	Brassicaceae	Brassicaceae	HERB	5	0.46576619	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Fletcher_a3	Caryophyllaceae undiff.	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	3	0.27945971	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Fletcher_a3	Poaceae Pore>8	Cerealia-type	HERB	1	0.093153237	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Fletcher_a3	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	138	12.855147	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Fletcher_a3	Cyperaceae	Cyperaceae	HERB	30	2.7945971	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Fletcher_a3	Lamiaceae (6-colpate)	Lamiaceae	HERB	1	0.093153237	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Fletcher_a3	Plantago undiff.	Plantago	HERB	4	0.37261295	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Fletcher_a3	Plantago coronopus type	Plantago coronopus-type	HERB	14	1.3041453	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Fletcher_a3	Plantago lanceolata type	Plantago lanceolata-type	HERB	7	0.65207266	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Fletcher_a3	Poaceae	Poaceae	HERB	562	52.352119	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Fletcher_a3	Rumex acetosella type	Rumex acetosa-type	HERB	2	0.18630647	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Fletcher_a3	Isoetes undiff.	Isoetes	AQPT	5	0.46576619	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Fletcher_a3	Myriophyllum alterniflorum	Myriophyllum alterniflorum	AQUA	1	0.093153237	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Fletcher_a3	Indeterminate	Indeterminable: unknown	INUN	5		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Fletcher_a3	Unknown	Indeterminable: unknown	INUN	13		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Fletcher_a3	Pteropsida (monolete) undif.	Monolete fern spores	VACR	1	0.093153237	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Fletcher_a3	Pre-Quaternary	Pre-Quaternary type	PREQ	1		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Fletcher_a3	Pteropsida (trilete) undif.	Trilete spore(s)	VACR	6	0.55891942	GroupID taken from POLNET. Only one taxon matched that acc_varname.

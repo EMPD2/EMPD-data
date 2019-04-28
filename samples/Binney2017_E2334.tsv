@@ -1,24 +1,24 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Binney2017_E2334	170	2	170	Abies sibirica	Abies sibirica	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-1	Binney2017_E2334	4	2	4	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-2	Binney2017_E2334	37	10	37	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-3	Binney2017_E2334	155	1	155	Asteraceae	Asteraceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-4	Binney2017_E2334	4727	2	149	Betula humilis	Betula nana-type	DWAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-5	Binney2017_E2334	948	215	150	Betula pubescens	Betula pubescens-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-6	Binney2017_E2334	42	1	42	Brassicaceae	Brassicaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-7	Binney2017_E2334	52	1	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-8	Binney2017_E2334	61	1	61	Cyperaceae	Cyperaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-9	Binney2017_E2334	2128	15	11	Ericales	Ericales (tetrad)	DWAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-10	Binney2017_E2334	976	1	203	Lycopodium annotinum	Lycopodium annotinum-type	VACR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-11	Binney2017_E2334	1723	1	1559	Lycopodium clavatum	Lycopodium clavatum	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-12	Binney2017_E2334	2122	1	202	Lycopodium complanatum	Lycopodium clavatum-type	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-13	Binney2017_E2334	4841	1	202	Lycopodium tristachyum	Lycopodium clavatum-type	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-14	Binney2017_E2334	18	9	18	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-15	Binney2017_E2334	1371	82	147	Pinus sibirica	Pinus cembra-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-16	Binney2017_E2334	799	257	148	Pinus sylvestris	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-17	Binney2017_E2334	159	1	159	Polygonaceae	Polygonaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-18	Binney2017_E2334	167	2	167	Polypodiaceae	Monolete fern spores	VACR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-19	Binney2017_E2334	156	1	156	Ranunculaceae	Ranunculaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-20	Binney2017_E2334	25	6	25	Salix	Salix	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-21	Binney2017_E2334	165	10	165	Sphagnum	Sphagnum	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-22	Binney2017_E2334	137	1	137	Thalictrum	Thalictrum	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Binney2017_E2334	Abies sibirica	Abies sibirica	TRSH	2	0.32626427	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Binney2017_E2334	Alnus	Alnus	TRSH	2	0.32626427	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Binney2017_E2334	Betula humilis	Betula nana-type	DWAR	2	0.32626427	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Binney2017_E2334	Betula pubescens	Betula pubescens-type	TRSH	215	35.073409	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Binney2017_E2334	Ericales	Ericales (tetrad)	DWAR	15	2.4469821	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Binney2017_E2334	Picea	Picea	TRSH	9	1.4681892	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Binney2017_E2334	Pinus sibirica	Pinus cembra-type	TRSH	82	13.376835	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Binney2017_E2334	Pinus sylvestris	Pinus sylvestris-type	TRSH	257	41.924959	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Binney2017_E2334	Salix	Salix	TRSH	6	0.97879282	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Binney2017_E2334	Artemisia	Artemisia	HERB	10	1.6313214	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Binney2017_E2334	Asteraceae	Asteraceae	HERB	1	0.16313214	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Binney2017_E2334	Brassicaceae	Brassicaceae	HERB	1	0.16313214	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Binney2017_E2334	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.16313214	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Binney2017_E2334	Cyperaceae	Cyperaceae	HERB	1	0.16313214	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Binney2017_E2334	Polygonaceae	Polygonaceae	HERB	1	0.16313214	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Binney2017_E2334	Ranunculaceae	Ranunculaceae	HERB	1	0.16313214	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Binney2017_E2334	Thalictrum	Thalictrum	HERB	1	0.16313214	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Binney2017_E2334	Lycopodium annotinum	Lycopodium annotinum-type	VACR	1	0.16313214	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Binney2017_E2334	Lycopodium clavatum	Lycopodium clavatum	VACR	1	0.16313214	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Binney2017_E2334	Lycopodium complanatum	Lycopodium clavatum-type	VACR	1	0.16313214	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Binney2017_E2334	Lycopodium tristachyum	Lycopodium clavatum-type	VACR	1	0.16313214	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Binney2017_E2334	Polypodiaceae	Monolete fern spores	VACR	2	0.32626427	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Binney2017_E2334	Sphagnum	Sphagnum	NOPO	10		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.

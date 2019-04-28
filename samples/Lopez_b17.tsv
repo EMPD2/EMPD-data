@@ -1,32 +1,32 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Lopez_b17	1011	4	21	deciduous Quercus	Quercus robur-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-1	Lopez_b17	1012	3	22	evergreen Quercus	Quercus ilex-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-2	Lopez_b17	5	2	5	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-3	Lopez_b17	4	1	4	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-4	Lopez_b17	25	1	25	Salix	Salix	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-5	Lopez_b17	9	21	9	Corylus	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-6	Lopez_b17	31	1	31	Ulmus	Ulmus/Zelkova	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-7	Lopez_b17	12	43	12	Fagus	Fagus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-8	Lopez_b17	574	1	7	Carpinus betulus	Carpinus betulus	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-9	Lopez_b17	13	2	13	Fraxinus	Fraxinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-10	Lopez_b17	1020	1	167	Filicales monolete	Monolete fern spores	VACR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-11	Lopez_b17	106	79	106	Poaceae	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-12	Lopez_b17	61	15	61	Cyperaceae	Cyperaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-13	Lopez_b17	89	1	89	Liliaceae	Liliaceae-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-14	Lopez_b17	41	2	41	Aster type	Aster-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-15	Lopez_b17	460	2	53	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-16	Lopez_b17	42	6	42	Brassicaceae	Brassicaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-17	Lopez_b17	496	13	285	Fabaceae undiff.	Fabaceae undiff.	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-18	Lopez_b17	193	6	193	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-19	Lopez_b17	1021	7	295	Filicales trilete	Trilete spore(s)	VACR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-20	Lopez_b17	200	21	200	Pteridium aquilinum	Pteridium aquilinum	VACR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-21	Lopez_b17	710	1	524	Potentilla type	Potentilla-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-22	Lopez_b17	156	3	156	Ranunculaceae	Ranunculaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-23	Lopez_b17	46	2	46	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-24	Lopez_b17	458	1	352	Cardueae	Asteraceae subf. Carduoideae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-25	Lopez_b17	36	5	36	Apiaceae	Apiaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-26	Lopez_b17	68	4	68	Euphorbia	Euphorbia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-27	Lopez_b17	1022	3	118	Prunus/Rosa/Rubus type	Rosaceae	TRSH	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
-28	Lopez_b17	1039	3	232	Asplenium type	Asplenium-type	VACR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-29	Lopez_b17	485	8	118	Rosaceae undiff.	Rosaceae	TRSH	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
-30	Lopez_b17	510	1	510	Geranium	Geranium	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Lopez_b17	Alnus	Alnus	TRSH	1	0.38022814	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Lopez_b17	Betula	Betula	TRSH	2	0.76045627	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Lopez_b17	Carpinus betulus	Carpinus betulus	TRSH	1	0.38022814	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Lopez_b17	Corylus	Corylus	TRSH	21	7.9847909	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Lopez_b17	Fagus	Fagus	TRSH	43	16.34981	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Lopez_b17	Fraxinus	Fraxinus	TRSH	2	0.76045627	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Lopez_b17	evergreen Quercus	Quercus ilex-type	TRSH	3	1.1406844	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Lopez_b17	deciduous Quercus	Quercus robur-type	TRSH	4	1.5209125	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Lopez_b17	Prunus/Rosa/Rubus type	Rosaceae	TRSH	3	1.1406844	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
+Lopez_b17	Rosaceae undiff.	Rosaceae	TRSH	8	3.0418251	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
+Lopez_b17	Salix	Salix	TRSH	1	0.38022814	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Lopez_b17	Ulmus	Ulmus/Zelkova	TRSH	1	0.38022814	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Lopez_b17	Apiaceae	Apiaceae	HERB	5	1.9011407	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Lopez_b17	Aster type	Aster-type	HERB	2	0.76045627	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Lopez_b17	Cardueae	Asteraceae subf. Carduoideae	HERB	1	0.38022814	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Lopez_b17	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	2	0.76045627	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Lopez_b17	Brassicaceae	Brassicaceae	HERB	6	2.2813688	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Lopez_b17	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	2	0.76045627	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Lopez_b17	Cyperaceae	Cyperaceae	HERB	15	5.7034221	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Lopez_b17	Euphorbia	Euphorbia	HERB	4	1.5209125	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Lopez_b17	Fabaceae undiff.	Fabaceae undiff.	HERB	13	4.9429658	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Lopez_b17	Geranium	Geranium	HERB	1	0.38022814	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Lopez_b17	Liliaceae	Liliaceae-type	HERB	1	0.38022814	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Lopez_b17	Poaceae	Poaceae	HERB	79	30.038023	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Lopez_b17	Potentilla type	Potentilla-type	HERB	1	0.38022814	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Lopez_b17	Ranunculaceae	Ranunculaceae	HERB	3	1.1406844	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Lopez_b17	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	6	2.2813688	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Lopez_b17	Asplenium type	Asplenium-type	VACR	3	1.1406844	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Lopez_b17	Filicales monolete	Monolete fern spores	VACR	1	0.38022814	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Lopez_b17	Pteridium aquilinum	Pteridium aquilinum	VACR	21	7.9847909	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Lopez_b17	Filicales trilete	Trilete spore(s)	VACR	7	2.661597	GroupID taken from POLNET. Only one taxon matched that acc_varname.
