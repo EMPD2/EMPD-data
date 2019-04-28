@@ -307,6 +307,7 @@ def test_precip(meta, okexcept, record_property):
 def test_orig_varnames(counts, record_property):
     counts = counts.copy()
     counts.original_varname.fillna('')
+    counts = counts[counts.groupid != 'NOPO']
     counts['original_varname_valid'] = names = counts.original_varname.astype(
         bool)
     counts['duplicated'] = duplicated = counts.duplicated(
