@@ -1,0 +1,15 @@
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Lapteva_b33	Alnus glutinosa-type	Alnus glutinosa-type	TRSH	8	1.7429194	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Lapteva_b33	Betula sect. Albae	Betula pubescens-type	TRSH	200	43.572985	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Lapteva_b33	Picea	Picea	TRSH	1	0.21786492	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Lapteva_b33	Pinus sylvestris=Pinus s/g Diploxylon	Pinus sylvestris-type	TRSH	200	43.572985	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Lapteva_b33	Rosaceae	Rosaceae	TRSH	5	1.0893246	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
+Lapteva_b33	Salix	Salix	TRSH	1	0.21786492	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Lapteva_b33	Artemisia	Artemisia	HERB	12	2.6143791	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Lapteva_b33	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	7	1.5250545	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Lapteva_b33	Poaceae	Poaceae	HERB	14	3.0501089	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Lapteva_b33	Ranunculaceae	Ranunculaceae	HERB	2	0.43572985	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Lapteva_b33	Rubiaceae	Rubiaceae	HERB	2	0.43572985	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
+Lapteva_b33	Bryales	Bryophyte spores	BRYO	3	0.65359477	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Lapteva_b33	Polypodiophyta	Monolete fern spores	VACR	4	0.87145969	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Lapteva_b33	Sphagnum	Sphagnum	NOPO	2		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
