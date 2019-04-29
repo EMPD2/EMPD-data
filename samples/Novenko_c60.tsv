@@ -1,15 +1,15 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Novenko_c60	2266	43	150	Betula alba	Betula pubescens-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-1	Novenko_c60	149	22	149	Betula sect. Nanae	Betula nana-type	DWAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-2	Novenko_c60	85	1	85	Juniperus	Juniperus communis-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-3	Novenko_c60	799	5	148	Pinus sylvestris	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-4	Novenko_c60	25	7	25	Salix	Salix	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-5	Novenko_c60	155	12	155	Asteraceae	Asteraceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-6	Novenko_c60	61	16	61	Cyperaceae	Cyperaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-7	Novenko_c60	11	40	11	Ericaceae	Ericales (tetrad)	DWAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-8	Novenko_c60	106	11	106	Poaceae	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-9	Novenko_c60	156	14	156	Ranunculaceae	Ranunculaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-10	Novenko_c60	118	5	118	Rosaceae	Rosaceae	TRSH	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
-11	Novenko_c60	2120	2	192	Rubus chamaemorus	Rubus chamaemorus	HERB	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
-12	Novenko_c60	976	18	203	Lycopodium annotinum	Lycopodium annotinum-type	VACR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-13	Novenko_c60	167	34	167	Polypodiaceae	Monolete fern spores	VACR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Novenko_c60	Betula sect. Nanae	Betula nana-type	DWAR	22	9.5652174	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Novenko_c60	Betula alba	Betula pubescens-type	TRSH	43	18.695652	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Novenko_c60	Ericaceae	Ericales (tetrad)	DWAR	40	17.391304	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Novenko_c60	Juniperus	Juniperus communis-type	TRSH	1	0.43478261	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Novenko_c60	Pinus sylvestris	Pinus sylvestris-type	TRSH	5	2.173913	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Novenko_c60	Rosaceae	Rosaceae	TRSH	5	2.173913	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
+Novenko_c60	Salix	Salix	TRSH	7	3.0434783	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Novenko_c60	Asteraceae	Asteraceae	HERB	12	5.2173913	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Novenko_c60	Cyperaceae	Cyperaceae	HERB	16	6.9565217	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Novenko_c60	Poaceae	Poaceae	HERB	11	4.7826087	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Novenko_c60	Ranunculaceae	Ranunculaceae	HERB	14	6.0869565	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Novenko_c60	Rubus chamaemorus	Rubus chamaemorus	HERB	2	0.86956522	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
+Novenko_c60	Lycopodium annotinum	Lycopodium annotinum-type	VACR	18	7.826087	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Novenko_c60	Polypodiaceae	Monolete fern spores	VACR	34	14.782609	GroupID taken from POLNET. Only one taxon matched that acc_varname.

@@ -1,14 +1,14 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Novenko_c263	1	1	1	Abies	Abies	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-1	Novenko_c263	4	7	4	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-2	Novenko_c263	2266	50	150	Betula alba	Betula pubescens-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-3	Novenko_c263	18	45	18	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-4	Novenko_c263	799	485	148	Pinus sylvestris	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-5	Novenko_c263	1371	1	147	Pinus sibirica	Pinus cembra-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-6	Novenko_c263	36	2	36	Apiaceae	Apiaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-7	Novenko_c263	37	4	37	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-8	Novenko_c263	52	1	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-9	Novenko_c263	11	7	11	Ericaceae	Ericales (tetrad)	DWAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-10	Novenko_c263	156	1	156	Ranunculaceae	Ranunculaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-11	Novenko_c263	137	1	137	Thalictrum	Thalictrum	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-12	Novenko_c263	1723	3	1559	Lycopodium clavatum	Lycopodium clavatum	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Novenko_c263	Abies	Abies	TRSH	1	0.16447368	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Novenko_c263	Alnus	Alnus	TRSH	7	1.1513158	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Novenko_c263	Betula alba	Betula pubescens-type	TRSH	50	8.2236842	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Novenko_c263	Ericaceae	Ericales (tetrad)	DWAR	7	1.1513158	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Novenko_c263	Picea	Picea	TRSH	45	7.4013158	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Novenko_c263	Pinus sibirica	Pinus cembra-type	TRSH	1	0.16447368	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Novenko_c263	Pinus sylvestris	Pinus sylvestris-type	TRSH	485	79.769737	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Novenko_c263	Apiaceae	Apiaceae	HERB	2	0.32894737	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Novenko_c263	Artemisia	Artemisia	HERB	4	0.65789474	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Novenko_c263	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.16447368	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Novenko_c263	Ranunculaceae	Ranunculaceae	HERB	1	0.16447368	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Novenko_c263	Thalictrum	Thalictrum	HERB	1	0.16447368	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Novenko_c263	Lycopodium clavatum	Lycopodium clavatum	VACR	3	0.49342105	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.

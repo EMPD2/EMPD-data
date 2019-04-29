@@ -1,15 +1,15 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Novenko_c219	4	3	4	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-1	Novenko_c219	2266	243	150	Betula alba	Betula pubescens-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-2	Novenko_c219	18	59	18	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-3	Novenko_c219	799	82	148	Pinus sylvestris	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-4	Novenko_c219	208	1	208	Quercus	Quercus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-5	Novenko_c219	25	2	25	Salix	Salix	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-6	Novenko_c219	29	1	29	Tilia	Tilia	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-7	Novenko_c219	155	1	155	Asteraceae	Asteraceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-8	Novenko_c219	46	1	46	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-9	Novenko_c219	52	1	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-10	Novenko_c219	106	5	106	Poaceae	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-11	Novenko_c219	976	2	203	Lycopodium annotinum	Lycopodium annotinum-type	VACR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-12	Novenko_c219	1723	1	1559	Lycopodium clavatum	Lycopodium clavatum	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-13	Novenko_c219	167	6	167	Polypodiaceae	Monolete fern spores	VACR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Novenko_c219	Alnus	Alnus	TRSH	3	0.73529412	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Novenko_c219	Betula alba	Betula pubescens-type	TRSH	243	59.558824	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Novenko_c219	Picea	Picea	TRSH	59	14.460784	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Novenko_c219	Pinus sylvestris	Pinus sylvestris-type	TRSH	82	20.098039	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Novenko_c219	Quercus	Quercus	TRSH	1	0.24509804	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Novenko_c219	Salix	Salix	TRSH	2	0.49019608	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Novenko_c219	Tilia	Tilia	TRSH	1	0.24509804	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Novenko_c219	Asteraceae	Asteraceae	HERB	1	0.24509804	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Novenko_c219	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	1	0.24509804	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Novenko_c219	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.24509804	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Novenko_c219	Poaceae	Poaceae	HERB	5	1.2254902	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Novenko_c219	Lycopodium annotinum	Lycopodium annotinum-type	VACR	2	0.49019608	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Novenko_c219	Lycopodium clavatum	Lycopodium clavatum	VACR	1	0.24509804	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Novenko_c219	Polypodiaceae	Monolete fern spores	VACR	6	1.4705882	GroupID taken from POLNET. Only one taxon matched that acc_varname.

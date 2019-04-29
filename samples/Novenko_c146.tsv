@@ -1,10 +1,10 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Novenko_c146	1	30	1	Abies	Abies	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-1	Novenko_c146	2266	56	150	Betula alba	Betula pubescens-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-2	Novenko_c146	18	20	18	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-3	Novenko_c146	799	94	148	Pinus sylvestris	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-4	Novenko_c146	46	2	46	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-5	Novenko_c146	52	1	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-6	Novenko_c146	61	3	61	Cyperaceae	Cyperaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-7	Novenko_c146	167	10	167	Polypodiaceae	Monolete fern spores	VACR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-8	Novenko_c146	165	6	165	Sphagnum	Sphagnum	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Novenko_c146	Abies	Abies	TRSH	30	13.888889	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Novenko_c146	Betula alba	Betula pubescens-type	TRSH	56	25.925926	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Novenko_c146	Picea	Picea	TRSH	20	9.2592593	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Novenko_c146	Pinus sylvestris	Pinus sylvestris-type	TRSH	94	43.518519	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Novenko_c146	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	2	0.92592593	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Novenko_c146	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.46296296	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Novenko_c146	Cyperaceae	Cyperaceae	HERB	3	1.3888889	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Novenko_c146	Polypodiaceae	Monolete fern spores	VACR	10	4.6296296	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Novenko_c146	Sphagnum	Sphagnum	NOPO	6		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
