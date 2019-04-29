@@ -1,11 +1,11 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Novenko_c191	4	6	4	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-1	Novenko_c191	2266	92	150	Betula alba	Betula pubescens-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-2	Novenko_c191	18	9	18	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-3	Novenko_c191	799	142	148	Pinus sylvestris	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-4	Novenko_c191	25	1	25	Salix	Salix	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-5	Novenko_c191	2267	1	53	Cichoreaceae	Asteraceae subf. Cichorioideae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-6	Novenko_c191	106	1	106	Poaceae	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-7	Novenko_c191	159	7	159	Polygonaceae	Polygonaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-8	Novenko_c191	137	2	137	Thalictrum	Thalictrum	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-9	Novenko_c191	165	2	165	Sphagnum	Sphagnum	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Novenko_c191	Alnus	Alnus	TRSH	6	2.2988506	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Novenko_c191	Betula alba	Betula pubescens-type	TRSH	92	35.249042	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Novenko_c191	Picea	Picea	TRSH	9	3.4482759	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Novenko_c191	Pinus sylvestris	Pinus sylvestris-type	TRSH	142	54.40613	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Novenko_c191	Salix	Salix	TRSH	1	0.38314176	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Novenko_c191	Cichoreaceae	Asteraceae subf. Cichorioideae	HERB	1	0.38314176	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Novenko_c191	Poaceae	Poaceae	HERB	1	0.38314176	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Novenko_c191	Polygonaceae	Polygonaceae	HERB	7	2.6819923	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Novenko_c191	Thalictrum	Thalictrum	HERB	2	0.76628352	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Novenko_c191	Sphagnum	Sphagnum	NOPO	2		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.

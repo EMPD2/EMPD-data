@@ -1,10 +1,10 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Novenko_c217	4	5	4	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-1	Novenko_c217	2266	88	150	Betula alba	Betula pubescens-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-2	Novenko_c217	18	185	18	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-3	Novenko_c217	799	224	148	Pinus sylvestris	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-4	Novenko_c217	2267	1	53	Cichoreaceae	Asteraceae subf. Cichorioideae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-5	Novenko_c217	158	2	158	Onagraceae	Onagraceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-6	Novenko_c217	106	2	106	Poaceae	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-7	Novenko_c217	976	4	203	Lycopodium annotinum	Lycopodium annotinum-type	VACR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-8	Novenko_c217	167	5	167	Polypodiaceae	Monolete fern spores	VACR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Novenko_c217	Alnus	Alnus	TRSH	5	0.96899225	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Novenko_c217	Betula alba	Betula pubescens-type	TRSH	88	17.054264	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Novenko_c217	Picea	Picea	TRSH	185	35.852713	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Novenko_c217	Pinus sylvestris	Pinus sylvestris-type	TRSH	224	43.410853	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Novenko_c217	Cichoreaceae	Asteraceae subf. Cichorioideae	HERB	1	0.19379845	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Novenko_c217	Onagraceae	Onagraceae	HERB	2	0.3875969	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Novenko_c217	Poaceae	Poaceae	HERB	2	0.3875969	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Novenko_c217	Lycopodium annotinum	Lycopodium annotinum-type	VACR	4	0.7751938	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Novenko_c217	Polypodiaceae	Monolete fern spores	VACR	5	0.96899225	GroupID taken from POLNET. Only one taxon matched that acc_varname.

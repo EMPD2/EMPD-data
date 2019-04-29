@@ -1,20 +1,20 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Novenko_c26	4	11	4	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-1	Novenko_c26	2266	220	150	Betula alba	Betula pubescens-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-2	Novenko_c26	9	1	9	Corylus	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-3	Novenko_c26	18	12	18	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-4	Novenko_c26	799	253	148	Pinus sylvestris	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-5	Novenko_c26	208	2	208	Quercus	Quercus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-6	Novenko_c26	29	1	29	Tilia	Tilia	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-7	Novenko_c26	31	1	31	Ulmus	Ulmus/Zelkova	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-8	Novenko_c26	37	10	37	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-9	Novenko_c26	155	5	155	Asteraceae	Asteraceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-10	Novenko_c26	46	1	46	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-11	Novenko_c26	52	2	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-12	Novenko_c26	61	4	61	Cyperaceae	Cyperaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-13	Novenko_c26	11	1	11	Ericaceae	Ericales (tetrad)	DWAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-14	Novenko_c26	735	1	286	Plantago	Plantago	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-15	Novenko_c26	106	5	106	Poaceae	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-16	Novenko_c26	156	1	156	Ranunculaceae	Ranunculaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-17	Novenko_c26	118	1	118	Rosaceae	Rosaceae	TRSH	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
-18	Novenko_c26	167	3	167	Polypodiaceae	Monolete fern spores	VACR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Novenko_c26	Alnus	Alnus	TRSH	11	2.0560748	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Novenko_c26	Betula alba	Betula pubescens-type	TRSH	220	41.121495	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Novenko_c26	Corylus	Corylus	TRSH	1	0.18691589	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Novenko_c26	Ericaceae	Ericales (tetrad)	DWAR	1	0.18691589	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Novenko_c26	Picea	Picea	TRSH	12	2.2429907	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Novenko_c26	Pinus sylvestris	Pinus sylvestris-type	TRSH	253	47.28972	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Novenko_c26	Quercus	Quercus	TRSH	2	0.37383178	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Novenko_c26	Rosaceae	Rosaceae	TRSH	1	0.18691589	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
+Novenko_c26	Tilia	Tilia	TRSH	1	0.18691589	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Novenko_c26	Ulmus	Ulmus/Zelkova	TRSH	1	0.18691589	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Novenko_c26	Artemisia	Artemisia	HERB	10	1.8691589	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Novenko_c26	Asteraceae	Asteraceae	HERB	5	0.93457944	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Novenko_c26	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	1	0.18691589	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Novenko_c26	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	2	0.37383178	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Novenko_c26	Cyperaceae	Cyperaceae	HERB	4	0.74766355	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Novenko_c26	Plantago	Plantago	HERB	1	0.18691589	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Novenko_c26	Poaceae	Poaceae	HERB	5	0.93457944	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Novenko_c26	Ranunculaceae	Ranunculaceae	HERB	1	0.18691589	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Novenko_c26	Polypodiaceae	Monolete fern spores	VACR	3	0.56074766	GroupID taken from POLNET. Only one taxon matched that acc_varname.
