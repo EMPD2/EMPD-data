@@ -4,8 +4,9 @@ services:
 if: branch = master
 
 before_install:
-    - git remote set-branches --add origin master && git fetch
-    - export METAFILE=`git diff origin/master --name-only --diff-filter=A  $(find . -maxdepth 1 -not -type d)`
+    - git remote add upstream https://github.com/EMPD-data
+    - git fetch upstream
+    - export METAFILE=`git diff upstream/master --name-only --diff-filter=A  $(find . -maxdepth 1 -not -type d)`
     - if [[ $METAFILE == '' ]]; then export METAFILE=meta.tsv; fi
     - echo $METAFILE
 
