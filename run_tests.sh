@@ -1,7 +1,13 @@
 #!/bin/bash
+set -ex
+
 cd /opt/empd-data
 
-$PYTEST -v
+# activate conda
+. "/opt/conda/etc/profile.d/conda.sh"
+conda activate empd-admin
+
+pytest -v
 
 start_pg_server
 createdb -U postgres EMPD2
