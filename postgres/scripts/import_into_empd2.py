@@ -88,7 +88,7 @@ err = 0
 list_of_errors = []
 
 
-METADATA = read_empd_meta(meta, sep='\t')
+METADATA = read_empd_meta(meta)
 orig_METADATA = METADATA.copy(True)
 base_cols = pd.read_csv(base_meta, nrows=1, sep='\t').columns
 
