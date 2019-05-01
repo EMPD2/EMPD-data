@@ -2,8 +2,10 @@ FROM empd2/empd-admin-base
 
 ENV EMPDDATA /opt/empd-data
 
-ADD ./ /opt/empd-data
-RUN chmod 0755 /opt/empd-data/run_tests.sh
+COPY ./ /opt/empd-data
+
+COPY docker_tests.sh /usr/local/bin/test-empd-data
+RUN chmod 0755 /usr/local/bin/test-empd-data
 
 USER postgres
 
