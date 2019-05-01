@@ -1,4 +1,6 @@
-FROM chilipp/empd-admin-base
+FROM empd2/empd-admin-base
+
+ENV EMPDDATA /opt/empd-data
 
 ADD ./ /opt/empd-data
 
