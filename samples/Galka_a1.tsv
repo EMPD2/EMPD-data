@@ -1,14 +1,14 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Galka_a1	4	9	4	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-1	Galka_a1	5	20	5	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-2	Galka_a1	7	9	7	Carpinus	Carpinus betulus	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-3	Galka_a1	1075	2	50	Cerealia-type	Cerealia-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-4	Galka_a1	52	2	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-5	Galka_a1	9	4	9	Corylus	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-6	Galka_a1	61	1	61	Cyperaceae	Cyperaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-7	Galka_a1	13	1	13	Fraxinus	Fraxinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-8	Galka_a1	18	12	18	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-9	Galka_a1	19	430	19	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-10	Galka_a1	106	1	106	Poaceae	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-11	Galka_a1	208	5	208	Quercus	Quercus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-12	Galka_a1	31	1	31	Ulmus	Ulmus/Zelkova	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Galka_a1	Alnus	Alnus	TRSH	9	1.8108652	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Galka_a1	Betula	Betula	TRSH	20	4.0241449	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Galka_a1	Carpinus	Carpinus betulus	TRSH	9	1.8108652	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Galka_a1	Corylus	Corylus	TRSH	4	0.80482897	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Galka_a1	Fraxinus	Fraxinus	TRSH	1	0.20120724	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Galka_a1	Picea	Picea	TRSH	12	2.4144869	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Galka_a1	Pinus	Pinus	TRSH	430	86.519115	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Galka_a1	Quercus	Quercus	TRSH	5	1.0060362	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Galka_a1	Ulmus	Ulmus/Zelkova	TRSH	1	0.20120724	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Galka_a1	Cerealia-type	Cerealia-type	HERB	2	0.40241449	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Galka_a1	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	2	0.40241449	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Galka_a1	Cyperaceae	Cyperaceae	HERB	1	0.20120724	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Galka_a1	Poaceae	Poaceae	HERB	1	0.20120724	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.

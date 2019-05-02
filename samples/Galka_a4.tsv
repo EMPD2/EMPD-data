@@ -1,10 +1,10 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Galka_a4	4	10	4	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-1	Galka_a4	5	4	5	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-2	Galka_a4	42	1	42	Brassicaceae	Brassicaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-3	Galka_a4	61	3	61	Cyperaceae	Cyperaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-4	Galka_a4	166	1	166	Equisetum	Equisetum	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-5	Galka_a4	18	1	18	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-6	Galka_a4	19	218	19	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-7	Galka_a4	106	1	106	Poaceae	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-8	Galka_a4	29	1	29	Tilia	Tilia	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Galka_a4	Alnus	Alnus	TRSH	10	4.1666667	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Galka_a4	Betula	Betula	TRSH	4	1.6666667	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Galka_a4	Picea	Picea	TRSH	1	0.41666667	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Galka_a4	Pinus	Pinus	TRSH	218	90.833333	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Galka_a4	Tilia	Tilia	TRSH	1	0.41666667	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Galka_a4	Brassicaceae	Brassicaceae	HERB	1	0.41666667	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Galka_a4	Cyperaceae	Cyperaceae	HERB	3	1.25	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Galka_a4	Poaceae	Poaceae	HERB	1	0.41666667	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Galka_a4	Equisetum	Equisetum	VACR	1	0.41666667	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
