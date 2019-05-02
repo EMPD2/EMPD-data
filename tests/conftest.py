@@ -25,16 +25,26 @@ _commit_fixes = False
 
 def _meta(fname=None):
     import pandas as pd
+    import numpy as np
     fname = fname or _meta_file
-    ret = pd.read_csv(str(fname), sep='\t', index_col='SampleName')
+
+    ret = pd.read_csv(str(fname), sep='\t', index_col='SampleName',
+                      dtype=str)
+
+    for col in ['Latitude', 'Longitude', 'Elevation', 'AreaOfSite', 'AgeBP']:
+        if col in ret.columns:
+            ret[col] = ret[col].replace('', np.nan).astype(float)
+    if 'ispercent' in ret.columns:
+        ret['ispercent'] = ret['ispercent'].replace('', False).astype(bool)
+
     if 'okexcept' not in ret.columns:
         ret['okexcept'] = ''
+
     return ret
 
 
 def _data_files():
-    import pandas as pd
-    df = pd.read_csv(str(_meta_file), sep='\t', index_col='SampleName')
+    df = _meta()
     base = osp.join(osp.dirname(_meta_file), 'samples')
     return [osp.join(base, sample + '.tsv') for sample in df.index.values]
 
@@ -304,7 +314,8 @@ def pytest_sessionfinish(session):
         if d and not any(report.skipped for report in reports):
             md += '<details><summary>%s..<b>%s</b></summary>\n' % (
                 report.nodeid, report.outcome.upper())
-            if len(d) == 1 and not 'failed_samples' in user_props:
+            if len(d) == 1 and (not 'failed_samples' in user_props and
+                                not 'failed_data' in user_props):
                 message, val = next(iter(d.items()))
                 if message == 'error':
                     val = '\n\n```\n%s\n```' % val
