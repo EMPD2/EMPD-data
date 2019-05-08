@@ -58,8 +58,8 @@ or, if you want to use a specific version, e.g. ``v1.0``, use::
   curl -fsSL https://raw.githubusercontent.com/EMPD2/EMPD-data/v1.0/postgres/EMPD2.sql | psql EMPD2
   
 
-Tab-delimited database: tab-delimited_
-**************************************
+Tab-delimited_ database
+***********************
 A tab-delimited version of the postgres dump is also available in the tab-delimited_ folder.
 
 
@@ -69,14 +69,14 @@ A tab-delimited version of the postgres dump is also available in the tab-delimi
 .. _meta.tsv: meta.tsv
 .. _samples: samples
 .. _EMPD2.sql: postgres/EMPD2.sql
-.. _tab-delimited: tab-delimited
+.. _Tab-delimited: tab-delimited
 
 __ EMPD2.sql_
 
 .. _column-names:
 
 Column names in meta.tsv_
-*************************
+-------------------------
 
 SampleName
     Unique identifier of the sample in the EMPD.
