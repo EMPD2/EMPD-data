@@ -24,11 +24,14 @@ Contributing to the EMPD
 If you want to contribute to the EMPD – That's great!! Please refer to our `contributing guide <CONTRIBUTING.md>`_ for more information.
 
 
-Data structure of this repository
----------------------------------
-The latest version of this data can be downloaded and accessed through the interactive viewer at EMPD2.github.io_ (see `EMPD2.github.io/data`_ for more information on this). The data is then the same as in the raw_ format.
+Accessing the data
+------------------
+The latest version of this data can be downloaded and accessed through the interactive viewer at EMPD2.github.io_ (see `EMPD2.github.io/data`_ for more information on this). The data is then the same as in the raw format mentioned below.
 
-.. _raw:
+Otherwise you can access the EMPD data through this repository.
+
+.. contents:: We provide the following formats
+    :local:
 
 Raw tab-delimited format: meta.tsv_
 ***********************************
@@ -37,8 +40,7 @@ Raw tab-delimited format: meta.tsv_
   file per row in `meta.tsv`_. The filename is determined by the corresponding
   *SampleName* in the meta data.
   
-.. _postgres:
-
+  
 Postgres dump: EMPD2.sql_
 *************************
 We provide a relational postgres dump for the EMPD2 in the `postgres/EMPD2.sql`__ file. If you are familiar with Postgres and have a postgres server running on your machine, you can import this data via::
@@ -55,11 +57,10 @@ or, if you want to use a specific version, e.g. ``v1.0``, use::
 
   curl -fsSL https://raw.githubusercontent.com/EMPD2/EMPD-data/v1.0/postgres/EMPD2.sql | psql EMPD2
   
-.. _tab:
 
 Tab-delimited database: tab-delimited_
 **************************************
-A tab-delimited version of the postgres_ dump is also available in the tab-delimited_ folder.
+A tab-delimited version of the postgres dump is also available in the tab-delimited_ folder.
 
 
 .. _Releases tab: https://github.com/EMPD2/EMPD-data/releases/latest
