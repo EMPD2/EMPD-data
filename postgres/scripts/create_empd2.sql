@@ -81,7 +81,8 @@ ALTER TABLE ONLY workers ADD CONSTRAINT workers_pkey PRIMARY KEY (workerID);
 CREATE TABLE p_counts (
     sampleName character varying(25) NOT NULL, -- PK, FK
     var_ integer NOT NULL, ---------------------- PK, FK
-    count double precision NOT NULL
+    count double precision NOT NULL,
+    percentage double precision DEFAULT NULL
 );
 ALTER TABLE p_counts OWNER TO postgres;
 ALTER TABLE ONLY p_counts ADD CONSTRAINT p_counts_pkey PRIMARY KEY (sampleName, var_);
@@ -209,8 +210,8 @@ CREATE TABLE groupID (
     groupid character varying(9) NOT NULL, ------ PK
     groupname character varying(60) NOT NULL,
     higher_groupid character varying(4) NOT NULL,
-    included_in_percent_sum boolean DEFAULT FALSE,
-    make_percent boolean DEFAULT FALSE
+    used_in_sum boolean DEFAULT FALSE,
+    percent_values boolean DEFAULT FALSE
 );
 ALTER TABLE groupID OWNER TO postgres;
 ALTER TABLE ONLY groupID ADD CONSTRAINT groupID_pkey PRIMARY KEY (groupid);
