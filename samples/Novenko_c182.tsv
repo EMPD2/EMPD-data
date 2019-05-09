@@ -1,14 +1,14 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Novenko_c182	2266	107	150	Betula alba	Betula pubescens-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-1	Novenko_c182	149	12	149	Betula sect. Nanae	Betula nana-type	DWAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-2	Novenko_c182	18	12	18	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-3	Novenko_c182	799	66	148	Pinus sylvestris	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-4	Novenko_c182	1371	2	147	Pinus sibirica	Pinus cembra-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-5	Novenko_c182	25	1	25	Salix	Salix	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-6	Novenko_c182	37	3	37	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-7	Novenko_c182	52	2	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-8	Novenko_c182	61	18	61	Cyperaceae	Cyperaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-9	Novenko_c182	106	1	106	Poaceae	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-10	Novenko_c182	167	1	167	Polypodiaceae	Monolete fern spores	VACR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-11	Novenko_c182	165	1	165	Sphagnum	Sphagnum	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-12	Novenko_c182	168	5	168	Bryales	Bryophyte spores	BRYO	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Novenko_c182	Betula sect. Nanae	Betula nana-type	DWAR	12	5.2173913	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Novenko_c182	Betula alba	Betula pubescens-type	TRSH	107	46.521739	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Novenko_c182	Picea	Picea	TRSH	12	5.2173913	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Novenko_c182	Pinus sibirica	Pinus cembra-type	TRSH	2	0.86956522	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Novenko_c182	Pinus sylvestris	Pinus sylvestris-type	TRSH	66	28.695652	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Novenko_c182	Salix	Salix	TRSH	1	0.43478261	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Novenko_c182	Artemisia	Artemisia	HERB	3	1.3043478	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Novenko_c182	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	2	0.86956522	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Novenko_c182	Cyperaceae	Cyperaceae	HERB	18	7.826087	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Novenko_c182	Poaceae	Poaceae	HERB	1	0.43478261	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Novenko_c182	Bryales	Bryophyte spores	BRYO	5	2.173913	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Novenko_c182	Polypodiaceae	Monolete fern spores	VACR	1	0.43478261	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Novenko_c182	Sphagnum	Sphagnum	NOPO	1		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.

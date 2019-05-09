@@ -8,6 +8,25 @@ import argparse
 from itertools import product
 from collections import defaultdict
 
+
+def read_empd_meta(fname):
+    fname = fname
+
+    ret = pd.read_csv(str(fname), sep='\t', index_col='SampleName',
+                      dtype=str)
+
+    for col in ['Latitude', 'Longitude', 'Elevation', 'AreaOfSite', 'AgeBP']:
+        if col in ret.columns:
+            ret[col] = ret[col].replace('', np.nan).astype(float)
+    if 'ispercent' in ret.columns:
+        ret['ispercent'] = ret['ispercent'].replace('', False).astype(bool)
+
+    if 'okexcept' not in ret.columns:
+        ret['okexcept'] = ''
+
+    return ret
+
+
 parser = argparse.ArgumentParser()
 parser.add_argument(
     'meta', help="The path to the meta file. Default: %(default)s", nargs='?',
@@ -69,7 +88,7 @@ err = 0
 list_of_errors = []
 
 
-METADATA = pd.read_csv(meta, sep='\t')
+METADATA = read_empd_meta(meta).reset_index()
 orig_METADATA = METADATA.copy(True)
 base_cols = pd.read_csv(base_meta, nrows=1, sep='\t').columns
 

@@ -1,25 +1,25 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-0	Novenko_c151	1457	190	151	Alnaster	Alnus viridis	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-1	Novenko_c151	2266	35	150	Betula alba	Betula pubescens-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-2	Novenko_c151	149	100	149	Betula sect. Nanae	Betula nana-type	DWAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-3	Novenko_c151	18	4	18	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-4	Novenko_c151	799	39	148	Pinus sylvestris	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-5	Novenko_c151	1371	20	147	Pinus sibirica	Pinus cembra-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-6	Novenko_c151	25	8	25	Salix	Salix	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-7	Novenko_c151	31	1	31	Ulmus	Ulmus/Zelkova	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-8	Novenko_c151	37	7	37	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-9	Novenko_c151	52	2	52	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-10	Novenko_c151	61	144	61	Cyperaceae	Cyperaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-11	Novenko_c151	11	1	11	Ericaceae	Ericales (tetrad)	DWAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-12	Novenko_c151	69	4	69	Fabaceae	Fabaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-13	Novenko_c151	106	18	106	Poaceae	Poaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-14	Novenko_c151	159	2	159	Polygonaceae	Polygonaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-15	Novenko_c151	156	4	156	Ranunculaceae	Ranunculaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-16	Novenko_c151	118	2	118	Rosaceae	Rosaceae	TRSH	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
-17	Novenko_c151	505	2	505	Valeriana	Valeriana	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-18	Novenko_c151	2273	36	166	Equesetum	Equisetum	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-19	Novenko_c151	975	1	204	Huperzia selago	Huperzia selago	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-20	Novenko_c151	976	3	203	Lycopodium annotinum	Lycopodium annotinum-type	VACR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-21	Novenko_c151	2274	1	202	Lycopodium alpinum	Lycopodium clavatum-type	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-22	Novenko_c151	167	1	167	Polypodiaceae	Monolete fern spores	VACR	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-23	Novenko_c151	165	22	165	Sphagnum	Sphagnum	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+samplename	original_varname	acc_varname	groupid	count	percentage	notes
+Novenko_c151	Alnaster	Alnus viridis	TRSH	190	30.4	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Novenko_c151	Betula sect. Nanae	Betula nana-type	DWAR	100	16	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Novenko_c151	Betula alba	Betula pubescens-type	TRSH	35	5.6	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Novenko_c151	Ericaceae	Ericales (tetrad)	DWAR	1	0.16	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Novenko_c151	Picea	Picea	TRSH	4	0.64	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Novenko_c151	Pinus sibirica	Pinus cembra-type	TRSH	20	3.2	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Novenko_c151	Pinus sylvestris	Pinus sylvestris-type	TRSH	39	6.24	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Novenko_c151	Rosaceae	Rosaceae	TRSH	2	0.32	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
+Novenko_c151	Salix	Salix	TRSH	8	1.28	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Novenko_c151	Ulmus	Ulmus/Zelkova	TRSH	1	0.16	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Novenko_c151	Artemisia	Artemisia	HERB	7	1.12	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Novenko_c151	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	2	0.32	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Novenko_c151	Cyperaceae	Cyperaceae	HERB	144	23.04	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Novenko_c151	Fabaceae	Fabaceae	HERB	4	0.64	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Novenko_c151	Poaceae	Poaceae	HERB	18	2.88	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Novenko_c151	Polygonaceae	Polygonaceae	HERB	2	0.32	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Novenko_c151	Ranunculaceae	Ranunculaceae	HERB	4	0.64	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Novenko_c151	Valeriana	Valeriana	HERB	2	0.32	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Novenko_c151	Equesetum	Equisetum	VACR	36	5.76	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Novenko_c151	Huperzia selago	Huperzia selago	VACR	1	0.16	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Novenko_c151	Lycopodium annotinum	Lycopodium annotinum-type	VACR	3	0.48	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Novenko_c151	Lycopodium alpinum	Lycopodium clavatum-type	VACR	1	0.16	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Novenko_c151	Polypodiaceae	Monolete fern spores	VACR	1	0.16	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Novenko_c151	Sphagnum	Sphagnum	NOPO	22		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.

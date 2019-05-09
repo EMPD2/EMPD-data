@@ -80,6 +80,9 @@ def fix_newline_chars(full_meta, meta, meta_file, commit_fixes,
 @pytest.mark.dbfix
 def fix_sample_data_formatting(data_files, groupids_table, commit_fixes,
                                local_repo, skip_ci):
+
+    ordered_groups = group_order + groupids_table.groupid.tolist() + \
+        groupids_table.higher_groupid.tolist()
     for fname in data_files:
         counts = pd.read_csv(fname, '\t')
         counts['samplename'] = osp.splitext(osp.basename(fname))[0]
@@ -92,8 +95,6 @@ def fix_sample_data_formatting(data_files, groupids_table, commit_fixes,
         mask = counts.make_percent.values
         counts.loc[mask, 'percentage'] = (
             100. * counts.loc[mask, 'count'] / summed)
-
-        ordered_groups = group_order + groupids_table.groupid.tolist()
 
         # order the samples
         counts['order'] = counts.higher_groupid.apply(ordered_groups.index)
