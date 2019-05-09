@@ -1,11 +1,11 @@
-groupid	groupname	higher_groupid	included_in_percent_sum	make_percent
+groupid	groupname	higher_groupid	used_in_sum	percent_values
+ACRI	Acritarchs	NOPO	False	False
 ALGA	Algae	AQUA	False	True
-AQBR	Aquatic Bryophytes	NOPO	False	True
+AQBR	Aquatic Bryophytes	AQUA	False	True
 AQPT	Aquatic Pteridophyta	AQUA	False	True
 AQUA	Aquatics	AQUA	False	True
 AQVP	Aquatic Vascular Plants	AQUA	False	True
-BRYO	Bryophytes	NOPO	True	True
-BRYO/VACR	TO BE REMOVED	TBR	False	False
+BRYO	Bryophytes	VACR	True	True
 CHAR	Charcoal	CHAR	False	False
 CHLO	Chlorophytes	NOPO	False	False
 CYAN	Cyanobacteria	NOPO	False	False
@@ -13,11 +13,14 @@ DINO	Dinoflagellates	NOPO	False	False
 DWAR	Dwarf shrubs	TRSH	True	True
 FUNG	Fungi	NOPO	False	False
 HELO	Helophytes	AQUA	False	True
+HEMI	Hemi-parasitic	NOPO	False	False
 HERB	Herbs	HERB	True	True
 INUN	Indeterminables and unknowns	INUN	False	False
 INVE	Invertebrates	NOPO	False	False
-LIAN	Liana	TRSH	True	True
+LIAN	Liana	LIAN	True	True
 MACR	Macrofossils	NOPO	False	False
+MICR	Microcrustaceans	NOPO	False	False
+NEMA	Nematoda (roundworms)	NOPO	False	False
 NOPO	Nonpollen	NOPO	False	False
 PLAT	Platyhelminthes (flatworms)	NOPO	False	False
 PREQ	Pre-Quaternary type	NOPO	False	False
@@ -25,15 +28,10 @@ RHIZ	Rhizopods	NOPO	False	False
 ROTI	Rotifera (Rotifers)	NOPO	False	False
 SPOR	Taxonomically undifferentiated spores	INUN	False	False
 TEAM	Testate amoebae	NOPO	False	False
-TRSH	Trees and shrubs	TRSH	True	True
+TRSH	Trees & Shrubs	TRSH	True	True
 UNPP	Undifferentiated NPP	INUN	False	False
-UPBR	Upland Bryophytes	NOPO	True	True
+UPBR	Upland Bryophytes	VACR	True	True
 UPHE	Upland herbs	HERB	True	True
-VACR	Vascular cryptogams (Pteridophytes)	NOPO	True	True
+VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True
 VEMI	Vegetative microfossils	NOPO	False	False
-NEMA	Nematoda (roundworms)	NOPO	False	False
-ACRI	Acritarchs	NOPO	False	False
-EUMY	Eumycete	NOPO	False	False
-HEMI	Hemi-parasitic	NOPO	False	False
-MOSS	Moss	NOPO	False	False
-MICR	Microcrustaceans	NOPO	False	False
+MOSS	Moss	VACR	True	True

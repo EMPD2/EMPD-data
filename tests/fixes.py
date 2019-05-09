@@ -90,9 +90,9 @@ def fix_sample_data_formatting(data_files, groupids_table, commit_fixes,
                          if c == 'groupid' or c not in groupids_table]]
 
         counts = counts.merge(groupids_table, on='groupid', how='left')
-        summed = counts[counts.included_in_percent_sum]['count'].sum()
+        summed = counts[counts.used_in_sum]['count'].sum()
         counts['percentage'] = np.nan
-        mask = counts.make_percent.values
+        mask = counts.percent_values.values
         counts.loc[mask, 'percentage'] = (
             100. * counts.loc[mask, 'count'] / summed)
 
