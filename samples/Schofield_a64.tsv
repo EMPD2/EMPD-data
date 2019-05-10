@@ -1,16 +1,16 @@
-samplename	original_varname	acc_varname	groupid	count	percentage	notes
-Schofield_a64	Betula glandulosa	Betula glandulosa	TRSH	7	1.372549	GroupID taken from spreadsheet
-Schofield_a64	Betula pubescens	Betula pubescens-type	TRSH	5	0.98039216	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Schofield_a64	Salix	Salix	TRSH	2	0.39215686	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Schofield_a64	Cerastium-type	Cerastium-type	HERB	3	0.58823529	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Schofield_a64	Cyperaceae	Cyperaceae	HERB	4	0.78431373	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Schofield_a64	Hordeum-type	Hordeum-type	HERB	58	11.372549	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Schofield_a64	Achillea-type	Matricaria-type	HERB	4	0.78431373	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Schofield_a64	Poaceae	Poaceae	HERB	400	78.431373	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Schofield_a64	Polygonum aviculare	Polygonum aviculare-type	HERB	6	1.1764706	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Schofield_a64	Potentilla-type	Potentilla-type	HERB	1	0.19607843	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Schofield_a64	Ranunculus acris	Ranunculus acris-type	HERB	3	0.58823529	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Schofield_a64	Rumex acetosa	Rumex acetosa-type	HERB	13	2.5490196	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Schofield_a64	Rumex acetosella	Rumex acetosella	HERB	2	0.39215686	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Schofield_a64	Botrychium	Botrychium	VACR	2	0.39215686	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Schofield_a64	Damaged/indeterminable	Indeterminable: unknown	INUN	2		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+samplename	original_varname	acc_varname	groupid	count	percentage
+Schofield_a64	Betula glandulosa	Betula glandulosa	TRSH	7	1.372549
+Schofield_a64	Betula pubescens	Betula pubescens-type	TRSH	5	0.98039216
+Schofield_a64	Salix	Salix	TRSH	2	0.39215686
+Schofield_a64	Cerastium-type	Cerastium-type	HERB	3	0.58823529
+Schofield_a64	Cyperaceae	Cyperaceae	HERB	4	0.78431373
+Schofield_a64	Hordeum-type	Hordeum-type	HERB	58	11.372549
+Schofield_a64	Achillea-type	Matricaria-type	HERB	4	0.78431373
+Schofield_a64	Poaceae	Poaceae	HERB	400	78.431373
+Schofield_a64	Polygonum aviculare	Polygonum aviculare-type	HERB	6	1.1764706
+Schofield_a64	Potentilla-type	Potentilla-type	HERB	1	0.19607843
+Schofield_a64	Ranunculus acris	Ranunculus acris-type	HERB	3	0.58823529
+Schofield_a64	Rumex acetosa	Rumex acetosa-type	HERB	13	2.5490196
+Schofield_a64	Rumex acetosella	Rumex acetosella	HERB	2	0.39215686
+Schofield_a64	Botrychium	Botrychium	VACR	2	0.39215686
+Schofield_a64	Damaged/indeterminable	Indeterminable: unknown	INUN	2	

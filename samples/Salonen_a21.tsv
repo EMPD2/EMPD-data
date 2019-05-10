@@ -1,26 +1,26 @@
-samplename	original_varname	acc_varname	groupid	count	percentage	notes
-Salonen_a21	Alnus	Alnus	TRSH	26	5.2	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Salonen_a21	Betula	Betula	TRSH	205	41	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Salonen_a21	Calluna vulgaris	Calluna vulgaris	TRSH	5	1	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Salonen_a21	Ericaceae	Ericales (tetrad)	DWAR	7	1.4	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Salonen_a21	Picea	Picea	TRSH	26	5.2	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Salonen_a21	Pinus	Pinus	TRSH	44	8.8	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Salonen_a21	Salix	Salix	TRSH	34	6.8	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Salonen_a21	Artemisia	Artemisia	HERB	3	0.6	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Salonen_a21	Aster type	Aster-type	HERB	2	0.4	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Salonen_a21	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.2	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Salonen_a21	Delphiunium elatum	Consolida-type	HERB	2	0.4	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Salonen_a21	Cyperaceae	Cyperaceae	HERB	73	14.6	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Salonen_a21	Filipendula	Filipendula	HERB	3	0.6	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Salonen_a21	Graminae	Poaceae	HERB	38	7.6	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Salonen_a21	Potentilla	Potentilla palustris	HERB	5	1	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Salonen_a21	Ranunculaceae	Ranunculaceae	HERB	2	0.4	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Salonen_a21	Rubiaceae	Rubiaceae	HERB	2	0.4	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
-Salonen_a21	Rubus chameomorus	Rubus chamaemorus	HERB	4	0.8	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
-Salonen_a21	Saxifraga stellaris type	Saxifraga stellaris-type	HERB	2	0.4	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Salonen_a21	Dryopteris type	Dryopteris-type	VACR	6	1.2	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Salonen_a21	Equisetum	Equisetum	VACR	7	1.4	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Salonen_a21	Lycopodium annotinum	Lycopodium annotinum-type	VACR	3	0.6	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Salonen_a21	Typha latifolia	Typha latifolia	HELO	1	0.2	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Salonen_a21	Sphagnum	Sphagnum	NOPO	27		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Salonen_a21	Tilletia sphagnii	Tilletia sphagni	FUNG	1		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+samplename	original_varname	acc_varname	groupid	count	percentage
+Salonen_a21	Alnus	Alnus	TRSH	26	5.2
+Salonen_a21	Betula	Betula	TRSH	205	41
+Salonen_a21	Calluna vulgaris	Calluna vulgaris	TRSH	5	1
+Salonen_a21	Ericaceae	Ericales (tetrad)	DWAR	7	1.4
+Salonen_a21	Picea	Picea	TRSH	26	5.2
+Salonen_a21	Pinus	Pinus	TRSH	44	8.8
+Salonen_a21	Salix	Salix	TRSH	34	6.8
+Salonen_a21	Artemisia	Artemisia	HERB	3	0.6
+Salonen_a21	Aster type	Aster-type	HERB	2	0.4
+Salonen_a21	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.2
+Salonen_a21	Delphiunium elatum	Consolida-type	HERB	2	0.4
+Salonen_a21	Cyperaceae	Cyperaceae	HERB	73	14.6
+Salonen_a21	Filipendula	Filipendula	HERB	3	0.6
+Salonen_a21	Graminae	Poaceae	HERB	38	7.6
+Salonen_a21	Potentilla	Potentilla palustris	HERB	5	1
+Salonen_a21	Ranunculaceae	Ranunculaceae	HERB	2	0.4
+Salonen_a21	Rubiaceae	Rubiaceae	HERB	2	0.4
+Salonen_a21	Rubus chameomorus	Rubus chamaemorus	HERB	4	0.8
+Salonen_a21	Saxifraga stellaris type	Saxifraga stellaris-type	HERB	2	0.4
+Salonen_a21	Dryopteris type	Dryopteris-type	VACR	6	1.2
+Salonen_a21	Equisetum	Equisetum	VACR	7	1.4
+Salonen_a21	Lycopodium annotinum	Lycopodium annotinum-type	VACR	3	0.6
+Salonen_a21	Typha latifolia	Typha latifolia	HELO	1	0.2
+Salonen_a21	Sphagnum	Sphagnum	NOPO	27	
+Salonen_a21	Tilletia sphagnii	Tilletia sphagni	FUNG	1	

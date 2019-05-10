@@ -1,29 +1,29 @@
-samplename	original_varname	acc_varname	groupid	count	percentage	notes
-Di_Rita_a13	ALNUS	Alnus	TRSH	3	0.99667774	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Di_Rita_a13	CASTANEA	Castanea sativa	TRSH	1	0.33222591	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Di_Rita_a13	ERICACEAE	Ericales (tetrad)	DWAR	1	0.33222591	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Di_Rita_a13	FAGUS	Fagus	TRSH	1	0.33222591	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Di_Rita_a13	JUGLANS	Juglans	TRSH	1	0.33222591	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Di_Rita_a13	JUNIPERUS	Juniperus-type	TRSH	1	0.33222591	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Di_Rita_a13	OLEA	Olea europaea	TRSH	1	0.33222591	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Di_Rita_a13	PICEA	Picea	TRSH	0.5	0.16611296	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Di_Rita_a13	PINUS	Pinus	TRSH	2.5	0.83056478	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Di_Rita_a13	QUERCUS COCCIFERA type	Quercus ilex-type	TRSH	3	0.99667774	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Di_Rita_a13	QUERCUS deciduous	Quercus robur-type	TRSH	4	1.3289037	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Di_Rita_a13	ROSACEAE	Rosaceae	TRSH	1	0.33222591	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
-Di_Rita_a13	ARTEMISIA	Artemisia	HERB	3	0.99667774	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Di_Rita_a13	ASTEROIDEAE	Asteraceae subf. Asteroideae	HERB	4	1.3289037	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Di_Rita_a13	CICHORIOIDEAE	Asteraceae subf. Cichorioideae	HERB	12	3.986711	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Di_Rita_a13	BRASSICACEAE	Brassicaceae	HERB	5	1.6611296	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Di_Rita_a13	CANNABACEAE	Cannabaceae/Urticaceae	HERB	1	0.33222591	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Di_Rita_a13	cereal type	Cerealia-type	HERB	1	0.33222591	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Di_Rita_a13	CHENOPODIACEAE/AMARANTHACEAE	Chenopodiaceae/Amaranthaceae	HERB	172	57.142857	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Di_Rita_a13	CONVOLVULACEAE	Convolvulaceae	HERB	1	0.33222591	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Di_Rita_a13	CYPERACEAE/JUNCACEAE	Cyperaceae	HERB	69	22.923588	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Di_Rita_a13	MERCURIALIS type	Mercurialis	HERB	1	0.33222591	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Di_Rita_a13	PLANTAGO	Plantago	HERB	2	0.66445183	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Di_Rita_a13	POACEAE	Poaceae	HERB	9	2.9900332	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Di_Rita_a13	RUMEX	Rumex/Oxyria	HERB	1	0.33222591	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Di_Rita_a13	SPARGANIUM/TYPHA	Sparganium-type	AQUA	3	0.99667774	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Di_Rita_a13	Indeterminable grains	Indeterminable: unknown	INUN	17		GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Di_Rita_a13	GLOMUS	Glomus	FUNG	1		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+samplename	original_varname	acc_varname	groupid	count	percentage
+Di_Rita_a13	ALNUS	Alnus	TRSH	3	0.99667774
+Di_Rita_a13	CASTANEA	Castanea sativa	TRSH	1	0.33222591
+Di_Rita_a13	ERICACEAE	Ericales (tetrad)	DWAR	1	0.33222591
+Di_Rita_a13	FAGUS	Fagus	TRSH	1	0.33222591
+Di_Rita_a13	JUGLANS	Juglans	TRSH	1	0.33222591
+Di_Rita_a13	JUNIPERUS	Juniperus-type	TRSH	1	0.33222591
+Di_Rita_a13	OLEA	Olea europaea	TRSH	1	0.33222591
+Di_Rita_a13	PICEA	Picea	TRSH	0.5	0.16611296
+Di_Rita_a13	PINUS	Pinus	TRSH	2.5	0.83056478
+Di_Rita_a13	QUERCUS COCCIFERA type	Quercus ilex-type	TRSH	3	0.99667774
+Di_Rita_a13	QUERCUS deciduous	Quercus robur-type	TRSH	4	1.3289037
+Di_Rita_a13	ROSACEAE	Rosaceae	TRSH	1	0.33222591
+Di_Rita_a13	ARTEMISIA	Artemisia	HERB	3	0.99667774
+Di_Rita_a13	ASTEROIDEAE	Asteraceae subf. Asteroideae	HERB	4	1.3289037
+Di_Rita_a13	CICHORIOIDEAE	Asteraceae subf. Cichorioideae	HERB	12	3.986711
+Di_Rita_a13	BRASSICACEAE	Brassicaceae	HERB	5	1.6611296
+Di_Rita_a13	CANNABACEAE	Cannabaceae/Urticaceae	HERB	1	0.33222591
+Di_Rita_a13	cereal type	Cerealia-type	HERB	1	0.33222591
+Di_Rita_a13	CHENOPODIACEAE/AMARANTHACEAE	Chenopodiaceae/Amaranthaceae	HERB	172	57.142857
+Di_Rita_a13	CONVOLVULACEAE	Convolvulaceae	HERB	1	0.33222591
+Di_Rita_a13	CYPERACEAE/JUNCACEAE	Cyperaceae	HERB	69	22.923588
+Di_Rita_a13	MERCURIALIS type	Mercurialis	HERB	1	0.33222591
+Di_Rita_a13	PLANTAGO	Plantago	HERB	2	0.66445183
+Di_Rita_a13	POACEAE	Poaceae	HERB	9	2.9900332
+Di_Rita_a13	RUMEX	Rumex/Oxyria	HERB	1	0.33222591
+Di_Rita_a13	SPARGANIUM/TYPHA	Sparganium-type	AQUA	3	0.99667774
+Di_Rita_a13	Indeterminable grains	Indeterminable: unknown	INUN	17	
+Di_Rita_a13	GLOMUS	Glomus	FUNG	1	
