@@ -357,7 +357,9 @@ def test_counts(counts, record_property, meta):
     assert not len(failed), msg
 
 
-def test_percentages(counts, record_property, meta):
+def test_percentages(counts, record_property, groupids_table, meta):
+    counts = counts.merge(groupids_table, on='groupid')
+    counts = counts[counts.percent_values]
     failed = counts[counts['percentage'].isnull() | (counts['percentage'] < 0)]
     if len(failed):
         record_property('failed_data', failed)
