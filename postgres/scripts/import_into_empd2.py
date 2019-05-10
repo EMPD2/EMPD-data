@@ -3,6 +3,7 @@ import psycopg2 as psql
 import pandas as pd
 import numpy as np
 import os
+import re
 import requests
 import argparse
 from itertools import product
@@ -76,6 +77,9 @@ def clean_doi(doi):
     DOI = DOI.replace(' ', '')
     DOI = DOI.replace('https://link.springer.com/article/', '')
     return DOI
+
+
+nan_patt = re.compile(r'(?i)nan')
 
 
 cursor.execute('SELECT MAX(publiid) FROM publications')
@@ -358,9 +362,10 @@ for x in range(METADATA.shape[0]):
             'jan', 'feb', 'mar', 'apr', 'may', 'jun', 'jul', 'aug', 'sep',
             'oct', 'nov', 'dec', 'djf', 'mam', 'jja', 'son', 'ann']
         update_str = ', '.join(
-            '%s_%s = %s' % (v, s, is_null_str(val)) for (v, s), val in zip(
-                product('tp', seasons), np.r_[temperature.split(','),
-                                              precip.split(',')]))
+            '%s_%s = %s' % (v, s, val) for (v, s), val in zip(
+                product('tp', seasons), np.r_[
+                    nan_patt.sub('NULL', temperature).split(','),
+                    nan_patt.sub('NULL', precip).split(',')]))
         cursor.execute(
             "UPDATE climate SET %s WHERE sampleName = %s" % (
                 update_str, is_null_str(METADATA.iloc[x]['SampleName'])))
@@ -368,8 +373,8 @@ for x in range(METADATA.shape[0]):
         cursor.execute(
             "INSERT INTO climate VALUES (%s,%s,%s)" % (
                 is_null_str(METADATA.iloc[x]['SampleName']),
-                temperature.replace('nan', 'NULL'),
-                precip.replace('nan', 'NULL')))
+                nan_patt.sub('NULL', temperature),
+                nan_patt.sub('NULL', precip)))
     conn.commit()
 
     for _worker in map('Worker{}_'.format, '1234'):
