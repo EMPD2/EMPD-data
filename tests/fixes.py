@@ -92,8 +92,8 @@ def fix_sample_data_formatting(data_files, groupids_table, commit_fixes,
         counts['samplename'] = samplename
         counts = counts[[c for c in counts.columns
                          if c == 'groupid' or c not in groupids_table]]
+        counts = counts.merge(groupids_table, on='groupid', how='left')
         if not meta.loc[samplename, 'ispercent']:
-            counts = counts.merge(groupids_table, on='groupid', how='left')
             summed = counts[counts.used_in_sum]['count'].sum()
             counts['percentage'] = np.nan
             mask = counts.percent_values.values
