@@ -214,8 +214,8 @@ def fix_precipitation(full_meta, meta, meta_file, commit_fixes, local_repo,
             *full_meta.loc[samples, ['Latitude', 'Longitude']].values.T,
             variables=['prec'])
         # correct the data to make sure we have mm and not mm/month
-        precip[-1] *= 12
-        precip[-5:-1] *= 3
+        precip.iloc[:, -1] *= 12
+        precip.iloc[:, -5:-1] *= 3
         full_meta.loc[samples, 'Precipitation'] = precip.to_csv(
             header=False, index=False, float_format='%1.8g').splitlines()
         full_meta.to_csv(str(meta_file), sep='\t', float_format='%1.8g')
