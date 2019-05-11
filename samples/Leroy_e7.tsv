@@ -1,32 +1,32 @@
-samplename	original_varname	acc_varname	groupid	count	percentage	notes
-Leroy_e7	Aesculus hippocastaneum	Aesculus hippocastanum	TRSH	1	0.31545741	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Leroy_e7	Alnus	Alnus	TRSH	184	58.044164	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Leroy_e7	Betula	Betula	TRSH	7	2.2082019	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Leroy_e7	Buxus	Buxus	TRSH	1	0.31545741	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Leroy_e7	Carpinus betulus	Carpinus betulus	TRSH	2	0.63091483	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Leroy_e7	Corylus	Corylus	TRSH	1	0.31545741	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Leroy_e7	Cupressaceae	Cupressaceae undiff.	TRSH	6	1.8927445	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Leroy_e7	Fagus	Fagus	TRSH	6	1.8927445	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Leroy_e7	Ilex	Ilex	TRSH	1	0.31545741	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Leroy_e7	Juglans	Juglans	TRSH	1	0.31545741	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Leroy_e7	Pinus	Pinus	TRSH	2	0.63091483	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Leroy_e7	Quercus deciduous	Quercus robur-type	TRSH	7	2.2082019	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Leroy_e7	Salix	Salix	TRSH	3	0.94637224	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Leroy_e7	Taxus	Taxus baccata	TRSH	4	1.2618297	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Leroy_e7	Ulmus-Zelkova	Ulmus/Zelkova	TRSH	2	0.63091483	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Leroy_e7	Artemisia	Artemisia	HERB	7	2.2082019	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Leroy_e7	Aster. tubuliflorae	Asteraceae subf. Asteroideae	HERB	6	1.8927445	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Leroy_e7	Boraginaceae	Boraginaceae	HERB	1	0.31545741	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Leroy_e7	Brassicaceae	Brassicaceae	HERB	1	0.31545741	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Leroy_e7	Cerealia-t.	Cerealia-type	HERB	3	0.94637224	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Leroy_e7	Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	14	4.4164038	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Leroy_e7	Cyperaceae	Cyperaceae	HERB	3	0.94637224	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Leroy_e7	Plantago	Plantago	HERB	1	0.31545741	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Leroy_e7	Poaceae	Poaceae	HERB	51	16.088328	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Leroy_e7	Primula	Primula	HERB	1	0.31545741	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Leroy_e7	M. non psilate	Monolete fern spores	VACR	1	0.31545741	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Leroy_e7	Butomus	Butomus umbellatus	HELO	1	0.31545741	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Leroy_e7	Potamogeton	Potamogeton-type	AQUA	1	0.31545741	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Leroy_e7	Salvinia-Azolla massulae	Salvinia	AQPT	28	8.8328076	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
-Leroy_e7	Typha-Sparganium	Sparganium-type	AQUA	8	2.5236593	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Leroy_e7	Indeterminable	Indeterminable: unknown	INUN	1		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+samplename	original_varname	acc_varname	groupid	count	percentage
+Leroy_e7	Aesculus hippocastaneum	Aesculus hippocastanum	TRSH	1	0.31545741
+Leroy_e7	Alnus	Alnus	TRSH	184	58.044164
+Leroy_e7	Betula	Betula	TRSH	7	2.2082019
+Leroy_e7	Buxus	Buxus	TRSH	1	0.31545741
+Leroy_e7	Carpinus betulus	Carpinus betulus	TRSH	2	0.63091483
+Leroy_e7	Corylus	Corylus	TRSH	1	0.31545741
+Leroy_e7	Cupressaceae	Cupressaceae undiff.	TRSH	6	1.8927445
+Leroy_e7	Fagus	Fagus	TRSH	6	1.8927445
+Leroy_e7	Ilex	Ilex	TRSH	1	0.31545741
+Leroy_e7	Juglans	Juglans	TRSH	1	0.31545741
+Leroy_e7	Pinus	Pinus	TRSH	2	0.63091483
+Leroy_e7	Quercus deciduous	Quercus robur-type	TRSH	7	2.2082019
+Leroy_e7	Salix	Salix	TRSH	3	0.94637224
+Leroy_e7	Taxus	Taxus baccata	TRSH	4	1.2618297
+Leroy_e7	Ulmus-Zelkova	Ulmus/Zelkova	TRSH	2	0.63091483
+Leroy_e7	Artemisia	Artemisia	HERB	7	2.2082019
+Leroy_e7	Aster. tubuliflorae	Asteraceae subf. Asteroideae	HERB	6	1.8927445
+Leroy_e7	Boraginaceae	Boraginaceae	HERB	1	0.31545741
+Leroy_e7	Brassicaceae	Brassicaceae	HERB	1	0.31545741
+Leroy_e7	Cerealia-t.	Cerealia-type	HERB	3	0.94637224
+Leroy_e7	Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	14	4.4164038
+Leroy_e7	Cyperaceae	Cyperaceae	HERB	3	0.94637224
+Leroy_e7	Plantago	Plantago	HERB	1	0.31545741
+Leroy_e7	Poaceae	Poaceae	HERB	51	16.088328
+Leroy_e7	Primula	Primula	HERB	1	0.31545741
+Leroy_e7	M. non psilate	Monolete fern spores	VACR	1	0.31545741
+Leroy_e7	Butomus	Butomus umbellatus	HELO	1	0.31545741
+Leroy_e7	Potamogeton	Potamogeton-type	AQUA	1	0.31545741
+Leroy_e7	Salvinia-Azolla massulae	Salvinia	AQPT	28	8.8328076
+Leroy_e7	Typha-Sparganium	Sparganium-type	AQUA	8	2.5236593
+Leroy_e7	Indeterminable	Indeterminable: unknown	INUN	1	

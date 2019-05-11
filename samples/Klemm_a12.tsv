@@ -1,31 +1,31 @@
-samplename	original_varname	acc_varname	groupid	count	percentage	notes
-Klemm_a12	Alnus undifferentiated	Alnus	TRSH	1	0.14513788	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Klemm_a12	Alnus viridis subsp. fruticosa-type	Alnus viridis	TRSH	111	16.110305	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Klemm_a12	Betula nana-type	Betula nana-type	DWAR	188	27.285922	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Klemm_a12	Betula pubescens-type	Betula pubescens-type	TRSH	6	0.87082729	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Klemm_a12	Ericaceae undifferentiated	Ericales (tetrad)	DWAR	4	0.58055152	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Klemm_a12	Larix	Larix/Pseudotsuga	TRSH	12	1.7416546	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Klemm_a12	Picea	Picea	TRSH	1	0.14513788	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Klemm_a12	Pinus undifferentiated	Pinus	TRSH	5	0.7256894	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Klemm_a12	Pinus subgen. Haploxylon	Pinus cembra-type	TRSH	1	0.14513788	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Klemm_a12	Pinus subgen. Diploxylon	Pinus sylvestris-type	TRSH	11	1.5965167	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Klemm_a12	Rosaceae	Rosaceae	TRSH	6	0.87082729	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
-Klemm_a12	Salix	Salix	TRSH	9	1.3062409	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Klemm_a12	Artemisia	Artemisia	HERB	7	1.0159652	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Klemm_a12	Asteraceae	Asteraceae	HERB	17	2.467344	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Klemm_a12	Brassicaceae	Brassicaceae	HERB	1	0.14513788	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Klemm_a12	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	3	0.43541364	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Klemm_a12	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.14513788	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Klemm_a12	Cyperaceae	Cyperaceae	HERB	123	17.851959	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Klemm_a12	Poaceae	Poaceae	HERB	164	23.802612	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Klemm_a12	Polygonum	Polygonum-type (tricolporate)	HERB	1	0.14513788	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Klemm_a12	Potentilla	Potentilla-type	HERB	2	0.29027576	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Klemm_a12	Primula	Primula	HERB	2	0.29027576	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Klemm_a12	Ranunculaceae	Ranunculaceae	HERB	2	0.29027576	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Klemm_a12	Rhinanthus-group	Rhinanthus-type/Veronica-type	HERB	2	0.29027576	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Klemm_a12	Rubus chamaemorus	Rubus chamaemorus	HERB	1	0.14513788	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
-Klemm_a12	Rumex	Rumex/Oxyria	HERB	6	0.87082729	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Klemm_a12	Thalictrum	Thalictrum	HERB	1	0.14513788	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Klemm_a12	Valeriana	Valeriana	HERB	1	0.14513788	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Klemm_a12	Pollen indeterminata	Indeterminable: unknown	INUN	2		GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Klemm_a12	Pollen total	Indeterminable: unknown	INUN	691		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+samplename	original_varname	acc_varname	groupid	count	percentage
+Klemm_a12	Alnus undifferentiated	Alnus	TRSH	1	0.14513788
+Klemm_a12	Alnus viridis subsp. fruticosa-type	Alnus viridis	TRSH	111	16.110305
+Klemm_a12	Betula nana-type	Betula nana-type	DWAR	188	27.285922
+Klemm_a12	Betula pubescens-type	Betula pubescens-type	TRSH	6	0.87082729
+Klemm_a12	Ericaceae undifferentiated	Ericales (tetrad)	DWAR	4	0.58055152
+Klemm_a12	Larix	Larix/Pseudotsuga	TRSH	12	1.7416546
+Klemm_a12	Picea	Picea	TRSH	1	0.14513788
+Klemm_a12	Pinus undifferentiated	Pinus	TRSH	5	0.7256894
+Klemm_a12	Pinus subgen. Haploxylon	Pinus cembra-type	TRSH	1	0.14513788
+Klemm_a12	Pinus subgen. Diploxylon	Pinus sylvestris-type	TRSH	11	1.5965167
+Klemm_a12	Rosaceae	Rosaceae	TRSH	6	0.87082729
+Klemm_a12	Salix	Salix	TRSH	9	1.3062409
+Klemm_a12	Artemisia	Artemisia	HERB	7	1.0159652
+Klemm_a12	Asteraceae	Asteraceae	HERB	17	2.467344
+Klemm_a12	Brassicaceae	Brassicaceae	HERB	1	0.14513788
+Klemm_a12	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	3	0.43541364
+Klemm_a12	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.14513788
+Klemm_a12	Cyperaceae	Cyperaceae	HERB	123	17.851959
+Klemm_a12	Poaceae	Poaceae	HERB	164	23.802612
+Klemm_a12	Polygonum	Polygonum-type (tricolporate)	HERB	1	0.14513788
+Klemm_a12	Potentilla	Potentilla-type	HERB	2	0.29027576
+Klemm_a12	Primula	Primula	HERB	2	0.29027576
+Klemm_a12	Ranunculaceae	Ranunculaceae	HERB	2	0.29027576
+Klemm_a12	Rhinanthus-group	Rhinanthus-type/Veronica-type	HERB	2	0.29027576
+Klemm_a12	Rubus chamaemorus	Rubus chamaemorus	HERB	1	0.14513788
+Klemm_a12	Rumex	Rumex/Oxyria	HERB	6	0.87082729
+Klemm_a12	Thalictrum	Thalictrum	HERB	1	0.14513788
+Klemm_a12	Valeriana	Valeriana	HERB	1	0.14513788
+Klemm_a12	Pollen indeterminata	Indeterminable: unknown	INUN	2	
+Klemm_a12	Pollen total	Indeterminable: unknown	INUN	691	

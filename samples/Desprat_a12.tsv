@@ -1,27 +1,27 @@
-samplename	original_varname	acc_varname	groupid	count	percentage	notes
-Desprat_a12	Alnus	Alnus	TRSH	2	0.56980057	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Desprat_a12	Corylus	Corylus	TRSH	3	0.85470085	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Desprat_a12	Ericaceae	Ericales (tetrad)	DWAR	2	0.56980057	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Desprat_a12	Myrtus	Myrtus communis	TRSH	1	0.28490028	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Desprat_a12	Olea	Olea europaea	TRSH	25	7.1225071	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Desprat_a12	Pinus	Pinus	TRSH	45	12.820513	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Desprat_a12	Pistacia	Pistacia	TRSH	81	23.076923	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Desprat_a12	Quercus suber  type	Quercus cerris-type	TRSH	2	0.56980057	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Desprat_a12	Quercus evergreen  type	Quercus ilex-type	TRSH	2	0.56980057	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Desprat_a12	Quercus deciduous  type	Quercus robur-type	TRSH	16	4.5584046	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Desprat_a12	Rosaceae	Rosaceae	TRSH	25	7.1225071	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
-Desprat_a12	Apiaceae	Apiaceae	HERB	1	0.28490028	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Desprat_a12	Aster  type	Aster-type	HERB	2	0.56980057	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Desprat_a12	Brassicaceae	Brassicaceae	HERB	5	1.4245014	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Desprat_a12	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	4	1.1396011	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Desprat_a12	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	66	18.803419	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Desprat_a12	Taraxacum	Crepis-type	HERB	20	5.6980057	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Desprat_a12	Filipendula	Filipendula	HERB	2	0.56980057	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Desprat_a12	Mercurialis  type	Mercurialis	HERB	16	4.5584046	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Desprat_a12	Paronychia	Paronychia	HERB	1	0.28490028	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Desprat_a12	Plantago	Plantago	HERB	1	0.28490028	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Desprat_a12	Poaceae	Poaceae	HERB	27	7.6923077	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Desprat_a12	Rumex	Rumex/Oxyria	HERB	1	0.28490028	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Desprat_a12	Osmunda	Osmunda regalis	VACR	1	0.28490028	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Desprat_a12	Xbroken	Indeterminable: broken	INUN	9		GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Desprat_a12	Exotic	Exotics (counted)	NOPO	2002		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+samplename	original_varname	acc_varname	groupid	count	percentage
+Desprat_a12	Alnus	Alnus	TRSH	2	0.56980057
+Desprat_a12	Corylus	Corylus	TRSH	3	0.85470085
+Desprat_a12	Ericaceae	Ericales (tetrad)	DWAR	2	0.56980057
+Desprat_a12	Myrtus	Myrtus communis	TRSH	1	0.28490028
+Desprat_a12	Olea	Olea europaea	TRSH	25	7.1225071
+Desprat_a12	Pinus	Pinus	TRSH	45	12.820513
+Desprat_a12	Pistacia	Pistacia	TRSH	81	23.076923
+Desprat_a12	Quercus suber  type	Quercus cerris-type	TRSH	2	0.56980057
+Desprat_a12	Quercus evergreen  type	Quercus ilex-type	TRSH	2	0.56980057
+Desprat_a12	Quercus deciduous  type	Quercus robur-type	TRSH	16	4.5584046
+Desprat_a12	Rosaceae	Rosaceae	TRSH	25	7.1225071
+Desprat_a12	Apiaceae	Apiaceae	HERB	1	0.28490028
+Desprat_a12	Aster  type	Aster-type	HERB	2	0.56980057
+Desprat_a12	Brassicaceae	Brassicaceae	HERB	5	1.4245014
+Desprat_a12	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	4	1.1396011
+Desprat_a12	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	66	18.803419
+Desprat_a12	Taraxacum	Crepis-type	HERB	20	5.6980057
+Desprat_a12	Filipendula	Filipendula	HERB	2	0.56980057
+Desprat_a12	Mercurialis  type	Mercurialis	HERB	16	4.5584046
+Desprat_a12	Paronychia	Paronychia	HERB	1	0.28490028
+Desprat_a12	Plantago	Plantago	HERB	1	0.28490028
+Desprat_a12	Poaceae	Poaceae	HERB	27	7.6923077
+Desprat_a12	Rumex	Rumex/Oxyria	HERB	1	0.28490028
+Desprat_a12	Osmunda	Osmunda regalis	VACR	1	0.28490028
+Desprat_a12	Xbroken	Indeterminable: broken	INUN	9	
+Desprat_a12	Exotic	Exotics (counted)	NOPO	2002	

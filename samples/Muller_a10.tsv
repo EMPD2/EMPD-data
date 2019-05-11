@@ -1,16 +1,16 @@
-samplename	original_varname	acc_varname	groupid	count	percentage	notes
-Muller_a10	Alnus fruticosa	Alnus viridis	TRSH	12	3.6697248	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Muller_a10	Betula sect. Nanae	Betula nana-type	DWAR	12	3.6697248	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Muller_a10	Betula sect. Albae	Betula pubescens-type	TRSH	2	0.6116208	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Muller_a10	Pinus haploxylon-type	Pinus cembra-type	TRSH	1	0.3058104	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Muller_a10	Rosaceae	Rosaceae	TRSH	2	0.6116208	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
-Muller_a10	Salix	Salix	TRSH	218	66.666667	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Muller_a10	Ericaceae vaccinium-type	Vaccinium	DWAR	4	1.2232416	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Muller_a10	Cyperaceae	Cyperaceae	HERB	30	9.1743119	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Muller_a10	Poaceae	Poaceae	HERB	45	13.761468	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Muller_a10	Asteraceae saussurea-type	Saussurea-type	HERB	1	0.3058104	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Muller_a10	Pollen indeterminata	Indeterminable: unknown	INUN	2		GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Muller_a10	Pollen, terrestrial	Indeterminable: unknown	INUN	329		GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Muller_a10	Lycopodium spores counted	Lycopodium (counted)	NOPO	249		GroupID taken from spreadsheet
-Muller_a10	Microthyrium	Microthyrium	FUNG	5		GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Muller_a10	Pollen per unit sediment mass	Pollen per unit sediment mass (/g)	NOPO	2822		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+samplename	original_varname	acc_varname	groupid	count	percentage
+Muller_a10	Alnus fruticosa	Alnus viridis	TRSH	12	3.6697248
+Muller_a10	Betula sect. Nanae	Betula nana-type	DWAR	12	3.6697248
+Muller_a10	Betula sect. Albae	Betula pubescens-type	TRSH	2	0.6116208
+Muller_a10	Pinus haploxylon-type	Pinus cembra-type	TRSH	1	0.3058104
+Muller_a10	Rosaceae	Rosaceae	TRSH	2	0.6116208
+Muller_a10	Salix	Salix	TRSH	218	66.666667
+Muller_a10	Ericaceae vaccinium-type	Vaccinium	DWAR	4	1.2232416
+Muller_a10	Cyperaceae	Cyperaceae	HERB	30	9.1743119
+Muller_a10	Poaceae	Poaceae	HERB	45	13.761468
+Muller_a10	Asteraceae saussurea-type	Saussurea-type	HERB	1	0.3058104
+Muller_a10	Pollen indeterminata	Indeterminable: unknown	INUN	2	
+Muller_a10	Pollen, terrestrial	Indeterminable: unknown	INUN	329	
+Muller_a10	Lycopodium spores counted	Lycopodium (counted)	NOPO	249	
+Muller_a10	Microthyrium	Microthyrium	FUNG	5	
+Muller_a10	Pollen per unit sediment mass	Pollen per unit sediment mass (/g)	NOPO	2822	

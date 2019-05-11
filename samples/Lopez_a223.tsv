@@ -1,19 +1,19 @@
 samplename	original_varname	acc_varname	groupid	count	percentage
 Lopez_a223	Alnus	Alnus	TRSH	1	0.22522523
 Lopez_a223	Betula	Betula	TRSH	8	1.8018018
-Lopez_a223	Calluna vulgaris	Calluna vulgaris	TRSH	13	2.9279279
+Lopez_a223	Calluna vulgaris	Calluna vulgaris	DWAR	13	2.9279279
 Lopez_a223	Corylus	Corylus	TRSH	1	0.22522523
-Lopez_a223	Erica arborea-type	Erica arborea-type	TRSH	106	23.873874
+Lopez_a223	Erica arborea-type	Erica arborea-type	DWAR	106	23.873874
 Lopez_a223	Fagus	Fagus	TRSH	7	1.5765766
 Lopez_a223	Frangula	Frangula alnus	TRSH	1	0.22522523
 Lopez_a223	Ilex	Ilex	TRSH	1	0.22522523
 Lopez_a223	Juniperus-type	Juniperus-type	TRSH	2	0.45045045
 Lopez_a223	Pinus pinaster	Pinus pinaster	TRSH	1	0.22522523
-Lopez_a223	Pinus sylvestris/nigra-type	Pinus sylvestris/nigra-type	TRSH	61	13.738739
-Lopez_a223	Prunus/Rubus-type	Prunus/Rubus-type	TRSH	3	0.67567568
+Lopez_a223	Pinus sylvestris/nigra-type	Pinus sylvestris-type	TRSH	61	13.738739
 Lopez_a223	Quercus evergreen	Quercus ilex-type	TRSH	1	0.22522523
 Lopez_a223	Quercus deciduous	Quercus robur-type	TRSH	89	20.045045
-Lopez_a223	Rosaceae undiff,	Rosaceae undiff,	TRSH	4	0.9009009
+Lopez_a223	Rosaceae undiff,	Rosaceae	TRSH	4	0.9009009
+Lopez_a223	Prunus/Rubus-type	Rosaceae (non-operculate)	TRSH	3	0.67567568
 Lopez_a223	Tilia	Tilia	TRSH	2	0.45045045
 Lopez_a223	Apiaceae	Apiaceae	HERB	4	0.9009009
 Lopez_a223	Artemisia	Artemisia	HERB	4	0.9009009
@@ -23,25 +23,25 @@ Lopez_a223	Boraginaceae	Boraginaceae	HERB	2	0.45045045
 Lopez_a223	Cruciferae	Brassicaceae	HERB	2	0.45045045
 Lopez_a223	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	21	4.7297297
 Lopez_a223	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	11	2.4774775
-Lopez_a223	Cistus ladanifer	Cistus ladanifer	HERB	5	1.1261261
-Lopez_a223	Cistus-type	Cistus-type	HERB	1	0.22522523
+Lopez_a223	Cistus-type	Cistus	HERB	1	0.22522523
+Lopez_a223	Cistus ladanifer	Cistus ladanifer-type	HERB	5	1.1261261
 Lopez_a223	Dipsacus fullonum-type	Dipsacus fullonum-type	HERB	4	0.9009009
-Lopez_a223	Fumaria officinalis-type	Fumaria officinalis-type	HERB	2	0.45045045
-Lopez_a223	Helianthemum-type	Helianthemum-type	HERB	4	0.9009009
+Lopez_a223	Fumaria officinalis-type	Fumaria	HERB	2	0.45045045
+Lopez_a223	Helianthemum-type	Helianthemum	HERB	4	0.9009009
 Lopez_a223	Labiatae	Lamiaceae	HERB	5	1.1261261
-Lopez_a223	Liliaceae undiff,	Liliaceae undiff,	HERB	3	0.67567568
+Lopez_a223	Liliaceae undiff,	Liliaceae-type	HERB	3	0.67567568
 Lopez_a223	Anthemis-type	Matricaria-type	HERB	1	0.22522523
 Lopez_a223	Melampyrum	Melampyrum	HERB	1	0.22522523
 Lopez_a223	Campanula-type	Phyteuma-type	HERB	4	0.9009009
 Lopez_a223	Plantago lanceolata-type	Plantago lanceolata-type	HERB	7	1.5765766
-Lopez_a223	Poaceae undifferentiated	Poaceae	HERB	34	7.6576577
+Lopez_a223	Poaceae undiff.	Poaceae	HERB	34	7.6576577
 Lopez_a223	Polygonum aviculare-type	Polygonum aviculare-type	HERB	1	0.22522523
 Lopez_a223	Saxifraga	Saxifraga	HERB	2	0.45045045
 Lopez_a223	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	1	0.22522523
-Lopez_a223	Monolete fern spores undifferentiated	Monolete fern spores undifferentiated	VACR	7	1.5765766
-Lopez_a223	Trilete fern spores undifferentiated	Trilete fern spores undifferentiated	VACR	5	1.1261261
-Lopez_a223	Fabaceae undifferentiated	Fabaceae undifferentiated	INUN	3	
+Lopez_a223	Monolete fern spores undiff.	Monolete fern spores	VACR	7	1.5765766
+Lopez_a223	Trilete fern spores undiff.	Trilete spore(s)	VACR	5	1.1261261
+Lopez_a223	Fabaceae undiff.	Fabaceae undiff.	INUN	3	
 Lopez_a223	Cercophora	Cercophora-type	FUNG	3	
 Lopez_a223	Podospora	Podospora-type	FUNG	1	
-Lopez_a223	Sordaria	Sordaria	NOPO	4	
+Lopez_a223	Sordaria	Sordaria-type	NOPO	4	
 Lopez_a223	Sporormiella	Sporormiella-type	FUNG	2	

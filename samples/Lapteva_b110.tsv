@@ -1,27 +1,27 @@
-samplename	original_varname	acc_varname	groupid	count	percentage	notes
-Lapteva_b110	Duschekia fruticosa= Alnus fruticosa-type	Alnus viridis	TRSH	12	1.2889366	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Lapteva_b110	Betula nana=Betula sect. Nanae	Betula nana-type	DWAR	200	21.482277	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Lapteva_b110	Betula sect. Albae	Betula pubescens-type	TRSH	51	5.4779807	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Lapteva_b110	Ericaceae	Ericales (tetrad)	DWAR	5	0.53705693	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Lapteva_b110	Picea	Picea	TRSH	2	0.21482277	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Lapteva_b110	Pinus sibirica=Pinus s/g Haploxylon	Pinus cembra-type	TRSH	7	0.7518797	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Lapteva_b110	Pinus sylvestris=Pinus s/g Diploxylon	Pinus sylvestris-type	TRSH	59	6.3372718	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Lapteva_b110	Rosaceae	Rosaceae	TRSH	3	0.32223416	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
-Lapteva_b110	Salix	Salix	TRSH	17	1.8259936	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Lapteva_b110	Apiaceae	Apiaceae	HERB	1	0.10741139	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Lapteva_b110	Artemisia	Artemisia	HERB	93	9.9892589	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Lapteva_b110	Asteraceae/Asteroideae	Asteraceae subf. Asteroideae	HERB	3	0.32223416	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Lapteva_b110	Asteraceae/Cichorioideae	Asteraceae subf. Cichorioideae	HERB	2	0.21482277	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Lapteva_b110	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	11	1.1815252	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Lapteva_b110	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.10741139	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Lapteva_b110	Cyperaceae	Cyperaceae	HERB	186	19.978518	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Lapteva_b110	Poaceae	Poaceae	HERB	172	18.474758	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Lapteva_b110	Polemoniaceae	Polemoniaceae	HERB	1	0.10741139	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Lapteva_b110	Polygonaceae	Polygonaceae	HERB	1	0.10741139	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Lapteva_b110	Ranunculaceae	Ranunculaceae	HERB	1	0.10741139	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Lapteva_b110	Rosaceae/Rubus chamaemorus	Rubus chamaemorus	HERB	4	0.42964554	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
-Lapteva_b110	Valerianaceae	Valerianaceae	HERB	1	0.10741139	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Lapteva_b110	Bryales	Bryophyte spores	BRYO	93	9.9892589	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Lapteva_b110	Lycopodium clavatum-type	Lycopodium clavatum-type	VACR	5	0.53705693	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Lapteva_b110	Pollen gen. indet.	Indeterminable: unknown	INUN	3		GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Lapteva_b110	Sphagnum	Sphagnum	NOPO	27		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+samplename	original_varname	acc_varname	groupid	count	percentage
+Lapteva_b110	Duschekia fruticosa= Alnus fruticosa-type	Alnus viridis	TRSH	12	1.2889366
+Lapteva_b110	Betula nana=Betula sect. Nanae	Betula nana-type	DWAR	200	21.482277
+Lapteva_b110	Betula sect. Albae	Betula pubescens-type	TRSH	51	5.4779807
+Lapteva_b110	Ericaceae	Ericales (tetrad)	DWAR	5	0.53705693
+Lapteva_b110	Picea	Picea	TRSH	2	0.21482277
+Lapteva_b110	Pinus sibirica=Pinus s/g Haploxylon	Pinus cembra-type	TRSH	7	0.7518797
+Lapteva_b110	Pinus sylvestris=Pinus s/g Diploxylon	Pinus sylvestris-type	TRSH	59	6.3372718
+Lapteva_b110	Rosaceae	Rosaceae	TRSH	3	0.32223416
+Lapteva_b110	Salix	Salix	TRSH	17	1.8259936
+Lapteva_b110	Apiaceae	Apiaceae	HERB	1	0.10741139
+Lapteva_b110	Artemisia	Artemisia	HERB	93	9.9892589
+Lapteva_b110	Asteraceae/Asteroideae	Asteraceae subf. Asteroideae	HERB	3	0.32223416
+Lapteva_b110	Asteraceae/Cichorioideae	Asteraceae subf. Cichorioideae	HERB	2	0.21482277
+Lapteva_b110	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	11	1.1815252
+Lapteva_b110	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.10741139
+Lapteva_b110	Cyperaceae	Cyperaceae	HERB	186	19.978518
+Lapteva_b110	Poaceae	Poaceae	HERB	172	18.474758
+Lapteva_b110	Polemoniaceae	Polemoniaceae	HERB	1	0.10741139
+Lapteva_b110	Polygonaceae	Polygonaceae	HERB	1	0.10741139
+Lapteva_b110	Ranunculaceae	Ranunculaceae	HERB	1	0.10741139
+Lapteva_b110	Rosaceae/Rubus chamaemorus	Rubus chamaemorus	HERB	4	0.42964554
+Lapteva_b110	Valerianaceae	Valerianaceae	HERB	1	0.10741139
+Lapteva_b110	Bryales	Bryophyte spores	BRYO	93	9.9892589
+Lapteva_b110	Lycopodium clavatum-type	Lycopodium clavatum-type	VACR	5	0.53705693
+Lapteva_b110	Pollen gen. indet.	Indeterminable: unknown	INUN	3	
+Lapteva_b110	Sphagnum	Sphagnum	NOPO	27	
