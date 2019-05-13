@@ -79,22 +79,26 @@ def fix_newline_chars(full_meta, meta, meta_file, commit_fixes,
 @pytest.mark.formatfix
 @pytest.mark.dbfix
 def fix_sample_data_formatting(data_files, groupids_table, commit_fixes,
-                               local_repo, skip_ci):
+                               meta, local_repo, skip_ci):
 
     ordered_groups = group_order + groupids_table.groupid.tolist() + \
         groupids_table.higher_groupid.tolist()
+    if 'ispercent' not in meta.columns:
+        meta = meta.copy()
+        meta['ispercent'] = False
     for fname in data_files:
         counts = pd.read_csv(fname, '\t')
-        counts['samplename'] = osp.splitext(osp.basename(fname))[0]
+        samplename = osp.splitext(osp.basename(fname))[0]
+        counts['samplename'] = samplename
         counts = counts[[c for c in counts.columns
                          if c == 'groupid' or c not in groupids_table]]
-
         counts = counts.merge(groupids_table, on='groupid', how='left')
-        summed = counts[counts.included_in_percent_sum]['count'].sum()
-        counts['percentage'] = np.nan
-        mask = counts.make_percent.values
-        counts.loc[mask, 'percentage'] = (
-            100. * counts.loc[mask, 'count'] / summed)
+        if not meta.loc[samplename, 'ispercent']:
+            summed = counts[counts.used_in_sum]['count'].sum()
+            counts['percentage'] = np.nan
+            mask = counts.percent_values.values
+            counts.loc[mask, 'percentage'] = (
+                100. * counts.loc[mask, 'count'] / summed)
 
         # order the samples
         counts['order'] = counts.higher_groupid.apply(ordered_groups.index)
@@ -210,8 +214,8 @@ def fix_precipitation(full_meta, meta, meta_file, commit_fixes, local_repo,
             *full_meta.loc[samples, ['Latitude', 'Longitude']].values.T,
             variables=['prec'])
         # correct the data to make sure we have mm and not mm/month
-        precip[-1] *= 12
-        precip[-5:-1] *= 3
+        precip.iloc[:, -1] *= 12
+        precip.iloc[:, -5:-1] *= 3
         full_meta.loc[samples, 'Precipitation'] = precip.to_csv(
             header=False, index=False, float_format='%1.8g').splitlines()
         full_meta.to_csv(str(meta_file), sep='\t', float_format='%1.8g')

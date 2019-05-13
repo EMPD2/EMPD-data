@@ -1,25 +1,25 @@
-samplename	original_varname	acc_varname	groupid	count	percentage	notes
-Lapteva_b22	Abies sibirica	Abies sibirica	TRSH	4	0.74906367	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Lapteva_b22	Alnus glutinosa-type	Alnus glutinosa-type	TRSH	3	0.56179775	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Lapteva_b22	Betula sect. Albae	Betula pubescens-type	TRSH	250	46.816479	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Lapteva_b22	Picea	Picea	TRSH	33	6.1797753	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Lapteva_b22	Pinus sylvestris=Pinus s/g Diploxylon	Pinus sylvestris-type	TRSH	20	3.7453184	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Lapteva_b22	Rosaceae	Rosaceae	TRSH	7	1.3108614	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
-Lapteva_b22	Salix	Salix	TRSH	2	0.37453184	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Lapteva_b22	Tilia cordata-type	Tilia cordata-type	TRSH	24	4.494382	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Lapteva_b22	Ulmus	Ulmus/Zelkova	TRSH	2	0.37453184	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Lapteva_b22	Apiaceae	Apiaceae	HERB	4	0.74906367	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Lapteva_b22	Artemisia	Artemisia	HERB	19	3.5580524	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Lapteva_b22	Asteraceae/Asteroideae	Asteraceae subf. Asteroideae	HERB	2	0.37453184	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Lapteva_b22	Asteraceae/Cichorioideae	Asteraceae subf. Cichorioideae	HERB	2	0.37453184	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Lapteva_b22	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	4	0.74906367	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Lapteva_b22	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	2	0.37453184	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Lapteva_b22	Fabaceae	Fabaceae	HERB	3	0.56179775	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Lapteva_b22	Onagraceae	Onagraceae	HERB	1	0.18726592	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Lapteva_b22	Poaceae	Poaceae	HERB	10	1.8726592	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Lapteva_b22	Ranunculaceae	Ranunculaceae	HERB	1	0.18726592	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Lapteva_b22	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	1	0.18726592	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Lapteva_b22	Typha	Sparganium-type	AQUA	2	0.37453184	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Lapteva_b22	Lycopodium clavatum-type	Lycopodium clavatum-type	VACR	1	0.18726592	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Lapteva_b22	Polypodiophyta	Monolete fern spores	VACR	139	26.029963	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Lapteva_b22	Sphagnum	Sphagnum	NOPO	1		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+samplename	original_varname	acc_varname	groupid	count	percentage
+Lapteva_b22	Abies sibirica	Abies sibirica	TRSH	4	0.74906367
+Lapteva_b22	Alnus glutinosa-type	Alnus glutinosa-type	TRSH	3	0.56179775
+Lapteva_b22	Betula sect. Albae	Betula pubescens-type	TRSH	250	46.816479
+Lapteva_b22	Picea	Picea	TRSH	33	6.1797753
+Lapteva_b22	Pinus sylvestris=Pinus s/g Diploxylon	Pinus sylvestris-type	TRSH	20	3.7453184
+Lapteva_b22	Rosaceae	Rosaceae	TRSH	7	1.3108614
+Lapteva_b22	Salix	Salix	TRSH	2	0.37453184
+Lapteva_b22	Tilia cordata-type	Tilia cordata-type	TRSH	24	4.494382
+Lapteva_b22	Ulmus	Ulmus/Zelkova	TRSH	2	0.37453184
+Lapteva_b22	Apiaceae	Apiaceae	HERB	4	0.74906367
+Lapteva_b22	Artemisia	Artemisia	HERB	19	3.5580524
+Lapteva_b22	Asteraceae/Asteroideae	Asteraceae subf. Asteroideae	HERB	2	0.37453184
+Lapteva_b22	Asteraceae/Cichorioideae	Asteraceae subf. Cichorioideae	HERB	2	0.37453184
+Lapteva_b22	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	4	0.74906367
+Lapteva_b22	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	2	0.37453184
+Lapteva_b22	Fabaceae	Fabaceae	HERB	3	0.56179775
+Lapteva_b22	Onagraceae	Onagraceae	HERB	1	0.18726592
+Lapteva_b22	Poaceae	Poaceae	HERB	10	1.8726592
+Lapteva_b22	Ranunculaceae	Ranunculaceae	HERB	1	0.18726592
+Lapteva_b22	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	1	0.18726592
+Lapteva_b22	Lycopodium clavatum-type	Lycopodium clavatum-type	VACR	1	0.18726592
+Lapteva_b22	Polypodiophyta	Monolete fern spores	VACR	139	26.029963
+Lapteva_b22	Typha	Sparganium-type	AQUA	2	0.37453184
+Lapteva_b22	Sphagnum	Sphagnum	NOPO	1	

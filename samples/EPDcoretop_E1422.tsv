@@ -1,33 +1,33 @@
-samplename	original_varname	acc_varname	groupid	count	percentage	notes
-EPDcoretop_E1422	Acer	Acer campestre-type	TRSH	1	0.15948963	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-EPDcoretop_E1422	Alnus	Alnus	TRSH	13	2.0733652	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-EPDcoretop_E1422	Betula	Betula	TRSH	28	4.4657097	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-EPDcoretop_E1422	Calluna	Calluna vulgaris	TRSH	59	9.4098884	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-EPDcoretop_E1422	Carpinus	Carpinus betulus	TRSH	12	1.9138756	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-EPDcoretop_E1422	Castanea	Castanea sativa	TRSH	1	0.15948963	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-EPDcoretop_E1422	Corylus	Corylus	TRSH	8	1.2759171	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-EPDcoretop_E1422	Empetrum	Empetrum nigrum	DWAR	1	0.15948963	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-EPDcoretop_E1422	Fagus	Fagus	TRSH	21	3.3492823	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-EPDcoretop_E1422	Fraxinus	Fraxinus	TRSH	2	0.31897927	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-EPDcoretop_E1422	Picea	Picea	TRSH	142	22.647528	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-EPDcoretop_E1422	Pinus	Pinus	TRSH	78	12.440191	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-EPDcoretop_E1422	Quercus	Quercus	TRSH	14	2.2328549	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-EPDcoretop_E1422	Rosaceae undiff.	Rosaceae	TRSH	2	0.31897927	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
-EPDcoretop_E1422	Tilia	Tilia	TRSH	2	0.31897927	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-EPDcoretop_E1422	Vaccinium-type	Vaccinium-type	DWAR	1	0.15948963	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-EPDcoretop_E1422	Artemisia	Artemisia	HERB	2	0.31897927	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-EPDcoretop_E1422	Compositae undiff.	Asteraceae	HERB	2	0.31897927	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-EPDcoretop_E1422	Centaurea cyanus	Centaurea cyanus-type	HERB	1	0.15948963	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-EPDcoretop_E1422	Cerealia-type	Cerealia-type	HERB	10	1.5948963	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-EPDcoretop_E1422	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	6	0.9569378	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-EPDcoretop_E1422	Cyperaceae	Cyperaceae	HERB	137	21.85008	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-EPDcoretop_E1422	Plantago lanceolata	Plantago lanceolata-type	HERB	5	0.79744817	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-EPDcoretop_E1422	Plantago major/P. media	Plantago major/P. media-type	HERB	1	0.15948963	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-EPDcoretop_E1422	Poaceae	Poaceae	HERB	60	9.569378	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-EPDcoretop_E1422	Rubiaceae	Rubiaceae	HERB	1	0.15948963	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
-EPDcoretop_E1422	Rumex	Rumex/Oxyria	HERB	4	0.63795853	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-EPDcoretop_E1422	Secale cereale	Secale cereale	HERB	10	1.5948963	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-EPDcoretop_E1422	Varia	Indeterminable: unknown	INUN	5		GroupID taken from POLNET. Only one taxon matched that acc_varname.
-EPDcoretop_E1422	Filicinae	Monolete fern spores	VACR	1	0.15948963	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-EPDcoretop_E1422	Pteridium	Pteridium aquilinum	VACR	2	0.31897927	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-EPDcoretop_E1422	Sphagnum	Sphagnum	NOPO	31		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+samplename	original_varname	acc_varname	groupid	count	percentage
+EPDcoretop_E1422	Acer	Acer campestre-type	TRSH	1	0.15197568
+EPDcoretop_E1422	Alnus	Alnus	TRSH	13	1.9756839
+EPDcoretop_E1422	Betula	Betula	TRSH	28	4.2553191
+EPDcoretop_E1422	Calluna	Calluna vulgaris	DWAR	59	8.9665653
+EPDcoretop_E1422	Carpinus	Carpinus betulus	TRSH	12	1.8237082
+EPDcoretop_E1422	Castanea	Castanea sativa	TRSH	1	0.15197568
+EPDcoretop_E1422	Corylus	Corylus	TRSH	8	1.2158055
+EPDcoretop_E1422	Empetrum	Empetrum nigrum	DWAR	1	0.15197568
+EPDcoretop_E1422	Fagus	Fagus	TRSH	21	3.1914894
+EPDcoretop_E1422	Fraxinus	Fraxinus	TRSH	2	0.30395137
+EPDcoretop_E1422	Picea	Picea	TRSH	142	21.580547
+EPDcoretop_E1422	Pinus	Pinus	TRSH	78	11.854103
+EPDcoretop_E1422	Quercus	Quercus	TRSH	14	2.1276596
+EPDcoretop_E1422	Rosaceae undiff.	Rosaceae	TRSH	2	0.30395137
+EPDcoretop_E1422	Tilia	Tilia	TRSH	2	0.30395137
+EPDcoretop_E1422	Vaccinium-type	Vaccinium-type	DWAR	1	0.15197568
+EPDcoretop_E1422	Artemisia	Artemisia	HERB	2	0.30395137
+EPDcoretop_E1422	Compositae undiff.	Asteraceae	HERB	2	0.30395137
+EPDcoretop_E1422	Centaurea cyanus	Centaurea cyanus-type	HERB	1	0.15197568
+EPDcoretop_E1422	Cerealia-type	Cerealia-type	HERB	10	1.5197568
+EPDcoretop_E1422	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	6	0.9118541
+EPDcoretop_E1422	Cyperaceae	Cyperaceae	HERB	137	20.820669
+EPDcoretop_E1422	Plantago lanceolata	Plantago lanceolata-type	HERB	5	0.75987842
+EPDcoretop_E1422	Plantago major/P. media	Plantago major/P. media-type	HERB	1	0.15197568
+EPDcoretop_E1422	Poaceae	Poaceae	HERB	60	9.118541
+EPDcoretop_E1422	Rubiaceae	Rubiaceae	HERB	1	0.15197568
+EPDcoretop_E1422	Rumex	Rumex/Oxyria	HERB	4	0.60790274
+EPDcoretop_E1422	Secale cereale	Secale cereale	HERB	10	1.5197568
+EPDcoretop_E1422	Filicinae	Monolete fern spores	VACR	1	0.15197568
+EPDcoretop_E1422	Pteridium	Pteridium aquilinum	VACR	2	0.30395137
+EPDcoretop_E1422	Sphagnum	Sphagnum	BRYO	31	4.7112462
+EPDcoretop_E1422	Varia	Indeterminable: unknown	INUN	5	

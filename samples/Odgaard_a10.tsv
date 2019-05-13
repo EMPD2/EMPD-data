@@ -1,14 +1,13 @@
 samplename	original_varname	acc_varname	groupid	count	percentage
 Odgaard_a10	Alnus	Alnus	TRSH	178	15.265866
 Odgaard_a10	Betula	Betula	TRSH	139	11.921098
-Odgaard_a10	Calluna	Calluna	DWAR	4	0.34305317
+Odgaard_a10	Calluna	Calluna vulgaris	DWAR	4	0.34305317
 Odgaard_a10	Carpinus	Carpinus betulus	TRSH	7	0.60034305
 Odgaard_a10	Castanea	Castanea sativa	TRSH	1	0.085763293
 Odgaard_a10	Corylus	Corylus	TRSH	36	3.0874786
 Odgaard_a10	Cupressaceae	Cupressaceae undiff.	TRSH	9	0.77186964
 Odgaard_a10	Fagus	Fagus	TRSH	74	6.3464837
 Odgaard_a10	Fraxinus	Fraxinus	TRSH	8	0.68610635
-Odgaard_a10	Hedera helix	Hedera helix	LIAN	1	0.085763293
 Odgaard_a10	Ilex	Ilex	TRSH	1	0.085763293
 Odgaard_a10	Picea	Picea	TRSH	10	0.85763293
 Odgaard_a10	Pinus	Pinus	TRSH	79	6.7753002
@@ -16,18 +15,19 @@ Odgaard_a10	Populus	Populus	TRSH	7	0.60034305
 Odgaard_a10	Malus	Prunus-type	TRSH	1	0.085763293
 Odgaard_a10	Prunus	Prunus-type	TRSH	1	0.085763293
 Odgaard_a10	Quercus	Quercus	TRSH	93	7.9759863
-Odgaard_a10	Rosaceae undifferentiated	Rosaceae undifferentiated	TRSH	1	0.085763293
-Odgaard_a10	Rubus idaeus-type	Rubus idaeus-type	TRSH	1	0.085763293
+Odgaard_a10	Rosaceae undiff.	Rosa	TRSH	1	0.085763293
+Odgaard_a10	Rubus idaeus-type	Rubus	TRSH	1	0.085763293
 Odgaard_a10	Salix	Salix	TRSH	11	0.94339623
 Odgaard_a10	Sambucus	Sambucus	TRSH	11	0.94339623
 Odgaard_a10	Sorbus	Sorbus-type	TRSH	1	0.085763293
 Odgaard_a10	Tilia	Tilia	TRSH	2	0.17152659
 Odgaard_a10	Tsuga	Tsuga	TRSH	1	0.085763293
 Odgaard_a10	Ulmus	Ulmus/Zelkova	TRSH	68	5.8319039
+Odgaard_a10	Hedera helix	Hedera	LIAN	1	0.085763293
 Odgaard_a10	Lysimachia	Anagallis-type	HERB	1	0.085763293
 Odgaard_a10	Anthriscus sylvestris-type	Anthriscus sylvestris-type	HERB	1	0.085763293
 Odgaard_a10	Artemisia	Artemisia	HERB	8	0.68610635
-Odgaard_a10	Avena/Triticum	Avena/Triticum	HERB	6	0.51457976
+Odgaard_a10	Avena/Triticum	Avena/Triticum-type	HERB	6	0.51457976
 Odgaard_a10	Brassicaceae	Brassicaceae	HERB	1	0.085763293
 Odgaard_a10	Centaurea cyanus	Centaurea cyanus-type	HERB	1	0.085763293
 Odgaard_a10	Cerastium-type	Cerastium-type	HERB	1	0.085763293
@@ -44,19 +44,19 @@ Odgaard_a10	Poaceae	Poaceae	HERB	306	26.243568
 Odgaard_a10	Polygonum aviculare	Polygonum aviculare-type	HERB	2	0.17152659
 Odgaard_a10	Fragaria	Potentilla-type	HERB	1	0.085763293
 Odgaard_a10	Potentilla-type	Potentilla-type	HERB	1	0.085763293
-Odgaard_a10	Ranunculus sceleratus-group	Ranunculus sceleratus-group	HERB	1	0.085763293
+Odgaard_a10	Ranunculus sceleratus-group	Ranunculus sceleratus-type	HERB	1	0.085763293
 Odgaard_a10	Rheum	Rheum	HERB	1	0.085763293
-Odgaard_a10	Rhinanthus-type undifferentiated	Rhinanthus-type undifferentiated	HERB	1	0.085763293
+Odgaard_a10	Rhinanthus-type undiff.	Rhinanthus-type	HERB	1	0.085763293
 Odgaard_a10	Rumex acetosella-type	Rumex acetosella	HERB	8	0.68610635
 Odgaard_a10	Trifolium repens-type	Trifolium repens-type	HERB	1	0.085763293
 Odgaard_a10	Urtica	Urtica	HERB	21	1.8010292
 Odgaard_a10	Veronica-type	Veronica-type	HERB	1	0.085763293
-Odgaard_a10	Caltha palustris	Caltha palustris	HELO	1	0.085763293
-Odgaard_a10	Carex	Carex	HELO	14	1.2006861
-Odgaard_a10	Schoenoplectus-type	Schoenoplectus-type	AQUA	3	0.25728988
-Odgaard_a10	Schoenus-type	Schoenus-type	AQUA	1	0.085763293
-Odgaard_a10	Sparganium-type	Sparganium-type	AQUA	18	1.5437393
 Odgaard_a10	Dryopteris	Dryopteris-type	VACR	7	0.60034305
 Odgaard_a10	Equisetum	Equisetum	VACR	3	0.25728988
-Odgaard_a10	Gymnocarpium	Gymnocarpium	VACR	3	0.25728988
+Odgaard_a10	Gymnocarpium	Gymnocarpium dryopteris	VACR	3	0.25728988
 Odgaard_a10	Pteridium	Pteridium	VACR	3	0.25728988
+Odgaard_a10	Caltha palustris	Caltha palustris	AQUA	1	0.085763293
+Odgaard_a10	Carex	Carex	AQUA	14	1.2006861
+Odgaard_a10	Schoenus-type	Schoenus	AQUA	1	0.085763293
+Odgaard_a10	Schoenoplectus-type	Scirpus-type	AQUA	3	0.25728988
+Odgaard_a10	Sparganium-type	Sparganium-type	AQUA	18	1.5437393

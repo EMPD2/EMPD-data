@@ -1,24 +1,24 @@
-samplename	original_varname	acc_varname	groupid	count	percentage	notes
-Schofield_a22	Betula glandulosa	Betula glandulosa	TRSH	6	0.97879282	GroupID taken from spreadsheet
-Schofield_a22	Betula pubescens	Betula pubescens-type	TRSH	18	2.9363785	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Schofield_a22	Juniperus communis	Juniperus communis-type	TRSH	1	0.16313214	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Schofield_a22	Picea	Picea	TRSH	1	0.16313214	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Schofield_a22	Salix	Salix	TRSH	38	6.1990212	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Schofield_a22	Lactuceae	Asteraceae subf. Cichorioideae	HERB	1	0.16313214	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Schofield_a22	Campanula gieseckiana	Campanula giesekiana	HERB	5	0.81566069	GroupID taken from spreadsheet
-Schofield_a22	Cerastium-type	Cerastium-type	HERB	2	0.32626427	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Schofield_a22	Cyperaceae	Cyperaceae	HERB	39	6.3621533	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Schofield_a22	Poaceae	Poaceae	HERB	310	50.570962	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Schofield_a22	Potentilla-type	Potentilla-type	HERB	19	3.0995106	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Schofield_a22	Ranunculus acris	Ranunculus acris-type	HERB	8	1.3050571	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Schofield_a22	Rhinanthus-type	Rhinanthus-type	HERB	4	0.65252855	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Schofield_a22	Rumex acetosa	Rumex acetosa-type	HERB	19	3.0995106	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Schofield_a22	Thalictrum alpinum	Thalictrum alpinum-type	HERB	37	6.0358891	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Schofield_a22	Menyanthes trifoliata	Menyanthes trifoliata	AQUA	3	0.48939641	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Schofield_a22	Unknown	Indeterminable: unknown	INUN	1		GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Schofield_a22	Damaged/indeterminable	Indeterminable: unknown	INUN	21		GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Schofield_a22	Botrychium	Botrychium	VACR	2	0.32626427	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Schofield_a22	Equisitum	Equisetum	VACR	6	0.97879282	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Schofield_a22	Huperzia selago	Huperzia selago	VACR	2	0.32626427	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Schofield_a22	Lycopodium annotinum	Lycopodium annotinum-type	VACR	24	3.9151713	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Schofield_a22	Pteropsida (monolete) indet.	Monolete fern spores	VACR	71	11.582382	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+samplename	original_varname	acc_varname	groupid	count	percentage
+Schofield_a22	Betula glandulosa	Betula glandulosa	TRSH	6	0.97879282
+Schofield_a22	Betula pubescens	Betula pubescens-type	TRSH	18	2.9363785
+Schofield_a22	Juniperus communis	Juniperus communis-type	TRSH	1	0.16313214
+Schofield_a22	Picea	Picea	TRSH	1	0.16313214
+Schofield_a22	Salix	Salix	TRSH	38	6.1990212
+Schofield_a22	Lactuceae	Asteraceae subf. Cichorioideae	HERB	1	0.16313214
+Schofield_a22	Campanula gieseckiana	Campanula giesekiana	HERB	5	0.81566069
+Schofield_a22	Cerastium-type	Cerastium-type	HERB	2	0.32626427
+Schofield_a22	Cyperaceae	Cyperaceae	HERB	39	6.3621533
+Schofield_a22	Poaceae	Poaceae	HERB	310	50.570962
+Schofield_a22	Potentilla-type	Potentilla-type	HERB	19	3.0995106
+Schofield_a22	Ranunculus acris	Ranunculus acris-type	HERB	8	1.3050571
+Schofield_a22	Rhinanthus-type	Rhinanthus-type	HERB	4	0.65252855
+Schofield_a22	Rumex acetosa	Rumex acetosa-type	HERB	19	3.0995106
+Schofield_a22	Thalictrum alpinum	Thalictrum alpinum-type	HERB	37	6.0358891
+Schofield_a22	Botrychium	Botrychium	VACR	2	0.32626427
+Schofield_a22	Equisitum	Equisetum	VACR	6	0.97879282
+Schofield_a22	Huperzia selago	Huperzia selago	VACR	2	0.32626427
+Schofield_a22	Lycopodium annotinum	Lycopodium annotinum-type	VACR	24	3.9151713
+Schofield_a22	Pteropsida (monolete) indet.	Monolete fern spores	VACR	71	11.582382
+Schofield_a22	Menyanthes trifoliata	Menyanthes trifoliata	AQUA	3	0.48939641
+Schofield_a22	Unknown	Indeterminable: unknown	INUN	1	
+Schofield_a22	Damaged/indeterminable	Indeterminable: unknown	INUN	21	

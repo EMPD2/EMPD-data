@@ -1,26 +1,26 @@
-samplename	original_varname	acc_varname	groupid	count	percentage	notes
-Leroy_e2	Melia	Abies	TRSH	4	1.1080332	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Leroy_e2	Alnus	Alnus	TRSH	151	41.828255	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Leroy_e2	Carpinus betulus	Carpinus betulus	TRSH	28	7.7562327	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Leroy_e2	E. fragilis-t.	Ephedra fragilis-type	TRSH	1	0.27700831	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Leroy_e2	Juglans	Juglans	TRSH	3	0.83102493	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Leroy_e2	C. orientalis	Ostrya/Carpinus orientalis	TRSH	1	0.27700831	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Leroy_e2	Pinus	Pinus	TRSH	3	0.83102493	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Leroy_e2	Platanus	Platanus	TRSH	1	0.27700831	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Leroy_e2	Pterocarya	Pterocarya	TRSH	5	1.3850416	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Leroy_e2	Quercus deciduous	Quercus robur-type	TRSH	3	0.83102493	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Leroy_e2	Rosaceae	Rosaceae	TRSH	2	0.55401662	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
-Leroy_e2	Salix	Salix	TRSH	1	0.27700831	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Leroy_e2	Ulmus-Zelkova	Ulmus/Zelkova	TRSH	1	0.27700831	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Leroy_e2	Apiaceae	Apiaceae	HERB	10	2.7700831	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Leroy_e2	Artemisia	Artemisia	HERB	58	16.066482	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Leroy_e2	Brassicaceae	Brassicaceae	HERB	3	0.83102493	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Leroy_e2	Cerealia-t.	Cerealia-type	HERB	4	1.1080332	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Leroy_e2	Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	11	3.0470914	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Leroy_e2	Convolvulaceae	Convolvulaceae undiff.	HERB	1	0.27700831	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Leroy_e2	Poaceae	Poaceae	HERB	68	18.836565	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Leroy_e2	P. avic.-bistorta	Polygonum-type (tricolporate)	HERB	1	0.27700831	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Leroy_e2	Rumex	Rumex/Oxyria	HERB	1	0.27700831	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Leroy_e2	Typha-Sparganium	Sparganium-type	AQUA	137	37.950139	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Leroy_e2	T. latifolia-t.	Typha latifolia-type	HELO	1	0.27700831	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Leroy_e2	Indeterminable	Indeterminable: unknown	INUN	51		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+samplename	original_varname	acc_varname	groupid	count	percentage
+Leroy_e2	Melia	Abies	TRSH	4	1.1080332
+Leroy_e2	Alnus	Alnus	TRSH	151	41.828255
+Leroy_e2	Carpinus betulus	Carpinus betulus	TRSH	28	7.7562327
+Leroy_e2	E. fragilis-t.	Ephedra fragilis-type	TRSH	1	0.27700831
+Leroy_e2	Juglans	Juglans	TRSH	3	0.83102493
+Leroy_e2	C. orientalis	Ostrya/Carpinus orientalis	TRSH	1	0.27700831
+Leroy_e2	Pinus	Pinus	TRSH	3	0.83102493
+Leroy_e2	Platanus	Platanus	TRSH	1	0.27700831
+Leroy_e2	Pterocarya	Pterocarya	TRSH	5	1.3850416
+Leroy_e2	Quercus deciduous	Quercus robur-type	TRSH	3	0.83102493
+Leroy_e2	Rosaceae	Rosaceae	TRSH	2	0.55401662
+Leroy_e2	Salix	Salix	TRSH	1	0.27700831
+Leroy_e2	Ulmus-Zelkova	Ulmus/Zelkova	TRSH	1	0.27700831
+Leroy_e2	Apiaceae	Apiaceae	HERB	10	2.7700831
+Leroy_e2	Artemisia	Artemisia	HERB	58	16.066482
+Leroy_e2	Brassicaceae	Brassicaceae	HERB	3	0.83102493
+Leroy_e2	Cerealia-t.	Cerealia-type	HERB	4	1.1080332
+Leroy_e2	Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	11	3.0470914
+Leroy_e2	Convolvulaceae	Convolvulaceae undiff.	HERB	1	0.27700831
+Leroy_e2	Poaceae	Poaceae	HERB	68	18.836565
+Leroy_e2	P. avic.-bistorta	Polygonum-type (tricolporate)	HERB	1	0.27700831
+Leroy_e2	Rumex	Rumex/Oxyria	HERB	1	0.27700831
+Leroy_e2	Typha-Sparganium	Sparganium-type	AQUA	137	37.950139
+Leroy_e2	T. latifolia-t.	Typha latifolia-type	HELO	1	0.27700831
+Leroy_e2	Indeterminable	Indeterminable: unknown	INUN	51	

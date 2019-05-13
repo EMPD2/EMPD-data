@@ -1,28 +1,28 @@
-samplename	original_varname	acc_varname	groupid	count	percentage	notes
-Blyakharchuk_a26	Abies sibirica	Abies sibirica	TRSH	7	1.3333333	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Blyakharchuk_a26	Betula nana	Betula nana-type	DWAR	14	2.6666667	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Blyakharchuk_a26	Betula pendula	Betula pubescens-type	TRSH	97	18.47619	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Blyakharchuk_a26	Betula pubescens	Betula pubescens-type	TRSH	9	1.7142857	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Blyakharchuk_a26	Larix sibirica	Larix/Pseudotsuga	TRSH	3	0.57142857	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Blyakharchuk_a26	Picea obovata	Picea abies-type	TRSH	1	0.19047619	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Blyakharchuk_a26	Pinus sibirica	Pinus cembra-type	TRSH	36	6.8571429	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Blyakharchuk_a26	Pinus sylvestris	Pinus sylvestris-type	TRSH	45	8.5714286	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Blyakharchuk_a26	Rosaceae	Rosaceae	TRSH	6	1.1428571	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
-Blyakharchuk_a26	Salix	Salix	TRSH	1	0.19047619	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Blyakharchuk_a26	Androsace	Androsace	HERB	5	0.95238095	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Blyakharchuk_a26	Artemisia	Artemisia	HERB	25	4.7619048	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Blyakharchuk_a26	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	52	9.9047619	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Blyakharchuk_a26	Boraginaceae	Boraginaceae	HERB	1	0.19047619	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Blyakharchuk_a26	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	11	2.0952381	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Blyakharchuk_a26	Cyperaceae	Cyperaceae	HERB	45	8.5714286	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Blyakharchuk_a26	Fabaceaa	Fabaceae	HERB	4	0.76190476	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Blyakharchuk_a26	Gentianaceae	Gentianaceae	HERB	1	0.19047619	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Blyakharchuk_a26	Hordeum	Hordeum-type	HERB	11	2.0952381	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Blyakharchuk_a26	Hipericum type	Hypericum	HERB	4	0.76190476	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Blyakharchuk_a26	Lamiaceae	Lamiaceae	HERB	1	0.19047619	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Blyakharchuk_a26	Poaceae	Poaceae	HERB	116	22.095238	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Blyakharchuk_a26	Potentilla	Potentilla-type	HERB	2	0.38095238	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Blyakharchuk_a26	Bryales	Bryophyte spores	BRYO	10	1.9047619	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Blyakharchuk_a26	Monolete	Monolete fern spores	VACR	17	3.2380952	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Blyakharchuk_a26	Sphagnum	Sphagnum	NOPO	1		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Blyakharchuk_a26	Trilete	Trilete spore(s)	VACR	1	0.19047619	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+samplename	original_varname	acc_varname	groupid	count	percentage
+Blyakharchuk_a26	Abies sibirica	Abies sibirica	TRSH	7	1.3333333
+Blyakharchuk_a26	Betula nana	Betula nana-type	DWAR	14	2.6666667
+Blyakharchuk_a26	Betula pubescens	Betula pubescens-type	TRSH	9	1.7142857
+Blyakharchuk_a26	Betula pendula	Betula pubescens-type	TRSH	97	18.47619
+Blyakharchuk_a26	Larix sibirica	Larix/Pseudotsuga	TRSH	3	0.57142857
+Blyakharchuk_a26	Picea obovata	Picea abies-type	TRSH	1	0.19047619
+Blyakharchuk_a26	Pinus sibirica	Pinus cembra-type	TRSH	36	6.8571429
+Blyakharchuk_a26	Pinus sylvestris	Pinus sylvestris-type	TRSH	45	8.5714286
+Blyakharchuk_a26	Rosaceae	Rosaceae	TRSH	6	1.1428571
+Blyakharchuk_a26	Salix	Salix	TRSH	1	0.19047619
+Blyakharchuk_a26	Androsace	Androsace	HERB	5	0.95238095
+Blyakharchuk_a26	Artemisia	Artemisia	HERB	25	4.7619048
+Blyakharchuk_a26	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	52	9.9047619
+Blyakharchuk_a26	Boraginaceae	Boraginaceae	HERB	1	0.19047619
+Blyakharchuk_a26	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	11	2.0952381
+Blyakharchuk_a26	Cyperaceae	Cyperaceae	HERB	45	8.5714286
+Blyakharchuk_a26	Fabaceaa	Fabaceae	HERB	4	0.76190476
+Blyakharchuk_a26	Gentianaceae	Gentianaceae	HERB	1	0.19047619
+Blyakharchuk_a26	Hordeum	Hordeum-type	HERB	11	2.0952381
+Blyakharchuk_a26	Hipericum type	Hypericum	HERB	4	0.76190476
+Blyakharchuk_a26	Lamiaceae	Lamiaceae	HERB	1	0.19047619
+Blyakharchuk_a26	Poaceae	Poaceae	HERB	116	22.095238
+Blyakharchuk_a26	Potentilla	Potentilla-type	HERB	2	0.38095238
+Blyakharchuk_a26	Bryales	Bryophyte spores	BRYO	10	1.9047619
+Blyakharchuk_a26	Monolete	Monolete fern spores	VACR	17	3.2380952
+Blyakharchuk_a26	Trilete	Trilete spore(s)	VACR	1	0.19047619
+Blyakharchuk_a26	Sphagnum	Sphagnum	NOPO	1	

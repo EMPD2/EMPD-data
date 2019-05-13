@@ -344,11 +344,26 @@ def test_acc_varnames(counts, record_property):
     assert not len(failed), msg
 
 
-def test_counts(counts, record_property):
-    failed = counts[counts['count'].isnull() | counts['count'] < 0]
+def test_counts(counts, record_property, meta):
+    counts = counts.merge(meta[['ispercent']], left_on='samplename',
+                          right_index=True, how='left')
+    failed = counts[~counts['ispercent'] &
+                    (counts['count'].isnull() | (counts['count'] < 0))]
     if len(failed):
         record_property('failed_data', failed)
     msg = "Found %i rows with invalid count data: %s" % (
+        len(failed), textwrap.shorten(
+            ', '.join(failed.samplename.unique()), 80, placeholder='...'))
+    assert not len(failed), msg
+
+
+def test_percentages(counts, record_property, groupids_table, meta):
+    counts = counts.merge(groupids_table, on='groupid')
+    counts = counts[counts.percent_values]
+    failed = counts[counts['percentage'].isnull() | (counts['percentage'] < 0)]
+    if len(failed):
+        record_property('failed_data', failed)
+    msg = "Found %i rows with invalid percentage data: %s" % (
         len(failed), textwrap.shorten(
             ', '.join(failed.samplename.unique()), 80, placeholder='...'))
     assert not len(failed), msg

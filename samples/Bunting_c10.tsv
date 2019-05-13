@@ -1,35 +1,35 @@
-samplename	original_varname	acc_varname	groupid	count	percentage	notes
-Bunting_c10	Acer	Acer campestre-type	TRSH	1	0.15822785	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Bunting_c10	Alnus	Alnus	TRSH	11	1.7405063	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Bunting_c10	Betula	Betula	TRSH	27	4.2721519	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Bunting_c10	Calluna	Calluna vulgaris	TRSH	79	12.5	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Bunting_c10	Corylus type	Corylus	TRSH	1	0.15822785	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Bunting_c10	Empetrum	Empetrum nigrum	DWAR	1	0.15822785	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Bunting_c10	Fagus	Fagus	TRSH	2	0.3164557	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Bunting_c10	Fraxinus	Fraxinus	TRSH	4	0.63291139	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Bunting_c10	Juniperus	Juniperus communis-type	TRSH	5	0.79113924	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Bunting_c10	Myrica type	Myrica	TRSH	4	0.63291139	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Bunting_c10	Pinus sylvestris	Pinus sylvestris-type	TRSH	53	8.3860759	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Bunting_c10	Quercus	Quercus	TRSH	13	2.056962	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Bunting_c10	Salix	Salix	TRSH	1	0.15822785	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Bunting_c10	Ulmus	Ulmus/Zelkova	TRSH	1	0.15822785	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Bunting_c10	Vaccinium-type	Vaccinium-type	DWAR	17	2.6898734	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Bunting_c10	Artemisia type	Artemisia	HERB	5	0.79113924	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Bunting_c10	Asteraceae (C/A)	Asteraceae	HERB	1	0.15822785	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Bunting_c10	Brassicaceae	Brassicaceae	HERB	1	0.15822785	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Bunting_c10	Cereal type	Cerealia-type	HERB	5	0.79113924	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Bunting_c10	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.15822785	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Bunting_c10	Cyperaceae	Cyperaceae	HERB	20	3.164557	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Bunting_c10	Plantago lanceolata	Plantago lanceolata-type	HERB	1	0.15822785	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Bunting_c10	Poaceae	Poaceae	HERB	352	55.696203	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Bunting_c10	Ranunculus type	Ranunculus-type	HERB	1	0.15822785	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Bunting_c10	Rubiaceae	Rubiaceae	HERB	1	0.15822785	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
-Bunting_c10	Rumex undif.	Rumex/Oxyria	HERB	7	1.1075949	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Bunting_c10	Succisa pratensis	Succisa-type	HERB	1	0.15822785	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Bunting_c10	Urtica dioica	Urtica dioica	HERB	13	2.056962	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Bunting_c10	Exotic	Exotics (counted)	NOPO	995		GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Bunting_c10	Pteropsida (monolete) indet.	Monolete fern spores	VACR	3	0.47468354	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Bunting_c10	exotic per tablet	Number of exotics per tablet	NOPO	10793		GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Bunting_c10	sediment volume (cm^3)	Sediment volume	NOPO	1		GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Bunting_c10	Sphagnum	Sphagnum	NOPO	29		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Bunting_c10	number of exotic tablets	Tablets (added)	NOPO	2		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+samplename	original_varname	acc_varname	groupid	count	percentage
+Bunting_c10	Acer	Acer campestre-type	TRSH	1	0.15822785
+Bunting_c10	Alnus	Alnus	TRSH	11	1.7405063
+Bunting_c10	Betula	Betula	TRSH	27	4.2721519
+Bunting_c10	Calluna	Calluna vulgaris	TRSH	79	12.5
+Bunting_c10	Corylus type	Corylus	TRSH	1	0.15822785
+Bunting_c10	Empetrum	Empetrum nigrum	DWAR	1	0.15822785
+Bunting_c10	Fagus	Fagus	TRSH	2	0.3164557
+Bunting_c10	Fraxinus	Fraxinus	TRSH	4	0.63291139
+Bunting_c10	Juniperus	Juniperus communis-type	TRSH	5	0.79113924
+Bunting_c10	Myrica type	Myrica	TRSH	4	0.63291139
+Bunting_c10	Pinus sylvestris	Pinus sylvestris-type	TRSH	53	8.3860759
+Bunting_c10	Quercus	Quercus	TRSH	13	2.056962
+Bunting_c10	Salix	Salix	TRSH	1	0.15822785
+Bunting_c10	Ulmus	Ulmus/Zelkova	TRSH	1	0.15822785
+Bunting_c10	Vaccinium-type	Vaccinium-type	DWAR	17	2.6898734
+Bunting_c10	Artemisia type	Artemisia	HERB	5	0.79113924
+Bunting_c10	Asteraceae (C/A)	Asteraceae	HERB	1	0.15822785
+Bunting_c10	Brassicaceae	Brassicaceae	HERB	1	0.15822785
+Bunting_c10	Cereal type	Cerealia-type	HERB	5	0.79113924
+Bunting_c10	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.15822785
+Bunting_c10	Cyperaceae	Cyperaceae	HERB	20	3.164557
+Bunting_c10	Plantago lanceolata	Plantago lanceolata-type	HERB	1	0.15822785
+Bunting_c10	Poaceae	Poaceae	HERB	352	55.696203
+Bunting_c10	Ranunculus type	Ranunculus-type	HERB	1	0.15822785
+Bunting_c10	Rubiaceae	Rubiaceae	HERB	1	0.15822785
+Bunting_c10	Rumex undif.	Rumex/Oxyria	HERB	7	1.1075949
+Bunting_c10	Succisa pratensis	Succisa-type	HERB	1	0.15822785
+Bunting_c10	Urtica dioica	Urtica dioica	HERB	13	2.056962
+Bunting_c10	Pteropsida (monolete) indet.	Monolete fern spores	VACR	3	0.47468354
+Bunting_c10	Exotic	Exotics (counted)	NOPO	995	
+Bunting_c10	exotic per tablet	Number of exotics per tablet	NOPO	10793	
+Bunting_c10	sediment volume (cm^3)	Sediment volume	NOPO	1	
+Bunting_c10	Sphagnum	Sphagnum	NOPO	29	
+Bunting_c10	number of exotic tablets	Tablets (added)	NOPO	2	

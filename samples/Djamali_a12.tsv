@@ -1,30 +1,30 @@
-samplename	original_varname	acc_varname	groupid	count	percentage	notes
-Djamali_a12	Acer	Acer campestre-type	TRSH	2	0.20790021	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Djamali_a12	Alnus	Alnus	TRSH	7	0.72765073	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Djamali_a12	Berberis	Berberis	TRSH	1	0.1039501	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Djamali_a12	Carpinus	Carpinus betulus	TRSH	84	8.7318087	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Djamali_a12	Ephedra	Ephedra	TRSH	34	3.5343035	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Djamali_a12	Fagus	Fagus	TRSH	4	0.41580042	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Djamali_a12	Juniperus	Juniperus communis-type	TRSH	3	0.31185031	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Djamali_a12	Pinus	Pinus	TRSH	4	0.41580042	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Djamali_a12	Quercus	Quercus	TRSH	112	11.642412	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Djamali_a12	Paliurus spina-christi/Rhamnus	Rhamnus-type	TRSH	220	22.869023	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Djamali_a12	Rosaceae	Rosaceae	TRSH	21	2.1829522	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
-Djamali_a12	Tilia	Tilia	TRSH	1	0.1039501	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Djamali_a12	Zelkova/Ulmus	Ulmus/Zelkova	TRSH	20	2.0790021	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Djamali_a12	Apiaceae	Apiaceae	HERB	1	0.1039501	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Djamali_a12	Artemisia	Artemisia	HERB	15	1.5592516	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Djamali_a12	Astragalus-type	Astragalus-type	HERB	1	0.1039501	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Djamali_a12	Brassicaceae	Brassicaceae	HERB	1	0.1039501	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Djamali_a12	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	5	0.51975052	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Djamali_a12	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	13	1.3513514	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Djamali_a12	Convolvulus	Convolvulus	HERB	1	0.1039501	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Djamali_a12	Haplophyllum	Haplophyllum	HERB	1	0.1039501	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Djamali_a12	Jasminum fruticans	Jasminum fruticans	HERB	27	2.8066528	GroupID taken from spreadsheet
-Djamali_a12	Origanum vulgare	Origanum vulgare	HERB	2	0.20790021	GroupID taken from spreadsheet
-Djamali_a12	Poaceae	Poaceae	HERB	340	35.343035	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Djamali_a12	Polygonum aviculare-type	Polygonum aviculare-type	HERB	5	0.51975052	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Djamali_a12	Rubiaceae	Rubiaceae	HERB	26	2.7027027	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
-Djamali_a12	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	2	0.20790021	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Djamali_a12	Teucrium	Teucrium	HERB	7	0.72765073	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Djamali_a12	Viola	Viola	HERB	2	0.20790021	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+samplename	original_varname	acc_varname	groupid	count	percentage
+Djamali_a12	Acer	Acer campestre-type	TRSH	2	0.20790021
+Djamali_a12	Alnus	Alnus	TRSH	7	0.72765073
+Djamali_a12	Berberis	Berberis	TRSH	1	0.1039501
+Djamali_a12	Carpinus	Carpinus betulus	TRSH	84	8.7318087
+Djamali_a12	Ephedra	Ephedra	TRSH	34	3.5343035
+Djamali_a12	Fagus	Fagus	TRSH	4	0.41580042
+Djamali_a12	Juniperus	Juniperus communis-type	TRSH	3	0.31185031
+Djamali_a12	Pinus	Pinus	TRSH	4	0.41580042
+Djamali_a12	Quercus	Quercus	TRSH	112	11.642412
+Djamali_a12	Paliurus spina-christi/Rhamnus	Rhamnus-type	TRSH	220	22.869023
+Djamali_a12	Rosaceae	Rosaceae	TRSH	21	2.1829522
+Djamali_a12	Tilia	Tilia	TRSH	1	0.1039501
+Djamali_a12	Zelkova/Ulmus	Ulmus/Zelkova	TRSH	20	2.0790021
+Djamali_a12	Apiaceae	Apiaceae	HERB	1	0.1039501
+Djamali_a12	Artemisia	Artemisia	HERB	15	1.5592516
+Djamali_a12	Astragalus-type	Astragalus-type	HERB	1	0.1039501
+Djamali_a12	Brassicaceae	Brassicaceae	HERB	1	0.1039501
+Djamali_a12	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	5	0.51975052
+Djamali_a12	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	13	1.3513514
+Djamali_a12	Convolvulus	Convolvulus	HERB	1	0.1039501
+Djamali_a12	Haplophyllum	Haplophyllum	HERB	1	0.1039501
+Djamali_a12	Jasminum fruticans	Jasminum fruticans	HERB	27	2.8066528
+Djamali_a12	Origanum vulgare	Origanum vulgare	HERB	2	0.20790021
+Djamali_a12	Poaceae	Poaceae	HERB	340	35.343035
+Djamali_a12	Polygonum aviculare-type	Polygonum aviculare-type	HERB	5	0.51975052
+Djamali_a12	Rubiaceae	Rubiaceae	HERB	26	2.7027027
+Djamali_a12	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	2	0.20790021
+Djamali_a12	Teucrium	Teucrium	HERB	7	0.72765073
+Djamali_a12	Viola	Viola	HERB	2	0.20790021

@@ -1,28 +1,28 @@
-samplename	original_varname	acc_varname	groupid	count	percentage	notes
-Muller_a3	Alnus fruticosa	Alnus viridis	TRSH	9	2.6785714	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Muller_a3	Betula sect. Nanae	Betula nana-type	DWAR	67	19.940476	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Muller_a3	Ericaceae	Ericales (tetrad)	DWAR	12	3.5714286	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Muller_a3	Larix	Larix/Pseudotsuga	TRSH	2	0.5952381	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Muller_a3	Pinaceae	Pinaceae	TRSH	9	2.6785714	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Muller_a3	Pinus diploxylon-type	Pinus sylvestris-type	TRSH	10	2.9761905	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Muller_a3	Rosaceae	Rosaceae	TRSH	4	1.1904762	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
-Muller_a3	Salix	Salix	TRSH	9	2.6785714	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Muller_a3	Ericaceae vaccinium-type	Vaccinium	DWAR	43	12.797619	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Muller_a3	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	3	0.89285714	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Muller_a3	Cyperaceae	Cyperaceae	HERB	81	24.107143	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Muller_a3	Fabaceae	Fabaceae	HERB	4	1.1904762	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Muller_a3	Poaceae	Poaceae	HERB	49	14.583333	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Muller_a3	Polygonum viviparum-type	Polygonum viviparum	HERB	1	0.29761905	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Muller_a3	Saxifragaceae	Saxifragaceae	HERB	3	0.89285714	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Muller_a3	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	1	0.29761905	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Muller_a3	Caryophyllaceae stellaria holostea-type	Stellaria holostea	HERB	1	0.29761905	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Muller_a3	Pollen indeterminata	Indeterminable: unknown	INUN	3		GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Muller_a3	Pollen, terrestrial	Indeterminable: unknown	INUN	311		GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Muller_a3	Botrychium	Botrychium	VACR	23	6.8452381	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Muller_a3	Equisetum	Equisetum	VACR	1	0.29761905	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Muller_a3	Lycopodium spores counted	Lycopodium (counted)	NOPO	1152		GroupID taken from spreadsheet
-Muller_a3	Microthyrium	Microthyrium	FUNG	14		GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Muller_a3	Polypodiaceae	Monolete fern spores	VACR	4	1.1904762	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Muller_a3	Pollen per unit sediment mass	Pollen per unit sediment mass (/g)	NOPO	577		GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Muller_a3	Sphagnum	Sphagnum	NOPO	2		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Muller_a3	Stomata	Stomata	VEMI	17		GroupID taken from POLNET. Only one taxon matched that acc_varname.
+samplename	original_varname	acc_varname	groupid	count	percentage
+Muller_a3	Alnus fruticosa	Alnus viridis	TRSH	9	2.6785714
+Muller_a3	Betula sect. Nanae	Betula nana-type	DWAR	67	19.940476
+Muller_a3	Ericaceae	Ericales (tetrad)	DWAR	12	3.5714286
+Muller_a3	Larix	Larix/Pseudotsuga	TRSH	2	0.5952381
+Muller_a3	Pinaceae	Pinaceae	TRSH	9	2.6785714
+Muller_a3	Pinus diploxylon-type	Pinus sylvestris-type	TRSH	10	2.9761905
+Muller_a3	Rosaceae	Rosaceae	TRSH	4	1.1904762
+Muller_a3	Salix	Salix	TRSH	9	2.6785714
+Muller_a3	Ericaceae vaccinium-type	Vaccinium	DWAR	43	12.797619
+Muller_a3	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	3	0.89285714
+Muller_a3	Cyperaceae	Cyperaceae	HERB	81	24.107143
+Muller_a3	Fabaceae	Fabaceae	HERB	4	1.1904762
+Muller_a3	Poaceae	Poaceae	HERB	49	14.583333
+Muller_a3	Polygonum viviparum-type	Polygonum viviparum	HERB	1	0.29761905
+Muller_a3	Saxifragaceae	Saxifragaceae	HERB	3	0.89285714
+Muller_a3	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	1	0.29761905
+Muller_a3	Caryophyllaceae stellaria holostea-type	Stellaria holostea	HERB	1	0.29761905
+Muller_a3	Botrychium	Botrychium	VACR	23	6.8452381
+Muller_a3	Equisetum	Equisetum	VACR	1	0.29761905
+Muller_a3	Polypodiaceae	Monolete fern spores	VACR	4	1.1904762
+Muller_a3	Pollen indeterminata	Indeterminable: unknown	INUN	3	
+Muller_a3	Pollen, terrestrial	Indeterminable: unknown	INUN	311	
+Muller_a3	Lycopodium spores counted	Lycopodium (counted)	NOPO	1152	
+Muller_a3	Microthyrium	Microthyrium	FUNG	14	
+Muller_a3	Pollen per unit sediment mass	Pollen per unit sediment mass (/g)	NOPO	577	
+Muller_a3	Sphagnum	Sphagnum	NOPO	2	
+Muller_a3	Stomata	Stomata	VEMI	17	

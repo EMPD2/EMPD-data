@@ -35,11 +35,16 @@ parser.add_argument(
 parser.add_argument(
     '-db', '--database-url', default=os.getenv('DATABASE_URL'),
     help="The url to connect to the database. Default: %(default)s")
+parser.add_argument(
+    '-nd', '--no-dump', action='store_true',
+    help="Do not update the `meta` file or any associated tables.")
 
 args = parser.parse_args()
 
 meta = args.meta
 db_url = args.database_url
+
+dump_tables = not args.no_dump
 
 samples_dir = os.path.join(os.path.dirname(meta), 'samples')
 base_meta = os.path.join(os.path.dirname(meta), 'meta.tsv')
@@ -116,7 +121,7 @@ for key, row in METADATA[METADATA.okexcept.astype(bool)].iterrows():
         orig_METADATA.loc[key, 'okexcept'] = ','.join(row_okexcept)
         save_orig = True
 
-if save_orig:
+if save_orig and dump_tables:
     try:
         orig_METADATA.to_csv(meta, sep='\t', index=False, float_format='%1.8g')
     except PermissionError:
@@ -145,10 +150,11 @@ for col, vals in okexcept.items():
                 '({})'.format(', '.join(map(is_null_str, v)))
                 for v in new_vals)))
         conn.commit()
-        try:
-            df.to_csv(fname, sep='\t', index=False)
-        except PermissionError:
-            pass
+        if dump_tables:
+            try:
+                df.to_csv(fname, sep='\t', index=False)
+            except PermissionError:
+                pass
 
 
 METADATA.replace(np.nan, '', inplace=True)

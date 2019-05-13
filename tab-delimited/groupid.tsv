@@ -1,11 +1,11 @@
-groupid	groupname	higher_groupid	included_in_percent_sum	make_percent
+groupid	groupname	higher_groupid	used_in_sum	percent_values
+ACRI	Acritarchs	NOPO	f	f
 ALGA	Algae	AQUA	f	t
-AQBR	Aquatic Bryophytes	NOPO	f	t
+AQBR	Aquatic Bryophytes	AQUA	f	t
 AQPT	Aquatic Pteridophyta	AQUA	f	t
 AQUA	Aquatics	AQUA	f	t
 AQVP	Aquatic Vascular Plants	AQUA	f	t
-BRYO	Bryophytes	NOPO	t	t
-BRYO/VACR	TO BE REMOVED	TBR	f	f
+BRYO	Bryophytes	VACR	t	t
 CHAR	Charcoal	CHAR	f	f
 CHLO	Chlorophytes	NOPO	f	f
 CYAN	Cyanobacteria	NOPO	f	f
@@ -13,11 +13,14 @@ DINO	Dinoflagellates	NOPO	f	f
 DWAR	Dwarf shrubs	TRSH	t	t
 FUNG	Fungi	NOPO	f	f
 HELO	Helophytes	AQUA	f	t
+HEMI	Hemi-parasitic	NOPO	f	f
 HERB	Herbs	HERB	t	t
 INUN	Indeterminables and unknowns	INUN	f	f
 INVE	Invertebrates	NOPO	f	f
-LIAN	Liana	TRSH	t	t
+LIAN	Liana	LIAN	t	t
 MACR	Macrofossils	NOPO	f	f
+MICR	Microcrustaceans	NOPO	f	f
+NEMA	Nematoda (roundworms)	NOPO	f	f
 NOPO	Nonpollen	NOPO	f	f
 PLAT	Platyhelminthes (flatworms)	NOPO	f	f
 PREQ	Pre-Quaternary type	NOPO	f	f
@@ -25,15 +28,10 @@ RHIZ	Rhizopods	NOPO	f	f
 ROTI	Rotifera (Rotifers)	NOPO	f	f
 SPOR	Taxonomically undifferentiated spores	INUN	f	f
 TEAM	Testate amoebae	NOPO	f	f
-TRSH	Trees and shrubs	TRSH	t	t
+TRSH	Trees & Shrubs	TRSH	t	t
 UNPP	Undifferentiated NPP	INUN	f	f
-UPBR	Upland Bryophytes	NOPO	t	t
+UPBR	Upland Bryophytes	VACR	t	t
 UPHE	Upland herbs	HERB	t	t
-VACR	Vascular cryptogams (Pteridophytes)	NOPO	t	t
+VACR	Vascular cryptogams (Pteridophytes)	VACR	t	t
 VEMI	Vegetative microfossils	NOPO	f	f
-NEMA	Nematoda (roundworms)	NOPO	f	f
-ACRI	Acritarchs	NOPO	f	f
-EUMY	Eumycete	NOPO	f	f
-HEMI	Hemi-parasitic	NOPO	f	f
-MOSS	Moss	NOPO	f	f
-MICR	Microcrustaceans	NOPO	f	f
+MOSS	Moss	VACR	t	t

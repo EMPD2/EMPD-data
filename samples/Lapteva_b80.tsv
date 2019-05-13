@@ -1,20 +1,20 @@
-samplename	original_varname	acc_varname	groupid	count	percentage	notes
-Lapteva_b80	Abies sibirica	Abies sibirica	TRSH	2	0.49751244	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Lapteva_b80	Alnus glutinosa-type	Alnus glutinosa-type	TRSH	6	1.4925373	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Lapteva_b80	Betula nana=Betula sect. Nanae	Betula nana-type	DWAR	1	0.24875622	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Lapteva_b80	Betula sect. Albae	Betula pubescens-type	TRSH	75	18.656716	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Lapteva_b80	Picea	Picea	TRSH	24	5.9701493	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Lapteva_b80	Pinus sibirica=Pinus s/g Haploxylon	Pinus cembra-type	TRSH	1	0.24875622	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Lapteva_b80	Pinus sylvestris=Pinus s/g Diploxylon	Pinus sylvestris-type	TRSH	250	62.189055	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Lapteva_b80	Rosaceae	Rosaceae	TRSH	1	0.24875622	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
-Lapteva_b80	Artemisia	Artemisia	HERB	4	0.99502488	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Lapteva_b80	Cyperaceae	Cyperaceae	HERB	12	2.9850746	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Lapteva_b80	Fabaceae	Fabaceae	HERB	3	0.74626866	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Lapteva_b80	Poaceae	Poaceae	HERB	13	3.2338308	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Lapteva_b80	Polygonaceae	Polygonaceae	HERB	1	0.24875622	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Lapteva_b80	Ranunculaceae	Ranunculaceae	HERB	1	0.24875622	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Lapteva_b80	Rubiaceae	Rubiaceae	HERB	1	0.24875622	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
-Lapteva_b80	Bryales	Bryophyte spores	BRYO	1	0.24875622	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Lapteva_b80	Lycopodium clavatum-type	Lycopodium clavatum-type	VACR	1	0.24875622	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Lapteva_b80	Polypodiophyta	Monolete fern spores	VACR	5	1.2437811	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Lapteva_b80	Sphagnum	Sphagnum	NOPO	3		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+samplename	original_varname	acc_varname	groupid	count	percentage
+Lapteva_b80	Abies sibirica	Abies sibirica	TRSH	2	0.49751244
+Lapteva_b80	Alnus glutinosa-type	Alnus glutinosa-type	TRSH	6	1.4925373
+Lapteva_b80	Betula nana=Betula sect. Nanae	Betula nana-type	DWAR	1	0.24875622
+Lapteva_b80	Betula sect. Albae	Betula pubescens-type	TRSH	75	18.656716
+Lapteva_b80	Picea	Picea	TRSH	24	5.9701493
+Lapteva_b80	Pinus sibirica=Pinus s/g Haploxylon	Pinus cembra-type	TRSH	1	0.24875622
+Lapteva_b80	Pinus sylvestris=Pinus s/g Diploxylon	Pinus sylvestris-type	TRSH	250	62.189055
+Lapteva_b80	Rosaceae	Rosaceae	TRSH	1	0.24875622
+Lapteva_b80	Artemisia	Artemisia	HERB	4	0.99502488
+Lapteva_b80	Cyperaceae	Cyperaceae	HERB	12	2.9850746
+Lapteva_b80	Fabaceae	Fabaceae	HERB	3	0.74626866
+Lapteva_b80	Poaceae	Poaceae	HERB	13	3.2338308
+Lapteva_b80	Polygonaceae	Polygonaceae	HERB	1	0.24875622
+Lapteva_b80	Ranunculaceae	Ranunculaceae	HERB	1	0.24875622
+Lapteva_b80	Rubiaceae	Rubiaceae	HERB	1	0.24875622
+Lapteva_b80	Bryales	Bryophyte spores	BRYO	1	0.24875622
+Lapteva_b80	Lycopodium clavatum-type	Lycopodium clavatum-type	VACR	1	0.24875622
+Lapteva_b80	Polypodiophyta	Monolete fern spores	VACR	5	1.2437811
+Lapteva_b80	Sphagnum	Sphagnum	NOPO	3	

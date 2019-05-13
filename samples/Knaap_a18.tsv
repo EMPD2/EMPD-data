@@ -5,7 +5,7 @@ Knaap_a18	Ailanthus	Ailanthus	TRSH	1	0.051759834
 Knaap_a18	Alnus glutinosa-type	Alnus glutinosa-type	TRSH	35	1.8115942
 Knaap_a18	Alnus viridis	Alnus viridis	TRSH	57	2.9503106
 Knaap_a18	Betula	Betula	TRSH	100	5.1759834
-Knaap_a18	Calluna vulgaris	Calluna vulgaris	TRSH	4	0.20703934
+Knaap_a18	Calluna vulgaris	Calluna vulgaris	DWAR	4	0.20703934
 Knaap_a18	Castanea sativa	Castanea sativa	TRSH	14	0.72463768
 Knaap_a18	Corylus avellana	Corylus	TRSH	13	0.67287785
 Knaap_a18	Ericaceae	Ericales (tetrad)	DWAR	2	0.10351967
@@ -18,29 +18,28 @@ Knaap_a18	Larix	Larix/Pseudotsuga	TRSH	45	2.3291925
 Knaap_a18	Ostrya-type	Ostrya/Carpinus orientalis	TRSH	3	0.1552795
 Knaap_a18	Picea	Picea	TRSH	250	12.939959
 Knaap_a18	Pinus cembra	Pinus cembra-type	TRSH	40	2.0703934
-Knaap_a18	Pinus subgen. Pinus	Pinus subgen. Pinus	TRSH	29	1.5010352
+Knaap_a18	Pinus subg. Pinus	Pinus sylvestris-type	TRSH	29	1.5010352
 Knaap_a18	Platanus	Platanus	TRSH	1	0.051759834
 Knaap_a18	Quercus	Quercus	TRSH	12	0.62111801
 Knaap_a18	Rubus	Rubus	TRSH	1	0.051759834
 Knaap_a18	Sambucus nigra	Sambucus nigra	TRSH	1	0.051759834
 Knaap_a18	Sorbus-type	Sorbus-type	TRSH	5	0.25879917
 Knaap_a18	Ulmus	Ulmus/Zelkova	TRSH	2	0.10351967
+Knaap_a18	Cuscuta	Cuscuta	LIAN	1	0.051759834
 Knaap_a18	Aconitum	Aconitum	HERB	2	0.10351967
 Knaap_a18	Ambrosia	Ambrosia	HERB	1	0.051759834
-Knaap_a18	Anemone nemorosa-type	Anemone nemorosa-type	HERB	29	1.5010352
 Knaap_a18	Pulsatilla	Anemone nemorosa-type	HERB	1	0.051759834
+Knaap_a18	Anemone nemorosa-type	Anemone nemorosa-type	HERB	29	1.5010352
 Knaap_a18	Anthriscus sylvestris-type	Anthriscus sylvestris-type	HERB	2	0.10351967
 Knaap_a18	Artemisia	Artemisia	HERB	8	0.41407867
 Knaap_a18	Solidago	Aster-type	HERB	27	1.3975155
-Knaap_a18	Bartsia-type	Bartsia-type	HERB	4	0.20703934
+Knaap_a18	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB	6	0.31055901
 Knaap_a18	Cruciferae	Brassicaceae	HERB	2	0.10351967
 Knaap_a18	Cannabis sativa	Cannabis sativa	HERB	2	0.10351967
-Knaap_a18	Cerastium arvense-type	Cerastium arvense-type	HERB	2	0.10351967
+Knaap_a18	Cerastium arvense-type	Cerastium-type	HERB	2	0.10351967
 Knaap_a18	Cerealia	Cerealia-type	HERB	1	0.051759834
 Knaap_a18	Chaerophyllum hirsutum-type	Chaerophyllum hirsutum-type	HERB	29	1.5010352
 Knaap_a18	Chenopodiaceae-type	Chenopodiaceae/Amaranthaceae	HERB	3	0.1552795
-Knaap_a18	Compositae subfam. Cichorioideae	Compositae subfam. Cichorioideae	HERB	6	0.31055901
-Knaap_a18	Cuscuta	Cuscuta	HERB	1	0.051759834
 Knaap_a18	Filipendula	Filipendula	HERB	1	0.051759834
 Knaap_a18	Gentiana pneumonanthe-type	Gentiana pneumonanthe-type	HERB	48	2.484472
 Knaap_a18	Gentianella campestris-type	Gentianella campestris-type	HERB	1	0.051759834
@@ -59,9 +58,10 @@ Knaap_a18	Plantago alpina-type	Plantago maritima-type	HERB	2	0.10351967
 Knaap_a18	Gramineae	Poaceae	HERB	810	41.925466
 Knaap_a18	Potentilla-type	Potentilla-type	HERB	170	8.7991718
 Knaap_a18	Ranunculus acris-type	Ranunculus acris-type	HERB	25	1.2939959
+Knaap_a18	Bartsia-type	Rhinanthus-type	HERB	4	0.20703934
 Knaap_a18	Rubiaceae	Rubiaceae	HERB	1	0.051759834
 Knaap_a18	Rumex acetosa-type	Rumex acetosa-type	HERB	6	0.31055901
-Knaap_a18	Rumex alpinus	Rumex alpinus	HERB	1	0.051759834
+Knaap_a18	Rumex alpinus	Rumex alpinus-type	HERB	1	0.051759834
 Knaap_a18	Sedum	Sedum-type	HERB	3	0.1552795
 Knaap_a18	Silene vulgaris-type	Silene vulgaris-type	HERB	1	0.051759834
 Knaap_a18	Soldanella	Soldanella	HERB	1	0.051759834
@@ -69,9 +69,9 @@ Knaap_a18	Trifolium pratense-type	Trifolium pratense-type	HERB	4	0.20703934
 Knaap_a18	Trollius europaeus	Trollius europaeus	HERB	6	0.31055901
 Knaap_a18	Urtica	Urtica	HERB	6	0.31055901
 Knaap_a18	Botrychium	Botrychium	VACR	1	0.051759834
+Knaap_a18	Dryopteris dilatata-type	Dryopteris dilatata	VACR	2	0.10351967
+Knaap_a18	Monolete fern spores	Monolete fern spores	VACR	3	0.1552795
 Knaap_a18	Cercophora-type	Cercophora-type	FUNG	2	
 Knaap_a18	Counted exote	Counted exote	NOPO	27	
-Knaap_a18	Dryopteris dilatata-type	Dryopteris dilatata	VACR	2	0.10351967
 Knaap_a18	Lycopodium tablets (number)	Lycopodium tablets (number)	NOPO	2	
-Knaap_a18	Monolete fern spores	Monolete fern spores	VACR	3	0.1552795
 Knaap_a18	Sporormiella	Sporormiella-type	FUNG	1	

@@ -1,13 +1,13 @@
-samplename	original_varname	acc_varname	groupid	count	percentage	notes
-Lapteva_b101	Abies sibirica	Abies sibirica	TRSH	2	0.71684588	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Lapteva_b101	Betula sect. Albae	Betula pubescens-type	TRSH	13	4.6594982	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Lapteva_b101	Larix	Larix/Pseudotsuga	TRSH	1	0.35842294	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Lapteva_b101	Picea	Picea	TRSH	76	27.240143	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Lapteva_b101	Pinus sylvestris=Pinus s/g Diploxylon	Pinus sylvestris-type	TRSH	128	45.878136	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Lapteva_b101	Rosaceae	Rosaceae	TRSH	1	0.35842294	Inconsistent at the groupID and higher_groupID levels between EPD and NEOTOMA. Going for EPD groupID.
-Lapteva_b101	Artemisia	Artemisia	HERB	2	0.71684588	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Lapteva_b101	Cyperaceae	Cyperaceae	HERB	9	3.2258065	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Lapteva_b101	Poaceae	Poaceae	HERB	6	2.1505376	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Lapteva_b101	Polygonaceae	Polygonaceae	HERB	1	0.35842294	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Lapteva_b101	Polypodiophyta	Monolete fern spores	VACR	40	14.336918	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Lapteva_b101	Sphagnum	Sphagnum	NOPO	4		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+samplename	original_varname	acc_varname	groupid	count	percentage
+Lapteva_b101	Abies sibirica	Abies sibirica	TRSH	2	0.71684588
+Lapteva_b101	Betula sect. Albae	Betula pubescens-type	TRSH	13	4.6594982
+Lapteva_b101	Larix	Larix/Pseudotsuga	TRSH	1	0.35842294
+Lapteva_b101	Picea	Picea	TRSH	76	27.240143
+Lapteva_b101	Pinus sylvestris=Pinus s/g Diploxylon	Pinus sylvestris-type	TRSH	128	45.878136
+Lapteva_b101	Rosaceae	Rosaceae	TRSH	1	0.35842294
+Lapteva_b101	Artemisia	Artemisia	HERB	2	0.71684588
+Lapteva_b101	Cyperaceae	Cyperaceae	HERB	9	3.2258065
+Lapteva_b101	Poaceae	Poaceae	HERB	6	2.1505376
+Lapteva_b101	Polygonaceae	Polygonaceae	HERB	1	0.35842294
+Lapteva_b101	Polypodiophyta	Monolete fern spores	VACR	40	14.336918
+Lapteva_b101	Sphagnum	Sphagnum	NOPO	4	

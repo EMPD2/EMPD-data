@@ -116,8 +116,8 @@ groupIDs.replace(np.nan, '', inplace=True)
 for x in range(groupIDs.shape[0]):
     cursor.execute(
         "INSERT INTO groupID ("
-        "    groupID, groupname, higher_groupid, included_in_percent_sum, "
-        "    make_percent) VALUES "
+        "    groupID, groupname, higher_groupid, used_in_sum, "
+        "    percent_values) VALUES "
         "(%s, %s, %s, %s, %s)" % (
             is_null_str(groupIDs.iloc[x][0]), is_null_str(groupIDs.iloc[x][1]),
             is_null_str(groupIDs.iloc[x][2]), groupIDs.iloc[x][3],
