@@ -3,7 +3,6 @@ import psycopg2 as psql
 import pandas as pd
 import numpy as np
 import os
-import re
 import requests
 import argparse
 from itertools import product
@@ -36,11 +35,16 @@ parser.add_argument(
 parser.add_argument(
     '-db', '--database-url', default=os.getenv('DATABASE_URL'),
     help="The url to connect to the database. Default: %(default)s")
+parser.add_argument(
+    '-nd', '--no-dump', action='store_true',
+    help="Do not update the `meta` file or any associated tables.")
 
 args = parser.parse_args()
 
 meta = args.meta
 db_url = args.database_url
+
+dump_tables = not args.no_dump
 
 samples_dir = os.path.join(os.path.dirname(meta), 'samples')
 base_meta = os.path.join(os.path.dirname(meta), 'meta.tsv')
@@ -77,9 +81,6 @@ def clean_doi(doi):
     DOI = DOI.replace(' ', '')
     DOI = DOI.replace('https://link.springer.com/article/', '')
     return DOI
-
-
-nan_patt = re.compile(r'(?i)nan')
 
 
 cursor.execute('SELECT MAX(publiid) FROM publications')
@@ -120,7 +121,7 @@ for key, row in METADATA[METADATA.okexcept.astype(bool)].iterrows():
         orig_METADATA.loc[key, 'okexcept'] = ','.join(row_okexcept)
         save_orig = True
 
-if save_orig:
+if save_orig and dump_tables:
     try:
         orig_METADATA.to_csv(meta, sep='\t', index=False, float_format='%1.8g')
     except PermissionError:
@@ -149,10 +150,11 @@ for col, vals in okexcept.items():
                 '({})'.format(', '.join(map(is_null_str, v)))
                 for v in new_vals)))
         conn.commit()
-        try:
-            df.to_csv(fname, sep='\t', index=False)
-        except PermissionError:
-            pass
+        if dump_tables:
+            try:
+                df.to_csv(fname, sep='\t', index=False)
+            except PermissionError:
+                pass
 
 
 METADATA.replace(np.nan, '', inplace=True)
@@ -362,10 +364,9 @@ for x in range(METADATA.shape[0]):
             'jan', 'feb', 'mar', 'apr', 'may', 'jun', 'jul', 'aug', 'sep',
             'oct', 'nov', 'dec', 'djf', 'mam', 'jja', 'son', 'ann']
         update_str = ', '.join(
-            '%s_%s = %s' % (v, s, val) for (v, s), val in zip(
-                product('tp', seasons), np.r_[
-                    nan_patt.sub('NULL', temperature).split(','),
-                    nan_patt.sub('NULL', precip).split(',')]))
+            '%s_%s = %s' % (v, s, is_null_str(val)) for (v, s), val in zip(
+                product('tp', seasons), np.r_[temperature.split(','),
+                                              precip.split(',')]))
         cursor.execute(
             "UPDATE climate SET %s WHERE sampleName = %s" % (
                 update_str, is_null_str(METADATA.iloc[x]['SampleName'])))
@@ -373,8 +374,8 @@ for x in range(METADATA.shape[0]):
         cursor.execute(
             "INSERT INTO climate VALUES (%s,%s,%s)" % (
                 is_null_str(METADATA.iloc[x]['SampleName']),
-                nan_patt.sub('NULL', temperature),
-                nan_patt.sub('NULL', precip)))
+                temperature.replace('nan', 'NULL'),
+                precip.replace('nan', 'NULL')))
     conn.commit()
 
     for _worker in map('Worker{}_'.format, '1234'):
@@ -441,58 +442,43 @@ for samplename in filter(lambda s: s not in existing_samples,
                 ORIVARNAME, ACCVARNAME, GROUPID))
         res = cursor.fetchall()
         if len(res) == 0:
-            try:
-                cursor.execute(
-                    "INSERT INTO p_vars "
-                    "(var_, acc_var_, acc_varname, original_varname, groupID, "
-                    " notes) VALUES (%d, NULL, '%s', '%s', '%s', '%s')" % (
-                        TAXON_ID, ACCVARNAME, ORIVARNAME, GROUPID,
-                        is_null_str(NOTES)))
-                VAR_ = TAXON_ID
-                TAXON_ID += 1
-                conn.commit()
-            except psql.IntegrityError as e:
-                conn = psql.connect(db_url)
-                cursor = conn.cursor()
-                list_of_errors.append(
-                    '%s - %s: %s\n%s' % (samplename, VAR_, row['count'], e))
-                err += 1
+            cursor.execute(
+                "INSERT INTO p_vars "
+                "(var_, acc_var_, acc_varname, original_varname, groupID, "
+                " notes) VALUES (%d, NULL, '%s', '%s', '%s', '%s')" % (
+                    TAXON_ID, ACCVARNAME, ORIVARNAME, GROUPID,
+                    is_null_str(NOTES)))
+            VAR_ = TAXON_ID
+            TAXON_ID += 1
+            conn.commit()
         else:
             VAR_ = res[0][0]
-        samplename = row.samplename
-        val = row['count']
-        val = (('%d' % val if not np.isnan(val) else 'NULL'))
-        percentage = row['percentage']
-        percentage = (('%1.8g' % percentage) if not np.isnan(percentage)
-                      else 'NULL')
-        try:
-            cursor.execute(
-                "INSERT INTO p_counts "
-                "(sampleName, var_, count, percentage) "
-                "VALUES ('%s', %s, %s, %s)" % (
-                    samplename, VAR_, val, percentage))
-            conn.commit()
-        except psql.IntegrityError as e:
-            conn = psql.connect(db_url)
-            cursor = conn.cursor()
-            if 'duplicate key value violates unique constraint "p_counts_pkey"' in str(e):
-                try:
-                    cursor.execute(
-                        "UPDATE p_counts SET count=%s percentage=%s WHERE "
-                        "sampleName = '%s' AND var_ = %d" % (
-                            val, percentage, samplename, VAR_))
-                    conn.commit()
-                except psql.IntegrityError as e:
-                    conn = psql.connect(db_url)
-                    cursor = conn.cursor()
-                    list_of_errors.append(
-                        '%s - %s: %s\n%s' % (samplename, VAR_,
-                                             row['count'], e))
-                    err += 1
-            else:
-                list_of_errors.append(
-                    '%s - %s: %s\n%s' % (samplename, VAR_, row['count'], e)
-                    )
-                err += 1
+            samplename = row.samplename
+            try:
+                if row['count'] > 0:
+                    val = round(row['count'])
+                    try:
+                        cursor.execute(
+                            "INSERT INTO p_counts (sampleName, var_, count) "
+                            "VALUES ('%s', %d, %d)" % (
+                                samplename, VAR_, val))
+                        conn.commit()
+                    except psql.IntegrityError as e:
+                        conn = psql.connect(db_url)
+                        cursor = conn.cursor()
+                        if 'duplicate key value violates unique constraint "p_counts_pkey"' in str(e):
+                            cursor.execute(
+                                "SELECT count FROM p_counts WHERE "
+                                "sampleName = '%s' AND var_ = %d" % (
+                                    samplename, VAR_))
+                            new_val = cursor.fetchall()[0][0] + val
+                            cursor.execute(
+                                "UPDATE p_counts SET count=%d WHERE "
+                                "sampleName = '%s' AND var_ = %d" % (
+                                    new_val, samplename, VAR_))
+                            conn.commit()
+            except Exception:
+                print(samplename, VAR_, "!" + str(row['count']) + "!")
 
-assert err == 0, ('\n' + '-' * 80 + '\n').join(list_of_errors)
+
+assert err == 0, '\n'.join(list_of_errors)
