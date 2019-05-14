@@ -289,7 +289,8 @@ for x in range(METADATA.shape[0]):
                 "locationReliability = %s, locationNotes = %s, "
                 "areaOfSite = %s, sampleContext = %s, siteDescription = %s, "
                 "vegDescription = %s, sampleType = %s, sampleMethod = %s, "
-                "ageBP = %s, ageUncertainty = %s, notes = %s, okexcept = %s "
+                "ageBP = %s, ageUncertainty = %s, notes = %s, okexcept = %s, "
+                "empd_version = %s "
                 "WHERE sampleName = {}").format(
                     is_null_str(METADATA.iloc[x]['SampleName']))
         else:
@@ -301,7 +302,7 @@ for x in range(METADATA.shape[0]):
                 " sampleType, sampleMethod, ageBP, ageUncertainty, notes, "
                 " okexcept, empd_version) VALUES "
                 "(%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, "
-                " %s, %s, %s, %s, 'EMPD2')")
+                " %s, %s, %s, %s, %s)")
         cursor.execute(query % (
             is_null_str(METADATA.iloc[x]['SampleName']),
             is_null_str(str(METADATA.iloc[x]['OriginalSampleName'])),
@@ -322,7 +323,8 @@ for x in range(METADATA.shape[0]):
             is_null_str(str(METADATA.iloc[x]['AgeBP'])),
             is_null_str(METADATA.iloc[x]['AgeUncertainty']),
             is_null_str(METADATA.iloc[x]['Notes']),
-            is_null_str(METADATA.iloc[x]['okexcept'])))
+            is_null_str(METADATA.iloc[x]['okexcept']),
+            is_null_str(METADATA.iloc[x]['EMPD_version'])))
         conn.commit()
     except psql.IntegrityError as e:
         conn = psql.connect(db_url)
