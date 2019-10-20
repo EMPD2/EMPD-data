@@ -575,9 +575,9 @@ test_a3	orig_test_a2	somewhere	Germany	10	52	340	5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
 --
 
 COPY public.metadata (samplename, originalsamplename, sitename, country, longitude, latitude, elevation, locationreliability, locationnotes, areaofsite, samplecontext, sitedescription, vegdescription, sampletype, samplemethod, agebp, ageuncertainty, ispercent, notes, okexcept, empd_version) FROM stdin;
-test_a1	orig_test_a1	somewhere	France	10	50	340	X	Actually in Germany	30	\N	\N	\N	\N	\N	\N	\N	f	\N	\N	\N
-test_a2	orig_test_a2	somewhere	Germany	10	52	340	X	Actually in Germany	30	\N	\N	\N	\N	\N	\N	\N	f	\N	Country	\N
-test_a3	orig_test_a2	somewhere	Germany	10	52	340	X	Actually in Germany	30	i dont know	\N	\N	\N	\N	\N	\N	f	\N	\N	\N
+test_a1	orig_test_a1	somewhere	France	10	50	340	X	Actually in Germany	30	\N	\N	\N	\N	\N	\N	\N	f	\N	\N	EMPD2
+test_a2	orig_test_a2	somewhere	Germany	10	52	340	X	Actually in Germany	30	\N	\N	\N	\N	\N	\N	\N	f	\N	Country	EMPD2
+test_a3	orig_test_a2	somewhere	Germany	10	52	340	X	Actually in Germany	30	i dont know	\N	\N	\N	\N	\N	\N	f	\N	\N	EMPD2
 \.
 
 
@@ -602,6 +602,9 @@ COPY public.metaworker (samplename, workerid, workerrole) FROM stdin;
 --
 
 COPY public.p_counts (samplename, var_, count, percentage) FROM stdin;
+test_a1	1	45	\N
+test_a1	2	6	\N
+test_a1	3	55	\N
 test_a2	1	45	\N
 test_a2	2	6	\N
 test_a2	3	55	\N
