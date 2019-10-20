@@ -1,43 +1,43 @@
-samplename	original_varname	var_	count	percentage	acc_var_	acc_varname	groupid
-EPDcoretop_E2022	Alnus	5	3	0.5	5	Alnus	TRSH
-EPDcoretop_E2022	Artemisia	7	4	0.67	7	Artemisia	HERB
-EPDcoretop_E2022	Cyperaceae	33	56	9.33	33	Cyperaceae	HERB
-EPDcoretop_E2022	Juglans	57	1	0.17	57	Juglans	TRSH
-EPDcoretop_E2022	Papaver	71	2	0.33	71	Papaver	HERB
-EPDcoretop_E2022	Pinus	75	2	0.33	75	Pinus	TRSH
-EPDcoretop_E2022	Salix	99	1	0.17	99	Salix	TRSH
-EPDcoretop_E2022	Ranunculaceae	135	2	0.33	135	Ranunculaceae	HERB
-EPDcoretop_E2022	Quercus	189	14	2.33	189	Quercus	TRSH
-EPDcoretop_E2022	Corylus	201	1	0.17	31	Corylus	TRSH
-EPDcoretop_E2022	Plantago	724	36	6	270	Plantago	HERB
-EPDcoretop_E2022	Alchemilla	944	1	0.17	323	Alchemilla	HERB
-EPDcoretop_E2022	Cerealia-type	1065	2	0.33	22	Cerealia-type	HERB
-EPDcoretop_E2022	Fagopyrum	1248	1	0.17	1248	Fagopyrum	HERB
-EPDcoretop_E2022	Myriophyllum alterniflorum	1971	7	1.17	1841	Myriophyllum alterniflorum	AQUA
-EPDcoretop_E2022	Rosaceae	92	1	0.17	92	Rosaceae	TRSH
-EPDcoretop_E2022	Apiaceae	6	1	0.17	6	Apiaceae	HERB
-EPDcoretop_E2022	Brassicaceae	13	1	0.17	13	Brassicaceae	HERB
-EPDcoretop_E2022	Chenopodiaceae	24	93	15.5	24	Chenopodiaceae/Amaranthaceae	HERB
-EPDcoretop_E2022	Fabaceae	41	1	0.17	41	Fabaceae	HERB
-EPDcoretop_E2022	Lamiaceae	59	1	0.17	59	Lamiaceae	HERB
-EPDcoretop_E2022	Poaceae	80	274	45.67	80	Poaceae	HERB
-EPDcoretop_E2022	Thalictrum	112	2	0.33	112	Thalictrum	HERB
-EPDcoretop_E2022	Ericaceae	130	1	0.17	130	Ericales (tetrad)	DWAR
-EPDcoretop_E2022	Asteraceae	134	8	1.33	134	Asteraceae	HERB
-EPDcoretop_E2022	Equisetum	145	1	0.17	145	Equisetum	VACR
-EPDcoretop_E2022	Ulmus	154	1	0.17	154	Ulmus/Zelkova	TRSH
-EPDcoretop_E2022	Tilia	187	1	0.17	187	Tilia	TRSH
-EPDcoretop_E2022	Cichorioideae	447	79	13.17	25	Asteraceae subf. Cichorioideae	HERB
-EPDcoretop_E2022	Quercus ilex	579	1	0.17	85	Quercus ilex-type	TRSH
-EPDcoretop_E2022	Potamogeton	657	4	0.67	108	Potamogeton-type	AQUA
-EPDcoretop_E2022	Sparganium	658	4	0.67	176	Sparganium-type	AQUA
-EPDcoretop_E2022	Polypodium	666	1	0.17	214	Polypodium	VACR
-EPDcoretop_E2022	Polygonum aviculare	725	1	0.17	262	Polygonum aviculare-type	HERB
-EPDcoretop_E2022	Rumex	727	1	0.17	94	Rumex/Oxyria	HERB
-EPDcoretop_E2022	Typha angustifolia	1286	2	0.33	1286	Typha angustifolia	HELO
-EPDcoretop_E2022	Typha latifolia	1287	1	0.17	417	Typha latifolia	AQUA
-EPDcoretop_E2022	Osmunda	1555	1	0.17	465	Osmunda regalis	VACR
-EPDcoretop_E2022	Alismataceae	2237	21	3.5	2237	Alismataceae	AQUA
-EPDcoretop_E2022	Ulex-type	2537	1	0.17	49	Genista-type	TRSH
-EPDcoretop_E2022	Monolete spore(s)	4197	1	0.17	146	Monolete fern spores	VACR
-EPDcoretop_E2022	Trilete spore(s)	4684	2	0.33	279	Trilete spore(s)	VACR
+samplename	original_varname	acc_varname	groupid	count	percentage
+EPDcoretop_E2022	Alnus	Alnus	TRSH	3	0.5
+EPDcoretop_E2022	Corylus	Corylus	TRSH	1	0.17
+EPDcoretop_E2022	Ericaceae	Ericales (tetrad)	DWAR	1	0.17
+EPDcoretop_E2022	Ulex-type	Genista-type	TRSH	1	0.17
+EPDcoretop_E2022	Juglans	Juglans	TRSH	1	0.17
+EPDcoretop_E2022	Pinus	Pinus	TRSH	2	0.33
+EPDcoretop_E2022	Quercus	Quercus	TRSH	14	2.33
+EPDcoretop_E2022	Quercus ilex	Quercus ilex-type	TRSH	1	0.17
+EPDcoretop_E2022	Rosaceae	Rosaceae	TRSH	1	0.17
+EPDcoretop_E2022	Salix	Salix	TRSH	1	0.17
+EPDcoretop_E2022	Tilia	Tilia	TRSH	1	0.17
+EPDcoretop_E2022	Ulmus	Ulmus/Zelkova	TRSH	1	0.17
+EPDcoretop_E2022	Alchemilla	Alchemilla	HERB	1	0.17
+EPDcoretop_E2022	Apiaceae	Apiaceae	HERB	1	0.17
+EPDcoretop_E2022	Artemisia	Artemisia	HERB	4	0.67
+EPDcoretop_E2022	Asteraceae	Asteraceae	HERB	8	1.33
+EPDcoretop_E2022	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	79	13.17
+EPDcoretop_E2022	Brassicaceae	Brassicaceae	HERB	1	0.17
+EPDcoretop_E2022	Cerealia-type	Cerealia-type	HERB	2	0.33
+EPDcoretop_E2022	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	93	15.5
+EPDcoretop_E2022	Cyperaceae	Cyperaceae	HERB	56	9.33
+EPDcoretop_E2022	Fabaceae	Fabaceae	HERB	1	0.17
+EPDcoretop_E2022	Fagopyrum	Fagopyrum	HERB	1	0.17
+EPDcoretop_E2022	Lamiaceae	Lamiaceae	HERB	1	0.17
+EPDcoretop_E2022	Papaver	Papaver	HERB	2	0.33
+EPDcoretop_E2022	Plantago	Plantago	HERB	36	6
+EPDcoretop_E2022	Poaceae	Poaceae	HERB	274	45.67
+EPDcoretop_E2022	Polygonum aviculare	Polygonum aviculare-type	HERB	1	0.17
+EPDcoretop_E2022	Ranunculaceae	Ranunculaceae	HERB	2	0.33
+EPDcoretop_E2022	Rumex	Rumex/Oxyria	HERB	1	0.17
+EPDcoretop_E2022	Thalictrum	Thalictrum	HERB	2	0.33
+EPDcoretop_E2022	Equisetum	Equisetum	VACR	1	0.17
+EPDcoretop_E2022	Monolete spore(s)	Monolete fern spores	VACR	1	0.17
+EPDcoretop_E2022	Osmunda	Osmunda regalis	VACR	1	0.17
+EPDcoretop_E2022	Polypodium	Polypodium	VACR	1	0.17
+EPDcoretop_E2022	Trilete spore(s)	Trilete spore(s)	VACR	2	0.33
+EPDcoretop_E2022	Alismataceae	Alismataceae	AQUA	21	3.5
+EPDcoretop_E2022	Myriophyllum alterniflorum	Myriophyllum alterniflorum	AQUA	7	1.17
+EPDcoretop_E2022	Potamogeton	Potamogeton-type	AQUA	4	0.67
+EPDcoretop_E2022	Sparganium	Sparganium-type	AQUA	4	0.67
+EPDcoretop_E2022	Typha angustifolia	Typha angustifolia	HELO	2	0.33
+EPDcoretop_E2022	Typha latifolia	Typha latifolia	AQUA	1	0.17
