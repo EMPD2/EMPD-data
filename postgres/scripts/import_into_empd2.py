@@ -333,6 +333,7 @@ for x in range(METADATA.shape[0]):
             list_of_errors.append(str(e))
         print('IntegrityError ', x, e)
         err += 1
+        continue
     except psql.DataError as e:
         if str(e) not in list_of_errors:
             list_of_errors.append(str(e))
@@ -340,6 +341,7 @@ for x in range(METADATA.shape[0]):
         conn = psql.connect(db_url)
         cursor = conn.cursor()
         err += 1
+        continue
     except AttributeError as e:
         if str(e) not in list_of_errors:
             list_of_errors.append(str(e))
@@ -347,6 +349,7 @@ for x in range(METADATA.shape[0]):
         conn = psql.connect(db_url)
         cursor = conn.cursor()
         err += 1
+        continue
     except Exception as e:
         if str(e) not in list_of_errors:
             list_of_errors.append(str(e))
@@ -354,6 +357,7 @@ for x in range(METADATA.shape[0]):
         conn = psql.connect(db_url)
         cursor = conn.cursor()
         err += 1
+        continue
 
     temperature = METADATA.iloc[x]['Temperature']
     precip = METADATA.iloc[x]['Precipitation']
@@ -455,32 +459,39 @@ for samplename in filter(lambda s: s not in existing_samples,
             conn.commit()
         else:
             VAR_ = res[0][0]
-            samplename = row.samplename
-            try:
-                if row['count'] > 0:
-                    val = round(row['count'])
-                    try:
+        try:
+            if row['count'] > 0:
+                val = round(row['count'])
+                try:
+                    cursor.execute(
+                        "INSERT INTO p_counts (sampleName, var_, count) "
+                        "VALUES ('%s', %d, %d)" % (
+                            samplename, VAR_, val))
+                    conn.commit()
+                except psql.IntegrityError as e:
+                    conn = psql.connect(db_url)
+                    cursor = conn.cursor()
+                    if 'duplicate key value violates unique constraint "p_counts_pkey"' in str(e):
                         cursor.execute(
-                            "INSERT INTO p_counts (sampleName, var_, count) "
-                            "VALUES ('%s', %d, %d)" % (
-                                samplename, VAR_, val))
+                            "SELECT count FROM p_counts WHERE "
+                            "sampleName = '%s' AND var_ = %d" % (
+                                samplename, VAR_))
+                        new_val = cursor.fetchall()[0][0] + val
+                        cursor.execute(
+                            "UPDATE p_counts SET count=%d WHERE "
+                            "sampleName = '%s' AND var_ = %d" % (
+                                new_val, samplename, VAR_))
                         conn.commit()
-                    except psql.IntegrityError as e:
-                        conn = psql.connect(db_url)
-                        cursor = conn.cursor()
-                        if 'duplicate key value violates unique constraint "p_counts_pkey"' in str(e):
-                            cursor.execute(
-                                "SELECT count FROM p_counts WHERE "
-                                "sampleName = '%s' AND var_ = %d" % (
-                                    samplename, VAR_))
-                            new_val = cursor.fetchall()[0][0] + val
-                            cursor.execute(
-                                "UPDATE p_counts SET count=%d WHERE "
-                                "sampleName = '%s' AND var_ = %d" % (
-                                    new_val, samplename, VAR_))
-                            conn.commit()
-            except Exception:
-                print(samplename, VAR_, "!" + str(row['count']) + "!")
+        except Exception as e:
+            error = (samplename, VAR_, "!" + str(row['count']) + ":" +
+                     str(e))
+            if error not in list_of_errors:
+                list_of_errors.append(error)
+            print('Error ', error)
+            conn = psql.connect(db_url)
+            cursor = conn.cursor()
+            err += 1
+            continue
 
 
 assert err == 0, '\n'.join(list_of_errors)
