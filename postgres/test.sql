@@ -132,6 +132,89 @@ CREATE TABLE public.locationreliabilities (
 ALTER TABLE public.locationreliabilities OWNER TO postgres;
 
 --
+-- Name: metaViewer; Type: TABLE; Schema: public; Owner: postgres
+--
+
+CREATE TABLE public."metaViewer" (
+    "SampleName" text,
+    "OriginalSampleName" text,
+    "SiteName" text,
+    "Country" text,
+    "Longitude" double precision,
+    "Latitude" double precision,
+    "Elevation" double precision,
+    "Temperature" text,
+    "Precipitation" text,
+    "LocationReliability" text,
+    "LocationNotes" text,
+    "AreaOfSite" double precision,
+    "SampleContext" text,
+    "SiteDescription" text,
+    "VegDescription" text,
+    "SampleType" text,
+    "SampleMethod" text,
+    "AgeBP" double precision,
+    "AgeUncertainty" text,
+    ispercent boolean,
+    "Notes" text,
+    "EMPD_version" text,
+    "Publication1" text,
+    "DOI1" text,
+    "Publication2" text,
+    "DOI2" text,
+    "Publication3" text,
+    "DOI3" text,
+    "Publication4" text,
+    "DOI4" text,
+    "Publication5" text,
+    "DOI5" text,
+    "Worker1_Role" text,
+    "Worker1_LastName" text,
+    "Worker1_Initials" text,
+    "Worker1_FirstName" text,
+    "Worker1_Address1" text,
+    "Worker1_Address2" text,
+    "Worker1_Email1" text,
+    "Worker1_Email2" text,
+    "Worker1_Phone1" text,
+    "Worker1_Phone2" text,
+    "Worker2_Role" text,
+    "Worker2_LastName" text,
+    "Worker2_Initials" text,
+    "Worker2_FirstName" text,
+    "Worker2_Address1" text,
+    "Worker2_Address2" text,
+    "Worker2_Email1" text,
+    "Worker2_Email2" text,
+    "Worker2_Phone1" text,
+    "Worker2_Phone2" text,
+    "Worker3_Role" text,
+    "Worker3_LastName" text,
+    "Worker3_Initials" text,
+    "Worker3_FirstName" text,
+    "Worker3_Address1" text,
+    "Worker3_Address2" text,
+    "Worker3_Email1" text,
+    "Worker3_Email2" text,
+    "Worker3_Phone1" text,
+    "Worker3_Phone2" text,
+    "Worker4_Role" text,
+    "Worker4_LastName" text,
+    "Worker4_Initials" text,
+    "Worker4_FirstName" text,
+    "Worker4_Address1" text,
+    "Worker4_Address2" text,
+    "Worker4_Email1" text,
+    "Worker4_Email2" text,
+    "Worker4_Phone1" text,
+    "Worker4_Phone2" text,
+    okexcept text
+);
+
+
+ALTER TABLE public."metaViewer" OWNER TO postgres;
+
+--
 -- Name: metadata; Type: TABLE; Schema: public; Owner: postgres
 --
 
@@ -473,6 +556,17 @@ B	Good for lower resolution remote sensing (<1km)	<1km
 C	Ok for climate reconstruction or regional scale mapping	<5km
 D	Ok for mapping at continental scale	<20km
 X	Do not use!	\N
+\.
+
+
+--
+-- Data for Name: metaViewer; Type: TABLE DATA; Schema: public; Owner: postgres
+--
+
+COPY public."metaViewer" ("SampleName", "OriginalSampleName", "SiteName", "Country", "Longitude", "Latitude", "Elevation", "Temperature", "Precipitation", "LocationReliability", "LocationNotes", "AreaOfSite", "SampleContext", "SiteDescription", "VegDescription", "SampleType", "SampleMethod", "AgeBP", "AgeUncertainty", ispercent, "Notes", "EMPD_version", "Publication1", "DOI1", "Publication2", "DOI2", "Publication3", "DOI3", "Publication4", "DOI4", "Publication5", "DOI5", "Worker1_Role", "Worker1_LastName", "Worker1_Initials", "Worker1_FirstName", "Worker1_Address1", "Worker1_Address2", "Worker1_Email1", "Worker1_Email2", "Worker1_Phone1", "Worker1_Phone2", "Worker2_Role", "Worker2_LastName", "Worker2_Initials", "Worker2_FirstName", "Worker2_Address1", "Worker2_Address2", "Worker2_Email1", "Worker2_Email2", "Worker2_Phone1", "Worker2_Phone2", "Worker3_Role", "Worker3_LastName", "Worker3_Initials", "Worker3_FirstName", "Worker3_Address1", "Worker3_Address2", "Worker3_Email1", "Worker3_Email2", "Worker3_Phone1", "Worker3_Phone2", "Worker4_Role", "Worker4_LastName", "Worker4_Initials", "Worker4_FirstName", "Worker4_Address1", "Worker4_Address2", "Worker4_Email1", "Worker4_Email2", "Worker4_Phone1", "Worker4_Phone2", okexcept) FROM stdin;
+test_a1	orig_test_a1	somewhere	France	10	50	340	5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5	5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5	X	Actually in Germany	30	\N	\N	\N	\N	\N	\N	\N	t	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+test_a2	orig_test_a2	somewhere	Germany	10	52	340	5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5	5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5	X	Actually in Germany	30	\N	\N	\N	\N	\N	\N	\N	t	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	Country
+test_a3	orig_test_a2	somewhere	Germany	10	52	340	5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5	5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5	X	Actually in Germany	30	i dont know	\N	\N	\N	\N	\N	\N	t	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	SampleContext
 \.
 
 
@@ -824,6 +918,13 @@ ALTER TABLE ONLY public.workerroles
 
 ALTER TABLE ONLY public.workers
     ADD CONSTRAINT workers_pkey PRIMARY KEY (workerid);
+
+
+--
+-- Name: ix_metaViewer_SampleName; Type: INDEX; Schema: public; Owner: postgres
+--
+
+CREATE INDEX "ix_metaViewer_SampleName" ON public."metaViewer" USING btree ("SampleName");
 
 
 --
