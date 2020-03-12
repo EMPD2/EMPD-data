@@ -35,7 +35,11 @@ def _meta(fname=None):
         if col in ret.columns:
             ret[col] = ret[col].replace('', np.nan).astype(float)
     if 'ispercent' in ret.columns:
-        ret['ispercent'] = ret['ispercent'].replace('', False).astype(bool)
+        ret.rename(columns={'ispercent': 'ispercent_str'}, inplace=True)
+        ret['ispercent'] = False
+        ret.loc[ret.ispercent_str.str.startswith('t', na=False) |
+                ret.ispercent_str.str.startswith('T', na=False), 'ispercent'] = True
+        del ret['ispercent_str']
 
     if 'okexcept' not in ret.columns:
         ret['okexcept'] = ''
