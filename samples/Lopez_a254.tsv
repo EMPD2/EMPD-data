@@ -1,38 +1,38 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
-Lopez_a254	589	6	3	Anthemis-type	Matricaria-type	HERB
-Lopez_a254	6	4	6	Apiaceae	Apiaceae	HERB
-Lopez_a254	597	12	11	Aster-type	Aster-type	HERB
-Lopez_a254	162	6	162	Boraginaceae	Boraginaceae	HERB
-Lopez_a254	445	21	336	Cardueae	Asteraceae subf. Carduoideae	HERB
-Lopez_a254	18	6	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
-Lopez_a254	2292	1	462	Centaurea cyanus-type	Centaurea cyanus-type	HERB
-Lopez_a254	2406	3	556	Cercophora	Cercophora-type	FUNG
-Lopez_a254	22	8	22	Cerealia	Cerealia-type	HERB
-Lopez_a254	769	4	24	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB
-Lopez_a254	447	103	25	Cichorioideae	Asteraceae subf. Cichorioideae	HERB
-Lopez_a254	482	18	13	Cruciferae	Brassicaceae	HERB
-Lopez_a254	3868	15	3868	Cyperaceae	Cyperaceae	AQUA
-Lopez_a254	3960	9	3960	Fabaceae undiff.	Fabaceae undiff.	INUN
-Lopez_a254	4008	22	305	Glomus cf. G. fasciculatum	Glomus cf. fasciculatum	FUNG
-Lopez_a254	485	3	59	Labiatae	Lamiaceae	HERB
-Lopez_a254	4131	2	62	Liliaceae undiff,	Liliaceae-type	HERB
-Lopez_a254	442	4	68	Olea	Olea europaea	TRSH
-Lopez_a254	1075	13	60	Plantago lanceolata-type	Plantago lanceolata-type	HERB
-Lopez_a254	429	179	80	Poaceae undiff.	Poaceae	HERB
-Lopez_a254	1078	3	262	Polygonum aviculare-type	Polygonum aviculare-type	HERB
-Lopez_a254	81	6	81	Populus	Populus	TRSH
-Lopez_a254	427	11	85	Quercus evergreen	Quercus ilex-type	TRSH
-Lopez_a254	4489	2	92	Rosaceae undiff,	Rosaceae	TRSH
-Lopez_a254	634	17	95	Rumex acetosa-type	Rumex acetosa-type	HERB
-Lopez_a254	1398	12	96	Rumex acetosella-type	Rumex acetosella	HERB
-Lopez_a254	99	7	99	Salix	Salix	TRSH
-Lopez_a254	4604	11	4604	Sordaria	Sordaria-type	NOPO
-Lopez_a254	677	29	557	Sporormiella	Sporormiella-type	FUNG
-Lopez_a254	154	3	154	Ulmus	Ulmus/Zelkova	TRSH
-Lopez_a254	4718	11	453	Urtica dioica-type	Urtica dioica-type	HERB
-Lopez_a254	4756	2	4756	Vitis	Vitis	LIAN
-Lopez_a254	439	4	439	Pinus pinaster	Pinus pinaster	TRSH
-Lopez_a254	3580	3	487	Asphodelus albus-type	Asphodelus albus-type	HERB
-Lopez_a254	4304	3	440	Pinus pinea/halepensis-type	Pinus halepensis-type	TRSH
-Lopez_a254	4327	3	458	Plantago media/major-type	Plantago major/P. media-type	HERB
-Lopez_a254	93	2	93	Rubiaceae	Rubiaceae	HERB
+samplename	original_varname	acc_varname	groupid	count	percentage
+Lopez_a254	Olea	Olea europaea	TRSH	4	0.83507307
+Lopez_a254	Pinus pinea/halepensis-type	Pinus halepensis-type	TRSH	3	0.6263048
+Lopez_a254	Pinus pinaster	Pinus pinaster	TRSH	4	0.83507307
+Lopez_a254	Populus	Populus	TRSH	6	1.2526096
+Lopez_a254	Quercus evergreen	Quercus ilex-type	TRSH	11	2.2964509
+Lopez_a254	Rosaceae undiff,	Rosaceae	TRSH	2	0.41753653
+Lopez_a254	Salix	Salix	TRSH	7	1.4613779
+Lopez_a254	Ulmus	Ulmus/Zelkova	TRSH	3	0.6263048
+Lopez_a254	Vitis	Vitis	LIAN	2	0.41753653
+Lopez_a254	Apiaceae	Apiaceae	HERB	4	0.83507307
+Lopez_a254	Asphodelus albus-type	Asphodelus albus-type	HERB	3	0.6263048
+Lopez_a254	Aster-type	Aster-type	HERB	12	2.5052192
+Lopez_a254	Cardueae	Asteraceae subf. Carduoideae	HERB	21	4.3841336
+Lopez_a254	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	103	21.503132
+Lopez_a254	Boraginaceae	Boraginaceae	HERB	6	1.2526096
+Lopez_a254	Cruciferae	Brassicaceae	HERB	18	3.7578288
+Lopez_a254	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	6	1.2526096
+Lopez_a254	Centaurea cyanus-type	Centaurea cyanus-type	HERB	1	0.20876827
+Lopez_a254	Cerealia	Cerealia-type	HERB	8	1.6701461
+Lopez_a254	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	4	0.83507307
+Lopez_a254	Labiatae	Lamiaceae	HERB	3	0.6263048
+Lopez_a254	Liliaceae undiff,	Liliaceae-type	HERB	2	0.41753653
+Lopez_a254	Anthemis-type	Matricaria-type	HERB	6	1.2526096
+Lopez_a254	Plantago lanceolata-type	Plantago lanceolata-type	HERB	13	2.7139875
+Lopez_a254	Plantago media/major-type	Plantago major/P. media-type	HERB	3	0.6263048
+Lopez_a254	Poaceae undiff.	Poaceae	HERB	179	37.36952
+Lopez_a254	Polygonum aviculare-type	Polygonum aviculare-type	HERB	3	0.6263048
+Lopez_a254	Rubiaceae	Rubiaceae	HERB	2	0.41753653
+Lopez_a254	Rumex acetosa-type	Rumex acetosa-type	HERB	17	3.5490605
+Lopez_a254	Rumex acetosella-type	Rumex acetosella	HERB	12	2.5052192
+Lopez_a254	Urtica dioica-type	Urtica dioica-type	HERB	11	2.2964509
+Lopez_a254	Cyperaceae	Cyperaceae	AQUA	15	3.131524
+Lopez_a254	Fabaceae undiff.	Fabaceae undiff.	INUN	9	
+Lopez_a254	Cercophora	Cercophora-type	FUNG	3	
+Lopez_a254	Glomus cf. G. fasciculatum	Glomus cf. fasciculatum	FUNG	22	
+Lopez_a254	Sordaria	Sordaria-type	NOPO	11	
+Lopez_a254	Sporormiella	Sporormiella-type	FUNG	29	

@@ -1,36 +1,36 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
-Lopez_a337	5	2	5	Alnus	Alnus	TRSH
-Lopez_a337	12	3	12	Betula	Betula	TRSH
-Lopez_a337	1765	1	483	Campanula-type	Phyteuma-type	HERB
-Lopez_a337	18	1	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
-Lopez_a337	441	1	19	Castanea	Castanea sativa	TRSH
-Lopez_a337	769	1	24	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB
-Lopez_a337	201	3	31	Corylus	Corylus	TRSH
-Lopez_a337	482	4	13	Cruciferae	Brassicaceae	HERB
-Lopez_a337	3878	10	3878	Cytisus/Genista-type	Genista-type	HERB
-Lopez_a337	3929	2	3928	Erica arborea-type	Erica arborea-type	DWAR
-Lopez_a337	190	8	190	Fraxinus	Fraxinus	TRSH
-Lopez_a337	3988	5	497	Fumaria officinalis-type	Fumaria	HERB
-Lopez_a337	738	11	203	Juniperus-type	Juniperus-type	TRSH
-Lopez_a337	2345	12	494	Papaver rhoeas-type	Papaver rhoeas-type	HERB
-Lopez_a337	439	24	439	Pinus pinaster	Pinus pinaster	TRSH
-Lopez_a337	4308	46	125	Pinus sylvestris/nigra-type	Pinus sylvestris-type	TRSH
-Lopez_a337	1075	8	60	Plantago lanceolata-type	Plantago lanceolata-type	HERB
-Lopez_a337	429	14	80	Poaceae undiff.	Poaceae	HERB
-Lopez_a337	437	2	86	Quercus deciduous	Quercus robur-type	TRSH
-Lopez_a337	427	2	85	Quercus evergreen	Quercus ilex-type	TRSH
-Lopez_a337	135	2	135	Ranunculaceae	Ranunculaceae	HERB
-Lopez_a337	4489	20	92	Rosaceae undiff,	Rosaceae	TRSH
-Lopez_a337	1398	2	96	Rumex acetosella-type	Rumex acetosella	HERB
-Lopez_a337	492	1	492	Solanaceae	Solanaceae	HERB
-Lopez_a337	4604	3	4604	Sordaria	Sordaria-type	NOPO
-Lopez_a337	677	10	557	Sporormiella	Sporormiella-type	FUNG
-Lopez_a337	187	2	187	Tilia	Tilia	TRSH
-Lopez_a337	4718	1	453	Urtica dioica-type	Urtica dioica-type	HERB
-Lopez_a337	493	1	493	Valeriana	Valeriana	HERB
-Lopez_a337	430	1	430	Violaceae	Viola	HERB
-Lopez_a337	597	1	11	Aster-type	Aster-type	HERB
-Lopez_a337	1078	2	262	Polygonum aviculare-type	Polygonum aviculare-type	HERB
-Lopez_a337	3868	3	3868	Cyperaceae	Cyperaceae	AQUA
-Lopez_a337	4304	272	440	Pinus pinea/halepensis-type	Pinus halepensis-type	TRSH
-Lopez_a337	93	1	93	Rubiaceae	Rubiaceae	HERB
+samplename	original_varname	acc_varname	groupid	count	percentage
+Lopez_a337	Alnus	Alnus	TRSH	2	0.42918455
+Lopez_a337	Betula	Betula	TRSH	3	0.64377682
+Lopez_a337	Castanea	Castanea sativa	TRSH	1	0.21459227
+Lopez_a337	Corylus	Corylus	TRSH	3	0.64377682
+Lopez_a337	Erica arborea-type	Erica arborea-type	DWAR	2	0.42918455
+Lopez_a337	Fraxinus	Fraxinus	TRSH	8	1.7167382
+Lopez_a337	Juniperus-type	Juniperus-type	TRSH	11	2.360515
+Lopez_a337	Pinus pinea/halepensis-type	Pinus halepensis-type	TRSH	272	58.369099
+Lopez_a337	Pinus pinaster	Pinus pinaster	TRSH	24	5.1502146
+Lopez_a337	Pinus sylvestris/nigra-type	Pinus sylvestris-type	TRSH	46	9.8712446
+Lopez_a337	Quercus evergreen	Quercus ilex-type	TRSH	2	0.42918455
+Lopez_a337	Quercus deciduous	Quercus robur-type	TRSH	2	0.42918455
+Lopez_a337	Rosaceae undiff,	Rosaceae	TRSH	20	4.2918455
+Lopez_a337	Tilia	Tilia	TRSH	2	0.42918455
+Lopez_a337	Aster-type	Aster-type	HERB	1	0.21459227
+Lopez_a337	Cruciferae	Brassicaceae	HERB	4	0.8583691
+Lopez_a337	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	1	0.21459227
+Lopez_a337	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.21459227
+Lopez_a337	Fumaria officinalis-type	Fumaria	HERB	5	1.0729614
+Lopez_a337	Cytisus/Genista-type	Genista-type	HERB	10	2.1459227
+Lopez_a337	Papaver rhoeas-type	Papaver rhoeas-type	HERB	12	2.5751073
+Lopez_a337	Campanula-type	Phyteuma-type	HERB	1	0.21459227
+Lopez_a337	Plantago lanceolata-type	Plantago lanceolata-type	HERB	8	1.7167382
+Lopez_a337	Poaceae undiff.	Poaceae	HERB	14	3.0042918
+Lopez_a337	Polygonum aviculare-type	Polygonum aviculare-type	HERB	2	0.42918455
+Lopez_a337	Ranunculaceae	Ranunculaceae	HERB	2	0.42918455
+Lopez_a337	Rubiaceae	Rubiaceae	HERB	1	0.21459227
+Lopez_a337	Rumex acetosella-type	Rumex acetosella	HERB	2	0.42918455
+Lopez_a337	Solanaceae	Solanaceae	HERB	1	0.21459227
+Lopez_a337	Urtica dioica-type	Urtica dioica-type	HERB	1	0.21459227
+Lopez_a337	Valeriana	Valeriana	HERB	1	0.21459227
+Lopez_a337	Violaceae	Viola	HERB	1	0.21459227
+Lopez_a337	Cyperaceae	Cyperaceae	AQUA	3	0.64377682
+Lopez_a337	Sordaria	Sordaria-type	NOPO	3	
+Lopez_a337	Sporormiella	Sporormiella-type	FUNG	10	

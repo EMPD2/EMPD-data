@@ -1,40 +1,40 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
-Bjune_a128	5	34	5	Alnus	Alnus	TRSH
-Bjune_a128	7	1	7	Artemisia	Artemisia	HERB
-Bjune_a128	12	104	12	Betula	Betula	TRSH
-Bjune_a128	3619	1	3619	Betula/Corylus/Myrica	Betula/Corylus/Myrica	TRSH
-Bjune_a128	663	60	663	Botryococcus	Botryococcus	ALGA
-Bjune_a128	3665	5	3663	Carex-type	Carex	AQUA
-Bjune_a128	24	1	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
-Bjune_a128	31	2	31	Corylus avellana	Corylus	TRSH
-Bjune_a128	3852	4	3847	Corylus/Myrica	Corylus/Myrica	TRSH
-Bjune_a128	1247	3	772	Dryopteris-type	Dryopteris-type	VACR
-Bjune_a128	3944	1	130	Ericaceae-type	Ericales (tetrad)	DWAR
-Bjune_a128	42	2	42	Fagus sylvatica	Fagus	TRSH
-Bjune_a128	47	1	47	Fraxinus excelsior	Fraxinus excelsior-type	TRSH
-Bjune_a128	4018	63	80	Gramineae undiff.	Poaceae	HERB
-Bjune_a128	4072	2	998	Indeterminable: broken	Indeterminable: broken	INUN
-Bjune_a128	4074	1	1324	Indeterminable: corroded	Indeterminable: corroded	INUN
-Bjune_a128	718	2	718	Indeterminable: degraded	Indeterminable: degraded	INUN
-Bjune_a128	941	47	58	Juniperus communis	Juniperus communis-type	TRSH
-Bjune_a128	473	1	473	Melampyrum	Melampyrum	HERB
-Bjune_a128	4286	6	4284	Phragmites australis-type	Phragmites australis-type	AQUA
-Bjune_a128	126	30	126	Picea	Picea	TRSH
-Bjune_a128	788	202	125	Pinus sylvestris	Pinus sylvestris-type	TRSH
-Bjune_a128	60	1	60	Plantago lanceolata	Plantago lanceolata-type	HERB
-Bjune_a128	4323	1	458	Plantago major/P. media	Plantago major/P. media-type	HERB
-Bjune_a128	4384	3	912	Potamogeton sect. Eupotamogeton	Potamogeton natans-type	AQUA
-Bjune_a128	95	4	95	Rumex acetosa	Rumex acetosa-type	HERB
-Bjune_a128	4504	7	95	Rumex acetosa-type/R. acetosella-type	Rumex acetosa-type	HERB
-Bjune_a128	1398	5	96	Rumex acetosella-type	Rumex acetosella	HERB
-Bjune_a128	874	1	185	Selaginella selaginoides	Selaginella selaginoides	VACR
-Bjune_a128	4660	1	1541	Thelypteris phegopteris	Phegopteris connectilis	VACR
-Bjune_a128	969	1	177	Unknown	Indeterminable: unknown	INUN
-Bjune_a128	652	5	652	Urtica	Urtica	HERB
-Bjune_a128	45	1	45	Filipendula	Filipendula	HERB
-Bjune_a128	144	2	144	Sphagnum	Sphagnum	BRYO
-Bjune_a128	828	1	828	Humulus lupulus	Humulus lupulus	HERB
-Bjune_a128	1400	2	99	Salix undiff.	Salix	TRSH
-Bjune_a128	3601	2	818	Avena/Triticum-type	Avena/Triticum-type	HERB
-Bjune_a128	3646	3	3645	Calluna vulgaris	Calluna vulgaris	DWAR
-Bjune_a128	3873	1	3868	Cyperaceae undiff.	Cyperaceae	AQUA
+samplename	original_varname	acc_varname	groupid	count	percentage
+Bjune_a128	Alnus	Alnus	TRSH	34	6.3789869
+Bjune_a128	Betula	Betula	TRSH	104	19.512195
+Bjune_a128	Betula/Corylus/Myrica	Betula/Corylus/Myrica	TRSH	1	0.18761726
+Bjune_a128	Calluna vulgaris	Calluna vulgaris	DWAR	3	0.56285178
+Bjune_a128	Corylus avellana	Corylus	TRSH	2	0.37523452
+Bjune_a128	Corylus/Myrica	Corylus/Myrica	TRSH	4	0.75046904
+Bjune_a128	Ericaceae-type	Ericales (tetrad)	DWAR	1	0.18761726
+Bjune_a128	Fagus sylvatica	Fagus	TRSH	2	0.37523452
+Bjune_a128	Fraxinus excelsior	Fraxinus excelsior-type	TRSH	1	0.18761726
+Bjune_a128	Juniperus communis	Juniperus communis-type	TRSH	47	8.8180113
+Bjune_a128	Picea	Picea	TRSH	30	5.6285178
+Bjune_a128	Pinus sylvestris	Pinus sylvestris-type	TRSH	202	37.898687
+Bjune_a128	Salix undiff.	Salix	TRSH	2	0.37523452
+Bjune_a128	Artemisia	Artemisia	HERB	1	0.18761726
+Bjune_a128	Avena/Triticum-type	Avena/Triticum-type	HERB	2	0.37523452
+Bjune_a128	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.18761726
+Bjune_a128	Filipendula	Filipendula	HERB	1	0.18761726
+Bjune_a128	Humulus lupulus	Humulus lupulus	HERB	1	0.18761726
+Bjune_a128	Melampyrum	Melampyrum	HERB	1	0.18761726
+Bjune_a128	Plantago lanceolata	Plantago lanceolata-type	HERB	1	0.18761726
+Bjune_a128	Plantago major/P. media	Plantago major/P. media-type	HERB	1	0.18761726
+Bjune_a128	Gramineae undiff.	Poaceae	HERB	63	11.819887
+Bjune_a128	Rumex acetosa	Rumex acetosa-type	HERB	4	0.75046904
+Bjune_a128	Rumex acetosa-type/R. acetosella-type	Rumex acetosa-type	HERB	7	1.3133208
+Bjune_a128	Rumex acetosella-type	Rumex acetosella	HERB	5	0.9380863
+Bjune_a128	Urtica	Urtica	HERB	5	0.9380863
+Bjune_a128	Dryopteris-type	Dryopteris-type	VACR	3	0.56285178
+Bjune_a128	Thelypteris phegopteris	Phegopteris connectilis	VACR	1	0.18761726
+Bjune_a128	Selaginella selaginoides	Selaginella selaginoides	VACR	1	0.18761726
+Bjune_a128	Sphagnum	Sphagnum	BRYO	2	0.37523452
+Bjune_a128	Botryococcus	Botryococcus	ALGA	60	11.257036
+Bjune_a128	Carex-type	Carex	AQUA	5	0.9380863
+Bjune_a128	Cyperaceae undiff.	Cyperaceae	AQUA	1	0.18761726
+Bjune_a128	Phragmites australis-type	Phragmites australis-type	AQUA	6	1.1257036
+Bjune_a128	Potamogeton sect. Eupotamogeton	Potamogeton natans-type	AQUA	3	0.56285178
+Bjune_a128	Indeterminable: broken	Indeterminable: broken	INUN	2	
+Bjune_a128	Indeterminable: corroded	Indeterminable: corroded	INUN	1	
+Bjune_a128	Indeterminable: degraded	Indeterminable: degraded	INUN	2	
+Bjune_a128	Unknown	Indeterminable: unknown	INUN	1	

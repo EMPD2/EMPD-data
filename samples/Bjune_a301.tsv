@@ -1,38 +1,38 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
-Bjune_a301	5	2	5	Alnus	Alnus	TRSH
-Bjune_a301	663	3	663	Botryococcus	Botryococcus	ALGA
-Bjune_a301	3665	7	3663	Carex-type	Carex	AQUA
-Bjune_a301	3773	21	3773	Charcoal	Charcoal	MACR
-Bjune_a301	1383	1	336	Cirsium/Carduus	Asteraceae subf. Carduoideae	HERB
-Bjune_a301	3824	3	25	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB
-Bjune_a301	31	2	31	Corylus avellana	Corylus	TRSH
-Bjune_a301	1607	6	553	Cryptogramma crispa	Cryptogramma crispa	VACR
-Bjune_a301	3873	42	3868	Cyperaceae undiff.	Cyperaceae	AQUA
-Bjune_a301	1247	310	772	Dryopteris-type	Dryopteris-type	VACR
-Bjune_a301	939	15	739	Empetrum nigrum	Empetrum nigrum	DWAR
-Bjune_a301	3944	19	130	Ericaceae-type	Ericales (tetrad)	DWAR
-Bjune_a301	45	2	45	Filipendula	Filipendula	HERB
-Bjune_a301	4004	2	4004	Geranium sylvaticum-type	Geranium pratense-type	HERB
-Bjune_a301	4018	44	80	Gramineae undiff.	Poaceae	HERB
-Bjune_a301	2121	55	1320	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR
-Bjune_a301	964	1	184	Huperzia selago	Huperzia selago	VACR
-Bjune_a301	4073	1	999	Indeterminable: concealed	Indeterminable: concealed	INUN
-Bjune_a301	4075	8	1925	Indeterminable: crumpled	Indeterminable: crumpled	INUN
-Bjune_a301	2332	6	2332	Isoetes echinospora	Isoetes echinospora	AQPT
-Bjune_a301	1590	4	1590	Isoetes lacustris	Isoetes lacustris	AQPT
-Bjune_a301	965	7	183	Lycopodium annotinum	Lycopodium annotinum-type	VACR
-Bjune_a301	473	1	473	Melampyrum	Melampyrum	HERB
-Bjune_a301	662	163	662	Pediastrum	Pediastrum	ALGA
-Bjune_a301	788	26	125	Pinus sylvestris	Pinus sylvestris-type	TRSH
-Bjune_a301	630	2	87	Ranunculus acris-type	Ranunculus acris-type	HERB
-Bjune_a301	4459	1	1182	Ranunculus trichophyllus-type	Ranunculus aquatilis-type	AQUA
-Bjune_a301	4504	3	95	Rumex acetosa-type/R. acetosella-type	Rumex acetosa-type	HERB
-Bjune_a301	1400	2	99	Salix undiff.	Salix	TRSH
-Bjune_a301	874	24	185	Selaginella selaginoides	Selaginella selaginoides	VACR
-Bjune_a301	4694	1	2163	Trollius europaeus	Trollius europaeus	HERB
-Bjune_a301	4730	17	4730	Vaccinium-type	Vaccinium-type	DWAR
-Bjune_a301	4734	1	1087	Valeriana sambucifolia-type	Valeriana officinalis-type	HERB
-Bjune_a301	12	124	12	Betula	Betula	TRSH
-Bjune_a301	145	14	145	Equisetum	Equisetum	VACR
-Bjune_a301	941	1	58	Juniperus communis	Juniperus communis-type	TRSH
-Bjune_a301	2428	13	133	Solidago-type	Senecio-type	HERB
+samplename	original_varname	acc_varname	groupid	count	percentage
+Bjune_a301	Alnus	Alnus	TRSH	2	0.28653295
+Bjune_a301	Betula	Betula	TRSH	124	17.765043
+Bjune_a301	Corylus avellana	Corylus	TRSH	2	0.28653295
+Bjune_a301	Empetrum nigrum	Empetrum nigrum	DWAR	15	2.1489971
+Bjune_a301	Ericaceae-type	Ericales (tetrad)	DWAR	19	2.722063
+Bjune_a301	Juniperus communis	Juniperus communis-type	TRSH	1	0.14326648
+Bjune_a301	Pinus sylvestris	Pinus sylvestris-type	TRSH	26	3.7249284
+Bjune_a301	Salix undiff.	Salix	TRSH	2	0.28653295
+Bjune_a301	Vaccinium-type	Vaccinium-type	DWAR	17	2.4355301
+Bjune_a301	Cirsium/Carduus	Asteraceae subf. Carduoideae	HERB	1	0.14326648
+Bjune_a301	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB	3	0.42979943
+Bjune_a301	Filipendula	Filipendula	HERB	2	0.28653295
+Bjune_a301	Geranium sylvaticum-type	Geranium pratense-type	HERB	2	0.28653295
+Bjune_a301	Melampyrum	Melampyrum	HERB	1	0.14326648
+Bjune_a301	Gramineae undiff.	Poaceae	HERB	44	6.3037249
+Bjune_a301	Ranunculus acris-type	Ranunculus acris-type	HERB	2	0.28653295
+Bjune_a301	Rumex acetosa-type/R. acetosella-type	Rumex acetosa-type	HERB	3	0.42979943
+Bjune_a301	Solidago-type	Senecio-type	HERB	13	1.8624642
+Bjune_a301	Trollius europaeus	Trollius europaeus	HERB	1	0.14326648
+Bjune_a301	Valeriana sambucifolia-type	Valeriana officinalis-type	HERB	1	0.14326648
+Bjune_a301	Cryptogramma crispa	Cryptogramma crispa	VACR	6	0.85959885
+Bjune_a301	Dryopteris-type	Dryopteris-type	VACR	310	44.412607
+Bjune_a301	Equisetum	Equisetum	VACR	14	2.0057307
+Bjune_a301	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR	55	7.8796562
+Bjune_a301	Huperzia selago	Huperzia selago	VACR	1	0.14326648
+Bjune_a301	Lycopodium annotinum	Lycopodium annotinum-type	VACR	7	1.0028653
+Bjune_a301	Selaginella selaginoides	Selaginella selaginoides	VACR	24	3.4383954
+Bjune_a301	Botryococcus	Botryococcus	ALGA	3	0.42979943
+Bjune_a301	Carex-type	Carex	AQUA	7	1.0028653
+Bjune_a301	Cyperaceae undiff.	Cyperaceae	AQUA	42	6.017192
+Bjune_a301	Isoetes echinospora	Isoetes echinospora	AQPT	6	0.85959885
+Bjune_a301	Isoetes lacustris	Isoetes lacustris	AQPT	4	0.5730659
+Bjune_a301	Pediastrum	Pediastrum	ALGA	163	23.352436
+Bjune_a301	Ranunculus trichophyllus-type	Ranunculus aquatilis-type	AQUA	1	0.14326648
+Bjune_a301	Indeterminable: concealed	Indeterminable: concealed	INUN	1	
+Bjune_a301	Indeterminable: crumpled	Indeterminable: crumpled	INUN	8	
+Bjune_a301	Charcoal	Charcoal	MACR	21	

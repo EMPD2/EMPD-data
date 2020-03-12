@@ -1,40 +1,40 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
-Bjune_a76	7	3	7	Artemisia	Artemisia	HERB
-Bjune_a76	12	136	12	Betula	Betula	TRSH
-Bjune_a76	3646	1	3645	Calluna vulgaris	Calluna vulgaris	DWAR
-Bjune_a76	3658	1	13	Capsella-type	Brassicaceae	HERB
-Bjune_a76	3665	12	3663	Carex-type	Carex	AQUA
-Bjune_a76	3873	2	3868	Cyperaceae undiff.	Cyperaceae	AQUA
-Bjune_a76	1247	18	772	Dryopteris-type	Dryopteris-type	VACR
-Bjune_a76	42	1	42	Fagus sylvatica	Fagus	TRSH
-Bjune_a76	4018	49	80	Gramineae undiff.	Poaceae	HERB
-Bjune_a76	4072	1	998	Indeterminable: broken	Indeterminable: broken	INUN
-Bjune_a76	4073	1	999	Indeterminable: concealed	Indeterminable: concealed	INUN
-Bjune_a76	941	30	58	Juniperus communis	Juniperus communis-type	TRSH
-Bjune_a76	965	2	183	Lycopodium annotinum	Lycopodium annotinum-type	VACR
-Bjune_a76	1714	1	1549	Lycopodium clavatum	Lycopodium clavatum	VACR
-Bjune_a76	4286	6	4284	Phragmites australis-type	Phragmites australis-type	AQUA
-Bjune_a76	126	68	126	Picea	Picea	TRSH
-Bjune_a76	788	143	125	Pinus sylvestris	Pinus sylvestris-type	TRSH
-Bjune_a76	60	1	60	Plantago lanceolata	Plantago lanceolata-type	HERB
-Bjune_a76	4323	1	458	Plantago major/P. media	Plantago major/P. media-type	HERB
-Bjune_a76	4384	1	912	Potamogeton sect. Eupotamogeton	Potamogeton natans-type	AQUA
-Bjune_a76	189	5	189	Quercus	Quercus	TRSH
-Bjune_a76	630	1	87	Ranunculus acris-type	Ranunculus acris-type	HERB
-Bjune_a76	4504	1	95	Rumex acetosa-type/R. acetosella-type	Rumex acetosa-type	HERB
-Bjune_a76	1398	2	96	Rumex acetosella-type	Rumex acetosella	HERB
-Bjune_a76	1400	4	99	Salix undiff.	Salix	TRSH
-Bjune_a76	144	8	144	Sphagnum	Sphagnum	BRYO
-Bjune_a76	154	2	154	Ulmus	Ulmus/Zelkova	TRSH
-Bjune_a76	969	1	177	Unknown	Indeterminable: unknown	INUN
-Bjune_a76	2	1	2	Acer	Acer campestre-type	TRSH
-Bjune_a76	5	18	5	Alnus	Alnus	TRSH
-Bjune_a76	31	6	31	Corylus avellana	Corylus	TRSH
-Bjune_a76	652	13	652	Urtica	Urtica	HERB
-Bjune_a76	662	26	662	Pediastrum	Pediastrum	ALGA
-Bjune_a76	663	24	663	Botryococcus	Botryococcus	ALGA
-Bjune_a76	949	1	258	Hordeum-type	Hordeum-type	HERB
-Bjune_a76	1765	1	483	Campanula-type	Phyteuma-type	HERB
-Bjune_a76	3824	1	25	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB
-Bjune_a76	3944	1	130	Ericaceae-type	Ericales (tetrad)	DWAR
-Bjune_a76	472	1	92	Rosaceae undiff.	Rosaceae	TRSH
+samplename	original_varname	acc_varname	groupid	count	percentage
+Bjune_a76	Acer	Acer campestre-type	TRSH	1	0.19193858
+Bjune_a76	Alnus	Alnus	TRSH	18	3.4548944
+Bjune_a76	Betula	Betula	TRSH	136	26.103647
+Bjune_a76	Calluna vulgaris	Calluna vulgaris	DWAR	1	0.19193858
+Bjune_a76	Corylus avellana	Corylus	TRSH	6	1.1516315
+Bjune_a76	Ericaceae-type	Ericales (tetrad)	DWAR	1	0.19193858
+Bjune_a76	Fagus sylvatica	Fagus	TRSH	1	0.19193858
+Bjune_a76	Juniperus communis	Juniperus communis-type	TRSH	30	5.7581574
+Bjune_a76	Picea	Picea	TRSH	68	13.051823
+Bjune_a76	Pinus sylvestris	Pinus sylvestris-type	TRSH	143	27.447217
+Bjune_a76	Quercus	Quercus	TRSH	5	0.9596929
+Bjune_a76	Rosaceae undiff.	Rosaceae	TRSH	1	0.19193858
+Bjune_a76	Salix undiff.	Salix	TRSH	4	0.76775432
+Bjune_a76	Ulmus	Ulmus/Zelkova	TRSH	2	0.38387716
+Bjune_a76	Artemisia	Artemisia	HERB	3	0.57581574
+Bjune_a76	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB	1	0.19193858
+Bjune_a76	Capsella-type	Brassicaceae	HERB	1	0.19193858
+Bjune_a76	Hordeum-type	Hordeum-type	HERB	1	0.19193858
+Bjune_a76	Campanula-type	Phyteuma-type	HERB	1	0.19193858
+Bjune_a76	Plantago lanceolata	Plantago lanceolata-type	HERB	1	0.19193858
+Bjune_a76	Plantago major/P. media	Plantago major/P. media-type	HERB	1	0.19193858
+Bjune_a76	Gramineae undiff.	Poaceae	HERB	49	9.4049904
+Bjune_a76	Ranunculus acris-type	Ranunculus acris-type	HERB	1	0.19193858
+Bjune_a76	Rumex acetosa-type/R. acetosella-type	Rumex acetosa-type	HERB	1	0.19193858
+Bjune_a76	Rumex acetosella-type	Rumex acetosella	HERB	2	0.38387716
+Bjune_a76	Urtica	Urtica	HERB	13	2.4952015
+Bjune_a76	Dryopteris-type	Dryopteris-type	VACR	18	3.4548944
+Bjune_a76	Lycopodium annotinum	Lycopodium annotinum-type	VACR	2	0.38387716
+Bjune_a76	Lycopodium clavatum	Lycopodium clavatum	VACR	1	0.19193858
+Bjune_a76	Sphagnum	Sphagnum	BRYO	8	1.5355086
+Bjune_a76	Botryococcus	Botryococcus	ALGA	24	4.6065259
+Bjune_a76	Carex-type	Carex	AQUA	12	2.303263
+Bjune_a76	Cyperaceae undiff.	Cyperaceae	AQUA	2	0.38387716
+Bjune_a76	Pediastrum	Pediastrum	ALGA	26	4.9904031
+Bjune_a76	Phragmites australis-type	Phragmites australis-type	AQUA	6	1.1516315
+Bjune_a76	Potamogeton sect. Eupotamogeton	Potamogeton natans-type	AQUA	1	0.19193858
+Bjune_a76	Indeterminable: broken	Indeterminable: broken	INUN	1	
+Bjune_a76	Indeterminable: concealed	Indeterminable: concealed	INUN	1	
+Bjune_a76	Unknown	Indeterminable: unknown	INUN	1	

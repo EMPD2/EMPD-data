@@ -1,40 +1,40 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
-Bjune_a24	944	3	323	Alchemilla	Alchemilla	HERB
-Bjune_a24	7	3	7	Artemisia	Artemisia	HERB
-Bjune_a24	12	103	12	Betula	Betula	TRSH
-Bjune_a24	3619	3	3619	Betula/Corylus/Myrica	Betula/Corylus/Myrica	TRSH
-Bjune_a24	663	3	663	Botryococcus	Botryococcus	ALGA
-Bjune_a24	3646	2	3645	Calluna vulgaris	Calluna vulgaris	DWAR
-Bjune_a24	1765	1	483	Campanula-type	Phyteuma-type	HERB
-Bjune_a24	3824	17	25	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB
-Bjune_a24	3910	1	2123	Dryas octopetala	Dryas octopetala	HERB
-Bjune_a24	1247	451	772	Dryopteris-type	Dryopteris-type	VACR
-Bjune_a24	3944	4	130	Ericaceae-type	Ericales (tetrad)	DWAR
-Bjune_a24	45	5	45	Filipendula	Filipendula	HERB
-Bjune_a24	4004	1	4004	Geranium sylvaticum-type	Geranium pratense-type	HERB
-Bjune_a24	4018	57	80	Gramineae undiff.	Poaceae	HERB
-Bjune_a24	4072	4	998	Indeterminable: broken	Indeterminable: broken	INUN
-Bjune_a24	4073	1	999	Indeterminable: concealed	Indeterminable: concealed	INUN
-Bjune_a24	4074	19	1324	Indeterminable: corroded	Indeterminable: corroded	INUN
-Bjune_a24	4075	2	1925	Indeterminable: crumpled	Indeterminable: crumpled	INUN
-Bjune_a24	718	2	718	Indeterminable: degraded	Indeterminable: degraded	INUN
-Bjune_a24	1590	30	1590	Isoetes lacustris	Isoetes lacustris	AQPT
-Bjune_a24	473	1	473	Melampyrum	Melampyrum	HERB
-Bjune_a24	662	129	662	Pediastrum	Pediastrum	ALGA
-Bjune_a24	788	12	125	Pinus sylvestris	Pinus sylvestris-type	TRSH
-Bjune_a24	4459	3	1182	Ranunculus trichophyllus-type	Ranunculus aquatilis-type	AQUA
-Bjune_a24	95	4	95	Rumex acetosa	Rumex acetosa-type	HERB
-Bjune_a24	4504	8	95	Rumex acetosa-type/R. acetosella-type	Rumex acetosa-type	HERB
-Bjune_a24	1398	1	96	Rumex acetosella-type	Rumex acetosella	HERB
-Bjune_a24	1400	6	99	Salix undiff.	Salix	TRSH
-Bjune_a24	2428	3	133	Solidago-type	Senecio-type	HERB
-Bjune_a24	969	1	177	Unknown	Indeterminable: unknown	INUN
-Bjune_a24	4711	2	6	Umbelliferae undiff.	Apiaceae	HERB
-Bjune_a24	4730	2	4730	Vaccinium-type	Vaccinium-type	DWAR
-Bjune_a24	60	1	60	Plantago lanceolata	Plantago lanceolata-type	HERB
-Bjune_a24	874	1	185	Selaginella selaginoides	Selaginella selaginoides	VACR
-Bjune_a24	941	19	58	Juniperus communis	Juniperus communis-type	TRSH
-Bjune_a24	1180	3	135	Ranunculaceae undiff.	Ranunculaceae	HERB
-Bjune_a24	2121	6	1320	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR
-Bjune_a24	3665	7	3663	Carex-type	Carex	AQUA
-Bjune_a24	3873	4	3868	Cyperaceae undiff.	Cyperaceae	AQUA
+samplename	original_varname	acc_varname	groupid	count	percentage
+Bjune_a24	Betula	Betula	TRSH	103	14.305556
+Bjune_a24	Betula/Corylus/Myrica	Betula/Corylus/Myrica	TRSH	3	0.41666667
+Bjune_a24	Calluna vulgaris	Calluna vulgaris	DWAR	2	0.27777778
+Bjune_a24	Ericaceae-type	Ericales (tetrad)	DWAR	4	0.55555556
+Bjune_a24	Juniperus communis	Juniperus communis-type	TRSH	19	2.6388889
+Bjune_a24	Pinus sylvestris	Pinus sylvestris-type	TRSH	12	1.6666667
+Bjune_a24	Salix undiff.	Salix	TRSH	6	0.83333333
+Bjune_a24	Vaccinium-type	Vaccinium-type	DWAR	2	0.27777778
+Bjune_a24	Alchemilla	Alchemilla	HERB	3	0.41666667
+Bjune_a24	Umbelliferae undiff.	Apiaceae	HERB	2	0.27777778
+Bjune_a24	Artemisia	Artemisia	HERB	3	0.41666667
+Bjune_a24	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB	17	2.3611111
+Bjune_a24	Dryas octopetala	Dryas octopetala	HERB	1	0.13888889
+Bjune_a24	Filipendula	Filipendula	HERB	5	0.69444444
+Bjune_a24	Geranium sylvaticum-type	Geranium pratense-type	HERB	1	0.13888889
+Bjune_a24	Melampyrum	Melampyrum	HERB	1	0.13888889
+Bjune_a24	Campanula-type	Phyteuma-type	HERB	1	0.13888889
+Bjune_a24	Plantago lanceolata	Plantago lanceolata-type	HERB	1	0.13888889
+Bjune_a24	Gramineae undiff.	Poaceae	HERB	57	7.9166667
+Bjune_a24	Ranunculaceae undiff.	Ranunculaceae	HERB	3	0.41666667
+Bjune_a24	Rumex acetosa	Rumex acetosa-type	HERB	4	0.55555556
+Bjune_a24	Rumex acetosa-type/R. acetosella-type	Rumex acetosa-type	HERB	8	1.1111111
+Bjune_a24	Rumex acetosella-type	Rumex acetosella	HERB	1	0.13888889
+Bjune_a24	Solidago-type	Senecio-type	HERB	3	0.41666667
+Bjune_a24	Dryopteris-type	Dryopteris-type	VACR	451	62.638889
+Bjune_a24	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR	6	0.83333333
+Bjune_a24	Selaginella selaginoides	Selaginella selaginoides	VACR	1	0.13888889
+Bjune_a24	Botryococcus	Botryococcus	ALGA	3	0.41666667
+Bjune_a24	Carex-type	Carex	AQUA	7	0.97222222
+Bjune_a24	Cyperaceae undiff.	Cyperaceae	AQUA	4	0.55555556
+Bjune_a24	Isoetes lacustris	Isoetes lacustris	AQPT	30	4.1666667
+Bjune_a24	Pediastrum	Pediastrum	ALGA	129	17.916667
+Bjune_a24	Ranunculus trichophyllus-type	Ranunculus aquatilis-type	AQUA	3	0.41666667
+Bjune_a24	Indeterminable: broken	Indeterminable: broken	INUN	4	
+Bjune_a24	Indeterminable: concealed	Indeterminable: concealed	INUN	1	
+Bjune_a24	Indeterminable: corroded	Indeterminable: corroded	INUN	19	
+Bjune_a24	Indeterminable: crumpled	Indeterminable: crumpled	INUN	2	
+Bjune_a24	Indeterminable: degraded	Indeterminable: degraded	INUN	2	
+Bjune_a24	Unknown	Indeterminable: unknown	INUN	1	

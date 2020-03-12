@@ -1,41 +1,41 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
-EPDcoretop_E986	5	27	5	Alnus	Alnus	TRSH
-EPDcoretop_E986	12	121	12	Betula	Betula	TRSH
-EPDcoretop_E986	663	3	663	Botryococcus	Botryococcus	ALGA
-EPDcoretop_E986	3646	4	3645	Calluna vulgaris	Calluna vulgaris	DWAR
-EPDcoretop_E986	3665	42	3663	Carex-type	Carex	AQUA
-EPDcoretop_E986	3773	4	3773	Charcoal	Charcoal	MACR
-EPDcoretop_E986	3829	182	3829	Concentration of spike	Concentration of spike	NOPO
-EPDcoretop_E986	1607	1	553	Cryptogramma crispa	Cryptogramma crispa	VACR
-EPDcoretop_E986	3873	9	3868	Cyperaceae undiff.	Cyperaceae	AQUA
-EPDcoretop_E986	825	2	220	Dryopteris filix-mas	Dryopteris filix-mas-type	VACR
-EPDcoretop_E986	1247	68	772	Dryopteris-type	Dryopteris-type	VACR
-EPDcoretop_E986	145	2	145	Equisetum	Equisetum	VACR
-EPDcoretop_E986	3957	607	3957	Exotic grains	Exotic grains	NOPO
-EPDcoretop_E986	47	2	47	Fraxinus excelsior	Fraxinus excelsior-type	TRSH
-EPDcoretop_E986	2121	12	1320	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR
-EPDcoretop_E986	4075	4	1925	Indeterminable: crumpled	Indeterminable: crumpled	INUN
-EPDcoretop_E986	552	4	366	Isoetes	Isoetes	AQPT
-EPDcoretop_E986	1590	16	1590	Isoetes lacustris	Isoetes lacustris	AQPT
-EPDcoretop_E986	941	29	58	Juniperus communis	Juniperus communis-type	TRSH
-EPDcoretop_E986	473	5	473	Melampyrum	Melampyrum	HERB
-EPDcoretop_E986	4227	1	4227	Nymphaeaceae: star cell	Nymphaeaceae: star cell	NOPO
-EPDcoretop_E986	662	2	662	Pediastrum	Pediastrum	ALGA
-EPDcoretop_E986	126	2	126	Picea	Picea	TRSH
-EPDcoretop_E986	788	206	125	Pinus sylvestris	Pinus sylvestris-type	TRSH
-EPDcoretop_E986	60	2	60	Plantago lanceolata	Plantago lanceolata-type	HERB
-EPDcoretop_E986	80	50	80	Poaceae	Poaceae	HERB
-EPDcoretop_E986	189	2	189	Quercus	Quercus	TRSH
-EPDcoretop_E986	634	2	95	Rumex acetosa-type	Rumex acetosa-type	HERB
-EPDcoretop_E986	1400	3	99	Salix undiff.	Salix	TRSH
-EPDcoretop_E986	144	20	144	Sphagnum	Sphagnum	BRYO
-EPDcoretop_E986	154	2	154	Ulmus	Ulmus/Zelkova	TRSH
-EPDcoretop_E986	652	6	652	Urtica	Urtica	HERB
-EPDcoretop_E986	4763	455	4763	Weight of tablets	Weight of tablets	NOPO
-EPDcoretop_E986	45	11	45	Filipendula	Filipendula	HERB
-EPDcoretop_E986	201	3	31	Corylus	Corylus	TRSH
-EPDcoretop_E986	626	1	512	Potentilla-type	Potentilla-type	HERB
-EPDcoretop_E986	965	1	183	Lycopodium annotinum	Lycopodium annotinum-type	VACR
-EPDcoretop_E986	1406	1	153	Tilia cordata	Tilia cordata-type	TRSH
-EPDcoretop_E986	3894	2	182	Diphasiastrum	Lycopodium clavatum-type	VACR
-EPDcoretop_E986	3944	1	130	Ericaceae-type	Ericales (tetrad)	DWAR
+samplename	original_varname	acc_varname	groupid	count	percentage
+EPDcoretop_E986	Alnus	Alnus	TRSH	27	4.5918367
+EPDcoretop_E986	Betula	Betula	TRSH	121	20.578231
+EPDcoretop_E986	Calluna vulgaris	Calluna vulgaris	DWAR	4	0.68027211
+EPDcoretop_E986	Corylus	Corylus	TRSH	3	0.51020408
+EPDcoretop_E986	Ericaceae-type	Ericales (tetrad)	DWAR	1	0.17006803
+EPDcoretop_E986	Fraxinus excelsior	Fraxinus excelsior-type	TRSH	2	0.34013605
+EPDcoretop_E986	Juniperus communis	Juniperus communis-type	TRSH	29	4.9319728
+EPDcoretop_E986	Picea	Picea	TRSH	2	0.34013605
+EPDcoretop_E986	Pinus sylvestris	Pinus sylvestris-type	TRSH	206	35.034014
+EPDcoretop_E986	Quercus	Quercus	TRSH	2	0.34013605
+EPDcoretop_E986	Salix undiff.	Salix	TRSH	3	0.51020408
+EPDcoretop_E986	Tilia cordata	Tilia cordata-type	TRSH	1	0.17006803
+EPDcoretop_E986	Ulmus	Ulmus/Zelkova	TRSH	2	0.34013605
+EPDcoretop_E986	Filipendula	Filipendula	HERB	11	1.8707483
+EPDcoretop_E986	Melampyrum	Melampyrum	HERB	5	0.85034014
+EPDcoretop_E986	Plantago lanceolata	Plantago lanceolata-type	HERB	2	0.34013605
+EPDcoretop_E986	Poaceae	Poaceae	HERB	50	8.5034014
+EPDcoretop_E986	Potentilla-type	Potentilla-type	HERB	1	0.17006803
+EPDcoretop_E986	Rumex acetosa-type	Rumex acetosa-type	HERB	2	0.34013605
+EPDcoretop_E986	Urtica	Urtica	HERB	6	1.0204082
+EPDcoretop_E986	Cryptogramma crispa	Cryptogramma crispa	VACR	1	0.17006803
+EPDcoretop_E986	Dryopteris filix-mas	Dryopteris filix-mas-type	VACR	2	0.34013605
+EPDcoretop_E986	Dryopteris-type	Dryopteris-type	VACR	68	11.564626
+EPDcoretop_E986	Equisetum	Equisetum	VACR	2	0.34013605
+EPDcoretop_E986	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR	12	2.0408163
+EPDcoretop_E986	Lycopodium annotinum	Lycopodium annotinum-type	VACR	1	0.17006803
+EPDcoretop_E986	Diphasiastrum	Lycopodium clavatum-type	VACR	2	0.34013605
+EPDcoretop_E986	Sphagnum	Sphagnum	BRYO	20	3.4013605
+EPDcoretop_E986	Botryococcus	Botryococcus	ALGA	3	0.51020408
+EPDcoretop_E986	Carex-type	Carex	AQUA	42	7.1428571
+EPDcoretop_E986	Cyperaceae undiff.	Cyperaceae	AQUA	9	1.5306122
+EPDcoretop_E986	Isoetes	Isoetes	AQPT	4	0.68027211
+EPDcoretop_E986	Isoetes lacustris	Isoetes lacustris	AQPT	16	2.7210884
+EPDcoretop_E986	Pediastrum	Pediastrum	ALGA	2	0.34013605
+EPDcoretop_E986	Indeterminable: crumpled	Indeterminable: crumpled	INUN	4	
+EPDcoretop_E986	Charcoal	Charcoal	MACR	4	
+EPDcoretop_E986	Concentration of spike	Concentration of spike	NOPO	182	
+EPDcoretop_E986	Exotic grains	Exotic grains	NOPO	607	
+EPDcoretop_E986	Nymphaeaceae: star cell	Nymphaeaceae: star cell	NOPO	1	
+EPDcoretop_E986	Weight of tablets	Weight of tablets	NOPO	455	

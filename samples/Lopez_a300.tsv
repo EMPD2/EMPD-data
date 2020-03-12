@@ -1,35 +1,35 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
-Lopez_a300	5	2	5	Alnus	Alnus	TRSH
-Lopez_a300	6	3	6	Apiaceae	Apiaceae	HERB
-Lopez_a300	597	5	11	Aster-type	Aster-type	HERB
-Lopez_a300	1765	3	483	Campanula-type	Phyteuma-type	HERB
-Lopez_a300	18	3	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
-Lopez_a300	447	8	25	Cichorioideae	Asteraceae subf. Cichorioideae	HERB
-Lopez_a300	3800	3	3800	Cistus ladanifer	Cistus ladanifer-type	HERB
-Lopez_a300	3868	9	3868	Cyperaceae	Cyperaceae	AQUA
-Lopez_a300	3878	14	3878	Cytisus/Genista-type	Genista-type	HERB
-Lopez_a300	3929	3	3928	Erica arborea-type	Erica arborea-type	DWAR
-Lopez_a300	190	12	190	Fraxinus	Fraxinus	TRSH
-Lopez_a300	3988	1	497	Fumaria officinalis-type	Fumaria	HERB
-Lopez_a300	4131	1	62	Liliaceae undiff,	Liliaceae-type	HERB
-Lopez_a300	473	1	473	Melampyrum	Melampyrum	HERB
-Lopez_a300	4195	1	146	Monolete fern spores undiff.	Monolete fern spores	VACR
-Lopez_a300	439	101	439	Pinus pinaster	Pinus pinaster	TRSH
-Lopez_a300	4308	127	125	Pinus sylvestris/nigra-type	Pinus sylvestris-type	TRSH
-Lopez_a300	429	14	80	Poaceae undiff.	Poaceae	HERB
-Lopez_a300	4403	37	490	Prunus/Rubus-type	Rosaceae (non-operculate)	TRSH
-Lopez_a300	437	4	86	Quercus deciduous	Quercus robur-type	TRSH
-Lopez_a300	427	3	85	Quercus evergreen	Quercus ilex-type	TRSH
-Lopez_a300	93	3	93	Rubiaceae	Rubiaceae	HERB
-Lopez_a300	634	5	95	Rumex acetosa-type	Rumex acetosa-type	HERB
-Lopez_a300	1398	1	96	Rumex acetosella-type	Rumex acetosella	HERB
-Lopez_a300	491	2	491	Saxifraga	Saxifraga	HERB
-Lopez_a300	492	1	492	Solanaceae	Solanaceae	HERB
-Lopez_a300	4683	2	279	Trilete fern spores undiff.	Trilete spore(s)	VACR
-Lopez_a300	4718	2	453	Urtica dioica-type	Urtica dioica-type	HERB
-Lopez_a300	493	3	493	Valeriana	Valeriana	HERB
-Lopez_a300	4755	1	4754	Viscum album-type	Viscum album	HEMI
-Lopez_a300	482	10	13	Cruciferae	Brassicaceae	HERB
-Lopez_a300	738	3	203	Juniperus-type	Juniperus-type	TRSH
-Lopez_a300	1075	4	60	Plantago lanceolata-type	Plantago lanceolata-type	HERB
-Lopez_a300	2345	15	494	Papaver rhoeas-type	Papaver rhoeas-type	HERB
+samplename	original_varname	acc_varname	groupid	count	percentage
+Lopez_a300	Alnus	Alnus	TRSH	2	0.50377834
+Lopez_a300	Erica arborea-type	Erica arborea-type	DWAR	3	0.75566751
+Lopez_a300	Fraxinus	Fraxinus	TRSH	12	3.02267
+Lopez_a300	Juniperus-type	Juniperus-type	TRSH	3	0.75566751
+Lopez_a300	Pinus pinaster	Pinus pinaster	TRSH	101	25.440806
+Lopez_a300	Pinus sylvestris/nigra-type	Pinus sylvestris-type	TRSH	127	31.989924
+Lopez_a300	Quercus evergreen	Quercus ilex-type	TRSH	3	0.75566751
+Lopez_a300	Quercus deciduous	Quercus robur-type	TRSH	4	1.0075567
+Lopez_a300	Prunus/Rubus-type	Rosaceae (non-operculate)	TRSH	37	9.3198992
+Lopez_a300	Apiaceae	Apiaceae	HERB	3	0.75566751
+Lopez_a300	Aster-type	Aster-type	HERB	5	1.2594458
+Lopez_a300	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	8	2.0151134
+Lopez_a300	Cruciferae	Brassicaceae	HERB	10	2.5188917
+Lopez_a300	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	3	0.75566751
+Lopez_a300	Cistus ladanifer	Cistus ladanifer-type	HERB	3	0.75566751
+Lopez_a300	Fumaria officinalis-type	Fumaria	HERB	1	0.25188917
+Lopez_a300	Cytisus/Genista-type	Genista-type	HERB	14	3.5264484
+Lopez_a300	Liliaceae undiff,	Liliaceae-type	HERB	1	0.25188917
+Lopez_a300	Melampyrum	Melampyrum	HERB	1	0.25188917
+Lopez_a300	Papaver rhoeas-type	Papaver rhoeas-type	HERB	15	3.7783375
+Lopez_a300	Campanula-type	Phyteuma-type	HERB	3	0.75566751
+Lopez_a300	Plantago lanceolata-type	Plantago lanceolata-type	HERB	4	1.0075567
+Lopez_a300	Poaceae undiff.	Poaceae	HERB	14	3.5264484
+Lopez_a300	Rubiaceae	Rubiaceae	HERB	3	0.75566751
+Lopez_a300	Rumex acetosa-type	Rumex acetosa-type	HERB	5	1.2594458
+Lopez_a300	Rumex acetosella-type	Rumex acetosella	HERB	1	0.25188917
+Lopez_a300	Saxifraga	Saxifraga	HERB	2	0.50377834
+Lopez_a300	Solanaceae	Solanaceae	HERB	1	0.25188917
+Lopez_a300	Urtica dioica-type	Urtica dioica-type	HERB	2	0.50377834
+Lopez_a300	Valeriana	Valeriana	HERB	3	0.75566751
+Lopez_a300	Monolete fern spores undiff.	Monolete fern spores	VACR	1	0.25188917
+Lopez_a300	Trilete fern spores undiff.	Trilete spore(s)	VACR	2	0.50377834
+Lopez_a300	Cyperaceae	Cyperaceae	AQUA	9	2.2670025
+Lopez_a300	Viscum album-type	Viscum album	HEMI	1	
