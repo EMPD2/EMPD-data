@@ -4,6 +4,7 @@ import pathlib
 import os
 import os.path as osp
 import pytest
+import glob
 from functools import partial
 from itertools import starmap
 import textwrap
@@ -94,6 +95,16 @@ def base_meta_file():
 @pytest.fixture(scope='session')
 def base_meta():
     return _meta(_base_meta_file)
+
+
+@pytest.fixture(scope='session')
+def external_meta():
+    import pandas as pd
+    frames = []
+    for f in glob.glob(osp.join(osp.dirname(_base_meta_file), "external",
+                                "*.tsv")):
+        frames.append(_meta(f))
+    return pd.concat(frames)
 
 
 @pytest.fixture(scope='session')

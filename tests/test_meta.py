@@ -28,10 +28,11 @@ def isnull(val):
 # ---- meta.tsv tests
 
 
-def test_meta_exists(samples_dir, meta, base_meta):
+def test_meta_exists(samples_dir, meta, base_meta, external_meta):
     files = glob.glob(osp.join(samples_dir, '*.tsv'))
     samples = map(lambda f: osp.splitext(osp.basename(f))[0], files)
     missing = set(samples).difference(base_meta.index).difference(meta.index)
+    missing.difference_update(external_meta.index)
     assert not missing, f"Missing meta information for samples {missing}"
 
 
