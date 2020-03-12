@@ -1,37 +1,37 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Matthias_b16	Alnus	Alnus	TRSH	217	21.337266
-Matthias_b16	Betula	Betula	TRSH	186	18.289086
-Matthias_b16	Calluna	Calluna vulgaris	TRSH	3	0.29498525
-Matthias_b16	Cannabaceae	Cannabaceae	TRSH	1	0.098328417
-Matthias_b16	Carpinus	Carpinus betulus	TRSH	4	0.39331367
-Matthias_b16	Castanea	Castanea sativa	TRSH	1	0.098328417
-Matthias_b16	Corylus	Corylus	TRSH	9	0.88495575
-Matthias_b16	Fagus	Fagus	TRSH	9	0.88495575
-Matthias_b16	Larix/Pseudotsuga	Larix/Pseudotsuga	TRSH	6	0.5899705
-Matthias_b16	Picea	Picea	TRSH	8	0.78662734
-Matthias_b16	Pinus	Pinus	TRSH	328	32.251721
-Matthias_b16	Populus	Populus	TRSH	6	0.5899705
-Matthias_b16	Quercus	Quercus	TRSH	85	8.3579154
-Matthias_b16	Sorbus-group	Rosaceae (non-operculate)	TRSH	2	0.19665683
-Matthias_b16	Salix	Salix	TRSH	9	0.88495575
-Matthias_b16	Tilia platyphyllos	Tilia platyphyllos-type	TRSH	1	0.098328417
-Matthias_b16	Ulmus	Ulmus/Zelkova	TRSH	3	0.29498525
-Matthias_b16	Apiaceae	Apiaceae	HERB	2	0.19665683
-Matthias_b16	Artemisia	Artemisia	HERB	8	0.78662734
-Matthias_b16	Fenestrate undifferentiated	Asteraceae	HERB	1	0.098328417
-Matthias_b16	Avena-type	Avena-type	HERB	2	0.19665683
-Matthias_b16	Brassicaceae	Brassicaceae	HERB	1	0.098328417
-Matthias_b16	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	3	0.29498525
-Matthias_b16	Cyperaceae	Cyperaceae	HERB	9	0.88495575
-Matthias_b16	Hordeum-type	Hordeum-type	HERB	12	1.179941
-Matthias_b16	Marrubium	Marrubium	HERB	1	0.098328417
-Matthias_b16	Plantago lanceolata	Plantago lanceolata-type	HERB	4	0.39331367
-Matthias_b16	Poaceae	Poaceae	HERB	43	4.2281219
-Matthias_b16	Ranunculus acris-type	Ranunculus acris-type	HERB	1	0.098328417
-Matthias_b16	Rumex acetosa-type	Rumex acetosa-type	HERB	12	1.179941
-Matthias_b16	Rumex acetosella-type	Rumex acetosa-type	HERB	5	0.49164208
-Matthias_b16	Secale	Secale cereale	HERB	19	1.8682399
-Matthias_b16	Senecio-type	Senecio-type	HERB	2	0.19665683
-Matthias_b16	Triticum-type	Triticum-type	HERB	8	0.78662734
-Matthias_b16	Urtica	Urtica	HERB	2	0.19665683
-Matthias_b16	Zea mays	Zea mays	HERB	4	0.39331367
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Matthias_b16	12	186	12	Betula	Betula	TRSH
+Matthias_b16	75	328	75	Pinus	Pinus	TRSH
+Matthias_b16	5	217	5	Alnus	Alnus	TRSH
+Matthias_b16	16	4	16	Carpinus	Carpinus betulus	TRSH
+Matthias_b16	154	3	154	Ulmus	Ulmus/Zelkova	TRSH
+Matthias_b16	201	9	31	Corylus	Corylus	TRSH
+Matthias_b16	99	9	99	Salix	Salix	TRSH
+Matthias_b16	126	8	126	Picea	Picea	TRSH
+Matthias_b16	81	6	81	Populus	Populus	TRSH
+Matthias_b16	441	1	19	Castanea	Castanea sativa	TRSH
+Matthias_b16	2336	6	123	Larix/Pseudotsuga	Larix/Pseudotsuga	TRSH
+Matthias_b16	33	9	33	Cyperaceae	Cyperaceae	HERB
+Matthias_b16	80	43	80	Poaceae	Poaceae	HERB
+Matthias_b16	812	4	423	Zea mays	Zea mays	HERB
+Matthias_b16	801	19	256	Secale	Secale cereale	HERB
+Matthias_b16	949	12	258	Hordeum-type	Hordeum-type	HERB
+Matthias_b16	1215	2	1111	Avena-type	Avena-type	HERB
+Matthias_b16	652	2	652	Urtica	Urtica	HERB
+Matthias_b16	1061	1	763	Cannabaceae	Cannabaceae	TRSH
+Matthias_b16	13	1	13	Brassicaceae	Brassicaceae	HERB
+Matthias_b16	60	4	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+Matthias_b16	634	12	95	Rumex acetosa-type	Rumex acetosa-type	HERB
+Matthias_b16	7	8	7	Artemisia	Artemisia	HERB
+Matthias_b16	1230	2	133	Senecio-type	Senecio-type	HERB
+Matthias_b16	2582	5	95	Rumex acetosella-type	Rumex acetosa-type	HERB
+Matthias_b16	24	3	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Matthias_b16	581	3	457	Calluna	Calluna vulgaris	TRSH
+Matthias_b16	6	2	6	Apiaceae	Apiaceae	HERB
+Matthias_b16	630	1	87	Ranunculus acris-type	Ranunculus acris-type	HERB
+Matthias_b16	3022	1	3022	Marrubium	Marrubium	HERB
+Matthias_b16	189	85	189	Quercus	Quercus	TRSH
+Matthias_b16	192	9	42	Fagus	Fagus	TRSH
+Matthias_b16	1233	8	1199	Triticum-type	Triticum-type	HERB
+Matthias_b16	1407	1	1407	Tilia platyphyllos	Tilia platyphyllos-type	TRSH
+Matthias_b16	3006	2	490	Sorbus-group	Rosaceae (non-operculate)	TRSH
+Matthias_b16	3014	1	134	Fenestrate undifferentiated	Asteraceae	HERB

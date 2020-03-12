@@ -1,33 +1,33 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Lopez_a229	Alnus	Alnus	TRSH	1	0.23041475
-Lopez_a229	Betula	Betula	TRSH	2	0.46082949
-Lopez_a229	Castanea	Castanea sativa	TRSH	3	0.69124424
-Lopez_a229	Corylus	Corylus	TRSH	15	3.4562212
-Lopez_a229	Erica arborea-type	Erica arborea-type	DWAR	11	2.5345622
-Lopez_a229	Fraxinus	Fraxinus	TRSH	2	0.46082949
-Lopez_a229	Pinus pinaster	Pinus pinaster	TRSH	3	0.69124424
-Lopez_a229	Pinus sylvestris/nigra-type	Pinus sylvestris-type	TRSH	2	0.46082949
-Lopez_a229	Populus	Populus	TRSH	2	0.46082949
-Lopez_a229	Quercus evergreen	Quercus ilex-type	TRSH	199	45.852535
-Lopez_a229	Quercus deciduous	Quercus robur-type	TRSH	145	33.410138
-Lopez_a229	Rosaceae undiff,	Rosaceae	TRSH	4	0.92165899
-Lopez_a229	Prunus/Rubus-type	Rosaceae (non-operculate)	TRSH	3	0.69124424
-Lopez_a229	Salix	Salix	TRSH	1	0.23041475
-Lopez_a229	Apiaceae	Apiaceae	HERB	5	1.1520737
-Lopez_a229	Cardueae	Asteraceae subf. Carduoideae	HERB	1	0.23041475
-Lopez_a229	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	2	0.46082949
-Lopez_a229	Boraginaceae	Boraginaceae	HERB	1	0.23041475
-Lopez_a229	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	1	0.23041475
-Lopez_a229	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	2	0.46082949
-Lopez_a229	Cistus-type	Cistus	HERB	2	0.46082949
-Lopez_a229	Cistus ladanifer	Cistus ladanifer-type	HERB	2	0.46082949
-Lopez_a229	Cytisus/Genista-type	Genista-type	HERB	2	0.46082949
-Lopez_a229	Helianthemum-type	Helianthemum	HERB	3	0.69124424
-Lopez_a229	Labiatae	Lamiaceae	HERB	2	0.46082949
-Lopez_a229	Melampyrum	Melampyrum	HERB	2	0.46082949
-Lopez_a229	Poaceae undiff.	Poaceae	HERB	8	1.843318
-Lopez_a229	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	1	0.23041475
-Lopez_a229	Monolete fern spores undiff.	Monolete fern spores	VACR	4	0.92165899
-Lopez_a229	Pteridium	Pteridium	VACR	1	0.23041475
-Lopez_a229	Trilete fern spores undiff.	Trilete spore(s)	VACR	2	0.46082949
-Lopez_a229	Cyperaceae	Cyperaceae	AQUA	1	0.23041475
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Lopez_a229	5	1	5	Alnus	Alnus	TRSH
+Lopez_a229	6	5	6	Apiaceae	Apiaceae	HERB
+Lopez_a229	12	2	12	Betula	Betula	TRSH
+Lopez_a229	162	1	162	Boraginaceae	Boraginaceae	HERB
+Lopez_a229	445	1	336	Cardueae	Asteraceae subf. Carduoideae	HERB
+Lopez_a229	18	1	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Lopez_a229	447	2	25	Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Lopez_a229	3800	2	3800	Cistus ladanifer	Cistus ladanifer-type	HERB
+Lopez_a229	3810	2	3796	Cistus-type	Cistus	HERB
+Lopez_a229	201	15	31	Corylus	Corylus	TRSH
+Lopez_a229	3878	2	3878	Cytisus/Genista-type	Genista-type	HERB
+Lopez_a229	3929	11	3928	Erica arborea-type	Erica arborea-type	DWAR
+Lopez_a229	190	2	190	Fraxinus	Fraxinus	TRSH
+Lopez_a229	4039	3	52	Helianthemum-type	Helianthemum	HERB
+Lopez_a229	485	2	59	Labiatae	Lamiaceae	HERB
+Lopez_a229	473	2	473	Melampyrum	Melampyrum	HERB
+Lopez_a229	4195	4	146	Monolete fern spores undiff.	Monolete fern spores	VACR
+Lopez_a229	439	3	439	Pinus pinaster	Pinus pinaster	TRSH
+Lopez_a229	4308	2	125	Pinus sylvestris/nigra-type	Pinus sylvestris-type	TRSH
+Lopez_a229	429	8	80	Poaceae undiff.	Poaceae	HERB
+Lopez_a229	81	2	81	Populus	Populus	TRSH
+Lopez_a229	4403	3	490	Prunus/Rubus-type	Rosaceae (non-operculate)	TRSH
+Lopez_a229	437	145	86	Quercus deciduous	Quercus robur-type	TRSH
+Lopez_a229	173	1	173	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB
+Lopez_a229	4683	2	279	Trilete fern spores undiff.	Trilete spore(s)	VACR
+Lopez_a229	99	1	99	Salix	Salix	TRSH
+Lopez_a229	427	199	85	Quercus evergreen	Quercus ilex-type	TRSH
+Lopez_a229	431	1	180	Pteridium	Pteridium aquilinum	VACR
+Lopez_a229	441	3	19	Castanea	Castanea sativa	TRSH
+Lopez_a229	769	2	24	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB
+Lopez_a229	3868	1	3868	Cyperaceae	Cyperaceae	AQUA
+Lopez_a229	4489	4	92	Rosaceae undiff,	Rosaceae	TRSH

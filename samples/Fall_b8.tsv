@@ -1,20 +1,20 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Fall_b8	Cistus	Cistus	TRSH	1	0.2293578
-Fall_b8	Citrus	Citrus	TRSH	1	0.2293578
-Fall_b8	Juglans	Juglans	TRSH	1	0.2293578
-Fall_b8	Cupressus type	Juniperus-type	TRSH	12	2.7522936
-Fall_b8	Juniperus type	Juniperus-type	TRSH	300	68.807339
-Fall_b8	Olea	Olea europaea	TRSH	22	5.0458716
-Fall_b8	Ostrya/Carpinus	Ostrya/Carpinus orientalis	TRSH	1	0.2293578
-Fall_b8	Pinus sp	Pinus	TRSH	72	16.513761
-Fall_b8	Pistacia	Pistacia	TRSH	4	0.91743119
-Fall_b8	Platanus	Platanus	TRSH	1	0.2293578
-Fall_b8	Prosopis	Prosopis	TRSH	2	0.4587156
-Fall_b8	Quercus	Quercus	TRSH	1	0.2293578
-Fall_b8	Rosaceae	Rosaceae	TRSH	4	0.91743119
-Fall_b8	Ambrosia	Ambrosia	HERB	2	0.4587156
-Fall_b8	Brassica	Brassicaceae	HERB	2	0.4587156
-Fall_b8	Chenopodiaceae Sueda/Atriplex type	Chenopodiaceae/Amaranthaceae	HERB	1	0.2293578
-Fall_b8	Poaceae	Poaceae	HERB	4	0.91743119
-Fall_b8	Gallium	Rubiaceae	HERB	1	0.2293578
-Fall_b8	Asteraceae, Senecio type	Senecio-type	HERB	4	0.91743119
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Fall_b8	203	300	203	Juniperus type	Juniperus-type	TRSH
+Fall_b8	1611	1	1611	Citrus	Citrus	TRSH
+Fall_b8	1612	12	203	Cupressus type	Juniperus-type	TRSH
+Fall_b8	57	1	57	Juglans	Juglans	TRSH
+Fall_b8	442	22	68	Olea	Olea europaea	TRSH
+Fall_b8	77	4	77	Pistacia	Pistacia	TRSH
+Fall_b8	1614	1	70	Ostrya/Carpinus	Ostrya/Carpinus orientalis	TRSH
+Fall_b8	78	1	78	Platanus	Platanus	TRSH
+Fall_b8	189	1	189	Quercus	Quercus	TRSH
+Fall_b8	586	2	586	Ambrosia	Ambrosia	HERB
+Fall_b8	1647	4	133	Asteraceae, Senecio type	Senecio-type	HERB
+Fall_b8	1649	2	13	Brassica	Brassicaceae	HERB
+Fall_b8	27	1	27	Cistus	Cistus	TRSH
+Fall_b8	1654	1	24	Chenopodiaceae Sueda/Atriplex type	Chenopodiaceae/Amaranthaceae	HERB
+Fall_b8	1662	1	93	Gallium	Rubiaceae	HERB
+Fall_b8	80	4	80	Poaceae	Poaceae	HERB
+Fall_b8	1615	72	75	Pinus sp	Pinus	TRSH
+Fall_b8	1618	2	1618	Prosopis	Prosopis	TRSH
+Fall_b8	92	4	92	Rosaceae	Rosaceae	TRSH

@@ -1,43 +1,43 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Blyakharchuk_a30	Abies sibirica	Abies sibirica	TRSH	15	3.2537961
-Blyakharchuk_a30	Alnaster	Alnus viridis	TRSH	3	0.65075922
-Blyakharchuk_a30	Betula nana	Betula nana-type	DWAR	81	17.570499
-Blyakharchuk_a30	Betula pubescens	Betula pubescens-type	TRSH	1	0.21691974
-Blyakharchuk_a30	Betula pendula	Betula pubescens-type	TRSH	27	5.856833
-Blyakharchuk_a30	Ericaceae	Ericales (tetrad)	DWAR	1	0.21691974
-Blyakharchuk_a30	Juniperus	Juniperus communis-type	TRSH	3	0.65075922
-Blyakharchuk_a30	Picea obovata	Picea abies-type	TRSH	3	0.65075922
-Blyakharchuk_a30	Pinus sibirica	Pinus cembra-type	TRSH	157	34.056399
-Blyakharchuk_a30	Pinus sylvestris	Pinus sylvestris-type	TRSH	38	8.2429501
-Blyakharchuk_a30	Rosaceae	Rosaceae	TRSH	1	0.21691974
-Blyakharchuk_a30	Salix	Salix	TRSH	2	0.43383948
-Blyakharchuk_a30	Androsace	Androsace	HERB	2	0.43383948
-Blyakharchuk_a30	Anemone	Anemone nemorosa-type	HERB	7	1.5184382
-Blyakharchuk_a30	Umbellifera	Apiaceae	HERB	13	2.8199566
-Blyakharchuk_a30	Aquilegia	Aquilegia	HERB	14	3.0368764
-Blyakharchuk_a30	Artemisia	Artemisia	HERB	16	3.4707158
-Blyakharchuk_a30	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	1	0.21691974
-Blyakharchuk_a30	Bupleurum	Bupleurum	HERB	6	1.3015184
-Blyakharchuk_a30	Delphinium	Consolida-type	HERB	3	0.65075922
-Blyakharchuk_a30	Cyperaceae	Cyperaceae	HERB	4	0.86767896
-Blyakharchuk_a30	Doronicum	Doronicum	HERB	1	0.21691974
-Blyakharchuk_a30	Gentianaceae	Gentianaceae	HERB	3	0.65075922
-Blyakharchuk_a30	Hordeum	Hordeum-type	HERB	2	0.43383948
-Blyakharchuk_a30	Schulzia	Karnataka	UPHE	3	0.65075922
-Blyakharchuk_a30	Lamiaceae	Lamiaceae	HERB	1	0.21691974
-Blyakharchuk_a30	Plantago	Plantago	HERB	1	0.21691974
-Blyakharchuk_a30	Poaceae	Poaceae	HERB	8	1.7353579
-Blyakharchuk_a30	Ranunculaceae	Ranunculaceae	HERB	5	1.0845987
-Blyakharchuk_a30	Serratula type	Saussurea-type	HERB	2	0.43383948
-Blyakharchuk_a30	Saxifraga sp.	Saxifraga	HERB	1	0.21691974
-Blyakharchuk_a30	Sedum	Sedum-type	HERB	4	0.86767896
-Blyakharchuk_a30	Thalictrum	Thalictrum	HERB	1	0.21691974
-Blyakharchuk_a30	Trollius	Trollius europaeus	HERB	9	1.9522777
-Blyakharchuk_a30	Urtica	Urtica	HERB	4	0.86767896
-Blyakharchuk_a30	Valerianella type	Valerianella	HERB	2	0.43383948
-Blyakharchuk_a30	Veratrum	Veratrum	HERB	2	0.43383948
-Blyakharchuk_a30	Bryales	Bryophyte spores	BRYO	3	0.65075922
-Blyakharchuk_a30	Lycopodium dubium	Lycopodium annotinum-type	VACR	1	0.21691974
-Blyakharchuk_a30	Lycopodium clavat	Lycopodium clavatum	VACR	3	0.65075922
-Blyakharchuk_a30	Monolete	Monolete fern spores	VACR	6	1.3015184
-Blyakharchuk_a30	Selaginella	Selaginella	VACR	1	0.21691974
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Blyakharchuk_a30	149	15	149	Abies sibirica	Abies sibirica	TRSH
+Blyakharchuk_a30	788	38	125	Pinus sylvestris	Pinus sylvestris-type	TRSH
+Blyakharchuk_a30	1361	157	124	Pinus sibirica	Pinus cembra-type	TRSH
+Blyakharchuk_a30	1731	27	128	Betula pendula	Betula pubescens-type	TRSH
+Blyakharchuk_a30	2130	3	783	Picea obovata	Picea abies-type	TRSH
+Blyakharchuk_a30	58	3	58	Juniperus	Juniperus communis-type	TRSH
+Blyakharchuk_a30	99	2	99	Salix	Salix	TRSH
+Blyakharchuk_a30	937	1	128	Betula pubescens	Betula pubescens-type	TRSH
+Blyakharchuk_a30	1363	81	127	Betula nana	Betula nana-type	DWAR
+Blyakharchuk_a30	1447	3	129	Alnaster	Alnus viridis	TRSH
+Blyakharchuk_a30	7	16	7	Artemisia	Artemisia	HERB
+Blyakharchuk_a30	14	6	14	Bupleurum	Bupleurum	HERB
+Blyakharchuk_a30	33	4	33	Cyperaceae	Cyperaceae	HERB
+Blyakharchuk_a30	447	1	25	Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Blyakharchuk_a30	525	3	525	Gentianaceae	Gentianaceae	HERB
+Blyakharchuk_a30	59	1	59	Lamiaceae	Lamiaceae	HERB
+Blyakharchuk_a30	80	8	80	Poaceae	Poaceae	HERB
+Blyakharchuk_a30	1572	2	258	Hordeum	Hordeum-type	HERB
+Blyakharchuk_a30	105	4	105	Sedum	Sedum-type	HERB
+Blyakharchuk_a30	112	1	112	Thalictrum	Thalictrum	HERB
+Blyakharchuk_a30	135	5	135	Ranunculaceae	Ranunculaceae	HERB
+Blyakharchuk_a30	147	3	147	Bryales	Bryophyte spores	BRYO
+Blyakharchuk_a30	668	1	668	Selaginella	Selaginella	VACR
+Blyakharchuk_a30	2165	2	2165	Valerianella type	Valerianella	HERB
+Blyakharchuk_a30	130	1	130	Ericaceae	Ericales (tetrad)	DWAR
+Blyakharchuk_a30	235	2	235	Serratula type	Saussurea-type	HERB
+Blyakharchuk_a30	588	7	588	Anemone	Anemone nemorosa-type	HERB
+Blyakharchuk_a30	652	4	652	Urtica	Urtica	HERB
+Blyakharchuk_a30	724	1	270	Plantago	Plantago	HERB
+Blyakharchuk_a30	2138	2	2138	Androsace	Androsace	HERB
+Blyakharchuk_a30	2140	14	1691	Aquilegia	Aquilegia	HERB
+Blyakharchuk_a30	2143	3	1705	Delphinium	Consolida-type	HERB
+Blyakharchuk_a30	2144	1	2144	Doronicum	Doronicum	HERB
+Blyakharchuk_a30	2158	1	491	Saxifraga sp.	Saxifraga	HERB
+Blyakharchuk_a30	2161	3	2161	Schulzia	Karnataka	UPHE
+Blyakharchuk_a30	2163	9	2163	Trollius	Trollius europaeus	HERB
+Blyakharchuk_a30	2164	13	6	Umbellifera	Apiaceae	HERB
+Blyakharchuk_a30	2166	2	2166	Veratrum	Veratrum	HERB
+Blyakharchuk_a30	2167	1	183	Lycopodium dubium	Lycopodium annotinum-type	VACR
+Blyakharchuk_a30	2168	3	1549	Lycopodium clavat	Lycopodium clavatum	VACR
+Blyakharchuk_a30	2169	6	146	Monolete	Monolete fern spores	VACR
+Blyakharchuk_a30	92	1	92	Rosaceae	Rosaceae	TRSH

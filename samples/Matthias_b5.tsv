@@ -1,36 +1,36 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Matthias_b5	Abies	Abies	TRSH	1	0.098135427
-Matthias_b5	Acer	Acer campestre-type	TRSH	1	0.098135427
-Matthias_b5	Alnus	Alnus	TRSH	131	12.855741
-Matthias_b5	Betula	Betula	TRSH	172	16.879293
-Matthias_b5	Calluna	Calluna vulgaris	TRSH	8	0.78508342
-Matthias_b5	Cannabaceae	Cannabaceae	TRSH	1	0.098135427
-Matthias_b5	Carpinus	Carpinus betulus	TRSH	9	0.88321884
-Matthias_b5	Castanea	Castanea sativa	TRSH	1	0.098135427
-Matthias_b5	Corylus	Corylus	TRSH	15	1.4720314
-Matthias_b5	Fagus	Fagus	TRSH	44	4.3179588
-Matthias_b5	Fraxinus	Fraxinus	TRSH	1	0.098135427
-Matthias_b5	Juniperus	Juniperus communis-type	TRSH	2	0.19627085
-Matthias_b5	Larix/Pseudotsuga	Larix/Pseudotsuga	TRSH	15	1.4720314
-Matthias_b5	Picea	Picea	TRSH	12	1.1776251
-Matthias_b5	Pinus	Pinus	TRSH	471	46.221786
-Matthias_b5	Populus	Populus	TRSH	1	0.098135427
-Matthias_b5	Quercus	Quercus	TRSH	50	4.9067713
-Matthias_b5	Salix	Salix	TRSH	2	0.19627085
-Matthias_b5	Tilia cordata	Tilia cordata-type	TRSH	2	0.19627085
-Matthias_b5	Ulmus	Ulmus/Zelkova	TRSH	2	0.19627085
-Matthias_b5	Apiaceae	Apiaceae	HERB	1	0.098135427
-Matthias_b5	Artemisia	Artemisia	HERB	5	0.49067713
-Matthias_b5	Brassicaceae	Brassicaceae	HERB	3	0.29440628
-Matthias_b5	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	6	0.58881256
-Matthias_b5	Cyperaceae	Cyperaceae	HERB	6	0.58881256
-Matthias_b5	Filipendula	Filipendula	HERB	1	0.098135427
-Matthias_b5	Hordeum-type	Hordeum-type	HERB	3	0.29440628
-Matthias_b5	Poaceae	Poaceae	HERB	28	2.747792
-Matthias_b5	Rumex acetosa-type	Rumex acetosa-type	HERB	2	0.19627085
-Matthias_b5	Rumex acetosella-type	Rumex acetosa-type	HERB	6	0.58881256
-Matthias_b5	Secale	Secale cereale	HERB	9	0.88321884
-Matthias_b5	Senecio-type	Senecio-type	HERB	1	0.098135427
-Matthias_b5	Solanum nigrum-type	Solanum nigrum-type	HERB	1	0.098135427
-Matthias_b5	Triticum-type	Triticum-type	HERB	4	0.39254171
-Matthias_b5	Urtica	Urtica	HERB	2	0.19627085
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Matthias_b5	12	172	12	Betula	Betula	TRSH
+Matthias_b5	75	471	75	Pinus	Pinus	TRSH
+Matthias_b5	189	50	189	Quercus	Quercus	TRSH
+Matthias_b5	5	131	5	Alnus	Alnus	TRSH
+Matthias_b5	16	9	16	Carpinus	Carpinus betulus	TRSH
+Matthias_b5	192	44	42	Fagus	Fagus	TRSH
+Matthias_b5	154	2	154	Ulmus	Ulmus/Zelkova	TRSH
+Matthias_b5	201	15	31	Corylus	Corylus	TRSH
+Matthias_b5	99	2	99	Salix	Salix	TRSH
+Matthias_b5	126	12	126	Picea	Picea	TRSH
+Matthias_b5	2	1	2	Acer	Acer campestre-type	TRSH
+Matthias_b5	81	1	81	Populus	Populus	TRSH
+Matthias_b5	190	1	190	Fraxinus	Fraxinus	TRSH
+Matthias_b5	58	2	58	Juniperus	Juniperus communis-type	TRSH
+Matthias_b5	441	1	19	Castanea	Castanea sativa	TRSH
+Matthias_b5	33	6	33	Cyperaceae	Cyperaceae	HERB
+Matthias_b5	80	28	80	Poaceae	Poaceae	HERB
+Matthias_b5	801	9	256	Secale	Secale cereale	HERB
+Matthias_b5	949	3	258	Hordeum-type	Hordeum-type	HERB
+Matthias_b5	652	2	652	Urtica	Urtica	HERB
+Matthias_b5	1061	1	763	Cannabaceae	Cannabaceae	TRSH
+Matthias_b5	1233	4	1199	Triticum-type	Triticum-type	HERB
+Matthias_b5	13	3	13	Brassicaceae	Brassicaceae	HERB
+Matthias_b5	634	2	95	Rumex acetosa-type	Rumex acetosa-type	HERB
+Matthias_b5	7	5	7	Artemisia	Artemisia	HERB
+Matthias_b5	1230	1	133	Senecio-type	Senecio-type	HERB
+Matthias_b5	24	6	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Matthias_b5	581	8	457	Calluna	Calluna vulgaris	TRSH
+Matthias_b5	6	1	6	Apiaceae	Apiaceae	HERB
+Matthias_b5	45	1	45	Filipendula	Filipendula	HERB
+Matthias_b5	560	1	321	Abies	Abies	TRSH
+Matthias_b5	1277	1	225	Solanum nigrum-type	Solanum nigrum-type	HERB
+Matthias_b5	1406	2	153	Tilia cordata	Tilia cordata-type	TRSH
+Matthias_b5	2336	15	123	Larix/Pseudotsuga	Larix/Pseudotsuga	TRSH
+Matthias_b5	2582	6	95	Rumex acetosella-type	Rumex acetosa-type	HERB

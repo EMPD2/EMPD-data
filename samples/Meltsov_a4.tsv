@@ -1,34 +1,34 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Meltsov_a4	Alnus	Alnus	TRSH	196	11.914894
-Meltsov_a4	Betula	Betula	TRSH	629	38.237082
-Meltsov_a4	Calluna	Calluna vulgaris	DWAR	11	0.66869301
-Meltsov_a4	Corylus	Corylus	TRSH	14	0.85106383
-Meltsov_a4	Fraxinus	Fraxinus	TRSH	7	0.42553191
-Meltsov_a4	Picea	Picea	TRSH	108	6.5653495
-Meltsov_a4	Pinus	Pinus	TRSH	485	29.483283
-Meltsov_a4	Quercus	Quercus	TRSH	27	1.6413374
-Meltsov_a4	Rosaceae	Rosaceae	TRSH	1	0.060790274
-Meltsov_a4	Salix	Salix	TRSH	10	0.60790274
-Meltsov_a4	Tilia	Tilia	TRSH	13	0.79027356
-Meltsov_a4	Ulmus	Ulmus/Zelkova	TRSH	13	0.79027356
-Meltsov_a4	Vaccinium	Vaccinium	DWAR	8	0.48632219
-Meltsov_a4	Ambrosia	Ambrosia	HERB	1	0.060790274
-Meltsov_a4	Apiaceae	Apiaceae	HERB	1	0.060790274
-Meltsov_a4	Artemisia	Artemisia	HERB	14	0.85106383
-Meltsov_a4	Taraxacum	Asteraceae subf. Cichorioideae	HERB	1	0.060790274
-Meltsov_a4	Cannabis	Cannabis sativa	HERB	1	0.060790274
-Meltsov_a4	Secale	Cerealia-type	HERB	22	1.337386
-Meltsov_a4	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	3	0.18237082
-Meltsov_a4	Filipendula	Filipendula	HERB	4	0.24316109
-Meltsov_a4	Mercurialis perennis	Mercurialis perennis-type	HERB	1	0.060790274
-Meltsov_a4	Plantago lanceolata	Plantago lanceolata-type	HERB	1	0.060790274
-Meltsov_a4	Plantago major/P. media	Plantago major/P. media-type	HERB	3	0.18237082
-Meltsov_a4	Poaceae	Poaceae	HERB	45	2.7355623
-Meltsov_a4	Ranunculus acris	Ranunculus acris-type	HERB	1	0.060790274
-Meltsov_a4	Galium	Rubiaceae	HERB	1	0.060790274
-Meltsov_a4	Rumex	Rumex/Oxyria	HERB	22	1.337386
-Meltsov_a4	Athyrium	Athyrium filix-femina	VACR	2	0.12158055
-Meltsov_a4	Cyperaceae	Cyperaceae	AQUA	1	0.060790274
-Meltsov_a4	Typha latifolia	Typha latifolia	AQUA	1	0.060790274
-Meltsov_a4	Indeterminable: unknown	Indeterminable: unknown	INUN	11	
-Meltsov_a4	Lycopodium (count)	Lycopodium (counted)	NOPO	150	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Meltsov_a4	5	196	5	Alnus	Alnus	TRSH
+Meltsov_a4	586	1	586	Ambrosia	Ambrosia	HERB
+Meltsov_a4	6	1	6	Apiaceae	Apiaceae	HERB
+Meltsov_a4	7	14	7	Artemisia	Artemisia	HERB
+Meltsov_a4	12	629	12	Betula	Betula	TRSH
+Meltsov_a4	3645	11	3645	Calluna	Calluna vulgaris	DWAR
+Meltsov_a4	764	1	764	Cannabis	Cannabis sativa	HERB
+Meltsov_a4	24	3	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Meltsov_a4	3868	1	3868	Cyperaceae	Cyperaceae	AQUA
+Meltsov_a4	45	4	45	Filipendula	Filipendula	HERB
+Meltsov_a4	190	7	190	Fraxinus	Fraxinus	TRSH
+Meltsov_a4	1475	1	93	Galium	Rubiaceae	HERB
+Meltsov_a4	4078	11	177	Indeterminable: unknown	Indeterminable: unknown	INUN
+Meltsov_a4	4160	150	559	Lycopodium (count)	Lycopodium (counted)	NOPO
+Meltsov_a4	75	485	75	Pinus	Pinus	TRSH
+Meltsov_a4	60	1	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+Meltsov_a4	189	27	189	Quercus	Quercus	TRSH
+Meltsov_a4	954	1	87	Ranunculus acris	Ranunculus acris-type	HERB
+Meltsov_a4	92	1	92	Rosaceae	Rosaceae	TRSH
+Meltsov_a4	727	22	94	Rumex	Rumex/Oxyria	HERB
+Meltsov_a4	99	10	99	Salix	Salix	TRSH
+Meltsov_a4	104	22	22	Secale	Cerealia-type	HERB
+Meltsov_a4	1599	1	25	Taraxacum	Asteraceae subf. Cichorioideae	HERB
+Meltsov_a4	187	13	187	Tilia	Tilia	TRSH
+Meltsov_a4	1287	1	417	Typha latifolia	Typha latifolia	AQUA
+Meltsov_a4	154	13	154	Ulmus	Ulmus/Zelkova	TRSH
+Meltsov_a4	4725	8	4725	Vaccinium	Vaccinium	DWAR
+Meltsov_a4	80	45	80	Poaceae	Poaceae	HERB
+Meltsov_a4	126	108	126	Picea	Picea	TRSH
+Meltsov_a4	201	14	31	Corylus	Corylus	TRSH
+Meltsov_a4	1110	2	215	Athyrium	Athyrium filix-femina	VACR
+Meltsov_a4	1261	1	1156	Mercurialis perennis	Mercurialis perennis-type	HERB
+Meltsov_a4	4323	3	458	Plantago major/P. media	Plantago major/P. media-type	HERB

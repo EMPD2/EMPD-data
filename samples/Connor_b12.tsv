@@ -1,43 +1,43 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Connor_b12	Alnus glutinosa-type	Alnus glutinosa-type	TRSH	1	0.13386881
-Connor_b12	Calluna vulgaris	Calluna vulgaris	DWAR	7	0.93708166
-Connor_b12	Erica arborea-type	Erica arborea-type	DWAR	3	0.40160643
-Connor_b12	Eucalyptus	Eucalyptus	TRSH	1	0.13386881
-Connor_b12	Ulex-type	Genista-type	TRSH	1	0.13386881
-Connor_b12	Juniperus	Juniperus communis-type	TRSH	61	8.1659973
-Connor_b12	Olea europaea	Olea europaea	TRSH	33	4.4176707
-Connor_b12	Phillyrea	Phillyrea	TRSH	1	0.13386881
-Connor_b12	Pinus	Pinus	TRSH	178	23.828648
-Connor_b12	Pistacia	Pistacia	TRSH	2	0.26773762
-Connor_b12	Quercus suber-type	Quercus cerris-type	TRSH	47	6.291834
-Connor_b12	Quercus coccifera-type	Quercus ilex-type	TRSH	26	3.480589
-Connor_b12	Quercus deciduous	Quercus robur-type	TRSH	28	3.7483266
-Connor_b12	Rubus-type	Rubus	TRSH	1	0.13386881
-Connor_b12	Vitis vinifera	Vitis	LIAN	1	0.13386881
-Connor_b12	Artemisia	Artemisia	HERB	2	0.26773762
-Connor_b12	Aster-type	Aster-type	HERB	6	0.80321285
-Connor_b12	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	1	0.13386881
-Connor_b12	Cerastium-type	Cerastium-type	HERB	1	0.13386881
-Connor_b12	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	2	0.26773762
-Connor_b12	Cirsium-type	Cirsium	HERB	1	0.13386881
-Connor_b12	Corema album-type	Corema album	HERB	11	1.4725569
-Connor_b12	Cynoglossum creticum	Cynoglossum creticum-type	HERB	1	0.13386881
-Connor_b12	Halimium/Tuberaria	Halimium/Tuberaria	HERB	1	0.13386881
-Connor_b12	Helianthemum croceum-type	Helianthemum croceum-type	HERB	1	0.13386881
-Connor_b12	Hypericum perforatum-type	Hypericum perforatum-type	HERB	2	0.26773762
-Connor_b12	Anthemis-type	Matricaria-type	HERB	25	3.3467202
-Connor_b12	Mentha-type	Mentha-type	HERB	3	0.40160643
-Connor_b12	Pimpinella-type	Pimpinella major-type	HERB	1	0.13386881
-Connor_b12	Plantago coronopus	Plantago coronopus-type	HERB	1	0.13386881
-Connor_b12	Plantago lanceolata-type	Plantago lanceolata-type	HERB	2	0.26773762
-Connor_b12	Poaceae	Poaceae	HERB	87	11.646586
-Connor_b12	Rumex acetosella-type	Rumex acetosella	HERB	202	27.041499
-Connor_b12	Scabiosa	Scabiosa	HERB	1	0.13386881
-Connor_b12	Silene vulgaris-type	Silene vulgaris-type	HERB	4	0.53547523
-Connor_b12	Monolete fern spores	Monolete fern spores	VACR	1	0.13386881
-Connor_b12	Typha latifolia-type	Typha latifolia-type	AQUA	1	0.13386881
-Connor_b12	Indeterminable: degraded	Indeterminable: degraded	INUN	5	
-Connor_b12	Chaetomium	Chaetomium	FUNG	1	
-Connor_b12	Glomus	Glomus	FUNG	3	
-Connor_b12	Sordaria-type	Sordaria-type	NOPO	3	
-Connor_b12	Sporormiella	Sporormiella-type	FUNG	1	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Connor_b12	155	1	155	Alnus glutinosa-type	Alnus glutinosa-type	TRSH
+Connor_b12	589	25	3	Anthemis-type	Matricaria-type	HERB
+Connor_b12	7	2	7	Artemisia	Artemisia	HERB
+Connor_b12	597	6	11	Aster-type	Aster-type	HERB
+Connor_b12	3769	1	3769	Chaetomium	Chaetomium	FUNG
+Connor_b12	447	1	25	Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Connor_b12	1243	1	603	Cirsium-type	Cirsium	HERB
+Connor_b12	3867	1	3867	Cynoglossum creticum	Cynoglossum creticum-type	HERB
+Connor_b12	39	1	39	Eucalyptus	Eucalyptus	TRSH
+Connor_b12	554	3	362	Glomus	Glomus	FUNG
+Connor_b12	4029	1	4029	Halimium/Tuberaria	Halimium/Tuberaria	HERB
+Connor_b12	4037	1	2178	Helianthemum croceum-type	Helianthemum croceum-type	HERB
+Connor_b12	1220	2	829	Hypericum perforatum-type	Hypericum perforatum-type	HERB
+Connor_b12	718	5	718	Indeterminable: degraded	Indeterminable: degraded	INUN
+Connor_b12	58	61	58	Juniperus	Juniperus communis-type	TRSH
+Connor_b12	4193	1	146	Monolete fern spores	Monolete fern spores	VACR
+Connor_b12	74	1	74	Phillyrea	Phillyrea	TRSH
+Connor_b12	4295	1	595	Pimpinella-type	Pimpinella major-type	HERB
+Connor_b12	75	178	75	Pinus	Pinus	TRSH
+Connor_b12	77	2	77	Pistacia	Pistacia	TRSH
+Connor_b12	30	1	30	Plantago coronopus	Plantago coronopus-type	HERB
+Connor_b12	1075	2	60	Plantago lanceolata-type	Plantago lanceolata-type	HERB
+Connor_b12	80	87	80	Poaceae	Poaceae	HERB
+Connor_b12	4428	26	85	Quercus coccifera-type	Quercus ilex-type	TRSH
+Connor_b12	437	28	86	Quercus deciduous	Quercus robur-type	TRSH
+Connor_b12	2792	47	84	Quercus suber-type	Quercus cerris-type	TRSH
+Connor_b12	4502	1	141	Rubus-type	Rubus	TRSH
+Connor_b12	1231	4	1231	Silene vulgaris-type	Silene vulgaris-type	HERB
+Connor_b12	4605	3	4604	Sordaria-type	Sordaria-type	NOPO
+Connor_b12	677	1	557	Sporormiella	Sporormiella-type	FUNG
+Connor_b12	1234	1	914	Typha latifolia-type	Typha latifolia-type	AQUA
+Connor_b12	2537	1	49	Ulex-type	Genista-type	TRSH
+Connor_b12	4757	1	4756	Vitis vinifera	Vitis	LIAN
+Connor_b12	24	2	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Connor_b12	68	33	68	Olea europaea	Olea europaea	TRSH
+Connor_b12	102	1	102	Scabiosa	Scabiosa	HERB
+Connor_b12	947	1	21	Cerastium-type	Cerastium-type	HERB
+Connor_b12	1073	3	65	Mentha-type	Mentha-type	HERB
+Connor_b12	1398	202	96	Rumex acetosella-type	Rumex acetosella	HERB
+Connor_b12	3646	7	3645	Calluna vulgaris	Calluna vulgaris	DWAR
+Connor_b12	3840	11	3840	Corema album-type	Corema album	HERB
+Connor_b12	3929	3	3928	Erica arborea-type	Erica arborea-type	DWAR

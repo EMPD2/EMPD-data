@@ -1,36 +1,36 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Bjune_a146	Alnus	Alnus	TRSH	32	6.2378168
-Bjune_a146	Betula	Betula	TRSH	132	25.730994
-Bjune_a146	Calluna vulgaris	Calluna vulgaris	DWAR	6	1.1695906
-Bjune_a146	Cornus suecica	Cornus suecica	TRSH	1	0.19493177
-Bjune_a146	Corylus avellana	Corylus	TRSH	1	0.19493177
-Bjune_a146	Corylus/Myrica	Corylus/Myrica	TRSH	3	0.58479532
-Bjune_a146	Fraxinus excelsior	Fraxinus excelsior-type	TRSH	2	0.38986355
-Bjune_a146	Juniperus communis	Juniperus communis-type	TRSH	8	1.5594542
-Bjune_a146	Myrica gale	Myrica	TRSH	3	0.58479532
-Bjune_a146	Picea	Picea	TRSH	10	1.9493177
-Bjune_a146	Pinus sylvestris	Pinus sylvestris-type	TRSH	210	40.935673
-Bjune_a146	Populus tremula	Populus tremula-type	TRSH	1	0.19493177
-Bjune_a146	Quercus	Quercus	TRSH	10	1.9493177
-Bjune_a146	Rosa	Rosa	TRSH	1	0.19493177
-Bjune_a146	Tilia cordata	Tilia cordata-type	TRSH	2	0.38986355
-Bjune_a146	Anemone nemorosa-type/Hepatica nobilis	Anemone nemorosa-type	HERB	1	0.19493177
-Bjune_a146	Artemisia	Artemisia	HERB	1	0.19493177
-Bjune_a146	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.19493177
-Bjune_a146	Melampyrum	Melampyrum	HERB	1	0.19493177
-Bjune_a146	Gramineae undiff.	Poaceae	HERB	11	2.1442495
-Bjune_a146	Ranunculus acris-type	Ranunculus acris-type	HERB	1	0.19493177
-Bjune_a146	Rumex acetosa-type/R. acetosella-type	Rumex acetosa-type	HERB	2	0.38986355
-Bjune_a146	Rumex acetosella-type	Rumex acetosella	HERB	1	0.19493177
-Bjune_a146	Secale cereale	Secale cereale	HERB	1	0.19493177
-Bjune_a146	Urtica	Urtica	HERB	4	0.7797271
-Bjune_a146	Dryopteris-type	Dryopteris-type	VACR	55	10.721248
-Bjune_a146	Lycopodium annotinum	Lycopodium annotinum-type	VACR	4	0.7797271
-Bjune_a146	Sphagnum	Sphagnum	BRYO	8	1.5594542
-Bjune_a146	Botryococcus	Botryococcus	ALGA	8	1.5594542
-Bjune_a146	Carex-type	Carex	AQUA	4	0.7797271
-Bjune_a146	Cyperaceae undiff.	Cyperaceae	AQUA	1	0.19493177
-Bjune_a146	Isoetes echinospora	Isoetes echinospora	AQPT	2	0.38986355
-Bjune_a146	Indeterminable: concealed	Indeterminable: concealed	INUN	1	
-Bjune_a146	Indeterminable: corroded	Indeterminable: corroded	INUN	2	
-Bjune_a146	Unknown	Indeterminable: unknown	INUN	1	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Bjune_a146	3538	1	588	Anemone nemorosa-type/Hepatica nobilis	Anemone nemorosa-type	HERB
+Bjune_a146	7	1	7	Artemisia	Artemisia	HERB
+Bjune_a146	663	8	663	Botryococcus	Botryococcus	ALGA
+Bjune_a146	3646	6	3645	Calluna vulgaris	Calluna vulgaris	DWAR
+Bjune_a146	24	1	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Bjune_a146	3843	1	2607	Cornus suecica	Cornus suecica	TRSH
+Bjune_a146	3873	1	3868	Cyperaceae undiff.	Cyperaceae	AQUA
+Bjune_a146	1247	55	772	Dryopteris-type	Dryopteris-type	VACR
+Bjune_a146	47	2	47	Fraxinus excelsior	Fraxinus excelsior-type	TRSH
+Bjune_a146	4018	11	80	Gramineae undiff.	Poaceae	HERB
+Bjune_a146	4073	1	999	Indeterminable: concealed	Indeterminable: concealed	INUN
+Bjune_a146	4074	2	1324	Indeterminable: corroded	Indeterminable: corroded	INUN
+Bjune_a146	941	8	58	Juniperus communis	Juniperus communis-type	TRSH
+Bjune_a146	965	4	183	Lycopodium annotinum	Lycopodium annotinum-type	VACR
+Bjune_a146	473	1	473	Melampyrum	Melampyrum	HERB
+Bjune_a146	2601	3	977	Myrica gale	Myrica	TRSH
+Bjune_a146	126	10	126	Picea	Picea	TRSH
+Bjune_a146	788	210	125	Pinus sylvestris	Pinus sylvestris-type	TRSH
+Bjune_a146	4381	1	4381	Populus tremula	Populus tremula-type	TRSH
+Bjune_a146	189	10	189	Quercus	Quercus	TRSH
+Bjune_a146	630	1	87	Ranunculus acris-type	Ranunculus acris-type	HERB
+Bjune_a146	1083	1	632	Rosa	Rosa	TRSH
+Bjune_a146	4504	2	95	Rumex acetosa-type/R. acetosella-type	Rumex acetosa-type	HERB
+Bjune_a146	1398	1	96	Rumex acetosella-type	Rumex acetosella	HERB
+Bjune_a146	256	1	256	Secale cereale	Secale cereale	HERB
+Bjune_a146	144	8	144	Sphagnum	Sphagnum	BRYO
+Bjune_a146	1406	2	153	Tilia cordata	Tilia cordata-type	TRSH
+Bjune_a146	969	1	177	Unknown	Indeterminable: unknown	INUN
+Bjune_a146	652	4	652	Urtica	Urtica	HERB
+Bjune_a146	5	32	5	Alnus	Alnus	TRSH
+Bjune_a146	12	132	12	Betula	Betula	TRSH
+Bjune_a146	31	1	31	Corylus avellana	Corylus	TRSH
+Bjune_a146	2332	2	2332	Isoetes echinospora	Isoetes echinospora	AQPT
+Bjune_a146	3665	4	3663	Carex-type	Carex	AQUA
+Bjune_a146	3852	3	3847	Corylus/Myrica	Corylus/Myrica	TRSH

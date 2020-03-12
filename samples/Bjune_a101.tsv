@@ -1,46 +1,46 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Bjune_a101	Alnus	Alnus	TRSH	33	3.5031847
-Bjune_a101	Betula	Betula	TRSH	219	23.248408
-Bjune_a101	Betula/Corylus/Myrica	Betula/Corylus/Myrica	TRSH	2	0.21231423
-Bjune_a101	Calluna vulgaris	Calluna vulgaris	DWAR	15	1.5923567
-Bjune_a101	Corylus avellana	Corylus	TRSH	4	0.42462845
-Bjune_a101	Corylus/Myrica	Corylus/Myrica	TRSH	5	0.53078556
-Bjune_a101	Fraxinus excelsior	Fraxinus excelsior-type	TRSH	2	0.21231423
-Bjune_a101	Juniperus communis	Juniperus communis-type	TRSH	21	2.2292994
-Bjune_a101	Picea	Picea	TRSH	45	4.7770701
-Bjune_a101	Pinus sylvestris	Pinus sylvestris-type	TRSH	446	47.346072
-Bjune_a101	Populus tremula	Populus tremula-type	TRSH	1	0.10615711
-Bjune_a101	Quercus	Quercus	TRSH	39	4.1401274
-Bjune_a101	Rosaceae undiff.	Rosa	TRSH	1	0.10615711
-Bjune_a101	Sorbus aucuparia	Sorbus-type	TRSH	3	0.31847134
-Bjune_a101	Artemisia	Artemisia	HERB	1	0.10615711
-Bjune_a101	Capsella-type	Brassicaceae	HERB	1	0.10615711
-Bjune_a101	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.10615711
-Bjune_a101	Stachys-type	Galeopsis-type	HERB	1	0.10615711
-Bjune_a101	Lobelia dortmanna	Lobelia dortmanna	HERB	2	0.21231423
-Bjune_a101	Achillea-type	Matricaria-type	HERB	1	0.10615711
-Bjune_a101	Plantago lanceolata	Plantago lanceolata-type	HERB	1	0.10615711
-Bjune_a101	Plantago major/P. media	Plantago major/P. media-type	HERB	1	0.10615711
-Bjune_a101	Gramineae undiff.	Poaceae	HERB	48	5.0955414
-Bjune_a101	Potentilla-type	Potentilla-type	HERB	2	0.21231423
-Bjune_a101	Rumex acetosa	Rumex acetosa-type	HERB	3	0.31847134
-Bjune_a101	Rumex acetosa-type/R. acetosella-type	Rumex acetosa-type	HERB	3	0.31847134
-Bjune_a101	Rumex acetosella-type	Rumex acetosella	HERB	1	0.10615711
-Bjune_a101	Urtica	Urtica	HERB	6	0.63694268
-Bjune_a101	Dryopteris-type	Dryopteris-type	VACR	13	1.3800425
-Bjune_a101	Lycopodium annotinum	Lycopodium annotinum-type	VACR	2	0.21231423
-Bjune_a101	Pteridium aquilinum	Pteridium aquilinum	VACR	2	0.21231423
-Bjune_a101	Sphagnum	Sphagnum	BRYO	17	1.8046709
-Bjune_a101	Botryococcus	Botryococcus	ALGA	36	3.8216561
-Bjune_a101	Caltha palustris	Caltha palustris	AQUA	1	0.10615711
-Bjune_a101	Carex-type	Carex	AQUA	10	1.0615711
-Bjune_a101	Cyperaceae undiff.	Cyperaceae	AQUA	11	1.1677282
-Bjune_a101	Isoetes echinospora	Isoetes echinospora	AQPT	2	0.21231423
-Bjune_a101	Myriophyllum spicatum	Myriophyllum spicatum	AQUA	1	0.10615711
-Bjune_a101	Nymphaea	Nymphaea	AQUA	1	0.10615711
-Bjune_a101	Phragmites australis-type	Phragmites australis-type	AQUA	9	0.95541401
-Bjune_a101	Potamogeton sect. Eupotamogeton	Potamogeton natans-type	AQUA	2	0.21231423
-Bjune_a101	Indeterminable: broken	Indeterminable: broken	INUN	1	
-Bjune_a101	Indeterminable: concealed	Indeterminable: concealed	INUN	1	
-Bjune_a101	Indeterminable: corroded	Indeterminable: corroded	INUN	5	
-Bjune_a101	Pinus: stomata	Pinus: stomata	MACR	2	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Bjune_a101	7	1	7	Artemisia	Artemisia	HERB
+Bjune_a101	3619	2	3619	Betula/Corylus/Myrica	Betula/Corylus/Myrica	TRSH
+Bjune_a101	663	36	663	Botryococcus	Botryococcus	ALGA
+Bjune_a101	3646	15	3645	Calluna vulgaris	Calluna vulgaris	DWAR
+Bjune_a101	2284	1	1463	Caltha palustris	Caltha palustris	AQUA
+Bjune_a101	3658	1	13	Capsella-type	Brassicaceae	HERB
+Bjune_a101	24	1	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Bjune_a101	31	4	31	Corylus avellana	Corylus	TRSH
+Bjune_a101	1247	13	772	Dryopteris-type	Dryopteris-type	VACR
+Bjune_a101	47	2	47	Fraxinus excelsior	Fraxinus excelsior-type	TRSH
+Bjune_a101	4018	48	80	Gramineae undiff.	Poaceae	HERB
+Bjune_a101	4072	1	998	Indeterminable: broken	Indeterminable: broken	INUN
+Bjune_a101	4073	1	999	Indeterminable: concealed	Indeterminable: concealed	INUN
+Bjune_a101	4074	5	1324	Indeterminable: corroded	Indeterminable: corroded	INUN
+Bjune_a101	2332	2	2332	Isoetes echinospora	Isoetes echinospora	AQPT
+Bjune_a101	4146	2	4146	Lobelia dortmanna	Lobelia dortmanna	HERB
+Bjune_a101	965	2	183	Lycopodium annotinum	Lycopodium annotinum-type	VACR
+Bjune_a101	1158	1	376	Myriophyllum spicatum	Myriophyllum spicatum	AQUA
+Bjune_a101	4286	9	4284	Phragmites australis-type	Phragmites australis-type	AQUA
+Bjune_a101	126	45	126	Picea	Picea	TRSH
+Bjune_a101	4310	2	4310	Pinus: stomata	Pinus: stomata	MACR
+Bjune_a101	60	1	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+Bjune_a101	4323	1	458	Plantago major/P. media	Plantago major/P. media-type	HERB
+Bjune_a101	4381	1	4381	Populus tremula	Populus tremula-type	TRSH
+Bjune_a101	4384	2	912	Potamogeton sect. Eupotamogeton	Potamogeton natans-type	AQUA
+Bjune_a101	180	2	180	Pteridium aquilinum	Pteridium aquilinum	VACR
+Bjune_a101	189	39	189	Quercus	Quercus	TRSH
+Bjune_a101	472	1	92	Rosaceae undiff.	Rosaceae	TRSH
+Bjune_a101	95	3	95	Rumex acetosa	Rumex acetosa-type	HERB
+Bjune_a101	4504	3	95	Rumex acetosa-type/R. acetosella-type	Rumex acetosa-type	HERB
+Bjune_a101	1398	1	96	Rumex acetosella-type	Rumex acetosella	HERB
+Bjune_a101	2388	3	107	Sorbus aucuparia	Sorbus-type	TRSH
+Bjune_a101	144	17	144	Sphagnum	Sphagnum	BRYO
+Bjune_a101	1405	1	244	Stachys-type	Galeopsis-type	HERB
+Bjune_a101	652	6	652	Urtica	Urtica	HERB
+Bjune_a101	5	33	5	Alnus	Alnus	TRSH
+Bjune_a101	12	219	12	Betula	Betula	TRSH
+Bjune_a101	626	2	512	Potentilla-type	Potentilla-type	HERB
+Bjune_a101	627	1	627	Nymphaea	Nymphaea	AQUA
+Bjune_a101	788	446	125	Pinus sylvestris	Pinus sylvestris-type	TRSH
+Bjune_a101	941	21	58	Juniperus communis	Juniperus communis-type	TRSH
+Bjune_a101	943	1	3	Achillea-type	Matricaria-type	HERB
+Bjune_a101	3665	10	3663	Carex-type	Carex	AQUA
+Bjune_a101	3852	5	3847	Corylus/Myrica	Corylus/Myrica	TRSH
+Bjune_a101	3873	11	3868	Cyperaceae undiff.	Cyperaceae	AQUA

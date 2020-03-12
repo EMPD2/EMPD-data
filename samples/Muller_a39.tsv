@@ -1,24 +1,24 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Muller_a39	Alnus fruticosa	Alnus viridis	TRSH	16	3.712297
-Muller_a39	Betula sect. Nanae	Betula nana-type	DWAR	114	26.450116
-Muller_a39	Ericaceae empetrum-type	Empetrum nigrum	DWAR	1	0.23201856
-Muller_a39	Ericaceae	Ericales (tetrad)	DWAR	3	0.69605568
-Muller_a39	Larix	Larix/Pseudotsuga	TRSH	31	7.1925754
-Muller_a39	Picea	Picea	TRSH	4	0.92807425
-Muller_a39	Pinaceae	Pinaceae	TRSH	2	0.46403712
-Muller_a39	Pinus haploxylon-type	Pinus cembra-type	TRSH	2	0.46403712
-Muller_a39	Pinus diploxylon-type	Pinus sylvestris-type	TRSH	193	44.779582
-Muller_a39	Rosaceae	Rosaceae	TRSH	1	0.23201856
-Muller_a39	Salix	Salix	TRSH	1	0.23201856
-Muller_a39	Ericaceae vaccinium-type	Vaccinium	DWAR	4	0.92807425
-Muller_a39	Brassicaceae	Brassicaceae	HERB	1	0.23201856
-Muller_a39	Cyperaceae	Cyperaceae	HERB	40	9.2807425
-Muller_a39	Poaceae	Poaceae	HERB	13	3.0162413
-Muller_a39	Ranunculaceae	Ranunculaceae	HERB	5	1.1600928
-Muller_a39	Spores indeterminata	Indeterminable: unknown	INUN	11	
-Muller_a39	Pollen, terrestrial	Indeterminable: unknown	INUN	431	
-Muller_a39	Delitschia	Fungi	FUNG	2	
-Muller_a39	Lycopodium spores counted	Lycopodium (counted)	NOPO	43	
-Muller_a39	Podospora	Podospora-type	FUNG	2	
-Muller_a39	Pollen per unit sediment mass	Pollen per unit sediment mass (/g)	NOPO	21408	
-Muller_a39	Stomata	Stomata	VEMI	1	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Muller_a39	123	31	123	Larix	Larix/Pseudotsuga	TRSH
+Muller_a39	126	4	126	Picea	Picea	TRSH
+Muller_a39	1049	193	125	Pinus diploxylon-type	Pinus sylvestris-type	TRSH
+Muller_a39	127	114	127	Betula sect. Nanae	Betula nana-type	DWAR
+Muller_a39	1050	2	124	Pinus haploxylon-type	Pinus cembra-type	TRSH
+Muller_a39	33	40	33	Cyperaceae	Cyperaceae	HERB
+Muller_a39	80	13	80	Poaceae	Poaceae	HERB
+Muller_a39	99	1	99	Salix	Salix	TRSH
+Muller_a39	13	1	13	Brassicaceae	Brassicaceae	HERB
+Muller_a39	130	3	130	Ericaceae	Ericales (tetrad)	DWAR
+Muller_a39	2986	1	739	Ericaceae empetrum-type	Empetrum nigrum	DWAR
+Muller_a39	135	5	135	Ranunculaceae	Ranunculaceae	HERB
+Muller_a39	92	1	92	Rosaceae	Rosaceae	TRSH
+Muller_a39	2996	2	672	Delitschia	Fungi	FUNG
+Muller_a39	671	2	558	Podospora	Podospora-type	FUNG
+Muller_a39	2981	1	2771	Stomata	Stomata	VEMI
+Muller_a39	2999	11	177	Spores indeterminata	Indeterminable: unknown	INUN
+Muller_a39	2970	431	177	Pollen, terrestrial	Indeterminable: unknown	INUN
+Muller_a39	3000	43	559	Lycopodium spores counted	Lycopodium (counted)	NOPO
+Muller_a39	3001	21408	3001	Pollen per unit sediment mass	Pollen per unit sediment mass (/g)	NOPO
+Muller_a39	1944	2	1944	Pinaceae	Pinaceae	TRSH
+Muller_a39	2962	16	129	Alnus fruticosa	Alnus viridis	TRSH
+Muller_a39	2987	4	540	Ericaceae vaccinium-type	Vaccinium	TRSH

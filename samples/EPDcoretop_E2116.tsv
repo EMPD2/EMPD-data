@@ -1,30 +1,30 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-EPDcoretop_E2116	Abies	Abies	TRSH	3	0.86956522
-EPDcoretop_E2116	Alnus	Alnus	TRSH	11	3.1884058
-EPDcoretop_E2116	Betula	Betula	TRSH	2	0.57971014
-EPDcoretop_E2116	Corylus	Corylus	TRSH	3	0.86956522
-EPDcoretop_E2116	Liquidambar	Liquidambar	TRSH	1	0.28985507
-EPDcoretop_E2116	Pinus sylvestris	Pinus sylvestris-type	TRSH	20	5.7971014
-EPDcoretop_E2116	Quercus	Quercus	TRSH	16	4.6376812
-EPDcoretop_E2116	Salix	Salix	TRSH	11	3.1884058
-EPDcoretop_E2116	Ulmus	Ulmus/Zelkova	TRSH	1	0.28985507
-EPDcoretop_E2116	Apiaceae	Apiaceae	HERB	1	0.28985507
-EPDcoretop_E2116	Asteraceae	Asteraceae	HERB	1	0.28985507
-EPDcoretop_E2116	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	4	1.1594203
-EPDcoretop_E2116	Brassicaceae	Brassicaceae	HERB	5	1.4492754
-EPDcoretop_E2116	Cerealia-type	Cerealia-type	HERB	4	1.1594203
-EPDcoretop_E2116	Cyperaceae	Cyperaceae	HERB	157	45.507246
-EPDcoretop_E2116	Epilobium	Epilobium	HERB	1	0.28985507
-EPDcoretop_E2116	Fabaceae	Fabaceae	HERB	2	0.57971014
-EPDcoretop_E2116	Cannabis/Humulus	Humulus/Cannabis	HERB	1	0.28985507
-EPDcoretop_E2116	Lamiaceae	Lamiaceae	HERB	7	2.0289855
-EPDcoretop_E2116	Plantago	Plantago	HERB	7	2.0289855
-EPDcoretop_E2116	Poaceae	Poaceae	HERB	59	17.101449
-EPDcoretop_E2116	Ranunculaceae	Ranunculaceae	HERB	3	0.86956522
-EPDcoretop_E2116	Rumex	Rumex/Oxyria	HERB	2	0.57971014
-EPDcoretop_E2116	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	4	1.1594203
-EPDcoretop_E2116	Polypodiaceae	Monolete fern spores	VACR	18	5.2173913
-EPDcoretop_E2116	Pteridium	Pteridium aquilinum	VACR	1	0.28985507
-EPDcoretop_E2116	Callitriche	Callitriche	AQUA	3	0.86956522
-EPDcoretop_E2116	Typha angustifolia	Typha angustifolia	HELO	17	4.9275362
-EPDcoretop_E2116	Typha latifolia	Typha latifolia	HELO	1	0.28985507
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+EPDcoretop_E2116	5	11	5	Alnus	Alnus	TRSH
+EPDcoretop_E2116	6	1	6	Apiaceae	Apiaceae	HERB
+EPDcoretop_E2116	12	2	12	Betula	Betula	TRSH
+EPDcoretop_E2116	13	5	13	Brassicaceae	Brassicaceae	HERB
+EPDcoretop_E2116	33	157	33	Cyperaceae	Cyperaceae	HERB
+EPDcoretop_E2116	41	2	41	Fabaceae	Fabaceae	HERB
+EPDcoretop_E2116	59	7	59	Lamiaceae	Lamiaceae	HERB
+EPDcoretop_E2116	80	59	80	Poaceae	Poaceae	HERB
+EPDcoretop_E2116	99	11	99	Salix	Salix	TRSH
+EPDcoretop_E2116	134	1	134	Asteraceae	Asteraceae	HERB
+EPDcoretop_E2116	135	3	135	Ranunculaceae	Ranunculaceae	HERB
+EPDcoretop_E2116	146	18	146	Polypodiaceae	Monolete fern spores	VACR
+EPDcoretop_E2116	154	1	154	Ulmus	Ulmus/Zelkova	TRSH
+EPDcoretop_E2116	173	4	173	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB
+EPDcoretop_E2116	189	16	189	Quercus	Quercus	TRSH
+EPDcoretop_E2116	201	3	31	Corylus	Corylus	TRSH
+EPDcoretop_E2116	431	1	180	Pteridium	Pteridium aquilinum	VACR
+EPDcoretop_E2116	447	4	25	Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+EPDcoretop_E2116	547	1	547	Epilobium	Epilobium	HERB
+EPDcoretop_E2116	548	3	548	Callitriche	Callitriche	AQUA
+EPDcoretop_E2116	560	3	321	Abies	Abies	TRSH
+EPDcoretop_E2116	651	1	205	Cannabis/Humulus	Humulus/Cannabis	HERB
+EPDcoretop_E2116	724	7	270	Plantago	Plantago	HERB
+EPDcoretop_E2116	727	2	94	Rumex	Rumex/Oxyria	HERB
+EPDcoretop_E2116	788	20	125	Pinus sylvestris	Pinus sylvestris-type	TRSH
+EPDcoretop_E2116	1065	4	22	Cerealia-type	Cerealia-type	HERB
+EPDcoretop_E2116	1286	17	1286	Typha angustifolia	Typha angustifolia	HELO
+EPDcoretop_E2116	1287	1	417	Typha latifolia	Typha latifolia	AQUA
+EPDcoretop_E2116	2539	1	2539	Liquidambar	Liquidambar	TRSH

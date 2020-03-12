@@ -1,48 +1,48 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-EPDcoretop_E994	Alnus	Alnus	TRSH	28	9.1803279
-EPDcoretop_E994	Betula	Betula	TRSH	37	12.131148
-EPDcoretop_E994	Calluna vulgaris	Calluna vulgaris	DWAR	3	0.98360656
-EPDcoretop_E994	Carpinus betulus	Carpinus betulus	TRSH	1	0.32786885
-EPDcoretop_E994	Corylus avellana	Corylus	TRSH	1	0.32786885
-EPDcoretop_E994	Fagus sylvatica	Fagus	TRSH	3	0.98360656
-EPDcoretop_E994	Juniperus communis	Juniperus communis-type	TRSH	8	2.6229508
-EPDcoretop_E994	Picea abies	Picea abies-type	TRSH	3	0.98360656
-EPDcoretop_E994	Pinus	Pinus	TRSH	68	22.295082
-EPDcoretop_E994	Populus	Populus	TRSH	1	0.32786885
-EPDcoretop_E994	Quercus	Quercus	TRSH	9	2.9508197
-EPDcoretop_E994	Salix	Salix	TRSH	1	0.32786885
-EPDcoretop_E994	Umbelliferae	Apiaceae	HERB	1	0.32786885
-EPDcoretop_E994	Artemisia	Artemisia	HERB	4	1.3114754
-EPDcoretop_E994	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB	1	0.32786885
-EPDcoretop_E994	Cruciferae	Brassicaceae	HERB	4	1.3114754
-EPDcoretop_E994	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	4	1.3114754
-EPDcoretop_E994	Centaurea cyanus	Centaurea cyanus-type	HERB	1	0.32786885
-EPDcoretop_E994	Cerealia-type	Cerealia-type	HERB	8	2.6229508
-EPDcoretop_E994	Euphorbia	Euphorbia	HERB	1	0.32786885
-EPDcoretop_E994	Humulus/Cannabis	Humulus/Cannabis	HERB	1	0.32786885
-EPDcoretop_E994	Labiatae	Lamiaceae	HERB	1	0.32786885
-EPDcoretop_E994	Mercurialis	Mercurialis	HERB	1	0.32786885
-EPDcoretop_E994	Plantago coronopus	Plantago coronopus-type	HERB	1	0.32786885
-EPDcoretop_E994	Plantago lanceolata	Plantago lanceolata-type	HERB	5	1.6393443
-EPDcoretop_E994	Gramineae	Poaceae	HERB	55	18.032787
-EPDcoretop_E994	Ranunculaceae	Ranunculaceae	HERB	4	1.3114754
-EPDcoretop_E994	Rubiaceae	Rubiaceae	HERB	1	0.32786885
-EPDcoretop_E994	Rumex acetosa-type	Rumex acetosa-type	HERB	14	4.5901639
-EPDcoretop_E994	Rumex obtusifolius-type	Rumex crispus-type	HERB	1	0.32786885
-EPDcoretop_E994	Rumex/Oxyria	Rumex/Oxyria	HERB	9	2.9508197
-EPDcoretop_E994	Scleranthus	Scleranthus	HERB	2	0.6557377
-EPDcoretop_E994	Secale cereale	Secale cereale	HERB	9	2.9508197
-EPDcoretop_E994	Triticum-type	Triticum-type	HERB	7	2.295082
-EPDcoretop_E994	Urtica	Urtica	HERB	4	1.3114754
-EPDcoretop_E994	Viola arvensis-type	Viola tricolor-type	HERB	1	0.32786885
-EPDcoretop_E994	Equisetum	Equisetum	VACR	1	0.32786885
-EPDcoretop_E994	Sphagnum	Sphagnum	BRYO	1	0.32786885
-EPDcoretop_E994	Cyperaceae	Cyperaceae	AQUA	51	16.721311
-EPDcoretop_E994	Myriophyllum spicatum	Myriophyllum spicatum	AQUA	1	0.32786885
-EPDcoretop_E994	Nuphar	Nuphar	AQUA	1	0.32786885
-EPDcoretop_E994	Nymphaea alba	Nymphaea	AQUA	5	1.6393443
-EPDcoretop_E994	Pediastrum boryanum	Pediastrum boryanum	ALGA	23	7.5409836
-EPDcoretop_E994	Phragmites australis-type	Phragmites australis-type	AQUA	21	6.8852459
-EPDcoretop_E994	Potamogeton	Potamogeton-type	AQUA	8	2.6229508
-EPDcoretop_E994	Sagittaria sagittifolia	Sagittaria	AQUA	1	0.32786885
-EPDcoretop_E994	Sparganium-type	Sparganium-type	AQUA	9	2.9508197
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+EPDcoretop_E994	5	28	5	Alnus	Alnus	TRSH
+EPDcoretop_E994	7	4	7	Artemisia	Artemisia	HERB
+EPDcoretop_E994	12	37	12	Betula	Betula	TRSH
+EPDcoretop_E994	3646	3	3645	Calluna vulgaris	Calluna vulgaris	DWAR
+EPDcoretop_E994	563	1	16	Carpinus betulus	Carpinus betulus	TRSH
+EPDcoretop_E994	18	4	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+EPDcoretop_E994	821	1	462	Centaurea cyanus	Centaurea cyanus-type	HERB
+EPDcoretop_E994	3824	1	25	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+EPDcoretop_E994	31	1	31	Corylus avellana	Corylus	TRSH
+EPDcoretop_E994	482	4	13	Cruciferae	Brassicaceae	HERB
+EPDcoretop_E994	40	1	40	Euphorbia	Euphorbia	HERB
+EPDcoretop_E994	1601	55	80	Gramineae	Poaceae	HERB
+EPDcoretop_E994	1144	1	205	Humulus/Cannabis	Humulus/Cannabis	HERB
+EPDcoretop_E994	485	1	59	Labiatae	Lamiaceae	HERB
+EPDcoretop_E994	227	1	227	Mercurialis	Mercurialis	HERB
+EPDcoretop_E994	1158	1	376	Myriophyllum spicatum	Myriophyllum spicatum	AQUA
+EPDcoretop_E994	1495	1	1495	Nuphar	Nuphar	AQUA
+EPDcoretop_E994	909	23	909	Pediastrum boryanum	Pediastrum boryanum	ALGA
+EPDcoretop_E994	4286	21	4284	Phragmites australis-type	Phragmites australis-type	AQUA
+EPDcoretop_E994	783	3	783	Picea abies	Picea abies-type	TRSH
+EPDcoretop_E994	75	68	75	Pinus	Pinus	TRSH
+EPDcoretop_E994	30	1	30	Plantago coronopus	Plantago coronopus-type	HERB
+EPDcoretop_E994	81	1	81	Populus	Populus	TRSH
+EPDcoretop_E994	93	1	93	Rubiaceae	Rubiaceae	HERB
+EPDcoretop_E994	634	14	95	Rumex acetosa-type	Rumex acetosa-type	HERB
+EPDcoretop_E994	4526	1	4525	Sagittaria sagittifolia	Sagittaria	AQUA
+EPDcoretop_E994	99	1	99	Salix	Salix	TRSH
+EPDcoretop_E994	1041	2	1041	Scleranthus	Scleranthus	HERB
+EPDcoretop_E994	256	9	256	Secale cereale	Secale cereale	HERB
+EPDcoretop_E994	1086	9	176	Sparganium-type	Sparganium-type	AQUA
+EPDcoretop_E994	144	1	144	Sphagnum	Sphagnum	BRYO
+EPDcoretop_E994	590	1	6	Umbelliferae	Apiaceae	HERB
+EPDcoretop_E994	652	4	652	Urtica	Urtica	HERB
+EPDcoretop_E994	1420	1	1420	Viola arvensis-type	Viola tricolor-type	HERB
+EPDcoretop_E994	42	3	42	Fagus sylvatica	Fagus	TRSH
+EPDcoretop_E994	60	5	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+EPDcoretop_E994	135	4	135	Ranunculaceae	Ranunculaceae	HERB
+EPDcoretop_E994	145	1	145	Equisetum	Equisetum	VACR
+EPDcoretop_E994	189	9	189	Quercus	Quercus	TRSH
+EPDcoretop_E994	657	8	108	Potamogeton	Potamogeton-type	AQUA
+EPDcoretop_E994	941	8	58	Juniperus communis	Juniperus communis-type	TRSH
+EPDcoretop_E994	1065	8	22	Cerealia-type	Cerealia-type	HERB
+EPDcoretop_E994	1233	7	1199	Triticum-type	Triticum-type	HERB
+EPDcoretop_E994	2061	5	627	Nymphaea alba	Nymphaea	AQUA
+EPDcoretop_E994	3868	51	3868	Cyperaceae	Cyperaceae	AQUA
+EPDcoretop_E994	4515	1	251	Rumex obtusifolius-type	Rumex crispus-type	HERB
+EPDcoretop_E994	4521	9	94	Rumex/Oxyria	Rumex/Oxyria	HERB

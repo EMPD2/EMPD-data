@@ -1,37 +1,37 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Odgaard_a1	Alnus	Alnus	TRSH	161	11.330049
-Odgaard_a1	Betula	Betula	TRSH	578	40.675581
-Odgaard_a1	Castanea	Castanea sativa	TRSH	1	0.070372977
-Odgaard_a1	Corylus	Corylus	TRSH	4	0.28149191
-Odgaard_a1	Cupressaceae	Cupressaceae undiff.	TRSH	9	0.63335679
-Odgaard_a1	Fagus	Fagus	TRSH	189	13.300493
-Odgaard_a1	Frangula alnus	Frangula alnus	TRSH	1	0.070372977
-Odgaard_a1	Fraxinus	Fraxinus	TRSH	8	0.56298381
-Odgaard_a1	Picea	Picea	TRSH	50	3.5186488
-Odgaard_a1	Pinus	Pinus	TRSH	44	3.096411
-Odgaard_a1	Populus	Populus	TRSH	16	1.1259676
-Odgaard_a1	Quercus	Quercus	TRSH	130	9.148487
-Odgaard_a1	Salix	Salix	TRSH	25	1.7593244
-Odgaard_a1	Sambucus	Sambucus	TRSH	1	0.070372977
-Odgaard_a1	Sorbus	Sorbus-type	TRSH	3	0.21111893
-Odgaard_a1	Ulmus	Ulmus/Zelkova	TRSH	7	0.49261084
-Odgaard_a1	Anemone	Anemone nemorosa-type	HERB	1	0.070372977
-Odgaard_a1	Anthriscus sylvestris-type	Anthriscus sylvestris-type	HERB	2	0.14074595
-Odgaard_a1	Artemisia	Artemisia	HERB	12	0.84447572
-Odgaard_a1	Avena/Triticum	Avena/Triticum-type	HERB	3	0.21111893
-Odgaard_a1	Brassicaceae	Brassicaceae	HERB	5	0.35186488
-Odgaard_a1	Secale	Cerealia-type	HERB	7	0.49261084
-Odgaard_a1	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	3	0.21111893
-Odgaard_a1	Filipendula	Filipendula	HERB	2	0.14074595
-Odgaard_a1	Hordeum-type	Hordeum-type	HERB	2	0.14074595
-Odgaard_a1	Cannabis-type	Humulus/Cannabis	HERB	1	0.070372977
-Odgaard_a1	Plantago lanceolata	Plantago lanceolata-type	HERB	1	0.070372977
-Odgaard_a1	Poaceae	Poaceae	HERB	107	7.5299085
-Odgaard_a1	Rumex acetosella-type	Rumex acetosella	HERB	3	0.21111893
-Odgaard_a1	Senecio-type	Senecio-type	HERB	1	0.070372977
-Odgaard_a1	Thalictrum	Thalictrum	HERB	1	0.070372977
-Odgaard_a1	Trifolium repens-type	Trifolium repens-type	HERB	1	0.070372977
-Odgaard_a1	Urtica	Urtica	HERB	40	2.8149191
-Odgaard_a1	Dryopteris	Dryopteris-type	VACR	2	0.14074595
-Odgaard_a1	Caltha palustris	Caltha palustris	AQUA	1	0.070372977
-Odgaard_a1	Carex	Carex	AQUA	2	0.14074595
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Odgaard_a1	5	161	5	Alnus	Alnus	TRSH
+Odgaard_a1	588	1	588	Anemone	Anemone nemorosa-type	HERB
+Odgaard_a1	2548	2	1106	Anthriscus sylvestris-type	Anthriscus sylvestris-type	HERB
+Odgaard_a1	7	12	7	Artemisia	Artemisia	HERB
+Odgaard_a1	12	578	12	Betula	Betula	TRSH
+Odgaard_a1	13	5	13	Brassicaceae	Brassicaceae	HERB
+Odgaard_a1	2284	1	1463	Caltha palustris	Caltha palustris	AQUA
+Odgaard_a1	3663	2	3663	Carex	Carex	AQUA
+Odgaard_a1	201	4	31	Corylus	Corylus	TRSH
+Odgaard_a1	714	9	347	Cupressaceae	Cupressaceae undiff.	TRSH
+Odgaard_a1	772	2	772	Dryopteris	Dryopteris-type	VACR
+Odgaard_a1	192	189	42	Fagus	Fagus	TRSH
+Odgaard_a1	45	2	45	Filipendula	Filipendula	HERB
+Odgaard_a1	567	1	468	Frangula alnus	Frangula alnus	TRSH
+Odgaard_a1	190	8	190	Fraxinus	Fraxinus	TRSH
+Odgaard_a1	949	2	258	Hordeum-type	Hordeum-type	HERB
+Odgaard_a1	75	44	75	Pinus	Pinus	TRSH
+Odgaard_a1	60	1	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+Odgaard_a1	80	107	80	Poaceae	Poaceae	HERB
+Odgaard_a1	81	16	81	Populus	Populus	TRSH
+Odgaard_a1	1398	3	96	Rumex acetosella-type	Rumex acetosella	HERB
+Odgaard_a1	99	25	99	Salix	Salix	TRSH
+Odgaard_a1	481	1	407	Sambucus	Sambucus	TRSH
+Odgaard_a1	1230	1	133	Senecio-type	Senecio-type	HERB
+Odgaard_a1	107	3	107	Sorbus	Sorbus-type	TRSH
+Odgaard_a1	112	1	112	Thalictrum	Thalictrum	HERB
+Odgaard_a1	1786	1	116	Trifolium repens-type	Trifolium repens-type	HERB
+Odgaard_a1	154	7	154	Ulmus	Ulmus/Zelkova	TRSH
+Odgaard_a1	652	40	652	Urtica	Urtica	HERB
+Odgaard_a1	24	3	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Odgaard_a1	104	7	22	Secale	Cerealia-type	HERB
+Odgaard_a1	126	50	126	Picea	Picea	TRSH
+Odgaard_a1	189	130	189	Quercus	Quercus	TRSH
+Odgaard_a1	441	1	19	Castanea	Castanea sativa	TRSH
+Odgaard_a1	1340	1	205	Cannabis-type	Humulus/Cannabis	HERB
+Odgaard_a1	3599	3	818	Avena/Triticum	Avena/Triticum-type	HERB

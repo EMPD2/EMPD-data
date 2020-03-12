@@ -1,46 +1,46 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Bjune_a270	Alnus	Alnus	TRSH	10	1.6474465
-Bjune_a270	Betula	Betula	TRSH	109	17.957166
-Bjune_a270	Ericaceae-type	Ericales (tetrad)	DWAR	6	0.98846787
-Bjune_a270	Juniperus communis	Juniperus communis-type	TRSH	29	4.7775947
-Bjune_a270	Picea	Picea	TRSH	53	8.7314662
-Bjune_a270	Pinus sylvestris	Pinus sylvestris-type	TRSH	236	38.879736
-Bjune_a270	Quercus	Quercus	TRSH	2	0.32948929
-Bjune_a270	Rosaceae undiff.	Rosa	TRSH	1	0.16474465
-Bjune_a270	Salix undiff.	Salix	TRSH	18	2.9654036
-Bjune_a270	Vaccinium-type	Vaccinium-type	DWAR	1	0.16474465
-Bjune_a270	Umbelliferae undiff.	Apiaceae	HERB	1	0.16474465
-Bjune_a270	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB	1	0.16474465
-Bjune_a270	Cerastium cerastioides-type	Cerastium-type	HERB	1	0.16474465
-Bjune_a270	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.16474465
-Bjune_a270	Juncaceae	Juncaceae	HERB	1	0.16474465
-Bjune_a270	Melampyrum	Melampyrum	HERB	1	0.16474465
-Bjune_a270	Oxyria digyna	Oxyria digyna	HERB	1	0.16474465
-Bjune_a270	Plantago lanceolata	Plantago lanceolata-type	HERB	1	0.16474465
-Bjune_a270	Gramineae undiff.	Poaceae	HERB	66	10.873147
-Bjune_a270	Ranunculus acris-type	Ranunculus acris-type	HERB	2	0.32948929
-Bjune_a270	Rhinanthus-type	Rhinanthus-type	HERB	1	0.16474465
-Bjune_a270	Rumex acetosa	Rumex acetosa-type	HERB	6	0.98846787
-Bjune_a270	Rumex acetosa-type/R. acetosella-type	Rumex acetosa-type	HERB	9	1.4827018
-Bjune_a270	Rumex acetosella-type	Rumex acetosella	HERB	2	0.32948929
-Bjune_a270	Saxifraga stellaris-type	Saxifraga stellaris-type	HERB	3	0.49423394
-Bjune_a270	Solidago-type	Senecio-type	HERB	4	0.65897858
-Bjune_a270	Sinapis-type	Sinapis-type	HERB	1	0.16474465
-Bjune_a270	Thalictrum	Thalictrum	HERB	1	0.16474465
-Bjune_a270	Urtica	Urtica	HERB	2	0.32948929
-Bjune_a270	Botrychium lunaria-type	Botrychium lunaria-type	VACR	1	0.16474465
-Bjune_a270	Dryopteris-type	Dryopteris-type	VACR	14	2.306425
-Bjune_a270	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR	4	0.65897858
-Bjune_a270	Lycopodium annotinum	Lycopodium annotinum-type	VACR	1	0.16474465
-Bjune_a270	Diphasiastrum	Lycopodium clavatum-type	VACR	5	0.82372323
-Bjune_a270	Selaginella selaginoides	Selaginella selaginoides	VACR	8	1.3179572
-Bjune_a270	Sphagnum	Sphagnum	BRYO	4	0.65897858
-Bjune_a270	Botryococcus	Botryococcus	ALGA	32	5.2718287
-Bjune_a270	Carex-type	Carex	AQUA	41	6.7545305
-Bjune_a270	Cyperaceae undiff.	Cyperaceae	AQUA	17	2.800659
-Bjune_a270	Indeterminable: broken	Indeterminable: broken	INUN	8	
-Bjune_a270	Indeterminable: corroded	Indeterminable: corroded	INUN	13	
-Bjune_a270	Indeterminable: crumpled	Indeterminable: crumpled	INUN	2	
-Bjune_a270	Indeterminable: degraded	Indeterminable: degraded	INUN	4	
-Bjune_a270	Unknown	Indeterminable: unknown	INUN	1	
-Bjune_a270	Nymphaeaceae: star cell	Nymphaeaceae: star cell	NOPO	4	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Bjune_a270	5	10	5	Alnus	Alnus	TRSH
+Bjune_a270	12	109	12	Betula	Betula	TRSH
+Bjune_a270	3626	1	1703	Botrychium lunaria-type	Botrychium lunaria-type	VACR
+Bjune_a270	663	32	663	Botryococcus	Botryococcus	ALGA
+Bjune_a270	3665	41	3663	Carex-type	Carex	AQUA
+Bjune_a270	24	1	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Bjune_a270	3824	1	25	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Bjune_a270	3873	17	3868	Cyperaceae undiff.	Cyperaceae	AQUA
+Bjune_a270	3894	5	182	Diphasiastrum	Lycopodium clavatum-type	VACR
+Bjune_a270	1247	14	772	Dryopteris-type	Dryopteris-type	VACR
+Bjune_a270	3944	6	130	Ericaceae-type	Ericales (tetrad)	DWAR
+Bjune_a270	4018	66	80	Gramineae undiff.	Poaceae	HERB
+Bjune_a270	2121	4	1320	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR
+Bjune_a270	4072	8	998	Indeterminable: broken	Indeterminable: broken	INUN
+Bjune_a270	4074	13	1324	Indeterminable: corroded	Indeterminable: corroded	INUN
+Bjune_a270	4075	2	1925	Indeterminable: crumpled	Indeterminable: crumpled	INUN
+Bjune_a270	718	4	718	Indeterminable: degraded	Indeterminable: degraded	INUN
+Bjune_a270	1750	1	1750	Juncaceae	Juncaceae	HERB
+Bjune_a270	941	29	58	Juniperus communis	Juniperus communis-type	TRSH
+Bjune_a270	965	1	183	Lycopodium annotinum	Lycopodium annotinum-type	VACR
+Bjune_a270	473	1	473	Melampyrum	Melampyrum	HERB
+Bjune_a270	4227	4	4227	Nymphaeaceae: star cell	Nymphaeaceae: star cell	NOPO
+Bjune_a270	241	1	241	Oxyria digyna	Oxyria digyna	HERB
+Bjune_a270	126	53	126	Picea	Picea	TRSH
+Bjune_a270	788	236	125	Pinus sylvestris	Pinus sylvestris-type	TRSH
+Bjune_a270	60	1	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+Bjune_a270	189	2	189	Quercus	Quercus	TRSH
+Bjune_a270	630	2	87	Ranunculus acris-type	Ranunculus acris-type	HERB
+Bjune_a270	631	1	631	Rhinanthus-type	Rhinanthus-type	HERB
+Bjune_a270	472	1	92	Rosaceae undiff.	Rosaceae	TRSH
+Bjune_a270	95	6	95	Rumex acetosa	Rumex acetosa-type	HERB
+Bjune_a270	4504	9	95	Rumex acetosa-type/R. acetosella-type	Rumex acetosa-type	HERB
+Bjune_a270	1398	2	96	Rumex acetosella-type	Rumex acetosella	HERB
+Bjune_a270	957	3	642	Saxifraga stellaris-type	Saxifraga stellaris-type	HERB
+Bjune_a270	874	8	185	Selaginella selaginoides	Selaginella selaginoides	VACR
+Bjune_a270	1403	1	246	Sinapis-type	Sinapis-type	HERB
+Bjune_a270	2428	4	133	Solidago-type	Senecio-type	HERB
+Bjune_a270	144	4	144	Sphagnum	Sphagnum	BRYO
+Bjune_a270	112	1	112	Thalictrum	Thalictrum	HERB
+Bjune_a270	969	1	177	Unknown	Indeterminable: unknown	INUN
+Bjune_a270	4711	1	6	Umbelliferae undiff.	Apiaceae	HERB
+Bjune_a270	652	2	652	Urtica	Urtica	HERB
+Bjune_a270	1400	18	99	Salix undiff.	Salix	TRSH
+Bjune_a270	2554	1	21	Cerastium cerastioides-type	Cerastium-type	HERB
+Bjune_a270	4730	1	4730	Vaccinium-type	Vaccinium-type	DWAR

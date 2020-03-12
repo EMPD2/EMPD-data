@@ -1,54 +1,54 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Jahns_i2	Abies	Abies	TRSH	6	0.31496063
-Jahns_i2	Cistus p.p.	Cistus	TRSH	8	0.41994751
-Jahns_i2	Cistus incanus type	Cistus albidus-type	TRSH	3	0.15748031
-Jahns_i2	Cistus monspeliensis	Cistus monspeliensis-type	TRSH	24	1.2598425
-Jahns_i2	Corylus	Corylus	TRSH	2	0.10498688
-Jahns_i2	Erica	Erica	DWAR	2	0.10498688
-Jahns_i2	Juglans	Juglans	TRSH	1	0.052493438
-Jahns_i2	Juniperus	Juniperus-type	TRSH	2	0.10498688
-Jahns_i2	Olea	Olea europaea	TRSH	12	0.62992126
-Jahns_i2	Carpinus orientalis/Ostrya	Ostrya/Carpinus orientalis	TRSH	2	0.10498688
-Jahns_i2	Phillyrea	Phillyrea	TRSH	20	1.0498688
-Jahns_i2	Pinus	Pinus	TRSH	1234	64.776903
-Jahns_i2	Pistacia	Pistacia	TRSH	43	2.2572178
-Jahns_i2	Quercus evergreen	Quercus ilex-type	TRSH	71	3.7270341
-Jahns_i2	Quercus deciduous	Quercus robur-type	TRSH	3	0.15748031
-Jahns_i2	Salix	Salix	TRSH	1	0.052493438
-Jahns_i2	Viburnum	Viburnum	TRSH	1	0.052493438
-Jahns_i2	Xanthium	Ambrosia/Xanthium	HERB	1	0.052493438
-Jahns_i2	Apiaceae	Apiaceae	HERB	36	1.8897638
-Jahns_i2	Asphodelus	Asphodelus	HERB	1	0.052493438
-Jahns_i2	Asteraceae Tubuliflorae	Asteraceae subf. Asteroideae	HERB	7	0.36745407
-Jahns_i2	Asteraceae Liguliflorae	Asteraceae subf. Cichorioideae	HERB	153	8.0314961
-Jahns_i2	Avena type	Avena-type	HERB	4	0.20997375
-Jahns_i2	Triticum type	Avena/Triticum-type	HERB	1	0.052493438
-Jahns_i2	Brassicaceae	Brassicaceae	HERB	1	0.052493438
-Jahns_i2	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	4	0.20997375
-Jahns_i2	Cerealia p.p.	Cerealia-type	HERB	1	0.052493438
-Jahns_i2	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	10	0.52493438
-Jahns_i2	Convolvulus arvensis	Convolvulus arvensis-type	HERB	3	0.15748031
-Jahns_i2	Euphorbiaceae	Euphorbiaceae	HERB	2	0.10498688
-Jahns_i2	Fabaceae p.p.	Fabaceae	HERB	4	0.20997375
-Jahns_i2	Geranium	Geranium	HERB	3	0.15748031
-Jahns_i2	Glaucium type	Glaucium	HERB	1	0.052493438
-Jahns_i2	Hordeum type	Hordeum-type	HERB	5	0.26246719
-Jahns_i2	Humulus/Cannabis	Humulus/Cannabis	HERB	2	0.10498688
-Jahns_i2	Lamiaceae	Lamiaceae	HERB	5	0.26246719
-Jahns_i2	Malvaceae	Malvaceae	HERB	1	0.052493438
-Jahns_i2	Mercurialis annua	Mercurialis annua	HERB	1	0.052493438
-Jahns_i2	Plantago carinata type	Plantago	HERB	3	0.15748031
-Jahns_i2	Plantago coronopus type	Plantago coronopus-type	HERB	5	0.26246719
-Jahns_i2	Plantago lanceolata type	Plantago lanceolata-type	HERB	91	4.7769029
-Jahns_i2	Plantago lagopus type	Plantago lanceolata-type	HERB	5	0.26246719
-Jahns_i2	Plantago major type	Plantago major	HERB	15	0.78740157
-Jahns_i2	Plantago maritima type	Plantago maritima-type	HERB	4	0.20997375
-Jahns_i2	Poaceae	Poaceae	HERB	53	2.7821522
-Jahns_i2	Polygonum aviculare	Polygonum aviculare-type	HERB	1	0.052493438
-Jahns_i2	Ranunculus acris type	Ranunculus acris-type	HERB	2	0.10498688
-Jahns_i2	Sarcopoterium/Sanguisorba minor	Sanguisorba minor-type	HERB	3	0.15748031
-Jahns_i2	Zea mays	Zea mays	HERB	1	0.052493438
-Jahns_i2	Botrychium	Botrychium	VACR	13	0.6824147
-Jahns_i2	Pteridium	Pteridium aquilinum	VACR	4	0.20997375
-Jahns_i2	trilete psilate Sporen	Trilete spore(s)	VACR	5	0.26246719
-Jahns_i2	Trilete verrucate Sporen	Trilete spore(s)	VACR	19	0.99737533
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Jahns_i2	6	36	6	Apiaceae	Apiaceae	HERB
+Jahns_i2	9	1	9	Asphodelus	Asphodelus	HERB
+Jahns_i2	13	1	13	Brassicaceae	Brassicaceae	HERB
+Jahns_i2	18	4	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Jahns_i2	201	2	31	Corylus	Corylus	TRSH
+Jahns_i2	560	6	321	Abies	Abies	TRSH
+Jahns_i2	769	10	24	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB
+Jahns_i2	1035	2	70	Carpinus orientalis/Ostrya	Ostrya/Carpinus orientalis	TRSH
+Jahns_i2	1244	3	1244	Convolvulus arvensis	Convolvulus arvensis-type	HERB
+Jahns_i2	1337	153	25	Asteraceae Liguliflorae	Asteraceae subf. Cichorioideae	HERB
+Jahns_i2	1732	24	1732	Cistus monspeliensis	Cistus monspeliensis-type	TRSH
+Jahns_i2	38	2	38	Erica	Erica	TRSH
+Jahns_i2	57	1	57	Juglans	Juglans	TRSH
+Jahns_i2	59	5	59	Lamiaceae	Lamiaceae	HERB
+Jahns_i2	66	1	66	Mercurialis annua	Mercurialis annua	HERB
+Jahns_i2	74	20	74	Phillyrea	Phillyrea	TRSH
+Jahns_i2	75	1234	75	Pinus	Pinus	TRSH
+Jahns_i2	77	43	77	Pistacia	Pistacia	TRSH
+Jahns_i2	80	53	80	Poaceae	Poaceae	HERB
+Jahns_i2	87	2	87	Ranunculus acris type	Ranunculus acris-type	HERB
+Jahns_i2	99	1	99	Salix	Salix	TRSH
+Jahns_i2	120	1	120	Viburnum	Viburnum	TRSH
+Jahns_i2	221	91	60	Plantago lanceolata type	Plantago lanceolata-type	HERB
+Jahns_i2	222	15	79	Plantago major type	Plantago major	HERB
+Jahns_i2	427	71	85	Quercus evergreen	Quercus ilex-type	TRSH
+Jahns_i2	431	4	180	Pteridium	Pteridium aquilinum	VACR
+Jahns_i2	437	3	86	Quercus deciduous	Quercus robur-type	TRSH
+Jahns_i2	442	12	68	Olea	Olea europaea	TRSH
+Jahns_i2	498	3	498	Geranium	Geranium	HERB
+Jahns_i2	616	5	30	Plantago coronopus type	Plantago coronopus-type	HERB
+Jahns_i2	617	4	64	Plantago maritima type	Plantago maritima-type	HERB
+Jahns_i2	725	1	262	Polygonum aviculare	Polygonum aviculare-type	HERB
+Jahns_i2	773	2	773	Euphorbiaceae	Euphorbiaceae	HERB
+Jahns_i2	812	1	423	Zea mays	Zea mays	HERB
+Jahns_i2	962	13	962	Botrychium	Botrychium	VACR
+Jahns_i2	1144	2	205	Humulus/Cannabis	Humulus/Cannabis	HERB
+Jahns_i2	1488	1	372	Malvaceae	Malvaceae	HERB
+Jahns_i2	1728	2	203	Juniperus	Juniperus-type	TRSH
+Jahns_i2	1753	1	228	Xanthium	Ambrosia/Xanthium	HERB
+Jahns_i2	1927	7	160	Asteraceae Tubuliflorae	Asteraceae subf. Asteroideae	HERB
+Jahns_i2	1928	4	1111	Avena type	Avena-type	HERB
+Jahns_i2	1929	1	22	Cerealia p.p.	Cerealia-type	HERB
+Jahns_i2	1930	3	1761	Cistus incanus type	Cistus albidus-type	TRSH
+Jahns_i2	1931	8	27	Cistus p.p.	Cistus	TRSH
+Jahns_i2	1932	4	41	Fabaceae p.p.	Fabaceae	HERB
+Jahns_i2	1933	1	1663	Glaucium type	Glaucium	HERB
+Jahns_i2	1934	5	258	Hordeum type	Hordeum-type	HERB
+Jahns_i2	1935	3	270	Plantago carinata type	Plantago	HERB
+Jahns_i2	1936	5	60	Plantago lagopus type	Plantago lanceolata-type	HERB
+Jahns_i2	1938	3	101	Sarcopoterium/Sanguisorba minor	Sanguisorba minor-type	HERB
+Jahns_i2	1939	1	818	Triticum type	Avena/Triticum-type	HERB
+Jahns_i2	1942	5	279	trilete psilate Sporen	Trilete spore(s)	VACR
+Jahns_i2	1943	19	279	Trilete verrucate Sporen	Trilete spore(s)	VACR

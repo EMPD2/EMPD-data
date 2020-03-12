@@ -1,58 +1,58 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Swieta_g3	Alnus	Alnus	TRSH	60	4.398827
-Swieta_g3	Betula alba-type	Betula pubescens-type	TRSH	154	11.290323
-Swieta_g3	Calluna vulgaris	Calluna vulgaris	DWAR	27	1.9794721
-Swieta_g3	Carpinus betulus	Carpinus betulus	TRSH	20	1.4662757
-Swieta_g3	Corylus avellana	Corylus	TRSH	27	1.9794721
-Swieta_g3	Fagus sylvatica	Fagus	TRSH	6	0.4398827
-Swieta_g3	Fraxinus excelsior	Fraxinus excelsior-type	TRSH	1	0.073313783
-Swieta_g3	Juniperus communis	Juniperus communis-type	TRSH	6	0.4398827
-Swieta_g3	Picea abies	Picea abies-type	TRSH	7	0.51319648
-Swieta_g3	Pinus sylvestris	Pinus sylvestris-type	TRSH	770	56.451613
-Swieta_g3	Populus	Populus	TRSH	1	0.073313783
-Swieta_g3	Quercus	Quercus	TRSH	37	2.71261
-Swieta_g3	Salix	Salix	TRSH	3	0.21994135
-Swieta_g3	Sambucus	Sambucus	TRSH	1	0.073313783
-Swieta_g3	Sorbus-type	Sorbus-type	TRSH	1	0.073313783
-Swieta_g3	Tilia	Tilia	TRSH	4	0.29325513
-Swieta_g3	Ulmus	Ulmus/Zelkova	TRSH	2	0.14662757
-Swieta_g3	Artemisia	Artemisia	HERB	10	0.73313783
-Swieta_g3	Asteraceae	Asteraceae	HERB	6	0.4398827
-Swieta_g3	Avena-type	Avena-type	HERB	1	0.073313783
-Swieta_g3	Brassicaceae	Brassicaceae	HERB	3	0.21994135
-Swieta_g3	Caryophyllaceae undiff.	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	1	0.073313783
-Swieta_g3	Centaurea cyanus	Centaurea cyanus-type	HERB	2	0.14662757
-Swieta_g3	Cerastium-type	Cerastium-type	HERB	1	0.073313783
-Swieta_g3	Cerealia-type	Cerealia-type	HERB	2	0.14662757
-Swieta_g3	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	3	0.21994135
-Swieta_g3	Cichorium-type	Crepis-type	HERB	2	0.14662757
-Swieta_g3	Fallopia convolvulus-type	Fallopia	HERB	1	0.073313783
-Swieta_g3	Hordeum-type	Hordeum-type	HERB	2	0.14662757
-Swieta_g3	Cannabaceae	Humulus/Cannabis	HERB	6	0.4398827
-Swieta_g3	Melampyrum	Melampyrum	HERB	1	0.073313783
-Swieta_g3	Mentha-type	Mentha-type	HERB	1	0.073313783
-Swieta_g3	Plantago lanceolata	Plantago lanceolata-type	HERB	11	0.80645161
-Swieta_g3	Poaceae	Poaceae	HERB	81	5.9384164
-Swieta_g3	Prunella-type	Prunella-type	HERB	1	0.073313783
-Swieta_g3	Rumex acetosa-type	Rumex acetosa-type	HERB	3	0.21994135
-Swieta_g3	Rumex acetosella-type	Rumex acetosella	HERB	45	3.2991202
-Swieta_g3	Scleranthus perennis	Scleranthus perennis	HERB	3	0.21994135
-Swieta_g3	Secale cereale	Secale cereale	HERB	29	2.1260997
-Swieta_g3	Triticum-type	Triticum-type	HERB	5	0.36656891
-Swieta_g3	Urtica	Urtica	HERB	7	0.51319648
-Swieta_g3	Monolete fern spores	Monolete fern spores	VACR	4	0.29325513
-Swieta_g3	Sphagnum	Sphagnum	BRYO	6	0.4398827
-Swieta_g3	Pediastrum boryanum var. longicorne	Algae	ALGA	12	0.8797654
-Swieta_g3	Botryococcus	Botryococcus	ALGA	314	23.020528
-Swieta_g3	Cyperaceae	Cyperaceae	AQUA	8	0.58651026
-Swieta_g3	Isoetes	Isoetes	AQPT	1	0.073313783
-Swieta_g3	Pediastrum	Pediastrum	ALGA	25	1.8328446
-Swieta_g3	Pediastrum angulosum var. angulosum	Pediastrum angulosum var. angulosum	ALGA	10	0.73313783
-Swieta_g3	Pediastrum boryanum var. boryanum	Pediastrum boryanum var. boryanum	ALGA	7	0.51319648
-Swieta_g3	Pediastrum boryanum var. cornutum	Pediastrum boryanum var. cornutum	ALGA	3	0.21994135
-Swieta_g3	Sparganium erectum-type	Sparganium erectum	AQUA	1	0.073313783
-Swieta_g3	Varia	Indeterminable: unknown	INUN	2	
-Swieta_g3	Charcoal	Charcoal	MACR	1093	
-Swieta_g3	Fungi	Fungi	FUNG	5	
-Swieta_g3	Lycopodium (counted)	Lycopodium (counted)	NOPO	389	
-Swieta_g3	Scenedesmus	Scenedesmus	CHLO	18	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Swieta_g3	5	60	5	Alnus	Alnus	TRSH
+Swieta_g3	7	10	7	Artemisia	Artemisia	HERB
+Swieta_g3	134	6	134	Asteraceae	Asteraceae	HERB
+Swieta_g3	663	314	663	Botryococcus	Botryococcus	ALGA
+Swieta_g3	13	3	13	Brassicaceae	Brassicaceae	HERB
+Swieta_g3	3646	27	3645	Calluna vulgaris	Calluna vulgaris	DWAR
+Swieta_g3	3652	6	205	Cannabaceae	Humulus/Cannabis	HERB
+Swieta_g3	563	20	16	Carpinus betulus	Carpinus betulus	TRSH
+Swieta_g3	946	1	18	Caryophyllaceae undiff.	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Swieta_g3	821	2	462	Centaurea cyanus	Centaurea cyanus-type	HERB
+Swieta_g3	1065	2	22	Cerealia-type	Cerealia-type	HERB
+Swieta_g3	3773	1093	3773	Charcoal	Charcoal	MACR
+Swieta_g3	24	3	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Swieta_g3	1242	2	1242	Cichorium-type	Crepis-type	HERB
+Swieta_g3	31	27	31	Corylus avellana	Corylus	TRSH
+Swieta_g3	42	6	42	Fagus sylvatica	Fagus	TRSH
+Swieta_g3	47	1	47	Fraxinus excelsior	Fraxinus excelsior-type	TRSH
+Swieta_g3	672	5	672	Fungi	Fungi	FUNG
+Swieta_g3	949	2	258	Hordeum-type	Hordeum-type	HERB
+Swieta_g3	552	1	366	Isoetes	Isoetes	AQPT
+Swieta_g3	559	389	559	Lycopodium (counted)	Lycopodium (counted)	NOPO
+Swieta_g3	1073	1	65	Mentha-type	Mentha-type	HERB
+Swieta_g3	4193	4	146	Monolete fern spores	Monolete fern spores	VACR
+Swieta_g3	662	25	662	Pediastrum	Pediastrum	ALGA
+Swieta_g3	4258	10	4258	Pediastrum angulosum var. angulosum	Pediastrum angulosum var. angulosum	ALGA
+Swieta_g3	4262	7	4262	Pediastrum boryanum var. boryanum	Pediastrum boryanum var. boryanum	ALGA
+Swieta_g3	4264	3	2349	Pediastrum boryanum var. cornutum	Pediastrum boryanum var. cornutum	ALGA
+Swieta_g3	4265	12	2119	Pediastrum boryanum var. longicorne	Algae	ALGA
+Swieta_g3	788	770	125	Pinus sylvestris	Pinus sylvestris-type	TRSH
+Swieta_g3	60	11	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+Swieta_g3	80	81	80	Poaceae	Poaceae	HERB
+Swieta_g3	81	1	81	Populus	Populus	TRSH
+Swieta_g3	1080	1	1080	Prunella-type	Prunella-type	HERB
+Swieta_g3	634	3	95	Rumex acetosa-type	Rumex acetosa-type	HERB
+Swieta_g3	1398	45	96	Rumex acetosella-type	Rumex acetosella	HERB
+Swieta_g3	99	3	99	Salix	Salix	TRSH
+Swieta_g3	481	1	407	Sambucus	Sambucus	TRSH
+Swieta_g3	4566	18	4566	Scenedesmus	Scenedesmus	CHLO
+Swieta_g3	1276	3	1276	Scleranthus perennis	Scleranthus perennis	HERB
+Swieta_g3	4612	1	4611	Sparganium erectum-type	Sparganium erectum	AQUA
+Swieta_g3	144	6	144	Sphagnum	Sphagnum	BRYO
+Swieta_g3	187	4	187	Tilia	Tilia	TRSH
+Swieta_g3	154	2	154	Ulmus	Ulmus/Zelkova	TRSH
+Swieta_g3	652	7	652	Urtica	Urtica	HERB
+Swieta_g3	1098	2	177	Varia	Indeterminable: unknown	INUN
+Swieta_g3	189	37	189	Quercus	Quercus	TRSH
+Swieta_g3	256	29	256	Secale cereale	Secale cereale	HERB
+Swieta_g3	473	1	473	Melampyrum	Melampyrum	HERB
+Swieta_g3	783	7	783	Picea abies	Picea abies-type	TRSH
+Swieta_g3	941	6	58	Juniperus communis	Juniperus communis-type	TRSH
+Swieta_g3	947	1	21	Cerastium-type	Cerastium-type	HERB
+Swieta_g3	1215	1	1111	Avena-type	Avena-type	HERB
+Swieta_g3	1232	1	107	Sorbus-type	Sorbus-type	TRSH
+Swieta_g3	1233	5	1199	Triticum-type	Triticum-type	HERB
+Swieta_g3	1240	154	128	Betula alba-type	Betula pubescens-type	TRSH
+Swieta_g3	1249	1	1138	Fallopia convolvulus-type	Fallopia	HERB
+Swieta_g3	3868	8	3868	Cyperaceae	Cyperaceae	AQUA

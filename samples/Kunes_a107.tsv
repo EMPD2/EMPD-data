@@ -1,34 +1,34 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Kunes_a107	Abies	Abies	TRSH	1	0.13175231
-Kunes_a107	Alnus viridis	Alnus viridis	TRSH	4	0.52700922
-Kunes_a107	Betula	Betula	TRSH	62	8.168643
-Kunes_a107	Betula nana	Betula nana-type	DWAR	10	1.3175231
-Kunes_a107	Caragana	Caragana	TRSH	1	0.13175231
-Kunes_a107	Ephedra fragilis-type	Ephedra fragilis-type	TRSH	3	0.39525692
-Kunes_a107	Larix/Pseudotsuga	Larix/Pseudotsuga	TRSH	5	0.65876153
-Kunes_a107	Picea	Picea	TRSH	2	0.26350461
-Kunes_a107	Pinus	Pinus	TRSH	11	1.4492754
-Kunes_a107	Pinus cembra-type	Pinus cembra-type	TRSH	135	17.786561
-Kunes_a107	Pinus sylvestris-type	Pinus sylvestris-type	TRSH	128	16.864295
-Kunes_a107	Salix	Salix	TRSH	5	0.65876153
-Kunes_a107	Aconitum-type	Aconitum	HERB	1	0.13175231
-Kunes_a107	Apiaceae	Apiaceae	HERB	1	0.13175231
-Kunes_a107	Artemisia	Artemisia	HERB	31	4.0843215
-Kunes_a107	Aruncus-type	Aruncus/Spiraea	HERB	2	0.26350461
-Kunes_a107	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB	1	0.13175231
-Kunes_a107	Cerealia undiff.	Cerealia-type	HERB	1	0.13175231
-Kunes_a107	Chenopodiaceae pro parte	Chenopodiaceae/Amaranthaceae	HERB	1	0.13175231
-Kunes_a107	Filipendula	Filipendula	HERB	3	0.39525692
-Kunes_a107	Heracleum sphondylium	Heracleum sphondylium	HERB	9	1.1857708
-Kunes_a107	Cannabaceae	Humulus/Cannabis	HERB	3	0.39525692
-Kunes_a107	Plantago media/major-type	Plantago major/P. media-type	HERB	1	0.13175231
-Kunes_a107	Poaceae	Poaceae	HERB	17	2.2397892
-Kunes_a107	Ranunculus acris-type	Ranunculus acris-type	HERB	2	0.26350461
-Kunes_a107	Rumex acetosa-type	Rumex acetosa-type	HERB	3	0.39525692
-Kunes_a107	Thalictrum	Thalictrum	HERB	6	0.79051383
-Kunes_a107	Athyrium filix-femina	Athyrium filix-femina	VACR	130	17.1278
-Kunes_a107	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR	3	0.39525692
-Kunes_a107	Lycopodium annotinum	Lycopodium annotinum-type	VACR	1	0.13175231
-Kunes_a107	Matteuccia struthiopteris	Matteuccia struthiopteris	VACR	36	4.743083
-Kunes_a107	Monolete fern spores	Monolete fern spores	VACR	140	18.445323
-Kunes_a107	Varia	Indeterminable: unknown	INUN	5	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Kunes_a107	560	1	321	Abies	Abies	TRSH
+Kunes_a107	3501	1	585	Aconitum-type	Aconitum	HERB
+Kunes_a107	561	4	129	Alnus viridis	Alnus viridis	TRSH
+Kunes_a107	6	1	6	Apiaceae	Apiaceae	HERB
+Kunes_a107	7	31	7	Artemisia	Artemisia	HERB
+Kunes_a107	215	130	215	Athyrium filix-femina	Athyrium filix-femina	VACR
+Kunes_a107	12	62	12	Betula	Betula	TRSH
+Kunes_a107	3652	3	205	Cannabaceae	Humulus/Cannabis	HERB
+Kunes_a107	3124	1	3124	Caragana	Caragana	TRSH
+Kunes_a107	3787	1	24	Chenopodiaceae pro parte	Chenopodiaceae/Amaranthaceae	HERB
+Kunes_a107	3824	1	25	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Kunes_a107	45	3	45	Filipendula	Filipendula	HERB
+Kunes_a107	2121	3	1320	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR
+Kunes_a107	2336	5	123	Larix/Pseudotsuga	Larix/Pseudotsuga	TRSH
+Kunes_a107	965	1	183	Lycopodium annotinum	Lycopodium annotinum-type	VACR
+Kunes_a107	4179	36	218	Matteuccia struthiopteris	Matteuccia struthiopteris	VACR
+Kunes_a107	126	2	126	Picea	Picea	TRSH
+Kunes_a107	4298	135	124	Pinus cembra-type	Pinus cembra-type	TRSH
+Kunes_a107	1226	128	125	Pinus sylvestris-type	Pinus sylvestris-type	TRSH
+Kunes_a107	4327	1	458	Plantago media/major-type	Plantago major/P. media-type	HERB
+Kunes_a107	80	17	80	Poaceae	Poaceae	HERB
+Kunes_a107	630	2	87	Ranunculus acris-type	Ranunculus acris-type	HERB
+Kunes_a107	634	3	95	Rumex acetosa-type	Rumex acetosa-type	HERB
+Kunes_a107	99	5	99	Salix	Salix	TRSH
+Kunes_a107	112	6	112	Thalictrum	Thalictrum	HERB
+Kunes_a107	1098	5	177	Varia	Indeterminable: unknown	INUN
+Kunes_a107	75	11	75	Pinus	Pinus	TRSH
+Kunes_a107	822	1	22	Cerealia undiff.	Cerealia-type	HERB
+Kunes_a107	1363	10	127	Betula nana	Betula nana-type	DWAR
+Kunes_a107	2424	3	36	Ephedra fragilis-type	Ephedra fragilis-type	TRSH
+Kunes_a107	3575	2	1108	Aruncus-type	Aruncus/Spiraea	HERB
+Kunes_a107	4045	9	1140	Heracleum sphondylium	Heracleum sphondylium	HERB
+Kunes_a107	4193	140	146	Monolete fern spores	Monolete fern spores	VACR

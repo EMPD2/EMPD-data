@@ -1,39 +1,39 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Tonkov_p1	Abies	Abies	TRSH	2	0.21299255
-Tonkov_p1	Alnus	Alnus	TRSH	24	2.5559105
-Tonkov_p1	Betula	Betula	TRSH	8	0.85197018
-Tonkov_p1	Bruckenthalia	Bruckenthalia spiculifolia	DWAR	26	2.7689031
-Tonkov_p1	Carpinus betulus	Carpinus betulus	TRSH	7	0.74547391
-Tonkov_p1	Castanea	Castanea sativa	TRSH	18	1.9169329
-Tonkov_p1	Corylus	Corylus	TRSH	14	1.4909478
-Tonkov_p1	Ericaceae	Ericales (tetrad)	DWAR	4	0.42598509
-Tonkov_p1	Fagus	Fagus	TRSH	130	13.844515
-Tonkov_p1	Juglans	Juglans	TRSH	6	0.63897764
-Tonkov_p1	Juniperus	Juniperus communis-type	TRSH	14	1.4909478
-Tonkov_p1	Carpinus orientalis/Ostrya	Ostrya/Carpinus orientalis	TRSH	25	2.6624068
-Tonkov_p1	Pinus diploxylon-type	Pinus sylvestris-type	TRSH	160	17.039404
-Tonkov_p1	Platanus	Platanus	TRSH	1	0.10649627
-Tonkov_p1	Quercus	Quercus	TRSH	30	3.1948882
-Tonkov_p1	Salix	Salix	TRSH	3	0.31948882
-Tonkov_p1	Tilia	Tilia	TRSH	3	0.31948882
-Tonkov_p1	Ulmus	Ulmus/Zelkova	TRSH	2	0.21299255
-Tonkov_p1	Hedera	Hedera	LIAN	1	0.10649627
-Tonkov_p1	Apiaceae	Apiaceae	HERB	8	0.85197018
-Tonkov_p1	Artemisia	Artemisia	HERB	14	1.4909478
-Tonkov_p1	Achillea/Aster-type	Asteraceae subf. Asteroideae	HERB	20	2.1299255
-Tonkov_p1	Cichoriaceae	Asteraceae subf. Cichorioideae	HERB	15	1.5974441
-Tonkov_p1	Brassicaceae	Brassicaceae	HERB	8	0.85197018
-Tonkov_p1	Campanulaceae	Campanulaceae	HERB	2	0.21299255
-Tonkov_p1	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	4	0.42598509
-Tonkov_p1	Centaurea jacea-type	Centaurea nigra-type	HERB	2	0.21299255
-Tonkov_p1	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	17	1.8104366
-Tonkov_p1	Geum-type	Geum-type	HERB	5	0.53248136
-Tonkov_p1	Plantago lanceolata	Plantago lanceolata-type	HERB	57	6.0702875
-Tonkov_p1	Poaceae	Poaceae	HERB	214	22.790202
-Tonkov_p1	Ranunculaceae	Ranunculaceae	HERB	24	2.5559105
-Tonkov_p1	Rubiaceae	Rubiaceae	HERB	11	1.171459
-Tonkov_p1	Rumex	Rumex/Oxyria	HERB	26	2.7689031
-Tonkov_p1	Scleranthus	Scleranthus	HERB	17	1.8104366
-Tonkov_p1	Triticum-type	Triticum-type	HERB	3	0.31948882
-Tonkov_p1	Polypodiaceae	Monolete fern spores	VACR	14	1.4909478
-Tonkov_p1	Cyperaceae	Cyperaceae	AQUA	178	18.956337
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Tonkov_p1	560	2	321	Abies	Abies	TRSH
+Tonkov_p1	1325	20	160	Achillea/Aster-type	Asteraceae subf. Asteroideae	HERB
+Tonkov_p1	5	24	5	Alnus	Alnus	TRSH
+Tonkov_p1	7	14	7	Artemisia	Artemisia	HERB
+Tonkov_p1	12	8	12	Betula	Betula	TRSH
+Tonkov_p1	13	8	13	Brassicaceae	Brassicaceae	HERB
+Tonkov_p1	1327	26	1327	Bruckenthalia	Bruckenthalia spiculifolia	DWAR
+Tonkov_p1	136	2	136	Campanulaceae	Campanulaceae	HERB
+Tonkov_p1	1035	25	70	Carpinus orientalis/Ostrya	Ostrya/Carpinus orientalis	TRSH
+Tonkov_p1	18	4	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Tonkov_p1	441	18	19	Castanea	Castanea sativa	TRSH
+Tonkov_p1	1062	2	29	Centaurea jacea-type	Centaurea nigra-type	HERB
+Tonkov_p1	24	17	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Tonkov_p1	201	14	31	Corylus	Corylus	TRSH
+Tonkov_p1	130	4	130	Ericaceae	Ericales (tetrad)	DWAR
+Tonkov_p1	192	130	42	Fagus	Fagus	TRSH
+Tonkov_p1	1219	5	649	Geum-type	Geum-type	HERB
+Tonkov_p1	4031	1	4031	Hedera	Hedera	LIAN
+Tonkov_p1	57	6	57	Juglans	Juglans	TRSH
+Tonkov_p1	58	14	58	Juniperus	Juniperus communis-type	TRSH
+Tonkov_p1	1049	160	125	Pinus diploxylon-type	Pinus sylvestris-type	TRSH
+Tonkov_p1	60	57	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+Tonkov_p1	78	1	78	Platanus	Platanus	TRSH
+Tonkov_p1	80	214	80	Poaceae	Poaceae	HERB
+Tonkov_p1	146	14	146	Polypodiaceae	Monolete fern spores	VACR
+Tonkov_p1	189	30	189	Quercus	Quercus	TRSH
+Tonkov_p1	135	24	135	Ranunculaceae	Ranunculaceae	HERB
+Tonkov_p1	93	11	93	Rubiaceae	Rubiaceae	HERB
+Tonkov_p1	727	26	94	Rumex	Rumex/Oxyria	HERB
+Tonkov_p1	99	3	99	Salix	Salix	TRSH
+Tonkov_p1	1041	17	1041	Scleranthus	Scleranthus	HERB
+Tonkov_p1	187	3	187	Tilia	Tilia	TRSH
+Tonkov_p1	1233	3	1199	Triticum-type	Triticum-type	HERB
+Tonkov_p1	6	8	6	Apiaceae	Apiaceae	HERB
+Tonkov_p1	154	2	154	Ulmus	Ulmus/Zelkova	TRSH
+Tonkov_p1	563	7	16	Carpinus betulus	Carpinus betulus	TRSH
+Tonkov_p1	1126	15	25	Cichoriaceae	Asteraceae subf. Cichorioideae	HERB
+Tonkov_p1	3868	178	3868	Cyperaceae	Cyperaceae	AQUA

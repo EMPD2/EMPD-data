@@ -1,35 +1,35 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Lopez_a52	Alnus	Alnus	TRSH	6	0.85106383
-Lopez_a52	Betula	Betula	TRSH	7	0.9929078
-Lopez_a52	Castanea	Castanea sativa	TRSH	1	0.14184397
-Lopez_a52	Corylus	Corylus	TRSH	2	0.28368794
-Lopez_a52	Erica arborea-type	Erica arborea-type	DWAR	2	0.28368794
-Lopez_a52	Fraxinus	Fraxinus	TRSH	2	0.28368794
-Lopez_a52	Juniperus-type	Juniperus-type	TRSH	2	0.28368794
-Lopez_a52	Pinus pinea/halepensis-type	Pinus halepensis-type	TRSH	4	0.56737589
-Lopez_a52	Pinus pinaster	Pinus pinaster	TRSH	136	19.29078
-Lopez_a52	Pinus sylvestris/nigra-type	Pinus sylvestris-type	TRSH	188	26.666667
-Lopez_a52	Quercus evergreen	Quercus ilex-type	TRSH	255	36.170213
-Lopez_a52	Quercus deciduous	Quercus robur-type	TRSH	24	3.4042553
-Lopez_a52	Artemisia	Artemisia	HERB	1	0.14184397
-Lopez_a52	Aster-type	Aster-type	HERB	3	0.42553191
-Lopez_a52	Cardueae	Asteraceae subf. Carduoideae	HERB	2	0.28368794
-Lopez_a52	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	2	0.28368794
-Lopez_a52	Cruciferae	Brassicaceae	HERB	29	4.1134752
-Lopez_a52	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	5	0.70921986
-Lopez_a52	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	6	0.85106383
-Lopez_a52	Cistus-type	Cistus	HERB	1	0.14184397
-Lopez_a52	Helianthemum-type	Helianthemum	HERB	1	0.14184397
-Lopez_a52	Labiatae	Lamiaceae	HERB	3	0.42553191
-Lopez_a52	Anthemis-type	Matricaria-type	HERB	1	0.14184397
-Lopez_a52	Plantago lanceolata-type	Plantago lanceolata-type	HERB	5	0.70921986
-Lopez_a52	Plantago media/major-type	Plantago major/P. media-type	HERB	1	0.14184397
-Lopez_a52	Poaceae undiff.	Poaceae	HERB	8	1.1347518
-Lopez_a52	Polygonum aviculare-type	Polygonum aviculare-type	HERB	2	0.28368794
-Lopez_a52	Rumex acetosa-type	Rumex acetosa-type	HERB	1	0.14184397
-Lopez_a52	Rumex acetosella-type	Rumex acetosella	HERB	1	0.14184397
-Lopez_a52	Urtica dioica-type	Urtica dioica-type	HERB	4	0.56737589
-Lopez_a52	Cyperaceae	Cyperaceae	AQUA	2	0.28368794
-Lopez_a52	Cercophora	Cercophora-type	FUNG	4	
-Lopez_a52	Sordaria	Sordaria-type	NOPO	176	
-Lopez_a52	Sporormiella	Sporormiella-type	FUNG	5	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Lopez_a52	5	6	5	Alnus	Alnus	TRSH
+Lopez_a52	7	1	7	Artemisia	Artemisia	HERB
+Lopez_a52	597	3	11	Aster-type	Aster-type	HERB
+Lopez_a52	12	7	12	Betula	Betula	TRSH
+Lopez_a52	445	2	336	Cardueae	Asteraceae subf. Carduoideae	HERB
+Lopez_a52	18	5	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Lopez_a52	441	1	19	Castanea	Castanea sativa	TRSH
+Lopez_a52	2406	4	556	Cercophora	Cercophora-type	FUNG
+Lopez_a52	769	6	24	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB
+Lopez_a52	447	2	25	Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Lopez_a52	3810	1	3796	Cistus-type	Cistus	HERB
+Lopez_a52	201	2	31	Corylus	Corylus	TRSH
+Lopez_a52	482	29	13	Cruciferae	Brassicaceae	HERB
+Lopez_a52	3868	2	3868	Cyperaceae	Cyperaceae	AQUA
+Lopez_a52	3929	2	3928	Erica arborea-type	Erica arborea-type	DWAR
+Lopez_a52	190	2	190	Fraxinus	Fraxinus	TRSH
+Lopez_a52	738	2	203	Juniperus-type	Juniperus-type	TRSH
+Lopez_a52	485	3	59	Labiatae	Lamiaceae	HERB
+Lopez_a52	439	136	439	Pinus pinaster	Pinus pinaster	TRSH
+Lopez_a52	4308	188	125	Pinus sylvestris/nigra-type	Pinus sylvestris-type	TRSH
+Lopez_a52	1075	5	60	Plantago lanceolata-type	Plantago lanceolata-type	HERB
+Lopez_a52	4327	1	458	Plantago media/major-type	Plantago major/P. media-type	HERB
+Lopez_a52	429	8	80	Poaceae undiff.	Poaceae	HERB
+Lopez_a52	1078	2	262	Polygonum aviculare-type	Polygonum aviculare-type	HERB
+Lopez_a52	437	24	86	Quercus deciduous	Quercus robur-type	TRSH
+Lopez_a52	427	255	85	Quercus evergreen	Quercus ilex-type	TRSH
+Lopez_a52	634	1	95	Rumex acetosa-type	Rumex acetosa-type	HERB
+Lopez_a52	1398	1	96	Rumex acetosella-type	Rumex acetosella	HERB
+Lopez_a52	4604	176	4604	Sordaria	Sordaria-type	NOPO
+Lopez_a52	677	5	557	Sporormiella	Sporormiella-type	FUNG
+Lopez_a52	4718	4	453	Urtica dioica-type	Urtica dioica-type	HERB
+Lopez_a52	589	1	3	Anthemis-type	Matricaria-type	HERB
+Lopez_a52	4039	1	52	Helianthemum-type	Helianthemum	HERB
+Lopez_a52	4304	4	440	Pinus pinea/halepensis-type	Pinus halepensis-type	TRSH

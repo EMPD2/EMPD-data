@@ -1,38 +1,38 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Mercuri_i19	Acer	Acer campestre-type	TRSH	1	0.3030303
-Mercuri_i19	Juniperus type	Juniperus-type	TRSH	7	2.1212121
-Mercuri_i19	Lygustrum vulgare type	Ligustrum-type	TRSH	1	0.3030303
-Mercuri_i19	Myrtus	Myrtus communis	TRSH	1	0.3030303
-Mercuri_i19	Olea	Olea europaea	TRSH	21	6.3636364
-Mercuri_i19	Pinus	Pinus	TRSH	6	1.8181818
-Mercuri_i19	Quercus ilex type	Quercus ilex-type	TRSH	2	0.60606061
-Mercuri_i19	deciduous Quercus	Quercus robur-type	TRSH	12	3.6363636
-Mercuri_i19	Rosa	Rosa	TRSH	1	0.3030303
-Mercuri_i19	Salix	Salix	TRSH	1	0.3030303
-Mercuri_i19	Apiaceae	Apiaceae	HERB	3	0.90909091
-Mercuri_i19	Artemisia	Artemisia	HERB	2	0.60606061
-Mercuri_i19	Cichorieae	Asteraceae subf. Cichorioideae	HERB	102	30.909091
-Mercuri_i19	Avena/Triticum group	Avena/Triticum-type	HERB	4	1.2121212
-Mercuri_i19	Brassica type	Brassicaceae	HERB	2	0.60606061
-Mercuri_i19	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	4	1.2121212
-Mercuri_i19	Centaurea nigra type	Centaurea nigra-type	HERB	5	1.5151515
-Mercuri_i19	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	43	13.030303
-Mercuri_i19	Convolvulus	Convolvulus	HERB	1	0.3030303
-Mercuri_i19	Cyperaceae	Cyperaceae	HERB	5	1.5151515
-Mercuri_i19	Helianthemum	Helianthemum	HERB	3	0.90909091
-Mercuri_i19	Hordeum group	Hordeum-type	HERB	38	11.515152
-Mercuri_i19	Hornungia type	Hornungia-type	HERB	1	0.3030303
-Mercuri_i19	Hypericum	Hypericum	HERB	1	0.3030303
-Mercuri_i19	Anthemis type	Matricaria-type	HERB	3	0.90909091
-Mercuri_i19	Plantago	Plantago	HERB	12	3.6363636
-Mercuri_i19	Poaceae wild grass group	Poaceae	HERB	36	10.909091
-Mercuri_i19	Polygonum aviculare type	Polygonum aviculare-type	HERB	4	1.2121212
-Mercuri_i19	Ranunculus type	Ranunculus-type	HERB	2	0.60606061
-Mercuri_i19	Sedum	Sedum-type	HERB	2	0.60606061
-Mercuri_i19	Trifolium	Trifolium-type	HERB	3	0.90909091
-Mercuri_i19	Urtica pilulifera	Urtica pilulifera	HERB	1	0.3030303
-Mercuri_i19	Not determined	Indeterminable: unknown	INUN	6	
-Mercuri_i19	Lycopodium (added)	Lycopodium (added)	NOPO	10679	
-Mercuri_i19	Lycopodium (counted)	Lycopodium (counted)	NOPO	7	
-Mercuri_i19	Pollen Sum	Pollen sums	NOPO	336	
-Mercuri_i19	Weight (g)	Weight	NOPO	3.27	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Mercuri_i19	2	1	2	Acer	Acer campestre-type	TRSH
+Mercuri_i19	6	3	6	Apiaceae	Apiaceae	HERB
+Mercuri_i19	18	4	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Mercuri_i19	24	43	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Mercuri_i19	29	5	29	Centaurea nigra type	Centaurea nigra-type	HERB
+Mercuri_i19	1804	4	818	Avena/Triticum group	Avena/Triticum-type	HERB
+Mercuri_i19	1807	2	13	Brassica type	Brassicaceae	HERB
+Mercuri_i19	1813	102	25	Cichorieae	Asteraceae subf. Cichorioideae	HERB
+Mercuri_i19	33	5	33	Cyperaceae	Cyperaceae	HERB
+Mercuri_i19	52	3	52	Helianthemum	Helianthemum	HERB
+Mercuri_i19	54	1	54	Hypericum	Hypericum	HERB
+Mercuri_i19	203	7	203	Juniperus type	Juniperus-type	TRSH
+Mercuri_i19	258	38	258	Hordeum group	Hordeum-type	HERB
+Mercuri_i19	261	1	261	Hornungia type	Hornungia-type	HERB
+Mercuri_i19	1001	12	86	deciduous Quercus	Quercus robur-type	TRSH
+Mercuri_i19	1328	1	1328	Convolvulus	Convolvulus	HERB
+Mercuri_i19	692	10679	692	Lycopodium (added)	Lycopodium (added)	NOPO
+Mercuri_i19	559	7	559	Lycopodium (counted)	Lycopodium (counted)	NOPO
+Mercuri_i19	1843	6	177	Not determined	Indeterminable: unknown	INUN
+Mercuri_i19	75	6	75	Pinus	Pinus	TRSH
+Mercuri_i19	442	21	68	Olea	Olea europaea	TRSH
+Mercuri_i19	509	1	509	Myrtus	Myrtus communis	TRSH
+Mercuri_i19	1834	1	1834	Lygustrum vulgare type	Ligustrum-type	TRSH
+Mercuri_i19	1856	336	1856	Pollen Sum	Pollen sums	NOPO
+Mercuri_i19	99	1	99	Salix	Salix	TRSH
+Mercuri_i19	262	4	262	Polygonum aviculare type	Polygonum aviculare-type	HERB
+Mercuri_i19	724	12	270	Plantago	Plantago	HERB
+Mercuri_i19	979	2	274	Ranunculus type	Ranunculus-type	HERB
+Mercuri_i19	1083	1	632	Rosa	Rosa	TRSH
+Mercuri_i19	1855	36	80	Poaceae wild grass group	Poaceae	HERB
+Mercuri_i19	1859	2	85	Quercus ilex type	Quercus ilex-type	TRSH
+Mercuri_i19	1879	3.27	1879	Weight (g)	Weight	NOPO
+Mercuri_i19	105	2	105	Sedum	Sedum-type	HERB
+Mercuri_i19	115	3	115	Trifolium	Trifolium-type	HERB
+Mercuri_i19	841	1	119	Urtica pilulifera	Urtica pilulifera	HERB
+Mercuri_i19	7	2	7	Artemisia	Artemisia	HERB
+Mercuri_i19	226	3	3	Anthemis type	Matricaria-type	HERB

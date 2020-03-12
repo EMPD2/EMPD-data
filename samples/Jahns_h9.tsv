@@ -1,40 +1,40 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Jahns_h9	Abies	Abies	TRSH	14	3.2482599
-Jahns_h9	Alnus	Alnus	TRSH	2	0.46403712
-Jahns_h9	Castanea	Castanea sativa	TRSH	1	0.23201856
-Jahns_h9	Citrus	Citrus	TRSH	4	0.92807425
-Jahns_h9	Ephedra fragilis-type	Ephedra fragilis-type	TRSH	1	0.23201856
-Jahns_h9	Eucalyptus	Eucalyptus	TRSH	70	16.241299
-Jahns_h9	Genista-type	Genista-type	TRSH	4	0.92807425
-Jahns_h9	Juglans	Juglans	TRSH	6	1.3921114
-Jahns_h9	Olea	Olea europaea	TRSH	38	8.8167053
-Jahns_h9	Oleaceae pro parte	Oleaceae	TRSH	1	0.23201856
-Jahns_h9	Pinus	Pinus	TRSH	66	15.313225
-Jahns_h9	Quercus evergreen	Quercus ilex-type	TRSH	24	5.5684455
-Jahns_h9	Quercus deciduous	Quercus robur-type	TRSH	2	0.46403712
-Jahns_h9	Salix	Salix	TRSH	2	0.46403712
-Jahns_h9	Lonicera	Lonicera	LIAN	2	0.46403712
-Jahns_h9	Vitis	Vitis	LIAN	3	0.69605568
-Jahns_h9	Apiaceae	Apiaceae	HERB	22	5.1044084
-Jahns_h9	Asphodelus	Asphodelus	HERB	2	0.46403712
-Jahns_h9	Asteraceae Tubuliflorae	Asteraceae subf. Asteroideae	HERB	8	1.8561485
-Jahns_h9	Asteraceae Liguliflorae	Asteraceae subf. Cichorioideae	HERB	12	2.7842227
-Jahns_h9	Brassicaceae	Brassicaceae	HERB	4	0.92807425
-Jahns_h9	Caryophyllaceae pro parte	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	4	0.92807425
-Jahns_h9	Cerealia pro parte	Cerealia-type	HERB	2	0.46403712
-Jahns_h9	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	8	1.8561485
-Jahns_h9	Dipsacaceae	Dipsacaceae	HERB	12	2.7842227
-Jahns_h9	Galega-type	Galega-type	HERB	2	0.46403712
-Jahns_h9	Lamiaceae	Lamiaceae	HERB	6	1.3921114
-Jahns_h9	Liliaceae	Liliaceae-type	HERB	6	1.3921114
-Jahns_h9	Plantago lanceolata-type	Plantago lanceolata-type	HERB	22	5.1044084
-Jahns_h9	Plantago lagopus-type	Plantago lanceolata-type	HERB	4	0.92807425
-Jahns_h9	Plantago major/P. media	Plantago major/P. media-type	HERB	4	0.92807425
-Jahns_h9	Poaceae	Poaceae	HERB	68	15.777262
-Jahns_h9	Polygala	Polygala	HERB	2	0.46403712
-Jahns_h9	Rumex	Rumex/Oxyria	HERB	2	0.46403712
-Jahns_h9	Veronica-type	Veronica-type	HERB	1	0.23201856
-Jahns_h9	Cyperaceae	Cyperaceae	AQUA	10	2.3201856
-Jahns_h9	Typha latifolia	Typha latifolia	AQUA	2	0.46403712
-Jahns_h9	Fabaceae pro parte	Fabaceae	INUN	30	
-Jahns_h9	Varia	Indeterminable: unknown	INUN	12	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Jahns_h9	560	14	321	Abies	Abies	TRSH
+Jahns_h9	5	2	5	Alnus	Alnus	TRSH
+Jahns_h9	9	2	9	Asphodelus	Asphodelus	HERB
+Jahns_h9	1337	12	25	Asteraceae Liguliflorae	Asteraceae subf. Cichorioideae	HERB
+Jahns_h9	13	4	13	Brassicaceae	Brassicaceae	HERB
+Jahns_h9	3673	4	18	Caryophyllaceae pro parte	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Jahns_h9	441	1	19	Castanea	Castanea sativa	TRSH
+Jahns_h9	24	8	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Jahns_h9	1611	4	1611	Citrus	Citrus	TRSH
+Jahns_h9	3868	10	3868	Cyperaceae	Cyperaceae	AQUA
+Jahns_h9	164	12	164	Dipsacaceae	Dipsacaceae	HERB
+Jahns_h9	2424	1	36	Ephedra fragilis-type	Ephedra fragilis-type	TRSH
+Jahns_h9	39	70	39	Eucalyptus	Eucalyptus	TRSH
+Jahns_h9	3959	30	3958	Fabaceae pro parte	Fabaceae	INUN
+Jahns_h9	3992	2	3992	Galega-type	Galega-type	HERB
+Jahns_h9	57	6	57	Juglans	Juglans	TRSH
+Jahns_h9	59	6	59	Lamiaceae	Lamiaceae	HERB
+Jahns_h9	62	6	62	Liliaceae	Liliaceae-type	HERB
+Jahns_h9	4150	2	4150	Lonicera	Lonicera	LIAN
+Jahns_h9	442	38	68	Olea	Olea europaea	TRSH
+Jahns_h9	4232	1	781	Oleaceae pro parte	Oleaceae	TRSH
+Jahns_h9	75	66	75	Pinus	Pinus	TRSH
+Jahns_h9	4320	4	60	Plantago lagopus-type	Plantago lanceolata-type	HERB
+Jahns_h9	1075	22	60	Plantago lanceolata-type	Plantago lanceolata-type	HERB
+Jahns_h9	4323	4	458	Plantago major/P. media	Plantago major/P. media-type	HERB
+Jahns_h9	80	68	80	Poaceae	Poaceae	HERB
+Jahns_h9	537	2	170	Polygala	Polygala	HERB
+Jahns_h9	437	2	86	Quercus deciduous	Quercus robur-type	TRSH
+Jahns_h9	427	24	85	Quercus evergreen	Quercus ilex-type	TRSH
+Jahns_h9	99	2	99	Salix	Salix	TRSH
+Jahns_h9	1287	2	417	Typha latifolia	Typha latifolia	AQUA
+Jahns_h9	1098	12	177	Varia	Indeterminable: unknown	INUN
+Jahns_h9	654	1	224	Veronica-type	Veronica-type	HERB
+Jahns_h9	4756	3	4756	Vitis	Vitis	LIAN
+Jahns_h9	6	22	6	Apiaceae	Apiaceae	HERB
+Jahns_h9	727	2	94	Rumex	Rumex/Oxyria	HERB
+Jahns_h9	1783	4	49	Genista-type	Genista-type	TRSH
+Jahns_h9	1927	8	160	Asteraceae Tubuliflorae	Asteraceae subf. Asteroideae	HERB
+Jahns_h9	3697	2	22	Cerealia pro parte	Cerealia-type	HERB

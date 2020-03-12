@@ -1,34 +1,34 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Feurdean_a6	Abies alba	Abies	TRSH	2	0.17953321
-Feurdean_a6	Alnus	Alnus	TRSH	48	4.3087971
-Feurdean_a6	Betula	Betula	TRSH	11	0.98743268
-Feurdean_a6	Carpinus betulus	Carpinus betulus	TRSH	13	1.1669659
-Feurdean_a6	Corylus	Corylus	TRSH	23	2.064632
-Feurdean_a6	Fagus sylvatica	Fagus	TRSH	54	4.8473968
-Feurdean_a6	Juglans	Juglans	TRSH	3	0.26929982
-Feurdean_a6	Juniperus	Juniperus communis-type	TRSH	1	0.089766607
-Feurdean_a6	Picea abies	Picea abies-type	TRSH	362	32.495512
-Feurdean_a6	Pinus	Pinus	TRSH	12	1.0771993
-Feurdean_a6	Quercus	Quercus	TRSH	25	2.2441652
-Feurdean_a6	Sambucus nigra-type	Sambucus nigra/S. racemosa	TRSH	1	0.089766607
-Feurdean_a6	Tilia	Tilia	TRSH	7	0.62836625
-Feurdean_a6	Ulmus	Ulmus/Zelkova	TRSH	6	0.53859964
-Feurdean_a6	Apiaceae	Apiaceae	HERB	1	0.089766607
-Feurdean_a6	Artemisia	Artemisia	HERB	8	0.71813285
-Feurdean_a6	Asteraceae subf. Asteroideae	Asteraceae subf. Asteroideae	HERB	5	0.44883303
-Feurdean_a6	Asteraceae Liguliflorae	Asteraceae subf. Cichorioideae	HERB	2	0.17953321
-Feurdean_a6	Brassicaceae	Brassicaceae	HERB	2	0.17953321
-Feurdean_a6	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	1	0.089766607
-Feurdean_a6	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	14	1.2567325
-Feurdean_a6	Cyperaceae	Cyperaceae	HERB	200	17.953321
-Feurdean_a6	Mentha-type	Mentha-type	HERB	2	0.17953321
-Feurdean_a6	Plantago lanceolata	Plantago lanceolata-type	HERB	5	0.44883303
-Feurdean_a6	Plantago major	Plantago major	HERB	6	0.53859964
-Feurdean_a6	Poaceae undif.<40√¶m	Poaceae	HERB	49	4.3985637
-Feurdean_a6	Gallium type	Rubiaceae	HERB	1	0.089766607
-Feurdean_a6	Rumex acetosa	Rumex acetosa-type	HERB	3	0.26929982
-Feurdean_a6	Secale cereale	Secale cereale	HERB	1	0.089766607
-Feurdean_a6	Urtica	Urtica	HERB	2	0.17953321
-Feurdean_a6	Valeriana officinalis	Valeriana officinalis-type	HERB	9	0.80789946
-Feurdean_a6	Polypodiaceae	Monolete fern spores	VACR	234	21.005386
-Feurdean_a6	Pteridium aquilinum	Pteridium aquilinum	VACR	1	0.089766607
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Feurdean_a6	5	48	5	Alnus	Alnus	TRSH
+Feurdean_a6	6	1	6	Apiaceae	Apiaceae	HERB
+Feurdean_a6	7	8	7	Artemisia	Artemisia	HERB
+Feurdean_a6	12	11	12	Betula	Betula	TRSH
+Feurdean_a6	13	2	13	Brassicaceae	Brassicaceae	HERB
+Feurdean_a6	18	1	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Feurdean_a6	563	13	16	Carpinus betulus	Carpinus betulus	TRSH
+Feurdean_a6	24	14	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Feurdean_a6	33	200	33	Cyperaceae	Cyperaceae	HERB
+Feurdean_a6	42	54	42	Fagus sylvatica	Fagus	TRSH
+Feurdean_a6	57	3	57	Juglans	Juglans	TRSH
+Feurdean_a6	58	1	58	Juniperus	Juniperus communis-type	TRSH
+Feurdean_a6	60	5	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+Feurdean_a6	75	12	75	Pinus	Pinus	TRSH
+Feurdean_a6	79	6	79	Plantago major	Plantago major	HERB
+Feurdean_a6	95	3	95	Rumex acetosa	Rumex acetosa-type	HERB
+Feurdean_a6	146	234	146	Polypodiaceae	Monolete fern spores	VACR
+Feurdean_a6	154	6	154	Ulmus	Ulmus/Zelkova	TRSH
+Feurdean_a6	180	1	180	Pteridium aquilinum	Pteridium aquilinum	VACR
+Feurdean_a6	187	7	187	Tilia	Tilia	TRSH
+Feurdean_a6	189	25	189	Quercus	Quercus	TRSH
+Feurdean_a6	201	23	31	Corylus	Corylus	TRSH
+Feurdean_a6	256	1	256	Secale cereale	Secale cereale	HERB
+Feurdean_a6	652	2	652	Urtica	Urtica	HERB
+Feurdean_a6	783	362	783	Picea abies	Picea abies-type	TRSH
+Feurdean_a6	759	2	321	Abies alba	Abies	TRSH
+Feurdean_a6	1073	2	65	Mentha-type	Mentha-type	HERB
+Feurdean_a6	1337	2	25	Asteraceae Liguliflorae	Asteraceae subf. Cichorioideae	HERB
+Feurdean_a6	1338	5	160	Asteraceae subf. Asteroideae	Asteraceae subf. Asteroideae	HERB
+Feurdean_a6	1350	49	80	Poaceae undif.<40√¶m	Poaceae	HERB
+Feurdean_a6	1354	1	583	Sambucus nigra-type	Sambucus nigra/S. racemosa	TRSH
+Feurdean_a6	1359	9	1087	Valeriana officinalis	Valeriana officinalis-type	HERB
+Feurdean_a6	1346	1	93	Gallium type	Rubiaceae	HERB

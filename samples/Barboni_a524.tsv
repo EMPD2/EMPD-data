@@ -1,45 +1,45 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Barboni_a524	Abies	Abies	TRSH	1	0.10319917
-Barboni_a524	Alnus	Alnus	TRSH	4	0.4127967
-Barboni_a524	Carpinus betulus	Carpinus betulus	TRSH	1	0.10319917
-Barboni_a524	Castanea	Castanea sativa	TRSH	1	0.10319917
-Barboni_a524	Clematis-type	Clematis	TRSH	1	0.10319917
-Barboni_a524	Corylus	Corylus	TRSH	4	0.4127967
-Barboni_a524	Juniperus	Juniperus communis-type	TRSH	7	0.72239422
-Barboni_a524	Olea	Olea europaea	TRSH	2	0.20639835
-Barboni_a524	Ostrya/Carpinus	Ostrya/Carpinus orientalis	TRSH	3	0.30959752
-Barboni_a524	Pinus	Pinus	TRSH	33	3.4055728
-Barboni_a524	Quercus undiff.	Quercus	TRSH	7	0.72239422
-Barboni_a524	Quercus cerris-type	Quercus cerris-type	TRSH	10	1.0319917
-Barboni_a524	Tilia	Tilia	TRSH	1	0.10319917
-Barboni_a524	Artemisia herba-alba-type	Artemisia	HERB	2	0.20639835
-Barboni_a524	Artemisia vulgaris-type	Artemisia	HERB	2	0.20639835
-Barboni_a524	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB	172	17.750258
-Barboni_a524	Boraginaceae	Boraginaceae	HERB	1	0.10319917
-Barboni_a524	Brassica-type	Brassicaceae	HERB	4	0.4127967
-Barboni_a524	Capsella-type	Brassicaceae	HERB	11	1.1351909
-Barboni_a524	Centaurea solstitialis-type	Centaurea nigra-type	HERB	1	0.10319917
-Barboni_a524	Cerealia-type	Cerealia-type	HERB	6	0.61919505
-Barboni_a524	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	86	8.875129
-Barboni_a524	Convolvulus	Convolvulus	HERB	2	0.20639835
-Barboni_a524	Humulus/Cannabis	Humulus/Cannabis	HERB	1	0.10319917
-Barboni_a524	Knautia	Knautia	HERB	1	0.10319917
-Barboni_a524	Matricaria-type	Matricaria-type	HERB	53	5.4695562
-Barboni_a524	Papaver	Papaver	HERB	8	0.8255934
-Barboni_a524	Plantago lanceolata-type	Plantago lanceolata-type	HERB	6	0.61919505
-Barboni_a524	Plantago maritima-type	Plantago maritima-type	HERB	1	0.10319917
-Barboni_a524	Gramineae	Poaceae	HERB	495	51.083591
-Barboni_a524	Polygonum aviculare-type	Polygonum aviculare-type	HERB	16	1.6511868
-Barboni_a524	Ranunculus repens-type	Ranunculus acris-type	HERB	7	0.72239422
-Barboni_a524	Rumex hydrolapathum	Rumex aquaticus-type	HERB	2	0.20639835
-Barboni_a524	Teucrium	Teucrium	HERB	1	0.10319917
-Barboni_a524	Trifolium-type	Trifolium-type	HERB	1	0.10319917
-Barboni_a524	Xanthium	Xanthium	HERB	1	0.10319917
-Barboni_a524	Zea mays	Zea mays	HERB	6	0.61919505
-Barboni_a524	Dryopteris-type	Dryopteris-type	VACR	5	0.51599587
-Barboni_a524	Pteridium	Pteridium	VACR	3	0.30959752
-Barboni_a524	Cyperaceae	Cyperaceae	AQUA	58	5.9855521
-Barboni_a524	Nymphaea	Nymphaea	AQUA	1	0.10319917
-Barboni_a524	Potamogeton	Potamogeton-type	AQUA	4	0.4127967
-Barboni_a524	Sparganium-type	Sparganium-type	AQUA	14	1.4447884
-Barboni_a524	Varia	Indeterminable: unknown	INUN	3	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Barboni_a524	5	4	5	Alnus	Alnus	TRSH
+Barboni_a524	3572	2	7	Artemisia herba-alba-type	Artemisia	HERB
+Barboni_a524	162	1	162	Boraginaceae	Boraginaceae	HERB
+Barboni_a524	3658	11	13	Capsella-type	Brassicaceae	HERB
+Barboni_a524	563	1	16	Carpinus betulus	Carpinus betulus	TRSH
+Barboni_a524	441	1	19	Castanea	Castanea sativa	TRSH
+Barboni_a524	3681	1	29	Centaurea solstitialis-type	Centaurea nigra-type	HERB
+Barboni_a524	1065	6	22	Cerealia-type	Cerealia-type	HERB
+Barboni_a524	3813	1	28	Clematis-type	Clematis	TRSH
+Barboni_a524	3824	172	25	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Barboni_a524	1328	2	1328	Convolvulus	Convolvulus	HERB
+Barboni_a524	201	4	31	Corylus	Corylus	TRSH
+Barboni_a524	3868	58	3868	Cyperaceae	Cyperaceae	AQUA
+Barboni_a524	1247	5	772	Dryopteris-type	Dryopteris-type	VACR
+Barboni_a524	1601	495	80	Gramineae	Poaceae	HERB
+Barboni_a524	58	7	58	Juniperus	Juniperus communis-type	TRSH
+Barboni_a524	1257	1	1257	Knautia	Knautia	HERB
+Barboni_a524	1072	53	3	Matricaria-type	Matricaria-type	HERB
+Barboni_a524	627	1	627	Nymphaea	Nymphaea	AQUA
+Barboni_a524	442	2	68	Olea	Olea europaea	TRSH
+Barboni_a524	1614	3	70	Ostrya/Carpinus	Ostrya/Carpinus orientalis	TRSH
+Barboni_a524	71	8	71	Papaver	Papaver	HERB
+Barboni_a524	75	33	75	Pinus	Pinus	TRSH
+Barboni_a524	1075	6	60	Plantago lanceolata-type	Plantago lanceolata-type	HERB
+Barboni_a524	2760	1	64	Plantago maritima-type	Plantago maritima-type	HERB
+Barboni_a524	1078	16	262	Polygonum aviculare-type	Polygonum aviculare-type	HERB
+Barboni_a524	657	4	108	Potamogeton	Potamogeton-type	AQUA
+Barboni_a524	431	3	180	Pteridium	Pteridium aquilinum	VACR
+Barboni_a524	1051	10	84	Quercus cerris-type	Quercus cerris-type	TRSH
+Barboni_a524	2173	7	189	Quercus undiff.	Quercus	TRSH
+Barboni_a524	1086	14	176	Sparganium-type	Sparganium-type	AQUA
+Barboni_a524	1356	1	1356	Teucrium	Teucrium	HERB
+Barboni_a524	187	1	187	Tilia	Tilia	TRSH
+Barboni_a524	1284	1	115	Trifolium-type	Trifolium-type	HERB
+Barboni_a524	1098	3	177	Varia	Indeterminable: unknown	INUN
+Barboni_a524	1044	1	1044	Xanthium	Xanthium	HERB
+Barboni_a524	24	86	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Barboni_a524	560	1	321	Abies	Abies	TRSH
+Barboni_a524	812	6	423	Zea mays	Zea mays	HERB
+Barboni_a524	1144	1	205	Humulus/Cannabis	Humulus/Cannabis	HERB
+Barboni_a524	3573	2	7	Artemisia vulgaris-type	Artemisia	HERB
+Barboni_a524	3631	4	13	Brassica-type	Brassicaceae	HERB
+Barboni_a524	4452	7	87	Ranunculus repens-type	Ranunculus acris-type	HERB
+Barboni_a524	4513	2	1084	Rumex hydrolapathum	Rumex aquaticus-type	HERB

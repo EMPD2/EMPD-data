@@ -1,25 +1,25 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Seppa_b62	Alnus	Alnus	TRSH	55	10.496183
-Seppa_b62	Betula	Betula	TRSH	177	33.778626
-Seppa_b62	Betula/Corylus/Myrica	Betula/Corylus/Myrica	TRSH	4	0.76335878
-Seppa_b62	Calluna vulgaris	Calluna vulgaris	DWAR	1	0.19083969
-Seppa_b62	Corylus avellana	Corylus	TRSH	3	0.57251908
-Seppa_b62	Ericaceae-type	Ericales (tetrad)	DWAR	1	0.19083969
-Seppa_b62	Juniperus communis	Juniperus communis-type	TRSH	4	0.76335878
-Seppa_b62	Picea	Picea	TRSH	38	7.2519084
-Seppa_b62	Pinus sylvestris	Pinus sylvestris-type	TRSH	201	38.358779
-Seppa_b62	Salix undiff.	Salix	TRSH	2	0.38167939
-Seppa_b62	Tilia cordata	Tilia cordata-type	TRSH	2	0.38167939
-Seppa_b62	Ulmus	Ulmus/Zelkova	TRSH	2	0.38167939
-Seppa_b62	Artemisia	Artemisia	HERB	1	0.19083969
-Seppa_b62	Melampyrum	Melampyrum	HERB	1	0.19083969
-Seppa_b62	Gramineae undiff.	Poaceae	HERB	24	4.5801527
-Seppa_b62	Ranunculaceae undiff.	Ranunculaceae	HERB	1	0.19083969
-Seppa_b62	Rumex acetosa/R. acetosella-type	Rumex acetosa-type	HERB	1	0.19083969
-Seppa_b62	Rumex acetosella-type	Rumex acetosella	HERB	2	0.38167939
-Seppa_b62	Secale cereale	Secale cereale	HERB	1	0.19083969
-Seppa_b62	Dryopteris-type	Dryopteris-type	VACR	1	0.19083969
-Seppa_b62	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR	1	0.19083969
-Seppa_b62	Lycopodium annotinum	Lycopodium annotinum-type	VACR	1	0.19083969
-Seppa_b62	Carex-type	Carex	AQUA	1	0.19083969
-Seppa_b62	Cyperaceae undiff.	Cyperaceae	AQUA	1	0.19083969
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Seppa_b62	5	55	5	Alnus	Alnus	TRSH
+Seppa_b62	7	1	7	Artemisia	Artemisia	HERB
+Seppa_b62	12	177	12	Betula	Betula	TRSH
+Seppa_b62	3619	4	3619	Betula/Corylus/Myrica	Betula/Corylus/Myrica	TRSH
+Seppa_b62	3646	1	3645	Calluna vulgaris	Calluna vulgaris	DWAR
+Seppa_b62	31	3	31	Corylus avellana	Corylus	TRSH
+Seppa_b62	3873	1	3868	Cyperaceae undiff.	Cyperaceae	AQUA
+Seppa_b62	3944	1	130	Ericaceae-type	Ericales (tetrad)	DWAR
+Seppa_b62	4018	24	80	Gramineae undiff.	Poaceae	HERB
+Seppa_b62	2121	1	1320	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR
+Seppa_b62	941	4	58	Juniperus communis	Juniperus communis-type	TRSH
+Seppa_b62	965	1	183	Lycopodium annotinum	Lycopodium annotinum-type	VACR
+Seppa_b62	473	1	473	Melampyrum	Melampyrum	HERB
+Seppa_b62	788	201	125	Pinus sylvestris	Pinus sylvestris-type	TRSH
+Seppa_b62	4506	1	95	Rumex acetosa/R. acetosella-type	Rumex acetosa-type	HERB
+Seppa_b62	1398	2	96	Rumex acetosella-type	Rumex acetosella	HERB
+Seppa_b62	1400	2	99	Salix undiff.	Salix	TRSH
+Seppa_b62	256	1	256	Secale cereale	Secale cereale	HERB
+Seppa_b62	1406	2	153	Tilia cordata	Tilia cordata-type	TRSH
+Seppa_b62	154	2	154	Ulmus	Ulmus/Zelkova	TRSH
+Seppa_b62	126	38	126	Picea	Picea	TRSH
+Seppa_b62	1180	1	135	Ranunculaceae undiff.	Ranunculaceae	HERB
+Seppa_b62	1247	1	772	Dryopteris-type	Dryopteris-type	VACR
+Seppa_b62	3665	1	3663	Carex-type	Carex	AQUA

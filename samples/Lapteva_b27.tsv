@@ -1,27 +1,27 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Lapteva_b27	Abies sibirica	Abies sibirica	TRSH	13	2.6694045
-Lapteva_b27	Alnus glutinosa-type	Alnus glutinosa-type	TRSH	5	1.026694
-Lapteva_b27	Betula sect. Albae	Betula pubescens-type	TRSH	96	19.712526
-Lapteva_b27	Larix	Larix/Pseudotsuga	TRSH	3	0.61601643
-Lapteva_b27	Picea	Picea	TRSH	100	20.533881
-Lapteva_b27	Pinus sibirica=Pinus s/g Haploxylon	Pinus cembra-type	TRSH	3	0.61601643
-Lapteva_b27	Pinus sylvestris=Pinus s/g Diploxylon	Pinus sylvestris-type	TRSH	172	35.318275
-Lapteva_b27	Rosaceae	Rosaceae	TRSH	1	0.20533881
-Lapteva_b27	Tilia cordata-type	Tilia cordata-type	TRSH	1	0.20533881
-Lapteva_b27	Ulmus	Ulmus/Zelkova	TRSH	2	0.41067762
-Lapteva_b27	Apiaceae	Apiaceae	HERB	2	0.41067762
-Lapteva_b27	Artemisia	Artemisia	HERB	5	1.026694
-Lapteva_b27	Asteraceae/Asteroideae	Asteraceae subf. Asteroideae	HERB	1	0.20533881
-Lapteva_b27	Asteraceae/Cichorioideae	Asteraceae subf. Cichorioideae	HERB	4	0.82135524
-Lapteva_b27	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	2	0.41067762
-Lapteva_b27	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	3	0.61601643
-Lapteva_b27	Cyperaceae	Cyperaceae	HERB	2	0.41067762
-Lapteva_b27	Oxalidaceae	Oxalis	HERB	1	0.20533881
-Lapteva_b27	Poaceae	Poaceae	HERB	7	1.4373717
-Lapteva_b27	Polygonaceae	Polygonaceae	HERB	1	0.20533881
-Lapteva_b27	Ranunculaceae	Ranunculaceae	HERB	2	0.41067762
-Lapteva_b27	Bryales	Bryophyte spores	BRYO	3	0.61601643
-Lapteva_b27	Polypodiophyta	Monolete fern spores	VACR	52	10.677618
-Lapteva_b27	Ophyoglossaceae	Ophioglossaceae	VACR	6	1.2320329
-Lapteva_b27	Pollen gen. indet.	Indeterminable: unknown	INUN	2	
-Lapteva_b27	Sphagnum	Sphagnum	NOPO	6	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Lapteva_b27	123	3	123	Larix	Larix/Pseudotsuga	TRSH
+Lapteva_b27	149	13	149	Abies sibirica	Abies sibirica	TRSH
+Lapteva_b27	126	100	126	Picea	Picea	TRSH
+Lapteva_b27	150	172	125	Pinus sylvestris=Pinus s/g Diploxylon	Pinus sylvestris-type	TRSH
+Lapteva_b27	151	3	124	Pinus sibirica=Pinus s/g Haploxylon	Pinus cembra-type	TRSH
+Lapteva_b27	128	96	128	Betula sect. Albae	Betula pubescens-type	TRSH
+Lapteva_b27	153	1	153	Tilia cordata-type	Tilia cordata-type	TRSH
+Lapteva_b27	154	2	154	Ulmus	Ulmus/Zelkova	TRSH
+Lapteva_b27	155	5	155	Alnus glutinosa-type	Alnus glutinosa-type	TRSH
+Lapteva_b27	80	7	80	Poaceae	Poaceae	HERB
+Lapteva_b27	33	2	33	Cyperaceae	Cyperaceae	HERB
+Lapteva_b27	7	5	7	Artemisia	Artemisia	HERB
+Lapteva_b27	6	2	6	Apiaceae	Apiaceae	HERB
+Lapteva_b27	160	1	160	Asteraceae/Asteroideae	Asteraceae subf. Asteroideae	HERB
+Lapteva_b27	161	4	25	Asteraceae/Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Lapteva_b27	18	2	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Lapteva_b27	135	2	135	Ranunculaceae	Ranunculaceae	HERB
+Lapteva_b27	92	1	92	Rosaceae	Rosaceae	TRSH
+Lapteva_b27	177	2	177	Pollen gen. indet.	Indeterminable: unknown	INUN
+Lapteva_b27	178	52	146	Polypodiophyta	Monolete fern spores	VACR
+Lapteva_b27	179	6	179	Ophyoglossaceae	Ophioglossaceae	VACR
+Lapteva_b27	144	6	144	Sphagnum	Sphagnum	BRYO
+Lapteva_b27	24	3	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Lapteva_b27	138	1	138	Polygonaceae	Polygonaceae	HERB
+Lapteva_b27	147	3	147	Bryales	Bryophyte spores	BRYO
+Lapteva_b27	167	1	167	Oxalidaceae	Oxalis	HERB

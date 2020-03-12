@@ -1,33 +1,33 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Ortu_b38	Alnus viridis	Alnus viridis	TRSH	7	1.6203704
-Ortu_b38	Betula	Betula	TRSH	20	4.6296296
-Ortu_b38	Castanea	Castanea sativa	TRSH	6	1.3888889
-Ortu_b38	Corylus	Corylus	TRSH	6	1.3888889
-Ortu_b38	Ericaceae	Ericales (tetrad)	DWAR	7	1.6203704
-Ortu_b38	Fagus	Fagus	TRSH	16	3.7037037
-Ortu_b38	Fraxinus	Fraxinus	TRSH	10	2.3148148
-Ortu_b38	Juglans	Juglans	TRSH	1	0.23148148
-Ortu_b38	Juniperus	Juniperus communis-type	TRSH	1	0.23148148
-Ortu_b38	Larix	Larix/Pseudotsuga	TRSH	3	0.69444444
-Ortu_b38	Pinus	Pinus	TRSH	233	53.935185
-Ortu_b38	Quercus robur-type	Quercus robur-type	TRSH	8	1.8518519
-Ortu_b38	Rhus	Rhus	TRSH	1	0.23148148
-Ortu_b38	Vitis	Vitis	LIAN	2	0.46296296
-Ortu_b38	Androsace	Androsace	HERB	1	0.23148148
-Ortu_b38	Apiaceae	Apiaceae	HERB	1	0.23148148
-Ortu_b38	Artemisia	Artemisia	HERB	1	0.23148148
-Ortu_b38	Asteroideae	Asteraceae subf. Asteroideae	HERB	1	0.23148148
-Ortu_b38	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	1	0.23148148
-Ortu_b38	Brassicaceae	Brassicaceae	HERB	2	0.46296296
-Ortu_b38	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.23148148
-Ortu_b38	Lamiaceae	Lamiaceae	HERB	3	0.69444444
-Ortu_b38	Plantago lanceolata	Plantago lanceolata-type	HERB	2	0.46296296
-Ortu_b38	Poaceae	Poaceae	HERB	61	14.12037
-Ortu_b38	Potentilla	Potentilla-type	HERB	25	5.787037
-Ortu_b38	Ranunculaceae	Ranunculaceae	HERB	2	0.46296296
-Ortu_b38	Rumex	Rumex/Oxyria	HERB	4	0.92592593
-Ortu_b38	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	4	0.92592593
-Ortu_b38	Monolete fern spores	Monolete fern spores	VACR	2	0.46296296
-Ortu_b38	Cyperaceae	Cyperaceae	AQUA	20	4.6296296
-Ortu_b38	Indeterminable: unknown	Indeterminable: unknown	INUN	8	
-Ortu_b38	Stomata	Stomata	VEMI	1	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Ortu_b38	561	7	129	Alnus viridis	Alnus viridis	TRSH
+Ortu_b38	2138	1	2138	Androsace	Androsace	HERB
+Ortu_b38	6	1	6	Apiaceae	Apiaceae	HERB
+Ortu_b38	7	1	7	Artemisia	Artemisia	HERB
+Ortu_b38	761	1	160	Asteroideae	Asteraceae subf. Asteroideae	HERB
+Ortu_b38	12	20	12	Betula	Betula	TRSH
+Ortu_b38	13	2	13	Brassicaceae	Brassicaceae	HERB
+Ortu_b38	441	6	19	Castanea	Castanea sativa	TRSH
+Ortu_b38	24	1	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Ortu_b38	201	6	31	Corylus	Corylus	TRSH
+Ortu_b38	3868	20	3868	Cyperaceae	Cyperaceae	AQUA
+Ortu_b38	130	7	130	Ericaceae	Ericales (tetrad)	DWAR
+Ortu_b38	190	10	190	Fraxinus	Fraxinus	TRSH
+Ortu_b38	4078	8	177	Indeterminable: unknown	Indeterminable: unknown	INUN
+Ortu_b38	57	1	57	Juglans	Juglans	TRSH
+Ortu_b38	58	1	58	Juniperus	Juniperus communis-type	TRSH
+Ortu_b38	59	3	59	Lamiaceae	Lamiaceae	HERB
+Ortu_b38	123	3	123	Larix	Larix/Pseudotsuga	TRSH
+Ortu_b38	75	233	75	Pinus	Pinus	TRSH
+Ortu_b38	80	61	80	Poaceae	Poaceae	HERB
+Ortu_b38	152	8	86	Quercus robur-type	Quercus robur-type	TRSH
+Ortu_b38	1619	1	1619	Rhus	Rhus	TRSH
+Ortu_b38	727	4	94	Rumex	Rumex/Oxyria	HERB
+Ortu_b38	2981	1	2771	Stomata	Stomata	VEMI
+Ortu_b38	4756	2	4756	Vitis	Vitis	LIAN
+Ortu_b38	60	2	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+Ortu_b38	135	2	135	Ranunculaceae	Ranunculaceae	HERB
+Ortu_b38	173	4	173	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB
+Ortu_b38	192	16	42	Fagus	Fagus	TRSH
+Ortu_b38	447	1	25	Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Ortu_b38	1366	25	512	Potentilla	Potentilla-type	HERB
+Ortu_b38	4193	2	146	Monolete fern spores	Monolete fern spores	VACR

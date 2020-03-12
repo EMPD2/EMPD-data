@@ -1,26 +1,26 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Morales_a6	Calluna vulgaris	Calluna vulgaris	TRSH	2	0.41841004
-Morales_a6	Juniperus-type	Juniperus-type	TRSH	2	0.41841004
-Morales_a6	Olea	Olea europaea	TRSH	2	0.41841004
-Morales_a6	Pinus (diploxylon)	Pinus sylvestris-type	TRSH	406	84.937238
-Morales_a6	Populus	Populus	TRSH	1	0.20920502
-Morales_a6	Quercus ilex-type	Quercus ilex-type	TRSH	1	0.20920502
-Morales_a6	Quercus deciduous-type	Quercus robur-type	TRSH	3	0.62761506
-Morales_a6	Salix	Salix	TRSH	2	0.41841004
-Morales_a6	Apiaceae	Apiaceae	HERB	1	0.20920502
-Morales_a6	Aster-type	Aster-type	HERB	2	0.41841004
-Morales_a6	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	3	0.62761506
-Morales_a6	Brassicaceae	Brassicaceae	HERB	2	0.41841004
-Morales_a6	Cyperaceae	Cyperaceae	HERB	25	5.2301255
-Morales_a6	Eryngium	Eryngium	HERB	1	0.20920502
-Morales_a6	Anthemis-type	Matricaria-type	HERB	2	0.41841004
-Morales_a6	Plantago lanceolata-type	Plantago lanceolata-type	HERB	1	0.20920502
-Morales_a6	Poaceae	Poaceae	HERB	14	2.9288703
-Morales_a6	Potentilla-type	Potentilla-type	HERB	1	0.20920502
-Morales_a6	Ranunculus-type	Ranunculus-type	HERB	2	0.41841004
-Morales_a6	Rumex acetosa/Rumex acetosella-type	Rumex acetosa-type	HERB	2	0.41841004
-Morales_a6	Sedum-type	Sedum-type	HERB	1	0.20920502
-Morales_a6	Monolete	Monolete fern spores	VACR	2	0.41841004
-Morales_a6	Unknown pollen	Indeterminable: unknown	INUN	1	
-Morales_a6	Pinus: stomata	Pinus: stomata	VEMI	10	
-Morales_a6	Podospora	Podospora-type	FUNG	1	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Morales_a6	81	1	81	Populus	Populus	TRSH
+Morales_a6	99	2	99	Salix	Salix	TRSH
+Morales_a6	442	2	68	Olea	Olea europaea	TRSH
+Morales_a6	457	2	457	Calluna vulgaris	Calluna vulgaris	TRSH
+Morales_a6	738	2	203	Juniperus-type	Juniperus-type	TRSH
+Morales_a6	1052	1	85	Quercus ilex-type	Quercus ilex-type	TRSH
+Morales_a6	2790	406	125	Pinus (diploxylon)	Pinus sylvestris-type	TRSH
+Morales_a6	6	1	6	Apiaceae	Apiaceae	HERB
+Morales_a6	13	2	13	Brassicaceae	Brassicaceae	HERB
+Morales_a6	80	14	80	Poaceae	Poaceae	HERB
+Morales_a6	447	3	25	Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Morales_a6	589	2	3	Anthemis-type	Matricaria-type	HERB
+Morales_a6	597	2	11	Aster-type	Aster-type	HERB
+Morales_a6	626	1	512	Potentilla-type	Potentilla-type	HERB
+Morales_a6	1075	1	60	Plantago lanceolata-type	Plantago lanceolata-type	HERB
+Morales_a6	1136	1	1136	Eryngium	Eryngium	HERB
+Morales_a6	2803	2	95	Rumex acetosa/Rumex acetosella-type	Rumex acetosa-type	HERB
+Morales_a6	2805	1	105	Sedum-type	Sedum-type	HERB
+Morales_a6	2810	1	177	Unknown pollen	Indeterminable: unknown	INUN
+Morales_a6	2359	10	1597	Pinus: stomata	Pinus: stomata	VEMI
+Morales_a6	671	1	558	Podospora	Podospora-type	FUNG
+Morales_a6	33	25	33	Cyperaceae	Cyperaceae	HERB
+Morales_a6	2169	2	146	Monolete	Monolete fern spores	VACR
+Morales_a6	2429	2	274	Ranunculus-type	Ranunculus-type	HERB
+Morales_a6	2791	3	86	Quercus deciduous-type	Quercus robur-type	TRSH

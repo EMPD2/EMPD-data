@@ -1,36 +1,36 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Seppa_b141	Alnus	Alnus	TRSH	51	7.3699422
-Seppa_b141	Betula	Betula	TRSH	160	23.121387
-Seppa_b141	Betula/Corylus/Myrica	Betula/Corylus/Myrica	TRSH	4	0.57803468
-Seppa_b141	Calluna vulgaris	Calluna vulgaris	DWAR	14	2.0231214
-Seppa_b141	Corylus avellana	Corylus	TRSH	39	5.6358382
-Seppa_b141	Fagus sylvatica	Fagus	TRSH	1	0.14450867
-Seppa_b141	Frangula alnus	Frangula alnus	TRSH	5	0.72254335
-Seppa_b141	Fraxinus excelsior	Fraxinus excelsior-type	TRSH	4	0.57803468
-Seppa_b141	Juniperus communis	Juniperus communis-type	TRSH	8	1.1560694
-Seppa_b141	Picea	Picea	TRSH	40	5.7803468
-Seppa_b141	Pinus sylvestris	Pinus sylvestris-type	TRSH	194	28.034682
-Seppa_b141	Quercus	Quercus	TRSH	20	2.8901734
-Seppa_b141	Rosaceae undiff.	Rosa	TRSH	1	0.14450867
-Seppa_b141	Salix undiff.	Salix	TRSH	4	0.57803468
-Seppa_b141	Tilia cordata	Tilia cordata-type	TRSH	3	0.43352601
-Seppa_b141	Ulmus	Ulmus/Zelkova	TRSH	3	0.43352601
-Seppa_b141	Vaccinium-type	Vaccinium-type	DWAR	1	0.14450867
-Seppa_b141	Umbelliferae undiff.	Apiaceae	HERB	2	0.28901734
-Seppa_b141	Artemisia	Artemisia	HERB	1	0.14450867
-Seppa_b141	Lactucoideae	Asteraceae subf. Cichorioideae	HERB	3	0.43352601
-Seppa_b141	Caryophyllaceae undiff.	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	1	0.14450867
-Seppa_b141	Cerealia undiff.	Cerealia-type	HERB	6	0.86705202
-Seppa_b141	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.14450867
-Seppa_b141	Filipendula	Filipendula	HERB	2	0.28901734
-Seppa_b141	Cannabis-type	Humulus/Cannabis	HERB	3	0.43352601
-Seppa_b141	Plantago lanceolata	Plantago lanceolata-type	HERB	2	0.28901734
-Seppa_b141	Gramineae undiff.	Poaceae	HERB	47	6.7919075
-Seppa_b141	Sinapis-type	Sinapis-type	HERB	1	0.14450867
-Seppa_b141	Urtica	Urtica	HERB	22	3.1791908
-Seppa_b141	Dryopteris-type	Dryopteris-type	VACR	13	1.8786127
-Seppa_b141	Equisetum	Equisetum	VACR	27	3.9017341
-Seppa_b141	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR	6	0.86705202
-Seppa_b141	Lycopodium annotinum	Lycopodium annotinum-type	VACR	2	0.28901734
-Seppa_b141	Lycopodium clavatum	Lycopodium clavatum	VACR	1	0.14450867
-Seppa_b141	Cyperaceae undiff.	Cyperaceae	AQUA	14	2.0231214
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Seppa_b141	5	51	5	Alnus	Alnus	TRSH
+Seppa_b141	7	1	7	Artemisia	Artemisia	HERB
+Seppa_b141	12	160	12	Betula	Betula	TRSH
+Seppa_b141	3619	4	3619	Betula/Corylus/Myrica	Betula/Corylus/Myrica	TRSH
+Seppa_b141	3646	14	3645	Calluna vulgaris	Calluna vulgaris	DWAR
+Seppa_b141	1340	3	205	Cannabis-type	Humulus/Cannabis	HERB
+Seppa_b141	946	1	18	Caryophyllaceae undiff.	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Seppa_b141	24	1	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Seppa_b141	31	39	31	Corylus avellana	Corylus	TRSH
+Seppa_b141	3873	14	3868	Cyperaceae undiff.	Cyperaceae	AQUA
+Seppa_b141	1247	13	772	Dryopteris-type	Dryopteris-type	VACR
+Seppa_b141	145	27	145	Equisetum	Equisetum	VACR
+Seppa_b141	42	1	42	Fagus sylvatica	Fagus	TRSH
+Seppa_b141	45	2	45	Filipendula	Filipendula	HERB
+Seppa_b141	47	4	47	Fraxinus excelsior	Fraxinus excelsior-type	TRSH
+Seppa_b141	4018	47	80	Gramineae undiff.	Poaceae	HERB
+Seppa_b141	4105	3	25	Lactucoideae	Asteraceae subf. Cichorioideae	HERB
+Seppa_b141	965	2	183	Lycopodium annotinum	Lycopodium annotinum-type	VACR
+Seppa_b141	1714	1	1549	Lycopodium clavatum	Lycopodium clavatum	VACR
+Seppa_b141	126	40	126	Picea	Picea	TRSH
+Seppa_b141	788	194	125	Pinus sylvestris	Pinus sylvestris-type	TRSH
+Seppa_b141	60	2	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+Seppa_b141	1400	4	99	Salix undiff.	Salix	TRSH
+Seppa_b141	1403	1	246	Sinapis-type	Sinapis-type	HERB
+Seppa_b141	1406	3	153	Tilia cordata	Tilia cordata-type	TRSH
+Seppa_b141	154	3	154	Ulmus	Ulmus/Zelkova	TRSH
+Seppa_b141	4711	2	6	Umbelliferae undiff.	Apiaceae	HERB
+Seppa_b141	189	20	189	Quercus	Quercus	TRSH
+Seppa_b141	567	5	468	Frangula alnus	Frangula alnus	TRSH
+Seppa_b141	652	22	652	Urtica	Urtica	HERB
+Seppa_b141	822	6	22	Cerealia undiff.	Cerealia-type	HERB
+Seppa_b141	941	8	58	Juniperus communis	Juniperus communis-type	TRSH
+Seppa_b141	2121	6	1320	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR
+Seppa_b141	4730	1	4730	Vaccinium-type	Vaccinium-type	DWAR
+Seppa_b141	472	1	92	Rosaceae undiff.	Rosaceae	TRSH

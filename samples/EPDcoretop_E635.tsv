@@ -1,31 +1,31 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-EPDcoretop_E635	Alnus	Alnus	TRSH	10	1.6694491
-EPDcoretop_E635	Betula	Betula	TRSH	11	1.836394
-EPDcoretop_E635	Carpinus betulus	Carpinus betulus	TRSH	10	1.6694491
-EPDcoretop_E635	Corylus	Corylus	TRSH	4	0.66777963
-EPDcoretop_E635	Fagus	Fagus	TRSH	18	3.0050083
-EPDcoretop_E635	Fraxinus ornus	Fraxinus ornus	TRSH	2	0.33388982
-EPDcoretop_E635	Juglans	Juglans	TRSH	1	0.16694491
-EPDcoretop_E635	Juniperus	Juniperus communis-type	TRSH	7	1.1686144
-EPDcoretop_E635	Carpinus orientalis/Ostrya	Ostrya/Carpinus orientalis	TRSH	4	0.66777963
-EPDcoretop_E635	Picea	Picea	TRSH	14	2.3372287
-EPDcoretop_E635	Pinus haploxylon-type	Pinus cembra-type	TRSH	42	7.0116861
-EPDcoretop_E635	Pinus diploxylon-type	Pinus sylvestris-type	TRSH	335	55.926544
-EPDcoretop_E635	Quercus	Quercus	TRSH	11	1.836394
-EPDcoretop_E635	Rosaceae	Rosaceae	TRSH	4	0.66777963
-EPDcoretop_E635	Salix	Salix	TRSH	1	0.16694491
-EPDcoretop_E635	Vitis	Vitis	LIAN	3	0.50083472
-EPDcoretop_E635	Umbelliferae	Apiaceae	HERB	6	1.0016694
-EPDcoretop_E635	Artemisia	Artemisia	HERB	4	0.66777963
-EPDcoretop_E635	Cruciferae	Brassicaceae	HERB	7	1.1686144
-EPDcoretop_E635	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	7	1.1686144
-EPDcoretop_E635	Achillea-type	Matricaria-type	HERB	2	0.33388982
-EPDcoretop_E635	Plantago lanceolata	Plantago lanceolata-type	HERB	7	1.1686144
-EPDcoretop_E635	Plantago major/P. media	Plantago major/P. media-type	HERB	7	1.1686144
-EPDcoretop_E635	Gramineae	Poaceae	HERB	64	10.684474
-EPDcoretop_E635	Ranunculaceae	Ranunculaceae	HERB	5	0.83472454
-EPDcoretop_E635	Rumex	Rumex/Oxyria	HERB	6	1.0016694
-EPDcoretop_E635	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	1	0.16694491
-EPDcoretop_E635	Thalictrum	Thalictrum	HERB	1	0.16694491
-EPDcoretop_E635	Triticum-type	Triticum-type	HERB	5	0.83472454
-EPDcoretop_E635	Cyperaceae	Cyperaceae	AQUA	104	17.36227
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+EPDcoretop_E635	7	4	7	Artemisia	Artemisia	HERB
+EPDcoretop_E635	12	11	12	Betula	Betula	TRSH
+EPDcoretop_E635	563	10	16	Carpinus betulus	Carpinus betulus	TRSH
+EPDcoretop_E635	24	7	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+EPDcoretop_E635	201	4	31	Corylus	Corylus	TRSH
+EPDcoretop_E635	482	7	13	Cruciferae	Brassicaceae	HERB
+EPDcoretop_E635	3868	104	3868	Cyperaceae	Cyperaceae	AQUA
+EPDcoretop_E635	192	18	42	Fagus	Fagus	TRSH
+EPDcoretop_E635	44	2	44	Fraxinus ornus	Fraxinus ornus	TRSH
+EPDcoretop_E635	1601	64	80	Gramineae	Poaceae	HERB
+EPDcoretop_E635	57	1	57	Juglans	Juglans	TRSH
+EPDcoretop_E635	58	7	58	Juniperus	Juniperus communis-type	TRSH
+EPDcoretop_E635	1049	335	125	Pinus diploxylon-type	Pinus sylvestris-type	TRSH
+EPDcoretop_E635	60	7	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+EPDcoretop_E635	4323	7	458	Plantago major/P. media	Plantago major/P. media-type	HERB
+EPDcoretop_E635	189	11	189	Quercus	Quercus	TRSH
+EPDcoretop_E635	135	5	135	Ranunculaceae	Ranunculaceae	HERB
+EPDcoretop_E635	92	4	92	Rosaceae	Rosaceae	TRSH
+EPDcoretop_E635	727	6	94	Rumex	Rumex/Oxyria	HERB
+EPDcoretop_E635	99	1	99	Salix	Salix	TRSH
+EPDcoretop_E635	173	1	173	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB
+EPDcoretop_E635	1233	5	1199	Triticum-type	Triticum-type	HERB
+EPDcoretop_E635	590	6	6	Umbelliferae	Apiaceae	HERB
+EPDcoretop_E635	4756	3	4756	Vitis	Vitis	LIAN
+EPDcoretop_E635	5	10	5	Alnus	Alnus	TRSH
+EPDcoretop_E635	112	1	112	Thalictrum	Thalictrum	HERB
+EPDcoretop_E635	126	14	126	Picea	Picea	TRSH
+EPDcoretop_E635	943	2	3	Achillea-type	Matricaria-type	HERB
+EPDcoretop_E635	1035	4	70	Carpinus orientalis/Ostrya	Ostrya/Carpinus orientalis	TRSH
+EPDcoretop_E635	1050	42	124	Pinus haploxylon-type	Pinus cembra-type	TRSH

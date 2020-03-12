@@ -1,37 +1,37 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Lopez_a397	Alnus	Alnus	TRSH	21	3.9923954
-Lopez_a397	Betula	Betula	TRSH	313	59.505703
-Lopez_a397	Calluna vulgaris	Calluna vulgaris	DWAR	1	0.19011407
-Lopez_a397	Castanea	Castanea sativa	TRSH	1	0.19011407
-Lopez_a397	Corylus	Corylus	TRSH	2	0.38022814
-Lopez_a397	Erica arborea-type	Erica arborea-type	DWAR	77	14.638783
-Lopez_a397	Fraxinus	Fraxinus	TRSH	11	2.0912548
-Lopez_a397	Ilex	Ilex	TRSH	1	0.19011407
-Lopez_a397	Juglans	Juglans	TRSH	1	0.19011407
-Lopez_a397	Pinus pinaster	Pinus pinaster	TRSH	39	7.4144487
-Lopez_a397	Pinus sylvestris/nigra-type	Pinus sylvestris-type	TRSH	2	0.38022814
-Lopez_a397	Quercus evergreen	Quercus ilex-type	TRSH	2	0.38022814
-Lopez_a397	Quercus deciduous	Quercus robur-type	TRSH	2	0.38022814
-Lopez_a397	Prunus/Rubus-type	Rosaceae (non-operculate)	TRSH	1	0.19011407
-Lopez_a397	Salix	Salix	TRSH	1	0.19011407
-Lopez_a397	Sambucus	Sambucus	TRSH	1	0.19011407
-Lopez_a397	Apiaceae	Apiaceae	HERB	2	0.38022814
-Lopez_a397	Cardueae	Asteraceae subf. Carduoideae	HERB	1	0.19011407
-Lopez_a397	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	1	0.19011407
-Lopez_a397	Cruciferae	Brassicaceae	HERB	3	0.57034221
-Lopez_a397	Labiatae	Lamiaceae	HERB	1	0.19011407
-Lopez_a397	Liliaceae undiff,	Liliaceae-type	HERB	1	0.19011407
-Lopez_a397	Anthemis-type	Matricaria-type	HERB	1	0.19011407
-Lopez_a397	Melampyrum	Melampyrum	HERB	1	0.19011407
-Lopez_a397	Plantago lanceolata-type	Plantago lanceolata-type	HERB	9	1.7110266
-Lopez_a397	Poaceae undiff.	Poaceae	HERB	22	4.1825095
-Lopez_a397	Ranunculaceae	Ranunculaceae	HERB	1	0.19011407
-Lopez_a397	Rumex acetosa-type	Rumex acetosa-type	HERB	2	0.38022814
-Lopez_a397	Rumex acetosella-type	Rumex acetosella	HERB	1	0.19011407
-Lopez_a397	Urtica dioica-type	Urtica dioica-type	HERB	1	0.19011407
-Lopez_a397	Pteridium	Pteridium	VACR	2	0.38022814
-Lopez_a397	Trilete fern spores undiff.	Trilete spore(s)	VACR	1	0.19011407
-Lopez_a397	Cyperaceae	Cyperaceae	AQUA	2	0.38022814
-Lopez_a397	Fabaceae undiff.	Fabaceae undiff.	INUN	4	
-Lopez_a397	Cercophora	Cercophora-type	FUNG	2	
-Lopez_a397	Sordaria	Sordaria-type	NOPO	3	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Lopez_a397	5	21	5	Alnus	Alnus	TRSH
+Lopez_a397	589	1	3	Anthemis-type	Matricaria-type	HERB
+Lopez_a397	6	2	6	Apiaceae	Apiaceae	HERB
+Lopez_a397	12	313	12	Betula	Betula	TRSH
+Lopez_a397	3646	1	3645	Calluna vulgaris	Calluna vulgaris	DWAR
+Lopez_a397	445	1	336	Cardueae	Asteraceae subf. Carduoideae	HERB
+Lopez_a397	2406	2	556	Cercophora	Cercophora-type	FUNG
+Lopez_a397	447	1	25	Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Lopez_a397	201	2	31	Corylus	Corylus	TRSH
+Lopez_a397	3868	2	3868	Cyperaceae	Cyperaceae	AQUA
+Lopez_a397	3929	77	3928	Erica arborea-type	Erica arborea-type	DWAR
+Lopez_a397	3960	4	3960	Fabaceae undiff.	Fabaceae undiff.	INUN
+Lopez_a397	190	11	190	Fraxinus	Fraxinus	TRSH
+Lopez_a397	57	1	57	Juglans	Juglans	TRSH
+Lopez_a397	485	1	59	Labiatae	Lamiaceae	HERB
+Lopez_a397	4131	1	62	Liliaceae undiff,	Liliaceae-type	HERB
+Lopez_a397	473	1	473	Melampyrum	Melampyrum	HERB
+Lopez_a397	439	39	439	Pinus pinaster	Pinus pinaster	TRSH
+Lopez_a397	4308	2	125	Pinus sylvestris/nigra-type	Pinus sylvestris-type	TRSH
+Lopez_a397	1075	9	60	Plantago lanceolata-type	Plantago lanceolata-type	HERB
+Lopez_a397	429	22	80	Poaceae undiff.	Poaceae	HERB
+Lopez_a397	4403	1	490	Prunus/Rubus-type	Rosaceae (non-operculate)	TRSH
+Lopez_a397	431	2	180	Pteridium	Pteridium aquilinum	VACR
+Lopez_a397	437	2	86	Quercus deciduous	Quercus robur-type	TRSH
+Lopez_a397	427	2	85	Quercus evergreen	Quercus ilex-type	TRSH
+Lopez_a397	135	1	135	Ranunculaceae	Ranunculaceae	HERB
+Lopez_a397	634	2	95	Rumex acetosa-type	Rumex acetosa-type	HERB
+Lopez_a397	99	1	99	Salix	Salix	TRSH
+Lopez_a397	481	1	407	Sambucus	Sambucus	TRSH
+Lopez_a397	4604	3	4604	Sordaria	Sordaria-type	NOPO
+Lopez_a397	4683	1	279	Trilete fern spores undiff.	Trilete spore(s)	VACR
+Lopez_a397	4718	1	453	Urtica dioica-type	Urtica dioica-type	HERB
+Lopez_a397	435	1	55	Ilex	Ilex	TRSH
+Lopez_a397	441	1	19	Castanea	Castanea sativa	TRSH
+Lopez_a397	482	3	13	Cruciferae	Brassicaceae	HERB
+Lopez_a397	1398	1	96	Rumex acetosella-type	Rumex acetosella	HERB

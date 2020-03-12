@@ -1,39 +1,39 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Ortu_b77	Abies	Abies	TRSH	31	6.7982456
-Ortu_b77	Acer	Acer campestre-type	TRSH	15	3.2894737
-Ortu_b77	Alnus glutinosa	Alnus glutinosa-type	TRSH	9	1.9736842
-Ortu_b77	Alnus viridis	Alnus viridis	TRSH	1	0.21929825
-Ortu_b77	Betula	Betula	TRSH	7	1.5350877
-Ortu_b77	Carpinus	Carpinus betulus	TRSH	13	2.8508772
-Ortu_b77	Castanea	Castanea sativa	TRSH	7	1.5350877
-Ortu_b77	Corylus	Corylus	TRSH	36	7.8947368
-Ortu_b77	Fagus	Fagus	TRSH	64	14.035088
-Ortu_b77	Fraxinus	Fraxinus	TRSH	20	4.3859649
-Ortu_b77	Juglans	Juglans	TRSH	2	0.43859649
-Ortu_b77	Juniperus	Juniperus communis-type	TRSH	1	0.21929825
-Ortu_b77	Cupressus	Juniperus-type	TRSH	2	0.43859649
-Ortu_b77	Picea	Picea	TRSH	86	18.859649
-Ortu_b77	Pinus	Pinus	TRSH	94	20.614035
-Ortu_b77	Quercus robur-type	Quercus robur-type	TRSH	8	1.754386
-Ortu_b77	Rosaceae	Rosaceae	TRSH	1	0.21929825
-Ortu_b77	Salix	Salix	TRSH	1	0.21929825
-Ortu_b77	Ulmus	Ulmus/Zelkova	TRSH	1	0.21929825
-Ortu_b77	Artemisia	Artemisia	HERB	1	0.21929825
-Ortu_b77	Asteroideae	Asteraceae subf. Asteroideae	HERB	2	0.43859649
-Ortu_b77	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	3	0.65789474
-Ortu_b77	Boraginaceae	Boraginaceae	HERB	1	0.21929825
-Ortu_b77	Brassicaceae	Brassicaceae	HERB	5	1.0964912
-Ortu_b77	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	1	0.21929825
-Ortu_b77	Cerealia	Cerealia-type	HERB	1	0.21929825
-Ortu_b77	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.21929825
-Ortu_b77	Helianthemum	Helianthemum	HERB	1	0.21929825
-Ortu_b77	Luzula	Juncaceae	HERB	4	0.87719298
-Ortu_b77	Linaria	Linaria-type	HERB	1	0.21929825
-Ortu_b77	Lotus	Lotus-type	HERB	1	0.21929825
-Ortu_b77	Plantago lanceolata	Plantago lanceolata-type	HERB	1	0.21929825
-Ortu_b77	Poaceae	Poaceae	HERB	26	5.7017544
-Ortu_b77	Ranunculaceae	Ranunculaceae	HERB	5	1.0964912
-Ortu_b77	Rumex	Rumex/Oxyria	HERB	2	0.43859649
-Ortu_b77	Botrychium	Botrychium	VACR	1	0.21929825
-Ortu_b77	Cyperaceae	Cyperaceae	AQUA	2	0.43859649
-Ortu_b77	Indeterminable: unknown	Indeterminable: unknown	INUN	10	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Ortu_b77	2	15	2	Acer	Acer campestre-type	TRSH
+Ortu_b77	760	9	155	Alnus glutinosa	Alnus glutinosa-type	TRSH
+Ortu_b77	561	1	129	Alnus viridis	Alnus viridis	TRSH
+Ortu_b77	7	1	7	Artemisia	Artemisia	HERB
+Ortu_b77	761	2	160	Asteroideae	Asteraceae subf. Asteroideae	HERB
+Ortu_b77	162	1	162	Boraginaceae	Boraginaceae	HERB
+Ortu_b77	962	1	962	Botrychium	Botrychium	VACR
+Ortu_b77	13	5	13	Brassicaceae	Brassicaceae	HERB
+Ortu_b77	16	13	16	Carpinus	Carpinus betulus	TRSH
+Ortu_b77	18	1	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Ortu_b77	441	7	19	Castanea	Castanea sativa	TRSH
+Ortu_b77	22	1	22	Cerealia	Cerealia-type	HERB
+Ortu_b77	24	1	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Ortu_b77	447	3	25	Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Ortu_b77	201	36	31	Corylus	Corylus	TRSH
+Ortu_b77	1820	2	203	Cupressus	Juniperus-type	TRSH
+Ortu_b77	3868	2	3868	Cyperaceae	Cyperaceae	AQUA
+Ortu_b77	192	64	42	Fagus	Fagus	TRSH
+Ortu_b77	190	20	190	Fraxinus	Fraxinus	TRSH
+Ortu_b77	52	1	52	Helianthemum	Helianthemum	HERB
+Ortu_b77	4078	10	177	Indeterminable: unknown	Indeterminable: unknown	INUN
+Ortu_b77	58	1	58	Juniperus	Juniperus communis-type	TRSH
+Ortu_b77	4158	4	1750	Luzula	Juncaceae	HERB
+Ortu_b77	126	86	126	Picea	Picea	TRSH
+Ortu_b77	75	94	75	Pinus	Pinus	TRSH
+Ortu_b77	60	1	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+Ortu_b77	80	26	80	Poaceae	Poaceae	HERB
+Ortu_b77	135	5	135	Ranunculaceae	Ranunculaceae	HERB
+Ortu_b77	92	1	92	Rosaceae	Rosaceae	TRSH
+Ortu_b77	727	2	94	Rumex	Rumex/Oxyria	HERB
+Ortu_b77	99	1	99	Salix	Salix	TRSH
+Ortu_b77	12	7	12	Betula	Betula	TRSH
+Ortu_b77	57	2	57	Juglans	Juglans	TRSH
+Ortu_b77	152	8	86	Quercus robur-type	Quercus robur-type	TRSH
+Ortu_b77	154	1	154	Ulmus	Ulmus/Zelkova	TRSH
+Ortu_b77	560	31	321	Abies	Abies	TRSH
+Ortu_b77	1152	1	611	Lotus	Lotus-type	HERB
+Ortu_b77	1832	1	1832	Linaria	Linaria-type	HERB

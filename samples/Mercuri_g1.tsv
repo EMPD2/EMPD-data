@@ -1,39 +1,39 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Mercuri_g1	Abies alba	Abies	TRSH	7	1.0189229
-Mercuri_g1	Alnus	Alnus	TRSH	4	0.58224163
-Mercuri_g1	Carpinus betulus	Carpinus betulus	TRSH	9	1.3100437
-Mercuri_g1	Castanea	Castanea sativa	TRSH	4	0.58224163
-Mercuri_g1	Corylus	Corylus	TRSH	5	0.72780204
-Mercuri_g1	Erica	Erica	DWAR	1	0.14556041
-Mercuri_g1	Juglans	Juglans	TRSH	10	1.4556041
-Mercuri_g1	Juniperus-type	Juniperus-type	TRSH	6	0.87336245
-Mercuri_g1	Phillyrea	Phillyrea	TRSH	5	0.72780204
-Mercuri_g1	Pinus	Pinus	TRSH	214	31.149927
-Mercuri_g1	Populus	Populus	TRSH	10	1.4556041
-Mercuri_g1	Quercus deciduous	Quercus robur-type	TRSH	10	1.4556041
-Mercuri_g1	Rosaceae	Rosaceae	TRSH	20	2.9112082
-Mercuri_g1	Salix	Salix	TRSH	8	1.1644833
-Mercuri_g1	Ulmus	Ulmus/Zelkova	TRSH	1	0.14556041
-Mercuri_g1	Umbelliferae undiff.	Apiaceae	HERB	7	1.0189229
-Mercuri_g1	Artemisia	Artemisia	HERB	10	1.4556041
-Mercuri_g1	Asphodelus	Asphodelus	HERB	1	0.14556041
-Mercuri_g1	Asteroideae undiff.	Asteraceae subf. Asteroideae	HERB	11	1.6011645
-Mercuri_g1	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	20	2.9112082
-Mercuri_g1	Cruciferae undiff.	Brassicaceae	HERB	24	3.4934498
-Mercuri_g1	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	17	2.4745269
-Mercuri_g1	Centaurea nigra-type	Centaurea nigra-type	HERB	11	1.6011645
-Mercuri_g1	Cerealia undiff.	Cerealia-type	HERB	10	1.4556041
-Mercuri_g1	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	12	1.7467249
-Mercuri_g1	Helianthemum	Helianthemum	HERB	2	0.29112082
-Mercuri_g1	Labiatae	Lamiaceae	HERB	4	0.58224163
-Mercuri_g1	Liliaceae undiff.	Liliaceae-type	HERB	11	1.6011645
-Mercuri_g1	Gramineae wild grass-group	Poaceae	HERB	192	27.947598
-Mercuri_g1	Ranunculaceae	Ranunculaceae	HERB	16	2.3289665
-Mercuri_g1	Galium-type	Rubiaceae	HERB	2	0.29112082
-Mercuri_g1	Urtica dioica-type	Urtica dioica-type	HERB	23	3.3478894
-Mercuri_g1	Cyperaceae	Cyperaceae	AQUA	9	1.3100437
-Mercuri_g1	cf. Verbascum	Indeterminable: unknown	INUN	3	
-Mercuri_g1	Indeterminable: unknown	Indeterminable: unknown	INUN	3	
-Mercuri_g1	Lycopodium (added)	Lycopodium (added)	NOPO	10679	
-Mercuri_g1	Lycopodium (counted)	Lycopodium (counted)	NOPO	61	
-Mercuri_g1	Sample dry mass (g)	Sample dry mass (g)	NOPO	3	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Mercuri_g1	5	4	5	Alnus	Alnus	TRSH
+Mercuri_g1	7	10	7	Artemisia	Artemisia	HERB
+Mercuri_g1	9	1	9	Asphodelus	Asphodelus	HERB
+Mercuri_g1	1802	11	160	Asteroideae undiff.	Asteraceae subf. Asteroideae	HERB
+Mercuri_g1	18	17	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Mercuri_g1	441	4	19	Castanea	Castanea sativa	TRSH
+Mercuri_g1	1342	11	29	Centaurea nigra-type	Centaurea nigra-type	HERB
+Mercuri_g1	3762	3	177	cf. Verbascum	Indeterminable: unknown	INUN
+Mercuri_g1	447	20	25	Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Mercuri_g1	3868	9	3868	Cyperaceae	Cyperaceae	AQUA
+Mercuri_g1	605	2	93	Galium-type	Rubiaceae	HERB
+Mercuri_g1	4078	3	177	Indeterminable: unknown	Indeterminable: unknown	INUN
+Mercuri_g1	738	6	203	Juniperus-type	Juniperus-type	TRSH
+Mercuri_g1	485	4	59	Labiatae	Lamiaceae	HERB
+Mercuri_g1	477	11	62	Liliaceae undiff.	Liliaceae-type	HERB
+Mercuri_g1	692	10679	692	Lycopodium (added)	Lycopodium (added)	NOPO
+Mercuri_g1	559	61	559	Lycopodium (counted)	Lycopodium (counted)	NOPO
+Mercuri_g1	75	214	75	Pinus	Pinus	TRSH
+Mercuri_g1	81	10	81	Populus	Populus	TRSH
+Mercuri_g1	437	10	86	Quercus deciduous	Quercus robur-type	TRSH
+Mercuri_g1	99	8	99	Salix	Salix	TRSH
+Mercuri_g1	4539	3	4539	Sample dry mass (g)	Sample dry mass (g)	NOPO
+Mercuri_g1	4718	23	453	Urtica dioica-type	Urtica dioica-type	HERB
+Mercuri_g1	24	12	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Mercuri_g1	52	2	52	Helianthemum	Helianthemum	HERB
+Mercuri_g1	57	10	57	Juglans	Juglans	TRSH
+Mercuri_g1	74	5	74	Phillyrea	Phillyrea	TRSH
+Mercuri_g1	135	16	135	Ranunculaceae	Ranunculaceae	HERB
+Mercuri_g1	154	1	154	Ulmus	Ulmus/Zelkova	TRSH
+Mercuri_g1	201	5	31	Corylus	Corylus	TRSH
+Mercuri_g1	563	9	16	Carpinus betulus	Carpinus betulus	TRSH
+Mercuri_g1	759	7	321	Abies alba	Abies	TRSH
+Mercuri_g1	822	10	22	Cerealia undiff.	Cerealia-type	HERB
+Mercuri_g1	3860	24	13	Cruciferae undiff.	Brassicaceae	HERB
+Mercuri_g1	3927	1	3927	Erica	Erica	DWAR
+Mercuri_g1	4019	192	80	Gramineae wild grass-group	Poaceae	HERB
+Mercuri_g1	4711	7	6	Umbelliferae undiff.	Apiaceae	HERB
+Mercuri_g1	92	20	92	Rosaceae	Rosaceae	TRSH

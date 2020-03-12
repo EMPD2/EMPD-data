@@ -1,43 +1,43 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Kunes_a82	Abies	Abies	TRSH	1	0.13140604
-Kunes_a82	Betula nana	Betula nana-type	DWAR	60	7.8843627
-Kunes_a82	Juniperus-type	Juniperus-type	TRSH	2	0.26281209
-Kunes_a82	Larix/Pseudotsuga	Larix/Pseudotsuga	TRSH	34	4.4678055
-Kunes_a82	Picea	Picea	TRSH	2	0.26281209
-Kunes_a82	Pinus cembra-type	Pinus cembra-type	TRSH	189	24.835742
-Kunes_a82	Rosaceae	Rosaceae	TRSH	1	0.13140604
-Kunes_a82	Salix	Salix	TRSH	3	0.39421813
-Kunes_a82	Sorbus/Cotoneaster	Sorbus-type	TRSH	1	0.13140604
-Kunes_a82	Vaccinium-type	Vaccinium-type	DWAR	1	0.13140604
-Kunes_a82	Apiaceae	Apiaceae	HERB	10	1.3140604
-Kunes_a82	Bupleurum-type	Apiaceae	HERB	16	2.1024967
-Kunes_a82	Apiaceae undiff.	Apiaceae	HERB	8	1.0512484
-Kunes_a82	Artemisia	Artemisia	HERB	96	12.61498
-Kunes_a82	Aruncus-type	Aruncus/Spiraea	HERB	1	0.13140604
-Kunes_a82	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB	9	1.1826544
-Kunes_a82	Astragalus-type	Astragalus-type	HERB	2	0.26281209
-Kunes_a82	Caryophyllaceae pro parte	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	9	1.1826544
-Kunes_a82	Cerastium	Cerastium-type	HERB	2	0.26281209
-Kunes_a82	Chenopodiaceae pro parte	Chenopodiaceae/Amaranthaceae	HERB	23	3.022339
-Kunes_a82	Consolida-type	Consolida-type	HERB	1	0.13140604
-Kunes_a82	Gentiana pneumonanthe-type	Gentiana pneumonanthe-type	HERB	1	0.13140604
-Kunes_a82	Gentianella germanica-type	Gentianella campestris-type	HERB	1	0.13140604
-Kunes_a82	Cannabaceae	Humulus/Cannabis	HERB	2	0.26281209
-Kunes_a82	Liliaceae-type	Liliaceae-type	HERB	1	0.13140604
-Kunes_a82	Onobrychis	Onobrychis	HERB	4	0.52562418
-Kunes_a82	Poaceae	Poaceae	HERB	159	20.893561
-Kunes_a82	Polygonum alpinum	Polygonum alpinum	HERB	4	0.52562418
-Kunes_a82	Polygonum bistorta	Polygonum bistorta	HERB	1	0.13140604
-Kunes_a82	Bistorta vivipara	Polygonum viviparum	HERB	3	0.39421813
-Kunes_a82	Potentilla-type	Potentilla-type	HERB	7	0.91984231
-Kunes_a82	Prunella-type	Prunella-type	HERB	9	1.1826544
-Kunes_a82	Ranunculus acris-type	Ranunculus acris-type	HERB	1	0.13140604
-Kunes_a82	Rubiaceae	Rubiaceae	HERB	3	0.39421813
-Kunes_a82	Rumex-type	Rumex/Oxyria	HERB	3	0.39421813
-Kunes_a82	Saussurea-type	Saussurea-type	HERB	3	0.39421813
-Kunes_a82	Senecio-type	Senecio-type	HERB	17	2.2339028
-Kunes_a82	Thalictrum	Thalictrum	HERB	59	7.7529566
-Kunes_a82	Trollius europaeus	Trollius europaeus	HERB	10	1.3140604
-Kunes_a82	Monolete fern spores	Monolete fern spores	VACR	1	0.13140604
-Kunes_a82	Trilete spores undiff.	Trilete spore(s)	VACR	1	0.13140604
-Kunes_a82	Cyperaceae	Cyperaceae	AQUA	114	14.980289
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Kunes_a82	560	1	321	Abies	Abies	TRSH
+Kunes_a82	1107	8	6	Apiaceae undiff.	Apiaceae	HERB
+Kunes_a82	7	96	7	Artemisia	Artemisia	HERB
+Kunes_a82	3575	1	1108	Aruncus-type	Aruncus/Spiraea	HERB
+Kunes_a82	1438	2	10	Astragalus-type	Astragalus-type	HERB
+Kunes_a82	1363	60	127	Betula nana	Betula nana-type	DWAR
+Kunes_a82	2125	3	953	Bistorta vivipara	Polygonum viviparum	HERB
+Kunes_a82	3652	2	205	Cannabaceae	Humulus/Cannabis	HERB
+Kunes_a82	3673	9	18	Caryophyllaceae pro parte	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Kunes_a82	3836	1	1705	Consolida-type	Consolida-type	HERB
+Kunes_a82	3868	114	3868	Cyperaceae	Cyperaceae	AQUA
+Kunes_a82	1067	1	607	Gentiana pneumonanthe-type	Gentiana pneumonanthe-type	HERB
+Kunes_a82	738	2	203	Juniperus-type	Juniperus-type	TRSH
+Kunes_a82	2336	34	123	Larix/Pseudotsuga	Larix/Pseudotsuga	TRSH
+Kunes_a82	719	1	62	Liliaceae-type	Liliaceae-type	HERB
+Kunes_a82	4193	1	146	Monolete fern spores	Monolete fern spores	VACR
+Kunes_a82	619	4	619	Onobrychis	Onobrychis	HERB
+Kunes_a82	126	2	126	Picea	Picea	TRSH
+Kunes_a82	4298	189	124	Pinus cembra-type	Pinus cembra-type	TRSH
+Kunes_a82	80	159	80	Poaceae	Poaceae	HERB
+Kunes_a82	4362	4	4362	Polygonum alpinum	Polygonum alpinum	HERB
+Kunes_a82	1080	9	1080	Prunella-type	Prunella-type	HERB
+Kunes_a82	92	1	92	Rosaceae	Rosaceae	TRSH
+Kunes_a82	93	3	93	Rubiaceae	Rubiaceae	HERB
+Kunes_a82	99	3	99	Salix	Salix	TRSH
+Kunes_a82	2925	3	235	Saussurea-type	Saussurea-type	HERB
+Kunes_a82	1230	17	133	Senecio-type	Senecio-type	HERB
+Kunes_a82	4603	1	107	Sorbus/Cotoneaster	Sorbus-type	TRSH
+Kunes_a82	112	59	112	Thalictrum	Thalictrum	HERB
+Kunes_a82	4694	10	2163	Trollius europaeus	Trollius europaeus	HERB
+Kunes_a82	4730	1	4730	Vaccinium-type	Vaccinium-type	DWAR
+Kunes_a82	6	10	6	Apiaceae	Apiaceae	HERB
+Kunes_a82	21	2	21	Cerastium	Cerastium-type	HERB
+Kunes_a82	625	1	625	Polygonum bistorta	Polygonum bistorta	HERB
+Kunes_a82	626	7	512	Potentilla-type	Potentilla-type	HERB
+Kunes_a82	630	1	87	Ranunculus acris-type	Ranunculus acris-type	HERB
+Kunes_a82	2550	16	6	Bupleurum-type	Apiaceae	HERB
+Kunes_a82	3787	23	24	Chenopodiaceae pro parte	Chenopodiaceae/Amaranthaceae	HERB
+Kunes_a82	3824	9	25	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Kunes_a82	4002	1	608	Gentianella germanica-type	Gentianella campestris-type	HERB
+Kunes_a82	4520	3	94	Rumex-type	Rumex/Oxyria	HERB
+Kunes_a82	4691	1	279	Trilete spores undiff.	Trilete spore(s)	VACR

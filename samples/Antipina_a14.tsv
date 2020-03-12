@@ -1,34 +1,34 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Antipina_a14	Abies	Abies	TRSH	1	0.12180268
-Antipina_a14	Alnus incana	Alnus glutinosa-type	TRSH	3	0.36540804
-Antipina_a14	Betula nana-type	Betula nana-type	DWAR	131	15.956151
-Antipina_a14	Betula alba-type	Betula pubescens-type	TRSH	278	33.861145
-Antipina_a14	Ericaceae	Ericales (tetrad)	DWAR	11	1.3398295
-Antipina_a14	Picea	Picea	TRSH	26	3.1668697
-Antipina_a14	Pinus sibirica	Pinus cembra-type	TRSH	7	0.85261876
-Antipina_a14	Pinus sylvestris	Pinus sylvestris-type	TRSH	273	33.252132
-Antipina_a14	Rosaceae	Rosaceae	TRSH	9	1.0962241
-Antipina_a14	Salix	Salix	TRSH	1	0.12180268
-Antipina_a14	Artemisia	Artemisia	HERB	24	2.9232643
-Antipina_a14	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	2	0.24360536
-Antipina_a14	Cyperaceae	Cyperaceae	HERB	2	0.24360536
-Antipina_a14	Poaceae	Poaceae	HERB	8	0.97442144
-Antipina_a14	Polygonum	Polygonum-type (tricolporate)	HERB	4	0.48721072
-Antipina_a14	Rumex	Rumex/Oxyria	HERB	2	0.24360536
-Antipina_a14	Thalictrum	Thalictrum	HERB	3	0.36540804
-Antipina_a14	Bryales	Bryophyte spores	BRYO	31	3.7758831
-Antipina_a14	Equisetum	Equisetum	VACR	1	0.12180268
-Antipina_a14	Polypodiaceae	Monolete fern spores	VACR	1	0.12180268
-Antipina_a14	Pteridium aquilinum	Pteridium aquilinum	VACR	3	0.36540804
-Antipina_a14	Centropyxis	Centropyxis	ALGA	1	0.12180268
-Antipina_a14	Hydrocharis	Hydrocharis morsus-ranae	AQUA	2	0.24360536
-Antipina_a14	Myriophyllum	Myriophyllum	AQUA	3	0.36540804
-Antipina_a14	Charcoal	Charcoal	CHAR	100	
-Antipina_a14	Varia	Indeterminable: unknown	INUN	2	
-Antipina_a14	Amphitrema	Amphitrema	RHIZ	80	
-Antipina_a14	Arcella	Arcella	RHIZ	58	
-Antipina_a14	Assulina	Assulina	RHIZ	18	
-Antipina_a14	Fungi	Fungi	FUNG	43	
-Antipina_a14	Rhizopoda	Rhizopoda	RHIZ	21	
-Antipina_a14	Sphagnum	Sphagnum	NOPO	98	
-Antipina_a14	Tilletia	Tilletia	FUNG	10	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Antipina_a14	144	98	144	Sphagnum	Sphagnum	BRYO
+Antipina_a14	788	273	125	Pinus sylvestris	Pinus sylvestris-type	TRSH
+Antipina_a14	33	2	33	Cyperaceae	Cyperaceae	HERB
+Antipina_a14	126	26	126	Picea	Picea	TRSH
+Antipina_a14	130	11	130	Ericaceae	Ericales (tetrad)	DWAR
+Antipina_a14	1361	7	124	Pinus sibirica	Pinus cembra-type	TRSH
+Antipina_a14	1236	80	680	Amphitrema	Amphitrema	RHIZ
+Antipina_a14	2106	21	2106	Rhizopoda	Rhizopoda	RHIZ
+Antipina_a14	660	58	308	Arcella	Arcella	RHIZ
+Antipina_a14	1125	100	1125	Charcoal	Charcoal	CHAR
+Antipina_a14	7	24	7	Artemisia	Artemisia	HERB
+Antipina_a14	80	8	80	Poaceae	Poaceae	HERB
+Antipina_a14	1098	2	177	Varia	Indeterminable: unknown	INUN
+Antipina_a14	687	18	687	Assulina	Assulina	RHIZ
+Antipina_a14	672	43	672	Fungi	Fungi	FUNG
+Antipina_a14	24	2	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Antipina_a14	99	1	99	Salix	Salix	TRSH
+Antipina_a14	112	3	112	Thalictrum	Thalictrum	HERB
+Antipina_a14	731	10	731	Tilletia	Tilletia	FUNG
+Antipina_a14	180	3	180	Pteridium aquilinum	Pteridium aquilinum	VACR
+Antipina_a14	504	3	504	Myriophyllum	Myriophyllum	AQUA
+Antipina_a14	727	2	94	Rumex	Rumex/Oxyria	HERB
+Antipina_a14	1604	4	1505	Polygonum	Polygonum-type (tricolporate)	HERB
+Antipina_a14	1827	2	1480	Hydrocharis	Hydrocharis morsus-ranae	AQUA
+Antipina_a14	2116	1	2116	Centropyxis	Centropyxis	ALGA
+Antipina_a14	145	1	145	Equisetum	Equisetum	VACR
+Antipina_a14	146	1	146	Polypodiaceae	Monolete fern spores	VACR
+Antipina_a14	147	31	147	Bryales	Bryophyte spores	BRYO
+Antipina_a14	560	1	321	Abies	Abies	TRSH
+Antipina_a14	1240	278	128	Betula alba-type	Betula pubescens-type	TRSH
+Antipina_a14	2105	131	127	Betula nana-type	Betula nana-type	DWAR
+Antipina_a14	2109	3	155	Alnus incana	Alnus glutinosa-type	TRSH
+Antipina_a14	92	9	92	Rosaceae	Rosaceae	TRSH

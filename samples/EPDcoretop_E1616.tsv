@@ -1,44 +1,44 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-EPDcoretop_E1616	Abies	Abies	TRSH	3	0.19723866
-EPDcoretop_E1616	Alnus	Alnus	TRSH	31	2.0381328
-EPDcoretop_E1616	Betula	Betula	TRSH	928	61.012492
-EPDcoretop_E1616	Calluna	Calluna vulgaris	DWAR	1	0.06574622
-EPDcoretop_E1616	Carpinus	Carpinus betulus	TRSH	1	0.06574622
-EPDcoretop_E1616	Corylus	Corylus	TRSH	10	0.6574622
-EPDcoretop_E1616	Ericaceae sensu lato	Ericales (tetrad)	DWAR	1	0.06574622
-EPDcoretop_E1616	Fagus	Fagus	TRSH	1	0.06574622
-EPDcoretop_E1616	Frangula	Frangula alnus	TRSH	2	0.13149244
-EPDcoretop_E1616	Fraxinus	Fraxinus	TRSH	2	0.13149244
-EPDcoretop_E1616	Picea	Picea	TRSH	140	9.2044707
-EPDcoretop_E1616	Pinus	Pinus	TRSH	174	11.439842
-EPDcoretop_E1616	Quercus	Quercus	TRSH	5	0.3287311
-EPDcoretop_E1616	Rosaceae	Rosaceae	TRSH	2	0.13149244
-EPDcoretop_E1616	Salix	Salix	TRSH	4	0.26298488
-EPDcoretop_E1616	Tilia	Tilia	TRSH	1	0.06574622
-EPDcoretop_E1616	Ulmus	Ulmus/Zelkova	TRSH	1	0.06574622
-EPDcoretop_E1616	Apiaceae	Apiaceae	HERB	4	0.26298488
-EPDcoretop_E1616	Artemisia	Artemisia	HERB	5	0.3287311
-EPDcoretop_E1616	Asteraceae	Asteraceae	HERB	2	0.13149244
-EPDcoretop_E1616	Cichoriaceae	Asteraceae subf. Cichorioideae	HERB	2	0.13149244
-EPDcoretop_E1616	Brassicaceae	Brassicaceae	HERB	2	0.13149244
-EPDcoretop_E1616	Cerealia-type	Cerealia-type	HERB	16	1.0519395
-EPDcoretop_E1616	Chenopodiaceae sensu lato	Chenopodiaceae/Amaranthaceae	HERB	2	0.13149244
-EPDcoretop_E1616	Cyperaceae	Cyperaceae	HERB	7	0.46022354
-EPDcoretop_E1616	Fabaceae	Fabaceae	HERB	1	0.06574622
-EPDcoretop_E1616	Filipendula	Filipendula	HERB	2	0.13149244
-EPDcoretop_E1616	Humulus/Cannabis	Humulus/Cannabis	HERB	1	0.06574622
-EPDcoretop_E1616	Plantago lanceolata	Plantago lanceolata-type	HERB	21	1.3806706
-EPDcoretop_E1616	Plantago major-type	Plantago major	HERB	1	0.06574622
-EPDcoretop_E1616	Poaceae	Poaceae	HERB	96	6.3116371
-EPDcoretop_E1616	Ranunculus-type	Ranunculus-type	HERB	3	0.19723866
-EPDcoretop_E1616	Rumex-type	Rumex/Oxyria	HERB	18	1.183432
-EPDcoretop_E1616	Secale	Secale cereale	HERB	6	0.39447732
-EPDcoretop_E1616	Trifolium-type	Trifolium-type	HERB	3	0.19723866
-EPDcoretop_E1616	Urtica	Urtica	HERB	1	0.06574622
-EPDcoretop_E1616	Monolete spore(s)	Monolete fern spores	VACR	15	0.98619329
-EPDcoretop_E1616	Sphagnum	Sphagnum	BRYO	6	0.39447732
-EPDcoretop_E1616	Caltha-type	Caltha-type	HELO	8	0.52596976
-EPDcoretop_E1616	Batrachium-type	Ranunculus aquatilis-type	AQUA	1	0.06574622
-EPDcoretop_E1616	Typha latifolia-type	Typha latifolia-type	HELO	1	0.06574622
-EPDcoretop_E1616	Varia	Indeterminable: unknown	INUN	6	
-EPDcoretop_E1616	Indeterminata	Indeterminable: unknown	INUN	2	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+EPDcoretop_E1616	1098	6	177	Varia	Indeterminable: unknown	INUN
+EPDcoretop_E1616	1096	2	177	Indeterminata	Indeterminable: unknown	INUN
+EPDcoretop_E1616	5	31	5	Alnus	Alnus	TRSH
+EPDcoretop_E1616	6	4	6	Apiaceae	Apiaceae	HERB
+EPDcoretop_E1616	7	5	7	Artemisia	Artemisia	HERB
+EPDcoretop_E1616	12	928	12	Betula	Betula	TRSH
+EPDcoretop_E1616	13	2	13	Brassicaceae	Brassicaceae	HERB
+EPDcoretop_E1616	16	1	16	Carpinus	Carpinus betulus	TRSH
+EPDcoretop_E1616	33	7	33	Cyperaceae	Cyperaceae	HERB
+EPDcoretop_E1616	41	1	41	Fabaceae	Fabaceae	HERB
+EPDcoretop_E1616	45	2	45	Filipendula	Filipendula	HERB
+EPDcoretop_E1616	60	21	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+EPDcoretop_E1616	75	174	75	Pinus	Pinus	TRSH
+EPDcoretop_E1616	80	96	80	Poaceae	Poaceae	HERB
+EPDcoretop_E1616	99	4	99	Salix	Salix	TRSH
+EPDcoretop_E1616	126	140	126	Picea	Picea	TRSH
+EPDcoretop_E1616	134	2	134	Asteraceae	Asteraceae	HERB
+EPDcoretop_E1616	144	6	144	Sphagnum	Sphagnum	BRYO
+EPDcoretop_E1616	154	1	154	Ulmus	Ulmus/Zelkova	TRSH
+EPDcoretop_E1616	187	1	187	Tilia	Tilia	TRSH
+EPDcoretop_E1616	189	5	189	Quercus	Quercus	TRSH
+EPDcoretop_E1616	190	2	190	Fraxinus	Fraxinus	TRSH
+EPDcoretop_E1616	192	1	42	Fagus	Fagus	TRSH
+EPDcoretop_E1616	201	10	31	Corylus	Corylus	TRSH
+EPDcoretop_E1616	468	2	468	Frangula	Frangula alnus	TRSH
+EPDcoretop_E1616	560	3	321	Abies	Abies	TRSH
+EPDcoretop_E1616	652	1	652	Urtica	Urtica	HERB
+EPDcoretop_E1616	801	6	256	Secale	Secale cereale	HERB
+EPDcoretop_E1616	1065	16	22	Cerealia-type	Cerealia-type	HERB
+EPDcoretop_E1616	1126	2	25	Cichoriaceae	Asteraceae subf. Cichorioideae	HERB
+EPDcoretop_E1616	1144	1	205	Humulus/Cannabis	Humulus/Cannabis	HERB
+EPDcoretop_E1616	1234	1	914	Typha latifolia-type	Typha latifolia-type	AQUA
+EPDcoretop_E1616	1284	3	115	Trifolium-type	Trifolium-type	HERB
+EPDcoretop_E1616	1348	1	79	Plantago major-type	Plantago major	HERB
+EPDcoretop_E1616	1423	8	232	Caltha-type	Caltha-type	HELO
+EPDcoretop_E1616	2429	3	274	Ranunculus-type	Ranunculus-type	HERB
+EPDcoretop_E1616	3645	1	3645	Calluna	Calluna vulgaris	DWAR
+EPDcoretop_E1616	4197	15	146	Monolete spore(s)	Monolete fern spores	VACR
+EPDcoretop_E1616	4520	18	94	Rumex-type	Rumex/Oxyria	HERB
+EPDcoretop_E1616	4813	2	24	Chenopodiaceae sensu lato	Chenopodiaceae/Amaranthaceae	HERB
+EPDcoretop_E1616	4814	1	130	Ericaceae sensu lato	Ericales (tetrad)	DWAR
+EPDcoretop_E1616	4875	1	1182	Batrachium-type	Ranunculus aquatilis-type	AQUA
+EPDcoretop_E1616	92	2	92	Rosaceae	Rosaceae	TRSH

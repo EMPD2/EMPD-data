@@ -1,35 +1,35 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Kunes_a50	Abies	Abies	TRSH	3	0.41841004
-Kunes_a50	Betula	Betula	TRSH	35	4.8814505
-Kunes_a50	Betula nana	Betula nana-type	DWAR	70	9.762901
-Kunes_a50	Juniperus-type	Juniperus-type	TRSH	1	0.13947001
-Kunes_a50	Larix/Pseudotsuga	Larix/Pseudotsuga	TRSH	22	3.0683403
-Kunes_a50	Picea	Picea	TRSH	2	0.27894003
-Kunes_a50	Pinus cembra-type	Pinus cembra-type	TRSH	289	40.306834
-Kunes_a50	Lonicera	Lonicera	LIAN	1	0.13947001
-Kunes_a50	Apiaceae undiff.	Apiaceae	HERB	4	0.55788006
-Kunes_a50	Bupleurum-type	Apiaceae	HERB	1	0.13947001
-Kunes_a50	Artemisia	Artemisia	HERB	70	9.762901
-Kunes_a50	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB	3	0.41841004
-Kunes_a50	Astragalus-type	Astragalus-type	HERB	7	0.9762901
-Kunes_a50	Cerastium	Cerastium-type	HERB	1	0.13947001
-Kunes_a50	Chenopodiaceae pro parte	Chenopodiaceae/Amaranthaceae	HERB	18	2.5104603
-Kunes_a50	Dryas octopetala	Dryas octopetala	HERB	13	1.8131102
-Kunes_a50	Epilobium	Epilobium	HERB	1	0.13947001
-Kunes_a50	Gentiana pneumonanthe-type	Gentiana pneumonanthe-type	HERB	3	0.41841004
-Kunes_a50	Labiatae	Lamiaceae	HERB	3	0.41841004
-Kunes_a50	Onobrychis	Onobrychis	HERB	6	0.83682008
-Kunes_a50	Patrinia	Patrinia	HERB	3	0.41841004
-Kunes_a50	Poaceae	Poaceae	HERB	131	18.270572
-Kunes_a50	Polygonum bistorta	Polygonum bistorta	HERB	1	0.13947001
-Kunes_a50	Bistorta vivipara	Polygonum viviparum	HERB	1	0.13947001
-Kunes_a50	Ranunculus acris-type	Ranunculus acris-type	HERB	2	0.27894003
-Kunes_a50	Rhinanthus-type	Rhinanthus-type	HERB	3	0.41841004
-Kunes_a50	Rubiaceae	Rubiaceae	HERB	1	0.13947001
-Kunes_a50	Rumex-type	Rumex/Oxyria	HERB	3	0.41841004
-Kunes_a50	Saussurea-type	Saussurea-type	HERB	2	0.27894003
-Kunes_a50	Thalictrum	Thalictrum	HERB	14	1.9525802
-Kunes_a50	Dryopteris expansa	Dryopteris dilatata	VACR	1	0.13947001
-Kunes_a50	Monolete fern spores	Monolete fern spores	VACR	1	0.13947001
-Kunes_a50	Selaginella selaginoides	Selaginella selaginoides	VACR	1	0.13947001
-Kunes_a50	Cyperaceae	Cyperaceae	AQUA	194	27.057183
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Kunes_a50	560	3	321	Abies	Abies	TRSH
+Kunes_a50	1107	4	6	Apiaceae undiff.	Apiaceae	HERB
+Kunes_a50	7	70	7	Artemisia	Artemisia	HERB
+Kunes_a50	1438	7	10	Astragalus-type	Astragalus-type	HERB
+Kunes_a50	12	35	12	Betula	Betula	TRSH
+Kunes_a50	1363	70	127	Betula nana	Betula nana-type	DWAR
+Kunes_a50	2125	1	953	Bistorta vivipara	Polygonum viviparum	HERB
+Kunes_a50	2550	1	6	Bupleurum-type	Apiaceae	HERB
+Kunes_a50	21	1	21	Cerastium	Cerastium-type	HERB
+Kunes_a50	3824	3	25	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Kunes_a50	3868	194	3868	Cyperaceae	Cyperaceae	AQUA
+Kunes_a50	3910	13	2123	Dryas octopetala	Dryas octopetala	HERB
+Kunes_a50	3915	1	219	Dryopteris expansa	Dryopteris dilatata	VACR
+Kunes_a50	1067	3	607	Gentiana pneumonanthe-type	Gentiana pneumonanthe-type	HERB
+Kunes_a50	738	1	203	Juniperus-type	Juniperus-type	TRSH
+Kunes_a50	485	3	59	Labiatae	Lamiaceae	HERB
+Kunes_a50	4150	1	4150	Lonicera	Lonicera	LIAN
+Kunes_a50	4193	1	146	Monolete fern spores	Monolete fern spores	VACR
+Kunes_a50	619	6	619	Onobrychis	Onobrychis	HERB
+Kunes_a50	4256	3	4256	Patrinia	Patrinia	HERB
+Kunes_a50	126	2	126	Picea	Picea	TRSH
+Kunes_a50	80	131	80	Poaceae	Poaceae	HERB
+Kunes_a50	625	1	625	Polygonum bistorta	Polygonum bistorta	HERB
+Kunes_a50	630	2	87	Ranunculus acris-type	Ranunculus acris-type	HERB
+Kunes_a50	631	3	631	Rhinanthus-type	Rhinanthus-type	HERB
+Kunes_a50	93	1	93	Rubiaceae	Rubiaceae	HERB
+Kunes_a50	4520	3	94	Rumex-type	Rumex/Oxyria	HERB
+Kunes_a50	874	1	185	Selaginella selaginoides	Selaginella selaginoides	VACR
+Kunes_a50	112	14	112	Thalictrum	Thalictrum	HERB
+Kunes_a50	547	1	547	Epilobium	Epilobium	HERB
+Kunes_a50	2336	22	123	Larix/Pseudotsuga	Larix/Pseudotsuga	TRSH
+Kunes_a50	2925	2	235	Saussurea-type	Saussurea-type	HERB
+Kunes_a50	3787	18	24	Chenopodiaceae pro parte	Chenopodiaceae/Amaranthaceae	HERB
+Kunes_a50	4298	289	124	Pinus cembra-type	Pinus cembra-type	TRSH

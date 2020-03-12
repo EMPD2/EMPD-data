@@ -1,50 +1,50 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Mazier_a14	Abies	Abies	TRSH	9	0.80285459
-Mazier_a14	Acer	Acer campestre-type	TRSH	1	0.089206066
-Mazier_a14	Alnus glutinosa-type	Alnus glutinosa-type	TRSH	6	0.5352364
-Mazier_a14	Alnus viridis	Alnus viridis	TRSH	3	0.2676182
-Mazier_a14	Betula	Betula	TRSH	13	1.1596789
-Mazier_a14	Castanea sativa	Castanea sativa	TRSH	7	0.62444246
-Mazier_a14	Corylus avellana	Corylus	TRSH	6	0.5352364
-Mazier_a14	Empetrum-type	Empetrum/Ledum	DWAR	1	0.089206066
-Mazier_a14	Fagus	Fagus	TRSH	12	1.0704728
-Mazier_a14	Fraxinus excelsior	Fraxinus excelsior-type	TRSH	15	1.338091
-Mazier_a14	Juglans	Juglans	TRSH	2	0.17841213
-Mazier_a14	Juniperus	Juniperus communis-type	TRSH	7	0.62444246
-Mazier_a14	Larix	Larix/Pseudotsuga	TRSH	2	0.17841213
-Mazier_a14	Picea	Picea	TRSH	524	46.743979
-Mazier_a14	Pinus cembra	Pinus cembra-type	TRSH	6	0.5352364
-Mazier_a14	Pinus subg. Pinus	Pinus sylvestris-type	TRSH	47	4.1926851
-Mazier_a14	Quercus	Quercus	TRSH	33	2.9438002
-Mazier_a14	Rubus	Rubus	TRSH	1	0.089206066
-Mazier_a14	Salix	Salix	TRSH	1	0.089206066
-Mazier_a14	Alchemilla-type	Alchemilla	HERB	120	10.704728
-Mazier_a14	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB	4	0.35682426
-Mazier_a14	Cruciferae	Brassicaceae	HERB	1	0.089206066
-Mazier_a14	Carduus	Carduus-type	HERB	1	0.089206066
-Mazier_a14	Carum carvi	Carum carvi	HERB	3	0.2676182
-Mazier_a14	Cerealia	Cerealia-type	HERB	3	0.2676182
-Mazier_a14	Chenopodiaceae-type	Chenopodiaceae/Amaranthaceae	HERB	1	0.089206066
-Mazier_a14	Luzula	Juncaceae	HERB	4	0.35682426
-Mazier_a14	Lotus-type	Lotus-type	HERB	11	0.98126673
-Mazier_a14	Achillea-type	Matricaria-type	HERB	5	0.44603033
-Mazier_a14	Melampyrum	Melampyrum	HERB	2	0.17841213
-Mazier_a14	Mercurialis annua	Mercurialis annua	HERB	1	0.089206066
-Mazier_a14	Scilla-type	Ornithogalum-type	HERB	1	0.089206066
-Mazier_a14	Plantago montana-type	Plantago atrata-type	HERB	3	0.2676182
-Mazier_a14	Plantago lanceolata-type	Plantago lanceolata-type	HERB	7	0.62444246
-Mazier_a14	Plantago media	Plantago media	HERB	2	0.17841213
-Mazier_a14	Gramineae	Poaceae	HERB	202	18.019625
-Mazier_a14	Potentilla-type	Potentilla-type	HERB	24	2.1409456
-Mazier_a14	Ranunculus acris-type	Ranunculus acris-type	HERB	5	0.44603033
-Mazier_a14	Rubiaceae	Rubiaceae	HERB	6	0.5352364
-Mazier_a14	Rumex acetosa-type	Rumex acetosa-type	HERB	4	0.35682426
-Mazier_a14	Rumex acetosella	Rumex acetosella	HERB	1	0.089206066
-Mazier_a14	Sanguisorba minor-type	Sanguisorba minor-type	HERB	1	0.089206066
-Mazier_a14	Swertia perennis	Swertia perennis	HERB	3	0.2676182
-Mazier_a14	Urtica	Urtica	HERB	9	0.80285459
-Mazier_a14	Polystichum-type	Polystichum-type	VACR	1	0.089206066
-Mazier_a14	Cyperaceae	Cyperaceae	AQUA	11	0.98126673
-Mazier_a14	Sparganium angustifolium-type	Sparganium emersum-type	AQUA	1	0.089206066
-Mazier_a14	Picea: stomata	Picea: stomata	MACR	1	
-Mazier_a14	Sporormiella	Sporormiella-type	FUNG	1	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Mazier_a14	560	9	321	Abies	Abies	TRSH
+Mazier_a14	2	1	2	Acer	Acer campestre-type	TRSH
+Mazier_a14	1235	120	1102	Alchemilla-type	Alchemilla/Aphanes	HERB
+Mazier_a14	155	6	155	Alnus glutinosa-type	Alnus glutinosa-type	TRSH
+Mazier_a14	12	13	12	Betula	Betula	TRSH
+Mazier_a14	1118	3	1118	Carum carvi	Carum carvi	HERB
+Mazier_a14	22	3	22	Cerealia	Cerealia-type	HERB
+Mazier_a14	2558	1	24	Chenopodiaceae-type	Chenopodiaceae/Amaranthaceae	HERB
+Mazier_a14	3824	4	25	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Mazier_a14	31	6	31	Corylus avellana	Corylus	TRSH
+Mazier_a14	482	1	13	Cruciferae	Brassicaceae	HERB
+Mazier_a14	3868	11	3868	Cyperaceae	Cyperaceae	AQUA
+Mazier_a14	192	12	42	Fagus	Fagus	TRSH
+Mazier_a14	47	15	47	Fraxinus excelsior	Fraxinus excelsior-type	TRSH
+Mazier_a14	57	2	57	Juglans	Juglans	TRSH
+Mazier_a14	58	7	58	Juniperus	Juniperus communis-type	TRSH
+Mazier_a14	611	11	611	Lotus-type	Lotus-type	HERB
+Mazier_a14	66	1	66	Mercurialis annua	Mercurialis annua	HERB
+Mazier_a14	126	524	126	Picea	Picea	TRSH
+Mazier_a14	4294	1	4294	Picea: stomata	Picea: stomata	MACR
+Mazier_a14	573	6	124	Pinus cembra	Pinus cembra-type	TRSH
+Mazier_a14	4307	47	125	Pinus subg. Pinus	Pinus sylvestris-type	TRSH
+Mazier_a14	1075	7	60	Plantago lanceolata-type	Plantago lanceolata-type	HERB
+Mazier_a14	1169	2	698	Plantago media	Plantago media	HERB
+Mazier_a14	4328	3	1960	Plantago montana-type	Plantago atrata-type	HERB
+Mazier_a14	626	24	512	Potentilla-type	Potentilla-type	HERB
+Mazier_a14	189	33	189	Quercus	Quercus	TRSH
+Mazier_a14	630	5	87	Ranunculus acris-type	Ranunculus acris-type	HERB
+Mazier_a14	96	1	96	Rumex acetosella	Rumex acetosella	HERB
+Mazier_a14	99	1	99	Salix	Salix	TRSH
+Mazier_a14	1055	1	101	Sanguisorba minor-type	Sanguisorba minor-type	HERB
+Mazier_a14	4572	1	1867	Scilla-type	Ornithogalum-type	HERB
+Mazier_a14	4608	1	4608	Sparganium angustifolium-type	Sparganium emersum-type	AQUA
+Mazier_a14	677	1	557	Sporormiella	Sporormiella-type	FUNG
+Mazier_a14	4647	3	2938	Swertia perennis	Swertia perennis	HERB
+Mazier_a14	652	9	652	Urtica	Urtica	HERB
+Mazier_a14	19	7	19	Castanea sativa	Castanea sativa	TRSH
+Mazier_a14	123	2	123	Larix	Larix/Pseudotsuga	TRSH
+Mazier_a14	141	1	141	Rubus	Rubus	TRSH
+Mazier_a14	473	2	473	Melampyrum	Melampyrum	HERB
+Mazier_a14	561	3	129	Alnus viridis	Alnus viridis	TRSH
+Mazier_a14	634	4	95	Rumex acetosa-type	Rumex acetosa-type	HERB
+Mazier_a14	943	5	3	Achillea-type	Matricaria-type	HERB
+Mazier_a14	1601	202	80	Gramineae	Poaceae	HERB
+Mazier_a14	1634	1	1381	Carduus	Carduus-type	HERB
+Mazier_a14	2535	1	1388	Empetrum-type	Empetrum/Ledum	DWAR
+Mazier_a14	4158	4	1750	Luzula	Juncaceae	HERB
+Mazier_a14	4380	1	213	Polystichum-type	Polystichum-type	VACR
+Mazier_a14	93	6	93	Rubiaceae	Rubiaceae	HERB

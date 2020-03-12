@@ -1,17 +1,17 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Lopez_a42	Alnus	Alnus	TRSH	9	4.1666667
-Lopez_a42	Castanea	Castanea sativa	TRSH	1	0.46296296
-Lopez_a42	Erica arborea-type	Erica arborea-type	DWAR	3	1.3888889
-Lopez_a42	Fraxinus	Fraxinus	TRSH	14	6.4814815
-Lopez_a42	Juniperus-type	Juniperus-type	TRSH	1	0.46296296
-Lopez_a42	Pinus sylvestris/nigra-type	Pinus sylvestris-type	TRSH	63	29.166667
-Lopez_a42	Quercus evergreen	Quercus ilex-type	TRSH	13	6.0185185
-Lopez_a42	Quercus deciduous	Quercus robur-type	TRSH	42	19.444444
-Lopez_a42	Cardueae	Asteraceae subf. Carduoideae	HERB	1	0.46296296
-Lopez_a42	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	1	0.46296296
-Lopez_a42	Plantago lanceolata-type	Plantago lanceolata-type	HERB	10	4.6296296
-Lopez_a42	Poaceae undiff.	Poaceae	HERB	54	25
-Lopez_a42	Rumex acetosella-type	Rumex acetosella	HERB	4	1.8518519
-Lopez_a42	Cercophora	Cercophora-type	FUNG	104	
-Lopez_a42	Sordaria	Sordaria-type	NOPO	72	
-Lopez_a42	Sporormiella	Sporormiella-type	FUNG	67	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Lopez_a42	5	9	5	Alnus	Alnus	TRSH
+Lopez_a42	445	1	336	Cardueae	Asteraceae subf. Carduoideae	HERB
+Lopez_a42	441	1	19	Castanea	Castanea sativa	TRSH
+Lopez_a42	2406	104	556	Cercophora	Cercophora-type	FUNG
+Lopez_a42	447	1	25	Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Lopez_a42	3929	3	3928	Erica arborea-type	Erica arborea-type	DWAR
+Lopez_a42	738	1	203	Juniperus-type	Juniperus-type	TRSH
+Lopez_a42	4308	63	125	Pinus sylvestris/nigra-type	Pinus sylvestris-type	TRSH
+Lopez_a42	1075	10	60	Plantago lanceolata-type	Plantago lanceolata-type	HERB
+Lopez_a42	429	54	80	Poaceae undiff.	Poaceae	HERB
+Lopez_a42	437	42	86	Quercus deciduous	Quercus robur-type	TRSH
+Lopez_a42	427	13	85	Quercus evergreen	Quercus ilex-type	TRSH
+Lopez_a42	1398	4	96	Rumex acetosella-type	Rumex acetosella	HERB
+Lopez_a42	4604	72	4604	Sordaria	Sordaria-type	NOPO
+Lopez_a42	677	67	557	Sporormiella	Sporormiella-type	FUNG
+Lopez_a42	190	14	190	Fraxinus	Fraxinus	TRSH

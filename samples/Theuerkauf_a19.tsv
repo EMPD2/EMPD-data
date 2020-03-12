@@ -1,41 +1,41 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Theuerkauf_a19	Acer	Acer campestre-type	TRSH	2	0.13577733
-Theuerkauf_a19	Alnus	Alnus	TRSH	51	3.4623218
-Theuerkauf_a19	Betula pubescens-type	Betula pubescens-type	TRSH	62	4.2090971
-Theuerkauf_a19	Calluna	Calluna vulgaris	DWAR	3	0.20366599
-Theuerkauf_a19	Carpinus	Carpinus betulus	TRSH	1	0.067888663
-Theuerkauf_a19	Corylus	Corylus	TRSH	6	0.40733198
-Theuerkauf_a19	Fagus	Fagus	TRSH	17	1.1541073
-Theuerkauf_a19	Fraxinus	Fraxinus	TRSH	3	0.20366599
-Theuerkauf_a19	Picea	Picea	TRSH	9	0.61099796
-Theuerkauf_a19	Pinus diploxylon	Pinus sylvestris-type	TRSH	170	11.541073
-Theuerkauf_a19	Quercus	Quercus	TRSH	35	2.3761032
-Theuerkauf_a19	Salix	Salix	TRSH	1	0.067888663
-Theuerkauf_a19	Tilia	Tilia	TRSH	3	0.20366599
-Theuerkauf_a19	Ulmus	Ulmus/Zelkova	TRSH	4	0.27155465
-Theuerkauf_a19	Umbelliferae	Apiaceae	HERB	54	3.6659878
-Theuerkauf_a19	Artemisia	Artemisia	HERB	15	1.0183299
-Theuerkauf_a19	Aster-type	Aster-type	HERB	41	2.7834352
-Theuerkauf_a19	Avena/Triticum-group	Avena/Triticum-type	HERB	15	1.0183299
-Theuerkauf_a19	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	9	0.61099796
-Theuerkauf_a19	Centaurea cyanus-type	Centaurea cyanus-type	HERB	3	0.20366599
-Theuerkauf_a19	Secale	Cerealia-type	HERB	95	6.4494229
-Theuerkauf_a19	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	6	0.40733198
-Theuerkauf_a19	Filipendula	Filipendula	HERB	4	0.27155465
-Theuerkauf_a19	Hordeum	Hordeum-type	HERB	36	2.4439919
-Theuerkauf_a19	Anthemis-type	Matricaria-type	HERB	4	0.27155465
-Theuerkauf_a19	Plantago lanceolata	Plantago lanceolata-type	HERB	12	0.81466395
-Theuerkauf_a19	Gramineae	Poaceae	HERB	631	42.837746
-Theuerkauf_a19	Ranunculus acris-type	Ranunculus acris-type	HERB	2	0.13577733
-Theuerkauf_a19	Galium	Rubiaceae	HERB	6	0.40733198
-Theuerkauf_a19	Rumex acetosa-type	Rumex acetosa-type	HERB	28	1.9008826
-Theuerkauf_a19	Rumex acetosa/R. acetosella	Rumex acetosa-type	HERB	29	1.9687712
-Theuerkauf_a19	Rumex acetosella	Rumex acetosella	HERB	1	0.067888663
-Theuerkauf_a19	Sinapis-type	Sinapis-type	HERB	35	2.3761032
-Theuerkauf_a19	Urtica dioica	Urtica dioica	HERB	31	2.1045485
-Theuerkauf_a19	Equisetum	Equisetum	VACR	48	3.2586558
-Theuerkauf_a19	Monolete fern spores (psilate)	Monolete fern spores	VACR	1	0.067888663
-Theuerkauf_a19	Cyperaceae	Cyperaceae	AQUA	76	5.1595384
-Theuerkauf_a19	Sparganium erectum-type	Sparganium erectum	AQUA	23	1.5614392
-Theuerkauf_a19	Typha latifolia-type	Typha latifolia-type	AQUA	23	1.5614392
-Theuerkauf_a19	Indeterminable: unknown	Indeterminable: unknown	INUN	94	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Theuerkauf_a19	2	2	2	Acer	Acer campestre-type	TRSH
+Theuerkauf_a19	5	51	5	Alnus	Alnus	TRSH
+Theuerkauf_a19	589	4	3	Anthemis-type	Matricaria-type	HERB
+Theuerkauf_a19	7	15	7	Artemisia	Artemisia	HERB
+Theuerkauf_a19	597	41	11	Aster-type	Aster-type	HERB
+Theuerkauf_a19	3600	15	818	Avena/Triticum-group	Avena/Triticum-type	HERB
+Theuerkauf_a19	2115	62	128	Betula pubescens-type	Betula pubescens-type	TRSH
+Theuerkauf_a19	3645	3	3645	Calluna	Calluna vulgaris	DWAR
+Theuerkauf_a19	16	1	16	Carpinus	Carpinus betulus	TRSH
+Theuerkauf_a19	18	9	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Theuerkauf_a19	2292	3	462	Centaurea cyanus-type	Centaurea cyanus-type	HERB
+Theuerkauf_a19	24	6	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Theuerkauf_a19	201	6	31	Corylus	Corylus	TRSH
+Theuerkauf_a19	3868	76	3868	Cyperaceae	Cyperaceae	AQUA
+Theuerkauf_a19	145	48	145	Equisetum	Equisetum	VACR
+Theuerkauf_a19	45	4	45	Filipendula	Filipendula	HERB
+Theuerkauf_a19	190	3	190	Fraxinus	Fraxinus	TRSH
+Theuerkauf_a19	1475	6	93	Galium	Rubiaceae	HERB
+Theuerkauf_a19	1601	631	80	Gramineae	Poaceae	HERB
+Theuerkauf_a19	1572	36	258	Hordeum	Hordeum-type	HERB
+Theuerkauf_a19	4078	94	177	Indeterminable: unknown	Indeterminable: unknown	INUN
+Theuerkauf_a19	4194	1	146	Monolete fern spores (psilate)	Monolete fern spores	VACR
+Theuerkauf_a19	126	9	126	Picea	Picea	TRSH
+Theuerkauf_a19	785	170	125	Pinus diploxylon	Pinus sylvestris-type	TRSH
+Theuerkauf_a19	60	12	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+Theuerkauf_a19	189	35	189	Quercus	Quercus	TRSH
+Theuerkauf_a19	630	2	87	Ranunculus acris-type	Ranunculus acris-type	HERB
+Theuerkauf_a19	4505	29	95	Rumex acetosa/R. acetosella	Rumex acetosa-type	HERB
+Theuerkauf_a19	96	1	96	Rumex acetosella	Rumex acetosella	HERB
+Theuerkauf_a19	99	1	99	Salix	Salix	TRSH
+Theuerkauf_a19	104	95	22	Secale	Cerealia-type	HERB
+Theuerkauf_a19	1403	35	246	Sinapis-type	Sinapis-type	HERB
+Theuerkauf_a19	4612	23	4611	Sparganium erectum-type	Sparganium erectum	AQUA
+Theuerkauf_a19	1234	23	914	Typha latifolia-type	Typha latifolia-type	AQUA
+Theuerkauf_a19	117	31	117	Urtica dioica	Urtica dioica	HERB
+Theuerkauf_a19	154	4	154	Ulmus	Ulmus/Zelkova	TRSH
+Theuerkauf_a19	187	3	187	Tilia	Tilia	TRSH
+Theuerkauf_a19	192	17	42	Fagus	Fagus	TRSH
+Theuerkauf_a19	590	54	6	Umbelliferae	Apiaceae	HERB
+Theuerkauf_a19	634	28	95	Rumex acetosa-type	Rumex acetosa-type	HERB

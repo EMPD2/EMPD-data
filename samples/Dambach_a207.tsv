@@ -1,37 +1,37 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Dambach_a207	Abies	Abies	TRSH	8	0.97205346
-Dambach_a207	Acer	Acer campestre-type	TRSH	1	0.12150668
-Dambach_a207	Alnus	Alnus	TRSH	26	3.1591738
-Dambach_a207	Betula	Betula	TRSH	60	7.290401
-Dambach_a207	Carpinus	Carpinus betulus	TRSH	5	0.60753341
-Dambach_a207	Castanea	Castanea sativa	TRSH	3	0.36452005
-Dambach_a207	Corylus	Corylus	TRSH	17	2.0656136
-Dambach_a207	Fagus	Fagus	TRSH	9	1.0935601
-Dambach_a207	Fraxinus	Fraxinus	TRSH	8	0.97205346
-Dambach_a207	Juglans	Juglans	TRSH	2	0.24301337
-Dambach_a207	Picea	Picea	TRSH	126	15.309842
-Dambach_a207	Pinus	Pinus	TRSH	373	45.321993
-Dambach_a207	Quercus	Quercus	TRSH	13	1.5795869
-Dambach_a207	Rosaceae	Rosaceae	TRSH	1	0.12150668
-Dambach_a207	Salix	Salix	TRSH	7	0.85054678
-Dambach_a207	Vaccinium-type	Vaccinium-type	DWAR	11	1.3365735
-Dambach_a207	Umbelliferae	Apiaceae	HERB	4	0.48602673
-Dambach_a207	Artemisia	Artemisia	HERB	3	0.36452005
-Dambach_a207	Asteroideae	Asteraceae subf. Asteroideae	HERB	4	0.48602673
-Dambach_a207	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	1	0.12150668
-Dambach_a207	Brassicaceae	Brassicaceae	HERB	6	0.7290401
-Dambach_a207	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	1	0.12150668
-Dambach_a207	Cerealia-type	Cerealia-type	HERB	31	3.7667072
-Dambach_a207	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	4	0.48602673
-Dambach_a207	Mercurialis	Mercurialis	HERB	1	0.12150668
-Dambach_a207	Plantago lanceolata	Plantago lanceolata-type	HERB	8	0.97205346
-Dambach_a207	Gramineae	Poaceae	HERB	70	8.5054678
-Dambach_a207	Ranunculaceae	Ranunculaceae	HERB	2	0.24301337
-Dambach_a207	Ranunculus-type	Ranunculus-type	HERB	4	0.48602673
-Dambach_a207	Rubiaceae	Rubiaceae	HERB	6	0.7290401
-Dambach_a207	Rumex acetosa-type	Rumex acetosa-type	HERB	4	0.48602673
-Dambach_a207	Scrophularia/Verbascum	Scrophularia-type	HERB	2	0.24301337
-Dambach_a207	Polypodiaceae	Monolete fern spores	VACR	2	0.24301337
-Dambach_a207	Cyperaceae	Cyperaceae	AQUA	8	0.97205346
-Dambach_a207	Indeterminable: unknown	Indeterminable: unknown	INUN	6	
-Dambach_a207	Varia	Indeterminable: unknown	INUN	2	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Dambach_a207	560	8	321	Abies	Abies	TRSH
+Dambach_a207	2	1	2	Acer	Acer campestre-type	TRSH
+Dambach_a207	5	26	5	Alnus	Alnus	TRSH
+Dambach_a207	7	3	7	Artemisia	Artemisia	HERB
+Dambach_a207	761	4	160	Asteroideae	Asteraceae subf. Asteroideae	HERB
+Dambach_a207	12	60	12	Betula	Betula	TRSH
+Dambach_a207	13	6	13	Brassicaceae	Brassicaceae	HERB
+Dambach_a207	16	5	16	Carpinus	Carpinus betulus	TRSH
+Dambach_a207	18	1	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Dambach_a207	441	3	19	Castanea	Castanea sativa	TRSH
+Dambach_a207	1065	31	22	Cerealia-type	Cerealia-type	HERB
+Dambach_a207	24	4	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Dambach_a207	447	1	25	Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Dambach_a207	201	17	31	Corylus	Corylus	TRSH
+Dambach_a207	3868	8	3868	Cyperaceae	Cyperaceae	AQUA
+Dambach_a207	192	9	42	Fagus	Fagus	TRSH
+Dambach_a207	190	8	190	Fraxinus	Fraxinus	TRSH
+Dambach_a207	1601	70	80	Gramineae	Poaceae	HERB
+Dambach_a207	4078	6	177	Indeterminable: unknown	Indeterminable: unknown	INUN
+Dambach_a207	57	2	57	Juglans	Juglans	TRSH
+Dambach_a207	227	1	227	Mercurialis	Mercurialis	HERB
+Dambach_a207	126	126	126	Picea	Picea	TRSH
+Dambach_a207	75	373	75	Pinus	Pinus	TRSH
+Dambach_a207	60	8	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+Dambach_a207	146	2	146	Polypodiaceae	Monolete fern spores	VACR
+Dambach_a207	189	13	189	Quercus	Quercus	TRSH
+Dambach_a207	135	2	135	Ranunculaceae	Ranunculaceae	HERB
+Dambach_a207	2429	4	274	Ranunculus-type	Ranunculus-type	HERB
+Dambach_a207	92	1	92	Rosaceae	Rosaceae	TRSH
+Dambach_a207	93	6	93	Rubiaceae	Rubiaceae	HERB
+Dambach_a207	634	4	95	Rumex acetosa-type	Rumex acetosa-type	HERB
+Dambach_a207	99	7	99	Salix	Salix	TRSH
+Dambach_a207	4579	2	103	Scrophularia/Verbascum	Scrophularia-type	HERB
+Dambach_a207	4730	11	4730	Vaccinium-type	Vaccinium-type	DWAR
+Dambach_a207	1098	2	177	Varia	Indeterminable: unknown	INUN
+Dambach_a207	590	4	6	Umbelliferae	Apiaceae	HERB

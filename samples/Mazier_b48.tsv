@@ -1,35 +1,35 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Mazier_b48	Abies	Abies	TRSH	4	0.61443932
-Mazier_b48	Alnus	Alnus	TRSH	12	1.843318
-Mazier_b48	Betula	Betula	TRSH	6	0.92165899
-Mazier_b48	Buxus	Buxus	TRSH	1	0.15360983
-Mazier_b48	Calluna	Calluna vulgaris	DWAR	36	5.5299539
-Mazier_b48	Castanea	Castanea sativa	TRSH	6	0.92165899
-Mazier_b48	Corylus	Corylus	TRSH	19	2.9185868
-Mazier_b48	Ericaceae	Ericales (tetrad)	DWAR	5	0.76804916
-Mazier_b48	Fagus	Fagus	TRSH	68	10.445469
-Mazier_b48	Fraxinus	Fraxinus	TRSH	2	0.30721966
-Mazier_b48	Olea	Olea europaea	TRSH	9	1.3824885
-Mazier_b48	Pinus	Pinus	TRSH	144	22.119816
-Mazier_b48	Quercus ilex	Quercus ilex-type	TRSH	8	1.2288786
-Mazier_b48	Quercus deciduous	Quercus robur-type	TRSH	65	9.984639
-Mazier_b48	Rosaceae	Rosaceae	TRSH	2	0.30721966
-Mazier_b48	Salix	Salix	TRSH	1	0.15360983
-Mazier_b48	Vaccinium/Rhododendron	Vaccinium-type	DWAR	1	0.15360983
-Mazier_b48	Apiaceae	Apiaceae	HERB	2	0.30721966
-Mazier_b48	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	1	0.15360983
-Mazier_b48	Brassicaceae	Brassicaceae	HERB	9	1.3824885
-Mazier_b48	Cerealia undiff.	Cerealia-type	HERB	1	0.15360983
-Mazier_b48	Secale	Cerealia-type	HERB	1	0.15360983
-Mazier_b48	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	9	1.3824885
-Mazier_b48	Labiatae	Lamiaceae	HERB	1	0.15360983
-Mazier_b48	Plantago	Plantago	HERB	3	0.46082949
-Mazier_b48	Plantago lanceolata	Plantago lanceolata-type	HERB	6	0.92165899
-Mazier_b48	Poaceae	Poaceae	HERB	213	32.718894
-Mazier_b48	Potentilla-type	Potentilla-type	HERB	1	0.15360983
-Mazier_b48	Ranunculaceae	Ranunculaceae	HERB	3	0.46082949
-Mazier_b48	Rubiaceae	Rubiaceae	HERB	9	1.3824885
-Mazier_b48	Rumex	Rumex/Oxyria	HERB	1	0.15360983
-Mazier_b48	Urtica dioica	Urtica dioica	HERB	2	0.30721966
-Mazier_b48	Cyperaceae	Cyperaceae	AQUA	3	0.46082949
-Mazier_b48	Typha latifolia	Typha latifolia	AQUA	1	0.15360983
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Mazier_b48	560	4	321	Abies	Abies	TRSH
+Mazier_b48	5	12	5	Alnus	Alnus	TRSH
+Mazier_b48	6	2	6	Apiaceae	Apiaceae	HERB
+Mazier_b48	13	9	13	Brassicaceae	Brassicaceae	HERB
+Mazier_b48	188	1	188	Buxus	Buxus	TRSH
+Mazier_b48	822	1	22	Cerealia undiff.	Cerealia-type	HERB
+Mazier_b48	24	9	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Mazier_b48	447	1	25	Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Mazier_b48	201	19	31	Corylus	Corylus	TRSH
+Mazier_b48	3868	3	3868	Cyperaceae	Cyperaceae	AQUA
+Mazier_b48	192	68	42	Fagus	Fagus	TRSH
+Mazier_b48	190	2	190	Fraxinus	Fraxinus	TRSH
+Mazier_b48	485	1	59	Labiatae	Lamiaceae	HERB
+Mazier_b48	724	3	270	Plantago	Plantago	HERB
+Mazier_b48	60	6	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+Mazier_b48	80	213	80	Poaceae	Poaceae	HERB
+Mazier_b48	626	1	512	Potentilla-type	Potentilla-type	HERB
+Mazier_b48	437	65	86	Quercus deciduous	Quercus robur-type	TRSH
+Mazier_b48	579	8	85	Quercus ilex	Quercus ilex-type	TRSH
+Mazier_b48	93	9	93	Rubiaceae	Rubiaceae	HERB
+Mazier_b48	727	1	94	Rumex	Rumex/Oxyria	HERB
+Mazier_b48	104	1	22	Secale	Cerealia-type	HERB
+Mazier_b48	1287	1	417	Typha latifolia	Typha latifolia	AQUA
+Mazier_b48	117	2	117	Urtica dioica	Urtica dioica	HERB
+Mazier_b48	4732	1	4730	Vaccinium/Rhododendron	Vaccinium-type	DWAR
+Mazier_b48	12	6	12	Betula	Betula	TRSH
+Mazier_b48	75	144	75	Pinus	Pinus	TRSH
+Mazier_b48	99	1	99	Salix	Salix	TRSH
+Mazier_b48	130	5	130	Ericaceae	Ericales (tetrad)	DWAR
+Mazier_b48	135	3	135	Ranunculaceae	Ranunculaceae	HERB
+Mazier_b48	441	6	19	Castanea	Castanea sativa	TRSH
+Mazier_b48	442	9	68	Olea	Olea europaea	TRSH
+Mazier_b48	3645	36	3645	Calluna	Calluna vulgaris	DWAR
+Mazier_b48	92	2	92	Rosaceae	Rosaceae	TRSH

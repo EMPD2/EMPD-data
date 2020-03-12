@@ -1,47 +1,47 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-EPDcoretop_E1565	Alnus	Alnus	TRSH	11	1.6369048
-EPDcoretop_E1565	Betula	Betula	TRSH	1	0.14880952
-EPDcoretop_E1565	Calluna vulgaris	Calluna vulgaris	DWAR	1	0.14880952
-EPDcoretop_E1565	Castanea	Castanea sativa	TRSH	1	0.14880952
-EPDcoretop_E1565	Cistus	Cistus	TRSH	3	0.44642857
-EPDcoretop_E1565	Erica arborea	Erica arborea-type	TRSH	2	0.29761905
-EPDcoretop_E1565	Fraxinus	Fraxinus	TRSH	3	0.44642857
-EPDcoretop_E1565	Cytisus	Genista-type	TRSH	7	1.0416667
-EPDcoretop_E1565	Ilex aquifolium	Ilex	TRSH	2	0.29761905
-EPDcoretop_E1565	Juglans	Juglans	TRSH	1	0.14880952
-EPDcoretop_E1565	Juniperus	Juniperus communis-type	TRSH	4	0.5952381
-EPDcoretop_E1565	Pinus sylvestris	Pinus sylvestris-type	TRSH	19	2.827381
-EPDcoretop_E1565	Quercus ilex-type	Quercus ilex-type	TRSH	3	0.44642857
-EPDcoretop_E1565	Quercus pyrenaica-type	Quercus robur-type	TRSH	49	7.2916667
-EPDcoretop_E1565	Rosaceae	Rosaceae	TRSH	7	1.0416667
-EPDcoretop_E1565	Taxus	Taxus baccata	TRSH	2	0.29761905
-EPDcoretop_E1565	Allium	Allium-type	HERB	7	1.0416667
-EPDcoretop_E1565	Apiaceae	Apiaceae	HERB	4	0.5952381
-EPDcoretop_E1565	Asphodelus albus	Asphodelus albus-type	HERB	2	0.29761905
-EPDcoretop_E1565	Aster	Aster-type	HERB	5	0.74404762
-EPDcoretop_E1565	Cardueae	Asteraceae subf. Carduoideae	HERB	1	0.14880952
-EPDcoretop_E1565	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	1	0.14880952
-EPDcoretop_E1565	Boraginaceae	Boraginaceae	HERB	2	0.29761905
-EPDcoretop_E1565	Cruciferae	Brassicaceae	HERB	9	1.3392857
-EPDcoretop_E1565	Cerealia	Cerealia-type	HERB	1	0.14880952
-EPDcoretop_E1565	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	11	1.6369048
-EPDcoretop_E1565	Cyperaceae	Cyperaceae	HERB	72	10.714286
-EPDcoretop_E1565	Erodium	Erodium	HERB	1	0.14880952
-EPDcoretop_E1565	Fabaceae	Fabaceae	HERB	11	1.6369048
-EPDcoretop_E1565	Liliaceae	Liliaceae-type	HERB	13	1.9345238
-EPDcoretop_E1565	Plantago lanceolata	Plantago lanceolata-type	HERB	9	1.3392857
-EPDcoretop_E1565	Poaceae	Poaceae	HERB	370	55.059524
-EPDcoretop_E1565	Ranunculaceae	Ranunculaceae	HERB	5	0.74404762
-EPDcoretop_E1565	Rumex acetosa	Rumex acetosa-type	HERB	15	2.2321429
-EPDcoretop_E1565	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	2	0.29761905
-EPDcoretop_E1565	Urtica dioica-type	Urtica dioica-type	HERB	8	1.1904762
-EPDcoretop_E1565	Osmunda regalis-type	Osmunda regalis	VACR	2	0.29761905
-EPDcoretop_E1565	Pteridium aquilinum-type	Pteridium aquilinum	VACR	5	0.74404762
-EPDcoretop_E1565	Spirogyra	Spirogyra	ALGA	16	2.3809524
-EPDcoretop_E1565	Type 181	Type 181	UNPP	17	
-EPDcoretop_E1565	Concentration of spike	Concentration of spike	NOPO	10679	
-EPDcoretop_E1565	Number of spike added	Number of spike added	NOPO	1	
-EPDcoretop_E1565	Quantity of sample	Quantity of sample	NOPO	21	
-EPDcoretop_E1565	Quantity of spike	Quantity of spike	NOPO	1	
-EPDcoretop_E1565	Sordaria	Sordaria-type	FUNG	8	
-EPDcoretop_E1565	Spike	Spike	NOPO	17	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+EPDcoretop_E1565	4817	17	4817	Spike	Spike	NOPO
+EPDcoretop_E1565	3829	10679	3829	Concentration of spike	Concentration of spike	NOPO
+EPDcoretop_E1565	4421	21	1756	Quantity of sample	Quantity of sample	NOPO
+EPDcoretop_E1565	4810	1	4810	Quantity of spike	Quantity of spike	NOPO
+EPDcoretop_E1565	4846	1	4846	Number of spike added	Number of spike added	NOPO
+EPDcoretop_E1565	4847	17	4847	Type 181	Type 181	UNPP
+EPDcoretop_E1565	676	8	555	Sordaria	Sordaria-type	FUNG
+EPDcoretop_E1565	4	7	4	Allium	Allium-type	HERB
+EPDcoretop_E1565	5	11	5	Alnus	Alnus	TRSH
+EPDcoretop_E1565	6	4	6	Apiaceae	Apiaceae	HERB
+EPDcoretop_E1565	12	1	12	Betula	Betula	TRSH
+EPDcoretop_E1565	22	1	22	Cerealia	Cerealia-type	HERB
+EPDcoretop_E1565	24	11	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+EPDcoretop_E1565	27	3	27	Cistus	Cistus	TRSH
+EPDcoretop_E1565	33	72	33	Cyperaceae	Cyperaceae	HERB
+EPDcoretop_E1565	41	11	41	Fabaceae	Fabaceae	HERB
+EPDcoretop_E1565	55	2	55	Ilex aquifolium	Ilex	TRSH
+EPDcoretop_E1565	57	1	57	Juglans	Juglans	TRSH
+EPDcoretop_E1565	58	4	58	Juniperus	Juniperus communis-type	TRSH
+EPDcoretop_E1565	60	9	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+EPDcoretop_E1565	62	13	62	Liliaceae	Liliaceae-type	HERB
+EPDcoretop_E1565	80	370	80	Poaceae	Poaceae	HERB
+EPDcoretop_E1565	95	15	95	Rumex acetosa	Rumex acetosa-type	HERB
+EPDcoretop_E1565	135	5	135	Ranunculaceae	Ranunculaceae	HERB
+EPDcoretop_E1565	162	2	162	Boraginaceae	Boraginaceae	HERB
+EPDcoretop_E1565	173	2	173	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB
+EPDcoretop_E1565	190	3	190	Fraxinus	Fraxinus	TRSH
+EPDcoretop_E1565	198	2	111	Taxus	Taxus baccata	TRSH
+EPDcoretop_E1565	441	1	19	Castanea	Castanea sativa	TRSH
+EPDcoretop_E1565	445	1	336	Cardueae	Asteraceae subf. Carduoideae	HERB
+EPDcoretop_E1565	447	1	25	Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+EPDcoretop_E1565	482	9	13	Cruciferae	Brassicaceae	HERB
+EPDcoretop_E1565	522	1	522	Erodium	Erodium	HERB
+EPDcoretop_E1565	729	16	315	Spirogyra	Spirogyra	ALGA
+EPDcoretop_E1565	788	19	125	Pinus sylvestris	Pinus sylvestris-type	TRSH
+EPDcoretop_E1565	1052	3	85	Quercus ilex-type	Quercus ilex-type	TRSH
+EPDcoretop_E1565	1458	5	11	Aster	Aster-type	HERB
+EPDcoretop_E1565	2026	2	455	Erica arborea	Erica arborea-type	TRSH
+EPDcoretop_E1565	3579	2	487	Asphodelus albus	Asphodelus albus-type	HERB
+EPDcoretop_E1565	3646	1	3645	Calluna vulgaris	Calluna vulgaris	DWAR
+EPDcoretop_E1565	4405	5	180	Pteridium aquilinum-type	Pteridium aquilinum	VACR
+EPDcoretop_E1565	4718	8	453	Urtica dioica-type	Urtica dioica-type	HERB
+EPDcoretop_E1565	4825	49	86	Quercus pyrenaica-type	Quercus robur-type	TRSH
+EPDcoretop_E1565	4848	7	49	Cytisus	Genista-type	TRSH
+EPDcoretop_E1565	4849	2	465	Osmunda regalis-type	Osmunda regalis	VACR
+EPDcoretop_E1565	92	7	92	Rosaceae	Rosaceae	TRSH

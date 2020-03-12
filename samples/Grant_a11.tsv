@@ -1,39 +1,39 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Grant_a11	Alnus glutinosa	Alnus glutinosa-type	TRSH	23	5.0997783
-Grant_a11	Betula	Betula	TRSH	25	5.5432373
-Grant_a11	Calluna vulgaris	Calluna vulgaris	DWAR	8	1.7738359
-Grant_a11	Cornus suecica	Cornus suecica	TRSH	1	0.22172949
-Grant_a11	Corylus avellana-type	Corylus	TRSH	51	11.308204
-Grant_a11	Erica tetralix	Erica tetralix-type	DWAR	2	0.44345898
-Grant_a11	Fagus sylvatica	Fagus	TRSH	38	8.4257206
-Grant_a11	Fraxinus excelsior	Fraxinus excelsior-type	TRSH	20	4.4345898
-Grant_a11	Juglans regia	Juglans regia	TRSH	1	0.22172949
-Grant_a11	Pinus sylvestris	Pinus sylvestris-type	TRSH	60	13.303769
-Grant_a11	Quercus	Quercus	TRSH	42	9.3126386
-Grant_a11	Rosaceae undiff.	Rosa	TRSH	1	0.22172949
-Grant_a11	Salix	Salix	TRSH	1	0.22172949
-Grant_a11	Tilia cordata	Tilia cordata-type	TRSH	1	0.22172949
-Grant_a11	Ulmus	Ulmus/Zelkova	TRSH	3	0.66518847
-Grant_a11	Hedera helix	Hedera	LIAN	1	0.22172949
-Grant_a11	Brassicaceae	Brassicaceae	HERB	2	0.44345898
-Grant_a11	Poaceae (annulus >10 um)	Cerealia-type	HERB	1	0.22172949
-Grant_a11	Filipendula	Filipendula	HERB	4	0.88691796
-Grant_a11	Plantago lanceolata	Plantago lanceolata-type	HERB	5	1.1086475
-Grant_a11	Poaceae undiff.	Poaceae	HERB	124	27.494457
-Grant_a11	Ranunculus acris-type	Ranunculus acris-type	HERB	5	1.1086475
-Grant_a11	Rumex acetosa	Rumex acetosa-type	HERB	4	0.88691796
-Grant_a11	Rumex acetosella	Rumex acetosella	HERB	1	0.22172949
-Grant_a11	Urtica dioica	Urtica dioica	HERB	12	2.6607539
-Grant_a11	Bryophyta	Bryophyte spores	BRYO	3	0.66518847
-Grant_a11	Monolete fern spores undiff.	Monolete fern spores	VACR	8	1.7738359
-Grant_a11	Ophioglossum	Ophioglossum	VACR	1	0.22172949
-Grant_a11	Polypodium	Polypodium	VACR	2	0.44345898
-Grant_a11	Pteridium aquilinum	Pteridium aquilinum	VACR	1	0.22172949
-Grant_a11	Cyperaceae undiff.	Cyperaceae	AQUA	40	8.8691796
-Grant_a11	Indeterminable: broken	Indeterminable: broken	INUN	17	
-Grant_a11	Indeterminable: concealed	Indeterminable: concealed	INUN	1	
-Grant_a11	Indeterminable: corroded	Indeterminable: corroded	INUN	1	
-Grant_a11	Indeterminable: crumpled	Indeterminable: crumpled	INUN	6	
-Grant_a11	Lycopodium (added)	Lycopodium (added)	NOPO	32037	
-Grant_a11	Lycopodium (counted)	Lycopodium (counted)	NOPO	381	
-Grant_a11	Sediment volume used (ml)	Sample volume (ml)	NOPO	4	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Grant_a11	760	23	155	Alnus glutinosa	Alnus glutinosa-type	TRSH
+Grant_a11	12	25	12	Betula	Betula	TRSH
+Grant_a11	13	2	13	Brassicaceae	Brassicaceae	HERB
+Grant_a11	1241	3	147	Bryophyta	Bryophyte spores	BRYO
+Grant_a11	3646	8	3645	Calluna vulgaris	Calluna vulgaris	DWAR
+Grant_a11	3849	51	31	Corylus avellana-type	Corylus	TRSH
+Grant_a11	3873	40	3868	Cyperaceae undiff.	Cyperaceae	AQUA
+Grant_a11	2794	2	2600	Erica tetralix	Erica tetralix-type	DWAR
+Grant_a11	42	38	42	Fagus sylvatica	Fagus	TRSH
+Grant_a11	47	20	47	Fraxinus excelsior	Fraxinus excelsior-type	TRSH
+Grant_a11	4032	1	4031	Hedera helix	Hedera	LIAN
+Grant_a11	4072	17	998	Indeterminable: broken	Indeterminable: broken	INUN
+Grant_a11	4073	1	999	Indeterminable: concealed	Indeterminable: concealed	INUN
+Grant_a11	4074	1	1324	Indeterminable: corroded	Indeterminable: corroded	INUN
+Grant_a11	4075	6	1925	Indeterminable: crumpled	Indeterminable: crumpled	INUN
+Grant_a11	1148	1	194	Juglans regia	Juglans regia	TRSH
+Grant_a11	692	32037	692	Lycopodium (added)	Lycopodium (added)	NOPO
+Grant_a11	559	381	559	Lycopodium (counted)	Lycopodium (counted)	NOPO
+Grant_a11	4195	8	146	Monolete fern spores undiff.	Monolete fern spores	VACR
+Grant_a11	2437	1	2269	Ophioglossum	Ophioglossum	VACR
+Grant_a11	788	60	125	Pinus sylvestris	Pinus sylvestris-type	TRSH
+Grant_a11	60	5	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+Grant_a11	429	124	80	Poaceae undiff.	Poaceae	HERB
+Grant_a11	666	2	214	Polypodium	Polypodium	VACR
+Grant_a11	180	1	180	Pteridium aquilinum	Pteridium aquilinum	VACR
+Grant_a11	189	42	189	Quercus	Quercus	TRSH
+Grant_a11	630	5	87	Ranunculus acris-type	Ranunculus acris-type	HERB
+Grant_a11	472	1	92	Rosaceae undiff.	Rosaceae	TRSH
+Grant_a11	95	4	95	Rumex acetosa	Rumex acetosa-type	HERB
+Grant_a11	96	1	96	Rumex acetosella	Rumex acetosella	HERB
+Grant_a11	99	1	99	Salix	Salix	TRSH
+Grant_a11	4587	4	883	Sediment volume used (ml)	Sample volume (ml)	NOPO
+Grant_a11	1406	1	153	Tilia cordata	Tilia cordata-type	TRSH
+Grant_a11	154	3	154	Ulmus	Ulmus/Zelkova	TRSH
+Grant_a11	117	12	117	Urtica dioica	Urtica dioica	HERB
+Grant_a11	45	4	45	Filipendula	Filipendula	HERB
+Grant_a11	3843	1	2607	Cornus suecica	Cornus suecica	TRSH
+Grant_a11	4340	1	22	Poaceae (annulus >10 um)	Cerealia-type	HERB

@@ -1,37 +1,37 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Bunting_c9	Abies	Abies	TRSH	4	0.53333333
-Bunting_c9	Acer	Acer campestre-type	TRSH	1	0.13333333
-Bunting_c9	Alnus	Alnus	TRSH	6	0.8
-Bunting_c9	Betula	Betula	TRSH	85	11.333333
-Bunting_c9	Calluna	Calluna vulgaris	TRSH	29	3.8666667
-Bunting_c9	Corylus type	Corylus	TRSH	10	1.3333333
-Bunting_c9	Fagus	Fagus	TRSH	2	0.26666667
-Bunting_c9	Fraxinus	Fraxinus	TRSH	6	0.8
-Bunting_c9	Myrica type	Myrica	TRSH	246	32.8
-Bunting_c9	Picea	Picea	TRSH	1	0.13333333
-Bunting_c9	Pinus sylvestris	Pinus sylvestris-type	TRSH	116	15.466667
-Bunting_c9	Quercus	Quercus	TRSH	12	1.6
-Bunting_c9	cf. Sorbus acuparia	Rosaceae (non-operculate)	TRSH	3	0.4
-Bunting_c9	Salix	Salix	TRSH	10	1.3333333
-Bunting_c9	Ulmus	Ulmus/Zelkova	TRSH	3	0.4
-Bunting_c9	Apiaceae	Apiaceae	HERB	1	0.13333333
-Bunting_c9	Artemisia type	Artemisia	HERB	2	0.26666667
-Bunting_c9	Centaurea nigra	Centaurea nigra-type	HERB	1	0.13333333
-Bunting_c9	Cereal type	Cerealia-type	HERB	4	0.53333333
-Bunting_c9	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.13333333
-Bunting_c9	Cyperaceae	Cyperaceae	HERB	36	4.8
-Bunting_c9	Plantago lanceolata	Plantago lanceolata-type	HERB	2	0.26666667
-Bunting_c9	Poaceae	Poaceae	HERB	142	18.933333
-Bunting_c9	Potentilla type	Potentilla-type	HERB	3	0.4
-Bunting_c9	Ranunculus type	Ranunculus-type	HERB	1	0.13333333
-Bunting_c9	Rumex undif.	Rumex/Oxyria	HERB	9	1.2
-Bunting_c9	Talictrum	Thalictrum	HERB	1	0.13333333
-Bunting_c9	Urtica dioica	Urtica dioica	HERB	9	1.2
-Bunting_c9	Equisetum	Equisetum	VACR	1	0.13333333
-Bunting_c9	Pteropsida (monolete) indet.	Monolete fern spores	VACR	3	0.4
-Bunting_c9	Indet: broken	Indeterminable: broken	INUN	1	
-Bunting_c9	Exotic	Exotics (counted)	NOPO	417	
-Bunting_c9	exotic per tablet	Number of exotics per tablet	NOPO	10793	
-Bunting_c9	sediment volume (cm^3)	Sediment volume	NOPO	1	
-Bunting_c9	Sphagnum	Sphagnum	NOPO	41	
-Bunting_c9	number of exotic tablets	Tablets (added)	NOPO	2	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Bunting_c9	971	417	881	Exotic	Exotics (counted)	NOPO
+Bunting_c9	972	1	972	sediment volume (cm^3)	Sediment volume	NOPO
+Bunting_c9	973	2	973	number of exotic tablets	Tablets (added)	NOPO
+Bunting_c9	974	10793	974	exotic per tablet	Number of exotics per tablet	NOPO
+Bunting_c9	2	1	2	Acer	Acer campestre-type	TRSH
+Bunting_c9	60	2	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+Bunting_c9	99	10	99	Salix	Salix	TRSH
+Bunting_c9	190	6	190	Fraxinus	Fraxinus	TRSH
+Bunting_c9	581	29	457	Calluna	Calluna vulgaris	TRSH
+Bunting_c9	976	2	7	Artemisia type	Artemisia	HERB
+Bunting_c9	5	6	5	Alnus	Alnus	TRSH
+Bunting_c9	33	36	33	Cyperaceae	Cyperaceae	HERB
+Bunting_c9	80	142	80	Poaceae	Poaceae	HERB
+Bunting_c9	154	3	154	Ulmus	Ulmus/Zelkova	TRSH
+Bunting_c9	189	12	189	Quercus	Quercus	TRSH
+Bunting_c9	192	2	42	Fagus	Fagus	TRSH
+Bunting_c9	6	1	6	Apiaceae	Apiaceae	HERB
+Bunting_c9	12	85	12	Betula	Betula	TRSH
+Bunting_c9	24	1	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Bunting_c9	126	1	126	Picea	Picea	TRSH
+Bunting_c9	560	4	321	Abies	Abies	TRSH
+Bunting_c9	980	9	94	Rumex undif.	Rumex/Oxyria	HERB
+Bunting_c9	981	10	31	Corylus type	Corylus	TRSH
+Bunting_c9	982	4	22	Cereal type	Cerealia-type	HERB
+Bunting_c9	998	1	998	Indet: broken	Indeterminable: broken	INUN
+Bunting_c9	117	9	117	Urtica dioica	Urtica dioica	HERB
+Bunting_c9	144	41	144	Sphagnum	Sphagnum	BRYO
+Bunting_c9	145	1	145	Equisetum	Equisetum	VACR
+Bunting_c9	967	3	146	Pteropsida (monolete) indet.	Monolete fern spores	VACR
+Bunting_c9	988	1	112	Talictrum	Thalictrum	HERB
+Bunting_c9	699	3	512	Potentilla type	Potentilla-type	HERB
+Bunting_c9	788	116	125	Pinus sylvestris	Pinus sylvestris-type	TRSH
+Bunting_c9	977	246	977	Myrica type	Myrica	TRSH
+Bunting_c9	979	1	274	Ranunculus type	Ranunculus-type	HERB
+Bunting_c9	990	3	490	cf. Sorbus acuparia	Rosaceae (non-operculate)	TRSH
+Bunting_c9	997	1	29	Centaurea nigra	Centaurea nigra-type	HERB

@@ -1,46 +1,46 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-EPDcoretop_E2551	Alnus	Alnus	TRSH	14	2.4390244
-EPDcoretop_E2551	Betula	Betula	TRSH	140	24.390244
-EPDcoretop_E2551	Calluna vulgaris	Calluna vulgaris	DWAR	3	0.52264808
-EPDcoretop_E2551	Corylus avellana	Corylus	TRSH	2	0.34843206
-EPDcoretop_E2551	Juniperus communis	Juniperus communis-type	TRSH	28	4.8780488
-EPDcoretop_E2551	Picea abies	Picea abies-type	TRSH	39	6.7944251
-EPDcoretop_E2551	Pinus sylvestris	Pinus sylvestris-type	TRSH	267	46.515679
-EPDcoretop_E2551	Quercus	Quercus	TRSH	3	0.52264808
-EPDcoretop_E2551	Salix	Salix	TRSH	5	0.87108014
-EPDcoretop_E2551	Ulmus	Ulmus/Zelkova	TRSH	1	0.17421603
-EPDcoretop_E2551	Vaccinium-type	Vaccinium-type	DWAR	1	0.17421603
-EPDcoretop_E2551	Artemisia	Artemisia	HERB	2	0.34843206
-EPDcoretop_E2551	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB	1	0.17421603
-EPDcoretop_E2551	Cyperaceae undiff.	Cyperaceae	HERB	1	0.17421603
-EPDcoretop_E2551	Filipendula	Filipendula	HERB	1	0.17421603
-EPDcoretop_E2551	Lotus cf. L. corniculatus	Lotus-type	HERB	1	0.17421603
-EPDcoretop_E2551	Achillea-type	Matricaria-type	HERB	1	0.17421603
-EPDcoretop_E2551	Melampyrum	Melampyrum	HERB	2	0.34843206
-EPDcoretop_E2551	Gramineae undiff.	Poaceae	HERB	17	2.9616725
-EPDcoretop_E2551	Potentilla-type	Potentilla-type	HERB	1	0.17421603
-EPDcoretop_E2551	Rumex acetosa	Rumex acetosa-type	HERB	1	0.17421603
-EPDcoretop_E2551	Solidago-type	Senecio-type	HERB	1	0.17421603
-EPDcoretop_E2551	Urtica	Urtica	HERB	5	0.87108014
-EPDcoretop_E2551	Dryopteris-type	Dryopteris-type	VACR	17	2.9616725
-EPDcoretop_E2551	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR	5	0.87108014
-EPDcoretop_E2551	Lycopodium annotinum	Lycopodium annotinum-type	VACR	4	0.69686411
-EPDcoretop_E2551	Phegopteris connectilis	Phegopteris connectilis	VACR	1	0.17421603
-EPDcoretop_E2551	Pteridium aquilinum	Pteridium aquilinum	VACR	2	0.34843206
-EPDcoretop_E2551	Selaginella selaginoides	Selaginella selaginoides	VACR	2	0.34843206
-EPDcoretop_E2551	Sphagnum	Sphagnum	BRYO	6	1.0452962
-EPDcoretop_E2551	Botryococcus	Botryococcus	ALGA	8	1.3937282
-EPDcoretop_E2551	Carex-type	Carex	HELO	7	1.2195122
-EPDcoretop_E2551	Nuphar	Nuphar	AQUA	1	0.17421603
-EPDcoretop_E2551	Pediastrum	Pediastrum	ALGA	21	3.6585366
-EPDcoretop_E2551	Charcoal	Charcoal	CHAR	51	
-EPDcoretop_E2551	Indeterminable: broken	Indeterminable: broken	INUN	2	
-EPDcoretop_E2551	Indeterminable: corroded	Indeterminable: corroded	INUN	4	
-EPDcoretop_E2551	Indeterminable: crumpled	Indeterminable: crumpled	INUN	1	
-EPDcoretop_E2551	Eucalyptus (grains/g of tablet)	Eucalyptus (grains/g of tablet)	NOPO	182	
-EPDcoretop_E2551	Eucalyptus (spike)	Eucalyptus spike (counted)	NOPO	413	
-EPDcoretop_E2551	Eucalyptus tablets	Eucalyptus tablets	NOPO	271	
-EPDcoretop_E2551	Nymphaeaceae: base cells	Nymphaeaceae: base cells	VEMI	12	
-EPDcoretop_E2551	Nymphaeaceae: trichoblasts	Nymphaeaceae: trichoblasts	VEMI	2	
-EPDcoretop_E2551	Pinus: stomata	Pinus: stomata	VEMI	5	
-EPDcoretop_E2551	Sample volume (ml)	Sample volume (ml)	NOPO	1	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+EPDcoretop_E2551	4072	2	998	Indeterminable: broken	Indeterminable: broken	INUN
+EPDcoretop_E2551	4074	4	1324	Indeterminable: corroded	Indeterminable: corroded	INUN
+EPDcoretop_E2551	1125	51	1125	Charcoal	Charcoal	CHAR
+EPDcoretop_E2551	4075	1	1925	Indeterminable: crumpled	Indeterminable: crumpled	INUN
+EPDcoretop_E2551	2359	5	1597	Pinus: stomata	Pinus: stomata	VEMI
+EPDcoretop_E2551	4542	1	883	Sample volume (ml)	Sample volume (ml)	NOPO
+EPDcoretop_E2551	5111	2	5111	Nymphaeaceae: trichoblasts	Nymphaeaceae: trichoblasts	VEMI
+EPDcoretop_E2551	5112	12	1593	Nymphaeaceae: base cells	Nymphaeaceae: base cells	VEMI
+EPDcoretop_E2551	5106	271	5106	Eucalyptus tablets	Eucalyptus tablets	NOPO
+EPDcoretop_E2551	5107	182	5107	Eucalyptus (grains/g of tablet)	Eucalyptus (grains/g of tablet)	NOPO
+EPDcoretop_E2551	5108	413	2741	Eucalyptus (spike)	Eucalyptus spike (counted)	NOPO
+EPDcoretop_E2551	5	14	5	Alnus	Alnus	TRSH
+EPDcoretop_E2551	7	2	7	Artemisia	Artemisia	HERB
+EPDcoretop_E2551	12	140	12	Betula	Betula	TRSH
+EPDcoretop_E2551	31	2	31	Corylus avellana	Corylus	TRSH
+EPDcoretop_E2551	45	1	45	Filipendula	Filipendula	HERB
+EPDcoretop_E2551	95	1	95	Rumex acetosa	Rumex acetosa-type	HERB
+EPDcoretop_E2551	99	5	99	Salix	Salix	TRSH
+EPDcoretop_E2551	144	6	144	Sphagnum	Sphagnum	BRYO
+EPDcoretop_E2551	154	1	154	Ulmus	Ulmus/Zelkova	TRSH
+EPDcoretop_E2551	180	2	180	Pteridium aquilinum	Pteridium aquilinum	VACR
+EPDcoretop_E2551	189	3	189	Quercus	Quercus	TRSH
+EPDcoretop_E2551	473	2	473	Melampyrum	Melampyrum	HERB
+EPDcoretop_E2551	626	1	512	Potentilla-type	Potentilla-type	HERB
+EPDcoretop_E2551	652	5	652	Urtica	Urtica	HERB
+EPDcoretop_E2551	662	21	662	Pediastrum	Pediastrum	ALGA
+EPDcoretop_E2551	663	8	663	Botryococcus	Botryococcus	ALGA
+EPDcoretop_E2551	783	39	783	Picea abies	Picea abies-type	TRSH
+EPDcoretop_E2551	788	267	125	Pinus sylvestris	Pinus sylvestris-type	TRSH
+EPDcoretop_E2551	874	2	185	Selaginella selaginoides	Selaginella selaginoides	VACR
+EPDcoretop_E2551	941	28	58	Juniperus communis	Juniperus communis-type	TRSH
+EPDcoretop_E2551	943	1	3	Achillea-type	Matricaria-type	HERB
+EPDcoretop_E2551	965	4	183	Lycopodium annotinum	Lycopodium annotinum-type	VACR
+EPDcoretop_E2551	1131	1	33	Cyperaceae undiff.	Cyperaceae	HERB
+EPDcoretop_E2551	1247	17	772	Dryopteris-type	Dryopteris-type	VACR
+EPDcoretop_E2551	1495	1	1495	Nuphar	Nuphar	AQUA
+EPDcoretop_E2551	2121	5	1320	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR
+EPDcoretop_E2551	2428	1	133	Solidago-type	Senecio-type	HERB
+EPDcoretop_E2551	3646	3	3645	Calluna vulgaris	Calluna vulgaris	DWAR
+EPDcoretop_E2551	3824	1	25	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+EPDcoretop_E2551	4018	17	80	Gramineae undiff.	Poaceae	HERB
+EPDcoretop_E2551	4155	1	611	Lotus cf. L. corniculatus	Lotus-type	HERB
+EPDcoretop_E2551	4730	1	4730	Vaccinium-type	Vaccinium-type	DWAR
+EPDcoretop_E2551	4963	7	1301	Carex-type	Carex	HELO
+EPDcoretop_E2551	5110	1	1541	Phegopteris connectilis	Phegopteris connectilis	VACR

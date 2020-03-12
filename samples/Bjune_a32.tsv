@@ -1,47 +1,47 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Bjune_a32	Alnus	Alnus	TRSH	23	3.0789826
-Bjune_a32	Betula	Betula	TRSH	215	28.781794
-Bjune_a32	Betula/Corylus/Myrica	Betula/Corylus/Myrica	TRSH	2	0.26773762
-Bjune_a32	Calluna vulgaris	Calluna vulgaris	DWAR	2	0.26773762
-Bjune_a32	Corylus avellana	Corylus	TRSH	1	0.13386881
-Bjune_a32	Corylus/Myrica	Corylus/Myrica	TRSH	2	0.26773762
-Bjune_a32	Empetrum nigrum	Empetrum nigrum	DWAR	3	0.40160643
-Bjune_a32	Ericaceae-type	Ericales (tetrad)	DWAR	8	1.0709505
-Bjune_a32	Juniperus communis	Juniperus communis-type	TRSH	45	6.0240964
-Bjune_a32	Picea	Picea	TRSH	182	24.364123
-Bjune_a32	Pinus sylvestris	Pinus sylvestris-type	TRSH	94	12.583668
-Bjune_a32	Rosaceae undiff.	Rosa	TRSH	2	0.26773762
-Bjune_a32	Salix undiff.	Salix	TRSH	4	0.53547523
-Bjune_a32	Vaccinium-type	Vaccinium-type	DWAR	2	0.26773762
-Bjune_a32	Anemone nemorosa-type/Hepatica nobilis	Anemone nemorosa-type	HERB	1	0.13386881
-Bjune_a32	Artemisia	Artemisia	HERB	1	0.13386881
-Bjune_a32	Cirsium/Carduus	Asteraceae subf. Carduoideae	HERB	1	0.13386881
-Bjune_a32	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB	1	0.13386881
-Bjune_a32	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.13386881
-Bjune_a32	Geranium sylvaticum-type	Geranium pratense-type	HERB	1	0.13386881
-Bjune_a32	Melampyrum	Melampyrum	HERB	2	0.26773762
-Bjune_a32	Plantago lanceolata	Plantago lanceolata-type	HERB	1	0.13386881
-Bjune_a32	Plantago major/P. media	Plantago major/P. media-type	HERB	1	0.13386881
-Bjune_a32	Gramineae undiff.	Poaceae	HERB	30	4.0160643
-Bjune_a32	Potentilla-type	Potentilla-type	HERB	2	0.26773762
-Bjune_a32	Ranunculaceae undiff.	Ranunculaceae	HERB	1	0.13386881
-Bjune_a32	Rumex acetosa	Rumex acetosa-type	HERB	3	0.40160643
-Bjune_a32	Rumex acetosa-type/R. acetosella-type	Rumex acetosa-type	HERB	5	0.66934404
-Bjune_a32	Solidago-type	Senecio-type	HERB	7	0.93708166
-Bjune_a32	Sinapis-type	Sinapis-type	HERB	1	0.13386881
-Bjune_a32	Dryopteris-type	Dryopteris-type	VACR	62	8.2998661
-Bjune_a32	Equisetum	Equisetum	VACR	1	0.13386881
-Bjune_a32	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR	9	1.2048193
-Bjune_a32	Lycopodium annotinum	Lycopodium annotinum-type	VACR	6	0.80321285
-Bjune_a32	Thelypteris phegopteris	Phegopteris connectilis	VACR	1	0.13386881
-Bjune_a32	Pteridium aquilinum	Pteridium aquilinum	VACR	1	0.13386881
-Bjune_a32	Selaginella selaginoides	Selaginella selaginoides	VACR	1	0.13386881
-Bjune_a32	Sphagnum	Sphagnum	BRYO	22	2.9451138
-Bjune_a32	Botryococcus	Botryococcus	ALGA	31	4.1499331
-Bjune_a32	Carex-type	Carex	AQUA	31	4.1499331
-Bjune_a32	Cyperaceae undiff.	Cyperaceae	AQUA	4	0.53547523
-Bjune_a32	Pediastrum	Pediastrum	ALGA	44	5.8902276
-Bjune_a32	Potamogeton sect. Eupotamogeton	Potamogeton natans-type	AQUA	2	0.26773762
-Bjune_a32	Indeterminable: corroded	Indeterminable: corroded	INUN	8	
-Bjune_a32	Indeterminable: degraded	Indeterminable: degraded	INUN	1	
-Bjune_a32	Unknown	Indeterminable: unknown	INUN	1	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Bjune_a32	5	23	5	Alnus	Alnus	TRSH
+Bjune_a32	3538	1	588	Anemone nemorosa-type/Hepatica nobilis	Anemone nemorosa-type	HERB
+Bjune_a32	12	215	12	Betula	Betula	TRSH
+Bjune_a32	663	31	663	Botryococcus	Botryococcus	ALGA
+Bjune_a32	3646	2	3645	Calluna vulgaris	Calluna vulgaris	DWAR
+Bjune_a32	3665	31	3663	Carex-type	Carex	AQUA
+Bjune_a32	24	1	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Bjune_a32	1383	1	336	Cirsium/Carduus	Asteraceae subf. Carduoideae	HERB
+Bjune_a32	3824	1	25	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Bjune_a32	31	1	31	Corylus avellana	Corylus	TRSH
+Bjune_a32	3852	2	3847	Corylus/Myrica	Corylus/Myrica	TRSH
+Bjune_a32	3873	4	3868	Cyperaceae undiff.	Cyperaceae	AQUA
+Bjune_a32	1247	62	772	Dryopteris-type	Dryopteris-type	VACR
+Bjune_a32	939	3	739	Empetrum nigrum	Empetrum nigrum	DWAR
+Bjune_a32	145	1	145	Equisetum	Equisetum	VACR
+Bjune_a32	3944	8	130	Ericaceae-type	Ericales (tetrad)	DWAR
+Bjune_a32	4018	30	80	Gramineae undiff.	Poaceae	HERB
+Bjune_a32	2121	9	1320	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR
+Bjune_a32	4074	8	1324	Indeterminable: corroded	Indeterminable: corroded	INUN
+Bjune_a32	718	1	718	Indeterminable: degraded	Indeterminable: degraded	INUN
+Bjune_a32	941	45	58	Juniperus communis	Juniperus communis-type	TRSH
+Bjune_a32	473	2	473	Melampyrum	Melampyrum	HERB
+Bjune_a32	126	182	126	Picea	Picea	TRSH
+Bjune_a32	4384	2	912	Potamogeton sect. Eupotamogeton	Potamogeton natans-type	AQUA
+Bjune_a32	626	2	512	Potentilla-type	Potentilla-type	HERB
+Bjune_a32	180	1	180	Pteridium aquilinum	Pteridium aquilinum	VACR
+Bjune_a32	1180	1	135	Ranunculaceae undiff.	Ranunculaceae	HERB
+Bjune_a32	472	2	92	Rosaceae undiff.	Rosaceae	TRSH
+Bjune_a32	4504	5	95	Rumex acetosa-type/R. acetosella-type	Rumex acetosa-type	HERB
+Bjune_a32	1400	4	99	Salix undiff.	Salix	TRSH
+Bjune_a32	874	1	185	Selaginella selaginoides	Selaginella selaginoides	VACR
+Bjune_a32	1403	1	246	Sinapis-type	Sinapis-type	HERB
+Bjune_a32	2428	7	133	Solidago-type	Senecio-type	HERB
+Bjune_a32	144	22	144	Sphagnum	Sphagnum	BRYO
+Bjune_a32	4660	1	1541	Thelypteris phegopteris	Phegopteris connectilis	VACR
+Bjune_a32	969	1	177	Unknown	Indeterminable: unknown	INUN
+Bjune_a32	4730	2	4730	Vaccinium-type	Vaccinium-type	DWAR
+Bjune_a32	7	1	7	Artemisia	Artemisia	HERB
+Bjune_a32	60	1	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+Bjune_a32	95	3	95	Rumex acetosa	Rumex acetosa-type	HERB
+Bjune_a32	662	44	662	Pediastrum	Pediastrum	ALGA
+Bjune_a32	788	94	125	Pinus sylvestris	Pinus sylvestris-type	TRSH
+Bjune_a32	965	6	183	Lycopodium annotinum	Lycopodium annotinum-type	VACR
+Bjune_a32	3619	2	3619	Betula/Corylus/Myrica	Betula/Corylus/Myrica	TRSH
+Bjune_a32	4004	1	4004	Geranium sylvaticum-type	Geranium pratense-type	HERB
+Bjune_a32	4323	1	458	Plantago major/P. media	Plantago major/P. media-type	HERB

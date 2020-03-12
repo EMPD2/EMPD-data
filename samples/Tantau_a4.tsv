@@ -1,36 +1,36 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Tantau_a4	Abies	Abies	TRSH	1	0.21097046
-Tantau_a4	Alnus glutinosa	Alnus glutinosa-type	TRSH	120	25.316456
-Tantau_a4	Betula	Betula	TRSH	65	13.71308
-Tantau_a4	Carpinus betulus	Carpinus betulus	TRSH	17	3.5864979
-Tantau_a4	Corylus	Corylus	TRSH	17	3.5864979
-Tantau_a4	Fagus sylvatica	Fagus	TRSH	59	12.447257
-Tantau_a4	Hedera	Hedera	TRSH	1	0.21097046
-Tantau_a4	Juglans	Juglans	TRSH	1	0.21097046
-Tantau_a4	Picea	Picea	TRSH	5	1.0548523
-Tantau_a4	Pinus	Pinus	TRSH	15	3.164557
-Tantau_a4	Quercus	Quercus	TRSH	26	5.4852321
-Tantau_a4	Rosaceae	Rosaceae	TRSH	1	0.21097046
-Tantau_a4	Ulmus	Ulmus/Zelkova	TRSH	2	0.42194093
-Tantau_a4	Vitis	Vitis	TRSH	1	0.21097046
-Tantau_a4	Apiaceae	Apiaceae	HERB	1	0.21097046
-Tantau_a4	Artemisia	Artemisia	HERB	1	0.21097046
-Tantau_a4	Asteroideae	Asteraceae subf. Asteroideae	HERB	13	2.742616
-Tantau_a4	Boraginaceae	Boraginaceae	HERB	2	0.42194093
-Tantau_a4	Cerealia	Cerealia-type	HERB	56	11.814346
-Tantau_a4	Comandra elegans	Comandra elegans	HERB	1	0.21097046
-Tantau_a4	Euphorbiaceae	Euphorbiaceae	HERB	3	0.63291139
-Tantau_a4	Fabaceae	Fabaceae	HERB	5	1.0548523
-Tantau_a4	Cannabis type	Humulus/Cannabis	HERB	2	0.42194093
-Tantau_a4	Plantago lanceolata	Plantago lanceolata-type	HERB	5	1.0548523
-Tantau_a4	Plantago major type	Plantago major	HERB	1	0.21097046
-Tantau_a4	Poaceae	Poaceae	HERB	27	5.6962025
-Tantau_a4	Ranunculaceae	Ranunculaceae	HERB	2	0.42194093
-Tantau_a4	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	11	2.3206751
-Tantau_a4	Secale cereale	Secale cereale	HERB	5	1.0548523
-Tantau_a4	Solanaceae type	Solanaceae	HERB	4	0.84388186
-Tantau_a4	Verbascum type	Verbascum	HERB	1	0.21097046
-Tantau_a4	Monolete spores	Monolete fern spores	VACR	1	0.21097046
-Tantau_a4	Trilete spores	Trilete spore(s)	VACR	2	0.42194093
-Tantau_a4	Typha/Sparganium	Typha/Sparganium	AQUA	2	0.42194093
-Tantau_a4	Sphagnum	Sphagnum	NOPO	120	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Tantau_a4	6	1	6	Apiaceae	Apiaceae	HERB
+Tantau_a4	7	1	7	Artemisia	Artemisia	HERB
+Tantau_a4	12	65	12	Betula	Betula	TRSH
+Tantau_a4	162	2	162	Boraginaceae	Boraginaceae	HERB
+Tantau_a4	560	1	321	Abies	Abies	TRSH
+Tantau_a4	760	120	155	Alnus glutinosa	Alnus glutinosa-type	TRSH
+Tantau_a4	761	13	160	Asteroideae	Asteraceae subf. Asteroideae	HERB
+Tantau_a4	22	56	22	Cerealia	Cerealia-type	HERB
+Tantau_a4	41	5	41	Fabaceae	Fabaceae	HERB
+Tantau_a4	42	59	42	Fagus sylvatica	Fagus	TRSH
+Tantau_a4	57	1	57	Juglans	Juglans	TRSH
+Tantau_a4	75	15	75	Pinus	Pinus	TRSH
+Tantau_a4	126	5	126	Picea	Picea	TRSH
+Tantau_a4	201	17	31	Corylus	Corylus	TRSH
+Tantau_a4	374	1	146	Monolete spores	Monolete fern spores	VACR
+Tantau_a4	503	1	51	Hedera	Hedera	TRSH
+Tantau_a4	563	17	16	Carpinus betulus	Carpinus betulus	TRSH
+Tantau_a4	771	1	771	Comandra elegans	Comandra elegans	HERB
+Tantau_a4	60	5	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+Tantau_a4	80	27	80	Poaceae	Poaceae	HERB
+Tantau_a4	135	2	135	Ranunculaceae	Ranunculaceae	HERB
+Tantau_a4	144	120	144	Sphagnum	Sphagnum	BRYO
+Tantau_a4	154	2	154	Ulmus	Ulmus/Zelkova	TRSH
+Tantau_a4	173	11	173	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB
+Tantau_a4	189	26	189	Quercus	Quercus	TRSH
+Tantau_a4	222	1	79	Plantago major type	Plantago major	HERB
+Tantau_a4	256	5	256	Secale cereale	Secale cereale	HERB
+Tantau_a4	416	2	279	Trilete spores	Trilete spore(s)	VACR
+Tantau_a4	802	4	492	Solanaceae type	Solanaceae	HERB
+Tantau_a4	808	2	734	Typha/Sparganium	Typha/Sparganium	AQUA
+Tantau_a4	92	1	92	Rosaceae	Rosaceae	TRSH
+Tantau_a4	122	1	122	Vitis	Vitis	TRSH
+Tantau_a4	765	2	205	Cannabis type	Humulus/Cannabis	HERB
+Tantau_a4	773	3	773	Euphorbiaceae	Euphorbiaceae	HERB
+Tantau_a4	810	1	653	Verbascum type	Verbascum	HERB

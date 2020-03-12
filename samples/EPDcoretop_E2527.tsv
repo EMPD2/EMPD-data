@@ -1,47 +1,47 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-EPDcoretop_E2527	Alnus	Alnus	TRSH	12	2.3575639
-EPDcoretop_E2527	Betula	Betula	TRSH	212	41.650295
-EPDcoretop_E2527	Betula/Corylus/Myrica	Betula/Corylus/Myrica	TRSH	2	0.39292731
-EPDcoretop_E2527	Calluna vulgaris	Calluna vulgaris	DWAR	3	0.58939096
-EPDcoretop_E2527	Corylus avellana	Corylus	TRSH	1	0.19646365
-EPDcoretop_E2527	Empetrum nigrum	Empetrum nigrum	DWAR	1	0.19646365
-EPDcoretop_E2527	Ericaceae-type	Ericales (tetrad)	DWAR	2	0.39292731
-EPDcoretop_E2527	Juniperus communis	Juniperus communis-type	TRSH	40	7.8585462
-EPDcoretop_E2527	Picea	Picea	TRSH	1	0.19646365
-EPDcoretop_E2527	Pinus sylvestris	Pinus sylvestris-type	TRSH	79	15.520629
-EPDcoretop_E2527	Salix undiff.	Salix	TRSH	3	0.58939096
-EPDcoretop_E2527	Vaccinium-type	Vaccinium-type	DWAR	1	0.19646365
-EPDcoretop_E2527	Cyperaceae undiff.	Cyperaceae	HERB	8	1.5717092
-EPDcoretop_E2527	Filipendula	Filipendula	HERB	3	0.58939096
-EPDcoretop_E2527	Juncaceae	Juncaceae	HERB	1	0.19646365
-EPDcoretop_E2527	Melampyrum	Melampyrum	HERB	1	0.19646365
-EPDcoretop_E2527	Gramineae	Poaceae	HERB	30	5.8939096
-EPDcoretop_E2527	Rumex acetosa	Rumex acetosa-type	HERB	3	0.58939096
-EPDcoretop_E2527	Rumex acetosa/R. acetosella-type	Rumex acetosa-type	HERB	4	0.78585462
-EPDcoretop_E2527	Solidago-type	Senecio-type	HERB	2	0.39292731
-EPDcoretop_E2527	Urtica	Urtica	HERB	4	0.78585462
-EPDcoretop_E2527	Valeriana sambucifolia-type	Valeriana officinalis-type	HERB	2	0.39292731
-EPDcoretop_E2527	Dryopteris filix-mas-type	Dryopteris filix-mas-type	VACR	2	0.39292731
-EPDcoretop_E2527	Dryopteris-type	Dryopteris-type	VACR	65	12.770138
-EPDcoretop_E2527	Equisetum	Equisetum	VACR	6	1.1787819
-EPDcoretop_E2527	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR	10	1.9646365
-EPDcoretop_E2527	Lycopodium annotinum	Lycopodium annotinum-type	VACR	3	0.58939096
-EPDcoretop_E2527	Phegopteris connectilis	Phegopteris connectilis	VACR	1	0.19646365
-EPDcoretop_E2527	Selaginella selaginoides	Selaginella selaginoides	VACR	1	0.19646365
-EPDcoretop_E2527	Sphagnum	Sphagnum	BRYO	6	1.1787819
-EPDcoretop_E2527	Botryococcus	Botryococcus	ALGA	7	1.3752456
-EPDcoretop_E2527	Carex-type	Carex	HELO	22	4.3222004
-EPDcoretop_E2527	Eriophorum-type	Eriophorum-type	HELO	5	0.98231827
-EPDcoretop_E2527	Isoetes echinospora	Isoetes echinospora	AQPT	40	7.8585462
-EPDcoretop_E2527	Isoetes lacustris	Isoetes lacustris	AQPT	47	9.2337917
-EPDcoretop_E2527	Myriophyllum alterniflorum	Myriophyllum alterniflorum	AQUA	2	0.39292731
-EPDcoretop_E2527	Pediastrum	Pediastrum	ALGA	20	3.9292731
-EPDcoretop_E2527	Potamogeton sect. Eupotamogeton	Potamogeton natans-type	AQUA	3	0.58939096
-EPDcoretop_E2527	Sparganium emersum-type	Sparganium emersum-type	HELO	1	0.19646365
-EPDcoretop_E2527	Charcoal	Charcoal	CHAR	79	
-EPDcoretop_E2527	Indeterminable: concealed	Indeterminable: concealed	INUN	1	
-EPDcoretop_E2527	Indeterminable: corroded	Indeterminable: corroded	INUN	4	
-EPDcoretop_E2527	Eucalyptus (grains/g of tablet)	Eucalyptus (grains/g of tablet)	NOPO	182	
-EPDcoretop_E2527	Eucalyptus (spike)	Eucalyptus spike (counted)	NOPO	833	
-EPDcoretop_E2527	Eucalyptus tablets	Eucalyptus tablets	NOPO	376	
-EPDcoretop_E2527	Sample volume (ml)	Sample volume (ml)	NOPO	1	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+EPDcoretop_E2527	4073	1	999	Indeterminable: concealed	Indeterminable: concealed	INUN
+EPDcoretop_E2527	4074	4	1324	Indeterminable: corroded	Indeterminable: corroded	INUN
+EPDcoretop_E2527	1125	79	1125	Charcoal	Charcoal	CHAR
+EPDcoretop_E2527	4542	1	883	Sample volume (ml)	Sample volume (ml)	NOPO
+EPDcoretop_E2527	5106	376	5106	Eucalyptus tablets	Eucalyptus tablets	NOPO
+EPDcoretop_E2527	5107	182	5107	Eucalyptus (grains/g of tablet)	Eucalyptus (grains/g of tablet)	NOPO
+EPDcoretop_E2527	5108	833	2741	Eucalyptus (spike)	Eucalyptus spike (counted)	NOPO
+EPDcoretop_E2527	5	12	5	Alnus	Alnus	TRSH
+EPDcoretop_E2527	12	212	12	Betula	Betula	TRSH
+EPDcoretop_E2527	31	1	31	Corylus avellana	Corylus	TRSH
+EPDcoretop_E2527	45	3	45	Filipendula	Filipendula	HERB
+EPDcoretop_E2527	95	3	95	Rumex acetosa	Rumex acetosa-type	HERB
+EPDcoretop_E2527	126	1	126	Picea	Picea	TRSH
+EPDcoretop_E2527	144	6	144	Sphagnum	Sphagnum	BRYO
+EPDcoretop_E2527	145	6	145	Equisetum	Equisetum	VACR
+EPDcoretop_E2527	473	1	473	Melampyrum	Melampyrum	HERB
+EPDcoretop_E2527	652	4	652	Urtica	Urtica	HERB
+EPDcoretop_E2527	662	20	662	Pediastrum	Pediastrum	ALGA
+EPDcoretop_E2527	663	7	663	Botryococcus	Botryococcus	ALGA
+EPDcoretop_E2527	788	79	125	Pinus sylvestris	Pinus sylvestris-type	TRSH
+EPDcoretop_E2527	874	1	185	Selaginella selaginoides	Selaginella selaginoides	VACR
+EPDcoretop_E2527	939	1	739	Empetrum nigrum	Empetrum nigrum	DWAR
+EPDcoretop_E2527	941	40	58	Juniperus communis	Juniperus communis-type	TRSH
+EPDcoretop_E2527	965	3	183	Lycopodium annotinum	Lycopodium annotinum-type	VACR
+EPDcoretop_E2527	1131	8	33	Cyperaceae undiff.	Cyperaceae	HERB
+EPDcoretop_E2527	1247	65	772	Dryopteris-type	Dryopteris-type	VACR
+EPDcoretop_E2527	1279	1	255	Sparganium emersum-type	Sparganium emersum-type	HELO
+EPDcoretop_E2527	1400	3	99	Salix undiff.	Salix	TRSH
+EPDcoretop_E2527	1590	47	1590	Isoetes lacustris	Isoetes lacustris	AQPT
+EPDcoretop_E2527	1601	30	80	Gramineae	Poaceae	HERB
+EPDcoretop_E2527	1750	1	1750	Juncaceae	Juncaceae	HERB
+EPDcoretop_E2527	1971	2	1841	Myriophyllum alterniflorum	Myriophyllum alterniflorum	AQUA
+EPDcoretop_E2527	2121	10	1320	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR
+EPDcoretop_E2527	2332	40	2332	Isoetes echinospora	Isoetes echinospora	AQPT
+EPDcoretop_E2527	2428	2	133	Solidago-type	Senecio-type	HERB
+EPDcoretop_E2527	2595	2	220	Dryopteris filix-mas-type	Dryopteris filix-mas-type	VACR
+EPDcoretop_E2527	3619	2	3619	Betula/Corylus/Myrica	Betula/Corylus/Myrica	TRSH
+EPDcoretop_E2527	3646	3	3645	Calluna vulgaris	Calluna vulgaris	DWAR
+EPDcoretop_E2527	3944	2	130	Ericaceae-type	Ericales (tetrad)	DWAR
+EPDcoretop_E2527	4384	3	912	Potamogeton sect. Eupotamogeton	Potamogeton natans-type	AQUA
+EPDcoretop_E2527	4506	4	95	Rumex acetosa/R. acetosella-type	Rumex acetosa-type	HERB
+EPDcoretop_E2527	4730	1	4730	Vaccinium-type	Vaccinium-type	DWAR
+EPDcoretop_E2527	4734	2	1087	Valeriana sambucifolia-type	Valeriana officinalis-type	HERB
+EPDcoretop_E2527	4963	22	1301	Carex-type	Carex	HELO
+EPDcoretop_E2527	5109	5	5109	Eriophorum-type	Eriophorum-type	HELO
+EPDcoretop_E2527	5110	1	1541	Phegopteris connectilis	Phegopteris connectilis	VACR

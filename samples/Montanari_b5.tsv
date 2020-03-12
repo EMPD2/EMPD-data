@@ -1,35 +1,35 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Montanari_b5	ABIES	Abies	TRSH	18	1.0935601
-Montanari_b5	ACER	Acer campestre-type	TRSH	39	2.3693803
-Montanari_b5	ALNUS	Alnus	TRSH	174	10.571081
-Montanari_b5	BETULA	Betula	TRSH	7	0.42527339
-Montanari_b5	CARPINUS	Carpinus betulus	TRSH	27	1.6403402
-Montanari_b5	CASTANEA	Castanea sativa	TRSH	201	12.211422
-Montanari_b5	CORNUS	Cornus	TRSH	5	0.30376671
-Montanari_b5	CORYLUS	Corylus	TRSH	60	3.6452005
-Montanari_b5	ERICA arborea	Erica arborea-type	TRSH	5	0.30376671
-Montanari_b5	ERICA carnea	Erica carnea	TRSH	27	1.6403402
-Montanari_b5	FAGUS	Fagus	TRSH	29	1.7618469
-Montanari_b5	FRAXINUS	Fraxinus	TRSH	138	8.3839611
-Montanari_b5	OSTRYA	Ostrya/Carpinus orientalis	TRSH	163	9.9027947
-Montanari_b5	PICEA	Picea	TRSH	3	0.18226002
-Montanari_b5	PINUS indiff.	Pinus	TRSH	162	9.8420413
-Montanari_b5	QUERCUS decid.	Quercus robur-type	TRSH	91	5.5285541
-Montanari_b5	SALIX	Salix	TRSH	6	0.36452005
-Montanari_b5	TILIA	Tilia	TRSH	11	0.66828676
-Montanari_b5	UMBELLIFERAE	Apiaceae	HERB	27	1.6403402
-Montanari_b5	ARTEMISIA	Artemisia	HERB	7	0.42527339
-Montanari_b5	ASTERACEAE tub.	Asteraceae subf. Asteroideae	HERB	13	0.78979344
-Montanari_b5	CARYOPHYLLACEAE	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	3	0.18226002
-Montanari_b5	CEREALIA t.	Cerealia-type	HERB	155	9.4167679
-Montanari_b5	CHENOPODIACEAE	Chenopodiaceae/Amaranthaceae	HERB	31	1.8833536
-Montanari_b5	LABIATAE	Lamiaceae	HERB	11	0.66828676
-Montanari_b5	PLANTAGO	Plantago	HERB	29	1.7618469
-Montanari_b5	POACEAE	Poaceae	HERB	157	9.5382746
-Montanari_b5	GALIUM	Rubiaceae	HERB	9	0.54678007
-Montanari_b5	FILICALES	Monolete fern spores	VACR	38	2.308627
-Montanari_b5	unidentified	Indeterminable: unknown	INUN	3	
-Montanari_b5	examined volume (Vg)	Sample volume (ml)	NOPO	0.02	
-Montanari_b5	sample volume (Vp)	Sample volume (ml)	NOPO	5	
-Montanari_b5	concentration (F.P.A., grains/gram)	Total concentration	NOPO	183401.55	
-Montanari_b5	sample weight (Pp)	Weight (g)	NOPO	2.2478	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Montanari_b5	2696	162	75	PINUS indiff.	Pinus	TRSH
+Montanari_b5	321	18	321	ABIES	Abies	TRSH
+Montanari_b5	324	174	5	ALNUS	Alnus	TRSH
+Montanari_b5	330	7	12	BETULA	Betula	TRSH
+Montanari_b5	357	29	42	FAGUS	Fagus	TRSH
+Montanari_b5	359	138	190	FRAXINUS	Fraxinus	TRSH
+Montanari_b5	379	163	70	OSTRYA	Ostrya/Carpinus orientalis	TRSH
+Montanari_b5	383	3	126	PICEA	Picea	TRSH
+Montanari_b5	322	39	2	ACER	Acer campestre-type	TRSH
+Montanari_b5	339	201	19	CASTANEA	Castanea sativa	TRSH
+Montanari_b5	346	60	31	CORYLUS	Corylus	TRSH
+Montanari_b5	406	6	99	SALIX	Salix	TRSH
+Montanari_b5	2642	11	187	TILIA	Tilia	TRSH
+Montanari_b5	328	7	7	ARTEMISIA	Artemisia	HERB
+Montanari_b5	388	157	80	POACEAE	Poaceae	HERB
+Montanari_b5	1316	27	6	UMBELLIFERAE	Apiaceae	HERB
+Montanari_b5	2709	5	455	ERICA arborea	Erica arborea-type	TRSH
+Montanari_b5	2710	27	2710	ERICA carnea	Erica carnea	TRSH
+Montanari_b5	2712	5	755	CORNUS	Cornus	TRSH
+Montanari_b5	2714	155	22	CEREALIA t.	Cerealia-type	HERB
+Montanari_b5	338	3	18	CARYOPHYLLACEAE	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Montanari_b5	386	29	270	PLANTAGO	Plantago	HERB
+Montanari_b5	1305	11	59	LABIATAE	Lamiaceae	HERB
+Montanari_b5	1319	38	146	FILICALES	Monolete fern spores	VACR
+Montanari_b5	2671	31	24	CHENOPODIACEAE	Chenopodiaceae/Amaranthaceae	HERB
+Montanari_b5	1304	9	93	GALIUM	Rubiaceae	HERB
+Montanari_b5	2691	3	177	unidentified	Indeterminable: unknown	INUN
+Montanari_b5	2725	2.2478	2695	sample weight (Pp)	Weight (g)	NOPO
+Montanari_b5	2726	0.02	883	examined volume (Vg)	Sample volume (ml)	NOPO
+Montanari_b5	2727	5	883	sample volume (Vp)	Sample volume (ml)	NOPO
+Montanari_b5	2728	183401.55	2014	concentration (F.P.A., grains/gram)	Total concentration	NOPO
+Montanari_b5	2635	27	16	CARPINUS	Carpinus betulus	TRSH
+Montanari_b5	2639	91	86	QUERCUS decid.	Quercus robur-type	TRSH
+Montanari_b5	2716	13	160	ASTERACEAE tub.	Asteraceae subf. Asteroideae	HERB

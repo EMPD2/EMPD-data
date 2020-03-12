@@ -1,41 +1,41 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Kolaczek_g27	Acer	Acer campestre-type	TRSH	1	0.13012362
-Kolaczek_g27	Aesculus hippocastanum	Aesculus hippocastanum	TRSH	1	0.13012362
-Kolaczek_g27	Alnus undiff.	Alnus	TRSH	59	7.6772934
-Kolaczek_g27	Betula undiff.	Betula	TRSH	125	16.265452
-Kolaczek_g27	Carpinus betulus	Carpinus betulus	TRSH	16	2.0819779
-Kolaczek_g27	Corylus avellana	Corylus	TRSH	21	2.732596
-Kolaczek_g27	Fagus sylvatica	Fagus	TRSH	4	0.52049447
-Kolaczek_g27	Juglans	Juglans	TRSH	1	0.13012362
-Kolaczek_g27	Larix	Larix/Pseudotsuga	TRSH	1	0.13012362
-Kolaczek_g27	Picea abies	Picea abies-type	TRSH	8.5	1.1060507
-Kolaczek_g27	Pinus sylvestris type	Pinus sylvestris-type	TRSH	353	45.933637
-Kolaczek_g27	Populus	Populus	TRSH	5	0.65061809
-Kolaczek_g27	Quercus	Quercus	TRSH	32	4.1639558
-Kolaczek_g27	Salix undiff.	Salix	TRSH	4	0.52049447
-Kolaczek_g27	Sambucus nigra/S. racemosa	Sambucus nigra/S. racemosa	TRSH	0.5	0.065061809
-Kolaczek_g27	Tilia cordata	Tilia cordata-type	TRSH	3	0.39037085
-Kolaczek_g27	Ulmus	Ulmus/Zelkova	TRSH	1	0.13012362
-Kolaczek_g27	Ambrosia-type	Ambrosia	HERB	1	0.13012362
-Kolaczek_g27	Apiaceae undiff.	Apiaceae	HERB	4	0.52049447
-Kolaczek_g27	Artemisia	Artemisia	HERB	25	3.2530904
-Kolaczek_g27	Aster-type	Aster-type	HERB	1	0.13012362
-Kolaczek_g27	Brassicaceae	Brassicaceae	HERB	5	0.65061809
-Kolaczek_g27	Centaurea cyanus	Centaurea cyanus-type	HERB	0.5	0.065061809
-Kolaczek_g27	Cerealia undiff.	Cerealia-type	HERB	20	2.6024723
-Kolaczek_g27	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	6	0.7807417
-Kolaczek_g27	Cyperaceae	Cyperaceae	HERB	8	1.0409889
-Kolaczek_g27	Humulus lupulus	Humulus lupulus	HERB	2	0.26024723
-Kolaczek_g27	Anthemis-type	Matricaria-type	HERB	3	0.39037085
-Kolaczek_g27	Mercurialis perennis	Mercurialis perennis-type	HERB	1	0.13012362
-Kolaczek_g27	Plantago lanceolata	Plantago lanceolata-type	HERB	5	0.65061809
-Kolaczek_g27	Poaceae undiff.	Poaceae	HERB	34	4.424203
-Kolaczek_g27	Rumex acetosa-type	Rumex acetosa-type	HERB	2	0.26024723
-Kolaczek_g27	Rumex obtusifolius	Rumex crispus-type	HERB	2	0.26024723
-Kolaczek_g27	Secale cereale	Secale cereale	HERB	4	0.52049447
-Kolaczek_g27	Urtica undiff.	Urtica	HERB	6	0.7807417
-Kolaczek_g27	Dryopteris filix-mas	Dryopteris filix-mas-type	VACR	1	0.13012362
-Kolaczek_g27	Equisetum	Equisetum	VACR	1	0.13012362
-Kolaczek_g27	Thelypteris palustris	Thelypteris palustris	VACR	1	0.13012362
-Kolaczek_g27	Corroded	Indeterminable: corroded	INUN	1	
-Kolaczek_g27	Sphagnum	Sphagnum	NOPO	4	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Kolaczek_g27	2	1	2	Acer	Acer campestre-type	TRSH
+Kolaczek_g27	1101	1	1101	Aesculus hippocastanum	Aesculus hippocastanum	TRSH
+Kolaczek_g27	1376	59	5	Alnus undiff.	Alnus	TRSH
+Kolaczek_g27	7	25	7	Artemisia	Artemisia	HERB
+Kolaczek_g27	589	3	3	Anthemis-type	Matricaria-type	HERB
+Kolaczek_g27	597	1	11	Aster-type	Aster-type	HERB
+Kolaczek_g27	1107	4	6	Apiaceae undiff.	Apiaceae	HERB
+Kolaczek_g27	13	5	13	Brassicaceae	Brassicaceae	HERB
+Kolaczek_g27	24	6	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Kolaczek_g27	563	16	16	Carpinus betulus	Carpinus betulus	TRSH
+Kolaczek_g27	821	0.5	462	Centaurea cyanus	Centaurea cyanus-type	HERB
+Kolaczek_g27	1384	1	1324	Corroded	Indeterminable: corroded	INUN
+Kolaczek_g27	31	21	31	Corylus avellana	Corylus	TRSH
+Kolaczek_g27	33	8	33	Cyperaceae	Cyperaceae	HERB
+Kolaczek_g27	42	4	42	Fagus sylvatica	Fagus	TRSH
+Kolaczek_g27	145	1	145	Equisetum	Equisetum	VACR
+Kolaczek_g27	825	1	220	Dryopteris filix-mas	Dryopteris filix-mas-type	VACR
+Kolaczek_g27	57	1	57	Juglans	Juglans	TRSH
+Kolaczek_g27	123	1	123	Larix	Larix/Pseudotsuga	TRSH
+Kolaczek_g27	783	8.5	783	Picea abies	Picea abies-type	TRSH
+Kolaczek_g27	828	2	828	Humulus lupulus	Humulus lupulus	HERB
+Kolaczek_g27	1261	1	1156	Mercurialis perennis	Mercurialis perennis-type	HERB
+Kolaczek_g27	60	5	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+Kolaczek_g27	81	5	81	Populus	Populus	TRSH
+Kolaczek_g27	189	32	189	Quercus	Quercus	TRSH
+Kolaczek_g27	429	34	80	Poaceae undiff.	Poaceae	HERB
+Kolaczek_g27	144	4	144	Sphagnum	Sphagnum	BRYO
+Kolaczek_g27	256	4	256	Secale cereale	Secale cereale	HERB
+Kolaczek_g27	634	2	95	Rumex acetosa-type	Rumex acetosa-type	HERB
+Kolaczek_g27	1399	2	251	Rumex obtusifolius	Rumex crispus-type	HERB
+Kolaczek_g27	1400	4	99	Salix undiff.	Salix	TRSH
+Kolaczek_g27	1401	0.5	583	Sambucus nigra/S. racemosa	Sambucus nigra/S. racemosa	TRSH
+Kolaczek_g27	154	1	154	Ulmus	Ulmus/Zelkova	TRSH
+Kolaczek_g27	859	1	859	Thelypteris palustris	Thelypteris palustris	VACR
+Kolaczek_g27	1406	3	153	Tilia cordata	Tilia cordata-type	TRSH
+Kolaczek_g27	1409	6	652	Urtica undiff.	Urtica	HERB
+Kolaczek_g27	822	20	22	Cerealia undiff.	Cerealia-type	HERB
+Kolaczek_g27	1377	1	586	Ambrosia-type	Ambrosia	HERB
+Kolaczek_g27	1380	125	12	Betula undiff.	Betula	TRSH
+Kolaczek_g27	1395	353	125	Pinus sylvestris type	Pinus sylvestris-type	TRSH

@@ -1,45 +1,45 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Bjune_a79	Alnus	Alnus	TRSH	37	6.2711864
-Bjune_a79	Betula	Betula	TRSH	80	13.559322
-Bjune_a79	Calluna vulgaris	Calluna vulgaris	DWAR	4	0.6779661
-Bjune_a79	Corylus avellana	Corylus	TRSH	19	3.220339
-Bjune_a79	Corylus/Myrica	Corylus/Myrica	TRSH	2	0.33898305
-Bjune_a79	Empetrum nigrum	Empetrum nigrum	DWAR	1	0.16949153
-Bjune_a79	Ericaceae-type	Ericales (tetrad)	DWAR	5	0.84745763
-Bjune_a79	Juniperus communis	Juniperus communis-type	TRSH	89	15.084746
-Bjune_a79	Pinus sylvestris	Pinus sylvestris-type	TRSH	203	34.40678
-Bjune_a79	Quercus	Quercus	TRSH	3	0.50847458
-Bjune_a79	Rosaceae undiff.	Rosa	TRSH	2	0.33898305
-Bjune_a79	Salix undiff.	Salix	TRSH	3	0.50847458
-Bjune_a79	Sambucus nigra/S. racemosa	Sambucus nigra/S. racemosa	TRSH	1	0.16949153
-Bjune_a79	Sorbus aucuparia	Sorbus-type	TRSH	2	0.33898305
-Bjune_a79	Ulmus	Ulmus/Zelkova	TRSH	1	0.16949153
-Bjune_a79	Angelica-type	Apiaceae	HERB	1	0.16949153
-Bjune_a79	Umbelliferae undiff.	Apiaceae	HERB	1	0.16949153
-Bjune_a79	Artemisia	Artemisia	HERB	1	0.16949153
-Bjune_a79	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB	2	0.33898305
-Bjune_a79	Cerealia undiff.	Cerealia-type	HERB	1	0.16949153
-Bjune_a79	Filipendula	Filipendula	HERB	1	0.16949153
-Bjune_a79	Melampyrum	Melampyrum	HERB	3	0.50847458
-Bjune_a79	Plantago lanceolata	Plantago lanceolata-type	HERB	1	0.16949153
-Bjune_a79	Gramineae undiff.	Poaceae	HERB	29	4.9152542
-Bjune_a79	Potentilla-type	Potentilla-type	HERB	2	0.33898305
-Bjune_a79	Rumex acetosa	Rumex acetosa-type	HERB	2	0.33898305
-Bjune_a79	Rumex acetosa-type/R. acetosella-type	Rumex acetosa-type	HERB	4	0.6779661
-Bjune_a79	Solidago-type	Senecio-type	HERB	1	0.16949153
-Bjune_a79	Urtica	Urtica	HERB	2	0.33898305
-Bjune_a79	Cryptogramma crispa	Cryptogramma crispa	VACR	1	0.16949153
-Bjune_a79	Dryopteris-type	Dryopteris-type	VACR	80	13.559322
-Bjune_a79	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR	1	0.16949153
-Bjune_a79	Sphagnum	Sphagnum	BRYO	5	0.84745763
-Bjune_a79	Botryococcus	Botryococcus	ALGA	28	4.7457627
-Bjune_a79	Carex-type	Carex	AQUA	12	2.0338983
-Bjune_a79	Cyperaceae undiff.	Cyperaceae	AQUA	3	0.50847458
-Bjune_a79	Myriophyllum alterniflorum	Myriophyllum alterniflorum	AQUA	1	0.16949153
-Bjune_a79	Nymphaea	Nymphaea	AQUA	2	0.33898305
-Bjune_a79	Pediastrum	Pediastrum	ALGA	53	8.9830508
-Bjune_a79	Potamogeton sect. Eupotamogeton	Potamogeton natans-type	AQUA	4	0.6779661
-Bjune_a79	Indeterminable: broken	Indeterminable: broken	INUN	1	
-Bjune_a79	Indeterminable: corroded	Indeterminable: corroded	INUN	5	
-Bjune_a79	Indeterminable: crumpled	Indeterminable: crumpled	INUN	1	
-Bjune_a79	Pinus: stomata	Pinus: stomata	MACR	8	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Bjune_a79	5	37	5	Alnus	Alnus	TRSH
+Bjune_a79	3541	1	6	Angelica-type	Apiaceae	HERB
+Bjune_a79	7	1	7	Artemisia	Artemisia	HERB
+Bjune_a79	663	28	663	Botryococcus	Botryococcus	ALGA
+Bjune_a79	3646	4	3645	Calluna vulgaris	Calluna vulgaris	DWAR
+Bjune_a79	822	1	22	Cerealia undiff.	Cerealia-type	HERB
+Bjune_a79	3824	2	25	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Bjune_a79	31	19	31	Corylus avellana	Corylus	TRSH
+Bjune_a79	3852	2	3847	Corylus/Myrica	Corylus/Myrica	TRSH
+Bjune_a79	1607	1	553	Cryptogramma crispa	Cryptogramma crispa	VACR
+Bjune_a79	3873	3	3868	Cyperaceae undiff.	Cyperaceae	AQUA
+Bjune_a79	1247	80	772	Dryopteris-type	Dryopteris-type	VACR
+Bjune_a79	939	1	739	Empetrum nigrum	Empetrum nigrum	DWAR
+Bjune_a79	3944	5	130	Ericaceae-type	Ericales (tetrad)	DWAR
+Bjune_a79	45	1	45	Filipendula	Filipendula	HERB
+Bjune_a79	4018	29	80	Gramineae undiff.	Poaceae	HERB
+Bjune_a79	2121	1	1320	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR
+Bjune_a79	4072	1	998	Indeterminable: broken	Indeterminable: broken	INUN
+Bjune_a79	4074	5	1324	Indeterminable: corroded	Indeterminable: corroded	INUN
+Bjune_a79	4075	1	1925	Indeterminable: crumpled	Indeterminable: crumpled	INUN
+Bjune_a79	1971	1	1841	Myriophyllum alterniflorum	Myriophyllum alterniflorum	AQUA
+Bjune_a79	627	2	627	Nymphaea	Nymphaea	AQUA
+Bjune_a79	662	53	662	Pediastrum	Pediastrum	ALGA
+Bjune_a79	788	203	125	Pinus sylvestris	Pinus sylvestris-type	TRSH
+Bjune_a79	4310	8	4310	Pinus: stomata	Pinus: stomata	MACR
+Bjune_a79	626	2	512	Potentilla-type	Potentilla-type	HERB
+Bjune_a79	189	3	189	Quercus	Quercus	TRSH
+Bjune_a79	472	2	92	Rosaceae undiff.	Rosaceae	TRSH
+Bjune_a79	95	2	95	Rumex acetosa	Rumex acetosa-type	HERB
+Bjune_a79	4504	4	95	Rumex acetosa-type/R. acetosella-type	Rumex acetosa-type	HERB
+Bjune_a79	1400	3	99	Salix undiff.	Salix	TRSH
+Bjune_a79	1401	1	583	Sambucus nigra/S. racemosa	Sambucus nigra/S. racemosa	TRSH
+Bjune_a79	2428	1	133	Solidago-type	Senecio-type	HERB
+Bjune_a79	154	1	154	Ulmus	Ulmus/Zelkova	TRSH
+Bjune_a79	4711	1	6	Umbelliferae undiff.	Apiaceae	HERB
+Bjune_a79	652	2	652	Urtica	Urtica	HERB
+Bjune_a79	12	80	12	Betula	Betula	TRSH
+Bjune_a79	60	1	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+Bjune_a79	144	5	144	Sphagnum	Sphagnum	BRYO
+Bjune_a79	473	3	473	Melampyrum	Melampyrum	HERB
+Bjune_a79	941	89	58	Juniperus communis	Juniperus communis-type	TRSH
+Bjune_a79	2388	2	107	Sorbus aucuparia	Sorbus-type	TRSH
+Bjune_a79	3665	12	3663	Carex-type	Carex	AQUA
+Bjune_a79	4384	4	912	Potamogeton sect. Eupotamogeton	Potamogeton natans-type	AQUA

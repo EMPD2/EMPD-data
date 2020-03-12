@@ -1,38 +1,38 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-EPDcoretop_E1815	Alnus	Alnus	TRSH	88	17.087379
-EPDcoretop_E1815	Betula	Betula	TRSH	67	13.009709
-EPDcoretop_E1815	Ericaceae undiff.	Ericales (tetrad)	DWAR	26	5.0485437
-EPDcoretop_E1815	Larix	Larix/Pseudotsuga	TRSH	16	3.1067961
-EPDcoretop_E1815	Picea sect. Eupicea	Picea abies-type	TRSH	1	0.19417476
-EPDcoretop_E1815	Pinus subg. Strobus	Pinus cembra-type	TRSH	43	8.3495146
-EPDcoretop_E1815	Rosaceae undiff.	Rosaceae	TRSH	4	0.77669903
-EPDcoretop_E1815	Salix	Salix	TRSH	9	1.7475728
-EPDcoretop_E1815	Apiaceae	Apiaceae	HERB	1	0.19417476
-EPDcoretop_E1815	Artemisia	Artemisia	HERB	3	0.58252427
-EPDcoretop_E1815	Asteraceae undiff.	Asteraceae	HERB	3	0.58252427
-EPDcoretop_E1815	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB	2	0.38834951
-EPDcoretop_E1815	Brassicaceae	Brassicaceae	HERB	7	1.3592233
-EPDcoretop_E1815	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	2	0.38834951
-EPDcoretop_E1815	Claytonia	Claytonia	HERB	1	0.19417476
-EPDcoretop_E1815	Cyperaceae	Cyperaceae	HERB	46	8.9320388
-EPDcoretop_E1815	Fabaceae	Fabaceae	HERB	1	0.19417476
-EPDcoretop_E1815	Onagraceae undiff.	Onagraceae	HERB	3	0.58252427
-EPDcoretop_E1815	Poaceae	Poaceae	HERB	77	14.951456
-EPDcoretop_E1815	Polemoniaceae	Polemoniaceae	HERB	1	0.19417476
-EPDcoretop_E1815	Polygonum aviculare	Polygonum aviculare-type	HERB	1	0.19417476
-EPDcoretop_E1815	Potentilla	Potentilla-type	HERB	1	0.19417476
-EPDcoretop_E1815	Ranunculaceae undiff.	Ranunculaceae	HERB	4	0.77669903
-EPDcoretop_E1815	Rumex	Rumex/Oxyria	HERB	1	0.19417476
-EPDcoretop_E1815	Sanguisorba	Sanguisorba officinalis	HERB	1	0.19417476
-EPDcoretop_E1815	Thalictrum	Thalictrum	HERB	1	0.19417476
-EPDcoretop_E1815	Valeriana	Valeriana	HERB	1	0.19417476
-EPDcoretop_E1815	Bryales	Bryophyte spores	BRYO	47	9.1262136
-EPDcoretop_E1815	Hepaticae	Hepaticae	BRYO	3	0.58252427
-EPDcoretop_E1815	Huperzia selago	Huperzia selago	VACR	1	0.19417476
-EPDcoretop_E1815	Lycopodium annotinum	Lycopodium annotinum-type	VACR	1	0.19417476
-EPDcoretop_E1815	Polypodiophyta undiff.	Monolete fern spores	VACR	20	3.8834951
-EPDcoretop_E1815	Selaginella rupestris	Selaginella rupestris	VACR	2	0.38834951
-EPDcoretop_E1815	Sphagnum	Sphagnum	BRYO	30	5.8252427
-EPDcoretop_E1815	Myriophyllum	Myriophyllum	AQUA	1	0.19417476
-EPDcoretop_E1815	Nymphaeaceae	Nymphaeaceae	AQUA	1	0.19417476
-EPDcoretop_E1815	Unknown	Indeterminable: unknown	INUN	2	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+EPDcoretop_E1815	969	2	177	Unknown	Indeterminable: unknown	INUN
+EPDcoretop_E1815	5	88	5	Alnus	Alnus	TRSH
+EPDcoretop_E1815	6	1	6	Apiaceae	Apiaceae	HERB
+EPDcoretop_E1815	7	3	7	Artemisia	Artemisia	HERB
+EPDcoretop_E1815	12	67	12	Betula	Betula	TRSH
+EPDcoretop_E1815	13	7	13	Brassicaceae	Brassicaceae	HERB
+EPDcoretop_E1815	18	2	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+EPDcoretop_E1815	33	46	33	Cyperaceae	Cyperaceae	HERB
+EPDcoretop_E1815	41	1	41	Fabaceae	Fabaceae	HERB
+EPDcoretop_E1815	80	77	80	Poaceae	Poaceae	HERB
+EPDcoretop_E1815	99	9	99	Salix	Salix	TRSH
+EPDcoretop_E1815	112	1	112	Thalictrum	Thalictrum	HERB
+EPDcoretop_E1815	123	16	123	Larix	Larix/Pseudotsuga	TRSH
+EPDcoretop_E1815	144	30	144	Sphagnum	Sphagnum	BRYO
+EPDcoretop_E1815	147	47	147	Bryales	Bryophyte spores	BRYO
+EPDcoretop_E1815	169	1	169	Polemoniaceae	Polemoniaceae	HERB
+EPDcoretop_E1815	493	1	493	Valeriana	Valeriana	HERB
+EPDcoretop_E1815	504	1	504	Myriophyllum	Myriophyllum	AQUA
+EPDcoretop_E1815	638	1	474	Sanguisorba	Sanguisorba officinalis	HERB
+EPDcoretop_E1815	709	3	134	Asteraceae undiff.	Asteraceae	HERB
+EPDcoretop_E1815	716	26	130	Ericaceae undiff.	Ericales (tetrad)	DWAR
+EPDcoretop_E1815	725	1	262	Polygonum aviculare	Polygonum aviculare-type	HERB
+EPDcoretop_E1815	727	1	94	Rumex	Rumex/Oxyria	HERB
+EPDcoretop_E1815	964	1	184	Huperzia selago	Huperzia selago	VACR
+EPDcoretop_E1815	965	1	183	Lycopodium annotinum	Lycopodium annotinum-type	VACR
+EPDcoretop_E1815	1180	4	135	Ranunculaceae undiff.	Ranunculaceae	HERB
+EPDcoretop_E1815	1366	1	512	Potentilla	Potentilla-type	HERB
+EPDcoretop_E1815	2251	1	1592	Nymphaeaceae	Nymphaeaceae	AQUA
+EPDcoretop_E1815	2995	2	142	Selaginella rupestris	Selaginella rupestris	VACR
+EPDcoretop_E1815	3824	2	25	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+EPDcoretop_E1815	4293	1	783	Picea sect. Eupicea	Picea abies-type	TRSH
+EPDcoretop_E1815	4940	43	124	Pinus subg. Strobus	Pinus cembra-type	TRSH
+EPDcoretop_E1815	4943	3	137	Onagraceae undiff.	Onagraceae	HERB
+EPDcoretop_E1815	4953	3	4044	Hepaticae	Hepaticae	BRYO
+EPDcoretop_E1815	4955	20	146	Polypodiophyta undiff.	Monolete fern spores	VACR
+EPDcoretop_E1815	4965	1	4944	Claytonia	Claytonia	HERB
+EPDcoretop_E1815	472	4	92	Rosaceae undiff.	Rosaceae	TRSH

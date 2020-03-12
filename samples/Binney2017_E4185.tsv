@@ -1,10 +1,10 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Binney2017_E4185	Crataegus	Crataegus	TRSH	1	0.010170871
-Binney2017_E4185	Ephedra	Ephedra	TRSH	1	0.010170871
-Binney2017_E4185	Picea	Picea	TRSH	2	0.020341741
-Binney2017_E4185	Artemisia	Artemisia	HERB	9815	99.827095
-Binney2017_E4185	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	1	0.010170871
-Binney2017_E4185	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	2	0.020341741
-Binney2017_E4185	Cyperaceae	Cyperaceae	HERB	1	0.010170871
-Binney2017_E4185	Geranium	Geranium	HERB	5	0.050854353
-Binney2017_E4185	Poaceae	Poaceae	HERB	4	0.040683483
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Binney2017_E4185	7	9815	7	Artemisia	Artemisia	HERB
+Binney2017_E4185	18	1	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Binney2017_E4185	24	2	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Binney2017_E4185	33	1	33	Cyperaceae	Cyperaceae	HERB
+Binney2017_E4185	80	4	80	Poaceae	Poaceae	HERB
+Binney2017_E4185	126	2	126	Picea	Picea	TRSH
+Binney2017_E4185	159	1	159	Ephedra	Ephedra	TRSH
+Binney2017_E4185	498	5	498	Geranium	Geranium	HERB
+Binney2017_E4185	1385	1	1385	Crataegus	Crataegus	TRSH

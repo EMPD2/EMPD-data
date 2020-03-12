@@ -1,42 +1,42 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Sadori_d9	Acer	Acer campestre-type	TRSH	4	0.55478502
-Sadori_d9	Alnus	Alnus	TRSH	2	0.27739251
-Sadori_d9	Betula	Betula	TRSH	2	0.27739251
-Sadori_d9	Carpinus betulus	Carpinus betulus	TRSH	42	5.8252427
-Sadori_d9	Castanea	Castanea sativa	TRSH	9	1.2482663
-Sadori_d9	Corylus	Corylus	TRSH	8	1.10957
-Sadori_d9	Ericaceae	Ericales (tetrad)	DWAR	9	1.2482663
-Sadori_d9	Fagus	Fagus	TRSH	64	8.8765603
-Sadori_d9	Fraxinus	Fraxinus	TRSH	12	1.6643551
-Sadori_d9	Ilex	Ilex	TRSH	3	0.41608877
-Sadori_d9	Juniperus	Juniperus communis-type	TRSH	22	3.0513176
-Sadori_d9	Myrtaceae	Myrtaceae	TRSH	1	0.13869626
-Sadori_d9	Olea	Olea europaea	TRSH	4	0.55478502
-Sadori_d9	Ostrya	Ostrya/Carpinus orientalis	TRSH	92	12.760055
-Sadori_d9	Pinus	Pinus	TRSH	38	5.2704577
-Sadori_d9	Quercus ilex-type	Quercus ilex-type	TRSH	4	0.55478502
-Sadori_d9	Quercus deciduous	Quercus robur-type	TRSH	54	7.4895978
-Sadori_d9	Rhamnus	Rhamnus-type	TRSH	4	0.55478502
-Sadori_d9	Rosaceae	Rosaceae	TRSH	2	0.27739251
-Sadori_d9	Salix	Salix	TRSH	7	0.97087379
-Sadori_d9	Sambucus	Sambucus	TRSH	5	0.69348128
-Sadori_d9	Viburnum	Viburnum	TRSH	9	1.2482663
-Sadori_d9	Umbelliferae	Apiaceae	HERB	5	0.69348128
-Sadori_d9	Artemisia	Artemisia	HERB	1	0.13869626
-Sadori_d9	Asteroideae	Asteraceae subf. Asteroideae	HERB	4	0.55478502
-Sadori_d9	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	19	2.6352288
-Sadori_d9	Cruciferae	Brassicaceae	HERB	22	3.0513176
-Sadori_d9	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	6	0.83217753
-Sadori_d9	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	3	0.41608877
-Sadori_d9	Labiatae	Lamiaceae	HERB	2	0.27739251
-Sadori_d9	Leguminosae	Leguminosae	HERB	7	0.97087379
-Sadori_d9	Liliaceae	Liliaceae-type	HERB	11	1.5256588
-Sadori_d9	Oxalidaceae	Oxalis	HERB	8	1.10957
-Sadori_d9	Plantago	Plantago	HERB	1	0.13869626
-Sadori_d9	Gramineae	Poaceae	HERB	196	27.184466
-Sadori_d9	Ranunculaceae	Ranunculaceae	HERB	23	3.1900139
-Sadori_d9	Rubiaceae	Rubiaceae	HERB	5	0.69348128
-Sadori_d9	Rumex	Rumex/Oxyria	HERB	8	1.10957
-Sadori_d9	Urticaceae	Urticaceae	HERB	3	0.41608877
-Sadori_d9	Lycopodium (added)	Lycopodium (added)	NOPO	54000	
-Sadori_d9	Lycopodium (counted)	Lycopodium (counted)	NOPO	159	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Sadori_d9	2	4	2	Acer	Acer campestre-type	TRSH
+Sadori_d9	5	2	5	Alnus	Alnus	TRSH
+Sadori_d9	7	1	7	Artemisia	Artemisia	HERB
+Sadori_d9	761	4	160	Asteroideae	Asteraceae subf. Asteroideae	HERB
+Sadori_d9	12	2	12	Betula	Betula	TRSH
+Sadori_d9	18	6	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Sadori_d9	441	9	19	Castanea	Castanea sativa	TRSH
+Sadori_d9	447	19	25	Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Sadori_d9	201	8	31	Corylus	Corylus	TRSH
+Sadori_d9	482	22	13	Cruciferae	Brassicaceae	HERB
+Sadori_d9	130	9	130	Ericaceae	Ericales (tetrad)	DWAR
+Sadori_d9	192	64	42	Fagus	Fagus	TRSH
+Sadori_d9	190	12	190	Fraxinus	Fraxinus	TRSH
+Sadori_d9	1601	196	80	Gramineae	Poaceae	HERB
+Sadori_d9	435	3	55	Ilex	Ilex	TRSH
+Sadori_d9	58	22	58	Juniperus	Juniperus communis-type	TRSH
+Sadori_d9	485	2	59	Labiatae	Lamiaceae	HERB
+Sadori_d9	62	11	62	Liliaceae	Liliaceae-type	HERB
+Sadori_d9	692	54000	692	Lycopodium (added)	Lycopodium (added)	NOPO
+Sadori_d9	559	159	559	Lycopodium (counted)	Lycopodium (counted)	NOPO
+Sadori_d9	3313	1	377	Myrtaceae	Myrtaceae	TRSH
+Sadori_d9	442	4	68	Olea	Olea europaea	TRSH
+Sadori_d9	571	92	70	Ostrya	Ostrya/Carpinus orientalis	TRSH
+Sadori_d9	167	8	167	Oxalidaceae	Oxalis	HERB
+Sadori_d9	437	54	86	Quercus deciduous	Quercus robur-type	TRSH
+Sadori_d9	135	23	135	Ranunculaceae	Ranunculaceae	HERB
+Sadori_d9	89	4	89	Rhamnus	Rhamnus-type	TRSH
+Sadori_d9	92	2	92	Rosaceae	Rosaceae	TRSH
+Sadori_d9	93	5	93	Rubiaceae	Rubiaceae	HERB
+Sadori_d9	727	8	94	Rumex	Rumex/Oxyria	HERB
+Sadori_d9	481	5	407	Sambucus	Sambucus	TRSH
+Sadori_d9	809	3	809	Urticaceae	Urticaceae	HERB
+Sadori_d9	120	9	120	Viburnum	Viburnum	TRSH
+Sadori_d9	24	3	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Sadori_d9	75	38	75	Pinus	Pinus	TRSH
+Sadori_d9	99	7	99	Salix	Salix	TRSH
+Sadori_d9	563	42	16	Carpinus betulus	Carpinus betulus	TRSH
+Sadori_d9	590	5	6	Umbelliferae	Apiaceae	HERB
+Sadori_d9	724	1	270	Plantago	Plantago	HERB
+Sadori_d9	744	7	744	Leguminosae	Leguminosae	HERB
+Sadori_d9	1052	4	85	Quercus ilex-type	Quercus ilex-type	TRSH

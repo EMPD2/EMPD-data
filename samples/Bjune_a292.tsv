@@ -1,37 +1,37 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Bjune_a292	Alnus	Alnus	TRSH	42	6.2038405
-Bjune_a292	Betula	Betula	TRSH	272	40.177253
-Bjune_a292	Carpinus betulus	Carpinus betulus	TRSH	1	0.14771049
-Bjune_a292	Corylus avellana	Corylus	TRSH	2	0.29542097
-Bjune_a292	Fraxinus excelsior	Fraxinus excelsior-type	TRSH	2	0.29542097
-Bjune_a292	Juniperus communis	Juniperus communis-type	TRSH	8	1.1816839
-Bjune_a292	Picea	Picea	TRSH	66	9.7488922
-Bjune_a292	Pinus sylvestris	Pinus sylvestris-type	TRSH	186	27.474151
-Bjune_a292	Populus tremula	Populus tremula-type	TRSH	3	0.44313146
-Bjune_a292	Prunus padus	Prunus padus	TRSH	1	0.14771049
-Bjune_a292	Quercus	Quercus	TRSH	6	0.88626292
-Bjune_a292	Rosaceae undiff.	Rosa	TRSH	1	0.14771049
-Bjune_a292	Salix undiff.	Salix	TRSH	5	0.73855244
-Bjune_a292	Anemone nemorosa-type/Hepatica nobilis	Anemone nemorosa-type	HERB	1	0.14771049
-Bjune_a292	Artemisia	Artemisia	HERB	1	0.14771049
-Bjune_a292	Cerealia undiff.	Cerealia-type	HERB	2	0.29542097
-Bjune_a292	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	3	0.44313146
-Bjune_a292	Filipendula	Filipendula	HERB	1	0.14771049
-Bjune_a292	Hordeum-type	Hordeum-type	HERB	5	0.73855244
-Bjune_a292	Parnassia palustris	Parnassia palustris	HERB	1	0.14771049
-Bjune_a292	Plantago major/P. media	Plantago major/P. media-type	HERB	1	0.14771049
-Bjune_a292	Gramineae undiff.	Poaceae	HERB	25	3.6927622
-Bjune_a292	Rumex acetosa	Rumex acetosa-type	HERB	1	0.14771049
-Bjune_a292	Rumex acetosa-type/R. acetosella-type	Rumex acetosa-type	HERB	1	0.14771049
-Bjune_a292	Solidago-type	Senecio-type	HERB	1	0.14771049
-Bjune_a292	Urtica	Urtica	HERB	24	3.5450517
-Bjune_a292	Dryopteris-type	Dryopteris-type	VACR	4	0.59084195
-Bjune_a292	Sphagnum	Sphagnum	BRYO	11	1.6248154
-Bjune_a292	Carex-type	Carex	AQUA	1	0.14771049
-Bjune_a292	Nymphaea	Nymphaea	AQUA	1	0.14771049
-Bjune_a292	Phragmites australis-type	Phragmites australis-type	AQUA	9	1.3293944
-Bjune_a292	Indeterminable: broken	Indeterminable: broken	INUN	1	
-Bjune_a292	Indeterminable: concealed	Indeterminable: concealed	INUN	1	
-Bjune_a292	Indeterminable: corroded	Indeterminable: corroded	INUN	1	
-Bjune_a292	Indeterminable: crumpled	Indeterminable: crumpled	INUN	1	
-Bjune_a292	Nymphaeaceae: star cell	Nymphaeaceae: star cell	NOPO	7	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Bjune_a292	5	42	5	Alnus	Alnus	TRSH
+Bjune_a292	3538	1	588	Anemone nemorosa-type/Hepatica nobilis	Anemone nemorosa-type	HERB
+Bjune_a292	12	272	12	Betula	Betula	TRSH
+Bjune_a292	3665	1	3663	Carex-type	Carex	AQUA
+Bjune_a292	563	1	16	Carpinus betulus	Carpinus betulus	TRSH
+Bjune_a292	822	2	22	Cerealia undiff.	Cerealia-type	HERB
+Bjune_a292	24	3	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Bjune_a292	1247	4	772	Dryopteris-type	Dryopteris-type	VACR
+Bjune_a292	45	1	45	Filipendula	Filipendula	HERB
+Bjune_a292	949	5	258	Hordeum-type	Hordeum-type	HERB
+Bjune_a292	4072	1	998	Indeterminable: broken	Indeterminable: broken	INUN
+Bjune_a292	4073	1	999	Indeterminable: concealed	Indeterminable: concealed	INUN
+Bjune_a292	4074	1	1324	Indeterminable: corroded	Indeterminable: corroded	INUN
+Bjune_a292	4075	1	1925	Indeterminable: crumpled	Indeterminable: crumpled	INUN
+Bjune_a292	941	8	58	Juniperus communis	Juniperus communis-type	TRSH
+Bjune_a292	627	1	627	Nymphaea	Nymphaea	AQUA
+Bjune_a292	4227	7	4227	Nymphaeaceae: star cell	Nymphaeaceae: star cell	NOPO
+Bjune_a292	1392	1	1306	Parnassia palustris	Parnassia palustris	HERB
+Bjune_a292	4286	9	4284	Phragmites australis-type	Phragmites australis-type	AQUA
+Bjune_a292	126	66	126	Picea	Picea	TRSH
+Bjune_a292	788	186	125	Pinus sylvestris	Pinus sylvestris-type	TRSH
+Bjune_a292	4323	1	458	Plantago major/P. media	Plantago major/P. media-type	HERB
+Bjune_a292	4381	3	4381	Populus tremula	Populus tremula-type	TRSH
+Bjune_a292	2370	1	2370	Prunus padus	Prunus padus	TRSH
+Bjune_a292	189	6	189	Quercus	Quercus	TRSH
+Bjune_a292	472	1	92	Rosaceae undiff.	Rosaceae	TRSH
+Bjune_a292	95	1	95	Rumex acetosa	Rumex acetosa-type	HERB
+Bjune_a292	4504	1	95	Rumex acetosa-type/R. acetosella-type	Rumex acetosa-type	HERB
+Bjune_a292	1400	5	99	Salix undiff.	Salix	TRSH
+Bjune_a292	2428	1	133	Solidago-type	Senecio-type	HERB
+Bjune_a292	144	11	144	Sphagnum	Sphagnum	BRYO
+Bjune_a292	652	24	652	Urtica	Urtica	HERB
+Bjune_a292	7	1	7	Artemisia	Artemisia	HERB
+Bjune_a292	31	2	31	Corylus avellana	Corylus	TRSH
+Bjune_a292	47	2	47	Fraxinus excelsior	Fraxinus excelsior-type	TRSH
+Bjune_a292	4018	25	80	Gramineae undiff.	Poaceae	HERB

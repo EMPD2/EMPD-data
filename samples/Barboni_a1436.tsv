@@ -1,43 +1,43 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Barboni_a1436	Alnus	Alnus	TRSH	3	0.69767442
-Barboni_a1436	Corylus	Corylus	TRSH	1	0.23255814
-Barboni_a1436	Juniperus	Juniperus communis-type	TRSH	21	4.8837209
-Barboni_a1436	Olea	Olea europaea	TRSH	1	0.23255814
-Barboni_a1436	Pinus	Pinus	TRSH	81	18.837209
-Barboni_a1436	Crataegus-type	Prunus-type	TRSH	1	0.23255814
-Barboni_a1436	Quercus undiff.	Quercus	TRSH	4	0.93023256
-Barboni_a1436	Quercus cerris-type	Quercus cerris-type	TRSH	18	4.1860465
-Barboni_a1436	Salix	Salix	TRSH	4	0.93023256
-Barboni_a1436	Bupleurum-type	Apiaceae	HERB	2	0.46511628
-Barboni_a1436	Umbelliferae	Apiaceae	HERB	5	1.1627907
-Barboni_a1436	Artemisia herba-alba-type	Artemisia	HERB	20	4.6511628
-Barboni_a1436	Cirsium/Gundelia	Asteraceae	HERB	2	0.46511628
-Barboni_a1436	Compositae subf. Asteroideae	Asteraceae subf. Asteroideae	HERB	38	8.8372093
-Barboni_a1436	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB	1	0.23255814
-Barboni_a1436	Brassica-type	Brassicaceae	HERB	11	2.5581395
-Barboni_a1436	Capsella-type	Brassicaceae	HERB	1	0.23255814
-Barboni_a1436	Centaurea solstitialis-type	Centaurea nigra-type	HERB	13	3.0232558
-Barboni_a1436	Cerealia-type	Cerealia-type	HERB	14	3.255814
-Barboni_a1436	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	7	1.627907
-Barboni_a1436	Erodium	Erodium	HERB	1	0.23255814
-Barboni_a1436	Stachys-type	Galeopsis-type	HERB	1	0.23255814
-Barboni_a1436	Lathyrus-type	Lathyrus-type	HERB	1	0.23255814
-Barboni_a1436	Lotus-type	Lotus-type	HERB	13	3.0232558
-Barboni_a1436	Matricaria-type	Matricaria-type	HERB	11	2.5581395
-Barboni_a1436	Moltkia	Moltkia	HERB	4	0.93023256
-Barboni_a1436	Plantaginaceae	Plantaginaceae	HERB	1	0.23255814
-Barboni_a1436	Plantago coronopus-type	Plantago coronopus-type	HERB	2	0.46511628
-Barboni_a1436	Plantago lanceolata-type	Plantago lanceolata-type	HERB	11	2.5581395
-Barboni_a1436	Gramineae	Poaceae	HERB	80	18.604651
-Barboni_a1436	Polygonum aviculare-type	Polygonum aviculare-type	HERB	1	0.23255814
-Barboni_a1436	Potentilla-type	Potentilla-type	HERB	37	8.6046512
-Barboni_a1436	Galium-type	Rubiaceae	HERB	6	1.3953488
-Barboni_a1436	Rumex acetosa-type	Rumex acetosa-type	HERB	1	0.23255814
-Barboni_a1436	Rumex hydrolapathum	Rumex aquaticus-type	HERB	1	0.23255814
-Barboni_a1436	Sanguisorba minor	Sanguisorba minor-type	HERB	3	0.69767442
-Barboni_a1436	Senecio-type	Senecio-type	HERB	4	0.93023256
-Barboni_a1436	Trifolium-type	Trifolium-type	HERB	2	0.46511628
-Barboni_a1436	Urtica dioica-type	Urtica dioica-type	HERB	1	0.23255814
-Barboni_a1436	Dryopteris-type	Dryopteris-type	VACR	1	0.23255814
-Barboni_a1436	Cyperaceae	Cyperaceae	AQUA	83	19.302326
-Barboni_a1436	Indeterminable: unknown	Indeterminable: unknown	INUN	6	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Barboni_a1436	5	3	5	Alnus	Alnus	TRSH
+Barboni_a1436	3631	11	13	Brassica-type	Brassicaceae	HERB
+Barboni_a1436	2550	2	6	Bupleurum-type	Apiaceae	HERB
+Barboni_a1436	3658	1	13	Capsella-type	Brassicaceae	HERB
+Barboni_a1436	3681	13	29	Centaurea solstitialis-type	Centaurea nigra-type	HERB
+Barboni_a1436	1065	14	22	Cerealia-type	Cerealia-type	HERB
+Barboni_a1436	24	7	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Barboni_a1436	3795	2	134	Cirsium/Gundelia	Asteraceae	HERB
+Barboni_a1436	3822	38	160	Compositae subf. Asteroideae	Asteraceae subf. Asteroideae	HERB
+Barboni_a1436	3868	83	3868	Cyperaceae	Cyperaceae	AQUA
+Barboni_a1436	1247	1	772	Dryopteris-type	Dryopteris-type	VACR
+Barboni_a1436	522	1	522	Erodium	Erodium	HERB
+Barboni_a1436	605	6	93	Galium-type	Rubiaceae	HERB
+Barboni_a1436	1601	80	80	Gramineae	Poaceae	HERB
+Barboni_a1436	4078	6	177	Indeterminable: unknown	Indeterminable: unknown	INUN
+Barboni_a1436	58	21	58	Juniperus	Juniperus communis-type	TRSH
+Barboni_a1436	611	13	611	Lotus-type	Lotus-type	HERB
+Barboni_a1436	1072	11	3	Matricaria-type	Matricaria-type	HERB
+Barboni_a1436	442	1	68	Olea	Olea europaea	TRSH
+Barboni_a1436	75	81	75	Pinus	Pinus	TRSH
+Barboni_a1436	168	1	168	Plantaginaceae	Plantaginaceae	HERB
+Barboni_a1436	2801	2	30	Plantago coronopus-type	Plantago coronopus-type	HERB
+Barboni_a1436	1075	11	60	Plantago lanceolata-type	Plantago lanceolata-type	HERB
+Barboni_a1436	1078	1	262	Polygonum aviculare-type	Polygonum aviculare-type	HERB
+Barboni_a1436	626	37	512	Potentilla-type	Potentilla-type	HERB
+Barboni_a1436	1051	18	84	Quercus cerris-type	Quercus cerris-type	TRSH
+Barboni_a1436	2173	4	189	Quercus undiff.	Quercus	TRSH
+Barboni_a1436	634	1	95	Rumex acetosa-type	Rumex acetosa-type	HERB
+Barboni_a1436	4513	1	1084	Rumex hydrolapathum	Rumex aquaticus-type	HERB
+Barboni_a1436	99	4	99	Salix	Salix	TRSH
+Barboni_a1436	101	3	101	Sanguisorba minor	Sanguisorba minor-type	HERB
+Barboni_a1436	1230	4	133	Senecio-type	Senecio-type	HERB
+Barboni_a1436	1405	1	244	Stachys-type	Galeopsis-type	HERB
+Barboni_a1436	1284	2	115	Trifolium-type	Trifolium-type	HERB
+Barboni_a1436	590	5	6	Umbelliferae	Apiaceae	HERB
+Barboni_a1436	4718	1	453	Urtica dioica-type	Urtica dioica-type	HERB
+Barboni_a1436	201	1	31	Corylus	Corylus	TRSH
+Barboni_a1436	3572	20	7	Artemisia herba-alba-type	Artemisia	HERB
+Barboni_a1436	3824	1	25	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Barboni_a1436	3857	1	82	Crataegus-type	Prunus-type	TRSH
+Barboni_a1436	4111	1	950	Lathyrus-type	Lathyrus-type	HERB
+Barboni_a1436	4191	4	4191	Moltkia	Moltkia	HERB

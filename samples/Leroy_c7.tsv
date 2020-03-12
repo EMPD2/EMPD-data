@@ -1,45 +1,45 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Leroy_c7	Alnus	Alnus	TRSH	114	35.185185
-Leroy_c7	Carpinus	Carpinus betulus	TRSH	19	5.8641975
-Leroy_c7	Corylus	Corylus	TRSH	1	0.30864198
-Leroy_c7	Fagus	Fagus	TRSH	3	0.92592593
-Leroy_c7	Juglans	Juglans	TRSH	1	0.30864198
-Leroy_c7	Juniperus	Juniperus communis-type	TRSH	1	0.30864198
-Leroy_c7	Olea	Olea europaea	TRSH	1	0.30864198
-Leroy_c7	Pterocarya	Pterocarya	TRSH	2	0.61728395
-Leroy_c7	Quercus	Quercus	TRSH	1	0.30864198
-Leroy_c7	Salix	Salix	TRSH	19	5.8641975
-Leroy_c7	Ulmus/Zelkova	Ulmus/Zelkova	TRSH	1	0.30864198
-Leroy_c7	Hedera	Hedera	LIAN	1	0.30864198
-Leroy_c7	Apiaceae	Apiaceae	HERB	3	0.92592593
-Leroy_c7	Artemisia	Artemisia	HERB	26	8.0246914
-Leroy_c7	Asteraceae Tubuliflorae	Asteraceae subf. Asteroideae	HERB	19	5.8641975
-Leroy_c7	Brassicaceae	Brassicaceae	HERB	2	0.61728395
-Leroy_c7	Cerealia-type	Cerealia-type	HERB	2	0.61728395
-Leroy_c7	Amaranthaceae/Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	18	5.5555556
-Leroy_c7	Lamiaceae	Lamiaceae	HERB	1	0.30864198
-Leroy_c7	Lythrum	Lythrum	HERB	1	0.30864198
-Leroy_c7	Polygonum persicaria-type	Persicaria maculosa-type	HERB	1	0.30864198
-Leroy_c7	Poaceae	Poaceae	HERB	35	10.802469
-Leroy_c7	Solanaceae	Solanaceae	HERB	1	0.30864198
-Leroy_c7	Azolla	Azolla	VACR	2	0.61728395
-Leroy_c7	Monolete psilate	Monolete fern spores	VACR	23	7.0987654
-Leroy_c7	Monolete not psilate	Monolete fern spores	VACR	4	1.2345679
-Leroy_c7	Thelypteris palustris-type	Thelypteris palustris	VACR	22	6.7901235
-Leroy_c7	Azolla: massulae	Azolla filiculoides	AQPT	18	5.5555556
-Leroy_c7	Botryococcus	Botryococcus	ALGA	2	0.61728395
-Leroy_c7	Ceratophyllum	Ceratophyllum: spines	AQUA	4	1.2345679
-Leroy_c7	Cladium	Cladium mariscus	AQUA	2	0.61728395
-Leroy_c7	Cyperaceae	Cyperaceae	AQUA	27	8.3333333
-Leroy_c7	Myriophyllum verticillatum	Myriophyllum verticillatum	AQUA	3	0.92592593
-Leroy_c7	Potamogeton	Potamogeton-type	AQUA	1	0.30864198
-Leroy_c7	Typha/Sparganium	Typha/Sparganium	AQUA	94	29.012346
-Leroy_c7	Indeterminable: unknown	Indeterminable: unknown	INUN	20	
-Leroy_c7	Foraminifera	Foraminifera	NOPO	1	
-Leroy_c7	Gloeotrichia	Gloeotrichia	CYAN	22	
-Leroy_c7	Glomus	Glomus	FUNG	3	
-Leroy_c7	Sporangium	Pteridophyta: sporangia	VEMI	2	
-Leroy_c7	Spirogyra	Spirogyra	CHLO	4	
-Leroy_c7	Tetraedron	Tetraedron	CHLO	15	
-Leroy_c7	Tetraploa	Tetraploa	FUNG	6	
-Leroy_c7	Turbellariae	Turbellaria	PLAT	2	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Leroy_c7	3525	18	24	Amaranthaceae/Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Leroy_c7	6	3	6	Apiaceae	Apiaceae	HERB
+Leroy_c7	7	26	7	Artemisia	Artemisia	HERB
+Leroy_c7	1927	19	160	Asteraceae Tubuliflorae	Asteraceae subf. Asteroideae	HERB
+Leroy_c7	663	2	663	Botryococcus	Botryococcus	ALGA
+Leroy_c7	13	2	13	Brassicaceae	Brassicaceae	HERB
+Leroy_c7	16	19	16	Carpinus	Carpinus betulus	TRSH
+Leroy_c7	3692	4	3692	Ceratophyllum	Ceratophyllum: spines	AQUA
+Leroy_c7	1065	2	22	Cerealia-type	Cerealia-type	HERB
+Leroy_c7	2000	2	2000	Cladium	Cladium mariscus	AQUA
+Leroy_c7	201	1	31	Corylus	Corylus	TRSH
+Leroy_c7	3868	27	3868	Cyperaceae	Cyperaceae	AQUA
+Leroy_c7	192	3	42	Fagus	Fagus	TRSH
+Leroy_c7	3978	1	3978	Foraminifera	Foraminifera	NOPO
+Leroy_c7	1252	22	1252	Gloeotrichia	Gloeotrichia	CYAN
+Leroy_c7	554	3	362	Glomus	Glomus	FUNG
+Leroy_c7	4078	20	177	Indeterminable: unknown	Indeterminable: unknown	INUN
+Leroy_c7	58	1	58	Juniperus	Juniperus communis-type	TRSH
+Leroy_c7	59	1	59	Lamiaceae	Lamiaceae	HERB
+Leroy_c7	63	1	63	Lythrum	Lythrum	HERB
+Leroy_c7	1921	23	146	Monolete psilate	Monolete fern spores	VACR
+Leroy_c7	1575	3	1262	Myriophyllum verticillatum	Myriophyllum verticillatum	AQUA
+Leroy_c7	442	1	68	Olea	Olea europaea	TRSH
+Leroy_c7	80	35	80	Poaceae	Poaceae	HERB
+Leroy_c7	2809	1	231	Polygonum persicaria-type	Persicaria maculosa-type	HERB
+Leroy_c7	657	1	108	Potamogeton	Potamogeton-type	AQUA
+Leroy_c7	189	1	189	Quercus	Quercus	TRSH
+Leroy_c7	99	19	99	Salix	Salix	TRSH
+Leroy_c7	4633	4	4633	Spirogyra	Spirogyra	CHLO
+Leroy_c7	4635	2	277	Sporangium	Pteridophyta: sporangia	VEMI
+Leroy_c7	4651	15	4651	Tetraedron	Tetraedron	CHLO
+Leroy_c7	836	6	836	Tetraploa	Tetraploa	FUNG
+Leroy_c7	4659	22	859	Thelypteris palustris-type	Thelypteris palustris	VACR
+Leroy_c7	4697	2	733	Turbellariae	Turbellaria	PLAT
+Leroy_c7	2400	1	154	Ulmus/Zelkova	Ulmus/Zelkova	TRSH
+Leroy_c7	5	114	5	Alnus	Alnus	TRSH
+Leroy_c7	57	1	57	Juglans	Juglans	TRSH
+Leroy_c7	492	1	492	Solanaceae	Solanaceae	HERB
+Leroy_c7	808	94	734	Typha/Sparganium	Typha/Sparganium	AQUA
+Leroy_c7	1950	2	191	Pterocarya	Pterocarya	TRSH
+Leroy_c7	3602	2	3602	Azolla	Azolla	VACR
+Leroy_c7	3603	18	3603	Azolla: massulae	Azolla filiculoides	AQPT
+Leroy_c7	4031	1	4031	Hedera	Hedera	LIAN
+Leroy_c7	4196	4	146	Monolete not psilate	Monolete fern spores	VACR

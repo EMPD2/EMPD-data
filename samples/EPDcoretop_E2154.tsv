@@ -1,16 +1,16 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-EPDcoretop_E2154	Betula	Betula	TRSH	117	25.215517
-EPDcoretop_E2154	Calluna	Calluna vulgaris	DWAR	5	1.0775862
-EPDcoretop_E2154	Corylus	Corylus	TRSH	1	0.21551724
-EPDcoretop_E2154	Ilex	Ilex	TRSH	2	0.43103448
-EPDcoretop_E2154	Pinus	Pinus	TRSH	5	1.0775862
-EPDcoretop_E2154	Quercus	Quercus	TRSH	300	64.655172
-EPDcoretop_E2154	Salix	Salix	TRSH	1	0.21551724
-EPDcoretop_E2154	Sorbus	Sorbus-type	TRSH	6	1.2931034
-EPDcoretop_E2154	Apiaceae	Apiaceae	HERB	1	0.21551724
-EPDcoretop_E2154	Cyperaceae	Cyperaceae	HERB	2	0.43103448
-EPDcoretop_E2154	Plantago	Plantago	HERB	1	0.21551724
-EPDcoretop_E2154	Poaceae	Poaceae	HERB	13	2.8017241
-EPDcoretop_E2154	Polypodiales	Monolete fern spores	VACR	4	0.86206897
-EPDcoretop_E2154	Polypodium	Polypodium	VACR	1	0.21551724
-EPDcoretop_E2154	Pteridium	Pteridium aquilinum	VACR	5	1.0775862
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+EPDcoretop_E2154	6	1	6	Apiaceae	Apiaceae	HERB
+EPDcoretop_E2154	12	117	12	Betula	Betula	TRSH
+EPDcoretop_E2154	33	2	33	Cyperaceae	Cyperaceae	HERB
+EPDcoretop_E2154	75	5	75	Pinus	Pinus	TRSH
+EPDcoretop_E2154	80	13	80	Poaceae	Poaceae	HERB
+EPDcoretop_E2154	99	1	99	Salix	Salix	TRSH
+EPDcoretop_E2154	107	6	107	Sorbus	Sorbus-type	TRSH
+EPDcoretop_E2154	189	300	189	Quercus	Quercus	TRSH
+EPDcoretop_E2154	201	1	31	Corylus	Corylus	TRSH
+EPDcoretop_E2154	431	5	180	Pteridium	Pteridium aquilinum	VACR
+EPDcoretop_E2154	435	2	55	Ilex	Ilex	TRSH
+EPDcoretop_E2154	666	1	214	Polypodium	Polypodium	VACR
+EPDcoretop_E2154	724	1	270	Plantago	Plantago	HERB
+EPDcoretop_E2154	3645	5	3645	Calluna	Calluna vulgaris	DWAR
+EPDcoretop_E2154	4377	4	146	Polypodiales	Monolete fern spores	VACR

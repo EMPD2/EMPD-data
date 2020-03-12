@@ -1,44 +1,44 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Panajiotidis_b7	Abies	Abies	TRSH	76	13.080895
-Panajiotidis_b7	Alnus	Alnus	TRSH	3	0.51635112
-Panajiotidis_b7	Carpinus betulus	Carpinus betulus	TRSH	10	1.7211704
-Panajiotidis_b7	Castanea	Castanea sativa	TRSH	5	0.8605852
-Panajiotidis_b7	Corylus	Corylus	TRSH	15	2.5817556
-Panajiotidis_b7	Fagus	Fagus	TRSH	31	5.3356282
-Panajiotidis_b7	Fraxinus	Fraxinus	TRSH	4	0.68846816
-Panajiotidis_b7	Juglans	Juglans	TRSH	4	0.68846816
-Panajiotidis_b7	Juniperus	Juniperus-type	TRSH	2	0.34423408
-Panajiotidis_b7	Olea europaea	Olea europaea	TRSH	2	0.34423408
-Panajiotidis_b7	Ostrya carpinifolia/Carpinus orientalis	Ostrya/Carpinus orientalis	TRSH	100	17.211704
-Panajiotidis_b7	Pinus	Pinus	TRSH	194	33.390706
-Panajiotidis_b7	Platanus	Platanus	TRSH	5	0.8605852
-Panajiotidis_b7	Quercus cerris-type	Quercus cerris-type	TRSH	1	0.17211704
-Panajiotidis_b7	Quercus ilex-type	Quercus ilex-type	TRSH	16	2.7538726
-Panajiotidis_b7	Quercus pubescens-type	Quercus robur-type	TRSH	31	5.3356282
-Panajiotidis_b7	Rubus	Rubus	TRSH	4	0.68846816
-Panajiotidis_b7	Salix	Salix	TRSH	1	0.17211704
-Panajiotidis_b7	Sorbus-type	Sorbus-type	TRSH	6	1.0327022
-Panajiotidis_b7	Vaccinium-type	Vaccinium-type	DWAR	1	0.17211704
-Panajiotidis_b7	Allium ursinum-type	Allium ursinum-type	HERB	1	0.17211704
-Panajiotidis_b7	Artemisia	Artemisia	HERB	2	0.34423408
-Panajiotidis_b7	Cerealia	Cerealia-type	HERB	5	0.8605852
-Panajiotidis_b7	Eryngium	Eryngium	HERB	3	0.51635112
-Panajiotidis_b7	Stachys (Galeopsis - Ballota - Gruppe)	Galeopsis/Ballota-type	HERB	1	0.17211704
-Panajiotidis_b7	Helianthemum nummularium-type	Helianthemum nummularium-type	HERB	2	0.34423408
-Panajiotidis_b7	Matricaria-type	Matricaria-type	HERB	1	0.17211704
-Panajiotidis_b7	Mentha-type	Mentha-type	HERB	1	0.17211704
-Panajiotidis_b7	Platango lanceolata-type	Plantago lanceolata-type	HERB	3	0.51635112
-Panajiotidis_b7	Poaceae	Poaceae	HERB	18	3.0981067
-Panajiotidis_b7	Potentilla-type	Potentilla-type	HERB	6	1.0327022
-Panajiotidis_b7	Rumex acetosa-type	Rumex acetosa-type	HERB	1	0.17211704
-Panajiotidis_b7	Sanguisorba minor-type	Sanguisorba minor-type	HERB	1	0.17211704
-Panajiotidis_b7	Senecio-type	Senecio-type	HERB	4	0.68846816
-Panajiotidis_b7	Urticaceae	Urticaceae	HERB	1	0.17211704
-Panajiotidis_b7	Asplenium	Asplenium-type	VACR	14	2.4096386
-Panajiotidis_b7	Asplenium trichomanes-ramosum	Asplenium-type	VACR	4	0.68846816
-Panajiotidis_b7	Dryopteris	Dryopteris-type	VACR	1	0.17211704
-Panajiotidis_b7	Pteridophyta	Monolete fern spores	VACR	1	0.17211704
-Panajiotidis_b7	Lycopodium	Lycopodium (counted)	NOPO	161	
-Panajiotidis_b7	concentration of Lycopodium	Lycopodium (spores/tablet)	NOPO	12542	
-Panajiotidis_b7	quantity of Lycopodium added	Lycopodium tablets (number)	NOPO	5	
-Panajiotidis_b7	volume of sample	Quantity of sample	NOPO	19.6	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Panajiotidis_b7	75	194	75	Pinus	Pinus	TRSH
+Panajiotidis_b7	5	3	5	Alnus	Alnus	TRSH
+Panajiotidis_b7	192	31	42	Fagus	Fagus	TRSH
+Panajiotidis_b7	201	15	31	Corylus	Corylus	TRSH
+Panajiotidis_b7	57	4	57	Juglans	Juglans	TRSH
+Panajiotidis_b7	68	2	68	Olea europaea	Olea europaea	TRSH
+Panajiotidis_b7	78	5	78	Platanus	Platanus	TRSH
+Panajiotidis_b7	99	1	99	Salix	Salix	TRSH
+Panajiotidis_b7	7	2	7	Artemisia	Artemisia	HERB
+Panajiotidis_b7	22	5	22	Cerealia	Cerealia-type	HERB
+Panajiotidis_b7	80	18	80	Poaceae	Poaceae	HERB
+Panajiotidis_b7	141	4	141	Rubus	Rubus	TRSH
+Panajiotidis_b7	634	1	95	Rumex acetosa-type	Rumex acetosa-type	HERB
+Panajiotidis_b7	809	1	809	Urticaceae	Urticaceae	HERB
+Panajiotidis_b7	626	6	512	Potentilla-type	Potentilla-type	HERB
+Panajiotidis_b7	772	1	772	Dryopteris	Dryopteris-type	VACR
+Panajiotidis_b7	1072	1	3	Matricaria-type	Matricaria-type	HERB
+Panajiotidis_b7	1791	161	559	Lycopodium	Lycopodium (counted)	NOPO
+Panajiotidis_b7	1792	19.6	1756	volume of sample	Quantity of sample	NOPO
+Panajiotidis_b7	1793	5	1295	quantity of Lycopodium added	Lycopodium tablets (number)	NOPO
+Panajiotidis_b7	1794	12542	1293	concentration of Lycopodium	Lycopodium (spores/tablet)	NOPO
+Panajiotidis_b7	190	4	190	Fraxinus	Fraxinus	TRSH
+Panajiotidis_b7	441	5	19	Castanea	Castanea sativa	TRSH
+Panajiotidis_b7	560	76	321	Abies	Abies	TRSH
+Panajiotidis_b7	563	10	16	Carpinus betulus	Carpinus betulus	TRSH
+Panajiotidis_b7	942	1	942	Vaccinium-type	Vaccinium-type	TRSH
+Panajiotidis_b7	1040	1	146	Pteridophyta	Monolete fern spores	VACR
+Panajiotidis_b7	1051	1	84	Quercus cerris-type	Quercus cerris-type	TRSH
+Panajiotidis_b7	1052	16	85	Quercus ilex-type	Quercus ilex-type	TRSH
+Panajiotidis_b7	1055	1	101	Sanguisorba minor-type	Sanguisorba minor-type	HERB
+Panajiotidis_b7	1073	1	65	Mentha-type	Mentha-type	HERB
+Panajiotidis_b7	1136	3	1136	Eryngium	Eryngium	HERB
+Panajiotidis_b7	1213	1	1103	Allium ursinum-type	Allium ursinum-type	HERB
+Panajiotidis_b7	1230	4	133	Senecio-type	Senecio-type	HERB
+Panajiotidis_b7	1232	6	107	Sorbus-type	Sorbus-type	TRSH
+Panajiotidis_b7	1535	14	216	Asplenium	Asplenium-type	VACR
+Panajiotidis_b7	1728	2	203	Juniperus	Juniperus-type	TRSH
+Panajiotidis_b7	1734	100	70	Ostrya carpinifolia/Carpinus orientalis	Ostrya/Carpinus orientalis	TRSH
+Panajiotidis_b7	1759	31	86	Quercus pubescens-type	Quercus robur-type	TRSH
+Panajiotidis_b7	1767	2	1068	Helianthemum nummularium-type	Helianthemum nummularium-type	HERB
+Panajiotidis_b7	1769	1	1769	Stachys (Galeopsis - Ballota - Gruppe)	Galeopsis/Ballota-type	HERB
+Panajiotidis_b7	1771	3	60	Platango lanceolata-type	Plantago lanceolata-type	HERB
+Panajiotidis_b7	1788	4	216	Asplenium trichomanes-ramosum	Asplenium-type	VACR

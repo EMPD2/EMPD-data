@@ -1,51 +1,51 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Leroy_j10	Acer	Acer campestre-type	TRSH	1	0.15923567
-Leroy_j10	Alnus	Alnus	TRSH	93	14.808917
-Leroy_j10	Betula	Betula	TRSH	1	0.15923567
-Leroy_j10	Carpinus betulus	Carpinus betulus	TRSH	41	6.5286624
-Leroy_j10	Cupressaceae	Cupressaceae undiff.	TRSH	2	0.31847134
-Leroy_j10	Fagus	Fagus	TRSH	10	1.5923567
-Leroy_j10	Fontanesia	Fontanesia philliraeoides	TRSH	1	0.15923567
-Leroy_j10	Juglans	Juglans	TRSH	1	0.15923567
-Leroy_j10	Parrotia persica	Parrotia persica	TRSH	1	0.15923567
-Leroy_j10	Pterocarya	Pterocarya	TRSH	2	0.31847134
-Leroy_j10	Q. sempervirens-t.	Quercus ilex-type	TRSH	2	0.31847134
-Leroy_j10	Quercus deciduous	Quercus robur-type	TRSH	7	1.1146497
-Leroy_j10	Salix	Salix	TRSH	2	0.31847134
-Leroy_j10	Ulmus-Zelkova	Ulmus/Zelkova	TRSH	5	0.79617834
-Leroy_j10	*sum	*sum	HERB	308	49.044586
-Leroy_j10	Apiaceae	Apiaceae	HERB	1	0.15923567
-Leroy_j10	Artemisia	Artemisia	HERB	68	10.828025
-Leroy_j10	Ast. liguliflorae	Asteraceae subf. Cichorioideae	HERB	1	0.15923567
-Leroy_j10	Brassicaceae	Brassicaceae	HERB	2	0.31847134
-Leroy_j10	Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	43	6.8471338
-Leroy_j10	Cyperaceae	Cyperaceae	HERB	1	0.15923567
-Leroy_j10	Plantaginaceae	Plantaginaceae	HERB	3	0.47770701
-Leroy_j10	P. lanceolata-t.	Plantago lanceolata-type	HERB	2	0.31847134
-Leroy_j10	Poaceae	Poaceae	HERB	16	2.5477707
-Leroy_j10	Rumex	Rumex/Oxyria	HERB	1	0.15923567
-Leroy_j10	Thalictrum	Thalictrum	HERB	1	0.15923567
-Leroy_j10	M. non psilate	Monolete fern spores	VACR	5	0.79617834
-Leroy_j10	Monoletes psilate	Monolete fern spores	VACR	5	0.79617834
-Leroy_j10	Pteridium aquilinum	Pteridium aquilinum	VACR	2	0.31847134
-Leroy_j10	Typha-Sparganium	Sparganium-type	AQUA	2	0.31847134
-Leroy_j10	Spirogyra	Spirogyra	ALGA	1	0.15923567
-Leroy_j10	*Concentration	*Concentration	CHAR	14338.989	
-Leroy_j10	Sum AP	Indeterminable: unknown	INUN	169	
-Leroy_j10	Indeterminated	Indeterminable: unknown	INUN	1	
-Leroy_j10	Indeterminable	Indeterminable: unknown	INUN	22	
-Leroy_j10	sum total	Indeterminable: unknown	INUN	348	
-Leroy_j10	Incertae sedis 5b	Indeterminable: unknown	INUN	1	
-Leroy_j10	Incertae sedis 5d	Indeterminable: unknown	INUN	1	
-Leroy_j10	Curved parasite	Indeterminable: unknown	INUN	1	
-Leroy_j10	Gastrop. Mandible	Indeterminable: unknown	INUN	1	
-Leroy_j10	t. 119	Type 119	UNPP	2	
-Leroy_j10	Anabaena	Anabaena	CYAN	7	
-Leroy_j10	Diporotheca	Diporotheca	FUNG	1	
-Leroy_j10	Fungal spores	Fungal spore	FUNG	92	
-Leroy_j10	Asterosporium	Fungi	FUNG	1	
-Leroy_j10	Gloeotrichia	Gloeotrichia	CYAN	1	
-Leroy_j10	Glomus	Glomus	FUNG	5	
-Leroy_j10	Pterosperma	Pterosperma	INVE	2	
-Leroy_j10	Reworked	Reworked pollen	PREQ	3	
-Leroy_j10	Turbellarian	Turbellaria	PLAT	3	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Leroy_j10	2	1	2	Acer	Acer campestre-type	TRSH
+Leroy_j10	5	93	5	Alnus	Alnus	TRSH
+Leroy_j10	12	1	12	Betula	Betula	TRSH
+Leroy_j10	192	10	42	Fagus	Fagus	TRSH
+Leroy_j10	193	1	193	Parrotia persica	Parrotia persica	TRSH
+Leroy_j10	437	7	86	Quercus deciduous	Quercus robur-type	TRSH
+Leroy_j10	563	41	16	Carpinus betulus	Carpinus betulus	TRSH
+Leroy_j10	714	2	347	Cupressaceae	Cupressaceae undiff.	TRSH
+Leroy_j10	2070	169	177	Sum AP	Indeterminable: unknown	INUN
+Leroy_j10	6	1	6	Apiaceae	Apiaceae	HERB
+Leroy_j10	7	68	7	Artemisia	Artemisia	HERB
+Leroy_j10	13	2	13	Brassicaceae	Brassicaceae	HERB
+Leroy_j10	57	1	57	Juglans	Juglans	TRSH
+Leroy_j10	99	2	99	Salix	Salix	TRSH
+Leroy_j10	707	43	24	Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB
+Leroy_j10	1950	2	191	Pterocarya	Pterocarya	TRSH
+Leroy_j10	33	1	33	Cyperaceae	Cyperaceae	HERB
+Leroy_j10	80	16	80	Poaceae	Poaceae	HERB
+Leroy_j10	112	1	112	Thalictrum	Thalictrum	HERB
+Leroy_j10	168	3	168	Plantaginaceae	Plantaginaceae	HERB
+Leroy_j10	727	1	94	Rumex	Rumex/Oxyria	HERB
+Leroy_j10	1975	2	176	Typha-Sparganium	Sparganium-type	AQUA
+Leroy_j10	1978	5	146	M. non psilate	Monolete fern spores	VACR
+Leroy_j10	2062	5	146	Monoletes psilate	Monolete fern spores	VACR
+Leroy_j10	2076	2	60	P. lanceolata-t.	Plantago lanceolata-type	HERB
+Leroy_j10	2082	308	2082	*sum	*sum	HERB
+Leroy_j10	1981	1	177	Indeterminated	Indeterminable: unknown	INUN
+Leroy_j10	717	22	177	Indeterminable	Indeterminable: unknown	INUN
+Leroy_j10	1982	3	1982	Reworked	Reworked pollen	PREQ
+Leroy_j10	2085	348	177	sum total	Indeterminable: unknown	INUN
+Leroy_j10	2086	14338.989	2086	*Concentration	*Concentration	CHAR
+Leroy_j10	2087	7	2087	Anabaena	Anabaena	CYAN
+Leroy_j10	1252	1	1252	Gloeotrichia	Gloeotrichia	CYAN
+Leroy_j10	2020	2	2020	Pterosperma	Pterosperma	INVE
+Leroy_j10	2019	1	177	Incertae sedis 5b	Indeterminable: unknown	INUN
+Leroy_j10	2093	1	177	Incertae sedis 5d	Indeterminable: unknown	INUN
+Leroy_j10	2022	92	2022	Fungal spores	Fungal spore	FUNG
+Leroy_j10	2094	1	672	Asterosporium	Fungi	FUNG
+Leroy_j10	2095	1	318	Diporotheca	Diporotheca	FUNG
+Leroy_j10	180	2	180	Pteridium aquilinum	Pteridium aquilinum	VACR
+Leroy_j10	729	1	315	Spirogyra	Spirogyra	ALGA
+Leroy_j10	554	5	362	Glomus	Glomus	FUNG
+Leroy_j10	2098	1	177	Curved parasite	Indeterminable: unknown	INUN
+Leroy_j10	2099	2	2099	t. 119	Type 119	UNPP
+Leroy_j10	2024	3	733	Turbellarian	Turbellaria	PLAT
+Leroy_j10	2102	1	177	Gastrop. Mandible	Indeterminable: unknown	INUN
+Leroy_j10	1948	2	85	Q. sempervirens-t.	Quercus ilex-type	TRSH
+Leroy_j10	1954	5	154	Ulmus-Zelkova	Ulmus/Zelkova	TRSH
+Leroy_j10	2069	1	2069	Fontanesia	Fontanesia philliraeoides	TRSH
+Leroy_j10	2071	1	25	Ast. liguliflorae	Asteraceae subf. Cichorioideae	HERB

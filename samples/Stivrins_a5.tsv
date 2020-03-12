@@ -1,35 +1,35 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Stivrins_a5	Alnus	Alnus	TRSH	193	18.522073
-Stivrins_a5	Betula	Betula	TRSH	265	25.431862
-Stivrins_a5	Carpinus	Carpinus betulus	TRSH	2	0.19193858
-Stivrins_a5	Corylus	Corylus	TRSH	5	0.47984645
-Stivrins_a5	Fraxinus	Fraxinus	TRSH	7	0.67178503
-Stivrins_a5	Juniperus	Juniperus communis-type	TRSH	16	1.5355086
-Stivrins_a5	Picea	Picea	TRSH	28	2.6871401
-Stivrins_a5	Pinus	Pinus	TRSH	245	23.512476
-Stivrins_a5	Quercus	Quercus	TRSH	16	1.5355086
-Stivrins_a5	Rosaceae	Rosaceae	TRSH	2	0.19193858
-Stivrins_a5	Salix	Salix	TRSH	21	2.0153551
-Stivrins_a5	Tilia	Tilia	TRSH	3	0.28790787
-Stivrins_a5	Ulmus	Ulmus/Zelkova	TRSH	2	0.19193858
-Stivrins_a5	Apiaceae	Apiaceae	HERB	14	1.3435701
-Stivrins_a5	Artemisia type	Artemisia	HERB	10	0.9596929
-Stivrins_a5	Aster type	Aster-type	HERB	4	0.38387716
-Stivrins_a5	Avena-Triticum	Avena/Triticum-type	HERB	30	2.8790787
-Stivrins_a5	Brassicaceae	Brassicaceae	HERB	9	0.86372361
-Stivrins_a5	Cannabis	Cannabis sativa	HERB	1	0.09596929
-Stivrins_a5	Centaurea cyanus	Centaurea cyanus-type	HERB	2	0.19193858
-Stivrins_a5	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	6	0.57581574
-Stivrins_a5	Cyperaceae	Cyperaceae	HERB	31	2.975048
-Stivrins_a5	Filipendula	Filipendula	HERB	6	0.57581574
-Stivrins_a5	Hordeum	Hordeum-type	HERB	4	0.38387716
-Stivrins_a5	Plantago lanceolata	Plantago lanceolata-type	HERB	8	0.76775432
-Stivrins_a5	Poaceae	Poaceae	HERB	71	6.8138196
-Stivrins_a5	Primulaceae	Primulaceae	HERB	1	0.09596929
-Stivrins_a5	Ranunculus	Ranunculus-type	HERB	1	0.09596929
-Stivrins_a5	Rumex	Rumex/Oxyria	HERB	12	1.1516315
-Stivrins_a5	Secale cereale	Secale cereale	HERB	9	0.86372361
-Stivrins_a5	Trifolium	Trifolium-type	HERB	3	0.28790787
-Stivrins_a5	Urtica	Urtica	HERB	5	0.47984645
-Stivrins_a5	Polypodiaceae	Monolete fern spores	VACR	10	0.9596929
-Stivrins_a5	Potamogeton natans-type	Potamogeton natans-type	AQUA	20	1.9193858
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Stivrins_a5	5	193	5	Alnus	Alnus	TRSH
+Stivrins_a5	6	14	6	Apiaceae	Apiaceae	HERB
+Stivrins_a5	11	4	11	Aster type	Aster-type	HERB
+Stivrins_a5	12	265	12	Betula	Betula	TRSH
+Stivrins_a5	13	9	13	Brassicaceae	Brassicaceae	HERB
+Stivrins_a5	16	2	16	Carpinus	Carpinus betulus	TRSH
+Stivrins_a5	24	6	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Stivrins_a5	33	31	33	Cyperaceae	Cyperaceae	HERB
+Stivrins_a5	45	6	45	Filipendula	Filipendula	HERB
+Stivrins_a5	58	16	58	Juniperus	Juniperus communis-type	TRSH
+Stivrins_a5	190	7	190	Fraxinus	Fraxinus	TRSH
+Stivrins_a5	201	5	31	Corylus	Corylus	TRSH
+Stivrins_a5	764	1	764	Cannabis	Cannabis sativa	HERB
+Stivrins_a5	821	2	462	Centaurea cyanus	Centaurea cyanus-type	HERB
+Stivrins_a5	976	10	7	Artemisia type	Artemisia	HERB
+Stivrins_a5	60	8	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+Stivrins_a5	75	245	75	Pinus	Pinus	TRSH
+Stivrins_a5	80	71	80	Poaceae	Poaceae	HERB
+Stivrins_a5	99	21	99	Salix	Salix	TRSH
+Stivrins_a5	115	3	115	Trifolium	Trifolium-type	HERB
+Stivrins_a5	126	28	126	Picea	Picea	TRSH
+Stivrins_a5	146	10	146	Polypodiaceae	Monolete fern spores	VACR
+Stivrins_a5	154	2	154	Ulmus	Ulmus/Zelkova	TRSH
+Stivrins_a5	187	3	187	Tilia	Tilia	TRSH
+Stivrins_a5	189	16	189	Quercus	Quercus	TRSH
+Stivrins_a5	256	9	256	Secale cereale	Secale cereale	HERB
+Stivrins_a5	629	1	274	Ranunculus	Ranunculus-type	HERB
+Stivrins_a5	652	5	652	Urtica	Urtica	HERB
+Stivrins_a5	727	12	94	Rumex	Rumex/Oxyria	HERB
+Stivrins_a5	799	1	799	Primulaceae	Primulaceae	HERB
+Stivrins_a5	1581	20	912	Potamogeton natans-type	Potamogeton natans-type	AQUA
+Stivrins_a5	92	2	92	Rosaceae	Rosaceae	TRSH
+Stivrins_a5	1571	30	818	Avena-Triticum	Avena/Triticum-type	HERB
+Stivrins_a5	1572	4	258	Hordeum	Hordeum-type	HERB

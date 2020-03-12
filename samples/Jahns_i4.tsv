@@ -1,45 +1,45 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Jahns_i4	Cistus p.p.	Cistus	TRSH	6	0.66592675
-Jahns_i4	Cistus incanus type	Cistus albidus-type	TRSH	1	0.11098779
-Jahns_i4	Cistus monspeliensis	Cistus monspeliensis-type	TRSH	2	0.22197558
-Jahns_i4	Ephedra fragilis type	Ephedra fragilis-type	TRSH	3	0.33296337
-Jahns_i4	Erica	Erica	DWAR	1	0.11098779
-Jahns_i4	Jasminum	Jasminum	TRSH	1	0.11098779
-Jahns_i4	Juniperus	Juniperus-type	TRSH	5	0.55493896
-Jahns_i4	Olea	Olea europaea	TRSH	35	3.8845727
-Jahns_i4	Carpinus orientalis/Ostrya	Ostrya/Carpinus orientalis	TRSH	3	0.33296337
-Jahns_i4	Phillyrea	Phillyrea	TRSH	2	0.22197558
-Jahns_i4	Pinus	Pinus	TRSH	110	12.208657
-Jahns_i4	Pistacia	Pistacia	TRSH	337	37.402886
-Jahns_i4	Quercus evergreen	Quercus ilex-type	TRSH	5	0.55493896
-Jahns_i4	Rosaceae	Rosaceae	TRSH	2	0.22197558
-Jahns_i4	Ulmus	Ulmus/Zelkova	TRSH	1	0.11098779
-Jahns_i4	Vitis	Vitis	TRSH	2	0.22197558
-Jahns_i4	Apiaceae	Apiaceae	HERB	10	1.1098779
-Jahns_i4	Artemisia	Artemisia	HERB	1	0.11098779
-Jahns_i4	Asteraceae Tubuliflorae	Asteraceae subf. Asteroideae	HERB	57	6.3263041
-Jahns_i4	Asteraceae Liguliflorae	Asteraceae subf. Cichorioideae	HERB	113	12.54162
-Jahns_i4	Avena type	Avena-type	HERB	1	0.11098779
-Jahns_i4	Brassicaceae	Brassicaceae	HERB	35	3.8845727
-Jahns_i4	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	4	0.44395117
-Jahns_i4	Cerealia p.p.	Cerealia-type	HERB	1	0.11098779
-Jahns_i4	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.11098779
-Jahns_i4	Convolvulus arvensis	Convolvulus arvensis-type	HERB	9	0.99889012
-Jahns_i4	Cyperaceae	Cyperaceae	HERB	1	0.11098779
-Jahns_i4	Euphorbiaceae	Euphorbiaceae	HERB	2	0.22197558
-Jahns_i4	Fabaceae p.p.	Fabaceae	HERB	15	1.6648169
-Jahns_i4	Filipendula	Filipendula	HERB	2	0.22197558
-Jahns_i4	Glaucium type	Glaucium	HERB	3	0.33296337
-Jahns_i4	Hordeum type	Hordeum-type	HERB	1	0.11098779
-Jahns_i4	Mercurialis annua	Mercurialis annua	HERB	14	1.5538291
-Jahns_i4	Plantago coronopus type	Plantago coronopus-type	HERB	1	0.11098779
-Jahns_i4	Plantago lanceolata type	Plantago lanceolata-type	HERB	3	0.33296337
-Jahns_i4	Plantago major type	Plantago major	HERB	1	0.11098779
-Jahns_i4	Poaceae	Poaceae	HERB	41	4.5504994
-Jahns_i4	Ranunculaceae p.p.	Ranunculaceae	HERB	47	5.2164262
-Jahns_i4	Rumex	Rumex/Oxyria	HERB	7	0.77691454
-Jahns_i4	Sarcopoterium/Sanguisorba minor	Sanguisorba minor-type	HERB	1	0.11098779
-Jahns_i4	Filicinae	Monolete fern spores	VACR	3	0.33296337
-Jahns_i4	Polypodium	Polypodium	VACR	1	0.11098779
-Jahns_i4	trilete psilate Sporen	Trilete spore(s)	VACR	2	0.22197558
-Jahns_i4	Trilete verrucate Sporen	Trilete spore(s)	VACR	8	0.88790233
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Jahns_i4	6	10	6	Apiaceae	Apiaceae	HERB
+Jahns_i4	7	1	7	Artemisia	Artemisia	HERB
+Jahns_i4	13	35	13	Brassicaceae	Brassicaceae	HERB
+Jahns_i4	18	4	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Jahns_i4	33	1	33	Cyperaceae	Cyperaceae	HERB
+Jahns_i4	36	3	36	Ephedra fragilis type	Ephedra fragilis-type	TRSH
+Jahns_i4	769	1	24	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB
+Jahns_i4	1035	3	70	Carpinus orientalis/Ostrya	Ostrya/Carpinus orientalis	TRSH
+Jahns_i4	1244	9	1244	Convolvulus arvensis	Convolvulus arvensis-type	HERB
+Jahns_i4	1337	113	25	Asteraceae Liguliflorae	Asteraceae subf. Cichorioideae	HERB
+Jahns_i4	1732	2	1732	Cistus monspeliensis	Cistus monspeliensis-type	TRSH
+Jahns_i4	38	1	38	Erica	Erica	TRSH
+Jahns_i4	45	2	45	Filipendula	Filipendula	HERB
+Jahns_i4	66	14	66	Mercurialis annua	Mercurialis annua	HERB
+Jahns_i4	74	2	74	Phillyrea	Phillyrea	TRSH
+Jahns_i4	75	110	75	Pinus	Pinus	TRSH
+Jahns_i4	77	337	77	Pistacia	Pistacia	TRSH
+Jahns_i4	80	41	80	Poaceae	Poaceae	HERB
+Jahns_i4	122	2	122	Vitis	Vitis	TRSH
+Jahns_i4	154	1	154	Ulmus	Ulmus/Zelkova	TRSH
+Jahns_i4	221	3	60	Plantago lanceolata type	Plantago lanceolata-type	HERB
+Jahns_i4	222	1	79	Plantago major type	Plantago major	HERB
+Jahns_i4	427	5	85	Quercus evergreen	Quercus ilex-type	TRSH
+Jahns_i4	442	35	68	Olea	Olea europaea	TRSH
+Jahns_i4	616	1	30	Plantago coronopus type	Plantago coronopus-type	HERB
+Jahns_i4	666	1	214	Polypodium	Polypodium	VACR
+Jahns_i4	727	7	94	Rumex	Rumex/Oxyria	HERB
+Jahns_i4	773	2	773	Euphorbiaceae	Euphorbiaceae	HERB
+Jahns_i4	1728	5	203	Juniperus	Juniperus-type	TRSH
+Jahns_i4	1828	1	528	Jasminum	Jasminum	TRSH
+Jahns_i4	1932	15	41	Fabaceae p.p.	Fabaceae	HERB
+Jahns_i4	1933	3	1663	Glaucium type	Glaucium	HERB
+Jahns_i4	1934	1	258	Hordeum type	Hordeum-type	HERB
+Jahns_i4	1937	47	135	Ranunculaceae p.p.	Ranunculaceae	HERB
+Jahns_i4	1938	1	101	Sarcopoterium/Sanguisorba minor	Sanguisorba minor-type	HERB
+Jahns_i4	1941	3	146	Filicinae	Monolete fern spores	VACR
+Jahns_i4	1942	2	279	trilete psilate Sporen	Trilete spore(s)	VACR
+Jahns_i4	1927	57	160	Asteraceae Tubuliflorae	Asteraceae subf. Asteroideae	HERB
+Jahns_i4	1928	1	1111	Avena type	Avena-type	HERB
+Jahns_i4	1929	1	22	Cerealia p.p.	Cerealia-type	HERB
+Jahns_i4	1930	1	1761	Cistus incanus type	Cistus albidus-type	TRSH
+Jahns_i4	1931	6	27	Cistus p.p.	Cistus	TRSH
+Jahns_i4	1943	8	279	Trilete verrucate Sporen	Trilete spore(s)	VACR
+Jahns_i4	92	2	92	Rosaceae	Rosaceae	TRSH

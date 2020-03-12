@@ -1,36 +1,36 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Seppa_b140	Alnus	Alnus	TRSH	84	9.4276094
-Seppa_b140	Betula	Betula	TRSH	317	35.578002
-Seppa_b140	Betula/Corylus/Myrica	Betula/Corylus/Myrica	TRSH	3	0.33670034
-Seppa_b140	Calluna vulgaris	Calluna vulgaris	DWAR	28	3.1425365
-Seppa_b140	Carpinus betulus	Carpinus betulus	TRSH	1	0.11223345
-Seppa_b140	Corylus avellana	Corylus	TRSH	51	5.7239057
-Seppa_b140	Fagus sylvatica	Fagus	TRSH	5	0.56116723
-Seppa_b140	Frangula alnus	Frangula alnus	TRSH	3	0.33670034
-Seppa_b140	Fraxinus excelsior	Fraxinus excelsior-type	TRSH	2	0.22446689
-Seppa_b140	Juniperus communis	Juniperus communis-type	TRSH	23	2.5813692
-Seppa_b140	Picea	Picea	TRSH	26	2.9180696
-Seppa_b140	Pinus sylvestris	Pinus sylvestris-type	TRSH	169	18.967452
-Seppa_b140	Quercus	Quercus	TRSH	23	2.5813692
-Seppa_b140	Salix undiff.	Salix	TRSH	9	1.010101
-Seppa_b140	Tilia cordata	Tilia cordata-type	TRSH	10	1.1223345
-Seppa_b140	Ulmus	Ulmus/Zelkova	TRSH	3	0.33670034
-Seppa_b140	Ambrosia-type	Ambrosia	HERB	1	0.11223345
-Seppa_b140	Umbelliferae undiff.	Apiaceae	HERB	1	0.11223345
-Seppa_b140	Artemisia	Artemisia	HERB	3	0.33670034
-Seppa_b140	Lactucoideae	Asteraceae subf. Cichorioideae	HERB	1	0.11223345
-Seppa_b140	Cerealia undiff.	Cerealia-type	HERB	7	0.78563412
-Seppa_b140	Filipendula	Filipendula	HERB	2	0.22446689
-Seppa_b140	Cannabis-type	Humulus/Cannabis	HERB	2	0.22446689
-Seppa_b140	Plantago lanceolata	Plantago lanceolata-type	HERB	1	0.11223345
-Seppa_b140	Gramineae undiff.	Poaceae	HERB	53	5.9483726
-Seppa_b140	Potentilla-type	Potentilla-type	HERB	1	0.11223345
-Seppa_b140	Rumex acetosella-type	Rumex acetosella	HERB	4	0.44893378
-Seppa_b140	Sinapis-type	Sinapis-type	HERB	1	0.11223345
-Seppa_b140	Urtica	Urtica	HERB	22	2.4691358
-Seppa_b140	Dryopteris-type	Dryopteris-type	VACR	13	1.4590348
-Seppa_b140	Equisetum	Equisetum	VACR	14	1.5712682
-Seppa_b140	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR	6	0.67340067
-Seppa_b140	Lycopodium clavatum	Lycopodium clavatum	VACR	2	0.22446689
-Seppa_b140	Cyperaceae undiff.	Cyperaceae	AQUA	7	0.78563412
-Seppa_b140	cf. Sorbus aucuparia	Rosaceae (non-operculate)	INUN	2	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Seppa_b140	5	84	5	Alnus	Alnus	TRSH
+Seppa_b140	1377	1	586	Ambrosia-type	Ambrosia	HERB
+Seppa_b140	7	3	7	Artemisia	Artemisia	HERB
+Seppa_b140	12	317	12	Betula	Betula	TRSH
+Seppa_b140	3619	3	3619	Betula/Corylus/Myrica	Betula/Corylus/Myrica	TRSH
+Seppa_b140	3646	28	3645	Calluna vulgaris	Calluna vulgaris	DWAR
+Seppa_b140	1340	2	205	Cannabis-type	Humulus/Cannabis	HERB
+Seppa_b140	563	1	16	Carpinus betulus	Carpinus betulus	TRSH
+Seppa_b140	822	7	22	Cerealia undiff.	Cerealia-type	HERB
+Seppa_b140	3756	2	3746	cf. Sorbus aucuparia	Rosaceae (non-operculate)	INUN
+Seppa_b140	31	51	31	Corylus avellana	Corylus	TRSH
+Seppa_b140	3873	7	3868	Cyperaceae undiff.	Cyperaceae	AQUA
+Seppa_b140	1247	13	772	Dryopteris-type	Dryopteris-type	VACR
+Seppa_b140	145	14	145	Equisetum	Equisetum	VACR
+Seppa_b140	45	2	45	Filipendula	Filipendula	HERB
+Seppa_b140	567	3	468	Frangula alnus	Frangula alnus	TRSH
+Seppa_b140	47	2	47	Fraxinus excelsior	Fraxinus excelsior-type	TRSH
+Seppa_b140	4018	53	80	Gramineae undiff.	Poaceae	HERB
+Seppa_b140	2121	6	1320	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR
+Seppa_b140	941	23	58	Juniperus communis	Juniperus communis-type	TRSH
+Seppa_b140	4105	1	25	Lactucoideae	Asteraceae subf. Cichorioideae	HERB
+Seppa_b140	126	26	126	Picea	Picea	TRSH
+Seppa_b140	788	169	125	Pinus sylvestris	Pinus sylvestris-type	TRSH
+Seppa_b140	60	1	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+Seppa_b140	626	1	512	Potentilla-type	Potentilla-type	HERB
+Seppa_b140	189	23	189	Quercus	Quercus	TRSH
+Seppa_b140	1398	4	96	Rumex acetosella-type	Rumex acetosella	HERB
+Seppa_b140	1403	1	246	Sinapis-type	Sinapis-type	HERB
+Seppa_b140	154	3	154	Ulmus	Ulmus/Zelkova	TRSH
+Seppa_b140	4711	1	6	Umbelliferae undiff.	Apiaceae	HERB
+Seppa_b140	652	22	652	Urtica	Urtica	HERB
+Seppa_b140	42	5	42	Fagus sylvatica	Fagus	TRSH
+Seppa_b140	1400	9	99	Salix undiff.	Salix	TRSH
+Seppa_b140	1406	10	153	Tilia cordata	Tilia cordata-type	TRSH
+Seppa_b140	1714	2	1549	Lycopodium clavatum	Lycopodium clavatum	VACR

@@ -1,32 +1,32 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-EPDcoretop_E2539	Alnus	Alnus	TRSH	6	0.97087379
-EPDcoretop_E2539	Betula	Betula	TRSH	191	30.906149
-EPDcoretop_E2539	Juniperus communis	Juniperus communis-type	TRSH	37	5.987055
-EPDcoretop_E2539	Picea abies	Picea abies-type	TRSH	29	4.6925566
-EPDcoretop_E2539	Pinus sylvestris	Pinus sylvestris-type	TRSH	275	44.498382
-EPDcoretop_E2539	Salix undiff.	Salix	TRSH	7	1.1326861
-EPDcoretop_E2539	Vaccinium-type	Vaccinium-type	DWAR	1	0.1618123
-EPDcoretop_E2539	Caryophyllaceae undiff.	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	1	0.1618123
-EPDcoretop_E2539	Cyperaceae undiff.	Cyperaceae	HERB	1	0.1618123
-EPDcoretop_E2539	Filipendula	Filipendula	HERB	1	0.1618123
-EPDcoretop_E2539	Gramineae undiff.	Poaceae	HERB	39	6.3106796
-EPDcoretop_E2539	Ranunculus acris-type	Ranunculus acris-type	HERB	2	0.3236246
-EPDcoretop_E2539	Rumex acetosa	Rumex acetosa-type	HERB	4	0.64724919
-EPDcoretop_E2539	Rumex acetosa/R. acetosella-type	Rumex acetosa-type	HERB	2	0.3236246
-EPDcoretop_E2539	Urtica	Urtica	HERB	3	0.48543689
-EPDcoretop_E2539	Dryopteris-type	Dryopteris-type	VACR	4	0.64724919
-EPDcoretop_E2539	Equisetum	Equisetum	VACR	1	0.1618123
-EPDcoretop_E2539	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR	2	0.3236246
-EPDcoretop_E2539	Diphasiastrum	Lycopodium clavatum-type	VACR	5	0.80906149
-EPDcoretop_E2539	Selaginella selaginoides	Selaginella selaginoides	VACR	5	0.80906149
-EPDcoretop_E2539	Sphagnum	Sphagnum	BRYO	2	0.3236246
-EPDcoretop_E2539	Botryococcus	Botryococcus	ALGA	9	1.4563107
-EPDcoretop_E2539	Carex-type	Carex	HELO	17	2.7508091
-EPDcoretop_E2539	Eriophorum-type	Eriophorum-type	HELO	2	0.3236246
-EPDcoretop_E2539	Pediastrum	Pediastrum	ALGA	231	37.378641
-EPDcoretop_E2539	Charcoal	Charcoal	CHAR	7	
-EPDcoretop_E2539	Indeterminable: broken	Indeterminable: broken	INUN	1	
-EPDcoretop_E2539	Indeterminable: corroded	Indeterminable: corroded	INUN	1	
-EPDcoretop_E2539	Eucalyptus (grains/g of tablet)	Eucalyptus (grains/g of tablet)	NOPO	182	
-EPDcoretop_E2539	Eucalyptus (spike)	Eucalyptus spike (counted)	NOPO	927	
-EPDcoretop_E2539	Eucalyptus tablets	Eucalyptus tablets	NOPO	175	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+EPDcoretop_E2539	4072	1	998	Indeterminable: broken	Indeterminable: broken	INUN
+EPDcoretop_E2539	4074	1	1324	Indeterminable: corroded	Indeterminable: corroded	INUN
+EPDcoretop_E2539	1125	7	1125	Charcoal	Charcoal	CHAR
+EPDcoretop_E2539	5106	175	5106	Eucalyptus tablets	Eucalyptus tablets	NOPO
+EPDcoretop_E2539	5107	182	5107	Eucalyptus (grains/g of tablet)	Eucalyptus (grains/g of tablet)	NOPO
+EPDcoretop_E2539	5108	927	2741	Eucalyptus (spike)	Eucalyptus spike (counted)	NOPO
+EPDcoretop_E2539	5	6	5	Alnus	Alnus	TRSH
+EPDcoretop_E2539	12	191	12	Betula	Betula	TRSH
+EPDcoretop_E2539	45	1	45	Filipendula	Filipendula	HERB
+EPDcoretop_E2539	95	4	95	Rumex acetosa	Rumex acetosa-type	HERB
+EPDcoretop_E2539	144	2	144	Sphagnum	Sphagnum	BRYO
+EPDcoretop_E2539	145	1	145	Equisetum	Equisetum	VACR
+EPDcoretop_E2539	630	2	87	Ranunculus acris-type	Ranunculus acris-type	HERB
+EPDcoretop_E2539	652	3	652	Urtica	Urtica	HERB
+EPDcoretop_E2539	662	231	662	Pediastrum	Pediastrum	ALGA
+EPDcoretop_E2539	663	9	663	Botryococcus	Botryococcus	ALGA
+EPDcoretop_E2539	783	29	783	Picea abies	Picea abies-type	TRSH
+EPDcoretop_E2539	788	275	125	Pinus sylvestris	Pinus sylvestris-type	TRSH
+EPDcoretop_E2539	874	5	185	Selaginella selaginoides	Selaginella selaginoides	VACR
+EPDcoretop_E2539	941	37	58	Juniperus communis	Juniperus communis-type	TRSH
+EPDcoretop_E2539	946	1	18	Caryophyllaceae undiff.	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+EPDcoretop_E2539	1131	1	33	Cyperaceae undiff.	Cyperaceae	HERB
+EPDcoretop_E2539	1247	4	772	Dryopteris-type	Dryopteris-type	VACR
+EPDcoretop_E2539	1400	7	99	Salix undiff.	Salix	TRSH
+EPDcoretop_E2539	2121	2	1320	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR
+EPDcoretop_E2539	3894	5	182	Diphasiastrum	Lycopodium clavatum-type	VACR
+EPDcoretop_E2539	4018	39	80	Gramineae undiff.	Poaceae	HERB
+EPDcoretop_E2539	4506	2	95	Rumex acetosa/R. acetosella-type	Rumex acetosa-type	HERB
+EPDcoretop_E2539	4730	1	4730	Vaccinium-type	Vaccinium-type	DWAR
+EPDcoretop_E2539	4963	17	1301	Carex-type	Carex	HELO
+EPDcoretop_E2539	5109	2	5109	Eriophorum-type	Eriophorum-type	HELO

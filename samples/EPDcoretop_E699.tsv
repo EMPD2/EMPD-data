@@ -1,36 +1,36 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-EPDcoretop_E699	Alnus	Alnus	TRSH	29	11.372549
-EPDcoretop_E699	Betula	Betula	TRSH	1	0.39215686
-EPDcoretop_E699	Corylus	Corylus	TRSH	2	0.78431373
-EPDcoretop_E699	Fraxinus	Fraxinus	TRSH	1	0.39215686
-EPDcoretop_E699	Ulex	Genista-type	TRSH	1	0.39215686
-EPDcoretop_E699	Pinus	Pinus	TRSH	8	3.1372549
-EPDcoretop_E699	Quercus	Quercus	TRSH	12	4.7058824
-EPDcoretop_E699	Salix	Salix	TRSH	6	2.3529412
-EPDcoretop_E699	Tilia cordata	Tilia cordata-type	TRSH	11	4.3137255
-EPDcoretop_E699	Umbelliferae	Apiaceae	HERB	16	6.2745098
-EPDcoretop_E699	Artemisia	Artemisia	HERB	1	0.39215686
-EPDcoretop_E699	Compositae subf. Asteroideae	Asteraceae subf. Asteroideae	HERB	3	1.1764706
-EPDcoretop_E699	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB	2	0.78431373
-EPDcoretop_E699	Caltha	Caltha palustris	HERB	5	1.9607843
-EPDcoretop_E699	Cannabis	Cannabis sativa	HERB	1	0.39215686
-EPDcoretop_E699	Cerealia-type	Cerealia-type	HERB	12	4.7058824
-EPDcoretop_E699	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	14	5.4901961
-EPDcoretop_E699	Filipendula	Filipendula	HERB	1	0.39215686
-EPDcoretop_E699	Mentha	Mentha-type	HERB	1	0.39215686
-EPDcoretop_E699	Plantago lanceolata	Plantago lanceolata-type	HERB	6	2.3529412
-EPDcoretop_E699	Plantago major/P. media	Plantago major/P. media-type	HERB	1	0.39215686
-EPDcoretop_E699	Gramineae	Poaceae	HERB	66	25.882353
-EPDcoretop_E699	Polygonum bistorta	Polygonum bistorta	HERB	1	0.39215686
-EPDcoretop_E699	Rubiaceae	Rubiaceae	HERB	2	0.78431373
-EPDcoretop_E699	Rumex acetosa	Rumex acetosa-type	HERB	1	0.39215686
-EPDcoretop_E699	Sinapis	Sinapis-type	HERB	2	0.78431373
-EPDcoretop_E699	Spergula	Spergularia-type	HERB	1	0.39215686
-EPDcoretop_E699	Filicopsida	Monolete fern spores	VACR	3	1.1764706
-EPDcoretop_E699	Polypodium	Polypodium	VACR	4	1.5686275
-EPDcoretop_E699	Pteridium	Pteridium	VACR	38	14.901961
-EPDcoretop_E699	Sphagnum	Sphagnum	BRYO	3	1.1764706
-EPDcoretop_E699	Cyperaceae	Cyperaceae	AQUA	97	38.039216
-EPDcoretop_E699	Lemna	Lemna	AQUA	4	1.5686275
-EPDcoretop_E699	Polygonum amphibium	Persicaria amphibia	AQUA	1	0.39215686
-EPDcoretop_E699	Typha angustifolia	Sparganium-type	AQUA	20	7.8431373
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+EPDcoretop_E699	5	29	5	Alnus	Alnus	TRSH
+EPDcoretop_E699	7	1	7	Artemisia	Artemisia	HERB
+EPDcoretop_E699	12	1	12	Betula	Betula	TRSH
+EPDcoretop_E699	3648	5	3648	Caltha	Caltha palustris	HERB
+EPDcoretop_E699	764	1	764	Cannabis	Cannabis sativa	HERB
+EPDcoretop_E699	1065	12	22	Cerealia-type	Cerealia-type	HERB
+EPDcoretop_E699	3822	3	160	Compositae subf. Asteroideae	Asteraceae subf. Asteroideae	HERB
+EPDcoretop_E699	201	2	31	Corylus	Corylus	TRSH
+EPDcoretop_E699	3969	3	146	Filicopsida	Monolete fern spores	VACR
+EPDcoretop_E699	45	1	45	Filipendula	Filipendula	HERB
+EPDcoretop_E699	190	1	190	Fraxinus	Fraxinus	TRSH
+EPDcoretop_E699	1601	66	80	Gramineae	Poaceae	HERB
+EPDcoretop_E699	264	4	264	Lemna	Lemna	AQUA
+EPDcoretop_E699	65	1	65	Mentha	Mentha-type	HERB
+EPDcoretop_E699	75	8	75	Pinus	Pinus	TRSH
+EPDcoretop_E699	60	6	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+EPDcoretop_E699	1719	1	1506	Polygonum amphibium	Persicaria amphibia	AQUA
+EPDcoretop_E699	666	4	214	Polypodium	Polypodium	VACR
+EPDcoretop_E699	431	38	180	Pteridium	Pteridium aquilinum	VACR
+EPDcoretop_E699	95	1	95	Rumex acetosa	Rumex acetosa-type	HERB
+EPDcoretop_E699	99	6	99	Salix	Salix	TRSH
+EPDcoretop_E699	1355	2	246	Sinapis	Sinapis-type	HERB
+EPDcoretop_E699	144	3	144	Sphagnum	Sphagnum	BRYO
+EPDcoretop_E699	1406	11	153	Tilia cordata	Tilia cordata-type	TRSH
+EPDcoretop_E699	913	20	176	Typha angustifolia	Sparganium-type	AQUA
+EPDcoretop_E699	4707	1	49	Ulex	Genista-type	TRSH
+EPDcoretop_E699	590	16	6	Umbelliferae	Apiaceae	HERB
+EPDcoretop_E699	24	14	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+EPDcoretop_E699	109	1	109	Spergula	Spergularia-type	HERB
+EPDcoretop_E699	189	12	189	Quercus	Quercus	TRSH
+EPDcoretop_E699	625	1	625	Polygonum bistorta	Polygonum bistorta	HERB
+EPDcoretop_E699	3824	2	25	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+EPDcoretop_E699	3868	97	3868	Cyperaceae	Cyperaceae	AQUA
+EPDcoretop_E699	4323	1	458	Plantago major/P. media	Plantago major/P. media-type	HERB
+EPDcoretop_E699	93	2	93	Rubiaceae	Rubiaceae	HERB

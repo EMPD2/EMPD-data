@@ -1,38 +1,38 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Nakagawa_d17	Abies	Abies	TRSH	27	3.9764359
-Nakagawa_d17	Acer	Acer campestre-type	TRSH	1	0.14727541
-Nakagawa_d17	Alnus	Alnus	TRSH	127	18.703976
-Nakagawa_d17	Araliaceae	Araliaceae	TRSH	1	0.14727541
-Nakagawa_d17	Betula	Betula	TRSH	81	11.929308
-Nakagawa_d17	Celtis-Aphananthe	Cannabaceae	TRSH	3	0.44182622
-Nakagawa_d17	Corylus	Corylus	TRSH	2	0.29455081
-Nakagawa_d17	Cryptomeria	Cryptomeria-type	TRSH	5	0.73637703
-Nakagawa_d17	Fagus	Fagus	TRSH	1	0.14727541
-Nakagawa_d17	Pterocarya-Juglans	Juglandaceae	TRSH	12	1.7673049
-Nakagawa_d17	Larix	Larix/Pseudotsuga	TRSH	7	1.0309278
-Nakagawa_d17	Carpinus-Ostrya	Ostrya/Carpinus orientalis	TRSH	9	1.3254786
-Nakagawa_d17	Phellodendron	Phellodendron	TRSH	1	0.14727541
-Nakagawa_d17	Picea	Picea	TRSH	6	0.88365243
-Nakagawa_d17	Pinus-H	Pinus cembra-type	TRSH	3	0.44182622
-Nakagawa_d17	Pinus-D	Pinus sylvestris-type	TRSH	29	4.2709867
-Nakagawa_d17	Quercus	Quercus	TRSH	85	12.518409
-Nakagawa_d17	Cyclobalanopsis	Quercus ilex-type	TRSH	1	0.14727541
-Nakagawa_d17	Salix	Salix	TRSH	12	1.7673049
-Nakagawa_d17	Tilia	Tilia	TRSH	1	0.14727541
-Nakagawa_d17	Ulmus-Zelkova	Ulmus/Zelkova	TRSH	24	3.5346097
-Nakagawa_d17	Artemisia	Artemisia	HERB	112	16.494845
-Nakagawa_d17	Carduoideae	Asteraceae	HERB	13	1.9145803
-Nakagawa_d17	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	25	3.6818851
-Nakagawa_d17	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	1	0.14727541
-Nakagawa_d17	Gramineae(>40)	Cerealia-type	HERB	5	0.73637703
-Nakagawa_d17	Chenopodiaceae-Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	7	1.0309278
-Nakagawa_d17	Cyperaceae	Cyperaceae	HERB	6	0.88365243
-Nakagawa_d17	Gramineae(<40)	Poaceae	HERB	8	1.1782032
-Nakagawa_d17	Reynoutria	Reynoutria	HERB	52	7.6583211
-Nakagawa_d17	Rumex	Rumex/Oxyria	HERB	2	0.29455081
-Nakagawa_d17	Moraceae-Urticaceae	Urticaceae/Moraceae	HERB	3	0.44182622
-Nakagawa_d17	Aspid.-Asple.	Monolete fern spores	VACR	1	0.14727541
-Nakagawa_d17	MONOLATE-TYPE-SPORE	Monolete fern spores	VACR	4	0.58910162
-Nakagawa_d17	TRILATE-TYPE-SPORE	Trilete spore(s)	VACR	2	0.29455081
-Nakagawa_d17	UNKNOWN-POLLEN	Indeterminable: unknown	INUN	12	
-Nakagawa_d17	UNKNOWN-POLLEN/SPORES	Indeterminable: unknown	INUN	386	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Nakagawa_d17	99	12	99	Salix	Salix	TRSH
+Nakagawa_d17	12	81	12	Betula	Betula	TRSH
+Nakagawa_d17	201	2	31	Corylus	Corylus	TRSH
+Nakagawa_d17	5	127	5	Alnus	Alnus	TRSH
+Nakagawa_d17	192	1	42	Fagus	Fagus	TRSH
+Nakagawa_d17	7	112	7	Artemisia	Artemisia	HERB
+Nakagawa_d17	187	1	187	Tilia	Tilia	TRSH
+Nakagawa_d17	2	1	2	Acer	Acer campestre-type	TRSH
+Nakagawa_d17	126	6	126	Picea	Picea	TRSH
+Nakagawa_d17	33	6	33	Cyperaceae	Cyperaceae	HERB
+Nakagawa_d17	123	7	123	Larix	Larix/Pseudotsuga	TRSH
+Nakagawa_d17	447	25	25	Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Nakagawa_d17	2226	1	2226	Phellodendron	Phellodendron	TRSH
+Nakagawa_d17	2461	29	125	Pinus-D	Pinus sylvestris-type	TRSH
+Nakagawa_d17	2462	3	124	Pinus-H	Pinus cembra-type	TRSH
+Nakagawa_d17	189	85	189	Quercus	Quercus	TRSH
+Nakagawa_d17	2045	9	70	Carpinus-Ostrya	Ostrya/Carpinus orientalis	TRSH
+Nakagawa_d17	2473	12	2198	Pterocarya-Juglans	Juglandaceae	TRSH
+Nakagawa_d17	2476	1	85	Cyclobalanopsis	Quercus ilex-type	TRSH
+Nakagawa_d17	2478	3	736	Moraceae-Urticaceae	Urticaceae/Moraceae	HERB
+Nakagawa_d17	2484	8	80	Gramineae(<40)	Poaceae	HERB
+Nakagawa_d17	2499	12	177	UNKNOWN-POLLEN	Indeterminable: unknown	INUN
+Nakagawa_d17	2500	386	177	UNKNOWN-POLLEN/SPORES	Indeterminable: unknown	INUN
+Nakagawa_d17	18	1	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Nakagawa_d17	727	2	94	Rumex	Rumex/Oxyria	HERB
+Nakagawa_d17	2485	5	22	Gramineae(>40)	Cerealia-type	HERB
+Nakagawa_d17	2488	52	2488	Reynoutria	Reynoutria	HERB
+Nakagawa_d17	2492	13	134	Carduoideae	Asteraceae	HERB
+Nakagawa_d17	2496	1	146	Aspid.-Asple.	Monolete fern spores	VACR
+Nakagawa_d17	2497	4	146	MONOLATE-TYPE-SPORE	Monolete fern spores	VACR
+Nakagawa_d17	560	27	321	Abies	Abies	TRSH
+Nakagawa_d17	1954	24	154	Ulmus-Zelkova	Ulmus/Zelkova	TRSH
+Nakagawa_d17	2221	5	2221	Cryptomeria	Cryptomeria-type	TRSH
+Nakagawa_d17	2447	3	763	Celtis-Aphananthe	Cannabaceae	TRSH
+Nakagawa_d17	2449	7	24	Chenopodiaceae-Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB
+Nakagawa_d17	2498	2	279	TRILATE-TYPE-SPORE	Trilete spore(s)	VACR
+Nakagawa_d17	2228	1	2227	Araliaceae	Araliaceae	TRSH

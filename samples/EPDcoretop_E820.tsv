@@ -1,29 +1,29 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-EPDcoretop_E820	Alnus glutinosa	Alnus glutinosa-type	TRSH	2	0.40241449
-EPDcoretop_E820	Betula alba	Betula pubescens-type	TRSH	1	0.20120724
-EPDcoretop_E820	Corylus avellana	Corylus	TRSH	2	0.40241449
-EPDcoretop_E820	Erica arborea-type	Erica arborea-type	DWAR	47	9.4567404
-EPDcoretop_E820	Erica australis	Erica ciliaris-type	DWAR	3	0.60362173
-EPDcoretop_E820	Halimium-type	Halimium	DWAR	3	0.60362173
-EPDcoretop_E820	Olea europaea	Olea europaea	TRSH	25	5.0301811
-EPDcoretop_E820	Pinus	Pinus	TRSH	148	29.778672
-EPDcoretop_E820	Pinus pinaster	Pinus pinaster	TRSH	42	8.4507042
-EPDcoretop_E820	Pinus sylvestris-type	Pinus sylvestris-type	TRSH	106	21.327968
-EPDcoretop_E820	Quercus	Quercus	TRSH	21	4.2253521
-EPDcoretop_E820	Quercus ilex-type	Quercus ilex-type	TRSH	21	4.2253521
-EPDcoretop_E820	Umbelliferae	Apiaceae	HERB	1	0.20120724
-EPDcoretop_E820	Artemisia	Artemisia	HERB	1	0.20120724
-EPDcoretop_E820	Compositae subf. Asteroideae undiff.	Asteraceae subf. Asteroideae	HERB	2	0.40241449
-EPDcoretop_E820	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB	1	0.20120724
-EPDcoretop_E820	Cerealia-type	Cerealia-type	HERB	3	0.60362173
-EPDcoretop_E820	Fritillaria lusitanica	Fritillaria	HERB	2	0.40241449
-EPDcoretop_E820	Gentiana lutea/G. pneumonanthe	Gentiana lutea/G. pneumonanthe	HERB	1	0.20120724
-EPDcoretop_E820	Labiatae undiff.	Lamiaceae	HERB	1	0.20120724
-EPDcoretop_E820	Gramineae	Poaceae	HERB	61	12.273642
-EPDcoretop_E820	Polygala	Polygala	HERB	1	0.20120724
-EPDcoretop_E820	Rumex acetosella-type	Rumex acetosella	HERB	1	0.20120724
-EPDcoretop_E820	Sedum-type	Sedum-type	HERB	1	0.20120724
-EPDcoretop_E820	Cyperaceae	Cyperaceae	AQUA	4	0.80482897
-EPDcoretop_E820	Potamogeton	Potamogeton-type	AQUA	2	0.40241449
-EPDcoretop_E820	Ranunculus subg. Batrachium-type	Ranunculus aquatilis-type	AQUA	1	0.20120724
-EPDcoretop_E820	Indeterminable: undiff.	Indeterminable: undiff.	INUN	5	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+EPDcoretop_E820	2257	1	128	Betula alba	Betula pubescens-type	TRSH
+EPDcoretop_E820	1065	3	22	Cerealia-type	Cerealia-type	HERB
+EPDcoretop_E820	3823	2	160	Compositae subf. Asteroideae undiff.	Asteraceae subf. Asteroideae	HERB
+EPDcoretop_E820	31	2	31	Corylus avellana	Corylus	TRSH
+EPDcoretop_E820	3868	4	3868	Cyperaceae	Cyperaceae	AQUA
+EPDcoretop_E820	3929	47	3928	Erica arborea-type	Erica arborea-type	DWAR
+EPDcoretop_E820	2793	3	531	Erica australis	Erica ciliaris-type	DWAR
+EPDcoretop_E820	3986	2	48	Fritillaria lusitanica	Fritillaria	HERB
+EPDcoretop_E820	3996	1	3996	Gentiana lutea/G. pneumonanthe	Gentiana lutea/G. pneumonanthe	HERB
+EPDcoretop_E820	4028	3	4027	Halimium-type	Halimium	DWAR
+EPDcoretop_E820	4077	5	655	Indeterminable: undiff.	Indeterminable: undiff.	INUN
+EPDcoretop_E820	4101	1	59	Labiatae undiff.	Lamiaceae	HERB
+EPDcoretop_E820	68	25	68	Olea europaea	Olea europaea	TRSH
+EPDcoretop_E820	439	42	439	Pinus pinaster	Pinus pinaster	TRSH
+EPDcoretop_E820	1226	106	125	Pinus sylvestris-type	Pinus sylvestris-type	TRSH
+EPDcoretop_E820	537	1	170	Polygala	Polygala	HERB
+EPDcoretop_E820	657	2	108	Potamogeton	Potamogeton-type	AQUA
+EPDcoretop_E820	189	21	189	Quercus	Quercus	TRSH
+EPDcoretop_E820	1052	21	85	Quercus ilex-type	Quercus ilex-type	TRSH
+EPDcoretop_E820	4457	1	1182	Ranunculus subg. Batrachium-type	Ranunculus aquatilis-type	AQUA
+EPDcoretop_E820	1398	1	96	Rumex acetosella-type	Rumex acetosella	HERB
+EPDcoretop_E820	2805	1	105	Sedum-type	Sedum-type	HERB
+EPDcoretop_E820	590	1	6	Umbelliferae	Apiaceae	HERB
+EPDcoretop_E820	7	1	7	Artemisia	Artemisia	HERB
+EPDcoretop_E820	75	148	75	Pinus	Pinus	TRSH
+EPDcoretop_E820	760	2	155	Alnus glutinosa	Alnus glutinosa-type	TRSH
+EPDcoretop_E820	1601	61	80	Gramineae	Poaceae	HERB
+EPDcoretop_E820	3824	1	25	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB

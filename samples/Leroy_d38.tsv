@@ -1,42 +1,42 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Leroy_d38	Abies	Abies	TRSH	1	0.33783784
-Leroy_d38	Alnus	Alnus	TRSH	4	1.3513514
-Leroy_d38	Carpinus betulus-type	Carpinus betulus	TRSH	15	5.0675676
-Leroy_d38	Castanea	Castanea sativa	TRSH	2	0.67567568
-Leroy_d38	Corylus	Corylus	TRSH	5	1.6891892
-Leroy_d38	Cupressaceae	Cupressaceae undiff.	TRSH	8	2.7027027
-Leroy_d38	Ericaceae	Ericales (tetrad)	DWAR	4	1.3513514
-Leroy_d38	Fagus	Fagus	TRSH	27	9.1216216
-Leroy_d38	Juglans	Juglans	TRSH	9	3.0405405
-Leroy_d38	Olea	Olea europaea	TRSH	2	0.67567568
-Leroy_d38	Pinus	Pinus	TRSH	74	25
-Leroy_d38	Pistacia	Pistacia	TRSH	2	0.67567568
-Leroy_d38	Platanus	Platanus	TRSH	3	1.0135135
-Leroy_d38	Quercus evergreen	Quercus ilex-type	TRSH	4	1.3513514
-Leroy_d38	Quercus deciduous	Quercus robur-type	TRSH	59	19.932432
-Leroy_d38	Salix	Salix	TRSH	2	0.67567568
-Leroy_d38	Tilia	Tilia	TRSH	1	0.33783784
-Leroy_d38	Viburnum	Viburnum	TRSH	2	0.67567568
-Leroy_d38	Artemisia	Artemisia	HERB	3	1.0135135
-Leroy_d38	Asteraceae Tubuliflorae	Asteraceae subf. Asteroideae	HERB	9	3.0405405
-Leroy_d38	Asteraceae Liguliflorae	Asteraceae subf. Cichorioideae	HERB	4	1.3513514
-Leroy_d38	Amaranthaceae/Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	6	2.027027
-Leroy_d38	Cistus	Cistus	HERB	1	0.33783784
-Leroy_d38	Echinops	Echinops	HERB	1	0.33783784
-Leroy_d38	Euphorbia	Euphorbia	HERB	1	0.33783784
-Leroy_d38	Mercurialis annua	Mercurialis annua	HERB	1	0.33783784
-Leroy_d38	Polygonum persicaria	Persicaria maculosa-type	HERB	1	0.33783784
-Leroy_d38	Plantago lanceolata	Plantago lanceolata-type	HERB	1	0.33783784
-Leroy_d38	Poaceae	Poaceae	HERB	38	12.837838
-Leroy_d38	Poaceae (37 um)	Poaceae	HERB	1	0.33783784
-Leroy_d38	Polygonum aviculare/bistorta-type	Polygonum-type (tricolporate)	HERB	1	0.33783784
-Leroy_d38	Ranunculus acris-type	Ranunculus acris-type	HERB	1	0.33783784
-Leroy_d38	Pteridium aquilinum-type	Pteridium aquilinum	VACR	2	0.67567568
-Leroy_d38	Trilete spores (psilate)	Trilete spore(s)	VACR	1	0.33783784
-Leroy_d38	Cyperaceae	Cyperaceae	AQUA	11	3.7162162
-Leroy_d38	Pediastrum boryanum	Pediastrum boryanum	ALGA	2	0.67567568
-Leroy_d38	Potamogeton	Potamogeton-type	AQUA	1	0.33783784
-Leroy_d38	Typha/Sparganium	Typha/Sparganium	AQUA	2	0.67567568
-Leroy_d38	Indeterminable: unknown	Indeterminable: unknown	INUN	9	
-Leroy_d38	Spiniferites cruciferus	Spiniferites cruciferus	DINO	25	
-Leroy_d38	Tetraploa	Tetraploa	FUNG	8	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Leroy_d38	560	1	321	Abies	Abies	TRSH
+Leroy_d38	5	4	5	Alnus	Alnus	TRSH
+Leroy_d38	3525	6	24	Amaranthaceae/Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Leroy_d38	7	3	7	Artemisia	Artemisia	HERB
+Leroy_d38	1927	9	160	Asteraceae Tubuliflorae	Asteraceae subf. Asteroideae	HERB
+Leroy_d38	3796	1	3796	Cistus	Cistus	HERB
+Leroy_d38	201	5	31	Corylus	Corylus	TRSH
+Leroy_d38	714	8	347	Cupressaceae	Cupressaceae undiff.	TRSH
+Leroy_d38	3868	11	3868	Cyperaceae	Cyperaceae	AQUA
+Leroy_d38	1439	1	1439	Echinops	Echinops	HERB
+Leroy_d38	40	1	40	Euphorbia	Euphorbia	HERB
+Leroy_d38	192	27	42	Fagus	Fagus	TRSH
+Leroy_d38	4078	9	177	Indeterminable: unknown	Indeterminable: unknown	INUN
+Leroy_d38	57	9	57	Juglans	Juglans	TRSH
+Leroy_d38	66	1	66	Mercurialis annua	Mercurialis annua	HERB
+Leroy_d38	442	2	68	Olea	Olea europaea	TRSH
+Leroy_d38	75	74	75	Pinus	Pinus	TRSH
+Leroy_d38	77	2	77	Pistacia	Pistacia	TRSH
+Leroy_d38	78	3	78	Platanus	Platanus	TRSH
+Leroy_d38	4338	1	80	Poaceae (37 um)	Poaceae	HERB
+Leroy_d38	4364	1	1505	Polygonum aviculare/bistorta-type	Polygonum-type (tricolporate)	HERB
+Leroy_d38	798	1	231	Polygonum persicaria	Persicaria maculosa-type	HERB
+Leroy_d38	657	1	108	Potamogeton	Potamogeton-type	AQUA
+Leroy_d38	4405	2	180	Pteridium aquilinum-type	Pteridium aquilinum	VACR
+Leroy_d38	437	59	86	Quercus deciduous	Quercus robur-type	TRSH
+Leroy_d38	427	4	85	Quercus evergreen	Quercus ilex-type	TRSH
+Leroy_d38	630	1	87	Ranunculus acris-type	Ranunculus acris-type	HERB
+Leroy_d38	99	2	99	Salix	Salix	TRSH
+Leroy_d38	4632	25	4632	Spiniferites cruciferus	Spiniferites cruciferus	DINO
+Leroy_d38	836	8	836	Tetraploa	Tetraploa	FUNG
+Leroy_d38	187	1	187	Tilia	Tilia	TRSH
+Leroy_d38	4687	1	279	Trilete spores (psilate)	Trilete spore(s)	VACR
+Leroy_d38	808	2	734	Typha/Sparganium	Typha/Sparganium	AQUA
+Leroy_d38	120	2	120	Viburnum	Viburnum	TRSH
+Leroy_d38	60	1	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+Leroy_d38	80	38	80	Poaceae	Poaceae	HERB
+Leroy_d38	130	4	130	Ericaceae	Ericales (tetrad)	DWAR
+Leroy_d38	441	2	19	Castanea	Castanea sativa	TRSH
+Leroy_d38	909	2	909	Pediastrum boryanum	Pediastrum boryanum	ALGA
+Leroy_d38	1337	4	25	Asteraceae Liguliflorae	Asteraceae subf. Cichorioideae	HERB
+Leroy_d38	3667	15	16	Carpinus betulus-type	Carpinus betulus	TRSH

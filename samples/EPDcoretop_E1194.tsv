@@ -1,44 +1,44 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-EPDcoretop_E1194	Abies	Abies	TRSH	5	0.40064103
-EPDcoretop_E1194	Alnus	Alnus	TRSH	37	2.9647436
-EPDcoretop_E1194	Betula	Betula	TRSH	94	7.5320513
-EPDcoretop_E1194	Castanea sativa	Castanea sativa	TRSH	5	0.40064103
-EPDcoretop_E1194	Corylus avellana	Corylus	TRSH	9	0.72115385
-EPDcoretop_E1194	Ericaceae	Ericales (tetrad)	DWAR	6	0.48076923
-EPDcoretop_E1194	Fagus	Fagus	TRSH	7	0.56089744
-EPDcoretop_E1194	Fraxinus ornus	Fraxinus ornus	TRSH	10	0.80128205
-EPDcoretop_E1194	Juglans	Juglans	TRSH	1	0.080128205
-EPDcoretop_E1194	Larix	Larix/Pseudotsuga	TRSH	35	2.8044872
-EPDcoretop_E1194	Picea	Picea	TRSH	149	11.939103
-EPDcoretop_E1194	Pinus	Pinus	TRSH	603	48.317308
-EPDcoretop_E1194	Pinus cembra	Pinus cembra-type	TRSH	119	9.5352564
-EPDcoretop_E1194	Quercus	Quercus	TRSH	22	1.7628205
-EPDcoretop_E1194	Rhamnus	Rhamnus-type	TRSH	1	0.080128205
-EPDcoretop_E1194	Rosaceae	Rosaceae	TRSH	1	0.080128205
-EPDcoretop_E1194	Sambucus nigra	Sambucus nigra	TRSH	1	0.080128205
-EPDcoretop_E1194	Sorbus-type	Sorbus-type	TRSH	1	0.080128205
-EPDcoretop_E1194	Ulmus	Ulmus/Zelkova	TRSH	1	0.080128205
-EPDcoretop_E1194	Vitis	Vitis	LIAN	1	0.080128205
-EPDcoretop_E1194	Umbelliferae	Apiaceae	HERB	4	0.32051282
-EPDcoretop_E1194	Artemisia	Artemisia	HERB	1	0.080128205
-EPDcoretop_E1194	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB	1	0.080128205
-EPDcoretop_E1194	Cruciferae	Brassicaceae	HERB	6	0.48076923
-EPDcoretop_E1194	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	2	0.16025641
-EPDcoretop_E1194	Cerealia	Cerealia-type	HERB	2	0.16025641
-EPDcoretop_E1194	Secale	Cerealia-type	HERB	9	0.72115385
-EPDcoretop_E1194	Cannabaceae	Humulus/Cannabis	HERB	1	0.080128205
-EPDcoretop_E1194	Liliaceae-type	Liliaceae-type	HERB	1	0.080128205
-EPDcoretop_E1194	Achillea-type	Matricaria-type	HERB	1	0.080128205
-EPDcoretop_E1194	Plantago lanceolata-type	Plantago lanceolata-type	HERB	4	0.32051282
-EPDcoretop_E1194	Plantago alpina-type	Plantago maritima-type	HERB	2	0.16025641
-EPDcoretop_E1194	Gramineae	Poaceae	HERB	76	6.0897436
-EPDcoretop_E1194	Potentilla-type	Potentilla-type	HERB	4	0.32051282
-EPDcoretop_E1194	Ranunculaceae	Ranunculaceae	HERB	2	0.16025641
-EPDcoretop_E1194	Rubiaceae	Rubiaceae	HERB	1	0.080128205
-EPDcoretop_E1194	Rumex-type	Rumex/Oxyria	HERB	11	0.88141026
-EPDcoretop_E1194	Thalictrum	Thalictrum	HERB	2	0.16025641
-EPDcoretop_E1194	Urticaceae	Urticaceae	HERB	4	0.32051282
-EPDcoretop_E1194	Monolete fern spores	Monolete fern spores	VACR	4	0.32051282
-EPDcoretop_E1194	Sphagnum	Sphagnum	BRYO	2	0.16025641
-EPDcoretop_E1194	Cyperaceae	Cyperaceae	AQUA	227	18.189103
-EPDcoretop_E1194	Pirus-type	Prunus-type	INUN	1	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+EPDcoretop_E1194	560	5	321	Abies	Abies	TRSH
+EPDcoretop_E1194	943	1	3	Achillea-type	Matricaria-type	HERB
+EPDcoretop_E1194	5	37	5	Alnus	Alnus	TRSH
+EPDcoretop_E1194	7	1	7	Artemisia	Artemisia	HERB
+EPDcoretop_E1194	12	94	12	Betula	Betula	TRSH
+EPDcoretop_E1194	3652	1	205	Cannabaceae	Humulus/Cannabis	HERB
+EPDcoretop_E1194	18	2	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+EPDcoretop_E1194	19	5	19	Castanea sativa	Castanea sativa	TRSH
+EPDcoretop_E1194	22	2	22	Cerealia	Cerealia-type	HERB
+EPDcoretop_E1194	3824	1	25	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+EPDcoretop_E1194	482	6	13	Cruciferae	Brassicaceae	HERB
+EPDcoretop_E1194	3868	227	3868	Cyperaceae	Cyperaceae	AQUA
+EPDcoretop_E1194	130	6	130	Ericaceae	Ericales (tetrad)	DWAR
+EPDcoretop_E1194	57	1	57	Juglans	Juglans	TRSH
+EPDcoretop_E1194	123	35	123	Larix	Larix/Pseudotsuga	TRSH
+EPDcoretop_E1194	4193	4	146	Monolete fern spores	Monolete fern spores	VACR
+EPDcoretop_E1194	126	149	126	Picea	Picea	TRSH
+EPDcoretop_E1194	573	119	124	Pinus cembra	Pinus cembra-type	TRSH
+EPDcoretop_E1194	4311	1	4311	Pirus-type	Prunus-type	INUN
+EPDcoretop_E1194	2577	2	64	Plantago alpina-type	Plantago maritima-type	HERB
+EPDcoretop_E1194	1075	4	60	Plantago lanceolata-type	Plantago lanceolata-type	HERB
+EPDcoretop_E1194	626	4	512	Potentilla-type	Potentilla-type	HERB
+EPDcoretop_E1194	189	22	189	Quercus	Quercus	TRSH
+EPDcoretop_E1194	135	2	135	Ranunculaceae	Ranunculaceae	HERB
+EPDcoretop_E1194	89	1	89	Rhamnus	Rhamnus-type	TRSH
+EPDcoretop_E1194	92	1	92	Rosaceae	Rosaceae	TRSH
+EPDcoretop_E1194	93	1	93	Rubiaceae	Rubiaceae	HERB
+EPDcoretop_E1194	100	1	100	Sambucus nigra	Sambucus nigra	TRSH
+EPDcoretop_E1194	104	9	22	Secale	Cerealia-type	HERB
+EPDcoretop_E1194	1232	1	107	Sorbus-type	Sorbus-type	TRSH
+EPDcoretop_E1194	144	2	144	Sphagnum	Sphagnum	BRYO
+EPDcoretop_E1194	112	2	112	Thalictrum	Thalictrum	HERB
+EPDcoretop_E1194	154	1	154	Ulmus	Ulmus/Zelkova	TRSH
+EPDcoretop_E1194	590	4	6	Umbelliferae	Apiaceae	HERB
+EPDcoretop_E1194	31	9	31	Corylus avellana	Corylus	TRSH
+EPDcoretop_E1194	44	10	44	Fraxinus ornus	Fraxinus ornus	TRSH
+EPDcoretop_E1194	75	603	75	Pinus	Pinus	TRSH
+EPDcoretop_E1194	192	7	42	Fagus	Fagus	TRSH
+EPDcoretop_E1194	719	1	62	Liliaceae-type	Liliaceae-type	HERB
+EPDcoretop_E1194	809	4	809	Urticaceae	Urticaceae	HERB
+EPDcoretop_E1194	1601	76	80	Gramineae	Poaceae	HERB
+EPDcoretop_E1194	4520	11	94	Rumex-type	Rumex/Oxyria	HERB
+EPDcoretop_E1194	4756	1	4756	Vitis	Vitis	LIAN

@@ -1,24 +1,24 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Lopez_a74	Alnus	Alnus	TRSH	1	0.27100271
-Lopez_a74	Castanea	Castanea sativa	TRSH	1	0.27100271
-Lopez_a74	Pinus pinaster	Pinus pinaster	TRSH	6	1.6260163
-Lopez_a74	Quercus evergreen	Quercus ilex-type	TRSH	107	28.99729
-Lopez_a74	Quercus deciduous	Quercus robur-type	TRSH	3	0.81300813
-Lopez_a74	Aster-type	Aster-type	HERB	4	1.0840108
-Lopez_a74	Cardueae	Asteraceae subf. Carduoideae	HERB	3	0.81300813
-Lopez_a74	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	5	1.3550136
-Lopez_a74	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	5	1.3550136
-Lopez_a74	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.27100271
-Lopez_a74	Plantago lanceolata-type	Plantago lanceolata-type	HERB	21	5.6910569
-Lopez_a74	Plantago media/major-type	Plantago major/P. media-type	HERB	4	1.0840108
-Lopez_a74	Poaceae undiff.	Poaceae	HERB	179	48.509485
-Lopez_a74	Polygonum aviculare-type	Polygonum aviculare-type	HERB	4	1.0840108
-Lopez_a74	Rumex acetosa-type	Rumex acetosa-type	HERB	3	0.81300813
-Lopez_a74	Rumex acetosella-type	Rumex acetosella	HERB	2	0.54200542
-Lopez_a74	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	1	0.27100271
-Lopez_a74	Urtica dioica-type	Urtica dioica-type	HERB	19	5.1490515
-Lopez_a74	Cercophora	Cercophora-type	FUNG	37	
-Lopez_a74	Glomus cf. G. fasciculatum	Glomus cf. fasciculatum	FUNG	5	
-Lopez_a74	Podospora	Podospora-type	FUNG	13	
-Lopez_a74	Sordaria	Sordaria-type	NOPO	67	
-Lopez_a74	Sporormiella	Sporormiella-type	FUNG	67	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Lopez_a74	5	1	5	Alnus	Alnus	TRSH
+Lopez_a74	597	4	11	Aster-type	Aster-type	HERB
+Lopez_a74	445	3	336	Cardueae	Asteraceae subf. Carduoideae	HERB
+Lopez_a74	18	5	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Lopez_a74	441	1	19	Castanea	Castanea sativa	TRSH
+Lopez_a74	2406	37	556	Cercophora	Cercophora-type	FUNG
+Lopez_a74	769	1	24	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB
+Lopez_a74	447	5	25	Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Lopez_a74	4008	5	305	Glomus cf. G. fasciculatum	Glomus cf. fasciculatum	FUNG
+Lopez_a74	439	6	439	Pinus pinaster	Pinus pinaster	TRSH
+Lopez_a74	1075	21	60	Plantago lanceolata-type	Plantago lanceolata-type	HERB
+Lopez_a74	4327	4	458	Plantago media/major-type	Plantago major/P. media-type	HERB
+Lopez_a74	429	179	80	Poaceae undiff.	Poaceae	HERB
+Lopez_a74	671	13	558	Podospora	Podospora-type	FUNG
+Lopez_a74	1078	4	262	Polygonum aviculare-type	Polygonum aviculare-type	HERB
+Lopez_a74	437	3	86	Quercus deciduous	Quercus robur-type	TRSH
+Lopez_a74	634	3	95	Rumex acetosa-type	Rumex acetosa-type	HERB
+Lopez_a74	1398	2	96	Rumex acetosella-type	Rumex acetosella	HERB
+Lopez_a74	4604	67	4604	Sordaria	Sordaria-type	NOPO
+Lopez_a74	677	67	557	Sporormiella	Sporormiella-type	FUNG
+Lopez_a74	4718	19	453	Urtica dioica-type	Urtica dioica-type	HERB
+Lopez_a74	173	1	173	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB
+Lopez_a74	427	107	85	Quercus evergreen	Quercus ilex-type	TRSH

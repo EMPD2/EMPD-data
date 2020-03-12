@@ -1,39 +1,39 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Finsinger_a31	Alnus glutinosa-type	Alnus glutinosa-type	TRSH	8	2.2099448
-Finsinger_a31	BETULA	Betula	TRSH	2	0.55248619
-Finsinger_a31	Castanea sativa	Castanea sativa	TRSH	1	0.27624309
-Finsinger_a31	Corylus avellana	Corylus	TRSH	4	1.1049724
-Finsinger_a31	Fagus	Fagus	TRSH	2	0.55248619
-Finsinger_a31	Juniperus	Juniperus-type	TRSH	10	2.7624309
-Finsinger_a31	Olea	Olea europaea	TRSH	5	1.3812155
-Finsinger_a31	Ostrya-type	Ostrya/Carpinus orientalis	TRSH	1	0.27624309
-Finsinger_a31	Phillyrea	Phillyrea	TRSH	2	0.55248619
-Finsinger_a31	Pinus sylvestris-type	Pinus sylvestris-type	TRSH	8	2.2099448
-Finsinger_a31	Quercus cerris-type	Quercus cerris-type	TRSH	16	4.4198895
-Finsinger_a31	Quercus ilex-type	Quercus ilex-type	TRSH	2	0.55248619
-Finsinger_a31	Quercus rob.-pub.-type	Quercus robur-type	TRSH	1	0.27624309
-Finsinger_a31	Salix	Salix	TRSH	2	0.55248619
-Finsinger_a31	Sambucus	Sambucus	TRSH	1	0.27624309
-Finsinger_a31	Anemone hortensis	Anemone hortensis-type	HERB	1	0.27624309
-Finsinger_a31	Artemisia	Artemisia	HERB	3	0.82872928
-Finsinger_a31	Compositae Subfam. Asteroideae	Asteraceae subf. Asteroideae	HERB	24	6.6298343
-Finsinger_a31	Cirsium	Asteraceae subf. Asteroideae	HERB	2	0.55248619
-Finsinger_a31	Compositae Subfam. Cichorioideae	Asteraceae subf. Cichorioideae	HERB	25	6.9060773
-Finsinger_a31	Cerealia	Avena-type	HERB	6	1.6574586
-Finsinger_a31	Cruciferae	Brassicaceae	HERB	2	0.55248619
-Finsinger_a31	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	2	0.55248619
-Finsinger_a31	Sagina	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	3	0.82872928
-Finsinger_a31	Centaurea solstitialis	Centaurea nigra-type	HERB	4	1.1049724
-Finsinger_a31	Chaerophyllum hirsutum-type	Chaerophyllum hirsutum-type	HERB	1	0.27624309
-Finsinger_a31	Chenopodiaceae-type	Chenopodiaceae/Amaranthaceae	HERB	2	0.55248619
-Finsinger_a31	Achillea-type	Matricaria-type	HERB	1	0.27624309
-Finsinger_a31	Mercurialis	Mercurialis	HERB	1	0.27624309
-Finsinger_a31	Plantago coronopus	Plantago coronopus-type	HERB	49	13.535912
-Finsinger_a31	Plantago lanceolata-type	Plantago lanceolata-type	HERB	7	1.9337017
-Finsinger_a31	Gramineae	Poaceae	HERB	146	40.331492
-Finsinger_a31	Polygonum aviculare	Polygonum aviculare-type	HERB	1	0.27624309
-Finsinger_a31	Rhinanthus type	Rhinanthus-type	HERB	1	0.27624309
-Finsinger_a31	Rumex acetosa-type	Rumex acetosa-type	HERB	4	1.1049724
-Finsinger_a31	Urtica pilulifera	Urtica pilulifera	HERB	8	2.2099448
-Finsinger_a31	Valeriana dioica-type	Valeriana dioica	HERB	2	0.55248619
-Finsinger_a31	Polypodium vulgare-type	Polypodium	VACR	2	0.55248619
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Finsinger_a31	155	8	155	Alnus glutinosa-type	Alnus glutinosa-type	TRSH
+Finsinger_a31	330	2	12	BETULA	Betula	TRSH
+Finsinger_a31	19	1	19	Castanea sativa	Castanea sativa	TRSH
+Finsinger_a31	31	4	31	Corylus avellana	Corylus	TRSH
+Finsinger_a31	192	2	42	Fagus	Fagus	TRSH
+Finsinger_a31	1728	10	203	Juniperus	Juniperus-type	TRSH
+Finsinger_a31	442	5	68	Olea	Olea europaea	TRSH
+Finsinger_a31	74	2	74	Phillyrea	Phillyrea	TRSH
+Finsinger_a31	1226	8	125	Pinus sylvestris-type	Pinus sylvestris-type	TRSH
+Finsinger_a31	1051	16	84	Quercus cerris-type	Quercus cerris-type	TRSH
+Finsinger_a31	2541	1	86	Quercus rob.-pub.-type	Quercus robur-type	TRSH
+Finsinger_a31	99	2	99	Salix	Salix	TRSH
+Finsinger_a31	1052	2	85	Quercus ilex-type	Quercus ilex-type	TRSH
+Finsinger_a31	481	1	407	Sambucus	Sambucus	TRSH
+Finsinger_a31	943	1	3	Achillea-type	Matricaria-type	HERB
+Finsinger_a31	7	3	7	Artemisia	Artemisia	HERB
+Finsinger_a31	2545	1	2545	Anemone hortensis	Anemone hortensis-type	HERB
+Finsinger_a31	18	2	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Finsinger_a31	2553	4	29	Centaurea solstitialis	Centaurea nigra-type	HERB
+Finsinger_a31	603	2	603	Cirsium	Cirsium	HERB
+Finsinger_a31	2558	2	24	Chenopodiaceae-type	Chenopodiaceae/Amaranthaceae	HERB
+Finsinger_a31	482	2	13	Cruciferae	Brassicaceae	HERB
+Finsinger_a31	1601	146	80	Gramineae	Poaceae	HERB
+Finsinger_a31	30	49	30	Plantago coronopus	Plantago coronopus-type	HERB
+Finsinger_a31	696	1	631	Rhinanthus type	Rhinanthus-type	HERB
+Finsinger_a31	725	1	262	Polygonum aviculare	Polygonum aviculare-type	HERB
+Finsinger_a31	634	4	95	Rumex acetosa-type	Rumex acetosa-type	HERB
+Finsinger_a31	841	8	119	Urtica pilulifera	Urtica pilulifera	HERB
+Finsinger_a31	2590	2	2590	Valeriana dioica-type	Valeriana dioica	HERB
+Finsinger_a31	2596	2	214	Polypodium vulgare-type	Polypodium	VACR
+Finsinger_a31	227	1	227	Mercurialis	Mercurialis	HERB
+Finsinger_a31	572	1	70	Ostrya-type	Ostrya/Carpinus orientalis	TRSH
+Finsinger_a31	1075	7	60	Plantago lanceolata-type	Plantago lanceolata-type	HERB
+Finsinger_a31	2556	6	1111	Cerealia	Avena-type	HERB
+Finsinger_a31	2557	1	1124	Chaerophyllum hirsutum-type	Chaerophyllum hirsutum-type	HERB
+Finsinger_a31	2560	24	160	Compositae Subfam. Asteroideae	Asteraceae subf. Asteroideae	HERB
+Finsinger_a31	2561	25	25	Compositae Subfam. Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Finsinger_a31	2583	3	18	Sagina	Caryophyllaceae (periporate excl. Paronychioideae)	HERB

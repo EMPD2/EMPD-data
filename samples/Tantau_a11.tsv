@@ -1,43 +1,43 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Tantau_a11	Abies	Abies	TRSH	2	0.2962963
-Tantau_a11	Acer	Acer campestre-type	TRSH	2	0.2962963
-Tantau_a11	Alnus	Alnus	TRSH	9	1.3333333
-Tantau_a11	Alnus viridis	Alnus viridis	TRSH	1	0.14814815
-Tantau_a11	Betula	Betula	TRSH	14	2.0740741
-Tantau_a11	Carpinus	Carpinus betulus	TRSH	18	2.6666667
-Tantau_a11	Castanea	Castanea sativa	TRSH	1	0.14814815
-Tantau_a11	Corylus	Corylus	TRSH	33	4.8888889
-Tantau_a11	Fagus	Fagus	TRSH	23	3.4074074
-Tantau_a11	Fraxinus	Fraxinus	TRSH	1	0.14814815
-Tantau_a11	F. ornus	Fraxinus ornus	TRSH	3	0.44444444
-Tantau_a11	Juglans	Juglans	TRSH	2	0.2962963
-Tantau_a11	Ostrya	Ostrya/Carpinus orientalis	TRSH	2	0.2962963
-Tantau_a11	Picea abies	Picea abies-type	TRSH	70	10.37037
-Tantau_a11	Pinus sp.	Pinus	TRSH	97	14.37037
-Tantau_a11	Quercus	Quercus	TRSH	27	4
-Tantau_a11	Rosaceae	Rosaceae	TRSH	5	0.74074074
-Tantau_a11	Salix	Salix	TRSH	3	0.44444444
-Tantau_a11	Tilia	Tilia	TRSH	1	0.14814815
-Tantau_a11	Ulmus	Ulmus/Zelkova	TRSH	1	0.14814815
-Tantau_a11	Apiaceae	Apiaceae	HERB	1	0.14814815
-Tantau_a11	Artemisia	Artemisia	HERB	7	1.037037
-Tantau_a11	Asteroideae	Asteraceae subf. Asteroideae	HERB	11	1.6296296
-Tantau_a11	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	9	1.3333333
-Tantau_a11	Brassicaceae	Brassicaceae	HERB	1	0.14814815
-Tantau_a11	Campanulaceae	Campanulaceae	HERB	1	0.14814815
-Tantau_a11	Cereales	Cerealia-type	HERB	2	0.2962963
-Tantau_a11	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	9	1.3333333
-Tantau_a11	Cyperaceae	Cyperaceae	HERB	96	14.222222
-Tantau_a11	Filipendula	Filipendula	HERB	3	0.44444444
-Tantau_a11	Cannabis type	Humulus/Cannabis	HERB	1	0.14814815
-Tantau_a11	Linum	Linum	HERB	1	0.14814815
-Tantau_a11	Plantago lanc.	Plantago lanceolata-type	HERB	6	0.88888889
-Tantau_a11	P. major type	Plantago major	HERB	1	0.14814815
-Tantau_a11	Poaceae	Poaceae	HERB	186	27.555556
-Tantau_a11	Ranunculaceae	Ranunculaceae	HERB	3	0.44444444
-Tantau_a11	Rumex	Rumex/Oxyria	HERB	16	2.3703704
-Tantau_a11	Scrofulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	1	0.14814815
-Tantau_a11	Thalictrum	Thalictrum	HERB	2	0.2962963
-Tantau_a11	Urticaceae	Urticaceae	HERB	3	0.44444444
-Tantau_a11	Menyanthes	Menyanthes trifoliata	AQUA	1	0.14814815
-Tantau_a11	Sparganium/Typha	Sparganium-type	AQUA	1	0.14814815
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Tantau_a11	2	2	2	Acer	Acer campestre-type	TRSH
+Tantau_a11	5	9	5	Alnus	Alnus	TRSH
+Tantau_a11	6	1	6	Apiaceae	Apiaceae	HERB
+Tantau_a11	7	7	7	Artemisia	Artemisia	HERB
+Tantau_a11	16	18	16	Carpinus	Carpinus betulus	TRSH
+Tantau_a11	24	9	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Tantau_a11	33	96	33	Cyperaceae	Cyperaceae	HERB
+Tantau_a11	45	3	45	Filipendula	Filipendula	HERB
+Tantau_a11	57	2	57	Juglans	Juglans	TRSH
+Tantau_a11	190	1	190	Fraxinus	Fraxinus	TRSH
+Tantau_a11	192	23	42	Fagus	Fagus	TRSH
+Tantau_a11	201	33	31	Corylus	Corylus	TRSH
+Tantau_a11	441	1	19	Castanea	Castanea sativa	TRSH
+Tantau_a11	447	9	25	Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Tantau_a11	571	2	70	Ostrya	Ostrya/Carpinus orientalis	TRSH
+Tantau_a11	80	186	80	Poaceae	Poaceae	HERB
+Tantau_a11	99	3	99	Salix	Salix	TRSH
+Tantau_a11	112	2	112	Thalictrum	Thalictrum	HERB
+Tantau_a11	135	3	135	Ranunculaceae	Ranunculaceae	HERB
+Tantau_a11	154	1	154	Ulmus	Ulmus/Zelkova	TRSH
+Tantau_a11	187	1	187	Tilia	Tilia	TRSH
+Tantau_a11	189	27	189	Quercus	Quercus	TRSH
+Tantau_a11	727	16	94	Rumex	Rumex/Oxyria	HERB
+Tantau_a11	787	97	75	Pinus sp.	Pinus	TRSH
+Tantau_a11	792	6	60	Plantago lanc.	Plantago lanceolata-type	HERB
+Tantau_a11	800	1	173	Scrofulariaceae	Scrophulariaceae (colporate-reticulate)	HERB
+Tantau_a11	804	1	176	Sparganium/Typha	Sparganium-type	AQUA
+Tantau_a11	809	3	809	Urticaceae	Urticaceae	HERB
+Tantau_a11	12	14	12	Betula	Betula	TRSH
+Tantau_a11	13	1	13	Brassicaceae	Brassicaceae	HERB
+Tantau_a11	136	1	136	Campanulaceae	Campanulaceae	HERB
+Tantau_a11	560	2	321	Abies	Abies	TRSH
+Tantau_a11	561	1	129	Alnus viridis	Alnus viridis	TRSH
+Tantau_a11	747	1	747	Linum	Linum	HERB
+Tantau_a11	761	11	160	Asteroideae	Asteraceae subf. Asteroideae	HERB
+Tantau_a11	765	1	205	Cannabis type	Humulus/Cannabis	HERB
+Tantau_a11	768	2	22	Cereales	Cerealia-type	HERB
+Tantau_a11	774	3	44	F. ornus	Fraxinus ornus	TRSH
+Tantau_a11	780	1	175	Menyanthes	Menyanthes trifoliata	AQUA
+Tantau_a11	782	1	79	P. major type	Plantago major	HERB
+Tantau_a11	783	70	783	Picea abies	Picea abies-type	TRSH
+Tantau_a11	92	5	92	Rosaceae	Rosaceae	TRSH

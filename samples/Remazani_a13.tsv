@@ -1,40 +1,40 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Remazani_a13	Acer campestre type	Acer campestre-type	TRSH	23	2.61959
-Remazani_a13	Acer campestre type clumps of two	Acer campestre-type	TRSH	1	0.11389522
-Remazani_a13	Alnus	Alnus	TRSH	190	21.640091
-Remazani_a13	Buxus	Buxus	TRSH	1	0.11389522
-Remazani_a13	Carpinus type	Carpinus betulus	TRSH	302	34.396355
-Remazani_a13	Diospyros	Diospyros	TRSH	2	0.22779043
-Remazani_a13	Fagus	Fagus	TRSH	239	27.220957
-Remazani_a13	Hedera helix type	Hedera	TRSH	1	0.11389522
-Remazani_a13	Juniperus type	Juniperus-type	TRSH	1	0.11389522
-Remazani_a13	Parrotia persica	Parrotia persica	TRSH	5	0.56947608
-Remazani_a13	Pinus	Pinus	TRSH	1	0.11389522
-Remazani_a13	Pterocarya fraxinifolia type	Pterocarya	TRSH	3	0.34168565
-Remazani_a13	Quercus	Quercus	TRSH	12	1.3667426
-Remazani_a13	Non-operculate Rosaceae	Rosaceae	TRSH	1	0.11389522
-Remazani_a13	Salix	Salix	TRSH	1	0.11389522
-Remazani_a13	Taxus	Taxus baccata	TRSH	1	0.11389522
-Remazani_a13	Ulmus	Ulmus/Zelkova	TRSH	4	0.45558087
-Remazani_a13	Zelkova	Ulmus/Zelkova	TRSH	1	0.11389522
-Remazani_a13	Artemisia	Artemisia	HERB	4	0.45558087
-Remazani_a13	Chenopodiaceae and Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	7	0.79726651
-Remazani_a13	Cyperaceae	Cyperaceae	HERB	5	0.56947608
-Remazani_a13	Plantago lanceolata type	Plantago lanceolata-type	HERB	1	0.11389522
-Remazani_a13	Wild grass group	Poaceae	HERB	3	0.34168565
-Remazani_a13	Sinapis type	Sinapis-type	HERB	1	0.11389522
-Remazani_a13	Urtica dioica	Urtica dioica	HERB	1	0.11389522
-Remazani_a13	Asplenium scolopendrium	Asplenium-type	VACR	3	0.34168565
-Remazani_a13	Athyrium filix-femina	Athyrium filix-femina	VACR	16	1.8223235
-Remazani_a13	Dryopteris filix-mas type	Dryopteris filix-mas-type	VACR	8	0.91116173
-Remazani_a13	Matteuccia	Matteuccia struthiopteris	VACR	1	0.11389522
-Remazani_a13	Monolete spore without perine	Monolete fern spores	VACR	33	3.7585421
-Remazani_a13	Monocolpate verrucate	Monolete fern spores	VACR	5	0.56947608
-Remazani_a13	Pteridium aquilinum	Pteridium aquilinum	VACR	1	0.11389522
-Remazani_a13	Caltha type	Caltha-type	HELO	1	0.11389522
-Remazani_a13	Ideterminable grains	Indeterminable: unknown	INUN	121	
-Remazani_a13	Type 8 undiff.	Type 8 undiff.	INUN	1	
-Remazani_a13	Arcella discoides C	Arcella discoides	RHIZ	1	
-Remazani_a13	Type 32 A: Assulina muscorum	Assulina muscorum	RHIZ	6	
-Remazani_a13	Monodictys E	Monodictys	FUNG	22	
-Remazani_a13	Type 44: Ustulina deusta	Ustulina deusta	FUNG	72	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Remazani_a13	5	190	5	Alnus	Alnus	TRSH
+Remazani_a13	186	302	16	Carpinus type	Carpinus betulus	TRSH
+Remazani_a13	188	1	188	Buxus	Buxus	TRSH
+Remazani_a13	154	4	154	Ulmus	Ulmus/Zelkova	TRSH
+Remazani_a13	191	3	191	Pterocarya fraxinifolia type	Pterocarya	TRSH
+Remazani_a13	192	239	42	Fagus	Fagus	TRSH
+Remazani_a13	7	4	7	Artemisia	Artemisia	HERB
+Remazani_a13	75	1	75	Pinus	Pinus	TRSH
+Remazani_a13	99	1	99	Salix	Salix	TRSH
+Remazani_a13	196	2	196	Diospyros	Diospyros	TRSH
+Remazani_a13	198	1	111	Taxus	Taxus baccata	TRSH
+Remazani_a13	117	1	117	Urtica dioica	Urtica dioica	HERB
+Remazani_a13	180	1	180	Pteridium aquilinum	Pteridium aquilinum	VACR
+Remazani_a13	215	16	215	Athyrium filix-femina	Athyrium filix-femina	VACR
+Remazani_a13	216	3	216	Asplenium scolopendrium	Asplenium-type	VACR
+Remazani_a13	218	1	218	Matteuccia	Matteuccia struthiopteris	VACR
+Remazani_a13	220	8	220	Dryopteris filix-mas type	Dryopteris filix-mas-type	VACR
+Remazani_a13	221	1	60	Plantago lanceolata type	Plantago lanceolata-type	HERB
+Remazani_a13	232	1	232	Caltha type	Caltha-type	HELO
+Remazani_a13	33	5	33	Cyperaceae	Cyperaceae	HERB
+Remazani_a13	246	1	246	Sinapis type	Sinapis-type	HERB
+Remazani_a13	249	3	80	Wild grass group	Poaceae	HERB
+Remazani_a13	260	1	92	Non-operculate Rosaceae	Rosaceae	TRSH
+Remazani_a13	275	33	146	Monolete spore without perine	Monolete fern spores	VACR
+Remazani_a13	281	5	146	Monocolpate verrucate	Monolete fern spores	VACR
+Remazani_a13	284	1	2	Acer campestre type clumps of two	Acer campestre-type	TRSH
+Remazani_a13	301	121	177	Ideterminable grains	Indeterminable: unknown	INUN
+Remazani_a13	306	72	306	Type 44: Ustulina deusta	Ustulina deusta	FUNG
+Remazani_a13	309	1	309	Arcella discoides C	Arcella discoides	RHIZ
+Remazani_a13	311	1	311	Type 8 undiff.	Type 8 undiff.	INUN
+Remazani_a13	312	22	312	Monodictys E	Monodictys	FUNG
+Remazani_a13	317	6	317	Type 32 A: Assulina muscorum	Assulina muscorum	RHIZ
+Remazani_a13	189	12	189	Quercus	Quercus	TRSH
+Remazani_a13	193	5	193	Parrotia persica	Parrotia persica	TRSH
+Remazani_a13	195	23	2	Acer campestre type	Acer campestre-type	TRSH
+Remazani_a13	200	1	154	Zelkova	Ulmus/Zelkova	TRSH
+Remazani_a13	203	1	203	Juniperus type	Juniperus-type	TRSH
+Remazani_a13	204	1	51	Hedera helix type	Hedera	TRSH
+Remazani_a13	212	7	24	Chenopodiaceae and Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB

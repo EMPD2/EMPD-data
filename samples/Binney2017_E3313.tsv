@@ -1,12 +1,12 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Binney2017_E3313	Alnus	Alnus	TRSH	49	22.790698
-Binney2017_E3313	Ericales	Ericales (tetrad)	DWAR	24	11.162791
-Binney2017_E3313	Pinus pumila	Pinus cembra-type	TRSH	35	16.27907
-Binney2017_E3313	Artemisia	Artemisia	HERB	5	2.3255814
-Binney2017_E3313	Cyperaceae	Cyperaceae	HERB	53	24.651163
-Binney2017_E3313	Poaceae	Poaceae	HERB	6	2.7906977
-Binney2017_E3313	Bryophyta	Bryophyte spores	BRYO	10	4.6511628
-Binney2017_E3313	Equisetum	Equisetum	VACR	4	1.8604651
-Binney2017_E3313	Lycopodium	Lycopodium	VACR	12	5.5813953
-Binney2017_E3313	Polypodiaceae	Monolete fern spores	VACR	17	7.9069767
-Binney2017_E3313	Sphagnales	Sphagnum	NOPO	70	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Binney2017_E3313	5	49	5	Alnus	Alnus	TRSH
+Binney2017_E3313	7	5	7	Artemisia	Artemisia	HERB
+Binney2017_E3313	33	53	33	Cyperaceae	Cyperaceae	HERB
+Binney2017_E3313	80	6	80	Poaceae	Poaceae	HERB
+Binney2017_E3313	143	12	143	Lycopodium	Lycopodium	VACR
+Binney2017_E3313	145	4	145	Equisetum	Equisetum	VACR
+Binney2017_E3313	146	17	146	Polypodiaceae	Monolete fern spores	VACR
+Binney2017_E3313	1241	10	147	Bryophyta	Bryophyte spores	BRYO
+Binney2017_E3313	2120	24	130	Ericales	Ericales (tetrad)	DWAR
+Binney2017_E3313	4620	70	144	Sphagnales	Sphagnum	BRYO
+Binney2017_E3313	4920	35	124	Pinus pumila	Pinus cembra-type	TRSH

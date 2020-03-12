@@ -1,20 +1,20 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Lopez_a410	Betula	Betula	TRSH	1	0.27247956
-Lopez_a410	Juniperus-type	Juniperus-type	TRSH	1	0.27247956
-Lopez_a410	Pinus pinea/halepensis-type	Pinus halepensis-type	TRSH	23	6.26703
-Lopez_a410	Pinus pinaster	Pinus pinaster	TRSH	298	81.19891
-Lopez_a410	Pinus sylvestris/nigra-type	Pinus sylvestris-type	TRSH	3	0.81743869
-Lopez_a410	Quercus evergreen	Quercus ilex-type	TRSH	5	1.3623978
-Lopez_a410	Quercus deciduous	Quercus robur-type	TRSH	3	0.81743869
-Lopez_a410	Prunus/Rubus-type	Rosaceae (non-operculate)	TRSH	2	0.54495913
-Lopez_a410	Artemisia	Artemisia	HERB	1	0.27247956
-Lopez_a410	Aster-type	Aster-type	HERB	2	0.54495913
-Lopez_a410	Cardueae	Asteraceae subf. Carduoideae	HERB	4	1.0899183
-Lopez_a410	Cruciferae	Brassicaceae	HERB	1	0.27247956
-Lopez_a410	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	1	0.27247956
-Lopez_a410	Cistus-type	Cistus	HERB	1	0.27247956
-Lopez_a410	Labiatae	Lamiaceae	HERB	2	0.54495913
-Lopez_a410	Poaceae undiff.	Poaceae	HERB	19	5.1771117
-Lopez_a410	Glomus cf. G. fasciculatum	Glomus cf. fasciculatum	FUNG	13	
-Lopez_a410	Sordaria	Sordaria-type	NOPO	2	
-Lopez_a410	Viscum album-type	Viscum album	HEMI	19	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Lopez_a410	7	1	7	Artemisia	Artemisia	HERB
+Lopez_a410	597	2	11	Aster-type	Aster-type	HERB
+Lopez_a410	445	4	336	Cardueae	Asteraceae subf. Carduoideae	HERB
+Lopez_a410	3810	1	3796	Cistus-type	Cistus	HERB
+Lopez_a410	482	1	13	Cruciferae	Brassicaceae	HERB
+Lopez_a410	4008	13	305	Glomus cf. G. fasciculatum	Glomus cf. fasciculatum	FUNG
+Lopez_a410	738	1	203	Juniperus-type	Juniperus-type	TRSH
+Lopez_a410	4304	23	440	Pinus pinea/halepensis-type	Pinus halepensis-type	TRSH
+Lopez_a410	4308	3	125	Pinus sylvestris/nigra-type	Pinus sylvestris-type	TRSH
+Lopez_a410	429	19	80	Poaceae undiff.	Poaceae	HERB
+Lopez_a410	4403	2	490	Prunus/Rubus-type	Rosaceae (non-operculate)	TRSH
+Lopez_a410	427	5	85	Quercus evergreen	Quercus ilex-type	TRSH
+Lopez_a410	4604	2	4604	Sordaria	Sordaria-type	NOPO
+Lopez_a410	4755	19	4754	Viscum album-type	Viscum album	HEMI
+Lopez_a410	12	1	12	Betula	Betula	TRSH
+Lopez_a410	18	1	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Lopez_a410	437	3	86	Quercus deciduous	Quercus robur-type	TRSH
+Lopez_a410	439	298	439	Pinus pinaster	Pinus pinaster	TRSH
+Lopez_a410	485	2	59	Labiatae	Lamiaceae	HERB

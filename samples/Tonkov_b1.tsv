@@ -1,33 +1,33 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Tonkov_b1	Abies	Abies	TRSH	42	6.5420561
-Tonkov_b1	Alnus	Alnus	TRSH	10	1.5576324
-Tonkov_b1	Betula	Betula	TRSH	2	0.31152648
-Tonkov_b1	Corylus	Corylus	TRSH	3	0.46728972
-Tonkov_b1	Fagus	Fagus	TRSH	54	8.411215
-Tonkov_b1	Fraxinus excelsior-type	Fraxinus excelsior-type	TRSH	1	0.15576324
-Tonkov_b1	Juglans	Juglans	TRSH	4	0.62305296
-Tonkov_b1	Carpinus orientalis/Ostrya	Ostrya/Carpinus orientalis	TRSH	1	0.15576324
-Tonkov_b1	Picea	Picea	TRSH	88	13.707165
-Tonkov_b1	Pinus peuce	Pinus cembra-type	TRSH	19	2.9595016
-Tonkov_b1	Pinus diploxylon-type	Pinus sylvestris-type	TRSH	300	46.728972
-Tonkov_b1	Quercus cerris-type	Quercus cerris-type	TRSH	6	0.93457944
-Tonkov_b1	Quercus robur-type	Quercus robur-type	TRSH	8	1.2461059
-Tonkov_b1	Hedera	Hedera	LIAN	1	0.15576324
-Tonkov_b1	Vitis	Vitis	LIAN	1	0.15576324
-Tonkov_b1	Apiaceae	Apiaceae	HERB	1	0.15576324
-Tonkov_b1	Artemisia	Artemisia	HERB	1	0.15576324
-Tonkov_b1	Achillea/Aster-type	Asteraceae subf. Asteroideae	HERB	2	0.31152648
-Tonkov_b1	Centaurea jacea-type	Centaurea nigra-type	HERB	1	0.15576324
-Tonkov_b1	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.15576324
-Tonkov_b1	Taraxacum-type	Crepis-type	HERB	1	0.15576324
-Tonkov_b1	Gentiana	Gentiana	HERB	5	0.7788162
-Tonkov_b1	Helianthemum	Helianthemum	HERB	1	0.15576324
-Tonkov_b1	Knautia	Knautia	HERB	4	0.62305296
-Tonkov_b1	Lotus	Lotus-type	HERB	1	0.15576324
-Tonkov_b1	Poaceae	Poaceae	HERB	7	1.0903427
-Tonkov_b1	Galium-type	Rubiaceae	HERB	1	0.15576324
-Tonkov_b1	Rumex	Rumex/Oxyria	HERB	1	0.15576324
-Tonkov_b1	Scleranthus	Scleranthus	HERB	71	11.05919
-Tonkov_b1	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	2	0.31152648
-Tonkov_b1	Polypodiaceae	Monolete fern spores	VACR	1	0.15576324
-Tonkov_b1	Polypodium vulgare	Polypodium	VACR	1	0.15576324
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Tonkov_b1	560	42	321	Abies	Abies	TRSH
+Tonkov_b1	1325	2	160	Achillea/Aster-type	Asteraceae subf. Asteroideae	HERB
+Tonkov_b1	5	10	5	Alnus	Alnus	TRSH
+Tonkov_b1	6	1	6	Apiaceae	Apiaceae	HERB
+Tonkov_b1	1035	1	70	Carpinus orientalis/Ostrya	Ostrya/Carpinus orientalis	TRSH
+Tonkov_b1	1062	1	29	Centaurea jacea-type	Centaurea nigra-type	HERB
+Tonkov_b1	24	1	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Tonkov_b1	201	3	31	Corylus	Corylus	TRSH
+Tonkov_b1	192	54	42	Fagus	Fagus	TRSH
+Tonkov_b1	605	1	93	Galium-type	Rubiaceae	HERB
+Tonkov_b1	606	5	606	Gentiana	Gentiana	HERB
+Tonkov_b1	4031	1	4031	Hedera	Hedera	LIAN
+Tonkov_b1	52	1	52	Helianthemum	Helianthemum	HERB
+Tonkov_b1	57	4	57	Juglans	Juglans	TRSH
+Tonkov_b1	1257	4	1257	Knautia	Knautia	HERB
+Tonkov_b1	1152	1	611	Lotus	Lotus-type	HERB
+Tonkov_b1	126	88	126	Picea	Picea	TRSH
+Tonkov_b1	1049	300	125	Pinus diploxylon-type	Pinus sylvestris-type	TRSH
+Tonkov_b1	2420	19	124	Pinus peuce	Pinus cembra-type	TRSH
+Tonkov_b1	80	7	80	Poaceae	Poaceae	HERB
+Tonkov_b1	146	1	146	Polypodiaceae	Monolete fern spores	VACR
+Tonkov_b1	667	1	214	Polypodium vulgare	Polypodium	VACR
+Tonkov_b1	1051	6	84	Quercus cerris-type	Quercus cerris-type	TRSH
+Tonkov_b1	152	8	86	Quercus robur-type	Quercus robur-type	TRSH
+Tonkov_b1	727	1	94	Rumex	Rumex/Oxyria	HERB
+Tonkov_b1	1041	71	1041	Scleranthus	Scleranthus	HERB
+Tonkov_b1	173	2	173	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB
+Tonkov_b1	1333	1	1242	Taraxacum-type	Crepis-type	HERB
+Tonkov_b1	4756	1	4756	Vitis	Vitis	LIAN
+Tonkov_b1	7	1	7	Artemisia	Artemisia	HERB
+Tonkov_b1	12	2	12	Betula	Betula	TRSH
+Tonkov_b1	1047	1	47	Fraxinus excelsior-type	Fraxinus excelsior-type	TRSH

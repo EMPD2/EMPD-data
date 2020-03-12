@@ -1,15 +1,15 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Fletcher_b29	Cedrus	Cedrus	TRSH	12.9	12.938816
-Fletcher_b29	Cupressaceae	Cupressaceae undiff.	TRSH	0.2	0.20060181
-Fletcher_b29	Olea	Olea europaea	TRSH	1.2	1.2036108
-Fletcher_b29	Phillyrea	Phillyrea	TRSH	1	1.003009
-Fletcher_b29	Quercus evergreen	Quercus ilex-type	TRSH	59.2	59.378134
-Fletcher_b29	Quercus deciduous	Quercus robur-type	TRSH	15.7	15.747242
-Fletcher_b29	Asteraceae undiff.	Asteraceae	HERB	1.7	1.7051153
-Fletcher_b29	Brassicaceae undiff.	Brassicaceae	HERB	2	2.0060181
-Fletcher_b29	Chenopodiaceae undiff.	Chenopodiaceae/Amaranthaceae	HERB	0.7	0.70210632
-Fletcher_b29	Fabaceae undiff.	Fabaceae undiff.	HERB	2.5	2.5075226
-Fletcher_b29	Helianthemum	Helianthemum	HERB	0.2	0.20060181
-Fletcher_b29	Lamiaceae	Lamiaceae	HERB	1.7	1.7051153
-Fletcher_b29	Poaceae undiff.	Poaceae	HERB	0.7	0.70210632
-Fletcher_b29	Concentration	Total concentration	NOPO	465605	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Fletcher_b29	74	1	74	Phillyrea	Phillyrea	TRSH
+Fletcher_b29	442	1.2	68	Olea	Olea europaea	TRSH
+Fletcher_b29	576	12.9	340	Cedrus	Cedrus	TRSH
+Fletcher_b29	427	59.2	85	Quercus evergreen	Quercus ilex-type	TRSH
+Fletcher_b29	437	15.7	86	Quercus deciduous	Quercus robur-type	TRSH
+Fletcher_b29	709	1.7	134	Asteraceae undiff.	Asteraceae	HERB
+Fletcher_b29	1422	2	13	Brassicaceae undiff.	Brassicaceae	HERB
+Fletcher_b29	1810	0.7	24	Chenopodiaceae undiff.	Chenopodiaceae/Amaranthaceae	HERB
+Fletcher_b29	52	0.2	52	Helianthemum	Helianthemum	HERB
+Fletcher_b29	59	1.7	59	Lamiaceae	Lamiaceae	HERB
+Fletcher_b29	484	2.5	269	Fabaceae undiff.	Fabaceae undiff.	HERB
+Fletcher_b29	2014	465605	2014	Concentration	Total concentration	NOPO
+Fletcher_b29	429	0.7	80	Poaceae undiff.	Poaceae	HERB
+Fletcher_b29	714	0.2	347	Cupressaceae	Cupressaceae undiff.	TRSH

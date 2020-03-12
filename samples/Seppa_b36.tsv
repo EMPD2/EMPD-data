@@ -1,21 +1,21 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Seppa_b36	Alnus	Alnus	TRSH	19	3.5916824
-Seppa_b36	Betula	Betula	TRSH	125	23.62949
-Seppa_b36	Calluna vulgaris	Calluna vulgaris	DWAR	2	0.37807183
-Seppa_b36	Corylus avellana	Corylus	TRSH	3	0.56710775
-Seppa_b36	Juniperus communis	Juniperus communis-type	TRSH	2	0.37807183
-Seppa_b36	Picea	Picea	TRSH	57	10.775047
-Seppa_b36	Pinus sylvestris	Pinus sylvestris-type	TRSH	301	56.899811
-Seppa_b36	Quercus	Quercus	TRSH	1	0.18903592
-Seppa_b36	Ulmus	Ulmus/Zelkova	TRSH	1	0.18903592
-Seppa_b36	Vaccinium-type	Vaccinium-type	DWAR	1	0.18903592
-Seppa_b36	Artemisia	Artemisia	HERB	1	0.18903592
-Seppa_b36	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.18903592
-Seppa_b36	Gramineae undiff.	Poaceae	HERB	9	1.7013233
-Seppa_b36	Rumex acetosa/R. acetosella-type	Rumex acetosa-type	HERB	2	0.37807183
-Seppa_b36	Rumex acetosella-type	Rumex acetosella	HERB	1	0.18903592
-Seppa_b36	Dryopteris-type	Dryopteris-type	VACR	1	0.18903592
-Seppa_b36	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR	1	0.18903592
-Seppa_b36	Lycopodium annotinum	Lycopodium annotinum-type	VACR	1	0.18903592
-Seppa_b36	Carex-type	Carex	AQUA	2	0.37807183
-Seppa_b36	Cyperaceae undiff.	Cyperaceae	AQUA	1	0.18903592
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Seppa_b36	5	19	5	Alnus	Alnus	TRSH
+Seppa_b36	7	1	7	Artemisia	Artemisia	HERB
+Seppa_b36	12	125	12	Betula	Betula	TRSH
+Seppa_b36	3646	2	3645	Calluna vulgaris	Calluna vulgaris	DWAR
+Seppa_b36	3665	2	3663	Carex-type	Carex	AQUA
+Seppa_b36	24	1	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Seppa_b36	31	3	31	Corylus avellana	Corylus	TRSH
+Seppa_b36	1247	1	772	Dryopteris-type	Dryopteris-type	VACR
+Seppa_b36	4018	9	80	Gramineae undiff.	Poaceae	HERB
+Seppa_b36	2121	1	1320	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR
+Seppa_b36	941	2	58	Juniperus communis	Juniperus communis-type	TRSH
+Seppa_b36	126	57	126	Picea	Picea	TRSH
+Seppa_b36	788	301	125	Pinus sylvestris	Pinus sylvestris-type	TRSH
+Seppa_b36	189	1	189	Quercus	Quercus	TRSH
+Seppa_b36	4506	2	95	Rumex acetosa/R. acetosella-type	Rumex acetosa-type	HERB
+Seppa_b36	1398	1	96	Rumex acetosella-type	Rumex acetosella	HERB
+Seppa_b36	154	1	154	Ulmus	Ulmus/Zelkova	TRSH
+Seppa_b36	965	1	183	Lycopodium annotinum	Lycopodium annotinum-type	VACR
+Seppa_b36	3873	1	3868	Cyperaceae undiff.	Cyperaceae	AQUA
+Seppa_b36	4730	1	4730	Vaccinium-type	Vaccinium-type	DWAR

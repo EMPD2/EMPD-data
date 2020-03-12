@@ -1,37 +1,37 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Naughton_a5	Alnus	Alnus	TRSH	40	11.627907
-Naughton_a5	Betula	Betula	TRSH	1	0.29069767
-Naughton_a5	Cupressaceae	Cupressaceae undiff.	TRSH	2	0.58139535
-Naughton_a5	Ericaceae	Ericales (tetrad)	DWAR	60	17.44186
-Naughton_a5	Eucalyptus	Eucalyptus	TRSH	6	1.744186
-Naughton_a5	Fraxinus excelsior-type	Fraxinus excelsior-type	TRSH	1	0.29069767
-Naughton_a5	Juglans	Juglans	TRSH	1	0.29069767
-Naughton_a5	Olea	Olea europaea	TRSH	8	2.3255814
-Naughton_a5	Pinus	Pinus	TRSH	139	40.406977
-Naughton_a5	Quercus suber-type	Quercus cerris-type	TRSH	1	0.29069767
-Naughton_a5	Quercus ilex-type	Quercus ilex-type	TRSH	3	0.87209302
-Naughton_a5	Quercus deciduous	Quercus robur-type	TRSH	14	4.0697674
-Naughton_a5	Vitis	Vitis	LIAN	1	0.29069767
-Naughton_a5	Artemisia	Artemisia	HERB	1	0.29069767
-Naughton_a5	Aster-type	Aster-type	HERB	4	1.1627907
-Naughton_a5	Cerealia-type	Cerealia-type	HERB	1	0.29069767
-Naughton_a5	Chenopodiaceae-type	Chenopodiaceae/Amaranthaceae	HERB	3	0.87209302
-Naughton_a5	Taraxacum-type	Crepis-type	HERB	8	2.3255814
-Naughton_a5	Helianthemum	Helianthemum	HERB	2	0.58139535
-Naughton_a5	Plantago	Plantago	HERB	5	1.4534884
-Naughton_a5	Poaceae	Poaceae	HERB	21	6.1046512
-Naughton_a5	Rumex-type	Rumex/Oxyria	HERB	2	0.58139535
-Naughton_a5	Monolete fern spores	Monolete fern spores	VACR	1	0.29069767
-Naughton_a5	Monolete fern spores (psilate)	Monolete fern spores	VACR	6	1.744186
-Naughton_a5	Trilete spores	Trilete spore(s)	VACR	6	1.744186
-Naughton_a5	Trilete spores (psilate)	Trilete spore(s)	VACR	7	2.0348837
-Naughton_a5	Cyperaceae	Cyperaceae	AQUA	5	1.4534884
-Naughton_a5	Isoetes	Isoetes	AQPT	2	0.58139535
-Naughton_a5	Sparganium/Typha	Sparganium-type	AQUA	2	0.58139535
-Naughton_a5	Indeterminable: broken	Indeterminable: broken	INUN	13	
-Naughton_a5	Indeterminable: concealed	Indeterminable: concealed	INUN	3	
-Naughton_a5	Indeterminable: corroded	Indeterminable: corroded	INUN	37	
-Naughton_a5	Indeterminable: crumpled	Indeterminable: crumpled	INUN	24	
-Naughton_a5	Counted exote	Counted exote	NOPO	583	
-Naughton_a5	Lycopodium (added)	Lycopodium (added)	NOPO	25084	
-Naughton_a5	Sample volume	Sample volume	NOPO	3	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Naughton_a5	5	40	5	Alnus	Alnus	TRSH
+Naughton_a5	7	1	7	Artemisia	Artemisia	HERB
+Naughton_a5	597	4	11	Aster-type	Aster-type	HERB
+Naughton_a5	1065	1	22	Cerealia-type	Cerealia-type	HERB
+Naughton_a5	2558	3	24	Chenopodiaceae-type	Chenopodiaceae/Amaranthaceae	HERB
+Naughton_a5	3854	583	3854	Counted exote	Counted exote	NOPO
+Naughton_a5	714	2	347	Cupressaceae	Cupressaceae undiff.	TRSH
+Naughton_a5	3868	5	3868	Cyperaceae	Cyperaceae	AQUA
+Naughton_a5	39	6	39	Eucalyptus	Eucalyptus	TRSH
+Naughton_a5	1047	1	47	Fraxinus excelsior-type	Fraxinus excelsior-type	TRSH
+Naughton_a5	52	2	52	Helianthemum	Helianthemum	HERB
+Naughton_a5	4072	13	998	Indeterminable: broken	Indeterminable: broken	INUN
+Naughton_a5	4073	3	999	Indeterminable: concealed	Indeterminable: concealed	INUN
+Naughton_a5	4074	37	1324	Indeterminable: corroded	Indeterminable: corroded	INUN
+Naughton_a5	4075	24	1925	Indeterminable: crumpled	Indeterminable: crumpled	INUN
+Naughton_a5	57	1	57	Juglans	Juglans	TRSH
+Naughton_a5	692	25084	692	Lycopodium (added)	Lycopodium (added)	NOPO
+Naughton_a5	4194	6	146	Monolete fern spores (psilate)	Monolete fern spores	VACR
+Naughton_a5	442	8	68	Olea	Olea europaea	TRSH
+Naughton_a5	75	139	75	Pinus	Pinus	TRSH
+Naughton_a5	80	21	80	Poaceae	Poaceae	HERB
+Naughton_a5	437	14	86	Quercus deciduous	Quercus robur-type	TRSH
+Naughton_a5	1052	3	85	Quercus ilex-type	Quercus ilex-type	TRSH
+Naughton_a5	4520	2	94	Rumex-type	Rumex/Oxyria	HERB
+Naughton_a5	4541	3	1894	Sample volume	Sample volume	NOPO
+Naughton_a5	804	2	176	Sparganium/Typha	Sparganium-type	AQUA
+Naughton_a5	1333	8	1242	Taraxacum-type	Crepis-type	HERB
+Naughton_a5	416	6	279	Trilete spores	Trilete spore(s)	VACR
+Naughton_a5	4687	7	279	Trilete spores (psilate)	Trilete spore(s)	VACR
+Naughton_a5	4756	1	4756	Vitis	Vitis	LIAN
+Naughton_a5	12	1	12	Betula	Betula	TRSH
+Naughton_a5	130	60	130	Ericaceae	Ericales (tetrad)	DWAR
+Naughton_a5	552	2	366	Isoetes	Isoetes	AQPT
+Naughton_a5	724	5	270	Plantago	Plantago	HERB
+Naughton_a5	2792	1	84	Quercus suber-type	Quercus cerris-type	TRSH
+Naughton_a5	4193	1	146	Monolete fern spores	Monolete fern spores	VACR

@@ -1,43 +1,43 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Barboni_a1421	Abies	Abies	TRSH	36	2.6805659
-Barboni_a1421	Alnus	Alnus	TRSH	3	0.22338049
-Barboni_a1421	Betula	Betula	TRSH	1	0.074460164
-Barboni_a1421	Carpinus betulus	Carpinus betulus	TRSH	21	1.5636634
-Barboni_a1421	Castanea	Castanea sativa	TRSH	3	0.22338049
-Barboni_a1421	Corylus	Corylus	TRSH	6	0.44676098
-Barboni_a1421	Cotoneaster	Cotoneaster	TRSH	2	0.14892033
-Barboni_a1421	Fagus	Fagus	TRSH	4	0.29784066
-Barboni_a1421	Juglans	Juglans	TRSH	1	0.074460164
-Barboni_a1421	Juniperus	Juniperus communis-type	TRSH	9	0.67014147
-Barboni_a1421	Juniperus sabina	Juniperus sabina	TRSH	1	0.074460164
-Barboni_a1421	Olea	Olea europaea	TRSH	12	0.89352197
-Barboni_a1421	Ostrya/Carpinus	Ostrya/Carpinus orientalis	TRSH	2	0.14892033
-Barboni_a1421	Pinus	Pinus	TRSH	270	20.104244
-Barboni_a1421	Pistacia	Pistacia	TRSH	1	0.074460164
-Barboni_a1421	Platanus	Platanus	TRSH	1	0.074460164
-Barboni_a1421	Prunus-type	Prunus-type	TRSH	1	0.074460164
-Barboni_a1421	Crataegus-type	Prunus-type	TRSH	1	0.074460164
-Barboni_a1421	Pyrus	Prunus-type	TRSH	1	0.074460164
-Barboni_a1421	Quercus undiff.	Quercus	TRSH	1	0.074460164
-Barboni_a1421	Quercus cerris-type	Quercus cerris-type	TRSH	32	2.3827252
-Barboni_a1421	Salix	Salix	TRSH	1	0.074460164
-Barboni_a1421	Anagallis	Anagallis	HERB	1	0.074460164
-Barboni_a1421	Cirsium/Gundelia	Asteraceae	HERB	1	0.074460164
-Barboni_a1421	Compositae subf. Asteroideae	Asteraceae subf. Asteroideae	HERB	400	29.784066
-Barboni_a1421	Astragalus-type	Astragalus-type	HERB	1	0.074460164
-Barboni_a1421	Calendula	Calendula	HERB	1	0.074460164
-Barboni_a1421	Cerealia-type	Cerealia-type	HERB	5	0.37230082
-Barboni_a1421	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	2	0.14892033
-Barboni_a1421	Leguminosae	Leguminosae	HERB	7	0.52122115
-Barboni_a1421	Matricaria-type	Matricaria-type	HERB	120	8.9352197
-Barboni_a1421	Plantago lanceolata-type	Plantago lanceolata-type	HERB	316	23.529412
-Barboni_a1421	Gramineae	Poaceae	HERB	23	1.7125838
-Barboni_a1421	Polygonum aviculare-type	Polygonum aviculare-type	HERB	1	0.074460164
-Barboni_a1421	Ranunculaceae	Ranunculaceae	HERB	1	0.074460164
-Barboni_a1421	Galium-type	Rubiaceae	HERB	2	0.14892033
-Barboni_a1421	Rumex acetosa-type	Rumex acetosa-type	HERB	1	0.074460164
-Barboni_a1421	Sanguisorba minor	Sanguisorba minor-type	HERB	27	2.0104244
-Barboni_a1421	Senecio-type	Senecio-type	HERB	1	0.074460164
-Barboni_a1421	Trifolium-type	Trifolium-type	HERB	15	1.1169025
-Barboni_a1421	Xanthium	Xanthium	HERB	8	0.59568131
-Barboni_a1421	Indeterminable: unknown	Indeterminable: unknown	INUN	1	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Barboni_a1421	5	3	5	Alnus	Alnus	TRSH
+Barboni_a1421	12	1	12	Betula	Betula	TRSH
+Barboni_a1421	563	21	16	Carpinus betulus	Carpinus betulus	TRSH
+Barboni_a1421	3795	1	134	Cirsium/Gundelia	Asteraceae	HERB
+Barboni_a1421	3822	400	160	Compositae subf. Asteroideae	Asteraceae subf. Asteroideae	HERB
+Barboni_a1421	201	6	31	Corylus	Corylus	TRSH
+Barboni_a1421	3166	2	2910	Cotoneaster	Cotoneaster	TRSH
+Barboni_a1421	3857	1	82	Crataegus-type	Prunus-type	TRSH
+Barboni_a1421	192	4	42	Fagus	Fagus	TRSH
+Barboni_a1421	4078	1	177	Indeterminable: unknown	Indeterminable: unknown	INUN
+Barboni_a1421	57	1	57	Juglans	Juglans	TRSH
+Barboni_a1421	4091	1	4091	Juniperus sabina	Juniperus sabina	TRSH
+Barboni_a1421	1072	120	3	Matricaria-type	Matricaria-type	HERB
+Barboni_a1421	442	12	68	Olea	Olea europaea	TRSH
+Barboni_a1421	75	270	75	Pinus	Pinus	TRSH
+Barboni_a1421	77	1	77	Pistacia	Pistacia	TRSH
+Barboni_a1421	1075	316	60	Plantago lanceolata-type	Plantago lanceolata-type	HERB
+Barboni_a1421	78	1	78	Platanus	Platanus	TRSH
+Barboni_a1421	1078	1	262	Polygonum aviculare-type	Polygonum aviculare-type	HERB
+Barboni_a1421	1227	1	82	Prunus-type	Prunus-type	TRSH
+Barboni_a1421	4420	1	82	Pyrus	Prunus-type	TRSH
+Barboni_a1421	1051	32	84	Quercus cerris-type	Quercus cerris-type	TRSH
+Barboni_a1421	2173	1	189	Quercus undiff.	Quercus	TRSH
+Barboni_a1421	135	1	135	Ranunculaceae	Ranunculaceae	HERB
+Barboni_a1421	99	1	99	Salix	Salix	TRSH
+Barboni_a1421	1230	1	133	Senecio-type	Senecio-type	HERB
+Barboni_a1421	24	2	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Barboni_a1421	58	9	58	Juniperus	Juniperus communis-type	TRSH
+Barboni_a1421	101	27	101	Sanguisorba minor	Sanguisorba minor-type	HERB
+Barboni_a1421	441	3	19	Castanea	Castanea sativa	TRSH
+Barboni_a1421	560	36	321	Abies	Abies	TRSH
+Barboni_a1421	634	1	95	Rumex acetosa-type	Rumex acetosa-type	HERB
+Barboni_a1421	744	7	744	Leguminosae	Leguminosae	HERB
+Barboni_a1421	1044	8	1044	Xanthium	Xanthium	HERB
+Barboni_a1421	1065	5	22	Cerealia-type	Cerealia-type	HERB
+Barboni_a1421	1284	15	115	Trifolium-type	Trifolium-type	HERB
+Barboni_a1421	1438	1	10	Astragalus-type	Astragalus-type	HERB
+Barboni_a1421	1601	23	80	Gramineae	Poaceae	HERB
+Barboni_a1421	1614	2	70	Ostrya/Carpinus	Ostrya/Carpinus orientalis	TRSH
+Barboni_a1421	1797	1	1797	Anagallis	Anagallis	HERB
+Barboni_a1421	3640	1	1740	Calendula	Calendula	HERB
+Barboni_a1421	605	2	93	Galium-type	Rubiaceae	HERB

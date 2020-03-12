@@ -1,36 +1,36 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Seppa_v17	Alnus	Alnus	TRSH	184	29.677419
-Seppa_v17	Betula	Betula	TRSH	184	29.677419
-Seppa_v17	Calluna vulgaris	Calluna vulgaris	DWAR	1	0.16129032
-Seppa_v17	Corylus avellana	Corylus	TRSH	5	0.80645161
-Seppa_v17	Juniperus communis	Juniperus communis-type	TRSH	6	0.96774194
-Seppa_v17	Picea	Picea	TRSH	14	2.2580645
-Seppa_v17	Pinus sylvestris	Pinus sylvestris-type	TRSH	97	15.645161
-Seppa_v17	Populus tremula	Populus tremula-type	TRSH	1	0.16129032
-Seppa_v17	Quercus	Quercus	TRSH	5	0.80645161
-Seppa_v17	Salix undiff.	Salix	TRSH	4	0.64516129
-Seppa_v17	Tilia cordata	Tilia cordata-type	TRSH	1	0.16129032
-Seppa_v17	Ulmus	Ulmus/Zelkova	TRSH	4	0.64516129
-Seppa_v17	Ambrosia-type	Ambrosia	HERB	3	0.48387097
-Seppa_v17	Umbelliferae undiff.	Apiaceae	HERB	1	0.16129032
-Seppa_v17	Artemisia	Artemisia	HERB	10	1.6129032
-Seppa_v17	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB	1	0.16129032
-Seppa_v17	Avena/Triticum-type	Avena/Triticum-type	HERB	10	1.6129032
-Seppa_v17	Cerealia undiff.	Cerealia-type	HERB	2	0.32258065
-Seppa_v17	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.16129032
-Seppa_v17	Filipendula	Filipendula	HERB	3	0.48387097
-Seppa_v17	Humulus lupulus	Humulus lupulus	HERB	3	0.48387097
-Seppa_v17	Achillea-type	Matricaria-type	HERB	1	0.16129032
-Seppa_v17	Plantago lanceolata	Plantago lanceolata-type	HERB	1	0.16129032
-Seppa_v17	Gramineae undiff.	Poaceae	HERB	43	6.9354839
-Seppa_v17	Potentilla-type	Potentilla-type	HERB	1	0.16129032
-Seppa_v17	Rumex acetosa	Rumex acetosa-type	HERB	5	0.80645161
-Seppa_v17	Rumex acetosa/R. acetosella-type	Rumex acetosa-type	HERB	4	0.64516129
-Seppa_v17	Rumex acetosella-type	Rumex acetosella	HERB	6	0.96774194
-Seppa_v17	Solidago-type	Senecio-type	HERB	1	0.16129032
-Seppa_v17	Sinapis-type	Sinapis-type	HERB	2	0.32258065
-Seppa_v17	Dryopteris-type	Dryopteris-type	VACR	7	1.1290323
-Seppa_v17	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR	1	0.16129032
-Seppa_v17	Sphagnum	Sphagnum	BRYO	8	1.2903226
-Seppa_v17	Carex-type	Carex	AQUA	9	1.4516129
-Seppa_v17	Indeterminable: degraded	Indeterminable: degraded	INUN	2	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Seppa_v17	5	184	5	Alnus	Alnus	TRSH
+Seppa_v17	1377	3	586	Ambrosia-type	Ambrosia	HERB
+Seppa_v17	7	10	7	Artemisia	Artemisia	HERB
+Seppa_v17	3601	10	818	Avena/Triticum-type	Avena/Triticum-type	HERB
+Seppa_v17	12	184	12	Betula	Betula	TRSH
+Seppa_v17	3665	9	3663	Carex-type	Carex	AQUA
+Seppa_v17	822	2	22	Cerealia undiff.	Cerealia-type	HERB
+Seppa_v17	24	1	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Seppa_v17	3824	1	25	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Seppa_v17	1247	7	772	Dryopteris-type	Dryopteris-type	VACR
+Seppa_v17	45	3	45	Filipendula	Filipendula	HERB
+Seppa_v17	4018	43	80	Gramineae undiff.	Poaceae	HERB
+Seppa_v17	2121	1	1320	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR
+Seppa_v17	828	3	828	Humulus lupulus	Humulus lupulus	HERB
+Seppa_v17	718	2	718	Indeterminable: degraded	Indeterminable: degraded	INUN
+Seppa_v17	788	97	125	Pinus sylvestris	Pinus sylvestris-type	TRSH
+Seppa_v17	60	1	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+Seppa_v17	626	1	512	Potentilla-type	Potentilla-type	HERB
+Seppa_v17	95	5	95	Rumex acetosa	Rumex acetosa-type	HERB
+Seppa_v17	4506	4	95	Rumex acetosa/R. acetosella-type	Rumex acetosa-type	HERB
+Seppa_v17	1398	6	96	Rumex acetosella-type	Rumex acetosella	HERB
+Seppa_v17	1400	4	99	Salix undiff.	Salix	TRSH
+Seppa_v17	1403	2	246	Sinapis-type	Sinapis-type	HERB
+Seppa_v17	2428	1	133	Solidago-type	Senecio-type	HERB
+Seppa_v17	144	8	144	Sphagnum	Sphagnum	BRYO
+Seppa_v17	4711	1	6	Umbelliferae undiff.	Apiaceae	HERB
+Seppa_v17	31	5	31	Corylus avellana	Corylus	TRSH
+Seppa_v17	126	14	126	Picea	Picea	TRSH
+Seppa_v17	154	4	154	Ulmus	Ulmus/Zelkova	TRSH
+Seppa_v17	189	5	189	Quercus	Quercus	TRSH
+Seppa_v17	941	6	58	Juniperus communis	Juniperus communis-type	TRSH
+Seppa_v17	943	1	3	Achillea-type	Matricaria-type	HERB
+Seppa_v17	1406	1	153	Tilia cordata	Tilia cordata-type	TRSH
+Seppa_v17	3646	1	3645	Calluna vulgaris	Calluna vulgaris	DWAR
+Seppa_v17	4381	1	4381	Populus tremula	Populus tremula-type	TRSH

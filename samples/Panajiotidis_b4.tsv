@@ -1,33 +1,33 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Panajiotidis_b4	Abies	Abies	TRSH	16	0.26225209
-Panajiotidis_b4	Carpinus betulus	Carpinus betulus	TRSH	11	0.18029831
-Panajiotidis_b4	Corylus	Corylus	TRSH	6	0.098344534
-Panajiotidis_b4	Fagus	Fagus	TRSH	37	0.60645796
-Panajiotidis_b4	Fraxinus	Fraxinus	TRSH	5	0.081953778
-Panajiotidis_b4	Ilex aquifolium	Ilex	TRSH	37	0.60645796
-Panajiotidis_b4	Juniperus	Juniperus-type	TRSH	27	0.4425504
-Panajiotidis_b4	Olea europaea	Olea europaea	TRSH	5	0.081953778
-Panajiotidis_b4	Pinus	Pinus	TRSH	2400	39.337813
-Panajiotidis_b4	Quercus ilex-type	Quercus ilex-type	TRSH	37	0.60645796
-Panajiotidis_b4	Quercus pubescens-type	Quercus robur-type	TRSH	107	1.7538109
-Panajiotidis_b4	Rosaceae	Rosaceae	TRSH	38	0.62284871
-Panajiotidis_b4	Salix	Salix	TRSH	16	0.26225209
-Panajiotidis_b4	Artemisia	Artemisia	HERB	6	0.098344534
-Panajiotidis_b4	Asteraceae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB	80	1.3112604
-Panajiotidis_b4	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	566	9.2771677
-Panajiotidis_b4	Cerealia	Cerealia-type	HERB	21	0.34420587
-Panajiotidis_b4	Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	21	0.34420587
-Panajiotidis_b4	Cyperaceae	Cyperaceae	HERB	5	0.081953778
-Panajiotidis_b4	Fabaceae	Fabaceae	HERB	16	0.26225209
-Panajiotidis_b4	Geraniaceae	Geraniaceae	HERB	5	0.081953778
-Panajiotidis_b4	Campanula-type	Phyteuma-type	HERB	5	0.081953778
-Panajiotidis_b4	Platango lanceolata-type	Plantago lanceolata-type	HERB	1920	31.470251
-Panajiotidis_b4	Poaceae	Poaceae	HERB	672	11.014588
-Panajiotidis_b4	Ranunculus acris-type	Ranunculus acris-type	HERB	16	0.26225209
-Panajiotidis_b4	Rubiaceae	Rubiaceae	HERB	5	0.081953778
-Panajiotidis_b4	Sanguisorba minor-type	Sanguisorba minor-type	HERB	5	0.081953778
-Panajiotidis_b4	Pteridophyta	Monolete fern spores	VACR	16	0.26225209
-Panajiotidis_b4	Lycopodium	Lycopodium (counted)	NOPO	64	
-Panajiotidis_b4	concentration of Lycopodium	Lycopodium (spores/tablet)	NOPO	12542	
-Panajiotidis_b4	quantity of Lycopodium added	Lycopodium tablets (number)	NOPO	5	
-Panajiotidis_b4	volume of sample	Quantity of sample	NOPO	19.6	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Panajiotidis_b4	75	2400	75	Pinus	Pinus	TRSH
+Panajiotidis_b4	192	37	42	Fagus	Fagus	TRSH
+Panajiotidis_b4	201	6	31	Corylus	Corylus	TRSH
+Panajiotidis_b4	560	16	321	Abies	Abies	TRSH
+Panajiotidis_b4	563	11	16	Carpinus betulus	Carpinus betulus	TRSH
+Panajiotidis_b4	68	5	68	Olea europaea	Olea europaea	TRSH
+Panajiotidis_b4	99	16	99	Salix	Salix	TRSH
+Panajiotidis_b4	190	5	190	Fraxinus	Fraxinus	TRSH
+Panajiotidis_b4	1728	27	203	Juniperus	Juniperus-type	TRSH
+Panajiotidis_b4	7	6	7	Artemisia	Artemisia	HERB
+Panajiotidis_b4	22	21	22	Cerealia	Cerealia-type	HERB
+Panajiotidis_b4	33	5	33	Cyperaceae	Cyperaceae	HERB
+Panajiotidis_b4	55	37	55	Ilex aquifolium	Ilex	TRSH
+Panajiotidis_b4	80	672	80	Poaceae	Poaceae	HERB
+Panajiotidis_b4	707	21	24	Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB
+Panajiotidis_b4	630	16	87	Ranunculus acris-type	Ranunculus acris-type	HERB
+Panajiotidis_b4	1055	5	101	Sanguisorba minor-type	Sanguisorba minor-type	HERB
+Panajiotidis_b4	1771	1920	60	Platango lanceolata-type	Plantago lanceolata-type	HERB
+Panajiotidis_b4	93	5	93	Rubiaceae	Rubiaceae	HERB
+Panajiotidis_b4	18	566	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Panajiotidis_b4	41	16	41	Fabaceae	Fabaceae	HERB
+Panajiotidis_b4	165	5	165	Geraniaceae	Geraniaceae	HERB
+Panajiotidis_b4	1746	80	25	Asteraceae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Panajiotidis_b4	92	38	92	Rosaceae	Rosaceae	TRSH
+Panajiotidis_b4	1791	64	559	Lycopodium	Lycopodium (counted)	NOPO
+Panajiotidis_b4	1792	19.6	1756	volume of sample	Quantity of sample	NOPO
+Panajiotidis_b4	1793	5	1295	quantity of Lycopodium added	Lycopodium tablets (number)	NOPO
+Panajiotidis_b4	1794	12542	1293	concentration of Lycopodium	Lycopodium (spores/tablet)	NOPO
+Panajiotidis_b4	1040	16	146	Pteridophyta	Monolete fern spores	VACR
+Panajiotidis_b4	1052	37	85	Quercus ilex-type	Quercus ilex-type	TRSH
+Panajiotidis_b4	1759	107	86	Quercus pubescens-type	Quercus robur-type	TRSH
+Panajiotidis_b4	1765	5	483	Campanula-type	Phyteuma-type	HERB

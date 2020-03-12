@@ -1,36 +1,36 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Matthias_b42	Abies	Abies	TRSH	5	0.47984645
-Matthias_b42	Acer	Acer campestre-type	TRSH	1	0.09596929
-Matthias_b42	Alnus	Alnus	TRSH	163	15.642994
-Matthias_b42	Betula	Betula	TRSH	140	13.435701
-Matthias_b42	Calluna	Calluna vulgaris	TRSH	2	0.19193858
-Matthias_b42	Carpinus	Carpinus betulus	TRSH	12	1.1516315
-Matthias_b42	Corylus	Corylus	TRSH	7	0.67178503
-Matthias_b42	Fagus	Fagus	TRSH	70	6.7178503
-Matthias_b42	Ilex	Ilex	TRSH	1	0.09596929
-Matthias_b42	Larix/Pseudotsuga	Larix/Pseudotsuga	TRSH	9	0.86372361
-Matthias_b42	Picea	Picea	TRSH	13	1.2476008
-Matthias_b42	Pinus	Pinus	TRSH	347	33.301344
-Matthias_b42	Populus	Populus	TRSH	6	0.57581574
-Matthias_b42	Quercus	Quercus	TRSH	101	9.6928983
-Matthias_b42	Sorbus-group	Rosaceae (non-operculate)	TRSH	1	0.09596929
-Matthias_b42	Salix	Salix	TRSH	6	0.57581574
-Matthias_b42	Tilia cordata	Tilia cordata-type	TRSH	1	0.09596929
-Matthias_b42	Ulmus	Ulmus/Zelkova	TRSH	1	0.09596929
-Matthias_b42	Viscum	Viscum	TRSH	1	0.09596929
-Matthias_b42	Artemisia	Artemisia	HERB	8	0.76775432
-Matthias_b42	Avena-type	Avena-type	HERB	8	0.76775432
-Matthias_b42	Brassicaceae	Brassicaceae	HERB	9	0.86372361
-Matthias_b42	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	9	0.86372361
-Matthias_b42	Cyperaceae	Cyperaceae	HERB	10	0.9596929
-Matthias_b42	Hordeum-type	Hordeum-type	HERB	5	0.47984645
-Matthias_b42	Matricaria-type	Matricaria-type	HERB	3	0.28790787
-Matthias_b42	Plantago lanceolata	Plantago lanceolata-type	HERB	1	0.09596929
-Matthias_b42	Poaceae	Poaceae	HERB	51	4.8944338
-Matthias_b42	Ranunculus acris-type	Ranunculus acris-type	HERB	3	0.28790787
-Matthias_b42	Rumex acetosa-type	Rumex acetosa-type	HERB	1	0.09596929
-Matthias_b42	Rumex acetosella-type	Rumex acetosa-type	HERB	12	1.1516315
-Matthias_b42	Secale	Secale cereale	HERB	10	0.9596929
-Matthias_b42	Triticum-type	Triticum-type	HERB	12	1.1516315
-Matthias_b42	Urtica	Urtica	HERB	1	0.09596929
-Matthias_b42	Zea mays	Zea mays	HERB	12	1.1516315
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Matthias_b42	75	347	75	Pinus	Pinus	TRSH
+Matthias_b42	189	101	189	Quercus	Quercus	TRSH
+Matthias_b42	5	163	5	Alnus	Alnus	TRSH
+Matthias_b42	12	140	12	Betula	Betula	TRSH
+Matthias_b42	16	12	16	Carpinus	Carpinus betulus	TRSH
+Matthias_b42	201	7	31	Corylus	Corylus	TRSH
+Matthias_b42	1406	1	153	Tilia cordata	Tilia cordata-type	TRSH
+Matthias_b42	99	6	99	Salix	Salix	TRSH
+Matthias_b42	126	13	126	Picea	Picea	TRSH
+Matthias_b42	2	1	2	Acer	Acer campestre-type	TRSH
+Matthias_b42	81	6	81	Populus	Populus	TRSH
+Matthias_b42	560	5	321	Abies	Abies	TRSH
+Matthias_b42	3006	1	490	Sorbus-group	Rosaceae (non-operculate)	TRSH
+Matthias_b42	2336	9	123	Larix/Pseudotsuga	Larix/Pseudotsuga	TRSH
+Matthias_b42	33	10	33	Cyperaceae	Cyperaceae	HERB
+Matthias_b42	80	51	80	Poaceae	Poaceae	HERB
+Matthias_b42	209	1	209	Viscum	Viscum	TRSH
+Matthias_b42	435	1	55	Ilex	Ilex	TRSH
+Matthias_b42	801	10	256	Secale	Secale cereale	HERB
+Matthias_b42	949	5	258	Hordeum-type	Hordeum-type	HERB
+Matthias_b42	652	1	652	Urtica	Urtica	HERB
+Matthias_b42	1233	12	1199	Triticum-type	Triticum-type	HERB
+Matthias_b42	13	9	13	Brassicaceae	Brassicaceae	HERB
+Matthias_b42	60	1	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+Matthias_b42	7	8	7	Artemisia	Artemisia	HERB
+Matthias_b42	634	1	95	Rumex acetosa-type	Rumex acetosa-type	HERB
+Matthias_b42	24	9	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Matthias_b42	1072	3	3	Matricaria-type	Matricaria-type	HERB
+Matthias_b42	581	2	457	Calluna	Calluna vulgaris	TRSH
+Matthias_b42	630	3	87	Ranunculus acris-type	Ranunculus acris-type	HERB
+Matthias_b42	154	1	154	Ulmus	Ulmus/Zelkova	TRSH
+Matthias_b42	192	70	42	Fagus	Fagus	TRSH
+Matthias_b42	812	12	423	Zea mays	Zea mays	HERB
+Matthias_b42	1215	8	1111	Avena-type	Avena-type	HERB
+Matthias_b42	2582	12	95	Rumex acetosella-type	Rumex acetosa-type	HERB

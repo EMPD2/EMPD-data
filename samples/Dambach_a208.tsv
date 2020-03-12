@@ -1,35 +1,35 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Dambach_a208	Abies	Abies	TRSH	2	0.26246719
-Dambach_a208	Alnus	Alnus	TRSH	31	4.0682415
-Dambach_a208	Betula	Betula	TRSH	52	6.824147
-Dambach_a208	Carpinus	Carpinus betulus	TRSH	4	0.52493438
-Dambach_a208	Corylus	Corylus	TRSH	8	1.0498688
-Dambach_a208	Fagus	Fagus	TRSH	8	1.0498688
-Dambach_a208	Fraxinus	Fraxinus	TRSH	7	0.91863517
-Dambach_a208	Picea	Picea	TRSH	112	14.698163
-Dambach_a208	Pinus	Pinus	TRSH	449	58.923885
-Dambach_a208	Populus	Populus	TRSH	1	0.1312336
-Dambach_a208	Quercus	Quercus	TRSH	7	0.91863517
-Dambach_a208	Salix	Salix	TRSH	1	0.1312336
-Dambach_a208	Vaccinium-type	Vaccinium-type	DWAR	1	0.1312336
-Dambach_a208	Umbelliferae	Apiaceae	HERB	4	0.52493438
-Dambach_a208	Asteroideae	Asteraceae subf. Asteroideae	HERB	5	0.65616798
-Dambach_a208	Brassicaceae	Brassicaceae	HERB	3	0.39370079
-Dambach_a208	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	2	0.26246719
-Dambach_a208	Cerealia-type	Cerealia-type	HERB	29	3.8057743
-Dambach_a208	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.1312336
-Dambach_a208	Plantago lanceolata	Plantago lanceolata-type	HERB	6	0.78740157
-Dambach_a208	Plantago major/P. media	Plantago major/P. media-type	HERB	2	0.26246719
-Dambach_a208	Gramineae	Poaceae	HERB	3	0.39370079
-Dambach_a208	Ranunculaceae	Ranunculaceae	HERB	2	0.26246719
-Dambach_a208	Ranunculus-type	Ranunculus-type	HERB	5	0.65616798
-Dambach_a208	Rubiaceae	Rubiaceae	HERB	3	0.39370079
-Dambach_a208	Rumex acetosa-type	Rumex acetosa-type	HERB	8	1.0498688
-Dambach_a208	Eurumex	Rumex crispus-type	HERB	1	0.1312336
-Dambach_a208	Scrophularia/Verbascum	Scrophularia-type	HERB	1	0.1312336
-Dambach_a208	Urtica	Urtica	HERB	1	0.1312336
-Dambach_a208	Polypodiaceae	Monolete fern spores	VACR	3	0.39370079
-Dambach_a208	Cyperaceae	Cyperaceae	AQUA	2	0.26246719
-Dambach_a208	Fabaceae	Fabaceae	INUN	1	
-Dambach_a208	Indeterminable: unknown	Indeterminable: unknown	INUN	5	
-Dambach_a208	Varia	Indeterminable: unknown	INUN	1	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Dambach_a208	560	2	321	Abies	Abies	TRSH
+Dambach_a208	5	31	5	Alnus	Alnus	TRSH
+Dambach_a208	16	4	16	Carpinus	Carpinus betulus	TRSH
+Dambach_a208	24	1	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Dambach_a208	201	8	31	Corylus	Corylus	TRSH
+Dambach_a208	3868	2	3868	Cyperaceae	Cyperaceae	AQUA
+Dambach_a208	3955	1	251	Eurumex	Rumex crispus-type	HERB
+Dambach_a208	3958	1	3958	Fabaceae	Fabaceae	INUN
+Dambach_a208	192	8	42	Fagus	Fagus	TRSH
+Dambach_a208	190	7	190	Fraxinus	Fraxinus	TRSH
+Dambach_a208	1601	3	80	Gramineae	Poaceae	HERB
+Dambach_a208	4078	5	177	Indeterminable: unknown	Indeterminable: unknown	INUN
+Dambach_a208	126	112	126	Picea	Picea	TRSH
+Dambach_a208	75	449	75	Pinus	Pinus	TRSH
+Dambach_a208	60	6	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+Dambach_a208	4323	2	458	Plantago major/P. media	Plantago major/P. media-type	HERB
+Dambach_a208	146	3	146	Polypodiaceae	Monolete fern spores	VACR
+Dambach_a208	81	1	81	Populus	Populus	TRSH
+Dambach_a208	135	2	135	Ranunculaceae	Ranunculaceae	HERB
+Dambach_a208	2429	5	274	Ranunculus-type	Ranunculus-type	HERB
+Dambach_a208	93	3	93	Rubiaceae	Rubiaceae	HERB
+Dambach_a208	634	8	95	Rumex acetosa-type	Rumex acetosa-type	HERB
+Dambach_a208	99	1	99	Salix	Salix	TRSH
+Dambach_a208	590	4	6	Umbelliferae	Apiaceae	HERB
+Dambach_a208	4730	1	4730	Vaccinium-type	Vaccinium-type	DWAR
+Dambach_a208	1098	1	177	Varia	Indeterminable: unknown	INUN
+Dambach_a208	12	52	12	Betula	Betula	TRSH
+Dambach_a208	13	3	13	Brassicaceae	Brassicaceae	HERB
+Dambach_a208	18	2	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Dambach_a208	189	7	189	Quercus	Quercus	TRSH
+Dambach_a208	652	1	652	Urtica	Urtica	HERB
+Dambach_a208	761	5	160	Asteroideae	Asteraceae subf. Asteroideae	HERB
+Dambach_a208	1065	29	22	Cerealia-type	Cerealia-type	HERB
+Dambach_a208	4579	1	103	Scrophularia/Verbascum	Scrophularia-type	HERB

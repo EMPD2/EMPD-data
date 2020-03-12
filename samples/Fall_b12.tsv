@@ -1,28 +1,28 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Fall_b12	Capparis	Capparis	TRSH	1	0.23419204
-Fall_b12	Eucalyptus	Eucalyptus	TRSH	26	6.088993
-Fall_b12	Cupressus type	Juniperus-type	TRSH	15	3.5128806
-Fall_b12	Juniperus type	Juniperus-type	TRSH	176	41.217799
-Fall_b12	Myrtus	Myrtaceae	TRSH	6	1.4051522
-Fall_b12	Olea	Olea europaea	TRSH	84	19.672131
-Fall_b12	Pinus sp	Pinus	TRSH	22	5.1522248
-Fall_b12	Pistacia	Pistacia	TRSH	3	0.70257611
-Fall_b12	Quercus	Quercus	TRSH	1	0.23419204
-Fall_b12	Rhamnaceae	Rhamnaceae	TRSH	1	0.23419204
-Fall_b12	Salix	Salix	TRSH	1	0.23419204
-Fall_b12	Tamarix	Tamarix	TRSH	1	0.23419204
-Fall_b12	Ambrosia	Ambrosia	HERB	6	1.4051522
-Fall_b12	Artemisia	Artemisia	HERB	1	0.23419204
-Fall_b12	Asteraceae Liguliflorae	Asteraceae subf. Cichorioideae	HERB	10	2.3419204
-Fall_b12	Brassica	Brassicaceae	HERB	7	1.6393443
-Fall_b12	Asteraceae Centaurea cyanus	Centaurea cyanus-type	HERB	1	0.23419204
-Fall_b12	Poaceae Cerealia	Cerealia-type	HERB	3	0.70257611
-Fall_b12	Chenopodiaceae Sueda/Atriplex type	Chenopodiaceae/Amaranthaceae	HERB	32	7.4941452
-Fall_b12	Chenopodiaceae, Salsola type	Chenopodiaceae/Amaranthaceae	HERB	2	0.46838407
-Fall_b12	Chenopodiaceae, Noaea type	Chenopodiaceae/Amaranthaceae	HERB	1	0.23419204
-Fall_b12	Asteraceae Circium type	Cirsium	HERB	9	2.1077283
-Fall_b12	Euphorbia	Euphorbia	HERB	2	0.46838407
-Fall_b12	Asteraceae Helianthus type	Helianthus	HERB	2	0.46838407
-Fall_b12	Apiaceae, Ferula	Peucedanum-type	HERB	3	0.70257611
-Fall_b12	Plantago lanceolata type	Plantago lanceolata-type	HERB	1	0.23419204
-Fall_b12	Poaceae	Poaceae	HERB	10	2.3419204
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Fall_b12	203	176	203	Juniperus type	Juniperus-type	TRSH
+Fall_b12	1612	15	203	Cupressus type	Juniperus-type	TRSH
+Fall_b12	39	26	39	Eucalyptus	Eucalyptus	TRSH
+Fall_b12	442	84	68	Olea	Olea europaea	TRSH
+Fall_b12	77	3	77	Pistacia	Pistacia	TRSH
+Fall_b12	1615	22	75	Pinus sp	Pinus	TRSH
+Fall_b12	90	1	90	Rhamnaceae	Rhamnaceae	TRSH
+Fall_b12	99	1	99	Salix	Salix	TRSH
+Fall_b12	7	1	7	Artemisia	Artemisia	HERB
+Fall_b12	586	6	586	Ambrosia	Ambrosia	HERB
+Fall_b12	1625	3	73	Apiaceae, Ferula	Peucedanum-type	HERB
+Fall_b12	1337	10	25	Asteraceae Liguliflorae	Asteraceae subf. Cichorioideae	HERB
+Fall_b12	1642	2	1642	Asteraceae Helianthus type	Helianthus	HERB
+Fall_b12	1649	7	13	Brassica	Brassicaceae	HERB
+Fall_b12	1650	1	1650	Capparis	Capparis	TRSH
+Fall_b12	1654	32	24	Chenopodiaceae Sueda/Atriplex type	Chenopodiaceae/Amaranthaceae	HERB
+Fall_b12	1655	2	24	Chenopodiaceae, Salsola type	Chenopodiaceae/Amaranthaceae	HERB
+Fall_b12	40	2	40	Euphorbia	Euphorbia	HERB
+Fall_b12	80	10	80	Poaceae	Poaceae	HERB
+Fall_b12	221	1	60	Plantago lanceolata type	Plantago lanceolata-type	HERB
+Fall_b12	1672	3	22	Poaceae Cerealia	Cerealia-type	HERB
+Fall_b12	189	1	189	Quercus	Quercus	TRSH
+Fall_b12	500	1	414	Tamarix	Tamarix	TRSH
+Fall_b12	1613	6	377	Myrtus	Myrtaceae	TRSH
+Fall_b12	1638	1	462	Asteraceae Centaurea cyanus	Centaurea cyanus-type	HERB
+Fall_b12	1640	9	603	Asteraceae Circium type	Cirsium	HERB
+Fall_b12	1656	1	24	Chenopodiaceae, Noaea type	Chenopodiaceae/Amaranthaceae	HERB

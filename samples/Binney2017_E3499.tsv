@@ -1,15 +1,15 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Binney2017_E3499	Alnus	Alnus	TRSH	3	0.99009901
-Binney2017_E3499	Alnus fruticosa	Alnus viridis	TRSH	65	21.452145
-Binney2017_E3499	Betula nana-type	Betula nana-type	TRSH	88	29.042904
-Binney2017_E3499	Betula sect. Albae	Betula pubescens-type	TRSH	25	8.2508251
-Binney2017_E3499	Larix dahurica	Larix dahurica	TRSH	18	5.9405941
-Binney2017_E3499	Pinus subg. Strobus	Pinus cembra-type	TRSH	47	15.511551
-Binney2017_E3499	Salix	Salix	TRSH	1	0.330033
-Binney2017_E3499	Artemisia	Artemisia	HERB	2	0.66006601
-Binney2017_E3499	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.330033
-Binney2017_E3499	Cyperaceae	Cyperaceae	HERB	1	0.330033
-Binney2017_E3499	Chamerion angustifolium subsp. Angustifolium	Epilobium angustifolium-type	HERB	2	0.66006601
-Binney2017_E3499	Poaceae	Poaceae	HERB	48	15.841584
-Binney2017_E3499	Lycopodium pungens	Lycopodium annotinum-type	VACR	1	0.330033
-Binney2017_E3499	Lycopodium alpinum	Lycopodium clavatum-type	VACR	1	0.330033
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Binney2017_E3499	5	3	5	Alnus	Alnus	TRSH
+Binney2017_E3499	7	2	7	Artemisia	Artemisia	HERB
+Binney2017_E3499	33	1	33	Cyperaceae	Cyperaceae	HERB
+Binney2017_E3499	80	48	80	Poaceae	Poaceae	HERB
+Binney2017_E3499	99	1	99	Salix	Salix	TRSH
+Binney2017_E3499	128	25	128	Betula sect. Albae	Betula pubescens-type	TRSH
+Binney2017_E3499	769	1	24	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB
+Binney2017_E3499	2265	1	182	Lycopodium alpinum	Lycopodium clavatum-type	VACR
+Binney2017_E3499	2962	65	129	Alnus fruticosa	Alnus viridis	TRSH
+Binney2017_E3499	3614	88	3613	Betula nana-type	Betula nana-type	TRSH
+Binney2017_E3499	4940	47	124	Pinus subg. Strobus	Pinus cembra-type	TRSH
+Binney2017_E3499	5170	1	183	Lycopodium pungens	Lycopodium annotinum-type	VACR
+Binney2017_E3499	5215	18	5215	Larix dahurica	Larix dahurica	TRSH
+Binney2017_E3499	5216	2	2681	Chamerion angustifolium subsp. Angustifolium	Epilobium angustifolium-type	HERB

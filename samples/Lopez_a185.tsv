@@ -1,34 +1,34 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Lopez_a185	Alnus	Alnus	TRSH	2	0.33898305
-Lopez_a185	Pinus pinaster	Pinus pinaster	TRSH	78	13.220339
-Lopez_a185	Quercus evergreen	Quercus ilex-type	TRSH	1	0.16949153
-Lopez_a185	Quercus deciduous	Quercus robur-type	TRSH	66	11.186441
-Lopez_a185	Prunus/Rubus-type	Rosaceae (non-operculate)	TRSH	2	0.33898305
-Lopez_a185	Apiaceae	Apiaceae	HERB	15	2.5423729
-Lopez_a185	Aster-type	Aster-type	HERB	19	3.220339
-Lopez_a185	Cardueae	Asteraceae subf. Carduoideae	HERB	9	1.5254237
-Lopez_a185	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	33	5.5932203
-Lopez_a185	Boraginaceae	Boraginaceae	HERB	1	0.16949153
-Lopez_a185	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	9	1.5254237
-Lopez_a185	Crassulaceae	Crassulaceae	HERB	1	0.16949153
-Lopez_a185	Erodium	Erodium	HERB	15	2.5423729
-Lopez_a185	Cytisus/Genista-type	Genista-type	HERB	35	5.9322034
-Lopez_a185	Geranium	Geranium	HERB	2	0.33898305
-Lopez_a185	Lavandula stoechas-type	Lavandula	HERB	2	0.33898305
-Lopez_a185	Amaryllidaceae	Liliaceae-type	HERB	27	4.5762712
-Lopez_a185	Liliaceae undiff,	Liliaceae-type	HERB	8	1.3559322
-Lopez_a185	Anthemis-type	Matricaria-type	HERB	3	0.50847458
-Lopez_a185	Plantago coronopus-type	Plantago coronopus-type	HERB	2	0.33898305
-Lopez_a185	Plantago lanceolata-type	Plantago lanceolata-type	HERB	36	6.1016949
-Lopez_a185	Plantago media/major-type	Plantago major/P. media-type	HERB	5	0.84745763
-Lopez_a185	Poaceae undiff.	Poaceae	HERB	177	30
-Lopez_a185	Polygonum aviculare-type	Polygonum aviculare-type	HERB	4	0.6779661
-Lopez_a185	Ranunculaceae	Ranunculaceae	HERB	31	5.2542373
-Lopez_a185	Rumex acetosella-type	Rumex acetosella	HERB	2	0.33898305
-Lopez_a185	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	2	0.33898305
-Lopez_a185	Urtica dioica-type	Urtica dioica-type	HERB	2	0.33898305
-Lopez_a185	Violaceae	Viola	HERB	1	0.16949153
-Lopez_a185	Cyperaceae	Cyperaceae	AQUA	111	18.813559
-Lopez_a185	Cercophora	Cercophora-type	FUNG	11	
-Lopez_a185	Sordaria	Sordaria-type	NOPO	1	
-Lopez_a185	Sporormiella	Sporormiella-type	FUNG	25	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Lopez_a185	5	2	5	Alnus	Alnus	TRSH
+Lopez_a185	517	27	62	Amaryllidaceae	Liliaceae-type	HERB
+Lopez_a185	589	3	3	Anthemis-type	Matricaria-type	HERB
+Lopez_a185	597	19	11	Aster-type	Aster-type	HERB
+Lopez_a185	162	1	162	Boraginaceae	Boraginaceae	HERB
+Lopez_a185	445	9	336	Cardueae	Asteraceae subf. Carduoideae	HERB
+Lopez_a185	18	9	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Lopez_a185	2406	11	556	Cercophora	Cercophora-type	FUNG
+Lopez_a185	519	1	519	Crassulaceae	Crassulaceae	HERB
+Lopez_a185	3868	111	3868	Cyperaceae	Cyperaceae	AQUA
+Lopez_a185	3878	35	3878	Cytisus/Genista-type	Genista-type	HERB
+Lopez_a185	522	15	522	Erodium	Erodium	HERB
+Lopez_a185	498	2	498	Geranium	Geranium	HERB
+Lopez_a185	4115	2	4115	Lavandula stoechas-type	Lavandula	HERB
+Lopez_a185	4131	8	62	Liliaceae undiff,	Liliaceae-type	HERB
+Lopez_a185	439	78	439	Pinus pinaster	Pinus pinaster	TRSH
+Lopez_a185	2801	2	30	Plantago coronopus-type	Plantago coronopus-type	HERB
+Lopez_a185	1075	36	60	Plantago lanceolata-type	Plantago lanceolata-type	HERB
+Lopez_a185	4327	5	458	Plantago media/major-type	Plantago major/P. media-type	HERB
+Lopez_a185	429	177	80	Poaceae undiff.	Poaceae	HERB
+Lopez_a185	1078	4	262	Polygonum aviculare-type	Polygonum aviculare-type	HERB
+Lopez_a185	4403	2	490	Prunus/Rubus-type	Rosaceae (non-operculate)	TRSH
+Lopez_a185	427	1	85	Quercus evergreen	Quercus ilex-type	TRSH
+Lopez_a185	135	31	135	Ranunculaceae	Ranunculaceae	HERB
+Lopez_a185	1398	2	96	Rumex acetosella-type	Rumex acetosella	HERB
+Lopez_a185	4604	1	4604	Sordaria	Sordaria-type	NOPO
+Lopez_a185	677	25	557	Sporormiella	Sporormiella-type	FUNG
+Lopez_a185	6	15	6	Apiaceae	Apiaceae	HERB
+Lopez_a185	173	2	173	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB
+Lopez_a185	430	1	430	Violaceae	Viola	HERB
+Lopez_a185	437	66	86	Quercus deciduous	Quercus robur-type	TRSH
+Lopez_a185	447	33	25	Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Lopez_a185	4718	2	453	Urtica dioica-type	Urtica dioica-type	HERB

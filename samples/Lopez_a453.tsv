@@ -1,36 +1,36 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Lopez_a453	Alnus	Alnus	TRSH	3	0.54545455
-Lopez_a453	Daphne gnidium-type	Daphne	DWAR	1	0.18181818
-Lopez_a453	Fraxinus	Fraxinus	TRSH	2	0.36363636
-Lopez_a453	Juniperus-type	Juniperus-type	TRSH	2	0.36363636
-Lopez_a453	Olea	Olea europaea	TRSH	2	0.36363636
-Lopez_a453	Pinus pinea/halepensis-type	Pinus halepensis-type	TRSH	5	0.90909091
-Lopez_a453	Pinus pinaster	Pinus pinaster	TRSH	77	14
-Lopez_a453	Pinus sylvestris/nigra-type	Pinus sylvestris-type	TRSH	1	0.18181818
-Lopez_a453	Quercus suber	Quercus cerris-type	TRSH	61	11.090909
-Lopez_a453	Quercus evergreen	Quercus ilex-type	TRSH	57	10.363636
-Lopez_a453	Quercus deciduous	Quercus robur-type	TRSH	3	0.54545455
-Lopez_a453	Salix	Salix	TRSH	2	0.36363636
-Lopez_a453	Asphodelus albus-type	Asphodelus albus-type	HERB	2	0.36363636
-Lopez_a453	Aster-type	Aster-type	HERB	2	0.36363636
-Lopez_a453	Cardueae	Asteraceae subf. Carduoideae	HERB	6	1.0909091
-Lopez_a453	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	2	0.36363636
-Lopez_a453	Boraginaceae	Boraginaceae	HERB	2	0.36363636
-Lopez_a453	Cruciferae	Brassicaceae	HERB	1	0.18181818
-Lopez_a453	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	3	0.54545455
-Lopez_a453	Labiatae	Lamiaceae	HERB	2	0.36363636
-Lopez_a453	Lavandula stoechas-type	Lavandula	HERB	2	0.36363636
-Lopez_a453	Plantago coronopus-type	Plantago coronopus-type	HERB	3	0.54545455
-Lopez_a453	Plantago lanceolata-type	Plantago lanceolata-type	HERB	19	3.4545455
-Lopez_a453	Plantago media/major-type	Plantago major/P. media-type	HERB	8	1.4545455
-Lopez_a453	Poaceae undiff.	Poaceae	HERB	254	46.181818
-Lopez_a453	Polygonum aviculare-type	Polygonum aviculare-type	HERB	3	0.54545455
-Lopez_a453	Rubiaceae	Rubiaceae	HERB	2	0.36363636
-Lopez_a453	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	1	0.18181818
-Lopez_a453	Urtica dioica-type	Urtica dioica-type	HERB	22	4
-Lopez_a453	Cyperaceae	Cyperaceae	AQUA	2	0.36363636
-Lopez_a453	Cercophora	Cercophora-type	FUNG	15	
-Lopez_a453	Glomus cf. G. fasciculatum	Glomus cf. fasciculatum	FUNG	11	
-Lopez_a453	Podospora	Podospora-type	FUNG	5	
-Lopez_a453	Sordaria	Sordaria-type	NOPO	39	
-Lopez_a453	Sporormiella	Sporormiella-type	FUNG	46	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Lopez_a453	5	3	5	Alnus	Alnus	TRSH
+Lopez_a453	3580	2	487	Asphodelus albus-type	Asphodelus albus-type	HERB
+Lopez_a453	597	2	11	Aster-type	Aster-type	HERB
+Lopez_a453	2406	15	556	Cercophora	Cercophora-type	FUNG
+Lopez_a453	769	3	24	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB
+Lopez_a453	482	1	13	Cruciferae	Brassicaceae	HERB
+Lopez_a453	3881	1	3879	Daphne gnidium-type	Daphne	DWAR
+Lopez_a453	190	2	190	Fraxinus	Fraxinus	TRSH
+Lopez_a453	4008	11	305	Glomus cf. G. fasciculatum	Glomus cf. fasciculatum	FUNG
+Lopez_a453	738	2	203	Juniperus-type	Juniperus-type	TRSH
+Lopez_a453	485	2	59	Labiatae	Lamiaceae	HERB
+Lopez_a453	4115	2	4115	Lavandula stoechas-type	Lavandula	HERB
+Lopez_a453	442	2	68	Olea	Olea europaea	TRSH
+Lopez_a453	439	77	439	Pinus pinaster	Pinus pinaster	TRSH
+Lopez_a453	4304	5	440	Pinus pinea/halepensis-type	Pinus halepensis-type	TRSH
+Lopez_a453	4308	1	125	Pinus sylvestris/nigra-type	Pinus sylvestris-type	TRSH
+Lopez_a453	2801	3	30	Plantago coronopus-type	Plantago coronopus-type	HERB
+Lopez_a453	1075	19	60	Plantago lanceolata-type	Plantago lanceolata-type	HERB
+Lopez_a453	4327	8	458	Plantago media/major-type	Plantago major/P. media-type	HERB
+Lopez_a453	429	254	80	Poaceae undiff.	Poaceae	HERB
+Lopez_a453	671	5	558	Podospora	Podospora-type	FUNG
+Lopez_a453	1078	3	262	Polygonum aviculare-type	Polygonum aviculare-type	HERB
+Lopez_a453	427	57	85	Quercus evergreen	Quercus ilex-type	TRSH
+Lopez_a453	438	61	84	Quercus suber	Quercus cerris-type	TRSH
+Lopez_a453	93	2	93	Rubiaceae	Rubiaceae	HERB
+Lopez_a453	99	2	99	Salix	Salix	TRSH
+Lopez_a453	4604	39	4604	Sordaria	Sordaria-type	NOPO
+Lopez_a453	677	46	557	Sporormiella	Sporormiella-type	FUNG
+Lopez_a453	4718	22	453	Urtica dioica-type	Urtica dioica-type	HERB
+Lopez_a453	162	2	162	Boraginaceae	Boraginaceae	HERB
+Lopez_a453	173	1	173	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB
+Lopez_a453	437	3	86	Quercus deciduous	Quercus robur-type	TRSH
+Lopez_a453	445	6	336	Cardueae	Asteraceae subf. Carduoideae	HERB
+Lopez_a453	447	2	25	Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Lopez_a453	3868	2	3868	Cyperaceae	Cyperaceae	AQUA

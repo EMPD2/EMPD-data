@@ -1,34 +1,34 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Tonkov_t3	Abies	Abies	TRSH	130	24.074074
-Tonkov_t3	Alnus	Alnus	TRSH	1	0.18518519
-Tonkov_t3	Betula	Betula	TRSH	6	1.1111111
-Tonkov_t3	Carpinus betulus	Carpinus betulus	TRSH	8	1.4814815
-Tonkov_t3	Corylus	Corylus	TRSH	10	1.8518519
-Tonkov_t3	Fagus	Fagus	TRSH	10	1.8518519
-Tonkov_t3	Juniperus	Juniperus communis-type	TRSH	2	0.37037037
-Tonkov_t3	Picea	Picea	TRSH	110	20.37037
-Tonkov_t3	Pinus peuce	Pinus cembra-type	TRSH	43	7.962963
-Tonkov_t3	Pinus diploxylon-type	Pinus sylvestris-type	TRSH	124	22.962963
-Tonkov_t3	Quercus cerris-type	Quercus cerris-type	TRSH	3	0.55555556
-Tonkov_t3	Quercus robur-type	Quercus robur-type	TRSH	5	0.92592593
-Tonkov_t3	Artemisia	Artemisia	HERB	6	1.1111111
-Tonkov_t3	Cichoriaceae	Asteraceae subf. Cichorioideae	HERB	7	1.2962963
-Tonkov_t3	Brassicaceae	Brassicaceae	HERB	5	0.92592593
-Tonkov_t3	Centaurea jacea-type	Centaurea nigra-type	HERB	2	0.37037037
-Tonkov_t3	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	8	1.4814815
-Tonkov_t3	Dianthus-type	Dianthus/Petrorhagia	HERB	1	0.18518519
-Tonkov_t3	Filipendula	Filipendula	HERB	4	0.74074074
-Tonkov_t3	Stachys-type	Galeopsis-type	HERB	1	0.18518519
-Tonkov_t3	Geum-type	Geum-type	HERB	2	0.37037037
-Tonkov_t3	Achillea-type	Matricaria-type	HERB	4	0.74074074
-Tonkov_t3	Plantago lanceolata	Plantago lanceolata-type	HERB	1	0.18518519
-Tonkov_t3	Plantago major/media-type	Plantago major/P. media-type	HERB	2	0.37037037
-Tonkov_t3	Poaceae	Poaceae	HERB	14	2.5925926
-Tonkov_t3	Ranunculus-type	Ranunculus-type	HERB	4	0.74074074
-Tonkov_t3	Galium-type	Rubiaceae	HERB	2	0.37037037
-Tonkov_t3	Rumex	Rumex/Oxyria	HERB	4	0.74074074
-Tonkov_t3	Thalictrum	Thalictrum	HERB	2	0.37037037
-Tonkov_t3	Viola	Viola	HERB	1	0.18518519
-Tonkov_t3	Dryopteris-type	Dryopteris-type	VACR	9	1.6666667
-Tonkov_t3	Polypodiaceae	Monolete fern spores	VACR	8	1.4814815
-Tonkov_t3	Polypodium vulgare	Polypodium	VACR	1	0.18518519
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Tonkov_t3	5	1	5	Alnus	Alnus	TRSH
+Tonkov_t3	7	6	7	Artemisia	Artemisia	HERB
+Tonkov_t3	12	6	12	Betula	Betula	TRSH
+Tonkov_t3	13	5	13	Brassicaceae	Brassicaceae	HERB
+Tonkov_t3	24	8	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Tonkov_t3	45	4	45	Filipendula	Filipendula	HERB
+Tonkov_t3	58	2	58	Juniperus	Juniperus communis-type	TRSH
+Tonkov_t3	60	1	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+Tonkov_t3	80	14	80	Poaceae	Poaceae	HERB
+Tonkov_t3	112	2	112	Thalictrum	Thalictrum	HERB
+Tonkov_t3	126	110	126	Picea	Picea	TRSH
+Tonkov_t3	146	8	146	Polypodiaceae	Monolete fern spores	VACR
+Tonkov_t3	152	5	86	Quercus robur-type	Quercus robur-type	TRSH
+Tonkov_t3	192	10	42	Fagus	Fagus	TRSH
+Tonkov_t3	201	10	31	Corylus	Corylus	TRSH
+Tonkov_t3	560	130	321	Abies	Abies	TRSH
+Tonkov_t3	563	8	16	Carpinus betulus	Carpinus betulus	TRSH
+Tonkov_t3	667	1	214	Polypodium vulgare	Polypodium	VACR
+Tonkov_t3	727	4	94	Rumex	Rumex/Oxyria	HERB
+Tonkov_t3	748	1	430	Viola	Viola	HERB
+Tonkov_t3	943	4	3	Achillea-type	Matricaria-type	HERB
+Tonkov_t3	1049	124	125	Pinus diploxylon-type	Pinus sylvestris-type	TRSH
+Tonkov_t3	1051	3	84	Quercus cerris-type	Quercus cerris-type	TRSH
+Tonkov_t3	1062	2	29	Centaurea jacea-type	Centaurea nigra-type	HERB
+Tonkov_t3	1126	7	25	Cichoriaceae	Asteraceae subf. Cichorioideae	HERB
+Tonkov_t3	1219	2	649	Geum-type	Geum-type	HERB
+Tonkov_t3	1246	1	1246	Dianthus-type	Dianthus/Petrorhagia	HERB
+Tonkov_t3	1247	9	772	Dryopteris-type	Dryopteris-type	VACR
+Tonkov_t3	1405	1	244	Stachys-type	Galeopsis-type	HERB
+Tonkov_t3	2420	43	124	Pinus peuce	Pinus cembra-type	TRSH
+Tonkov_t3	2427	2	458	Plantago major/media-type	Plantago major/P. media-type	HERB
+Tonkov_t3	2429	4	274	Ranunculus-type	Ranunculus-type	HERB
+Tonkov_t3	605	2	93	Galium-type	Rubiaceae	HERB

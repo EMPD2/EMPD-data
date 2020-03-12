@@ -1,28 +1,28 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Muller_a3	Alnus fruticosa	Alnus viridis	TRSH	9	2.6785714
-Muller_a3	Betula sect. Nanae	Betula nana-type	DWAR	67	19.940476
-Muller_a3	Ericaceae	Ericales (tetrad)	DWAR	12	3.5714286
-Muller_a3	Larix	Larix/Pseudotsuga	TRSH	2	0.5952381
-Muller_a3	Pinaceae	Pinaceae	TRSH	9	2.6785714
-Muller_a3	Pinus diploxylon-type	Pinus sylvestris-type	TRSH	10	2.9761905
-Muller_a3	Rosaceae	Rosaceae	TRSH	4	1.1904762
-Muller_a3	Salix	Salix	TRSH	9	2.6785714
-Muller_a3	Ericaceae vaccinium-type	Vaccinium	DWAR	43	12.797619
-Muller_a3	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	3	0.89285714
-Muller_a3	Cyperaceae	Cyperaceae	HERB	81	24.107143
-Muller_a3	Fabaceae	Fabaceae	HERB	4	1.1904762
-Muller_a3	Poaceae	Poaceae	HERB	49	14.583333
-Muller_a3	Polygonum viviparum-type	Polygonum viviparum	HERB	1	0.29761905
-Muller_a3	Saxifragaceae	Saxifragaceae	HERB	3	0.89285714
-Muller_a3	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	1	0.29761905
-Muller_a3	Caryophyllaceae stellaria holostea-type	Stellaria holostea	HERB	1	0.29761905
-Muller_a3	Botrychium	Botrychium	VACR	23	6.8452381
-Muller_a3	Equisetum	Equisetum	VACR	1	0.29761905
-Muller_a3	Polypodiaceae	Monolete fern spores	VACR	4	1.1904762
-Muller_a3	Pollen indeterminata	Indeterminable: unknown	INUN	3	
-Muller_a3	Pollen, terrestrial	Indeterminable: unknown	INUN	311	
-Muller_a3	Lycopodium spores counted	Lycopodium (counted)	NOPO	1152	
-Muller_a3	Microthyrium	Microthyrium	FUNG	14	
-Muller_a3	Pollen per unit sediment mass	Pollen per unit sediment mass (/g)	NOPO	577	
-Muller_a3	Sphagnum	Sphagnum	NOPO	2	
-Muller_a3	Stomata	Stomata	VEMI	17	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Muller_a3	123	2	123	Larix	Larix/Pseudotsuga	TRSH
+Muller_a3	1049	10	125	Pinus diploxylon-type	Pinus sylvestris-type	TRSH
+Muller_a3	1944	9	1944	Pinaceae	Pinaceae	TRSH
+Muller_a3	99	9	99	Salix	Salix	TRSH
+Muller_a3	127	67	127	Betula sect. Nanae	Betula nana-type	DWAR
+Muller_a3	2962	9	129	Alnus fruticosa	Alnus viridis	TRSH
+Muller_a3	33	81	33	Cyperaceae	Cyperaceae	HERB
+Muller_a3	80	49	80	Poaceae	Poaceae	HERB
+Muller_a3	2900	3	177	Pollen indeterminata	Indeterminable: unknown	INUN
+Muller_a3	18	3	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Muller_a3	41	4	41	Fabaceae	Fabaceae	HERB
+Muller_a3	130	12	130	Ericaceae	Ericales (tetrad)	DWAR
+Muller_a3	145	1	145	Equisetum	Equisetum	VACR
+Muller_a3	173	1	173	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB
+Muller_a3	639	3	639	Saxifragaceae	Saxifragaceae	HERB
+Muller_a3	962	23	962	Botrychium	Botrychium	VACR
+Muller_a3	2990	1	953	Polygonum viviparum-type	Polygonum viviparum	HERB
+Muller_a3	92	4	92	Rosaceae	Rosaceae	TRSH
+Muller_a3	2344	14	2344	Microthyrium	Microthyrium	FUNG
+Muller_a3	2981	17	2771	Stomata	Stomata	VEMI
+Muller_a3	2970	311	177	Pollen, terrestrial	Indeterminable: unknown	INUN
+Muller_a3	144	2	144	Sphagnum	Sphagnum	BRYO
+Muller_a3	146	4	146	Polypodiaceae	Monolete fern spores	VACR
+Muller_a3	3000	1152	559	Lycopodium spores counted	Lycopodium (counted)	NOPO
+Muller_a3	3001	577	3001	Pollen per unit sediment mass	Pollen per unit sediment mass (/g)	NOPO
+Muller_a3	2985	1	835	Caryophyllaceae stellaria holostea-type	Stellaria holostea	HERB
+Muller_a3	2987	43	540	Ericaceae vaccinium-type	Vaccinium	TRSH

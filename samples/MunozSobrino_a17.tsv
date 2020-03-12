@@ -1,39 +1,39 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-MunozSobrino_a17	Alnus	Alnus	TRSH	56	32.55814
-MunozSobrino_a17	Castanea-type	Castanea sativa	TRSH	5	2.9069767
-MunozSobrino_a17	Daphne	Daphne	DWAR	1	0.58139535
-MunozSobrino_a17	Erica	Erica	DWAR	6	3.4883721
-MunozSobrino_a17	Fraxinus	Fraxinus	TRSH	1	0.58139535
-MunozSobrino_a17	Juniperus/Cupressaceae	Juniperus-type	TRSH	2	1.1627907
-MunozSobrino_a17	Pinus	Pinus	TRSH	9	5.2325581
-MunozSobrino_a17	Quercus robur-type	Quercus robur-type	TRSH	1	0.58139535
-MunozSobrino_a17	Asteraceae	Asteraceae	HERB	18	10.465116
-MunozSobrino_a17	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	6	3.4883721
-MunozSobrino_a17	Cyperaceae	Cyperaceae	HERB	8	4.6511628
-MunozSobrino_a17	Poaceae	Poaceae	HERB	22	12.790698
-MunozSobrino_a17	Monolete	Monolete fern spores	VACR	27	15.697674
-MunozSobrino_a17	Trilete	Trilete spore(s)	VACR	5	2.9069767
-MunozSobrino_a17	Briophyte 340-type	Type 340	BRYO	5	2.9069767
-MunozSobrino_a17	Botryococcus	Botryococcus cf. B. terribilis	ALGA	2	1.1627907
-MunozSobrino_a17	Chlorococcales	Chlorococcales	ALGA	29	16.860465
-MunozSobrino_a17	Pseudosquizaea spp.	Pseudosquizaea spp.	ALGA	2	1.1627907
-MunozSobrino_a17	Ullotrix/Microspora-type	Ullotrix/Microspora-type	ALGA	4	2.3255814
-MunozSobrino_a17	Eggs	Eggs: indeterminable	INUN	6	
-MunozSobrino_a17	Phragmospore undet.	Indeterminable: unknown	INUN	6	
-MunozSobrino_a17	Spicules	Spicules	INUN	4	
-MunozSobrino_a17	Arcella	Arcella	RHIZ	2	
-MunozSobrino_a17	Eucalyptus	Eucalyptus spike (counted)	NOPO	1	
-MunozSobrino_a17	Foram	Foraminifera	INVE	2	
-MunozSobrino_a17	Hiphae	Fungal Hyphae	FUNG	175	
-MunozSobrino_a17	Fungal spore undet.	Fungal spore	FUNG	20	
-MunozSobrino_a17	Glomus	Glomus	FUNG	2	
-MunozSobrino_a17	Artropod	Invertebrata	INVE	11	
-MunozSobrino_a17	Multiseptate conidia undet.	Multiseptate conidia undet.	FUNG	4	
-MunozSobrino_a17	Neobardocoela oocytes	Neorhabdocoela	PLAT	2	
-MunozSobrino_a17	Sordariaceus ascospores	Sordariaceus ascospores	FUNG	57	
-MunozSobrino_a17	Type 109	Type 109	NOPO	4	
-MunozSobrino_a17	Type 143	Type 143	FUNG	2	
-MunozSobrino_a17	Type 200	Type 200	FUNG	4	
-MunozSobrino_a17	Type 201	Type 201	FUNG	20	
-MunozSobrino_a17	Vegetal	Vegetative remains	NOPO	11	
-MunozSobrino_a17	Xilariaceae	Xylariaceae	FUNG	15	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+MunozSobrino_a17	5	56	5	Alnus	Alnus	TRSH
+MunozSobrino_a17	660	2	308	Arcella	Arcella	RHIZ
+MunozSobrino_a17	134	18	134	Asteraceae	Asteraceae	HERB
+MunozSobrino_a17	663	2	663	Botryococcus	Botryococcus	ALGA
+MunozSobrino_a17	2732	5	2732	Briophyte 340-type	Type 340	BRYO
+MunozSobrino_a17	2733	5	19	Castanea-type	Castanea sativa	TRSH
+MunozSobrino_a17	2739	6	2739	Eggs	Eggs: indeterminable	INUN
+MunozSobrino_a17	24	6	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+MunozSobrino_a17	33	8	33	Cyperaceae	Cyperaceae	HERB
+MunozSobrino_a17	34	1	34	Daphne	Daphne	TRSH
+MunozSobrino_a17	2741	1	2741	Eucalyptus	Eucalyptus spike (counted)	NOPO
+MunozSobrino_a17	2742	2	358	Foram	Foraminifera	INVE
+MunozSobrino_a17	38	6	38	Erica	Erica	TRSH
+MunozSobrino_a17	554	2	362	Glomus	Glomus	FUNG
+MunozSobrino_a17	2743	175	2743	Hiphae	Fungal Hyphae	FUNG
+MunozSobrino_a17	190	1	190	Fraxinus	Fraxinus	TRSH
+MunozSobrino_a17	2750	4	2750	Multiseptate conidia undet.	Multiseptate conidia undet.	FUNG
+MunozSobrino_a17	2752	2	2752	Neobardocoela oocytes	Neorhabdocoela	PLAT
+MunozSobrino_a17	2169	27	146	Monolete	Monolete fern spores	VACR
+MunozSobrino_a17	2747	2	203	Juniperus/Cupressaceae	Juniperus-type	TRSH
+MunozSobrino_a17	2757	20	2022	Fungal spore undet.	Fungal spore	FUNG
+MunozSobrino_a17	2758	6	177	Phragmospore undet.	Indeterminable: unknown	INUN
+MunozSobrino_a17	75	9	75	Pinus	Pinus	TRSH
+MunozSobrino_a17	80	22	80	Poaceae	Poaceae	HERB
+MunozSobrino_a17	2764	2	2764	Pseudosquizaea spp.	Pseudosquizaea spp.	ALGA
+MunozSobrino_a17	152	1	86	Quercus robur-type	Quercus robur-type	TRSH
+MunozSobrino_a17	2767	4	2767	Ullotrix/Microspora-type	Ullotrix/Microspora-type	ALGA
+MunozSobrino_a17	2768	57	2768	Sordariaceus ascospores	Sordariaceus ascospores	FUNG
+MunozSobrino_a17	2769	4	2769	Spicules	Spicules	INUN
+MunozSobrino_a17	2172	5	279	Trilete	Trilete spore(s)	VACR
+MunozSobrino_a17	2774	4	2774	Type 109	Type 109	NOPO
+MunozSobrino_a17	2776	2	2776	Type 143	Type 143	FUNG
+MunozSobrino_a17	2780	4	2780	Type 200	Type 200	FUNG
+MunozSobrino_a17	2781	20	2781	Type 201	Type 201	FUNG
+MunozSobrino_a17	2786	11	2786	Artropod	Invertebrata	INVE
+MunozSobrino_a17	2787	11	2787	Vegetal	Vegetative remains	NOPO
+MunozSobrino_a17	2789	15	2789	Xilariaceae	Xylariaceae	FUNG
+MunozSobrino_a17	2736	29	2736	Chlorococcales	Chlorococcales	ALGA

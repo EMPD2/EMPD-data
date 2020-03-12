@@ -1,42 +1,42 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Hjelle_a31	Alnus	Alnus	TRSH	165	9.6434833
-Hjelle_a31	Betula	Betula	TRSH	270	15.780245
-Hjelle_a31	Calluna vulgaris	Calluna vulgaris	TRSH	66	3.8573933
-Hjelle_a31	Corylus avellana	Corylus	TRSH	79	4.6171829
-Hjelle_a31	Rhamnus frangula	Frangula alnus	TRSH	1	0.058445354
-Hjelle_a31	Fraxinus	Fraxinus	TRSH	3	0.17533606
-Hjelle_a31	Juniperus	Juniperus communis-type	TRSH	12	0.70134424
-Hjelle_a31	Myrica gale	Myrica	TRSH	6	0.35067212
-Hjelle_a31	Pinus sylvestris	Pinus sylvestris-type	TRSH	167	9.7603741
-Hjelle_a31	Populus	Populus	TRSH	4	0.23378141
-Hjelle_a31	Quercus	Quercus	TRSH	42	2.4547049
-Hjelle_a31	Rosaceae	Rosaceae	TRSH	1	0.058445354
-Hjelle_a31	Salix	Salix	TRSH	5	0.29222677
-Hjelle_a31	Sorbus	Sorbus-type	TRSH	4	0.23378141
-Hjelle_a31	Tilia cordata	Tilia cordata-type	TRSH	2	0.11689071
-Hjelle_a31	Ulmus	Ulmus/Zelkova	TRSH	29	1.6949153
-Hjelle_a31	Vaccinium type	Vaccinium-type	DWAR	8	0.46756283
-Hjelle_a31	Anemone type	Anemone nemorosa-type	HERB	1	0.058445354
-Hjelle_a31	Apiaceae	Apiaceae	HERB	1	0.058445354
-Hjelle_a31	Artemisia type	Artemisia	HERB	1	0.058445354
-Hjelle_a31	Cyperaceae	Cyperaceae	HERB	38	2.2209234
-Hjelle_a31	Filipendula	Filipendula	HERB	8	0.46756283
-Hjelle_a31	Geum type	Geum-type	HERB	3	0.17533606
-Hjelle_a31	Melampyrum	Melampyrum	HERB	2	0.11689071
-Hjelle_a31	Poaceae	Poaceae	HERB	131	7.6563413
-Hjelle_a31	Potentilla type	Potentilla-type	HERB	10	0.58445354
-Hjelle_a31	Galium type	Rubiaceae	HERB	1	0.058445354
-Hjelle_a31	Rumex sect. Acetosa	Rumex acetosa-type	HERB	5	0.29222677
-Hjelle_a31	Saxifraga oppositifolia type	Saxifraga oppositifolia-type	HERB	1	0.058445354
-Hjelle_a31	Silene dioica type	Silene dioica-type	HERB	1	0.058445354
-Hjelle_a31	Succisa	Succisa-type	HERB	3	0.17533606
-Hjelle_a31	Triticum type	Triticum-type	HERB	1	0.058445354
-Hjelle_a31	Urtica	Urtica	HERB	2	0.11689071
-Hjelle_a31	Botrychium	Botrychium	VACR	1	0.058445354
-Hjelle_a31	Gymnocarpium dryopteris type	Gymnocarpium dryopteris	VACR	30	1.7533606
-Hjelle_a31	Lycopodium annotinum	Lycopodium annotinum-type	VACR	1	0.058445354
-Hjelle_a31	Polypodiaceae	Monolete fern spores	VACR	595	34.774985
-Hjelle_a31	Polypodium vulgare	Polypodium	VACR	8	0.46756283
-Hjelle_a31	Pteridium	Pteridium aquilinum	VACR	3	0.17533606
-Hjelle_a31	Corroded	Indeterminable: corroded	INUN	7	
-Hjelle_a31	Sphagnum	Sphagnum	NOPO	33	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Hjelle_a31	5	165	5	Alnus	Alnus	TRSH
+Hjelle_a31	12	270	12	Betula	Betula	TRSH
+Hjelle_a31	31	79	31	Corylus avellana	Corylus	TRSH
+Hjelle_a31	190	3	190	Fraxinus	Fraxinus	TRSH
+Hjelle_a31	81	4	81	Populus	Populus	TRSH
+Hjelle_a31	107	4	107	Sorbus	Sorbus-type	TRSH
+Hjelle_a31	189	42	189	Quercus	Quercus	TRSH
+Hjelle_a31	788	167	125	Pinus sylvestris	Pinus sylvestris-type	TRSH
+Hjelle_a31	58	12	58	Juniperus	Juniperus communis-type	TRSH
+Hjelle_a31	99	5	99	Salix	Salix	TRSH
+Hjelle_a31	154	29	154	Ulmus	Ulmus/Zelkova	TRSH
+Hjelle_a31	6	1	6	Apiaceae	Apiaceae	HERB
+Hjelle_a31	976	1	7	Artemisia type	Artemisia	HERB
+Hjelle_a31	2601	6	977	Myrica gale	Myrica	TRSH
+Hjelle_a31	33	38	33	Cyperaceae	Cyperaceae	HERB
+Hjelle_a31	45	8	45	Filipendula	Filipendula	HERB
+Hjelle_a31	80	131	80	Poaceae	Poaceae	HERB
+Hjelle_a31	473	2	473	Melampyrum	Melampyrum	HERB
+Hjelle_a31	650	3	649	Geum type	Geum-type	HERB
+Hjelle_a31	699	10	512	Potentilla type	Potentilla-type	HERB
+Hjelle_a31	2618	5	95	Rumex sect. Acetosa	Rumex acetosa-type	HERB
+Hjelle_a31	92	1	92	Rosaceae	Rosaceae	TRSH
+Hjelle_a31	245	1	93	Galium type	Rubiaceae	HERB
+Hjelle_a31	1384	7	1324	Corroded	Indeterminable: corroded	INUN
+Hjelle_a31	640	1	640	Saxifraga oppositifolia type	Saxifraga oppositifolia-type	HERB
+Hjelle_a31	652	2	652	Urtica	Urtica	HERB
+Hjelle_a31	962	1	962	Botrychium	Botrychium	VACR
+Hjelle_a31	146	595	146	Polypodiaceae	Monolete fern spores	VACR
+Hjelle_a31	431	3	180	Pteridium	Pteridium aquilinum	VACR
+Hjelle_a31	667	8	214	Polypodium vulgare	Polypodium	VACR
+Hjelle_a31	965	1	183	Lycopodium annotinum	Lycopodium annotinum-type	VACR
+Hjelle_a31	144	33	144	Sphagnum	Sphagnum	BRYO
+Hjelle_a31	457	66	457	Calluna vulgaris	Calluna vulgaris	TRSH
+Hjelle_a31	1406	2	153	Tilia cordata	Tilia cordata-type	TRSH
+Hjelle_a31	2392	3	989	Succisa	Succisa-type	HERB
+Hjelle_a31	2627	30	1320	Gymnocarpium dryopteris type	Gymnocarpium dryopteris	VACR
+Hjelle_a31	2597	1	468	Rhamnus frangula	Frangula alnus	TRSH
+Hjelle_a31	2602	8	942	Vaccinium type	Vaccinium-type	TRSH
+Hjelle_a31	2605	1	588	Anemone type	Anemone nemorosa-type	HERB
+Hjelle_a31	2621	1	106	Silene dioica type	Silene dioica-type	HERB
+Hjelle_a31	2625	1	1199	Triticum type	Triticum-type	HERB

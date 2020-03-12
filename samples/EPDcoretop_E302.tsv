@@ -1,38 +1,38 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-EPDcoretop_E302	Abies alba	Abies	TRSH	12	0.88170463
-EPDcoretop_E302	Acer	Acer campestre-type	TRSH	4	0.29390154
-EPDcoretop_E302	Alnus	Alnus	TRSH	56	4.1146216
-EPDcoretop_E302	Betula	Betula	TRSH	99	7.2740632
-EPDcoretop_E302	Carpinus	Carpinus betulus	TRSH	14	1.0286554
-EPDcoretop_E302	Corylus	Corylus	TRSH	28	2.0573108
-EPDcoretop_E302	Fagus	Fagus	TRSH	84	6.1719324
-EPDcoretop_E302	Frangula alnus	Frangula alnus	TRSH	2	0.14695077
-EPDcoretop_E302	Fraxinus	Fraxinus	TRSH	1	0.073475386
-EPDcoretop_E302	Juglans	Juglans	TRSH	1	0.073475386
-EPDcoretop_E302	Juniperus	Juniperus communis-type	TRSH	1	0.073475386
-EPDcoretop_E302	Picea abies	Picea abies-type	TRSH	19	1.3960323
-EPDcoretop_E302	Pinus	Pinus	TRSH	57	4.188097
-EPDcoretop_E302	Quercus	Quercus	TRSH	7	0.5143277
-EPDcoretop_E302	Rosaceae	Rosaceae	TRSH	7	0.5143277
-EPDcoretop_E302	Salix	Salix	TRSH	29	2.1307862
-EPDcoretop_E302	Ulmus	Ulmus/Zelkova	TRSH	5	0.36737693
-EPDcoretop_E302	Lysimachia	Anagallis-type	HERB	3	0.22042616
-EPDcoretop_E302	Umbelliferae	Apiaceae	HERB	3	0.22042616
-EPDcoretop_E302	Artemisia	Artemisia	HERB	15	1.1021308
-EPDcoretop_E302	Compositae subf. Asteroideae	Asteraceae subf. Asteroideae	HERB	11	0.80822924
-EPDcoretop_E302	Secale	Cerealia-type	HERB	10	0.73475386
-EPDcoretop_E302	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	7	0.5143277
-EPDcoretop_E302	Cannabaceae	Humulus/Cannabis	HERB	7	0.5143277
-EPDcoretop_E302	Plantago lanceolata	Plantago lanceolata-type	HERB	11	0.80822924
-EPDcoretop_E302	Plantago major/P. media	Plantago major/P. media-type	HERB	4	0.29390154
-EPDcoretop_E302	Gramineae	Poaceae	HERB	423	31.080088
-EPDcoretop_E302	Ranunculaceae	Ranunculaceae	HERB	1	0.073475386
-EPDcoretop_E302	Rubiaceae	Rubiaceae	HERB	1	0.073475386
-EPDcoretop_E302	Rumex	Rumex/Oxyria	HERB	10	0.73475386
-EPDcoretop_E302	Urtica	Urtica	HERB	27	1.9838354
-EPDcoretop_E302	Equisetum	Equisetum	VACR	1	0.073475386
-EPDcoretop_E302	Polypodiaceae	Monolete fern spores	VACR	3	0.22042616
-EPDcoretop_E302	Pteridium	Pteridium	VACR	1	0.073475386
-EPDcoretop_E302	Sphagnum	Sphagnum	BRYO	397	29.169728
-EPDcoretop_E302	Cyperaceae	Cyperaceae	AQUA	27	1.9838354
-EPDcoretop_E302	Varia	Indeterminable: unknown	INUN	9	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+EPDcoretop_E302	759	12	321	Abies alba	Abies	TRSH
+EPDcoretop_E302	2	4	2	Acer	Acer campestre-type	TRSH
+EPDcoretop_E302	7	15	7	Artemisia	Artemisia	HERB
+EPDcoretop_E302	12	99	12	Betula	Betula	TRSH
+EPDcoretop_E302	3652	7	205	Cannabaceae	Humulus/Cannabis	HERB
+EPDcoretop_E302	16	14	16	Carpinus	Carpinus betulus	TRSH
+EPDcoretop_E302	24	7	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+EPDcoretop_E302	3822	11	160	Compositae subf. Asteroideae	Asteraceae subf. Asteroideae	HERB
+EPDcoretop_E302	201	28	31	Corylus	Corylus	TRSH
+EPDcoretop_E302	3868	27	3868	Cyperaceae	Cyperaceae	AQUA
+EPDcoretop_E302	145	1	145	Equisetum	Equisetum	VACR
+EPDcoretop_E302	567	2	468	Frangula alnus	Frangula alnus	TRSH
+EPDcoretop_E302	190	1	190	Fraxinus	Fraxinus	TRSH
+EPDcoretop_E302	1601	423	80	Gramineae	Poaceae	HERB
+EPDcoretop_E302	57	1	57	Juglans	Juglans	TRSH
+EPDcoretop_E302	58	1	58	Juniperus	Juniperus communis-type	TRSH
+EPDcoretop_E302	783	19	783	Picea abies	Picea abies-type	TRSH
+EPDcoretop_E302	75	57	75	Pinus	Pinus	TRSH
+EPDcoretop_E302	60	11	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+EPDcoretop_E302	4323	4	458	Plantago major/P. media	Plantago major/P. media-type	HERB
+EPDcoretop_E302	146	3	146	Polypodiaceae	Monolete fern spores	VACR
+EPDcoretop_E302	431	1	180	Pteridium	Pteridium aquilinum	VACR
+EPDcoretop_E302	189	7	189	Quercus	Quercus	TRSH
+EPDcoretop_E302	92	7	92	Rosaceae	Rosaceae	TRSH
+EPDcoretop_E302	93	1	93	Rubiaceae	Rubiaceae	HERB
+EPDcoretop_E302	727	10	94	Rumex	Rumex/Oxyria	HERB
+EPDcoretop_E302	99	29	99	Salix	Salix	TRSH
+EPDcoretop_E302	104	10	22	Secale	Cerealia-type	HERB
+EPDcoretop_E302	154	5	154	Ulmus	Ulmus/Zelkova	TRSH
+EPDcoretop_E302	590	3	6	Umbelliferae	Apiaceae	HERB
+EPDcoretop_E302	652	27	652	Urtica	Urtica	HERB
+EPDcoretop_E302	1098	9	177	Varia	Indeterminable: unknown	INUN
+EPDcoretop_E302	5	56	5	Alnus	Alnus	TRSH
+EPDcoretop_E302	135	1	135	Ranunculaceae	Ranunculaceae	HERB
+EPDcoretop_E302	144	397	144	Sphagnum	Sphagnum	BRYO
+EPDcoretop_E302	192	84	42	Fagus	Fagus	TRSH
+EPDcoretop_E302	614	3	587	Lysimachia	Anagallis-type	HERB

@@ -1,20 +1,20 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Muller_a33	Alnus fruticosa	Alnus viridis	TRSH	73	20.505618
-Muller_a33	Betula sect. Nanae	Betula nana-type	DWAR	130	36.516854
-Muller_a33	Ericaceae	Ericales (tetrad)	DWAR	9	2.5280899
-Muller_a33	Larix	Larix/Pseudotsuga	TRSH	2	0.56179775
-Muller_a33	Pinaceae	Pinaceae	TRSH	56	15.730337
-Muller_a33	Pinus diploxylon-type	Pinus sylvestris-type	TRSH	68	19.101124
-Muller_a33	Rosaceae	Rosaceae	TRSH	3	0.84269663
-Muller_a33	Salix	Salix	TRSH	1	0.28089888
-Muller_a33	Artemisia	Artemisia	HERB	2	0.56179775
-Muller_a33	Asteraceae subfam. Cichorioideae	Asteraceae subf. Cichorioideae	HERB	2	0.56179775
-Muller_a33	Poaceae	Poaceae	HERB	6	1.6853933
-Muller_a33	Ranunculaceae	Ranunculaceae	HERB	1	0.28089888
-Muller_a33	Saxifragaceae	Saxifragaceae	HERB	2	0.56179775
-Muller_a33	Ranunculaceae thalictrum	Thalictrum	HERB	1	0.28089888
-Muller_a33	Pollen indeterminata	Indeterminable: unknown	INUN	1	
-Muller_a33	Pollen, terrestrial	Indeterminable: unknown	INUN	357	
-Muller_a33	Lycopodium spores counted	Lycopodium (counted)	NOPO	96	
-Muller_a33	Pollen per unit sediment mass	Pollen per unit sediment mass (/g)	NOPO	7943	
-Muller_a33	Sphagnum	Sphagnum	NOPO	2	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Muller_a33	123	2	123	Larix	Larix/Pseudotsuga	TRSH
+Muller_a33	1049	68	125	Pinus diploxylon-type	Pinus sylvestris-type	TRSH
+Muller_a33	127	130	127	Betula sect. Nanae	Betula nana-type	DWAR
+Muller_a33	1944	56	1944	Pinaceae	Pinaceae	TRSH
+Muller_a33	7	2	7	Artemisia	Artemisia	HERB
+Muller_a33	80	6	80	Poaceae	Poaceae	HERB
+Muller_a33	130	9	130	Ericaceae	Ericales (tetrad)	DWAR
+Muller_a33	2898	2	25	Asteraceae subfam. Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Muller_a33	2900	1	177	Pollen indeterminata	Indeterminable: unknown	INUN
+Muller_a33	135	1	135	Ranunculaceae	Ranunculaceae	HERB
+Muller_a33	639	2	639	Saxifragaceae	Saxifragaceae	HERB
+Muller_a33	2969	1	112	Ranunculaceae thalictrum	Thalictrum	HERB
+Muller_a33	144	2	144	Sphagnum	Sphagnum	BRYO
+Muller_a33	2970	357	177	Pollen, terrestrial	Indeterminable: unknown	INUN
+Muller_a33	3000	96	559	Lycopodium spores counted	Lycopodium (counted)	NOPO
+Muller_a33	3001	7943	3001	Pollen per unit sediment mass	Pollen per unit sediment mass (/g)	NOPO
+Muller_a33	99	1	99	Salix	Salix	TRSH
+Muller_a33	2962	73	129	Alnus fruticosa	Alnus viridis	TRSH
+Muller_a33	92	3	92	Rosaceae	Rosaceae	TRSH

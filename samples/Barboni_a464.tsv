@@ -1,38 +1,38 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Barboni_a464	Calluna	Calluna vulgaris	DWAR	1	0.096711799
-Barboni_a464	Castanea	Castanea sativa	TRSH	1	0.096711799
-Barboni_a464	Erica undiff.	Erica	DWAR	4	0.3868472
-Barboni_a464	Fraxinus	Fraxinus	TRSH	2	0.1934236
-Barboni_a464	Juniperus-type	Juniperus-type	TRSH	27	2.6112186
-Barboni_a464	Olea-type	Olea europaea	TRSH	55	5.3191489
-Barboni_a464	Olea/Ligustrum	Oleaceae	TRSH	5	0.48355899
-Barboni_a464	Phillyrea-type	Phillyrea	TRSH	26	2.5145068
-Barboni_a464	Pinus-type	Pinus sylvestris-type	TRSH	265	25.628627
-Barboni_a464	Pistacia-type	Pistacia	TRSH	1	0.096711799
-Barboni_a464	Populus	Populus	TRSH	1	0.096711799
-Barboni_a464	Quercus evergreen	Quercus ilex-type	TRSH	321	31.044487
-Barboni_a464	Quercus deciduous	Quercus robur-type	TRSH	52	5.0290135
-Barboni_a464	Rosaceae herb	Rosaceae	TRSH	4	0.3868472
-Barboni_a464	Rosaceae tree	Rosaceae (non-operculate)	TRSH	22	2.1276596
-Barboni_a464	Salix	Salix	TRSH	1	0.096711799
-Barboni_a464	Spartium	Spartium junceum	TRSH	4	0.3868472
-Barboni_a464	Ulmus	Ulmus/Zelkova	TRSH	5	0.48355899
-Barboni_a464	Apiaceae undiff.	Apiaceae	HERB	24	2.3210832
-Barboni_a464	Artemisia-type	Artemisia	HERB	44	4.2553191
-Barboni_a464	Asteraceae Liguliflorae	Asteraceae subf. Cichorioideae	HERB	1	0.096711799
-Barboni_a464	Brassicaceae undiff.	Brassicaceae	HERB	1	0.096711799
-Barboni_a464	Caryophyllaceae undiff.	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	2	0.1934236
-Barboni_a464	Chenopodiaceae undiff.	Chenopodiaceae/Amaranthaceae	HERB	16	1.5473888
-Barboni_a464	Crassulaceae undiff.	Crassulaceae	HERB	3	0.2901354
-Barboni_a464	Helianthemum-type	Helianthemum	HERB	8	0.77369439
-Barboni_a464	Lamiaceae undiff.	Lamiaceae	HERB	1	0.096711799
-Barboni_a464	Anthemis-type	Matricaria-type	HERB	10	0.96711799
-Barboni_a464	Plantago-type	Plantago	HERB	18	1.7408124
-Barboni_a464	Poaceae	Poaceae	HERB	95	9.1876209
-Barboni_a464	Ranunculaceae undiff.	Ranunculaceae	HERB	4	0.3868472
-Barboni_a464	Reseda	Reseda	HERB	1	0.096711799
-Barboni_a464	Rubiaceae undiff.	Rubiaceae	HERB	2	0.1934236
-Barboni_a464	Rumex-type	Rumex/Oxyria	HERB	6	0.58027079
-Barboni_a464	Scrophulariaceae undiff.	Scrophulariaceae (colporate-reticulate)	HERB	1	0.096711799
-Barboni_a464	Cyperaceae undiff.	Cyperaceae	AQUA	35	3.384913
-Barboni_a464	Fabaceae undiff.	Fabaceae undiff.	INUN	6	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Barboni_a464	589	10	3	Anthemis-type	Matricaria-type	HERB
+Barboni_a464	1337	1	25	Asteraceae Liguliflorae	Asteraceae subf. Cichorioideae	HERB
+Barboni_a464	1422	1	13	Brassicaceae undiff.	Brassicaceae	HERB
+Barboni_a464	3645	1	3645	Calluna	Calluna vulgaris	DWAR
+Barboni_a464	946	2	18	Caryophyllaceae undiff.	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Barboni_a464	1810	16	24	Chenopodiaceae undiff.	Chenopodiaceae/Amaranthaceae	HERB
+Barboni_a464	3873	35	3868	Cyperaceae undiff.	Cyperaceae	AQUA
+Barboni_a464	3941	4	3927	Erica undiff.	Erica	DWAR
+Barboni_a464	3960	6	3960	Fabaceae undiff.	Fabaceae undiff.	INUN
+Barboni_a464	4039	8	52	Helianthemum-type	Helianthemum	HERB
+Barboni_a464	738	27	203	Juniperus-type	Juniperus-type	TRSH
+Barboni_a464	1831	1	59	Lamiaceae undiff.	Lamiaceae	HERB
+Barboni_a464	4230	55	68	Olea-type	Olea europaea	TRSH
+Barboni_a464	4231	5	781	Olea/Ligustrum	Oleaceae	TRSH
+Barboni_a464	4283	26	74	Phillyrea-type	Phillyrea	TRSH
+Barboni_a464	4309	265	125	Pinus-type	Pinus sylvestris-type	TRSH
+Barboni_a464	4314	1	77	Pistacia-type	Pistacia	TRSH
+Barboni_a464	4333	18	270	Plantago-type	Plantago	HERB
+Barboni_a464	80	95	80	Poaceae	Poaceae	HERB
+Barboni_a464	437	52	86	Quercus deciduous	Quercus robur-type	TRSH
+Barboni_a464	427	321	85	Quercus evergreen	Quercus ilex-type	TRSH
+Barboni_a464	1180	4	135	Ranunculaceae undiff.	Ranunculaceae	HERB
+Barboni_a464	88	1	88	Reseda	Reseda	HERB
+Barboni_a464	4484	4	92	Rosaceae herb	Rosaceae	TRSH
+Barboni_a464	4495	2	93	Rubiaceae undiff.	Rubiaceae	HERB
+Barboni_a464	4520	6	94	Rumex-type	Rumex/Oxyria	HERB
+Barboni_a464	99	1	99	Salix	Salix	TRSH
+Barboni_a464	1190	1	173	Scrophulariaceae undiff.	Scrophulariaceae (colporate-reticulate)	HERB
+Barboni_a464	4615	4	4615	Spartium	Spartium junceum	TRSH
+Barboni_a464	154	5	154	Ulmus	Ulmus/Zelkova	TRSH
+Barboni_a464	81	1	81	Populus	Populus	TRSH
+Barboni_a464	190	2	190	Fraxinus	Fraxinus	TRSH
+Barboni_a464	441	1	19	Castanea	Castanea sativa	TRSH
+Barboni_a464	1107	24	6	Apiaceae undiff.	Apiaceae	HERB
+Barboni_a464	3574	44	7	Artemisia-type	Artemisia	HERB
+Barboni_a464	3856	3	519	Crassulaceae undiff.	Crassulaceae	HERB
+Barboni_a464	4488	22	490	Rosaceae tree	Rosaceae (non-operculate)	TRSH

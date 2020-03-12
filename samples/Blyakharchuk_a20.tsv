@@ -1,35 +1,35 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Blyakharchuk_a20	Abies sibirica	Abies sibirica	TRSH	1	0.28901734
-Blyakharchuk_a20	Alnaster	Alnus viridis	TRSH	1	0.28901734
-Blyakharchuk_a20	Betula nana	Betula nana-type	DWAR	9	2.6011561
-Blyakharchuk_a20	Betula pubescens	Betula pubescens-type	TRSH	1	0.28901734
-Blyakharchuk_a20	Betula pendula	Betula pubescens-type	TRSH	37	10.693642
-Blyakharchuk_a20	Ephedra distahia	Ephedra distachya-type	TRSH	1	0.28901734
-Blyakharchuk_a20	Larix sibirica	Larix/Pseudotsuga	TRSH	9	2.6011561
-Blyakharchuk_a20	Picea obovata	Picea abies-type	TRSH	25	7.2254335
-Blyakharchuk_a20	Pinus sibirica	Pinus cembra-type	TRSH	52	15.028902
-Blyakharchuk_a20	Pinus sylvestris	Pinus sylvestris-type	TRSH	21	6.0693642
-Blyakharchuk_a20	Salix	Salix	TRSH	2	0.57803468
-Blyakharchuk_a20	Sambucus sibirica	Sambucus sibirica	TRSH	2	0.57803468
-Blyakharchuk_a20	Androsace	Androsace	HERB	2	0.57803468
-Blyakharchuk_a20	Anemone	Anemone nemorosa-type	HERB	1	0.28901734
-Blyakharchuk_a20	Umbellifera	Apiaceae	HERB	1	0.28901734
-Blyakharchuk_a20	Artemisia	Artemisia	HERB	86	24.855491
-Blyakharchuk_a20	Aster type	Aster-type	HERB	2	0.57803468
-Blyakharchuk_a20	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	12	3.4682081
-Blyakharchuk_a20	Cyperaceae	Cyperaceae	HERB	13	3.7572254
-Blyakharchuk_a20	Geranium	Geranium	HERB	1	0.28901734
-Blyakharchuk_a20	Hordeum	Hordeum-type	HERB	4	1.1560694
-Blyakharchuk_a20	Lamiaceae	Lamiaceae	HERB	1	0.28901734
-Blyakharchuk_a20	Origanum type	Origanum-type	HERB	1	0.28901734
-Blyakharchuk_a20	Phlomis	Phlomis	HERB	1	0.28901734
-Blyakharchuk_a20	Plantago	Plantago	HERB	4	1.1560694
-Blyakharchuk_a20	Poaceae	Poaceae	HERB	33	9.5375723
-Blyakharchuk_a20	Potentilla	Potentilla-type	HERB	2	0.57803468
-Blyakharchuk_a20	Ranunculus type	Ranunculus-type	HERB	2	0.57803468
-Blyakharchuk_a20	Sanguissorba offic.	Sanguisorba officinalis	HERB	1	0.28901734
-Blyakharchuk_a20	Sedum	Sedum-type	HERB	1	0.28901734
-Blyakharchuk_a20	Thalictrum	Thalictrum	HERB	8	2.3121387
-Blyakharchuk_a20	Urtica	Urtica	HERB	1	0.28901734
-Blyakharchuk_a20	Bryales	Bryophyte spores	BRYO	7	2.0231214
-Blyakharchuk_a20	Monolete	Monolete fern spores	VACR	1	0.28901734
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Blyakharchuk_a20	788	21	125	Pinus sylvestris	Pinus sylvestris-type	TRSH
+Blyakharchuk_a20	149	1	149	Abies sibirica	Abies sibirica	TRSH
+Blyakharchuk_a20	1361	52	124	Pinus sibirica	Pinus cembra-type	TRSH
+Blyakharchuk_a20	1731	37	128	Betula pendula	Betula pubescens-type	TRSH
+Blyakharchuk_a20	99	2	99	Salix	Salix	TRSH
+Blyakharchuk_a20	937	1	128	Betula pubescens	Betula pubescens-type	TRSH
+Blyakharchuk_a20	1363	9	127	Betula nana	Betula nana-type	DWAR
+Blyakharchuk_a20	1447	1	129	Alnaster	Alnus viridis	TRSH
+Blyakharchuk_a20	2132	2	2132	Sambucus sibirica	Sambucus sibirica	TRSH
+Blyakharchuk_a20	7	86	7	Artemisia	Artemisia	HERB
+Blyakharchuk_a20	11	2	11	Aster type	Aster-type	HERB
+Blyakharchuk_a20	588	1	588	Anemone	Anemone nemorosa-type	HERB
+Blyakharchuk_a20	2138	2	2138	Androsace	Androsace	HERB
+Blyakharchuk_a20	24	12	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Blyakharchuk_a20	33	13	33	Cyperaceae	Cyperaceae	HERB
+Blyakharchuk_a20	80	33	80	Poaceae	Poaceae	HERB
+Blyakharchuk_a20	498	1	498	Geranium	Geranium	HERB
+Blyakharchuk_a20	2145	1	37	Ephedra distahia	Ephedra distachya-type	TRSH
+Blyakharchuk_a20	59	1	59	Lamiaceae	Lamiaceae	HERB
+Blyakharchuk_a20	724	4	270	Plantago	Plantago	HERB
+Blyakharchuk_a20	1366	2	512	Potentilla	Potentilla-type	HERB
+Blyakharchuk_a20	1572	4	258	Hordeum	Hordeum-type	HERB
+Blyakharchuk_a20	105	1	105	Sedum	Sedum-type	HERB
+Blyakharchuk_a20	112	8	112	Thalictrum	Thalictrum	HERB
+Blyakharchuk_a20	652	1	652	Urtica	Urtica	HERB
+Blyakharchuk_a20	979	2	274	Ranunculus type	Ranunculus-type	HERB
+Blyakharchuk_a20	2156	1	474	Sanguissorba offic.	Sanguisorba officinalis	HERB
+Blyakharchuk_a20	2164	1	6	Umbellifera	Apiaceae	HERB
+Blyakharchuk_a20	147	7	147	Bryales	Bryophyte spores	BRYO
+Blyakharchuk_a20	2169	1	146	Monolete	Monolete fern spores	VACR
+Blyakharchuk_a20	2130	25	783	Picea obovata	Picea abies-type	TRSH
+Blyakharchuk_a20	2131	9	123	Larix sibirica	Larix/Pseudotsuga	TRSH
+Blyakharchuk_a20	2150	1	2150	Phlomis	Phlomis	HERB
+Blyakharchuk_a20	2151	1	2151	Origanum type	Origanum-type	HERB

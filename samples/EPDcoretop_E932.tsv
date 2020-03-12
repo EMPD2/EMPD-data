@@ -1,44 +1,44 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-EPDcoretop_E932	Abies	Abies	TRSH	3	0.64377682
-EPDcoretop_E932	Acer	Acer campestre-type	TRSH	3	0.64377682
-EPDcoretop_E932	Alnus	Alnus	TRSH	54	11.587983
-EPDcoretop_E932	Betula	Betula	TRSH	4	0.8583691
-EPDcoretop_E932	Carpinus betulus	Carpinus betulus	TRSH	4	0.8583691
-EPDcoretop_E932	Castanea	Castanea sativa	TRSH	11	2.360515
-EPDcoretop_E932	Corylus	Corylus	TRSH	9	1.9313305
-EPDcoretop_E932	Fagus	Fagus	TRSH	17	3.6480687
-EPDcoretop_E932	Fraxinus excelsior-type	Fraxinus excelsior-type	TRSH	3	0.64377682
-EPDcoretop_E932	Fraxinus ornus	Fraxinus ornus	TRSH	2	0.42918455
-EPDcoretop_E932	Juglans	Juglans	TRSH	3	0.64377682
-EPDcoretop_E932	Juniperus-type	Juniperus-type	TRSH	3	0.64377682
-EPDcoretop_E932	Ostrya-type	Ostrya/Carpinus orientalis	TRSH	23	4.9356223
-EPDcoretop_E932	Phillyrea	Phillyrea	TRSH	4	0.8583691
-EPDcoretop_E932	Pinus	Pinus	TRSH	4	0.8583691
-EPDcoretop_E932	Quercus	Quercus	TRSH	105	22.532189
-EPDcoretop_E932	Quercus robur-type	Quercus robur-type	TRSH	105	22.532189
-EPDcoretop_E932	Rhamnaceae	Rhamnaceae	TRSH	2	0.42918455
-EPDcoretop_E932	Salix	Salix	TRSH	3	0.64377682
-EPDcoretop_E932	Ulmus	Ulmus/Zelkova	TRSH	3	0.64377682
-EPDcoretop_E932	Vitis	Vitis	LIAN	1	0.21459227
-EPDcoretop_E932	Umbelliferae	Apiaceae	HERB	3	0.64377682
-EPDcoretop_E932	Artemisia	Artemisia	HERB	10	2.1459227
-EPDcoretop_E932	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB	1	0.21459227
-EPDcoretop_E932	Cruciferae	Brassicaceae	HERB	1	0.21459227
-EPDcoretop_E932	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	1	0.21459227
-EPDcoretop_E932	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	3	0.64377682
-EPDcoretop_E932	Plantago	Plantago	HERB	10	2.1459227
-EPDcoretop_E932	Gramineae	Poaceae	HERB	56	12.017167
-EPDcoretop_E932	Galium-type	Rubiaceae	HERB	2	0.42918455
-EPDcoretop_E932	Rumex	Rumex/Oxyria	HERB	4	0.8583691
-EPDcoretop_E932	Solidago-type	Senecio-type	HERB	1	0.21459227
-EPDcoretop_E932	Monolete spore(s)	Monolete fern spores	VACR	6	1.2875536
-EPDcoretop_E932	Trilete spore(s)	Trilete spore(s)	VACR	2	0.42918455
-EPDcoretop_E932	Cyperaceae	Cyperaceae	AQUA	12	2.5751073
-EPDcoretop_E932	Myriophyllum spicatum	Myriophyllum spicatum	AQUA	1	0.21459227
-EPDcoretop_E932	Potamogeton	Potamogeton-type	AQUA	2	0.42918455
-EPDcoretop_E932	Typha angustifolia-type	Sparganium-type	AQUA	1	0.21459227
-EPDcoretop_E932	Indeterminable: broken	Indeterminable: broken	INUN	2	
-EPDcoretop_E932	Indeterminable: crumpled	Indeterminable: crumpled	INUN	1	
-EPDcoretop_E932	cf. Euphorbia	Indeterminable: unknown	INUN	1	
-EPDcoretop_E932	cf. Olea	Indeterminable: unknown	INUN	5	
-EPDcoretop_E932	Indeterminable: unknown	Indeterminable: unknown	INUN	3	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+EPDcoretop_E932	560	3	321	Abies	Abies	TRSH
+EPDcoretop_E932	2	3	2	Acer	Acer campestre-type	TRSH
+EPDcoretop_E932	5	54	5	Alnus	Alnus	TRSH
+EPDcoretop_E932	7	10	7	Artemisia	Artemisia	HERB
+EPDcoretop_E932	12	4	12	Betula	Betula	TRSH
+EPDcoretop_E932	563	4	16	Carpinus betulus	Carpinus betulus	TRSH
+EPDcoretop_E932	18	1	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+EPDcoretop_E932	3722	1	177	cf. Euphorbia	Indeterminable: unknown	INUN
+EPDcoretop_E932	3737	5	177	cf. Olea	Indeterminable: unknown	INUN
+EPDcoretop_E932	24	3	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+EPDcoretop_E932	3824	1	25	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+EPDcoretop_E932	201	9	31	Corylus	Corylus	TRSH
+EPDcoretop_E932	482	1	13	Cruciferae	Brassicaceae	HERB
+EPDcoretop_E932	1047	3	47	Fraxinus excelsior-type	Fraxinus excelsior-type	TRSH
+EPDcoretop_E932	44	2	44	Fraxinus ornus	Fraxinus ornus	TRSH
+EPDcoretop_E932	605	2	93	Galium-type	Rubiaceae	HERB
+EPDcoretop_E932	1601	56	80	Gramineae	Poaceae	HERB
+EPDcoretop_E932	4072	2	998	Indeterminable: broken	Indeterminable: broken	INUN
+EPDcoretop_E932	4075	1	1925	Indeterminable: crumpled	Indeterminable: crumpled	INUN
+EPDcoretop_E932	4078	3	177	Indeterminable: unknown	Indeterminable: unknown	INUN
+EPDcoretop_E932	57	3	57	Juglans	Juglans	TRSH
+EPDcoretop_E932	738	3	203	Juniperus-type	Juniperus-type	TRSH
+EPDcoretop_E932	4197	6	146	Monolete spore(s)	Monolete fern spores	VACR
+EPDcoretop_E932	1158	1	376	Myriophyllum spicatum	Myriophyllum spicatum	AQUA
+EPDcoretop_E932	74	4	74	Phillyrea	Phillyrea	TRSH
+EPDcoretop_E932	75	4	75	Pinus	Pinus	TRSH
+EPDcoretop_E932	724	10	270	Plantago	Plantago	HERB
+EPDcoretop_E932	657	2	108	Potamogeton	Potamogeton-type	AQUA
+EPDcoretop_E932	189	105	189	Quercus	Quercus	TRSH
+EPDcoretop_E932	152	105	86	Quercus robur-type	Quercus robur-type	TRSH
+EPDcoretop_E932	727	4	94	Rumex	Rumex/Oxyria	HERB
+EPDcoretop_E932	99	3	99	Salix	Salix	TRSH
+EPDcoretop_E932	2428	1	133	Solidago-type	Senecio-type	HERB
+EPDcoretop_E932	4704	1	176	Typha angustifolia-type	Sparganium-type	AQUA
+EPDcoretop_E932	154	3	154	Ulmus	Ulmus/Zelkova	TRSH
+EPDcoretop_E932	590	3	6	Umbelliferae	Apiaceae	HERB
+EPDcoretop_E932	90	2	90	Rhamnaceae	Rhamnaceae	TRSH
+EPDcoretop_E932	192	17	42	Fagus	Fagus	TRSH
+EPDcoretop_E932	441	11	19	Castanea	Castanea sativa	TRSH
+EPDcoretop_E932	572	23	70	Ostrya-type	Ostrya/Carpinus orientalis	TRSH
+EPDcoretop_E932	3868	12	3868	Cyperaceae	Cyperaceae	AQUA
+EPDcoretop_E932	4684	2	279	Trilete spore(s)	Trilete spore(s)	VACR
+EPDcoretop_E932	4756	1	4756	Vitis	Vitis	LIAN

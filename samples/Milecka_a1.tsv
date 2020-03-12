@@ -1,51 +1,51 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Milecka_a1	Alnus	Alnus	TRSH	39	3.6077706
-Milecka_a1	Betula	Betula	TRSH	65	6.012951
-Milecka_a1	Calluna vulgaris	Calluna vulgaris	TRSH	1	0.092506938
-Milecka_a1	Carpinus betulus	Carpinus betulus	TRSH	3	0.27752081
-Milecka_a1	Corylus	Corylus	TRSH	3	0.27752081
-Milecka_a1	Ericales (tetrad)	Ericales (tetrad)	DWAR	9	0.83256244
-Milecka_a1	Fagus	Fagus	TRSH	2	0.18501388
-Milecka_a1	Fraxinus	Fraxinus	TRSH	1	0.092506938
-Milecka_a1	Picea	Picea	TRSH	5	0.46253469
-Milecka_a1	Pinus	Pinus	TRSH	437	40.425532
-Milecka_a1	Quercus	Quercus	TRSH	11	1.0175763
-Milecka_a1	Salix	Salix	TRSH	2	0.18501388
-Milecka_a1	Tilia	Tilia	TRSH	1	0.092506938
-Milecka_a1	Ulmus/Zelkova	Ulmus/Zelkova	TRSH	1	0.092506938
-Milecka_a1	Ambrosia	Ambrosia	HERB	1	0.092506938
-Milecka_a1	Apiaceae	Apiaceae	HERB	1	0.092506938
-Milecka_a1	Artemisia	Artemisia	HERB	4	0.37002775
-Milecka_a1	Aster-type	Aster-type	HERB	1	0.092506938
-Milecka_a1	Avena t.	Avena-type	HERB	1	0.092506938
-Milecka_a1	Brassicacaeae	Brassicaceae	HERB	2	0.18501388
-Milecka_a1	Cerealia-type	Cerealia-type	HERB	3	0.27752081
-Milecka_a1	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	13	1.2025902
-Milecka_a1	Cyperaceae	Cyperaceae	HERB	25	2.3126735
-Milecka_a1	Hordeum-type	Hordeum-type	HERB	2	0.18501388
-Milecka_a1	Humulus/Cannabis	Humulus/Cannabis	HERB	1	0.092506938
-Milecka_a1	Plantago lanceolata-type	Plantago lanceolata-type	HERB	5	0.46253469
-Milecka_a1	Poaceae	Poaceae	HERB	32	2.960222
-Milecka_a1	Polygonum aviculare-type	Polygonum aviculare-type	HERB	3	0.27752081
-Milecka_a1	Potentilla-type	Potentilla-type	HERB	16	1.480111
-Milecka_a1	Ranunculus acris-type	Ranunculus acris-type	HERB	2	0.18501388
-Milecka_a1	Rumex acetosa-type	Rumex acetosa-type	HERB	5	0.46253469
-Milecka_a1	Secale cereale	Secale cereale	HERB	7	0.64754857
-Milecka_a1	Triticum-type	Triticum-type	HERB	5	0.46253469
-Milecka_a1	Urtica	Urtica	HERB	1	0.092506938
-Milecka_a1	Bryales	Bryophyte spores	BRYO	39	3.6077706
-Milecka_a1	Equisetum	Equisetum	VACR	2	0.18501388
-Milecka_a1	Lycopodium	Lycopodium	VACR	328	30.342276
-Milecka_a1	Thelypteris palustris	Thelypteris palustris	VACR	2	0.18501388
-Milecka_a1	Menyanthes trifoliata	Menyanthes trifoliata	AQUA	1	0.092506938
-Milecka_a1	Typha latifolia	Typha latifolia	HELO	2	0.18501388
-Milecka_a1	Charcoal concentration	Charcoal <50µm concentration	CHAR	4079	
-Milecka_a1	varia	Indeterminable: unknown	INUN	5	
-Milecka_a1	t. 74	Type 74	UNPP	1	
-Milecka_a1	Arcella	Arcella	RHIZ	12	
-Milecka_a1	Glomus	Glomus	FUNG	4	
-Milecka_a1	Microthyrium	Microthyrium	FUNG	1	
-Milecka_a1	Sphagnum	Sphagnum	NOPO	269	
-Milecka_a1	SCP	Spheroidal carbonaceous particle	NOPO	3	
-Milecka_a1	Tilletia sphagni	Tilletia sphagni	FUNG	14	
-Milecka_a1	t. 13	Type 13	FUNG	28	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Milecka_a1	5	39	5	Alnus	Alnus	TRSH
+Milecka_a1	586	1	586	Ambrosia	Ambrosia	HERB
+Milecka_a1	660	12	308	Arcella	Arcella	RHIZ
+Milecka_a1	2300	4079	704	Charcoal concentration	Charcoal <50µm concentration	CHAR
+Milecka_a1	6	1	6	Apiaceae	Apiaceae	HERB
+Milecka_a1	7	4	7	Artemisia	Artemisia	HERB
+Milecka_a1	12	65	12	Betula	Betula	TRSH
+Milecka_a1	147	39	147	Bryales	Bryophyte spores	BRYO
+Milecka_a1	201	3	31	Corylus	Corylus	TRSH
+Milecka_a1	457	1	457	Calluna vulgaris	Calluna vulgaris	TRSH
+Milecka_a1	563	3	16	Carpinus betulus	Carpinus betulus	TRSH
+Milecka_a1	597	1	11	Aster-type	Aster-type	HERB
+Milecka_a1	769	13	24	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB
+Milecka_a1	1065	3	22	Cerealia-type	Cerealia-type	HERB
+Milecka_a1	554	4	362	Glomus	Glomus	FUNG
+Milecka_a1	33	25	33	Cyperaceae	Cyperaceae	HERB
+Milecka_a1	145	2	145	Equisetum	Equisetum	VACR
+Milecka_a1	190	1	190	Fraxinus	Fraxinus	TRSH
+Milecka_a1	192	2	42	Fagus	Fagus	TRSH
+Milecka_a1	949	2	258	Hordeum-type	Hordeum-type	HERB
+Milecka_a1	1144	1	205	Humulus/Cannabis	Humulus/Cannabis	HERB
+Milecka_a1	2314	9	130	Ericales (tetrad)	Ericales (tetrad)	DWAR
+Milecka_a1	2344	1	2344	Microthyrium	Microthyrium	FUNG
+Milecka_a1	75	437	75	Pinus	Pinus	TRSH
+Milecka_a1	126	5	126	Picea	Picea	TRSH
+Milecka_a1	143	328	143	Lycopodium	Lycopodium	VACR
+Milecka_a1	961	1	175	Menyanthes trifoliata	Menyanthes trifoliata	AQUA
+Milecka_a1	1075	5	60	Plantago lanceolata-type	Plantago lanceolata-type	HERB
+Milecka_a1	80	32	80	Poaceae	Poaceae	HERB
+Milecka_a1	99	2	99	Salix	Salix	TRSH
+Milecka_a1	189	11	189	Quercus	Quercus	TRSH
+Milecka_a1	626	16	512	Potentilla-type	Potentilla-type	HERB
+Milecka_a1	630	2	87	Ranunculus acris-type	Ranunculus acris-type	HERB
+Milecka_a1	634	5	95	Rumex acetosa-type	Rumex acetosa-type	HERB
+Milecka_a1	1078	3	262	Polygonum aviculare-type	Polygonum aviculare-type	HERB
+Milecka_a1	2382	3	2382	SCP	Spheroidal carbonaceous particle	NOPO
+Milecka_a1	2395	28	2395	t. 13	Type 13	FUNG
+Milecka_a1	2396	1	2396	t. 74	Type 74	UNPP
+Milecka_a1	860	14	860	Tilletia sphagni	Tilletia sphagni	FUNG
+Milecka_a1	1940	5	177	varia	Indeterminable: unknown	INUN
+Milecka_a1	144	269	144	Sphagnum	Sphagnum	BRYO
+Milecka_a1	187	1	187	Tilia	Tilia	TRSH
+Milecka_a1	256	7	256	Secale cereale	Secale cereale	HERB
+Milecka_a1	652	1	652	Urtica	Urtica	HERB
+Milecka_a1	859	2	859	Thelypteris palustris	Thelypteris palustris	VACR
+Milecka_a1	1233	5	1199	Triticum-type	Triticum-type	HERB
+Milecka_a1	1287	2	417	Typha latifolia	Typha latifolia	AQUA
+Milecka_a1	2400	1	154	Ulmus/Zelkova	Ulmus/Zelkova	TRSH
+Milecka_a1	2281	1	1111	Avena t.	Avena-type	HERB
+Milecka_a1	2283	2	13	Brassicacaeae	Brassicaceae	HERB

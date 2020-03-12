@@ -1,37 +1,37 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Bjune_a75	Alnus	Alnus	TRSH	31	5.107084
-Bjune_a75	Betula	Betula	TRSH	151	24.876442
-Bjune_a75	Calluna vulgaris	Calluna vulgaris	DWAR	3	0.49423394
-Bjune_a75	Corylus avellana	Corylus	TRSH	2	0.32948929
-Bjune_a75	Ericaceae-type	Ericales (tetrad)	DWAR	1	0.16474465
-Bjune_a75	Fraxinus excelsior	Fraxinus excelsior-type	TRSH	1	0.16474465
-Bjune_a75	Juniperus communis	Juniperus communis-type	TRSH	17	2.800659
-Bjune_a75	Picea	Picea	TRSH	56	9.2257002
-Bjune_a75	Pinus sylvestris	Pinus sylvestris-type	TRSH	250	41.186161
-Bjune_a75	Populus tremula	Populus tremula-type	TRSH	2	0.32948929
-Bjune_a75	Quercus	Quercus	TRSH	3	0.49423394
-Bjune_a75	Salix undiff.	Salix	TRSH	2	0.32948929
-Bjune_a75	Tilia cordata	Tilia cordata-type	TRSH	4	0.65897858
-Bjune_a75	Artemisia	Artemisia	HERB	1	0.16474465
-Bjune_a75	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB	1	0.16474465
-Bjune_a75	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.16474465
-Bjune_a75	Filipendula	Filipendula	HERB	2	0.32948929
-Bjune_a75	Plantago lanceolata	Plantago lanceolata-type	HERB	2	0.32948929
-Bjune_a75	Gramineae undiff.	Poaceae	HERB	31	5.107084
-Bjune_a75	Rumex acetosa	Rumex acetosa-type	HERB	1	0.16474465
-Bjune_a75	Rumex acetosa-type/R. acetosella-type	Rumex acetosa-type	HERB	1	0.16474465
-Bjune_a75	Urtica	Urtica	HERB	4	0.65897858
-Bjune_a75	Dryopteris-type	Dryopteris-type	VACR	26	4.2833608
-Bjune_a75	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR	5	0.82372323
-Bjune_a75	Sphagnum	Sphagnum	BRYO	9	1.4827018
-Bjune_a75	Botryococcus	Botryococcus	ALGA	56	9.2257002
-Bjune_a75	Carex-type	Carex	AQUA	3	0.49423394
-Bjune_a75	Cyperaceae undiff.	Cyperaceae	AQUA	1	0.16474465
-Bjune_a75	Nymphaea	Nymphaea	AQUA	2	0.32948929
-Bjune_a75	Pediastrum	Pediastrum	ALGA	4	0.65897858
-Bjune_a75	Phragmites australis-type	Phragmites australis-type	AQUA	5	0.82372323
-Bjune_a75	Indeterminable: broken	Indeterminable: broken	INUN	1	
-Bjune_a75	Indeterminable: concealed	Indeterminable: concealed	INUN	1	
-Bjune_a75	Indeterminable: corroded	Indeterminable: corroded	INUN	2	
-Bjune_a75	Indeterminable: degraded	Indeterminable: degraded	INUN	1	
-Bjune_a75	Pinus: stomata	Pinus: stomata	MACR	1	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Bjune_a75	5	31	5	Alnus	Alnus	TRSH
+Bjune_a75	12	151	12	Betula	Betula	TRSH
+Bjune_a75	663	56	663	Botryococcus	Botryococcus	ALGA
+Bjune_a75	3646	3	3645	Calluna vulgaris	Calluna vulgaris	DWAR
+Bjune_a75	3665	3	3663	Carex-type	Carex	AQUA
+Bjune_a75	24	1	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Bjune_a75	3824	1	25	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Bjune_a75	31	2	31	Corylus avellana	Corylus	TRSH
+Bjune_a75	3873	1	3868	Cyperaceae undiff.	Cyperaceae	AQUA
+Bjune_a75	1247	26	772	Dryopteris-type	Dryopteris-type	VACR
+Bjune_a75	3944	1	130	Ericaceae-type	Ericales (tetrad)	DWAR
+Bjune_a75	45	2	45	Filipendula	Filipendula	HERB
+Bjune_a75	47	1	47	Fraxinus excelsior	Fraxinus excelsior-type	TRSH
+Bjune_a75	2121	5	1320	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR
+Bjune_a75	4072	1	998	Indeterminable: broken	Indeterminable: broken	INUN
+Bjune_a75	4073	1	999	Indeterminable: concealed	Indeterminable: concealed	INUN
+Bjune_a75	4074	2	1324	Indeterminable: corroded	Indeterminable: corroded	INUN
+Bjune_a75	718	1	718	Indeterminable: degraded	Indeterminable: degraded	INUN
+Bjune_a75	941	17	58	Juniperus communis	Juniperus communis-type	TRSH
+Bjune_a75	627	2	627	Nymphaea	Nymphaea	AQUA
+Bjune_a75	662	4	662	Pediastrum	Pediastrum	ALGA
+Bjune_a75	126	56	126	Picea	Picea	TRSH
+Bjune_a75	788	250	125	Pinus sylvestris	Pinus sylvestris-type	TRSH
+Bjune_a75	4310	1	4310	Pinus: stomata	Pinus: stomata	MACR
+Bjune_a75	60	2	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+Bjune_a75	95	1	95	Rumex acetosa	Rumex acetosa-type	HERB
+Bjune_a75	1400	2	99	Salix undiff.	Salix	TRSH
+Bjune_a75	144	9	144	Sphagnum	Sphagnum	BRYO
+Bjune_a75	1406	4	153	Tilia cordata	Tilia cordata-type	TRSH
+Bjune_a75	652	4	652	Urtica	Urtica	HERB
+Bjune_a75	7	1	7	Artemisia	Artemisia	HERB
+Bjune_a75	189	3	189	Quercus	Quercus	TRSH
+Bjune_a75	4018	31	80	Gramineae undiff.	Poaceae	HERB
+Bjune_a75	4286	5	4284	Phragmites australis-type	Phragmites australis-type	AQUA
+Bjune_a75	4381	2	4381	Populus tremula	Populus tremula-type	TRSH
+Bjune_a75	4504	1	95	Rumex acetosa-type/R. acetosella-type	Rumex acetosa-type	HERB

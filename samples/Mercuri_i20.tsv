@@ -1,40 +1,40 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Mercuri_i20	Betula	Betula	TRSH	1	0.3164557
-Mercuri_i20	Carpinus betulus	Carpinus betulus	TRSH	2	0.63291139
-Mercuri_i20	Cedrus	Cedrus	TRSH	2	0.63291139
-Mercuri_i20	Cornus mas	Cornus mas	TRSH	1	0.3164557
-Mercuri_i20	Eucalyptus	Eucalyptus	TRSH	2	0.63291139
-Mercuri_i20	Fraxinus	Fraxinus	TRSH	3	0.94936709
-Mercuri_i20	Juniperus type	Juniperus-type	TRSH	11	3.4810127
-Mercuri_i20	Olea	Olea europaea	TRSH	12	3.7974684
-Mercuri_i20	Pinus	Pinus	TRSH	14	4.4303797
-Mercuri_i20	deciduous Quercus	Quercus robur-type	TRSH	15	4.7468354
-Mercuri_i20	Rosa	Rosa	TRSH	1	0.3164557
-Mercuri_i20	Apiaceae	Apiaceae	HERB	6	1.8987342
-Mercuri_i20	Artemisia	Artemisia	HERB	4	1.2658228
-Mercuri_i20	Aster type	Aster-type	HERB	2	0.63291139
-Mercuri_i20	Cichorieae	Asteraceae subf. Cichorioideae	HERB	101	31.962025
-Mercuri_i20	Avena/Triticum group	Avena/Triticum-type	HERB	6	1.8987342
-Mercuri_i20	Brassica type	Brassicaceae	HERB	5	1.5822785
-Mercuri_i20	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	6	1.8987342
-Mercuri_i20	Centaurea nigra type	Centaurea nigra-type	HERB	8	2.5316456
-Mercuri_i20	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	15	4.7468354
-Mercuri_i20	Cirsium	Cirsium	HERB	1	0.3164557
-Mercuri_i20	Convolvulus	Convolvulus	HERB	2	0.63291139
-Mercuri_i20	Cyperaceae undiff.	Cyperaceae	HERB	4	1.2658228
-Mercuri_i20	Hordeum group	Hordeum-type	HERB	20	6.3291139
-Mercuri_i20	Hypericum	Hypericum	HERB	1	0.3164557
-Mercuri_i20	Knautia arvensis type	Knautia	HERB	1	0.3164557
-Mercuri_i20	Mentha type	Mentha-type	HERB	1	0.3164557
-Mercuri_i20	Plantago	Plantago	HERB	10	3.164557
-Mercuri_i20	Poaceae wild grass group	Poaceae	HERB	41	12.974684
-Mercuri_i20	Ranunculus type	Ranunculus-type	HERB	9	2.8481013
-Mercuri_i20	Sedum	Sedum-type	HERB	3	0.94936709
-Mercuri_i20	Trifolium	Trifolium-type	HERB	3	0.94936709
-Mercuri_i20	Urtica dioica type	Urtica dioica-type	HERB	3	0.94936709
-Mercuri_i20	Scirpus	Scirpus-type	HELO	2	0.63291139
-Mercuri_i20	Not determined	Indeterminable: unknown	INUN	9	
-Mercuri_i20	Lycopodium (added)	Lycopodium (added)	NOPO	10679	
-Mercuri_i20	Lycopodium (counted)	Lycopodium (counted)	NOPO	13	
-Mercuri_i20	Pollen Sum	Pollen sums	NOPO	327	
-Mercuri_i20	Weight (g)	Weight	NOPO	3.85	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Mercuri_i20	6	6	6	Apiaceae	Apiaceae	HERB
+Mercuri_i20	7	4	7	Artemisia	Artemisia	HERB
+Mercuri_i20	11	2	11	Aster type	Aster-type	HERB
+Mercuri_i20	12	1	12	Betula	Betula	TRSH
+Mercuri_i20	18	6	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Mercuri_i20	24	15	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Mercuri_i20	29	8	29	Centaurea nigra type	Centaurea nigra-type	HERB
+Mercuri_i20	563	2	16	Carpinus betulus	Carpinus betulus	TRSH
+Mercuri_i20	39	2	39	Eucalyptus	Eucalyptus	TRSH
+Mercuri_i20	54	1	54	Hypericum	Hypericum	HERB
+Mercuri_i20	190	3	190	Fraxinus	Fraxinus	TRSH
+Mercuri_i20	203	11	203	Juniperus type	Juniperus-type	TRSH
+Mercuri_i20	258	20	258	Hordeum group	Hordeum-type	HERB
+Mercuri_i20	1001	15	86	deciduous Quercus	Quercus robur-type	TRSH
+Mercuri_i20	692	10679	692	Lycopodium (added)	Lycopodium (added)	NOPO
+Mercuri_i20	559	13	559	Lycopodium (counted)	Lycopodium (counted)	NOPO
+Mercuri_i20	1843	9	177	Not determined	Indeterminable: unknown	INUN
+Mercuri_i20	75	14	75	Pinus	Pinus	TRSH
+Mercuri_i20	248	1	65	Mentha type	Mentha-type	HERB
+Mercuri_i20	442	12	68	Olea	Olea europaea	TRSH
+Mercuri_i20	1856	327	1856	Pollen Sum	Pollen sums	NOPO
+Mercuri_i20	724	10	270	Plantago	Plantago	HERB
+Mercuri_i20	979	9	274	Ranunculus type	Ranunculus-type	HERB
+Mercuri_i20	1083	1	632	Rosa	Rosa	TRSH
+Mercuri_i20	1521	2	1521	Scirpus	Scirpus-type	HELO
+Mercuri_i20	1855	41	80	Poaceae wild grass group	Poaceae	HERB
+Mercuri_i20	1879	3.85	1879	Weight (g)	Weight	NOPO
+Mercuri_i20	105	3	105	Sedum	Sedum-type	HERB
+Mercuri_i20	115	3	115	Trifolium	Trifolium-type	HERB
+Mercuri_i20	840	3	453	Urtica dioica type	Urtica dioica-type	HERB
+Mercuri_i20	576	2	340	Cedrus	Cedrus	TRSH
+Mercuri_i20	603	1	603	Cirsium	Cirsium	HERB
+Mercuri_i20	1131	4	33	Cyperaceae undiff.	Cyperaceae	HERB
+Mercuri_i20	1328	2	1328	Convolvulus	Convolvulus	HERB
+Mercuri_i20	1329	1	1329	Cornus mas	Cornus mas	TRSH
+Mercuri_i20	1804	6	818	Avena/Triticum group	Avena/Triticum-type	HERB
+Mercuri_i20	1807	5	13	Brassica type	Brassicaceae	HERB
+Mercuri_i20	1813	101	25	Cichorieae	Asteraceae subf. Cichorioideae	HERB
+Mercuri_i20	1830	1	1257	Knautia arvensis type	Knautia	HERB

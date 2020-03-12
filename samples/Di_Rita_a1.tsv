@@ -1,50 +1,50 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Di_Rita_a1	ABIES	Abies	TRSH	1	0.16
-Di_Rita_a1	ACER	Acer campestre-type	TRSH	2	0.32
-Di_Rita_a1	ALNUS	Alnus	TRSH	9	1.44
-Di_Rita_a1	CARPINUS BETULUS	Carpinus betulus	TRSH	3	0.48
-Di_Rita_a1	CASTANEA	Castanea sativa	TRSH	5	0.8
-Di_Rita_a1	CEDRUS	Cedrus	TRSH	2	0.32
-Di_Rita_a1	CORYLUS	Corylus	TRSH	11	1.76
-Di_Rita_a1	CUPRESSACEAE	Cupressaceae undiff.	TRSH	5	0.8
-Di_Rita_a1	ERICACEAE	Ericales (tetrad)	DWAR	1	0.16
-Di_Rita_a1	FAGUS	Fagus	TRSH	3	0.48
-Di_Rita_a1	FRAXINUS	Fraxinus	TRSH	8	1.28
-Di_Rita_a1	FRAXINUS ORNUS type	Fraxinus ornus	TRSH	35	5.6
-Di_Rita_a1	JUGLANS	Juglans	TRSH	1	0.16
-Di_Rita_a1	MYRTUS	Myrtaceae	TRSH	1	0.16
-Di_Rita_a1	OLEA	Olea europaea	TRSH	12	1.92
-Di_Rita_a1	OSTRYA	Ostrya/Carpinus orientalis	TRSH	19	3.04
-Di_Rita_a1	PHILLYREA	Phillyrea	TRSH	7	1.12
-Di_Rita_a1	PINUS	Pinus	TRSH	26	4.16
-Di_Rita_a1	PISTACIA	Pistacia	TRSH	11	1.76
-Di_Rita_a1	QUERCUS SUBER/CERRIS	Quercus cerris-type	TRSH	13	2.08
-Di_Rita_a1	QUERCUS ILEX type	Quercus ilex-type	TRSH	98	15.68
-Di_Rita_a1	QUERCUS ROBUR type	Quercus robur-type	TRSH	24	3.84
-Di_Rita_a1	ROSACEAE	Rosaceae	TRSH	1	0.16
-Di_Rita_a1	SALIX	Salix	TRSH	1	0.16
-Di_Rita_a1	SAMBUCUS	Sambucus	TRSH	2	0.32
-Di_Rita_a1	ULMUS	Ulmus/Zelkova	TRSH	7	1.12
-Di_Rita_a1	VITIS	Vitis	TRSH	1	0.16
-Di_Rita_a1	APIACEAE	Apiaceae	HERB	24	3.84
-Di_Rita_a1	ARTEMISIA	Artemisia	HERB	1	0.16
-Di_Rita_a1	ASTEROIDEAE	Asteraceae subf. Asteroideae	HERB	13	2.08
-Di_Rita_a1	CICHORIOIDEAE	Asteraceae subf. Cichorioideae	HERB	34	5.44
-Di_Rita_a1	BRASSICACEAE	Brassicaceae	HERB	7	1.12
-Di_Rita_a1	URTICACEAE	Cannabaceae/Urticaceae	HERB	1	0.16
-Di_Rita_a1	CARYOPHYLLACEAE	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	1	0.16
-Di_Rita_a1	cereal type	Cerealia-type	HERB	7	1.12
-Di_Rita_a1	CHENOPODIACEAE/AMARANTHACEAE	Chenopodiaceae/Amaranthaceae	HERB	4	0.64
-Di_Rita_a1	CYPERACEAE/JUNCACEAE	Cyperaceae	HERB	1	0.16
-Di_Rita_a1	DIPSACACEAE	Dipsacaceae	HERB	1	0.16
-Di_Rita_a1	EUPHORBIA	Euphorbia	HERB	10	1.6
-Di_Rita_a1	FABACEAE	Fabaceae	HERB	1	0.16
-Di_Rita_a1	LAMIACEAE	Lamiaceae	HERB	2	0.32
-Di_Rita_a1	MERCURIALIS type	Mercurialis	HERB	1	0.16
-Di_Rita_a1	POACEAE	Poaceae	HERB	190	30.4
-Di_Rita_a1	RANUNCULACEAE	Ranunculaceae	HERB	5	0.8
-Di_Rita_a1	RUBIACEAE	Rubiaceae	HERB	1	0.16
-Di_Rita_a1	POTERIUM	Sanguisorba minor-type	HERB	1	0.16
-Di_Rita_a1	SCROPHULARIACEAE	Scrophulariaceae (colporate-reticulate)	HERB	11	1.76
-Di_Rita_a1	Indeterminable grains	Indeterminable: unknown	INUN	6	
-Di_Rita_a1	GLOMUS	Glomus	FUNG	6	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Di_Rita_a1	321	1	321	ABIES	Abies	TRSH
+Di_Rita_a1	362	6	362	GLOMUS	Glomus	FUNG
+Di_Rita_a1	365	6	177	Indeterminable grains	Indeterminable: unknown	INUN
+Di_Rita_a1	422	1	122	VITIS	Vitis	TRSH
+Di_Rita_a1	322	2	2	ACER	Acer campestre-type	TRSH
+Di_Rita_a1	324	9	5	ALNUS	Alnus	TRSH
+Di_Rita_a1	326	24	6	APIACEAE	Apiaceae	HERB
+Di_Rita_a1	328	1	7	ARTEMISIA	Artemisia	HERB
+Di_Rita_a1	329	13	160	ASTEROIDEAE	Asteraceae subf. Asteroideae	HERB
+Di_Rita_a1	332	7	13	BRASSICACEAE	Brassicaceae	HERB
+Di_Rita_a1	337	3	16	CARPINUS BETULUS	Carpinus betulus	TRSH
+Di_Rita_a1	338	1	18	CARYOPHYLLACEAE	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Di_Rita_a1	339	5	19	CASTANEA	Castanea sativa	TRSH
+Di_Rita_a1	340	2	340	CEDRUS	Cedrus	TRSH
+Di_Rita_a1	342	7	22	cereal type	Cerealia-type	HERB
+Di_Rita_a1	343	4	24	CHENOPODIACEAE/AMARANTHACEAE	Chenopodiaceae/Amaranthaceae	HERB
+Di_Rita_a1	344	34	25	CICHORIOIDEAE	Asteraceae subf. Cichorioideae	HERB
+Di_Rita_a1	346	11	31	CORYLUS	Corylus	TRSH
+Di_Rita_a1	347	5	347	CUPRESSACEAE	Cupressaceae undiff.	TRSH
+Di_Rita_a1	350	1	33	CYPERACEAE/JUNCACEAE	Cyperaceae	HERB
+Di_Rita_a1	351	1	164	DIPSACACEAE	Dipsacaceae	HERB
+Di_Rita_a1	354	1	130	ERICACEAE	Ericales (tetrad)	DWAR
+Di_Rita_a1	355	10	40	EUPHORBIA	Euphorbia	HERB
+Di_Rita_a1	356	1	41	FABACEAE	Fabaceae	HERB
+Di_Rita_a1	357	3	42	FAGUS	Fagus	TRSH
+Di_Rita_a1	359	8	190	FRAXINUS	Fraxinus	TRSH
+Di_Rita_a1	361	35	44	FRAXINUS ORNUS type	Fraxinus ornus	TRSH
+Di_Rita_a1	367	1	57	JUGLANS	Juglans	TRSH
+Di_Rita_a1	369	2	59	LAMIACEAE	Lamiaceae	HERB
+Di_Rita_a1	373	1	227	MERCURIALIS type	Mercurialis	HERB
+Di_Rita_a1	377	1	377	MYRTUS	Myrtaceae	TRSH
+Di_Rita_a1	378	12	68	OLEA	Olea europaea	TRSH
+Di_Rita_a1	379	19	70	OSTRYA	Ostrya/Carpinus orientalis	TRSH
+Di_Rita_a1	382	7	74	PHILLYREA	Phillyrea	TRSH
+Di_Rita_a1	384	26	75	PINUS	Pinus	TRSH
+Di_Rita_a1	385	11	77	PISTACIA	Pistacia	TRSH
+Di_Rita_a1	388	190	80	POACEAE	Poaceae	HERB
+Di_Rita_a1	392	1	101	POTERIUM	Sanguisorba minor-type	HERB
+Di_Rita_a1	396	98	85	QUERCUS ILEX type	Quercus ilex-type	TRSH
+Di_Rita_a1	397	24	86	QUERCUS ROBUR type	Quercus robur-type	TRSH
+Di_Rita_a1	399	13	84	QUERCUS SUBER/CERRIS	Quercus cerris-type	TRSH
+Di_Rita_a1	400	5	135	RANUNCULACEAE	Ranunculaceae	HERB
+Di_Rita_a1	406	1	99	SALIX	Salix	TRSH
+Di_Rita_a1	407	2	407	SAMBUCUS	Sambucus	TRSH
+Di_Rita_a1	408	11	173	SCROPHULARIACEAE	Scrophulariaceae (colporate-reticulate)	HERB
+Di_Rita_a1	419	7	154	ULMUS	Ulmus/Zelkova	TRSH
+Di_Rita_a1	420	1	335	URTICACEAE	Cannabaceae/Urticaceae	HERB
+Di_Rita_a1	402	1	92	ROSACEAE	Rosaceae	TRSH
+Di_Rita_a1	403	1	93	RUBIACEAE	Rubiaceae	HERB

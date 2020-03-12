@@ -1,35 +1,35 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Barboni_a1261	Abies	Abies	TRSH	1	0.3236246
-Barboni_a1261	Alnus	Alnus	TRSH	13	4.2071197
-Barboni_a1261	Daphne	Daphne	DWAR	1	0.3236246
-Barboni_a1261	Ericaceae undiff.	Ericales (tetrad)	DWAR	1	0.3236246
-Barboni_a1261	Fagus	Fagus	TRSH	28	9.0614887
-Barboni_a1261	Fraxinus excelsior	Fraxinus excelsior-type	TRSH	3	0.97087379
-Barboni_a1261	Fraxinus ornus	Fraxinus ornus	TRSH	6	1.9417476
-Barboni_a1261	Juglans	Juglans	TRSH	3	0.97087379
-Barboni_a1261	Olea	Olea europaea	TRSH	15	4.8543689
-Barboni_a1261	Ostrya-type	Ostrya/Carpinus orientalis	TRSH	6	1.9417476
-Barboni_a1261	Pinus	Pinus	TRSH	6	1.9417476
-Barboni_a1261	Quercus undiff.	Quercus	TRSH	8	2.5889968
-Barboni_a1261	Quercus ilex-type	Quercus ilex-type	TRSH	6	1.9417476
-Barboni_a1261	Quercus pubescens-type	Quercus robur-type	TRSH	4	1.2944984
-Barboni_a1261	Ulmus	Ulmus/Zelkova	TRSH	2	0.64724919
-Barboni_a1261	Umbelliferae	Apiaceae	HERB	18	5.8252427
-Barboni_a1261	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB	1	0.3236246
-Barboni_a1261	Bidens-type	Bidens-type	HERB	9	2.9126214
-Barboni_a1261	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	19	6.1488673
-Barboni_a1261	Hordeum-type	Hordeum-type	HERB	3	0.97087379
-Barboni_a1261	Iris	Iris	HERB	2	0.64724919
-Barboni_a1261	Anthemis-type	Matricaria-type	HERB	7	2.2653722
-Barboni_a1261	Oxyria	Oxyria digyna	HERB	1	0.3236246
-Barboni_a1261	Campanula	Phyteuma-type	HERB	3	0.97087379
-Barboni_a1261	Plantago undiff.	Plantago	HERB	11	3.5598706
-Barboni_a1261	Gramineae	Poaceae	HERB	111	35.92233
-Barboni_a1261	Ranunculus	Ranunculus-type	HERB	11	3.5598706
-Barboni_a1261	Galium-type	Rubiaceae	HERB	6	1.9417476
-Barboni_a1261	Sinapis-type	Sinapis-type	HERB	1	0.3236246
-Barboni_a1261	Asplenium	Asplenium-type	VACR	1	0.3236246
-Barboni_a1261	Equisetum	Equisetum	VACR	1	0.3236246
-Barboni_a1261	Polypodium	Polypodium	VACR	1	0.3236246
-Barboni_a1261	Cyperaceae	Cyperaceae	AQUA	41	13.268608
-Barboni_a1261	Myriophyllum verticillatum	Myriophyllum verticillatum	AQUA	1	0.3236246
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Barboni_a1261	560	1	321	Abies	Abies	TRSH
+Barboni_a1261	5	13	5	Alnus	Alnus	TRSH
+Barboni_a1261	589	7	3	Anthemis-type	Matricaria-type	HERB
+Barboni_a1261	1535	1	216	Asplenium	Asplenium-type	VACR
+Barboni_a1261	602	3	483	Campanula	Phyteuma-type	HERB
+Barboni_a1261	18	19	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Barboni_a1261	3868	41	3868	Cyperaceae	Cyperaceae	AQUA
+Barboni_a1261	145	1	145	Equisetum	Equisetum	VACR
+Barboni_a1261	716	1	130	Ericaceae undiff.	Ericales (tetrad)	DWAR
+Barboni_a1261	192	28	42	Fagus	Fagus	TRSH
+Barboni_a1261	47	3	47	Fraxinus excelsior	Fraxinus excelsior-type	TRSH
+Barboni_a1261	44	6	44	Fraxinus ornus	Fraxinus ornus	TRSH
+Barboni_a1261	605	6	93	Galium-type	Rubiaceae	HERB
+Barboni_a1261	1601	111	80	Gramineae	Poaceae	HERB
+Barboni_a1261	949	3	258	Hordeum-type	Hordeum-type	HERB
+Barboni_a1261	57	3	57	Juglans	Juglans	TRSH
+Barboni_a1261	1575	1	1262	Myriophyllum verticillatum	Myriophyllum verticillatum	AQUA
+Barboni_a1261	442	15	68	Olea	Olea europaea	TRSH
+Barboni_a1261	572	6	70	Ostrya-type	Ostrya/Carpinus orientalis	TRSH
+Barboni_a1261	745	1	241	Oxyria	Oxyria digyna	HERB
+Barboni_a1261	75	6	75	Pinus	Pinus	TRSH
+Barboni_a1261	1854	11	270	Plantago undiff.	Plantago	HERB
+Barboni_a1261	666	1	214	Polypodium	Polypodium	VACR
+Barboni_a1261	1052	6	85	Quercus ilex-type	Quercus ilex-type	TRSH
+Barboni_a1261	629	11	274	Ranunculus	Ranunculus-type	HERB
+Barboni_a1261	1403	1	246	Sinapis-type	Sinapis-type	HERB
+Barboni_a1261	154	2	154	Ulmus	Ulmus/Zelkova	TRSH
+Barboni_a1261	590	18	6	Umbelliferae	Apiaceae	HERB
+Barboni_a1261	1759	4	86	Quercus pubescens-type	Quercus robur-type	TRSH
+Barboni_a1261	2173	8	189	Quercus undiff.	Quercus	TRSH
+Barboni_a1261	2282	9	1459	Bidens-type	Bidens-type	HERB
+Barboni_a1261	3253	2	3253	Iris	Iris	HERB
+Barboni_a1261	3824	1	25	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Barboni_a1261	3879	1	3879	Daphne	Daphne	DWAR

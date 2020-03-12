@@ -1,38 +1,38 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Sadori_d5	Acer	Acer campestre-type	TRSH	1	0.16155089
-Sadori_d5	Alnus	Alnus	TRSH	6	0.96930533
-Sadori_d5	Betula	Betula	TRSH	1	0.16155089
-Sadori_d5	Carpinus betulus	Carpinus betulus	TRSH	55	8.8852989
-Sadori_d5	Castanea	Castanea sativa	TRSH	5	0.80775444
-Sadori_d5	Corylus	Corylus	TRSH	6	0.96930533
-Sadori_d5	Ericaceae	Ericales (tetrad)	DWAR	3	0.48465267
-Sadori_d5	Fagus	Fagus	TRSH	234	37.802908
-Sadori_d5	Fraxinus	Fraxinus	TRSH	17	2.7463651
-Sadori_d5	Ilex	Ilex	TRSH	8	1.2924071
-Sadori_d5	Juglans	Juglans	TRSH	3	0.48465267
-Sadori_d5	Juniperus	Juniperus communis-type	TRSH	11	1.7770598
-Sadori_d5	Olea	Olea europaea	TRSH	5	0.80775444
-Sadori_d5	Ostrya	Ostrya/Carpinus orientalis	TRSH	70	11.308562
-Sadori_d5	Pinus	Pinus	TRSH	34	5.4927302
-Sadori_d5	Quercus ilex-type	Quercus ilex-type	TRSH	6	0.96930533
-Sadori_d5	Quercus deciduous	Quercus robur-type	TRSH	42	6.7851373
-Sadori_d5	Salix	Salix	TRSH	5	0.80775444
-Sadori_d5	Sambucus	Sambucus	TRSH	2	0.32310178
-Sadori_d5	Viburnum	Viburnum	TRSH	6	0.96930533
-Sadori_d5	Umbelliferae	Apiaceae	HERB	2	0.32310178
-Sadori_d5	Artemisia	Artemisia	HERB	3	0.48465267
-Sadori_d5	Asteroideae	Asteraceae subf. Asteroideae	HERB	2	0.32310178
-Sadori_d5	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	6	0.96930533
-Sadori_d5	Cruciferae	Brassicaceae	HERB	30	4.8465267
-Sadori_d5	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	3	0.48465267
-Sadori_d5	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	7	1.1308562
-Sadori_d5	Labiatae	Lamiaceae	HERB	2	0.32310178
-Sadori_d5	Leguminosae	Leguminosae	HERB	1	0.16155089
-Sadori_d5	Oxalidaceae	Oxalis	HERB	5	0.80775444
-Sadori_d5	Gramineae	Poaceae	HERB	29	4.6849758
-Sadori_d5	Rubiaceae	Rubiaceae	HERB	3	0.48465267
-Sadori_d5	Rumex	Rumex/Oxyria	HERB	4	0.64620355
-Sadori_d5	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	1	0.16155089
-Sadori_d5	Urticaceae	Urticaceae	HERB	1	0.16155089
-Sadori_d5	Lycopodium (added)	Lycopodium (added)	NOPO	54000	
-Sadori_d5	Lycopodium (counted)	Lycopodium (counted)	NOPO	158	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Sadori_d5	5	6	5	Alnus	Alnus	TRSH
+Sadori_d5	7	3	7	Artemisia	Artemisia	HERB
+Sadori_d5	761	2	160	Asteroideae	Asteraceae subf. Asteroideae	HERB
+Sadori_d5	12	1	12	Betula	Betula	TRSH
+Sadori_d5	563	55	16	Carpinus betulus	Carpinus betulus	TRSH
+Sadori_d5	18	3	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Sadori_d5	24	7	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Sadori_d5	130	3	130	Ericaceae	Ericales (tetrad)	DWAR
+Sadori_d5	192	234	42	Fagus	Fagus	TRSH
+Sadori_d5	190	17	190	Fraxinus	Fraxinus	TRSH
+Sadori_d5	435	8	55	Ilex	Ilex	TRSH
+Sadori_d5	57	3	57	Juglans	Juglans	TRSH
+Sadori_d5	58	11	58	Juniperus	Juniperus communis-type	TRSH
+Sadori_d5	744	1	744	Leguminosae	Leguminosae	HERB
+Sadori_d5	692	54000	692	Lycopodium (added)	Lycopodium (added)	NOPO
+Sadori_d5	559	158	559	Lycopodium (counted)	Lycopodium (counted)	NOPO
+Sadori_d5	442	5	68	Olea	Olea europaea	TRSH
+Sadori_d5	167	5	167	Oxalidaceae	Oxalis	HERB
+Sadori_d5	75	34	75	Pinus	Pinus	TRSH
+Sadori_d5	1052	6	85	Quercus ilex-type	Quercus ilex-type	TRSH
+Sadori_d5	727	4	94	Rumex	Rumex/Oxyria	HERB
+Sadori_d5	99	5	99	Salix	Salix	TRSH
+Sadori_d5	590	2	6	Umbelliferae	Apiaceae	HERB
+Sadori_d5	809	1	809	Urticaceae	Urticaceae	HERB
+Sadori_d5	2	1	2	Acer	Acer campestre-type	TRSH
+Sadori_d5	120	6	120	Viburnum	Viburnum	TRSH
+Sadori_d5	173	1	173	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB
+Sadori_d5	201	6	31	Corylus	Corylus	TRSH
+Sadori_d5	437	42	86	Quercus deciduous	Quercus robur-type	TRSH
+Sadori_d5	441	5	19	Castanea	Castanea sativa	TRSH
+Sadori_d5	447	6	25	Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Sadori_d5	481	2	407	Sambucus	Sambucus	TRSH
+Sadori_d5	482	30	13	Cruciferae	Brassicaceae	HERB
+Sadori_d5	485	2	59	Labiatae	Lamiaceae	HERB
+Sadori_d5	571	70	70	Ostrya	Ostrya/Carpinus orientalis	TRSH
+Sadori_d5	1601	29	80	Gramineae	Poaceae	HERB
+Sadori_d5	93	3	93	Rubiaceae	Rubiaceae	HERB

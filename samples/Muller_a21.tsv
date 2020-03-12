@@ -1,22 +1,22 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Muller_a21	Alnus fruticosa	Alnus viridis	TRSH	27	8.5173502
-Muller_a21	Betula sect. Nanae	Betula nana-type	DWAR	70	22.082019
-Muller_a21	Betula sect. Albae	Betula pubescens-type	TRSH	4	1.2618297
-Muller_a21	Larix	Larix/Pseudotsuga	TRSH	26	8.2018927
-Muller_a21	Picea	Picea	TRSH	70	22.082019
-Muller_a21	Pinus haploxylon-type	Pinus cembra-type	TRSH	6	1.8927445
-Muller_a21	Pinus diploxylon-type	Pinus sylvestris-type	TRSH	83	26.182965
-Muller_a21	Salix	Salix	TRSH	6	1.8927445
-Muller_a21	Ericaceae vaccinium-type	Vaccinium	DWAR	3	0.94637224
-Muller_a21	Artemisia	Artemisia	HERB	6	1.8927445
-Muller_a21	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.31545741
-Muller_a21	Cyperaceae	Cyperaceae	HERB	5	1.5772871
-Muller_a21	Poaceae	Poaceae	HERB	5	1.5772871
-Muller_a21	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	1	0.31545741
-Muller_a21	Ranunculaceae thalictrum	Thalictrum	HERB	4	1.2618297
-Muller_a21	Pollen indeterminata	Indeterminable: unknown	INUN	2	
-Muller_a21	Spores indeterminata	Indeterminable: unknown	INUN	1	
-Muller_a21	Pollen, terrestrial	Indeterminable: unknown	INUN	319	
-Muller_a21	Lycopodium spores counted	Lycopodium (counted)	NOPO	212	
-Muller_a21	Pollen per unit sediment mass	Pollen per unit sediment mass (/g)	NOPO	3214	
-Muller_a21	Stomata	Stomata	VEMI	1	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Muller_a21	123	26	123	Larix	Larix/Pseudotsuga	TRSH
+Muller_a21	126	70	126	Picea	Picea	TRSH
+Muller_a21	128	4	128	Betula sect. Albae	Betula pubescens-type	TRSH
+Muller_a21	1049	83	125	Pinus diploxylon-type	Pinus sylvestris-type	TRSH
+Muller_a21	127	70	127	Betula sect. Nanae	Betula nana-type	DWAR
+Muller_a21	1050	6	124	Pinus haploxylon-type	Pinus cembra-type	TRSH
+Muller_a21	7	6	7	Artemisia	Artemisia	HERB
+Muller_a21	33	5	33	Cyperaceae	Cyperaceae	HERB
+Muller_a21	80	5	80	Poaceae	Poaceae	HERB
+Muller_a21	2900	2	177	Pollen indeterminata	Indeterminable: unknown	INUN
+Muller_a21	24	1	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Muller_a21	2987	3	540	Ericaceae vaccinium-type	Vaccinium	TRSH
+Muller_a21	173	1	173	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB
+Muller_a21	2969	4	112	Ranunculaceae thalictrum	Thalictrum	HERB
+Muller_a21	2981	1	2771	Stomata	Stomata	VEMI
+Muller_a21	2999	1	177	Spores indeterminata	Indeterminable: unknown	INUN
+Muller_a21	2970	319	177	Pollen, terrestrial	Indeterminable: unknown	INUN
+Muller_a21	3000	212	559	Lycopodium spores counted	Lycopodium (counted)	NOPO
+Muller_a21	3001	3214	3001	Pollen per unit sediment mass	Pollen per unit sediment mass (/g)	NOPO
+Muller_a21	99	6	99	Salix	Salix	TRSH
+Muller_a21	2962	27	129	Alnus fruticosa	Alnus viridis	TRSH

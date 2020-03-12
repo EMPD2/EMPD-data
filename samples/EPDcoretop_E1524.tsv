@@ -1,39 +1,39 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-EPDcoretop_E1524	Abies	Abies	TRSH	2	0.43956044
-EPDcoretop_E1524	Acer	Acer campestre-type	TRSH	1	0.21978022
-EPDcoretop_E1524	Alnus	Alnus	TRSH	15	3.2967033
-EPDcoretop_E1524	Betula	Betula	TRSH	24	5.2747253
-EPDcoretop_E1524	Calluna	Calluna vulgaris	DWAR	1	0.21978022
-EPDcoretop_E1524	Carpinus	Carpinus betulus	TRSH	1	0.21978022
-EPDcoretop_E1524	Corylus	Corylus	TRSH	1	0.21978022
-EPDcoretop_E1524	Fagus	Fagus	TRSH	5	1.0989011
-EPDcoretop_E1524	Fraxinus	Fraxinus	TRSH	1	0.21978022
-EPDcoretop_E1524	Juniperus	Juniperus communis-type	TRSH	1	0.21978022
-EPDcoretop_E1524	Picea	Picea	TRSH	20	4.3956044
-EPDcoretop_E1524	Pinus	Pinus	TRSH	100	21.978022
-EPDcoretop_E1524	Quercus	Quercus	TRSH	11	2.4175824
-EPDcoretop_E1524	Rosaceae	Rosaceae	TRSH	1	0.21978022
-EPDcoretop_E1524	Salix	Salix	TRSH	5	1.0989011
-EPDcoretop_E1524	Tilia	Tilia	TRSH	1	0.21978022
-EPDcoretop_E1524	Ulmus	Ulmus/Zelkova	TRSH	1	0.21978022
-EPDcoretop_E1524	Umbelliferae	Apiaceae	HERB	2	0.43956044
-EPDcoretop_E1524	Asteraceae	Asteraceae	HERB	2	0.43956044
-EPDcoretop_E1524	Brassicaceae	Brassicaceae	HERB	1	0.21978022
-EPDcoretop_E1524	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	4	0.87912088
-EPDcoretop_E1524	Cyperaceae	Cyperaceae	HERB	159	34.945055
-EPDcoretop_E1524	Filipendula	Filipendula	HERB	3	0.65934066
-EPDcoretop_E1524	Liliaceae	Liliaceae-type	HERB	2	0.43956044
-EPDcoretop_E1524	Melampyrum	Melampyrum	HERB	1	0.21978022
-EPDcoretop_E1524	Pedicularis	Pedicularis	HERB	1	0.21978022
-EPDcoretop_E1524	Plantago lanceolata	Plantago lanceolata-type	HERB	2	0.43956044
-EPDcoretop_E1524	Plantago alpina	Plantago maritima-type	HERB	3	0.65934066
-EPDcoretop_E1524	Plantago media	Plantago media	HERB	2	0.43956044
-EPDcoretop_E1524	Poaceae	Poaceae	HERB	53	11.648352
-EPDcoretop_E1524	Ranunculaceae	Ranunculaceae	HERB	3	0.65934066
-EPDcoretop_E1524	Rumex	Rumex/Oxyria	HERB	2	0.43956044
-EPDcoretop_E1524	Secale cereale	Secale cereale	HERB	10	2.1978022
-EPDcoretop_E1524	Urtica	Urtica	HERB	2	0.43956044
-EPDcoretop_E1524	Dryopteris-type	Dryopteris-type	VACR	8	1.7582418
-EPDcoretop_E1524	Equisetum	Equisetum	VACR	1	0.21978022
-EPDcoretop_E1524	Riccia	Riccia	BRYO	1	0.21978022
-EPDcoretop_E1524	Sphagnum	Sphagnum	BRYO	2	0.43956044
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+EPDcoretop_E1524	2	1	2	Acer	Acer campestre-type	TRSH
+EPDcoretop_E1524	5	15	5	Alnus	Alnus	TRSH
+EPDcoretop_E1524	12	24	12	Betula	Betula	TRSH
+EPDcoretop_E1524	13	1	13	Brassicaceae	Brassicaceae	HERB
+EPDcoretop_E1524	16	1	16	Carpinus	Carpinus betulus	TRSH
+EPDcoretop_E1524	24	4	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+EPDcoretop_E1524	33	159	33	Cyperaceae	Cyperaceae	HERB
+EPDcoretop_E1524	45	3	45	Filipendula	Filipendula	HERB
+EPDcoretop_E1524	58	1	58	Juniperus	Juniperus communis-type	TRSH
+EPDcoretop_E1524	60	2	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+EPDcoretop_E1524	62	2	62	Liliaceae	Liliaceae-type	HERB
+EPDcoretop_E1524	75	100	75	Pinus	Pinus	TRSH
+EPDcoretop_E1524	80	53	80	Poaceae	Poaceae	HERB
+EPDcoretop_E1524	99	5	99	Salix	Salix	TRSH
+EPDcoretop_E1524	126	20	126	Picea	Picea	TRSH
+EPDcoretop_E1524	134	2	134	Asteraceae	Asteraceae	HERB
+EPDcoretop_E1524	135	3	135	Ranunculaceae	Ranunculaceae	HERB
+EPDcoretop_E1524	144	2	144	Sphagnum	Sphagnum	BRYO
+EPDcoretop_E1524	145	1	145	Equisetum	Equisetum	VACR
+EPDcoretop_E1524	154	1	154	Ulmus	Ulmus/Zelkova	TRSH
+EPDcoretop_E1524	187	1	187	Tilia	Tilia	TRSH
+EPDcoretop_E1524	189	11	189	Quercus	Quercus	TRSH
+EPDcoretop_E1524	190	1	190	Fraxinus	Fraxinus	TRSH
+EPDcoretop_E1524	192	5	42	Fagus	Fagus	TRSH
+EPDcoretop_E1524	201	1	31	Corylus	Corylus	TRSH
+EPDcoretop_E1524	256	10	256	Secale cereale	Secale cereale	HERB
+EPDcoretop_E1524	473	1	473	Melampyrum	Melampyrum	HERB
+EPDcoretop_E1524	495	1	495	Riccia	Riccia	BRYO
+EPDcoretop_E1524	560	2	321	Abies	Abies	TRSH
+EPDcoretop_E1524	590	2	6	Umbelliferae	Apiaceae	HERB
+EPDcoretop_E1524	652	2	652	Urtica	Urtica	HERB
+EPDcoretop_E1524	727	2	94	Rumex	Rumex/Oxyria	HERB
+EPDcoretop_E1524	753	1	753	Pedicularis	Pedicularis	HERB
+EPDcoretop_E1524	1169	2	698	Plantago media	Plantago media	HERB
+EPDcoretop_E1524	1247	8	772	Dryopteris-type	Dryopteris-type	VACR
+EPDcoretop_E1524	2523	3	64	Plantago alpina	Plantago maritima-type	HERB
+EPDcoretop_E1524	3645	1	3645	Calluna	Calluna vulgaris	DWAR
+EPDcoretop_E1524	92	1	92	Rosaceae	Rosaceae	TRSH

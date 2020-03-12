@@ -1,53 +1,53 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Connor_b1	Alnus glutinosa-type	Alnus glutinosa-type	TRSH	1	0.10869565
-Connor_b1	Calluna vulgaris	Calluna vulgaris	DWAR	9	0.97826087
-Connor_b1	Casuarina	Casuarina	TRSH	1	0.10869565
-Connor_b1	Ceratonia siliqua	Ceratonia siliqua	TRSH	1	0.10869565
-Connor_b1	Cistus salviifolius-type	Cistus salvifolius	TRSH	23	2.5
-Connor_b1	Erica arborea-type	Erica arborea-type	DWAR	1	0.10869565
-Connor_b1	Eucalyptus	Eucalyptus	TRSH	1	0.10869565
-Connor_b1	Myrica	Myrica	TRSH	2	0.2173913
-Connor_b1	Olea europaea	Olea europaea	TRSH	25	2.7173913
-Connor_b1	Phillyrea	Phillyrea	TRSH	2	0.2173913
-Connor_b1	Pinus	Pinus	TRSH	283	30.76087
-Connor_b1	Pistacia	Pistacia	TRSH	7	0.76086957
-Connor_b1	Quercus suber-type	Quercus cerris-type	TRSH	21	2.2826087
-Connor_b1	Quercus deciduous	Quercus robur-type	TRSH	3	0.32608696
-Connor_b1	Rosaceae undiff.	Rosa	TRSH	1	0.10869565
-Connor_b1	Rosmarinus-type	Salvia officinalis-type	DWAR	2	0.2173913
-Connor_b1	Tamarix	Tamarix	TRSH	6	0.65217391
-Connor_b1	Allium-type	Allium-type	HERB	1	0.10869565
-Connor_b1	Artemisia	Artemisia	HERB	2	0.2173913
-Connor_b1	Aster-type	Aster-type	HERB	48	5.2173913
-Connor_b1	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	1	0.10869565
-Connor_b1	Triticum	Avena/Triticum-type	HERB	2	0.2173913
-Connor_b1	Bidens-type	Bidens-type	HERB	1	0.10869565
-Connor_b1	Brassicaceae	Brassicaceae	HERB	2	0.2173913
-Connor_b1	Carduus-type	Carduus-type	HERB	1	0.10869565
-Connor_b1	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	7	0.76086957
-Connor_b1	Chrysosplenium-type	Chrysosplenium	HERB	1	0.10869565
-Connor_b1	Cistus albidus-type	Cistus albidus-type	HERB	14	1.5217391
-Connor_b1	Cistus ladanifer-type	Cistus ladanifer-type	HERB	2	0.2173913
-Connor_b1	Echium	Echium	HERB	5	0.54347826
-Connor_b1	Eryngium	Eryngium	HERB	1	0.10869565
-Connor_b1	Halimium/Tuberaria	Halimium/Tuberaria	HERB	6	0.65217391
-Connor_b1	Lamiaceae	Lamiaceae	HERB	2	0.2173913
-Connor_b1	Anthemis-type	Matricaria-type	HERB	114	12.391304
-Connor_b1	Mentha-type	Mentha-type	HERB	6	0.65217391
-Connor_b1	Plantaginaceae undiff.	Plantaginaceae	HERB	12	1.3043478
-Connor_b1	Plantago coronopus	Plantago coronopus-type	HERB	52	5.6521739
-Connor_b1	Plantago lanceolata-type	Plantago lanceolata-type	HERB	146	15.869565
-Connor_b1	Plantago major-type	Plantago major	HERB	31	3.3695652
-Connor_b1	Plantago maritima-type	Plantago maritima-type	HERB	1	0.10869565
-Connor_b1	Poaceae	Poaceae	HERB	29	3.1521739
-Connor_b1	Primula	Primula	HERB	7	0.76086957
-Connor_b1	Reseda lutea-type	Reseda	HERB	3	0.32608696
-Connor_b1	Rumex acetosella-type	Rumex acetosella	HERB	1	0.10869565
-Connor_b1	Saxifraga undiff.	Saxifraga	HERB	26	2.826087
-Connor_b1	Secale-type	Secale cereale	HERB	1	0.10869565
-Connor_b1	Silene vulgaris-type	Silene vulgaris-type	HERB	2	0.2173913
-Connor_b1	Monolete fern spores	Monolete fern spores	VACR	2	0.2173913
-Connor_b1	Polypodium	Polypodium	VACR	2	0.2173913
-Connor_b1	Cyperaceae	Cyperaceae	AQUA	3	0.32608696
-Connor_b1	Indeterminable: degraded	Indeterminable: degraded	INUN	6	
-Connor_b1	Sporormiella	Sporormiella-type	FUNG	39	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Connor_b1	155	1	155	Alnus glutinosa-type	Alnus glutinosa-type	TRSH
+Connor_b1	589	114	3	Anthemis-type	Matricaria-type	HERB
+Connor_b1	7	2	7	Artemisia	Artemisia	HERB
+Connor_b1	597	48	11	Aster-type	Aster-type	HERB
+Connor_b1	2282	1	1459	Bidens-type	Bidens-type	HERB
+Connor_b1	13	2	13	Brassicaceae	Brassicaceae	HERB
+Connor_b1	3646	9	3645	Calluna vulgaris	Calluna vulgaris	DWAR
+Connor_b1	1381	1	1381	Carduus-type	Carduus-type	HERB
+Connor_b1	3140	1	3140	Casuarina	Casuarina	TRSH
+Connor_b1	3691	1	542	Ceratonia siliqua	Ceratonia siliqua	TRSH
+Connor_b1	447	1	25	Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Connor_b1	3801	2	3800	Cistus ladanifer-type	Cistus ladanifer-type	HERB
+Connor_b1	3807	23	1733	Cistus salviifolius-type	Cistus salvifolius	TRSH
+Connor_b1	3868	3	3868	Cyperaceae	Cyperaceae	AQUA
+Connor_b1	604	5	242	Echium	Echium	HERB
+Connor_b1	3929	1	3928	Erica arborea-type	Erica arborea-type	DWAR
+Connor_b1	1136	1	1136	Eryngium	Eryngium	HERB
+Connor_b1	39	1	39	Eucalyptus	Eucalyptus	TRSH
+Connor_b1	4029	6	4029	Halimium/Tuberaria	Halimium/Tuberaria	HERB
+Connor_b1	718	6	718	Indeterminable: degraded	Indeterminable: degraded	INUN
+Connor_b1	59	2	59	Lamiaceae	Lamiaceae	HERB
+Connor_b1	1073	6	65	Mentha-type	Mentha-type	HERB
+Connor_b1	4193	2	146	Monolete fern spores	Monolete fern spores	VACR
+Connor_b1	2174	2	977	Myrica	Myrica	TRSH
+Connor_b1	68	25	68	Olea europaea	Olea europaea	TRSH
+Connor_b1	77	7	77	Pistacia	Pistacia	TRSH
+Connor_b1	4315	12	168	Plantaginaceae undiff.	Plantaginaceae	HERB
+Connor_b1	30	52	30	Plantago coronopus	Plantago coronopus-type	HERB
+Connor_b1	1075	146	60	Plantago lanceolata-type	Plantago lanceolata-type	HERB
+Connor_b1	1348	31	79	Plantago major-type	Plantago major	HERB
+Connor_b1	2760	1	64	Plantago maritima-type	Plantago maritima-type	HERB
+Connor_b1	80	29	80	Poaceae	Poaceae	HERB
+Connor_b1	533	7	533	Primula	Primula	HERB
+Connor_b1	437	3	86	Quercus deciduous	Quercus robur-type	TRSH
+Connor_b1	2792	21	84	Quercus suber-type	Quercus cerris-type	TRSH
+Connor_b1	4462	3	88	Reseda lutea-type	Reseda	HERB
+Connor_b1	472	1	92	Rosaceae undiff.	Rosaceae	TRSH
+Connor_b1	4491	2	4491	Rosmarinus-type	Salvia officinalis-type	DWAR
+Connor_b1	4558	26	491	Saxifraga undiff.	Saxifraga	HERB
+Connor_b1	4585	1	256	Secale-type	Secale cereale	HERB
+Connor_b1	1231	2	1231	Silene vulgaris-type	Silene vulgaris-type	HERB
+Connor_b1	677	39	557	Sporormiella	Sporormiella-type	FUNG
+Connor_b1	500	6	414	Tamarix	Tamarix	TRSH
+Connor_b1	1357	2	818	Triticum	Avena/Triticum-type	HERB
+Connor_b1	24	7	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Connor_b1	74	2	74	Phillyrea	Phillyrea	TRSH
+Connor_b1	75	283	75	Pinus	Pinus	TRSH
+Connor_b1	666	2	214	Polypodium	Polypodium	VACR
+Connor_b1	1326	1	4	Allium-type	Allium-type	HERB
+Connor_b1	1398	1	96	Rumex acetosella-type	Rumex acetosella	HERB
+Connor_b1	3790	1	868	Chrysosplenium-type	Chrysosplenium	HERB
+Connor_b1	3797	14	3797	Cistus albidus-type	Cistus albidus-type	HERB

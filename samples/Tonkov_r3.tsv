@@ -1,38 +1,38 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Tonkov_r3	Abies	Abies	TRSH	3	0.4784689
-Tonkov_r3	Acer	Acer campestre-type	TRSH	1	0.15948963
-Tonkov_r3	Alnus	Alnus	TRSH	4	0.63795853
-Tonkov_r3	Betula	Betula	TRSH	12	1.9138756
-Tonkov_r3	Carpinus betulus	Carpinus betulus	TRSH	13	2.0733652
-Tonkov_r3	Corylus	Corylus	TRSH	9	1.4354067
-Tonkov_r3	Ericaceae	Ericales (tetrad)	DWAR	1	0.15948963
-Tonkov_r3	Fagus	Fagus	TRSH	27	4.3062201
-Tonkov_r3	Fraxinus excelsior-type	Fraxinus excelsior-type	TRSH	3	0.4784689
-Tonkov_r3	Juglans	Juglans	TRSH	2	0.31897927
-Tonkov_r3	Juniperus	Juniperus communis-type	TRSH	4	0.63795853
-Tonkov_r3	Carpinus orientalis/Ostrya	Ostrya/Carpinus orientalis	TRSH	3	0.4784689
-Tonkov_r3	Picea	Picea	TRSH	40	6.3795853
-Tonkov_r3	Pinus peuce	Pinus cembra-type	TRSH	70	11.164274
-Tonkov_r3	Pinus diploxylon-type	Pinus sylvestris-type	TRSH	340	54.226475
-Tonkov_r3	Quercus cerris-type	Quercus cerris-type	TRSH	3	0.4784689
-Tonkov_r3	Quercus robur-type	Quercus robur-type	TRSH	7	1.1164274
-Tonkov_r3	Salix	Salix	TRSH	4	0.63795853
-Tonkov_r3	Sorbus	Sorbus-type	TRSH	2	0.31897927
-Tonkov_r3	Tilia	Tilia	TRSH	3	0.4784689
-Tonkov_r3	Viburnum	Viburnum	TRSH	1	0.15948963
-Tonkov_r3	Apiaceae	Apiaceae	HERB	3	0.4784689
-Tonkov_r3	Artemisia	Artemisia	HERB	4	0.63795853
-Tonkov_r3	Campanulaceae	Campanulaceae	HERB	1	0.15948963
-Tonkov_r3	Stachys-type	Galeopsis-type	HERB	2	0.31897927
-Tonkov_r3	Geum-type	Geum-type	HERB	2	0.31897927
-Tonkov_r3	Humulus/Cannabis-type	Humulus/Cannabis	HERB	2	0.31897927
-Tonkov_r3	Plantago coronopus	Plantago coronopus-type	HERB	2	0.31897927
-Tonkov_r3	Poaceae	Poaceae	HERB	43	6.8580542
-Tonkov_r3	Potentilla-type	Potentilla-type	HERB	2	0.31897927
-Tonkov_r3	Ranunculaceae	Ranunculaceae	HERB	6	0.9569378
-Tonkov_r3	Galium- type	Rubiaceae	HERB	1	0.15948963
-Tonkov_r3	Trifolium	Trifolium-type	HERB	3	0.4784689
-Tonkov_r3	Triticum-type	Triticum-type	HERB	1	0.15948963
-Tonkov_r3	Verbascum-type	Verbascum	HERB	1	0.15948963
-Tonkov_r3	Polypodiaceae	Monolete fern spores	VACR	2	0.31897927
-Tonkov_r3	Caltha-type	Caltha-type	HELO	7	1.1164274
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Tonkov_r3	2	1	2	Acer	Acer campestre-type	TRSH
+Tonkov_r3	5	4	5	Alnus	Alnus	TRSH
+Tonkov_r3	7	4	7	Artemisia	Artemisia	HERB
+Tonkov_r3	12	12	12	Betula	Betula	TRSH
+Tonkov_r3	30	2	30	Plantago coronopus	Plantago coronopus-type	HERB
+Tonkov_r3	57	2	57	Juglans	Juglans	TRSH
+Tonkov_r3	58	4	58	Juniperus	Juniperus communis-type	TRSH
+Tonkov_r3	80	43	80	Poaceae	Poaceae	HERB
+Tonkov_r3	99	4	99	Salix	Salix	TRSH
+Tonkov_r3	107	2	107	Sorbus	Sorbus-type	TRSH
+Tonkov_r3	120	1	120	Viburnum	Viburnum	TRSH
+Tonkov_r3	126	40	126	Picea	Picea	TRSH
+Tonkov_r3	130	1	130	Ericaceae	Ericales (tetrad)	DWAR
+Tonkov_r3	135	6	135	Ranunculaceae	Ranunculaceae	HERB
+Tonkov_r3	152	7	86	Quercus robur-type	Quercus robur-type	TRSH
+Tonkov_r3	187	3	187	Tilia	Tilia	TRSH
+Tonkov_r3	192	27	42	Fagus	Fagus	TRSH
+Tonkov_r3	201	9	31	Corylus	Corylus	TRSH
+Tonkov_r3	560	3	321	Abies	Abies	TRSH
+Tonkov_r3	563	13	16	Carpinus betulus	Carpinus betulus	TRSH
+Tonkov_r3	626	2	512	Potentilla-type	Potentilla-type	HERB
+Tonkov_r3	1035	3	70	Carpinus orientalis/Ostrya	Ostrya/Carpinus orientalis	TRSH
+Tonkov_r3	1047	3	47	Fraxinus excelsior-type	Fraxinus excelsior-type	TRSH
+Tonkov_r3	1049	340	125	Pinus diploxylon-type	Pinus sylvestris-type	TRSH
+Tonkov_r3	1051	3	84	Quercus cerris-type	Quercus cerris-type	TRSH
+Tonkov_r3	1219	2	649	Geum-type	Geum-type	HERB
+Tonkov_r3	6	3	6	Apiaceae	Apiaceae	HERB
+Tonkov_r3	115	3	115	Trifolium	Trifolium-type	HERB
+Tonkov_r3	136	1	136	Campanulaceae	Campanulaceae	HERB
+Tonkov_r3	146	2	146	Polypodiaceae	Monolete fern spores	VACR
+Tonkov_r3	1335	1	653	Verbascum-type	Verbascum	HERB
+Tonkov_r3	1405	2	244	Stachys-type	Galeopsis-type	HERB
+Tonkov_r3	2431	1	93	Galium- type	Rubiaceae	HERB
+Tonkov_r3	1233	1	1199	Triticum-type	Triticum-type	HERB
+Tonkov_r3	1423	7	232	Caltha-type	Caltha-type	HELO
+Tonkov_r3	2420	70	124	Pinus peuce	Pinus cembra-type	TRSH
+Tonkov_r3	2422	2	205	Humulus/Cannabis-type	Humulus/Cannabis	HERB

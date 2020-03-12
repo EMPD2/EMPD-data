@@ -1,19 +1,19 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Lopez_a24	Alnus	Alnus	TRSH	4	0.75614367
-Lopez_a24	Castanea	Castanea sativa	TRSH	356	67.296786
-Lopez_a24	Erica arborea-type	Erica arborea-type	DWAR	4	0.75614367
-Lopez_a24	Fraxinus	Fraxinus	TRSH	2	0.37807183
-Lopez_a24	Juniperus-type	Juniperus-type	TRSH	5	0.94517958
-Lopez_a24	Pinus pinaster	Pinus pinaster	TRSH	88	16.635161
-Lopez_a24	Pinus sylvestris/nigra-type	Pinus sylvestris-type	TRSH	4	0.75614367
-Lopez_a24	Populus	Populus	TRSH	1	0.18903592
-Lopez_a24	Quercus evergreen	Quercus ilex-type	TRSH	6	1.1342155
-Lopez_a24	Quercus deciduous	Quercus robur-type	TRSH	12	2.268431
-Lopez_a24	Cardueae	Asteraceae subf. Carduoideae	HERB	3	0.56710775
-Lopez_a24	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	5	0.94517958
-Lopez_a24	Cytisus/Genista-type	Genista-type	HERB	5	0.94517958
-Lopez_a24	Poaceae undiff.	Poaceae	HERB	23	4.3478261
-Lopez_a24	Urtica dioica-type	Urtica dioica-type	HERB	2	0.37807183
-Lopez_a24	Monolete fern spores undiff.	Monolete fern spores	VACR	3	0.56710775
-Lopez_a24	Pteridium	Pteridium	VACR	6	1.1342155
-Lopez_a24	Cyperaceae	Cyperaceae	AQUA	4	0.75614367
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Lopez_a24	5	4	5	Alnus	Alnus	TRSH
+Lopez_a24	445	3	336	Cardueae	Asteraceae subf. Carduoideae	HERB
+Lopez_a24	3868	4	3868	Cyperaceae	Cyperaceae	AQUA
+Lopez_a24	3878	5	3878	Cytisus/Genista-type	Genista-type	HERB
+Lopez_a24	3929	4	3928	Erica arborea-type	Erica arborea-type	DWAR
+Lopez_a24	738	5	203	Juniperus-type	Juniperus-type	TRSH
+Lopez_a24	4195	3	146	Monolete fern spores undiff.	Monolete fern spores	VACR
+Lopez_a24	439	88	439	Pinus pinaster	Pinus pinaster	TRSH
+Lopez_a24	4308	4	125	Pinus sylvestris/nigra-type	Pinus sylvestris-type	TRSH
+Lopez_a24	429	23	80	Poaceae undiff.	Poaceae	HERB
+Lopez_a24	81	1	81	Populus	Populus	TRSH
+Lopez_a24	431	6	180	Pteridium	Pteridium aquilinum	VACR
+Lopez_a24	437	12	86	Quercus deciduous	Quercus robur-type	TRSH
+Lopez_a24	427	6	85	Quercus evergreen	Quercus ilex-type	TRSH
+Lopez_a24	190	2	190	Fraxinus	Fraxinus	TRSH
+Lopez_a24	441	356	19	Castanea	Castanea sativa	TRSH
+Lopez_a24	447	5	25	Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Lopez_a24	4718	2	453	Urtica dioica-type	Urtica dioica-type	HERB

@@ -1,37 +1,37 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Ortu_c28	Abies	Abies	TRSH	1	0.23696682
-Ortu_c28	Alnus	Alnus	TRSH	10	2.3696682
-Ortu_c28	Alnus viridis	Alnus viridis	TRSH	4	0.9478673
-Ortu_c28	Betula	Betula	TRSH	13	3.0805687
-Ortu_c28	Carpinus	Carpinus betulus	TRSH	4	0.9478673
-Ortu_c28	Castanea	Castanea sativa	TRSH	20	4.7393365
-Ortu_c28	Corylus	Corylus	TRSH	5	1.1848341
-Ortu_c28	Fagus	Fagus	TRSH	5	1.1848341
-Ortu_c28	Fraxinus	Fraxinus	TRSH	2	0.47393365
-Ortu_c28	Juglans	Juglans	TRSH	2	0.47393365
-Ortu_c28	Juniperus	Juniperus communis-type	TRSH	3	0.71090047
-Ortu_c28	Olea	Olea europaea	TRSH	4	0.9478673
-Ortu_c28	Picea	Picea	TRSH	10	2.3696682
-Ortu_c28	Pinus	Pinus	TRSH	60	14.218009
-Ortu_c28	Quercus robur-type	Quercus robur-type	TRSH	28	6.6350711
-Ortu_c28	Rosaceae	Rosaceae	TRSH	4	0.9478673
-Ortu_c28	Salix	Salix	TRSH	52	12.322275
-Ortu_c28	Sorbus	Sorbus-type	TRSH	2	0.47393365
-Ortu_c28	Apiaceae	Apiaceae	HERB	5	1.1848341
-Ortu_c28	Sanicula	Astrantia-type	HERB	1	0.23696682
-Ortu_c28	Cerealia	Cerealia-type	HERB	2	0.47393365
-Ortu_c28	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	43	10.189573
-Ortu_c28	Dianthus	Dianthus/Petrorhagia	HERB	1	0.23696682
-Ortu_c28	Filipendula	Filipendula	HERB	4	0.9478673
-Ortu_c28	Geranium	Geranium	HERB	1	0.23696682
-Ortu_c28	Plantago pro parte	Plantago	HERB	3	0.71090047
-Ortu_c28	Poaceae	Poaceae	HERB	102	24.170616
-Ortu_c28	Ranunculaceae	Ranunculaceae	HERB	3	0.71090047
-Ortu_c28	Rumex	Rumex/Oxyria	HERB	17	4.028436
-Ortu_c28	Scrophularia	Scrophularia-type	HERB	2	0.47393365
-Ortu_c28	Sedum	Sedum-type	HERB	1	0.23696682
-Ortu_c28	Urticaceae	Urticaceae	HERB	5	1.1848341
-Ortu_c28	Monolete fern spores	Monolete fern spores	VACR	2	0.47393365
-Ortu_c28	Trilete spores	Trilete spore(s)	VACR	1	0.23696682
-Ortu_c28	Cyperaceae	Cyperaceae	AQUA	2	0.47393365
-Ortu_c28	Indeterminable: unknown	Indeterminable: unknown	INUN	4	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Ortu_c28	5	10	5	Alnus	Alnus	TRSH
+Ortu_c28	561	4	129	Alnus viridis	Alnus viridis	TRSH
+Ortu_c28	6	5	6	Apiaceae	Apiaceae	HERB
+Ortu_c28	12	13	12	Betula	Betula	TRSH
+Ortu_c28	16	4	16	Carpinus	Carpinus betulus	TRSH
+Ortu_c28	441	20	19	Castanea	Castanea sativa	TRSH
+Ortu_c28	22	2	22	Cerealia	Cerealia-type	HERB
+Ortu_c28	24	43	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Ortu_c28	201	5	31	Corylus	Corylus	TRSH
+Ortu_c28	3868	2	3868	Cyperaceae	Cyperaceae	AQUA
+Ortu_c28	192	5	42	Fagus	Fagus	TRSH
+Ortu_c28	4078	4	177	Indeterminable: unknown	Indeterminable: unknown	INUN
+Ortu_c28	57	2	57	Juglans	Juglans	TRSH
+Ortu_c28	58	3	58	Juniperus	Juniperus communis-type	TRSH
+Ortu_c28	4193	2	146	Monolete fern spores	Monolete fern spores	VACR
+Ortu_c28	442	4	68	Olea	Olea europaea	TRSH
+Ortu_c28	126	10	126	Picea	Picea	TRSH
+Ortu_c28	75	60	75	Pinus	Pinus	TRSH
+Ortu_c28	4330	3	270	Plantago pro parte	Plantago	HERB
+Ortu_c28	92	4	92	Rosaceae	Rosaceae	TRSH
+Ortu_c28	727	17	94	Rumex	Rumex/Oxyria	HERB
+Ortu_c28	99	52	99	Salix	Salix	TRSH
+Ortu_c28	4547	1	592	Sanicula	Astrantia-type	HERB
+Ortu_c28	103	2	103	Scrophularia	Scrophularia-type	HERB
+Ortu_c28	105	1	105	Sedum	Sedum-type	HERB
+Ortu_c28	107	2	107	Sorbus	Sorbus-type	TRSH
+Ortu_c28	809	5	809	Urticaceae	Urticaceae	HERB
+Ortu_c28	45	4	45	Filipendula	Filipendula	HERB
+Ortu_c28	80	102	80	Poaceae	Poaceae	HERB
+Ortu_c28	135	3	135	Ranunculaceae	Ranunculaceae	HERB
+Ortu_c28	152	28	86	Quercus robur-type	Quercus robur-type	TRSH
+Ortu_c28	190	2	190	Fraxinus	Fraxinus	TRSH
+Ortu_c28	416	1	279	Trilete spores	Trilete spore(s)	VACR
+Ortu_c28	498	1	498	Geranium	Geranium	HERB
+Ortu_c28	560	1	321	Abies	Abies	TRSH
+Ortu_c28	1659	1	1246	Dianthus	Dianthus/Petrorhagia	HERB

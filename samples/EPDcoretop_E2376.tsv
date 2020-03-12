@@ -1,21 +1,21 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-EPDcoretop_E2376	Alnus	Alnus	TRSH	33	6.2857143
-EPDcoretop_E2376	Betula	Betula	TRSH	1	0.19047619
-EPDcoretop_E2376	Calluna	Calluna vulgaris	DWAR	133	25.333333
-EPDcoretop_E2376	Corylus-type	Corylus/Myrica	TRSH	297	56.571429
-EPDcoretop_E2376	Fraxinus	Fraxinus	TRSH	7	1.3333333
-EPDcoretop_E2376	Hedera	Hedera	TRSH	2	0.38095238
-EPDcoretop_E2376	Quercus	Quercus	TRSH	11	2.0952381
-EPDcoretop_E2376	Salix	Salix	TRSH	2	0.38095238
-EPDcoretop_E2376	Ulmus	Ulmus/Zelkova	TRSH	2	0.38095238
-EPDcoretop_E2376	Cyperaceae	Cyperaceae	HERB	6	1.1428571
-EPDcoretop_E2376	Plantago lanceolata	Plantago lanceolata-type	HERB	9	1.7142857
-EPDcoretop_E2376	Gramineae undiff.	Poaceae	HERB	13	2.4761905
-EPDcoretop_E2376	Polypodium	Polypodium	VACR	3	0.57142857
-EPDcoretop_E2376	Sphagnum	Sphagnum	BRYO	6	1.1428571
-EPDcoretop_E2376	Charcoal	Charcoal	CHAR	13	
-EPDcoretop_E2376	Varia	Indeterminable: unknown	INUN	1	
-EPDcoretop_E2376	Concentration of spike	Concentration of spike	NOPO	22534	
-EPDcoretop_E2376	Lycopodium spike (counted)	Lycopodium spike (counted)	NOPO	59	
-EPDcoretop_E2376	Quantity of spike	Quantity of spike	NOPO	1	
-EPDcoretop_E2376	Volume of sample (cm3)	Volume of sample (cm3)	NOPO	2	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+EPDcoretop_E2376	1125	13	1125	Charcoal	Charcoal	CHAR
+EPDcoretop_E2376	4779	59	2629	Lycopodium spike (counted)	Lycopodium spike (counted)	NOPO
+EPDcoretop_E2376	3829	22534	3829	Concentration of spike	Concentration of spike	NOPO
+EPDcoretop_E2376	4810	1	4810	Quantity of spike	Quantity of spike	NOPO
+EPDcoretop_E2376	4759	2	693	Volume of sample (cm3)	Volume of sample (cm3)	NOPO
+EPDcoretop_E2376	1098	1	177	Varia	Indeterminable: unknown	INUN
+EPDcoretop_E2376	5	33	5	Alnus	Alnus	TRSH
+EPDcoretop_E2376	12	1	12	Betula	Betula	TRSH
+EPDcoretop_E2376	33	6	33	Cyperaceae	Cyperaceae	HERB
+EPDcoretop_E2376	60	9	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+EPDcoretop_E2376	99	2	99	Salix	Salix	TRSH
+EPDcoretop_E2376	144	6	144	Sphagnum	Sphagnum	BRYO
+EPDcoretop_E2376	154	2	154	Ulmus	Ulmus/Zelkova	TRSH
+EPDcoretop_E2376	189	11	189	Quercus	Quercus	TRSH
+EPDcoretop_E2376	190	7	190	Fraxinus	Fraxinus	TRSH
+EPDcoretop_E2376	503	2	51	Hedera	Hedera	TRSH
+EPDcoretop_E2376	666	3	214	Polypodium	Polypodium	VACR
+EPDcoretop_E2376	3645	133	3645	Calluna	Calluna vulgaris	DWAR
+EPDcoretop_E2376	3851	297	3847	Corylus-type	Corylus/Myrica	TRSH
+EPDcoretop_E2376	4018	13	80	Gramineae undiff.	Poaceae	HERB

@@ -1,35 +1,35 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-EPDcoretop_E2246	Alnus	Alnus	TRSH	3	0.42918455
-EPDcoretop_E2246	Betula	Betula	TRSH	16	2.2889843
-EPDcoretop_E2246	Calluna	Calluna vulgaris	DWAR	2	0.28612303
-EPDcoretop_E2246	Castanea	Castanea sativa	TRSH	1	0.14306152
-EPDcoretop_E2246	Corylus	Corylus	TRSH	2	0.28612303
-EPDcoretop_E2246	Erica arborea	Erica arborea-type	TRSH	33	4.72103
-EPDcoretop_E2246	Erica australis	Erica ciliaris-type	DWAR	8	1.1444921
-EPDcoretop_E2246	Ericaceae	Ericales (tetrad)	DWAR	2	0.28612303
-EPDcoretop_E2246	Fagus	Fagus	TRSH	5	0.71530758
-EPDcoretop_E2246	Fraxinus	Fraxinus	TRSH	2	0.28612303
-EPDcoretop_E2246	Juniperus	Juniperus communis-type	TRSH	2	0.28612303
-EPDcoretop_E2246	Olea	Olea europaea	TRSH	8	1.1444921
-EPDcoretop_E2246	Pinus	Pinus	TRSH	491	70.243205
-EPDcoretop_E2246	Quercus	Quercus	TRSH	11	1.5736767
-EPDcoretop_E2246	Sorbus	Sorbus-type	TRSH	3	0.42918455
-EPDcoretop_E2246	Artemisia	Artemisia	HERB	2	0.28612303
-EPDcoretop_E2246	Aster	Aster-type	HERB	1	0.14306152
-EPDcoretop_E2246	Asteraceae	Asteraceae	HERB	1	0.14306152
-EPDcoretop_E2246	Cerealia-type	Cerealia-type	HERB	3	0.42918455
-EPDcoretop_E2246	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.14306152
-EPDcoretop_E2246	Cyperaceae	Cyperaceae	HERB	37	5.2932761
-EPDcoretop_E2246	Anthemis	Matricaria-type	HERB	1	0.14306152
-EPDcoretop_E2246	Plantago	Plantago	HERB	1	0.14306152
-EPDcoretop_E2246	Poaceae	Poaceae	HERB	13	1.8597997
-EPDcoretop_E2246	Potentilla	Potentilla-type	HERB	5	0.71530758
-EPDcoretop_E2246	Ranunculaceae	Ranunculaceae	HERB	1	0.14306152
-EPDcoretop_E2246	Rumex	Rumex/Oxyria	HERB	3	0.42918455
-EPDcoretop_E2246	Sphagnum	Sphagnum	BRYO	41	5.8655222
-EPDcoretop_E2246	Menyanthaceae	Menyanthaceae	HELO	1	0.14306152
-EPDcoretop_E2246	Indeterminable: broken	Indeterminable: broken	INUN	1	
-EPDcoretop_E2246	Indeterminable: crumpled	Indeterminable: crumpled	INUN	1	
-EPDcoretop_E2246	Indeterminable: degraded	Indeterminable: degraded	INUN	3	
-EPDcoretop_E2246	Amphitrema	Amphitrema	RHIZ	103	
-EPDcoretop_E2246	Deciduous tree: seed	Deciduous tree: seed	MACR	13	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+EPDcoretop_E2246	4072	1	998	Indeterminable: broken	Indeterminable: broken	INUN
+EPDcoretop_E2246	718	3	718	Indeterminable: degraded	Indeterminable: degraded	INUN
+EPDcoretop_E2246	4075	1	1925	Indeterminable: crumpled	Indeterminable: crumpled	INUN
+EPDcoretop_E2246	1236	103	680	Amphitrema	Amphitrema	RHIZ
+EPDcoretop_E2246	5054	13	5054	Deciduous tree: seed	Deciduous tree: seed	MACR
+EPDcoretop_E2246	5	3	5	Alnus	Alnus	TRSH
+EPDcoretop_E2246	7	2	7	Artemisia	Artemisia	HERB
+EPDcoretop_E2246	12	16	12	Betula	Betula	TRSH
+EPDcoretop_E2246	24	1	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+EPDcoretop_E2246	33	37	33	Cyperaceae	Cyperaceae	HERB
+EPDcoretop_E2246	58	2	58	Juniperus	Juniperus communis-type	TRSH
+EPDcoretop_E2246	75	491	75	Pinus	Pinus	TRSH
+EPDcoretop_E2246	80	13	80	Poaceae	Poaceae	HERB
+EPDcoretop_E2246	107	3	107	Sorbus	Sorbus-type	TRSH
+EPDcoretop_E2246	130	2	130	Ericaceae	Ericales (tetrad)	DWAR
+EPDcoretop_E2246	134	1	134	Asteraceae	Asteraceae	HERB
+EPDcoretop_E2246	135	1	135	Ranunculaceae	Ranunculaceae	HERB
+EPDcoretop_E2246	144	41	144	Sphagnum	Sphagnum	BRYO
+EPDcoretop_E2246	189	11	189	Quercus	Quercus	TRSH
+EPDcoretop_E2246	190	2	190	Fraxinus	Fraxinus	TRSH
+EPDcoretop_E2246	192	5	42	Fagus	Fagus	TRSH
+EPDcoretop_E2246	201	2	31	Corylus	Corylus	TRSH
+EPDcoretop_E2246	441	1	19	Castanea	Castanea sativa	TRSH
+EPDcoretop_E2246	442	8	68	Olea	Olea europaea	TRSH
+EPDcoretop_E2246	724	1	270	Plantago	Plantago	HERB
+EPDcoretop_E2246	727	3	94	Rumex	Rumex/Oxyria	HERB
+EPDcoretop_E2246	1065	3	22	Cerealia-type	Cerealia-type	HERB
+EPDcoretop_E2246	1366	5	512	Potentilla	Potentilla-type	HERB
+EPDcoretop_E2246	1458	1	11	Aster	Aster-type	HERB
+EPDcoretop_E2246	2026	33	455	Erica arborea	Erica arborea-type	TRSH
+EPDcoretop_E2246	2793	8	531	Erica australis	Erica ciliaris-type	DWAR
+EPDcoretop_E2246	3078	1	3	Anthemis	Matricaria-type	HERB
+EPDcoretop_E2246	3645	2	3645	Calluna	Calluna vulgaris	DWAR
+EPDcoretop_E2246	5053	1	5053	Menyanthaceae	Menyanthaceae	HELO

@@ -1,33 +1,33 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Lopez_a473	Juniperus-type	Juniperus-type	TRSH	3	0.56925996
-Lopez_a473	Olea	Olea europaea	TRSH	2	0.37950664
-Lopez_a473	Pinus pinea/halepensis-type	Pinus halepensis-type	TRSH	25	4.743833
-Lopez_a473	Pinus pinaster	Pinus pinaster	TRSH	2	0.37950664
-Lopez_a473	Populus	Populus	TRSH	1	0.18975332
-Lopez_a473	Quercus evergreen	Quercus ilex-type	TRSH	203	38.519924
-Lopez_a473	Rosaceae undiff,	Rosaceae	TRSH	2	0.37950664
-Lopez_a473	Ulmus	Ulmus/Zelkova	TRSH	2	0.37950664
-Lopez_a473	Apiaceae	Apiaceae	HERB	3	0.56925996
-Lopez_a473	Artemisia	Artemisia	HERB	11	2.0872865
-Lopez_a473	Asphodelus albus-type	Asphodelus albus-type	HERB	2	0.37950664
-Lopez_a473	Aster-type	Aster-type	HERB	11	2.0872865
-Lopez_a473	Cardueae	Asteraceae subf. Carduoideae	HERB	11	2.0872865
-Lopez_a473	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	20	3.7950664
-Lopez_a473	Boraginaceae	Boraginaceae	HERB	6	1.1385199
-Lopez_a473	Cruciferae	Brassicaceae	HERB	3	0.56925996
-Lopez_a473	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	5	0.9487666
-Lopez_a473	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	9	1.7077799
-Lopez_a473	Cistus-type	Cistus	HERB	3	0.56925996
-Lopez_a473	Cistus ladanifer	Cistus ladanifer-type	HERB	4	0.75901328
-Lopez_a473	Cytisus/Genista-type	Genista-type	HERB	20	3.7950664
-Lopez_a473	Helianthemum-type	Helianthemum	HERB	4	0.75901328
-Lopez_a473	Labiatae	Lamiaceae	HERB	9	1.7077799
-Lopez_a473	Lavandula stoechas-type	Lavandula	HERB	4	0.75901328
-Lopez_a473	Anthemis-type	Matricaria-type	HERB	4	0.75901328
-Lopez_a473	Campanula-type	Phyteuma-type	HERB	1	0.18975332
-Lopez_a473	Plantago coronopus-type	Plantago coronopus-type	HERB	1	0.18975332
-Lopez_a473	Armeria/Limonium-type	Plumbaginaceae	HERB	1	0.18975332
-Lopez_a473	Poaceae undiff.	Poaceae	HERB	151	28.652751
-Lopez_a473	Rubiaceae	Rubiaceae	HERB	4	0.75901328
-Lopez_a473	Fabaceae undiff.	Fabaceae undiff.	INUN	1	
-Lopez_a473	Glomus cf. G. fasciculatum	Glomus cf. fasciculatum	FUNG	7	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Lopez_a473	589	4	3	Anthemis-type	Matricaria-type	HERB
+Lopez_a473	6	3	6	Apiaceae	Apiaceae	HERB
+Lopez_a473	3568	1	166	Armeria/Limonium-type	Plumbaginaceae	HERB
+Lopez_a473	7	11	7	Artemisia	Artemisia	HERB
+Lopez_a473	3580	2	487	Asphodelus albus-type	Asphodelus albus-type	HERB
+Lopez_a473	597	11	11	Aster-type	Aster-type	HERB
+Lopez_a473	1765	1	483	Campanula-type	Phyteuma-type	HERB
+Lopez_a473	18	5	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Lopez_a473	769	9	24	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB
+Lopez_a473	3800	4	3800	Cistus ladanifer	Cistus ladanifer-type	HERB
+Lopez_a473	3810	3	3796	Cistus-type	Cistus	HERB
+Lopez_a473	482	3	13	Cruciferae	Brassicaceae	HERB
+Lopez_a473	3878	20	3878	Cytisus/Genista-type	Genista-type	HERB
+Lopez_a473	3960	1	3960	Fabaceae undiff.	Fabaceae undiff.	INUN
+Lopez_a473	4008	7	305	Glomus cf. G. fasciculatum	Glomus cf. fasciculatum	FUNG
+Lopez_a473	4039	4	52	Helianthemum-type	Helianthemum	HERB
+Lopez_a473	738	3	203	Juniperus-type	Juniperus-type	TRSH
+Lopez_a473	4115	4	4115	Lavandula stoechas-type	Lavandula	HERB
+Lopez_a473	442	2	68	Olea	Olea europaea	TRSH
+Lopez_a473	439	2	439	Pinus pinaster	Pinus pinaster	TRSH
+Lopez_a473	4304	25	440	Pinus pinea/halepensis-type	Pinus halepensis-type	TRSH
+Lopez_a473	2801	1	30	Plantago coronopus-type	Plantago coronopus-type	HERB
+Lopez_a473	429	151	80	Poaceae undiff.	Poaceae	HERB
+Lopez_a473	81	1	81	Populus	Populus	TRSH
+Lopez_a473	427	203	85	Quercus evergreen	Quercus ilex-type	TRSH
+Lopez_a473	4489	2	92	Rosaceae undiff,	Rosaceae	TRSH
+Lopez_a473	93	4	93	Rubiaceae	Rubiaceae	HERB
+Lopez_a473	154	2	154	Ulmus	Ulmus/Zelkova	TRSH
+Lopez_a473	162	6	162	Boraginaceae	Boraginaceae	HERB
+Lopez_a473	445	11	336	Cardueae	Asteraceae subf. Carduoideae	HERB
+Lopez_a473	447	20	25	Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Lopez_a473	485	9	59	Labiatae	Lamiaceae	HERB

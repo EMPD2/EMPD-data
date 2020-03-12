@@ -1,40 +1,40 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Matthias_b8	Abies	Abies	TRSH	1	0.091324201
-Matthias_b8	Acer	Acer campestre-type	TRSH	2	0.1826484
-Matthias_b8	Alnus	Alnus	TRSH	153	13.972603
-Matthias_b8	Betula	Betula	TRSH	148	13.515982
-Matthias_b8	Cannabaceae	Cannabaceae	TRSH	4	0.3652968
-Matthias_b8	Carpinus	Carpinus betulus	TRSH	6	0.54794521
-Matthias_b8	Castanea	Castanea sativa	TRSH	1	0.091324201
-Matthias_b8	Corylus	Corylus	TRSH	8	0.73059361
-Matthias_b8	Fagus	Fagus	TRSH	109	9.9543379
-Matthias_b8	Fraxinus	Fraxinus	TRSH	1	0.091324201
-Matthias_b8	Juglans	Juglans	TRSH	1	0.091324201
-Matthias_b8	Larix/Pseudotsuga	Larix/Pseudotsuga	TRSH	1	0.091324201
-Matthias_b8	Myrica gale	Myrica	TRSH	2	0.1826484
-Matthias_b8	Picea	Picea	TRSH	14	1.2785388
-Matthias_b8	Pinus	Pinus	TRSH	369	33.69863
-Matthias_b8	Populus	Populus	TRSH	2	0.1826484
-Matthias_b8	Quercus	Quercus	TRSH	51	4.6575342
-Matthias_b8	Salix	Salix	TRSH	6	0.54794521
-Matthias_b8	Tilia cordata	Tilia cordata-type	TRSH	1	0.091324201
-Matthias_b8	Ulmus	Ulmus/Zelkova	TRSH	3	0.2739726
-Matthias_b8	Apiaceae	Apiaceae	HERB	1	0.091324201
-Matthias_b8	Artemisia	Artemisia	HERB	9	0.82191781
-Matthias_b8	Avena-type	Avena-type	HERB	16	1.4611872
-Matthias_b8	Brassicaceae	Brassicaceae	HERB	3	0.2739726
-Matthias_b8	Cerealia undifferentiated	Cerealia-type	HERB	1	0.091324201
-Matthias_b8	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	4	0.3652968
-Matthias_b8	Cyperaceae	Cyperaceae	HERB	16	1.4611872
-Matthias_b8	Filipendula	Filipendula	HERB	1	0.091324201
-Matthias_b8	Hordeum-type	Hordeum-type	HERB	8	0.73059361
-Matthias_b8	Plantago lanceolata	Plantago lanceolata-type	HERB	3	0.2739726
-Matthias_b8	Poaceae	Poaceae	HERB	90	8.2191781
-Matthias_b8	Ranunculus acris-type	Ranunculus acris-type	HERB	1	0.091324201
-Matthias_b8	Ranunculus parviflorus	Ranunculus arvensis-type	HERB	1	0.091324201
-Matthias_b8	Rumex acetosa-type	Rumex acetosa-type	HERB	5	0.456621
-Matthias_b8	Rumex acetosella-type	Rumex acetosa-type	HERB	9	0.82191781
-Matthias_b8	Saxifraga stellaris-type	Saxifraga stellaris-type	HERB	1	0.091324201
-Matthias_b8	Secale	Secale cereale	HERB	15	1.369863
-Matthias_b8	Silene-type	Silene-type	HERB	1	0.091324201
-Matthias_b8	Triticum-type	Triticum-type	HERB	27	2.4657534
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Matthias_b8	12	148	12	Betula	Betula	TRSH
+Matthias_b8	75	369	75	Pinus	Pinus	TRSH
+Matthias_b8	5	153	5	Alnus	Alnus	TRSH
+Matthias_b8	16	6	16	Carpinus	Carpinus betulus	TRSH
+Matthias_b8	154	3	154	Ulmus	Ulmus/Zelkova	TRSH
+Matthias_b8	201	8	31	Corylus	Corylus	TRSH
+Matthias_b8	1406	1	153	Tilia cordata	Tilia cordata-type	TRSH
+Matthias_b8	99	6	99	Salix	Salix	TRSH
+Matthias_b8	126	14	126	Picea	Picea	TRSH
+Matthias_b8	2	2	2	Acer	Acer campestre-type	TRSH
+Matthias_b8	81	2	81	Populus	Populus	TRSH
+Matthias_b8	57	1	57	Juglans	Juglans	TRSH
+Matthias_b8	441	1	19	Castanea	Castanea sativa	TRSH
+Matthias_b8	2601	2	977	Myrica gale	Myrica	TRSH
+Matthias_b8	33	16	33	Cyperaceae	Cyperaceae	HERB
+Matthias_b8	80	90	80	Poaceae	Poaceae	HERB
+Matthias_b8	801	15	256	Secale	Secale cereale	HERB
+Matthias_b8	949	8	258	Hordeum-type	Hordeum-type	HERB
+Matthias_b8	1061	4	763	Cannabaceae	Cannabaceae	TRSH
+Matthias_b8	1233	27	1199	Triticum-type	Triticum-type	HERB
+Matthias_b8	3008	1	22	Cerealia undifferentiated	Cerealia-type	HERB
+Matthias_b8	13	3	13	Brassicaceae	Brassicaceae	HERB
+Matthias_b8	60	3	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+Matthias_b8	7	9	7	Artemisia	Artemisia	HERB
+Matthias_b8	2582	9	95	Rumex acetosella-type	Rumex acetosa-type	HERB
+Matthias_b8	24	4	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Matthias_b8	6	1	6	Apiaceae	Apiaceae	HERB
+Matthias_b8	45	1	45	Filipendula	Filipendula	HERB
+Matthias_b8	630	1	87	Ranunculus acris-type	Ranunculus acris-type	HERB
+Matthias_b8	189	51	189	Quercus	Quercus	TRSH
+Matthias_b8	190	1	190	Fraxinus	Fraxinus	TRSH
+Matthias_b8	192	109	42	Fagus	Fagus	TRSH
+Matthias_b8	560	1	321	Abies	Abies	TRSH
+Matthias_b8	634	5	95	Rumex acetosa-type	Rumex acetosa-type	HERB
+Matthias_b8	957	1	642	Saxifraga stellaris-type	Saxifraga stellaris-type	HERB
+Matthias_b8	1215	16	1111	Avena-type	Avena-type	HERB
+Matthias_b8	1779	1	132	Silene-type	Silene-type	HERB
+Matthias_b8	2336	1	123	Larix/Pseudotsuga	Larix/Pseudotsuga	TRSH
+Matthias_b8	3019	1	2868	Ranunculus parviflorus	Ranunculus arvensis-type	HERB

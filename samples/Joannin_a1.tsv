@@ -1,38 +1,38 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Joannin_a1	Alnus5p	Alnus	TRSH	84	25.454545
-Joannin_a1	Carpinus	Carpinus betulus	TRSH	1	0.3030303
-Joannin_a1	Castanea	Castanea sativa	TRSH	1	0.3030303
-Joannin_a1	Clematis	Clematis	TRSH	2	0.60606061
-Joannin_a1	Corylus	Corylus	TRSH	1	0.3030303
-Joannin_a1	Ericaceae	Ericales (tetrad)	DWAR	1	0.3030303
-Joannin_a1	Eucalyptus	Eucalyptus	TRSH	1	0.3030303
-Joannin_a1	Fagus	Fagus	TRSH	9	2.7272727
-Joannin_a1	Hederahelix	Hedera	TRSH	1	0.3030303
-Joannin_a1	Juglans	Juglans	TRSH	1	0.3030303
-Joannin_a1	Olea	Olea europaea	TRSH	15	4.5454545
-Joannin_a1	Ostrya	Ostrya/Carpinus orientalis	TRSH	5	1.5151515
-Joannin_a1	Phillyrea	Phillyrea	TRSH	3	0.90909091
-Joannin_a1	Pinus	Pinus	TRSH	3	0.90909091
-Joannin_a1	QuercusIlex	Quercus ilex-type	TRSH	3	0.90909091
-Joannin_a1	Quercusdecidu	Quercus robur-type	TRSH	10	3.030303
-Joannin_a1	Rubus	Rubus	TRSH	1	0.3030303
-Joannin_a1	Salix	Salix	TRSH	1	0.3030303
-Joannin_a1	Lysimachia	Anagallis-type	HERB	7	2.1212121
-Joannin_a1	Apiaceae	Apiaceae	HERB	8	2.4242424
-Joannin_a1	Angelica tp.	Apiaceae	HERB	35	10.606061
-Joannin_a1	Achillea /Eupatorium tp.	Asteraceae subf. Asteroideae	HERB	1	0.3030303
-Joannin_a1	Brassicaceae	Brassicaceae	HERB	2	0.60606061
-Joannin_a1	Centaurea	Centaurea	HERB	1	0.3030303
-Joannin_a1	Cerealtype40-60	Cerealia-type	HERB	2	0.60606061
-Joannin_a1	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.3030303
-Joannin_a1	Cynoglossum tp.	Cynoglossum-type	HERB	1	0.3030303
-Joannin_a1	Plantago lanceolata	Plantago lanceolata-type	HERB	2	0.60606061
-Joannin_a1	Poaceae	Poaceae	HERB	5	1.5151515
-Joannin_a1	Rumex	Rumex/Oxyria	HERB	1	0.3030303
-Joannin_a1	Solanum dulcamara	Solanum dulcamara	HERB	6	1.8181818
-Joannin_a1	Spores monolètes	Monolete fern spores	VACR	6	1.8181818
-Joannin_a1	Osmunda tp.	Osmunda-type	VACR	109	33.030303
-Joannin_a1	Carex tp.	Carex	HELO	141	42.727273
-Joannin_a1	Grains indéterm	Indeterminable: unknown	INUN	1	
-Joannin_a1	Nb lignes	Number of counted lines	NOPO	3	
-Joannin_a1	Volume prélevé	Sample volume	NOPO	10	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Joannin_a1	16	1	16	Carpinus	Carpinus betulus	TRSH
+Joannin_a1	39	1	39	Eucalyptus	Eucalyptus	TRSH
+Joannin_a1	1893	1	177	Grains indéterm	Indeterminable: unknown	INUN
+Joannin_a1	1894	10	1894	Volume prélevé	Sample volume	NOPO
+Joannin_a1	1895	3	1895	Nb lignes	Number of counted lines	NOPO
+Joannin_a1	6	8	6	Apiaceae	Apiaceae	HERB
+Joannin_a1	13	2	13	Brassicaceae	Brassicaceae	HERB
+Joannin_a1	24	1	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Joannin_a1	28	2	28	Clematis	Clematis	TRSH
+Joannin_a1	57	1	57	Juglans	Juglans	TRSH
+Joannin_a1	60	2	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+Joannin_a1	74	3	74	Phillyrea	Phillyrea	TRSH
+Joannin_a1	75	3	75	Pinus	Pinus	TRSH
+Joannin_a1	80	5	80	Poaceae	Poaceae	HERB
+Joannin_a1	99	1	99	Salix	Salix	TRSH
+Joannin_a1	130	1	130	Ericaceae	Ericales (tetrad)	DWAR
+Joannin_a1	141	1	141	Rubus	Rubus	TRSH
+Joannin_a1	192	9	42	Fagus	Fagus	TRSH
+Joannin_a1	201	1	31	Corylus	Corylus	TRSH
+Joannin_a1	441	1	19	Castanea	Castanea sativa	TRSH
+Joannin_a1	442	15	68	Olea	Olea europaea	TRSH
+Joannin_a1	571	5	70	Ostrya	Ostrya/Carpinus orientalis	TRSH
+Joannin_a1	614	7	587	Lysimachia	Anagallis-type	HERB
+Joannin_a1	727	1	94	Rumex	Rumex/Oxyria	HERB
+Joannin_a1	757	1	267	Centaurea	Centaurea	HERB
+Joannin_a1	1194	6	1194	Solanum dulcamara	Solanum dulcamara	HERB
+Joannin_a1	1880	84	5	Alnus5p	Alnus	TRSH
+Joannin_a1	1883	1	51	Hederahelix	Hedera	TRSH
+Joannin_a1	1884	10	86	Quercusdecidu	Quercus robur-type	TRSH
+Joannin_a1	1885	3	85	QuercusIlex	Quercus ilex-type	TRSH
+Joannin_a1	1889	2	22	Cerealtype40-60	Cerealia-type	HERB
+Joannin_a1	1891	6	146	Spores monolètes	Monolete fern spores	VACR
+Joannin_a1	1896	141	1301	Carex tp.	Carex	HELO
+Joannin_a1	1899	1	160	Achillea /Eupatorium tp.	Asteraceae subf. Asteroideae	HERB
+Joannin_a1	1900	109	1556	Osmunda tp.	Osmunda-type	VACR
+Joannin_a1	1901	35	6	Angelica tp.	Apiaceae	HERB
+Joannin_a1	1903	1	1903	Cynoglossum tp.	Cynoglossum-type	HERB

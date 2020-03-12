@@ -1,43 +1,43 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Tonkov_s1	Abies	Abies	TRSH	1	0.18083183
-Tonkov_s1	Alnus	Alnus	TRSH	8	1.4466546
-Tonkov_s1	Betula	Betula	TRSH	3	0.54249548
-Tonkov_s1	Carpinus betulus	Carpinus betulus	TRSH	2	0.36166365
-Tonkov_s1	Corylus	Corylus	TRSH	4	0.72332731
-Tonkov_s1	Ephedra fragilis-type	Ephedra fragilis-type	TRSH	1	0.18083183
-Tonkov_s1	Fagus	Fagus	TRSH	10	1.8083183
-Tonkov_s1	Juglans	Juglans	TRSH	1	0.18083183
-Tonkov_s1	Juniperus	Juniperus communis-type	TRSH	2	0.36166365
-Tonkov_s1	Carpinus orientalis/Ostrya	Ostrya/Carpinus orientalis	TRSH	1	0.18083183
-Tonkov_s1	Picea	Picea	TRSH	28	5.0632911
-Tonkov_s1	Pinus peuce	Pinus cembra-type	TRSH	40	7.2332731
-Tonkov_s1	Pinus diploxylon-type	Pinus sylvestris-type	TRSH	365	66.003617
-Tonkov_s1	Quercus cerris-type	Quercus cerris-type	TRSH	8	1.4466546
-Tonkov_s1	Quercus robur-type	Quercus robur-type	TRSH	4	0.72332731
-Tonkov_s1	Salix	Salix	TRSH	1	0.18083183
-Tonkov_s1	Vaccinium-type	Vaccinium-type	DWAR	10	1.8083183
-Tonkov_s1	Vitis	Vitis	TRSH	1	0.18083183
-Tonkov_s1	Xanthium-type	Ambrosia/Xanthium	HERB	1	0.18083183
-Tonkov_s1	Pulmonaria	Anchusa/Pulmonaria	HERB	1	0.18083183
-Tonkov_s1	Artemisia	Artemisia	HERB	5	0.90415913
-Tonkov_s1	Cirsium-type	Asteraceae subf. Carduoideae	HERB	1	0.18083183
-Tonkov_s1	Cichoriaceae	Asteraceae subf. Cichorioideae	HERB	6	1.084991
-Tonkov_s1	Brassicaceae	Brassicaceae	HERB	3	0.54249548
-Tonkov_s1	Campanulaceae	Campanulaceae	HERB	1	0.18083183
-Tonkov_s1	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	3	0.54249548
-Tonkov_s1	Dianthus-type	Dianthus/Petrorhagia	HERB	1	0.18083183
-Tonkov_s1	Epilobium-type	Epilobium	HERB	1	0.18083183
-Tonkov_s1	Geranium	Geranium	HERB	1	0.18083183
-Tonkov_s1	Knautia	Knautia	HERB	1	0.18083183
-Tonkov_s1	Achillea-type	Matricaria-type	HERB	3	0.54249548
-Tonkov_s1	Plantago lanceolata	Plantago lanceolata-type	HERB	2	0.36166365
-Tonkov_s1	Gramineae	Poaceae	HERB	10	1.8083183
-Tonkov_s1	Ranunculus-type	Ranunculus-type	HERB	1	0.18083183
-Tonkov_s1	Rumex	Rumex/Oxyria	HERB	3	0.54249548
-Tonkov_s1	Scrophularia-type	Scrophularia-type	HERB	1	0.18083183
-Tonkov_s1	Solidago-type	Senecio-type	HERB	2	0.36166365
-Tonkov_s1	Asplenium	Asplenium-type	VACR	3	0.54249548
-Tonkov_s1	Dryopteris-type	Dryopteris-type	VACR	1	0.18083183
-Tonkov_s1	Polypodiaceae	Monolete fern spores	VACR	11	1.9891501
-Tonkov_s1	Selaginella selaginoides	Selaginella selaginoides	VACR	1	0.18083183
-Tonkov_s1	Caltha palustris-type	Caltha-type	HELO	1	0.18083183
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Tonkov_s1	5	8	5	Alnus	Alnus	TRSH
+Tonkov_s1	7	5	7	Artemisia	Artemisia	HERB
+Tonkov_s1	12	3	12	Betula	Betula	TRSH
+Tonkov_s1	24	3	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Tonkov_s1	57	1	57	Juglans	Juglans	TRSH
+Tonkov_s1	58	2	58	Juniperus	Juniperus communis-type	TRSH
+Tonkov_s1	60	2	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+Tonkov_s1	99	1	99	Salix	Salix	TRSH
+Tonkov_s1	122	1	122	Vitis	Vitis	TRSH
+Tonkov_s1	126	28	126	Picea	Picea	TRSH
+Tonkov_s1	152	4	86	Quercus robur-type	Quercus robur-type	TRSH
+Tonkov_s1	192	10	42	Fagus	Fagus	TRSH
+Tonkov_s1	201	4	31	Corylus	Corylus	TRSH
+Tonkov_s1	560	1	321	Abies	Abies	TRSH
+Tonkov_s1	563	2	16	Carpinus betulus	Carpinus betulus	TRSH
+Tonkov_s1	727	3	94	Rumex	Rumex/Oxyria	HERB
+Tonkov_s1	942	10	942	Vaccinium-type	Vaccinium-type	TRSH
+Tonkov_s1	943	3	3	Achillea-type	Matricaria-type	HERB
+Tonkov_s1	948	1	547	Epilobium-type	Epilobium	HERB
+Tonkov_s1	1035	1	70	Carpinus orientalis/Ostrya	Ostrya/Carpinus orientalis	TRSH
+Tonkov_s1	13	3	13	Brassicaceae	Brassicaceae	HERB
+Tonkov_s1	136	1	136	Campanulaceae	Campanulaceae	HERB
+Tonkov_s1	146	11	146	Polypodiaceae	Monolete fern spores	VACR
+Tonkov_s1	498	1	498	Geranium	Geranium	HERB
+Tonkov_s1	874	1	185	Selaginella selaginoides	Selaginella selaginoides	VACR
+Tonkov_s1	1246	1	1246	Dianthus-type	Dianthus/Petrorhagia	HERB
+Tonkov_s1	1247	1	772	Dryopteris-type	Dryopteris-type	VACR
+Tonkov_s1	1049	365	125	Pinus diploxylon-type	Pinus sylvestris-type	TRSH
+Tonkov_s1	1051	8	84	Quercus cerris-type	Quercus cerris-type	TRSH
+Tonkov_s1	1126	6	25	Cichoriaceae	Asteraceae subf. Cichorioideae	HERB
+Tonkov_s1	1257	1	1257	Knautia	Knautia	HERB
+Tonkov_s1	1275	1	103	Scrophularia-type	Scrophularia-type	HERB
+Tonkov_s1	1535	3	216	Asplenium	Asplenium-type	VACR
+Tonkov_s1	1601	10	80	Gramineae	Poaceae	HERB
+Tonkov_s1	1675	1	936	Pulmonaria	Anchusa/Pulmonaria	HERB
+Tonkov_s1	1775	1	228	Xanthium-type	Ambrosia/Xanthium	HERB
+Tonkov_s1	2420	40	124	Pinus peuce	Pinus cembra-type	TRSH
+Tonkov_s1	2424	1	36	Ephedra fragilis-type	Ephedra fragilis-type	TRSH
+Tonkov_s1	2426	1	336	Cirsium-type	Asteraceae subf. Carduoideae	HERB
+Tonkov_s1	2428	2	133	Solidago-type	Senecio-type	HERB
+Tonkov_s1	2429	1	274	Ranunculus-type	Ranunculus-type	HERB
+Tonkov_s1	2430	1	232	Caltha palustris-type	Caltha-type	HELO

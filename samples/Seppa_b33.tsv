@@ -1,21 +1,21 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Seppa_b33	Alnus	Alnus	TRSH	18	3.4351145
-Seppa_b33	Betula	Betula	TRSH	145	27.671756
-Seppa_b33	Calluna vulgaris	Calluna vulgaris	DWAR	3	0.57251908
-Seppa_b33	Empetrum nigrum	Empetrum nigrum	DWAR	1	0.19083969
-Seppa_b33	Ericaceae-type	Ericales (tetrad)	DWAR	3	0.57251908
-Seppa_b33	Juniperus communis	Juniperus communis-type	TRSH	3	0.57251908
-Seppa_b33	Picea	Picea	TRSH	15	2.8625954
-Seppa_b33	Pinus sylvestris	Pinus sylvestris-type	TRSH	313	59.732824
-Seppa_b33	Salix undiff.	Salix	TRSH	1	0.19083969
-Seppa_b33	Ulmus	Ulmus/Zelkova	TRSH	1	0.19083969
-Seppa_b33	Artemisia	Artemisia	HERB	4	0.76335878
-Seppa_b33	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.19083969
-Seppa_b33	Gramineae undiff.	Poaceae	HERB	8	1.5267176
-Seppa_b33	Rumex acetosa	Rumex acetosa-type	HERB	1	0.19083969
-Seppa_b33	Rumex acetosa/R. acetosella-type	Rumex acetosa-type	HERB	4	0.76335878
-Seppa_b33	Solidago-type	Senecio-type	HERB	1	0.19083969
-Seppa_b33	Lycopodium annotinum	Lycopodium annotinum-type	VACR	1	0.19083969
-Seppa_b33	Lycopodium clavatum	Lycopodium clavatum	VACR	1	0.19083969
-Seppa_b33	Carex-type	Carex	AQUA	4	0.76335878
-Seppa_b33	Cyperaceae undiff.	Cyperaceae	AQUA	2	0.38167939
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Seppa_b33	5	18	5	Alnus	Alnus	TRSH
+Seppa_b33	7	4	7	Artemisia	Artemisia	HERB
+Seppa_b33	3646	3	3645	Calluna vulgaris	Calluna vulgaris	DWAR
+Seppa_b33	3873	2	3868	Cyperaceae undiff.	Cyperaceae	AQUA
+Seppa_b33	939	1	739	Empetrum nigrum	Empetrum nigrum	DWAR
+Seppa_b33	3944	3	130	Ericaceae-type	Ericales (tetrad)	DWAR
+Seppa_b33	941	3	58	Juniperus communis	Juniperus communis-type	TRSH
+Seppa_b33	965	1	183	Lycopodium annotinum	Lycopodium annotinum-type	VACR
+Seppa_b33	126	15	126	Picea	Picea	TRSH
+Seppa_b33	788	313	125	Pinus sylvestris	Pinus sylvestris-type	TRSH
+Seppa_b33	95	1	95	Rumex acetosa	Rumex acetosa-type	HERB
+Seppa_b33	4506	4	95	Rumex acetosa/R. acetosella-type	Rumex acetosa-type	HERB
+Seppa_b33	1400	1	99	Salix undiff.	Salix	TRSH
+Seppa_b33	2428	1	133	Solidago-type	Senecio-type	HERB
+Seppa_b33	154	1	154	Ulmus	Ulmus/Zelkova	TRSH
+Seppa_b33	12	145	12	Betula	Betula	TRSH
+Seppa_b33	24	1	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Seppa_b33	1714	1	1549	Lycopodium clavatum	Lycopodium clavatum	VACR
+Seppa_b33	3665	4	3663	Carex-type	Carex	AQUA
+Seppa_b33	4018	8	80	Gramineae undiff.	Poaceae	HERB

@@ -1,21 +1,21 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Muller_a47	Alnus fruticosa	Alnus viridis	TRSH	6	1.4018692
-Muller_a47	Betula sect. Nanae	Betula nana-type	DWAR	82	19.158879
-Muller_a47	Ericaceae	Ericales (tetrad)	DWAR	7	1.635514
-Muller_a47	Larix	Larix/Pseudotsuga	TRSH	33	7.7102804
-Muller_a47	Picea	Picea	TRSH	5	1.1682243
-Muller_a47	Pinaceae	Pinaceae	TRSH	40	9.3457944
-Muller_a47	Pinus haploxylon-type	Pinus cembra-type	TRSH	19	4.4392523
-Muller_a47	Pinus diploxylon-type	Pinus sylvestris-type	TRSH	192	44.859813
-Muller_a47	Cyperaceae	Cyperaceae	HERB	9	2.1028037
-Muller_a47	Epilobium	Epilobium	HERB	2	0.46728972
-Muller_a47	Poaceae	Poaceae	HERB	4	0.93457944
-Muller_a47	Ranunculaceae	Ranunculaceae	HERB	1	0.23364486
-Muller_a47	Selaginella rupestris	Selaginella rupestris	VACR	28	6.5420561
-Muller_a47	scalariform perforation plate	Indeterminable: unknown	INUN	2	
-Muller_a47	Tracheids	Indeterminable: unknown	INUN	18	
-Muller_a47	Spores indeterminata	Indeterminable: unknown	INUN	2	
-Muller_a47	Pollen, terrestrial	Indeterminable: unknown	INUN	400	
-Muller_a47	Lycopodium spores counted	Lycopodium (counted)	NOPO	100	
-Muller_a47	Microthyrium	Microthyrium	FUNG	3	
-Muller_a47	Pollen per unit sediment mass	Pollen per unit sediment mass (/g)	NOPO	8543	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Muller_a47	123	33	123	Larix	Larix/Pseudotsuga	TRSH
+Muller_a47	126	5	126	Picea	Picea	TRSH
+Muller_a47	1049	192	125	Pinus diploxylon-type	Pinus sylvestris-type	TRSH
+Muller_a47	127	82	127	Betula sect. Nanae	Betula nana-type	DWAR
+Muller_a47	1050	19	124	Pinus haploxylon-type	Pinus cembra-type	TRSH
+Muller_a47	1944	40	1944	Pinaceae	Pinaceae	TRSH
+Muller_a47	33	9	33	Cyperaceae	Cyperaceae	HERB
+Muller_a47	80	4	80	Poaceae	Poaceae	HERB
+Muller_a47	130	7	130	Ericaceae	Ericales (tetrad)	DWAR
+Muller_a47	547	2	547	Epilobium	Epilobium	HERB
+Muller_a47	135	1	135	Ranunculaceae	Ranunculaceae	HERB
+Muller_a47	2344	3	2344	Microthyrium	Microthyrium	FUNG
+Muller_a47	2997	2	177	scalariform perforation plate	Indeterminable: unknown	INUN
+Muller_a47	2998	18	177	Tracheids	Indeterminable: unknown	INUN
+Muller_a47	2999	2	177	Spores indeterminata	Indeterminable: unknown	INUN
+Muller_a47	2995	28	142	Selaginella rupestris	Selaginella rupestris	VACR
+Muller_a47	2970	400	177	Pollen, terrestrial	Indeterminable: unknown	INUN
+Muller_a47	3000	100	559	Lycopodium spores counted	Lycopodium (counted)	NOPO
+Muller_a47	3001	8543	3001	Pollen per unit sediment mass	Pollen per unit sediment mass (/g)	NOPO
+Muller_a47	2962	6	129	Alnus fruticosa	Alnus viridis	TRSH

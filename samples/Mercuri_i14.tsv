@@ -1,49 +1,49 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Mercuri_i14	Abies	Abies	TRSH	4	1.2383901
-Mercuri_i14	Alnus	Alnus	TRSH	10	3.0959752
-Mercuri_i14	Cedrus	Cedrus	TRSH	3	0.92879257
-Mercuri_i14	Erica	Erica	DWAR	1	0.30959752
-Mercuri_i14	Eucalyptus	Eucalyptus	TRSH	125	38.69969
-Mercuri_i14	Forsythia europea type	Forsythia	TRSH	1	0.30959752
-Mercuri_i14	Fraxinus	Fraxinus	TRSH	1	0.30959752
-Mercuri_i14	Juniperus type	Juniperus-type	TRSH	29	8.9783282
-Mercuri_i14	Olea	Olea europaea	TRSH	9	2.7863777
-Mercuri_i14	Pinus	Pinus	TRSH	4	1.2383901
-Mercuri_i14	deciduous Quercus	Quercus robur-type	TRSH	5	1.5479876
-Mercuri_i14	Rosaceae undiff.	Rosaceae	TRSH	1	0.30959752
-Mercuri_i14	Salix	Salix	TRSH	2	0.61919505
-Mercuri_i14	Aphanes	Aphanes	HERB	1	0.30959752
-Mercuri_i14	Apiaceae undiff.	Apiaceae	HERB	1	0.30959752
-Mercuri_i14	Artemisia	Artemisia	HERB	1	0.30959752
-Mercuri_i14	Asparagus	Asparagus	HERB	1	0.30959752
-Mercuri_i14	Aster type	Aster-type	HERB	4	1.2383901
-Mercuri_i14	Cichorieae	Asteraceae subf. Cichorioideae	HERB	31	9.5975232
-Mercuri_i14	Avena/Triticum group	Avena/Triticum-type	HERB	2	0.61919505
-Mercuri_i14	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	2	0.61919505
-Mercuri_i14	Centaurea nigra type	Centaurea nigra-type	HERB	6	1.8575851
-Mercuri_i14	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	22	6.8111455
-Mercuri_i14	Cirsium	Cirsium	HERB	1	0.30959752
-Mercuri_i14	Crocus	Crocus	HERB	2	0.61919505
-Mercuri_i14	Cyperaceae undiff.	Cyperaceae	HERB	3	0.92879257
-Mercuri_i14	Fabaceae	Fabaceae	HERB	3	0.92879257
-Mercuri_i14	Hordeum group	Hordeum-type	HERB	7	2.1671827
-Mercuri_i14	Liliaceae undiff.	Liliaceae-type	HERB	1	0.30959752
-Mercuri_i14	Scilla type	Ornithogalum-type	HERB	1	0.30959752
-Mercuri_i14	Papaver rhoeas	Papaver rhoeas-type	HERB	1	0.30959752
-Mercuri_i14	Peucedanum type	Peucedanum-type	HERB	2	0.61919505
-Mercuri_i14	Plantago	Plantago	HERB	2	0.61919505
-Mercuri_i14	Poaceae wild grass group	Poaceae	HERB	25	7.7399381
-Mercuri_i14	Ranunculus type	Ranunculus-type	HERB	1	0.30959752
-Mercuri_i14	Rumex	Rumex/Oxyria	HERB	1	0.30959752
-Mercuri_i14	Sedum	Sedum-type	HERB	1	0.30959752
-Mercuri_i14	Viola	Viola	HERB	1	0.30959752
-Mercuri_i14	Zea mays	Zea mays	HERB	5	1.5479876
-Mercuri_i14	Myriophyllum alterniflorum type	Myriophyllum alterniflorum	AQUA	1	0.30959752
-Mercuri_i14	Myriophyllum spicatum type	Myriophyllum spicatum	AQUA	3	0.92879257
-Mercuri_i14	Scirpus	Scirpus-type	HELO	2	0.61919505
-Mercuri_i14	Not determined	Indeterminable: unknown	INUN	10	
-Mercuri_i14	Rhamnus cf.	Indeterminable: unknown	INUN	3	
-Mercuri_i14	Lycopodium (added)	Lycopodium (added)	NOPO	10679	
-Mercuri_i14	Lycopodium (counted)	Lycopodium (counted)	NOPO	43	
-Mercuri_i14	Pollen Sum	Pollen sums	NOPO	342	
-Mercuri_i14	Weight (g)	Weight	NOPO	2.42	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Mercuri_i14	5	10	5	Alnus	Alnus	TRSH
+Mercuri_i14	7	1	7	Artemisia	Artemisia	HERB
+Mercuri_i14	8	1	8	Asparagus	Asparagus	HERB
+Mercuri_i14	560	4	321	Abies	Abies	TRSH
+Mercuri_i14	11	4	11	Aster type	Aster-type	HERB
+Mercuri_i14	18	2	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Mercuri_i14	24	22	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Mercuri_i14	29	6	29	Centaurea nigra type	Centaurea nigra-type	HERB
+Mercuri_i14	576	3	340	Cedrus	Cedrus	TRSH
+Mercuri_i14	603	1	603	Cirsium	Cirsium	HERB
+Mercuri_i14	1804	2	818	Avena/Triticum group	Avena/Triticum-type	HERB
+Mercuri_i14	38	1	38	Erica	Erica	TRSH
+Mercuri_i14	39	125	39	Eucalyptus	Eucalyptus	TRSH
+Mercuri_i14	41	3	41	Fabaceae	Fabaceae	HERB
+Mercuri_i14	190	1	190	Fraxinus	Fraxinus	TRSH
+Mercuri_i14	203	29	203	Juniperus type	Juniperus-type	TRSH
+Mercuri_i14	692	10679	692	Lycopodium (added)	Lycopodium (added)	NOPO
+Mercuri_i14	559	43	559	Lycopodium (counted)	Lycopodium (counted)	NOPO
+Mercuri_i14	1843	10	177	Not determined	Indeterminable: unknown	INUN
+Mercuri_i14	75	4	75	Pinus	Pinus	TRSH
+Mercuri_i14	442	9	68	Olea	Olea europaea	TRSH
+Mercuri_i14	1841	1	1841	Myriophyllum alterniflorum type	Myriophyllum alterniflorum	AQUA
+Mercuri_i14	1842	3	376	Myriophyllum spicatum type	Myriophyllum spicatum	AQUA
+Mercuri_i14	1849	1	494	Papaver rhoeas	Papaver rhoeas-type	HERB
+Mercuri_i14	1851	2	73	Peucedanum type	Peucedanum-type	HERB
+Mercuri_i14	1856	342	1856	Pollen Sum	Pollen sums	NOPO
+Mercuri_i14	1861	3	177	Rhamnus cf.	Indeterminable: unknown	INUN
+Mercuri_i14	99	2	99	Salix	Salix	TRSH
+Mercuri_i14	724	2	270	Plantago	Plantago	HERB
+Mercuri_i14	727	1	94	Rumex	Rumex/Oxyria	HERB
+Mercuri_i14	979	1	274	Ranunculus type	Ranunculus-type	HERB
+Mercuri_i14	1521	2	1521	Scirpus	Scirpus-type	HELO
+Mercuri_i14	1879	2.42	1879	Weight (g)	Weight	NOPO
+Mercuri_i14	105	1	105	Sedum	Sedum-type	HERB
+Mercuri_i14	748	1	430	Viola	Viola	HERB
+Mercuri_i14	812	5	423	Zea mays	Zea mays	HERB
+Mercuri_i14	258	7	258	Hordeum group	Hordeum-type	HERB
+Mercuri_i14	477	1	62	Liliaceae undiff.	Liliaceae-type	HERB
+Mercuri_i14	1001	5	86	deciduous Quercus	Quercus robur-type	TRSH
+Mercuri_i14	1107	1	6	Apiaceae undiff.	Apiaceae	HERB
+Mercuri_i14	1131	3	33	Cyperaceae undiff.	Cyperaceae	HERB
+Mercuri_i14	1800	1	1800	Aphanes	Aphanes	HERB
+Mercuri_i14	1813	31	25	Cichorieae	Asteraceae subf. Cichorioideae	HERB
+Mercuri_i14	1818	2	1818	Crocus	Crocus	HERB
+Mercuri_i14	1825	1	1825	Forsythia europea type	Forsythia	TRSH
+Mercuri_i14	1855	25	80	Poaceae wild grass group	Poaceae	HERB
+Mercuri_i14	1867	1	1867	Scilla type	Ornithogalum-type	HERB
+Mercuri_i14	472	1	92	Rosaceae undiff.	Rosaceae	TRSH

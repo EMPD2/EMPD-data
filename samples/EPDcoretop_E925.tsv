@@ -1,33 +1,33 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-EPDcoretop_E925	Alnus	Alnus	TRSH	26	3.4482759
-EPDcoretop_E925	Betula	Betula	TRSH	22	2.9177719
-EPDcoretop_E925	Calluna vulgaris	Calluna vulgaris	DWAR	282	37.400531
-EPDcoretop_E925	Corylus	Corylus	TRSH	36	4.7745358
-EPDcoretop_E925	Empetrum	Empetrum nigrum	DWAR	2	0.26525199
-EPDcoretop_E925	Ericaceae	Ericales (tetrad)	DWAR	10	1.3262599
-EPDcoretop_E925	Fraxinus excelsior	Fraxinus excelsior-type	TRSH	4	0.53050398
-EPDcoretop_E925	Pinus	Pinus	TRSH	44	5.8355438
-EPDcoretop_E925	Populus	Populus	TRSH	2	0.26525199
-EPDcoretop_E925	Salix	Salix	TRSH	2	0.26525199
-EPDcoretop_E925	Sorbus	Sorbus-type	TRSH	2	0.26525199
-EPDcoretop_E925	Ulmus	Ulmus/Zelkova	TRSH	6	0.79575597
-EPDcoretop_E925	Vaccinium	Vaccinium	DWAR	10	1.3262599
-EPDcoretop_E925	Lonicera	Lonicera	LIAN	2	0.26525199
-EPDcoretop_E925	Compositae subf. Cichorioideae undiff.	Asteraceae subf. Cichorioideae	HERB	2	0.26525199
-EPDcoretop_E925	Cruciferae	Brassicaceae	HERB	2	0.26525199
-EPDcoretop_E925	Cerealia-type	Cerealia-type	HERB	2	0.26525199
-EPDcoretop_E925	Filipendula	Filipendula	HERB	2	0.26525199
-EPDcoretop_E925	Anthemis	Matricaria-type	HERB	2	0.26525199
-EPDcoretop_E925	Narthecium	Narthecium	HERB	6	0.79575597
-EPDcoretop_E925	Plantago lanceolata	Plantago lanceolata-type	HERB	4	0.53050398
-EPDcoretop_E925	Gramineae	Poaceae	HERB	180	23.872679
-EPDcoretop_E925	Potentilla	Potentilla-type	HERB	8	1.061008
-EPDcoretop_E925	Rumex crispus	Rumex crispus-type	HERB	4	0.53050398
-EPDcoretop_E925	Succisa	Succisa-type	HERB	2	0.26525199
-EPDcoretop_E925	Polypodium	Polypodium	VACR	6	0.79575597
-EPDcoretop_E925	Pteridium	Pteridium	VACR	50	6.6312997
-EPDcoretop_E925	Sphagnum	Sphagnum	BRYO	34	4.5092838
-EPDcoretop_E925	Cyperaceae	Cyperaceae	AQUA	346	45.888594
-EPDcoretop_E925	Isoetes	Isoetes	AQPT	206	27.320955
-EPDcoretop_E925	Nymphaea	Nymphaea	AQUA	2	0.26525199
-EPDcoretop_E925	Ranunculus trichophyllus	Ranunculus aquatilis-type	AQUA	2	0.26525199
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+EPDcoretop_E925	5	26	5	Alnus	Alnus	TRSH
+EPDcoretop_E925	3078	2	3	Anthemis	Matricaria-type	HERB
+EPDcoretop_E925	12	22	12	Betula	Betula	TRSH
+EPDcoretop_E925	3646	282	3645	Calluna vulgaris	Calluna vulgaris	DWAR
+EPDcoretop_E925	1065	2	22	Cerealia-type	Cerealia-type	HERB
+EPDcoretop_E925	3825	2	25	Compositae subf. Cichorioideae undiff.	Asteraceae subf. Cichorioideae	HERB
+EPDcoretop_E925	482	2	13	Cruciferae	Brassicaceae	HERB
+EPDcoretop_E925	3868	346	3868	Cyperaceae	Cyperaceae	AQUA
+EPDcoretop_E925	739	2	739	Empetrum	Empetrum nigrum	DWAR
+EPDcoretop_E925	130	10	130	Ericaceae	Ericales (tetrad)	DWAR
+EPDcoretop_E925	45	2	45	Filipendula	Filipendula	HERB
+EPDcoretop_E925	47	4	47	Fraxinus excelsior	Fraxinus excelsior-type	TRSH
+EPDcoretop_E925	1601	180	80	Gramineae	Poaceae	HERB
+EPDcoretop_E925	4150	2	4150	Lonicera	Lonicera	LIAN
+EPDcoretop_E925	987	6	987	Narthecium	Narthecium	HERB
+EPDcoretop_E925	627	2	627	Nymphaea	Nymphaea	AQUA
+EPDcoretop_E925	60	4	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+EPDcoretop_E925	666	6	214	Polypodium	Polypodium	VACR
+EPDcoretop_E925	81	2	81	Populus	Populus	TRSH
+EPDcoretop_E925	1366	8	512	Potentilla	Potentilla-type	HERB
+EPDcoretop_E925	431	50	180	Pteridium	Pteridium aquilinum	VACR
+EPDcoretop_E925	4458	2	1182	Ranunculus trichophyllus	Ranunculus aquatilis-type	AQUA
+EPDcoretop_E925	1273	4	251	Rumex crispus	Rumex crispus-type	HERB
+EPDcoretop_E925	99	2	99	Salix	Salix	TRSH
+EPDcoretop_E925	107	2	107	Sorbus	Sorbus-type	TRSH
+EPDcoretop_E925	144	34	144	Sphagnum	Sphagnum	BRYO
+EPDcoretop_E925	2392	2	989	Succisa	Succisa-type	HERB
+EPDcoretop_E925	154	6	154	Ulmus	Ulmus/Zelkova	TRSH
+EPDcoretop_E925	4725	10	4725	Vaccinium	Vaccinium	DWAR
+EPDcoretop_E925	75	44	75	Pinus	Pinus	TRSH
+EPDcoretop_E925	201	36	31	Corylus	Corylus	TRSH
+EPDcoretop_E925	552	206	366	Isoetes	Isoetes	AQPT

@@ -1,41 +1,41 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Connor_a17	Abies nordmanniana	Abies	TRSH	2	0.060150376
-Connor_a17	Alnus glutinosa-type	Alnus glutinosa-type	TRSH	2	0.060150376
-Connor_a17	Betula	Betula	TRSH	1	0.030075188
-Connor_a17	Carpinus betulus	Carpinus betulus	TRSH	6	0.18045113
-Connor_a17	Castanea sativa	Castanea sativa	TRSH	1	0.030075188
-Connor_a17	Corylus	Corylus	TRSH	1	0.030075188
-Connor_a17	Fagus	Fagus	TRSH	5	0.15037594
-Connor_a17	Juglans regia	Juglans regia	TRSH	1	0.030075188
-Connor_a17	Ostrya-type	Ostrya/Carpinus orientalis	TRSH	11	0.33082707
-Connor_a17	Picea orientalis	Picea omorika-type	TRSH	1	0.030075188
-Connor_a17	Pinus	Pinus	TRSH	12	0.36090226
-Connor_a17	Pistacia	Pistacia	TRSH	1	0.030075188
-Connor_a17	Quercus deciduous	Quercus robur-type	TRSH	4	0.12030075
-Connor_a17	Ulmus	Ulmus/Zelkova	TRSH	1	0.030075188
-Connor_a17	Apiaceae undiff.	Apiaceae	HERB	2	0.060150376
-Connor_a17	Artemisia	Artemisia	HERB	38	1.1428571
-Connor_a17	Carduus-type	Carduus-type	HERB	3	0.090225564
-Connor_a17	Centaurea nigra-type	Centaurea nigra-type	HERB	2	0.060150376
-Connor_a17	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	2442	73.443609
-Connor_a17	Cichorium-type	Crepis-type	HERB	15	0.45112782
-Connor_a17	Digitalis purpurea-type	Digitalis	HERB	17	0.5112782
-Connor_a17	Lamiaceae undiff.	Lamiaceae	HERB	11	0.33082707
-Connor_a17	Linum	Linum	HERB	2	0.060150376
-Connor_a17	Anthemis-type	Matricaria-type	HERB	2	0.060150376
-Connor_a17	Papaver	Papaver	HERB	3	0.090225564
-Connor_a17	Plantago maritima-type	Plantago maritima-type	HERB	2	0.060150376
-Connor_a17	Poaceae	Poaceae	HERB	277	8.3308271
-Connor_a17	Polygonum aviculare-type	Polygonum aviculare-type	HERB	437	13.142857
-Connor_a17	Ranunculus acris-type	Ranunculus acris-type	HERB	2	0.060150376
-Connor_a17	Rumex acetosella-type	Rumex acetosella	HERB	1	0.030075188
-Connor_a17	Saxifraga stellaris-type	Saxifraga stellaris-type	HERB	1	0.030075188
-Connor_a17	Triticum-type	Triticum-type	HERB	12	0.36090226
-Connor_a17	Xanthium-type	Xanthium	HERB	5	0.15037594
-Connor_a17	Monolete fern spores	Monolete fern spores	VACR	2	0.060150376
-Connor_a17	Cyperaceae	Cyperaceae	AQUA	71	2.1353383
-Connor_a17	Potamogeton	Potamogeton-type	AQUA	1	0.030075188
-Connor_a17	Typha-type	Typha/Sparganium	AQUA	4	0.12030075
-Connor_a17	Fabaceae undiff.	Fabaceae undiff.	INUN	2	
-Connor_a17	Indeterminable: degraded	Indeterminable: degraded	INUN	11	
-Connor_a17	Indeterminable: unknown	Indeterminable: unknown	INUN	1	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Connor_a17	155	2	155	Alnus glutinosa-type	Alnus glutinosa-type	TRSH
+Connor_a17	589	2	3	Anthemis-type	Matricaria-type	HERB
+Connor_a17	1107	2	6	Apiaceae undiff.	Apiaceae	HERB
+Connor_a17	7	38	7	Artemisia	Artemisia	HERB
+Connor_a17	563	6	16	Carpinus betulus	Carpinus betulus	TRSH
+Connor_a17	19	1	19	Castanea sativa	Castanea sativa	TRSH
+Connor_a17	24	2442	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Connor_a17	201	1	31	Corylus	Corylus	TRSH
+Connor_a17	3868	71	3868	Cyperaceae	Cyperaceae	AQUA
+Connor_a17	3891	17	2510	Digitalis purpurea-type	Digitalis	HERB
+Connor_a17	3960	2	3960	Fabaceae undiff.	Fabaceae undiff.	INUN
+Connor_a17	192	5	42	Fagus	Fagus	TRSH
+Connor_a17	718	11	718	Indeterminable: degraded	Indeterminable: degraded	INUN
+Connor_a17	4078	1	177	Indeterminable: unknown	Indeterminable: unknown	INUN
+Connor_a17	1148	1	194	Juglans regia	Juglans regia	TRSH
+Connor_a17	747	2	747	Linum	Linum	HERB
+Connor_a17	4193	2	146	Monolete fern spores	Monolete fern spores	VACR
+Connor_a17	71	3	71	Papaver	Papaver	HERB
+Connor_a17	4292	1	4292	Picea orientalis	Picea omorika-type	TRSH
+Connor_a17	75	12	75	Pinus	Pinus	TRSH
+Connor_a17	77	1	77	Pistacia	Pistacia	TRSH
+Connor_a17	80	277	80	Poaceae	Poaceae	HERB
+Connor_a17	1078	437	262	Polygonum aviculare-type	Polygonum aviculare-type	HERB
+Connor_a17	657	1	108	Potamogeton	Potamogeton-type	AQUA
+Connor_a17	437	4	86	Quercus deciduous	Quercus robur-type	TRSH
+Connor_a17	630	2	87	Ranunculus acris-type	Ranunculus acris-type	HERB
+Connor_a17	1398	1	96	Rumex acetosella-type	Rumex acetosella	HERB
+Connor_a17	957	1	642	Saxifraga stellaris-type	Saxifraga stellaris-type	HERB
+Connor_a17	734	4	734	Typha-type	Typha/Sparganium	AQUA
+Connor_a17	154	1	154	Ulmus	Ulmus/Zelkova	TRSH
+Connor_a17	1411	5	1044	Xanthium-type	Xanthium	HERB
+Connor_a17	12	1	12	Betula	Betula	TRSH
+Connor_a17	572	11	70	Ostrya-type	Ostrya/Carpinus orientalis	TRSH
+Connor_a17	1233	12	1199	Triticum-type	Triticum-type	HERB
+Connor_a17	1242	15	1242	Cichorium-type	Crepis-type	HERB
+Connor_a17	1342	2	29	Centaurea nigra-type	Centaurea nigra-type	HERB
+Connor_a17	1381	3	1381	Carduus-type	Carduus-type	HERB
+Connor_a17	1831	11	59	Lamiaceae undiff.	Lamiaceae	HERB
+Connor_a17	2760	2	64	Plantago maritima-type	Plantago maritima-type	HERB
+Connor_a17	3490	2	321	Abies nordmanniana	Abies	TRSH

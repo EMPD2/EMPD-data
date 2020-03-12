@@ -1,41 +1,41 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Fall_b27	Acacia	Acacia	TRSH	3	0.64935065
-Fall_b27	Alnus	Alnus	TRSH	1	0.21645022
-Fall_b27	Capparis	Capparis	TRSH	1	0.21645022
-Fall_b27	Castenea	Castanea sativa	TRSH	1	0.21645022
-Fall_b27	Ceratonia	Ceratonia siliqua	TRSH	6	1.2987013
-Fall_b27	Corylus	Corylus	TRSH	1	0.21645022
-Fall_b27	Ephedra	Ephedra	TRSH	1	0.21645022
-Fall_b27	Eucalyptus	Eucalyptus	TRSH	1	0.21645022
-Fall_b27	Juniperus type	Juniperus-type	TRSH	29	6.2770563
-Fall_b27	Myrtus	Myrtaceae	TRSH	1	0.21645022
-Fall_b27	Nerium	Nerium oleander	TRSH	2	0.43290043
-Fall_b27	Olea	Olea europaea	TRSH	78	16.883117
-Fall_b27	Pinus sp	Pinus	TRSH	217	46.969697
-Fall_b27	Pinus hap	Pinus cembra-type	TRSH	2	0.43290043
-Fall_b27	Pistacia	Pistacia	TRSH	7	1.5151515
-Fall_b27	Prosopis	Prosopis	TRSH	1	0.21645022
-Fall_b27	Quercus	Quercus	TRSH	3	0.64935065
-Fall_b27	Rosaceae	Rosaceae	TRSH	3	0.64935065
-Fall_b27	Salix	Salix	TRSH	3	0.64935065
-Fall_b27	Syringia	Syringa	TRSH	3	0.64935065
-Fall_b27	Tamarix	Tamarix	TRSH	5	1.0822511
-Fall_b27	Apiaceae	Apiaceae	HERB	2	0.43290043
-Fall_b27	Artemisia	Artemisia	HERB	1	0.21645022
-Fall_b27	Asteraceae, low spine	Asteraceae	HERB	2	0.43290043
-Fall_b27	Brassica	Brassicaceae	HERB	14	3.030303
-Fall_b27	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	1	0.21645022
-Fall_b27	Poaceae Cerealia	Cerealia-type	HERB	7	1.5151515
-Fall_b27	Chenopodiaceae Sueda/Atriplex type	Chenopodiaceae/Amaranthaceae	HERB	19	4.1125541
-Fall_b27	Chenopodiaceae, Noaea type	Chenopodiaceae/Amaranthaceae	HERB	4	0.86580087
-Fall_b27	Asteraceae Circium type	Cirsium	HERB	4	0.86580087
-Fall_b27	cf Erodium	Erodium	HERB	17	3.6796537
-Fall_b27	Lamiaceae	Lamiaceae	HERB	1	0.21645022
-Fall_b27	Matthiola sp	Matthiola	HERB	2	0.43290043
-Fall_b27	Plantago lanceolata type	Plantago lanceolata-type	HERB	2	0.43290043
-Fall_b27	Poaceae	Poaceae	HERB	11	2.3809524
-Fall_b27	Polygonum	Polygonum-type (tricolporate)	HERB	1	0.21645022
-Fall_b27	Poterium	Sanguisorba minor-type	HERB	2	0.43290043
-Fall_b27	Solanaceae	Solanaceae	HERB	3	0.64935065
-Fall_b27	cf Plumbago	Indeterminable: unknown	INUN	1	
-Fall_b27	Podosoma	Acari, Oribatei	INVE	2	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Fall_b27	5	1	5	Alnus	Alnus	TRSH
+Fall_b27	518	3	518	Acacia	Acacia	TRSH
+Fall_b27	39	1	39	Eucalyptus	Eucalyptus	TRSH
+Fall_b27	201	1	31	Corylus	Corylus	TRSH
+Fall_b27	203	29	203	Juniperus type	Juniperus-type	TRSH
+Fall_b27	442	78	68	Olea	Olea europaea	TRSH
+Fall_b27	77	7	77	Pistacia	Pistacia	TRSH
+Fall_b27	1615	217	75	Pinus sp	Pinus	TRSH
+Fall_b27	99	3	99	Salix	Salix	TRSH
+Fall_b27	189	3	189	Quercus	Quercus	TRSH
+Fall_b27	500	5	414	Tamarix	Tamarix	TRSH
+Fall_b27	1618	1	1618	Prosopis	Prosopis	TRSH
+Fall_b27	6	2	6	Apiaceae	Apiaceae	HERB
+Fall_b27	7	1	7	Artemisia	Artemisia	HERB
+Fall_b27	1640	4	603	Asteraceae Circium type	Cirsium	HERB
+Fall_b27	1648	2	134	Asteraceae, low spine	Asteraceae	HERB
+Fall_b27	1649	14	13	Brassica	Brassicaceae	HERB
+Fall_b27	18	1	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Fall_b27	1650	1	1650	Capparis	Capparis	TRSH
+Fall_b27	59	1	59	Lamiaceae	Lamiaceae	HERB
+Fall_b27	159	1	159	Ephedra	Ephedra	TRSH
+Fall_b27	1661	17	522	cf Erodium	Erodium	HERB
+Fall_b27	1665	2	1665	Matthiola sp	Matthiola	HERB
+Fall_b27	1671	1	177	cf Plumbago	Indeterminable: unknown	INUN
+Fall_b27	1673	2	1673	Podosoma	Acari, Oribatei	INVE
+Fall_b27	80	11	80	Poaceae	Poaceae	HERB
+Fall_b27	221	2	60	Plantago lanceolata type	Plantago lanceolata-type	HERB
+Fall_b27	1604	1	1505	Polygonum	Polygonum-type (tricolporate)	HERB
+Fall_b27	1672	7	22	Poaceae Cerealia	Cerealia-type	HERB
+Fall_b27	492	3	492	Solanaceae	Solanaceae	HERB
+Fall_b27	1678	3	1678	Syringia	Syringa	TRSH
+Fall_b27	542	6	542	Ceratonia	Ceratonia siliqua	TRSH
+Fall_b27	1609	1	19	Castenea	Castanea sativa	TRSH
+Fall_b27	1613	1	377	Myrtus	Myrtaceae	TRSH
+Fall_b27	1617	2	124	Pinus hap	Pinus cembra-type	TRSH
+Fall_b27	1654	19	24	Chenopodiaceae Sueda/Atriplex type	Chenopodiaceae/Amaranthaceae	HERB
+Fall_b27	1656	4	24	Chenopodiaceae, Noaea type	Chenopodiaceae/Amaranthaceae	HERB
+Fall_b27	1666	2	513	Nerium	Nerium oleander	TRSH
+Fall_b27	1674	2	101	Poterium	Sanguisorba minor-type	HERB
+Fall_b27	92	3	92	Rosaceae	Rosaceae	TRSH

@@ -1,19 +1,19 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Lopez_a70	Castanea	Castanea sativa	TRSH	3	1.0948905
-Lopez_a70	Juniperus-type	Juniperus-type	TRSH	2	0.72992701
-Lopez_a70	Olea	Olea europaea	TRSH	78	28.467153
-Lopez_a70	Phillyrea	Phillyrea	TRSH	2	0.72992701
-Lopez_a70	Pinus pinaster	Pinus pinaster	TRSH	88	32.116788
-Lopez_a70	Quercus suber	Quercus cerris-type	TRSH	13	4.7445255
-Lopez_a70	Quercus evergreen	Quercus ilex-type	TRSH	2	0.72992701
-Lopez_a70	Quercus deciduous	Quercus robur-type	TRSH	2	0.72992701
-Lopez_a70	Artemisia	Artemisia	HERB	1	0.3649635
-Lopez_a70	Aster-type	Aster-type	HERB	15	5.4744526
-Lopez_a70	Cardueae	Asteraceae subf. Carduoideae	HERB	11	4.0145985
-Lopez_a70	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	4	1.459854
-Lopez_a70	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	1	0.3649635
-Lopez_a70	Cistus ladanifer	Cistus ladanifer-type	HERB	3	1.0948905
-Lopez_a70	Labiatae	Lamiaceae	HERB	2	0.72992701
-Lopez_a70	Poaceae undiff.	Poaceae	HERB	43	15.693431
-Lopez_a70	Pteridium	Pteridium	VACR	4	1.459854
-Lopez_a70	Glomus cf. G. fasciculatum	Glomus cf. fasciculatum	FUNG	9	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Lopez_a70	7	1	7	Artemisia	Artemisia	HERB
+Lopez_a70	597	15	11	Aster-type	Aster-type	HERB
+Lopez_a70	441	3	19	Castanea	Castanea sativa	TRSH
+Lopez_a70	447	4	25	Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Lopez_a70	3800	3	3800	Cistus ladanifer	Cistus ladanifer-type	HERB
+Lopez_a70	4008	9	305	Glomus cf. G. fasciculatum	Glomus cf. fasciculatum	FUNG
+Lopez_a70	442	78	68	Olea	Olea europaea	TRSH
+Lopez_a70	74	2	74	Phillyrea	Phillyrea	TRSH
+Lopez_a70	439	88	439	Pinus pinaster	Pinus pinaster	TRSH
+Lopez_a70	429	43	80	Poaceae undiff.	Poaceae	HERB
+Lopez_a70	437	2	86	Quercus deciduous	Quercus robur-type	TRSH
+Lopez_a70	427	2	85	Quercus evergreen	Quercus ilex-type	TRSH
+Lopez_a70	438	13	84	Quercus suber	Quercus cerris-type	TRSH
+Lopez_a70	18	1	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Lopez_a70	431	4	180	Pteridium	Pteridium aquilinum	VACR
+Lopez_a70	445	11	336	Cardueae	Asteraceae subf. Carduoideae	HERB
+Lopez_a70	485	2	59	Labiatae	Lamiaceae	HERB
+Lopez_a70	738	2	203	Juniperus-type	Juniperus-type	TRSH

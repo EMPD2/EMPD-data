@@ -1,38 +1,38 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Leroy_d29	Abies	Abies	TRSH	2	0.47961631
-Leroy_d29	Alnus	Alnus	TRSH	2	0.47961631
-Leroy_d29	Carpinus betulus-type	Carpinus betulus	TRSH	3	0.71942446
-Leroy_d29	Corylus	Corylus	TRSH	1	0.23980815
-Leroy_d29	Cupressaceae	Cupressaceae undiff.	TRSH	1	0.23980815
-Leroy_d29	Fagus	Fagus	TRSH	5	1.1990408
-Leroy_d29	Juglans	Juglans	TRSH	3	0.71942446
-Leroy_d29	Olea	Olea europaea	TRSH	5	1.1990408
-Leroy_d29	Pinus	Pinus	TRSH	313	75.059952
-Leroy_d29	Platanus	Platanus	TRSH	5	1.1990408
-Leroy_d29	Populus	Populus	TRSH	1	0.23980815
-Leroy_d29	Quercus evergreen	Quercus ilex-type	TRSH	1	0.23980815
-Leroy_d29	Quercus deciduous	Quercus robur-type	TRSH	14	3.3573141
-Leroy_d29	Rhamnus	Rhamnus-type	TRSH	1	0.23980815
-Leroy_d29	Rosaceae	Rosaceae	TRSH	1	0.23980815
-Leroy_d29	Salix	Salix	TRSH	2	0.47961631
-Leroy_d29	Ulmus/Zelkova	Ulmus/Zelkova	TRSH	1	0.23980815
-Leroy_d29	Vitis	Vitis	LIAN	1	0.23980815
-Leroy_d29	Apiaceae	Apiaceae	HERB	2	0.47961631
-Leroy_d29	Asteraceae Tubuliflorae	Asteraceae subf. Asteroideae	HERB	3	0.71942446
-Leroy_d29	Asteraceae Liguliflorae	Asteraceae subf. Cichorioideae	HERB	4	0.95923261
-Leroy_d29	Brassicaceae	Brassicaceae	HERB	3	0.71942446
-Leroy_d29	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	1	0.23980815
-Leroy_d29	Centaurea cyanus	Centaurea cyanus-type	HERB	3	0.71942446
-Leroy_d29	Secale	Cerealia-type	HERB	1	0.23980815
-Leroy_d29	Amaranthaceae/Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	2	0.47961631
-Leroy_d29	Cistus	Cistus	HERB	1	0.23980815
-Leroy_d29	Plantago lanceolata	Plantago lanceolata-type	HERB	2	0.47961631
-Leroy_d29	Poaceae (37 um)	Poaceae	HERB	9	2.1582734
-Leroy_d29	Poaceae	Poaceae	HERB	22	5.2757794
-Leroy_d29	Rumex	Rumex/Oxyria	HERB	1	0.23980815
-Leroy_d29	Zea mays	Zea mays	HERB	1	0.23980815
-Leroy_d29	Pediastrum boryanum	Pediastrum boryanum	ALGA	8	1.9184652
-Leroy_d29	Typha/Sparganium	Typha/Sparganium	AQUA	2	0.47961631
-Leroy_d29	Indeterminable: unknown	Indeterminable: unknown	INUN	11	
-Leroy_d29	Concentricystes	Pseudoschizaea	NOPO	4	
-Leroy_d29	Reworked	Reworked pollen	NOPO	5	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Leroy_d29	5	2	5	Alnus	Alnus	TRSH
+Leroy_d29	3525	2	24	Amaranthaceae/Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Leroy_d29	6	2	6	Apiaceae	Apiaceae	HERB
+Leroy_d29	1337	4	25	Asteraceae Liguliflorae	Asteraceae subf. Cichorioideae	HERB
+Leroy_d29	1927	3	160	Asteraceae Tubuliflorae	Asteraceae subf. Asteroideae	HERB
+Leroy_d29	13	3	13	Brassicaceae	Brassicaceae	HERB
+Leroy_d29	18	1	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Leroy_d29	821	3	462	Centaurea cyanus	Centaurea cyanus-type	HERB
+Leroy_d29	3796	1	3796	Cistus	Cistus	HERB
+Leroy_d29	3832	4	3832	Concentricystes	Pseudoschizaea	NOPO
+Leroy_d29	201	1	31	Corylus	Corylus	TRSH
+Leroy_d29	192	5	42	Fagus	Fagus	TRSH
+Leroy_d29	4078	11	177	Indeterminable: unknown	Indeterminable: unknown	INUN
+Leroy_d29	57	3	57	Juglans	Juglans	TRSH
+Leroy_d29	442	5	68	Olea	Olea europaea	TRSH
+Leroy_d29	909	8	909	Pediastrum boryanum	Pediastrum boryanum	ALGA
+Leroy_d29	75	313	75	Pinus	Pinus	TRSH
+Leroy_d29	60	2	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+Leroy_d29	4338	9	80	Poaceae (37 um)	Poaceae	HERB
+Leroy_d29	81	1	81	Populus	Populus	TRSH
+Leroy_d29	437	14	86	Quercus deciduous	Quercus robur-type	TRSH
+Leroy_d29	427	1	85	Quercus evergreen	Quercus ilex-type	TRSH
+Leroy_d29	4464	5	4464	Reworked	Reworked pollen	NOPO
+Leroy_d29	89	1	89	Rhamnus	Rhamnus-type	TRSH
+Leroy_d29	92	1	92	Rosaceae	Rosaceae	TRSH
+Leroy_d29	727	1	94	Rumex	Rumex/Oxyria	HERB
+Leroy_d29	99	2	99	Salix	Salix	TRSH
+Leroy_d29	104	1	22	Secale	Cerealia-type	HERB
+Leroy_d29	808	2	734	Typha/Sparganium	Typha/Sparganium	AQUA
+Leroy_d29	2400	1	154	Ulmus/Zelkova	Ulmus/Zelkova	TRSH
+Leroy_d29	78	5	78	Platanus	Platanus	TRSH
+Leroy_d29	80	22	80	Poaceae	Poaceae	HERB
+Leroy_d29	560	2	321	Abies	Abies	TRSH
+Leroy_d29	714	1	347	Cupressaceae	Cupressaceae undiff.	TRSH
+Leroy_d29	812	1	423	Zea mays	Zea mays	HERB
+Leroy_d29	3667	3	16	Carpinus betulus-type	Carpinus betulus	TRSH
+Leroy_d29	4756	1	4756	Vitis	Vitis	LIAN

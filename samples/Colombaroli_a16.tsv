@@ -1,38 +1,38 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Colombaroli_a16	Castanea sativa	Castanea sativa	TRSH	20	3.2733224
-Colombaroli_a16	Ephedra fragilis type	Ephedra fragilis-type	TRSH	1	0.16366612
-Colombaroli_a16	Fraxinus excelsior	Fraxinus excelsior-type	TRSH	25	4.091653
-Colombaroli_a16	Fraxinus ornus	Fraxinus ornus	TRSH	13	2.1276596
-Colombaroli_a16	Genista	Genista-type	TRSH	40	6.5466448
-Colombaroli_a16	Juniperus	Juniperus communis-type	TRSH	27	4.4189853
-Colombaroli_a16	Olea europaea	Olea europaea	TRSH	10	1.6366612
-Colombaroli_a16	Phillyrea	Phillyrea	TRSH	3	0.49099836
-Colombaroli_a16	Pinus	Pinus	TRSH	42	6.8739771
-Colombaroli_a16	Quercus ilex/coccifera	Quercus ilex-type	TRSH	1	0.16366612
-Colombaroli_a16	Quercus pubescens/petraea	Quercus robur-type	TRSH	305	49.918167
-Colombaroli_a16	Rosaceae	Rosaceae	TRSH	4	0.65466448
-Colombaroli_a16	Salix	Salix	TRSH	2	0.32733224
-Colombaroli_a16	Apiaceae	Apiaceae	HERB	14	2.2913257
-Colombaroli_a16	Aster type	Aster-type	HERB	3	0.49099836
-Colombaroli_a16	Astragalus	Astragalus-type	HERB	1	0.16366612
-Colombaroli_a16	Brassicaceae	Brassicaceae	HERB	2	0.32733224
-Colombaroli_a16	Cerealia	Cerealia-type	HERB	3	0.49099836
-Colombaroli_a16	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	2	0.32733224
-Colombaroli_a16	Cistaceae	Cistaceae	HERB	4	0.65466448
-Colombaroli_a16	Cyclamen	Cyclamen	HERB	1	0.16366612
-Colombaroli_a16	Cyperaceae	Cyperaceae	HERB	2	0.32733224
-Colombaroli_a16	Daucus	Daucus	HERB	2	0.32733224
-Colombaroli_a16	Fabaceae	Fabaceae	HERB	3	0.49099836
-Colombaroli_a16	Helianthemum	Helianthemum	HERB	2	0.32733224
-Colombaroli_a16	Liliaceae	Liliaceae-type	HERB	2	0.32733224
-Colombaroli_a16	Achillea type	Matricaria-type	HERB	1	0.16366612
-Colombaroli_a16	Paronychia	Paronychia	HERB	1	0.16366612
-Colombaroli_a16	Poaceae	Poaceae	HERB	37	6.0556465
-Colombaroli_a16	Rubiaceae	Rubiaceae	HERB	1	0.16366612
-Colombaroli_a16	Rumex acetosa	Rumex acetosa-type	HERB	1	0.16366612
-Colombaroli_a16	Sedum	Sedum-type	HERB	22	3.6006547
-Colombaroli_a16	Thalictrum	Thalictrum	HERB	3	0.49099836
-Colombaroli_a16	Trifolium pratense	Trifolium pratense-type	HERB	1	0.16366612
-Colombaroli_a16	Trifolium repens	Trifolium repens-type	HERB	7	1.1456628
-Colombaroli_a16	Trifolium	Trifolium-type	HERB	1	0.16366612
-Colombaroli_a16	Vicia	Vicia-type	HERB	2	0.32733224
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Colombaroli_a16	3	1	3	Achillea type	Matricaria-type	HERB
+Colombaroli_a16	6	14	6	Apiaceae	Apiaceae	HERB
+Colombaroli_a16	10	1	10	Astragalus	Astragalus-type	HERB
+Colombaroli_a16	11	3	11	Aster type	Aster-type	HERB
+Colombaroli_a16	13	2	13	Brassicaceae	Brassicaceae	HERB
+Colombaroli_a16	19	20	19	Castanea sativa	Castanea sativa	TRSH
+Colombaroli_a16	22	3	22	Cerealia	Cerealia-type	HERB
+Colombaroli_a16	24	2	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Colombaroli_a16	26	4	26	Cistaceae	Cistaceae	HERB
+Colombaroli_a16	32	1	32	Cyclamen	Cyclamen	HERB
+Colombaroli_a16	33	2	33	Cyperaceae	Cyperaceae	HERB
+Colombaroli_a16	35	2	35	Daucus	Daucus	HERB
+Colombaroli_a16	36	1	36	Ephedra fragilis type	Ephedra fragilis-type	TRSH
+Colombaroli_a16	41	3	41	Fabaceae	Fabaceae	HERB
+Colombaroli_a16	49	40	49	Genista	Genista-type	TRSH
+Colombaroli_a16	52	2	52	Helianthemum	Helianthemum	HERB
+Colombaroli_a16	58	27	58	Juniperus	Juniperus communis-type	TRSH
+Colombaroli_a16	62	2	62	Liliaceae	Liliaceae-type	HERB
+Colombaroli_a16	68	10	68	Olea europaea	Olea europaea	TRSH
+Colombaroli_a16	72	1	72	Paronychia	Paronychia	HERB
+Colombaroli_a16	74	3	74	Phillyrea	Phillyrea	TRSH
+Colombaroli_a16	75	42	75	Pinus	Pinus	TRSH
+Colombaroli_a16	86	305	86	Quercus pubescens/petraea	Quercus robur-type	TRSH
+Colombaroli_a16	95	1	95	Rumex acetosa	Rumex acetosa-type	HERB
+Colombaroli_a16	99	2	99	Salix	Salix	TRSH
+Colombaroli_a16	105	22	105	Sedum	Sedum-type	HERB
+Colombaroli_a16	112	3	112	Thalictrum	Thalictrum	HERB
+Colombaroli_a16	114	1	114	Trifolium pratense	Trifolium pratense-type	HERB
+Colombaroli_a16	115	1	115	Trifolium	Trifolium-type	HERB
+Colombaroli_a16	116	7	116	Trifolium repens	Trifolium repens-type	HERB
+Colombaroli_a16	44	13	44	Fraxinus ornus	Fraxinus ornus	TRSH
+Colombaroli_a16	47	25	47	Fraxinus excelsior	Fraxinus excelsior-type	TRSH
+Colombaroli_a16	80	37	80	Poaceae	Poaceae	HERB
+Colombaroli_a16	85	1	85	Quercus ilex/coccifera	Quercus ilex-type	TRSH
+Colombaroli_a16	121	2	121	Vicia	Vicia-type	HERB
+Colombaroli_a16	92	4	92	Rosaceae	Rosaceae	TRSH
+Colombaroli_a16	93	1	93	Rubiaceae	Rubiaceae	HERB

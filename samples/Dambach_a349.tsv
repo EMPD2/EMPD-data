@@ -1,37 +1,37 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Dambach_a349	Abies	Abies	TRSH	3	0.39525692
-Dambach_a349	Acer	Acer campestre-type	TRSH	1	0.13175231
-Dambach_a349	Alnus	Alnus	TRSH	22	2.8985507
-Dambach_a349	Betula	Betula	TRSH	24	3.1620553
-Dambach_a349	Carpinus	Carpinus betulus	TRSH	33	4.3478261
-Dambach_a349	Castanea	Castanea sativa	TRSH	2	0.26350461
-Dambach_a349	Corylus	Corylus	TRSH	2	0.26350461
-Dambach_a349	Fagus	Fagus	TRSH	168	22.134387
-Dambach_a349	Fraxinus	Fraxinus	TRSH	4	0.52700922
-Dambach_a349	Juglans	Juglans	TRSH	1	0.13175231
-Dambach_a349	Larix	Larix/Pseudotsuga	TRSH	1	0.13175231
-Dambach_a349	Picea	Picea	TRSH	6	0.79051383
-Dambach_a349	Pinus	Pinus	TRSH	55	7.2463768
-Dambach_a349	Quercus	Quercus	TRSH	358	47.167325
-Dambach_a349	Rosaceae	Rosaceae	TRSH	1	0.13175231
-Dambach_a349	Salix	Salix	TRSH	3	0.39525692
-Dambach_a349	Ulmus	Ulmus/Zelkova	TRSH	2	0.26350461
-Dambach_a349	Umbelliferae	Apiaceae	HERB	2	0.26350461
-Dambach_a349	Artemisia	Artemisia	HERB	2	0.26350461
-Dambach_a349	Asteroideae	Asteraceae subf. Asteroideae	HERB	3	0.39525692
-Dambach_a349	Brassicaceae	Brassicaceae	HERB	4	0.52700922
-Dambach_a349	Cerealia-type	Cerealia-type	HERB	4	0.52700922
-Dambach_a349	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	5	0.65876153
-Dambach_a349	Plantago lanceolata	Plantago lanceolata-type	HERB	2	0.26350461
-Dambach_a349	Gramineae	Poaceae	HERB	35	4.6113307
-Dambach_a349	Ranunculaceae	Ranunculaceae	HERB	1	0.13175231
-Dambach_a349	Ranunculus-type	Ranunculus-type	HERB	2	0.26350461
-Dambach_a349	Rubiaceae	Rubiaceae	HERB	5	0.65876153
-Dambach_a349	Rumex acetosa-type	Rumex acetosa-type	HERB	4	0.52700922
-Dambach_a349	Eurumex	Rumex crispus-type	HERB	1	0.13175231
-Dambach_a349	Scrophularia/Verbascum	Scrophularia-type	HERB	1	0.13175231
-Dambach_a349	Urtica	Urtica	HERB	2	0.26350461
-Dambach_a349	Cyperaceae	Cyperaceae	AQUA	4	0.52700922
-Dambach_a349	Fabaceae	Fabaceae	INUN	1	
-Dambach_a349	Indeterminable: unknown	Indeterminable: unknown	INUN	7	
-Dambach_a349	Varia	Indeterminable: unknown	INUN	1	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Dambach_a349	560	3	321	Abies	Abies	TRSH
+Dambach_a349	2	1	2	Acer	Acer campestre-type	TRSH
+Dambach_a349	5	22	5	Alnus	Alnus	TRSH
+Dambach_a349	7	2	7	Artemisia	Artemisia	HERB
+Dambach_a349	12	24	12	Betula	Betula	TRSH
+Dambach_a349	13	4	13	Brassicaceae	Brassicaceae	HERB
+Dambach_a349	16	33	16	Carpinus	Carpinus betulus	TRSH
+Dambach_a349	441	2	19	Castanea	Castanea sativa	TRSH
+Dambach_a349	1065	4	22	Cerealia-type	Cerealia-type	HERB
+Dambach_a349	24	5	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Dambach_a349	201	2	31	Corylus	Corylus	TRSH
+Dambach_a349	3868	4	3868	Cyperaceae	Cyperaceae	AQUA
+Dambach_a349	3955	1	251	Eurumex	Rumex crispus-type	HERB
+Dambach_a349	3958	1	3958	Fabaceae	Fabaceae	INUN
+Dambach_a349	192	168	42	Fagus	Fagus	TRSH
+Dambach_a349	190	4	190	Fraxinus	Fraxinus	TRSH
+Dambach_a349	1601	35	80	Gramineae	Poaceae	HERB
+Dambach_a349	4078	7	177	Indeterminable: unknown	Indeterminable: unknown	INUN
+Dambach_a349	57	1	57	Juglans	Juglans	TRSH
+Dambach_a349	123	1	123	Larix	Larix/Pseudotsuga	TRSH
+Dambach_a349	126	6	126	Picea	Picea	TRSH
+Dambach_a349	75	55	75	Pinus	Pinus	TRSH
+Dambach_a349	60	2	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+Dambach_a349	135	1	135	Ranunculaceae	Ranunculaceae	HERB
+Dambach_a349	2429	2	274	Ranunculus-type	Ranunculus-type	HERB
+Dambach_a349	92	1	92	Rosaceae	Rosaceae	TRSH
+Dambach_a349	93	5	93	Rubiaceae	Rubiaceae	HERB
+Dambach_a349	634	4	95	Rumex acetosa-type	Rumex acetosa-type	HERB
+Dambach_a349	99	3	99	Salix	Salix	TRSH
+Dambach_a349	4579	1	103	Scrophularia/Verbascum	Scrophularia-type	HERB
+Dambach_a349	154	2	154	Ulmus	Ulmus/Zelkova	TRSH
+Dambach_a349	590	2	6	Umbelliferae	Apiaceae	HERB
+Dambach_a349	652	2	652	Urtica	Urtica	HERB
+Dambach_a349	1098	1	177	Varia	Indeterminable: unknown	INUN
+Dambach_a349	189	358	189	Quercus	Quercus	TRSH
+Dambach_a349	761	3	160	Asteroideae	Asteraceae subf. Asteroideae	HERB

@@ -1,35 +1,35 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-EPDcoretop_E229	Alnus	Alnus	TRSH	75	1.4857369
-EPDcoretop_E229	Betula	Betula	TRSH	164	3.2488114
-EPDcoretop_E229	Calluna vulgaris	Calluna vulgaris	DWAR	2580	51.10935
-EPDcoretop_E229	Corylus	Corylus	TRSH	81	1.6045959
-EPDcoretop_E229	Fagus	Fagus	TRSH	18	0.35657686
-EPDcoretop_E229	Juglans	Juglans	TRSH	1	0.019809826
-EPDcoretop_E229	Myrica	Myrica	TRSH	49	0.97068146
-EPDcoretop_E229	Picea	Picea	TRSH	8	0.15847861
-EPDcoretop_E229	Pinus	Pinus	TRSH	153	3.0309033
-EPDcoretop_E229	Quercus	Quercus	TRSH	71	1.4064976
-EPDcoretop_E229	Rosaceae	Rosaceae	TRSH	5	0.099049128
-EPDcoretop_E229	Salix	Salix	TRSH	4	0.079239303
-EPDcoretop_E229	Ulmus	Ulmus/Zelkova	TRSH	6	0.11885895
-EPDcoretop_E229	Umbelliferae	Apiaceae	HERB	1	0.019809826
-EPDcoretop_E229	Artemisia	Artemisia	HERB	1	0.019809826
-EPDcoretop_E229	Compositae subf. Asteroideae	Asteraceae subf. Asteroideae	HERB	4	0.079239303
-EPDcoretop_E229	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB	2	0.039619651
-EPDcoretop_E229	Cruciferae	Brassicaceae	HERB	5	0.099049128
-EPDcoretop_E229	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	2	0.039619651
-EPDcoretop_E229	Centaurea cyanus	Centaurea cyanus-type	HERB	3	0.059429477
-EPDcoretop_E229	Cerealia-type	Cerealia-type	HERB	2	0.039619651
-EPDcoretop_E229	Secale	Cerealia-type	HERB	42	0.83201268
-EPDcoretop_E229	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	7	0.13866878
-EPDcoretop_E229	Leguminosae	Leguminosae	HERB	1	0.019809826
-EPDcoretop_E229	Plantago lanceolata	Plantago lanceolata-type	HERB	28	0.55467512
-EPDcoretop_E229	Gramineae	Poaceae	HERB	1690	33.478605
-EPDcoretop_E229	Rubiaceae	Rubiaceae	HERB	9	0.17828843
-EPDcoretop_E229	Rumex acetosella	Rumex acetosella	HERB	4	0.079239303
-EPDcoretop_E229	Trifolium repens	Trifolium repens-type	HERB	7	0.13866878
-EPDcoretop_E229	Lycopodium clavatum	Lycopodium clavatum	VACR	2	0.039619651
-EPDcoretop_E229	Filicopsida	Monolete fern spores	VACR	5	0.099049128
-EPDcoretop_E229	Sphagnum	Sphagnum	BRYO	18	0.35657686
-EPDcoretop_E229	Cyperaceae	Cyperaceae	AQUA	11	0.21790808
-EPDcoretop_E229	Menyanthes trifoliata	Menyanthes trifoliata	AQUA	1	0.019809826
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+EPDcoretop_E229	5	75	5	Alnus	Alnus	TRSH
+EPDcoretop_E229	7	1	7	Artemisia	Artemisia	HERB
+EPDcoretop_E229	12	164	12	Betula	Betula	TRSH
+EPDcoretop_E229	3646	2580	3645	Calluna vulgaris	Calluna vulgaris	DWAR
+EPDcoretop_E229	18	2	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+EPDcoretop_E229	1065	2	22	Cerealia-type	Cerealia-type	HERB
+EPDcoretop_E229	3822	4	160	Compositae subf. Asteroideae	Asteraceae subf. Asteroideae	HERB
+EPDcoretop_E229	3824	2	25	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+EPDcoretop_E229	201	81	31	Corylus	Corylus	TRSH
+EPDcoretop_E229	482	5	13	Cruciferae	Brassicaceae	HERB
+EPDcoretop_E229	3868	11	3868	Cyperaceae	Cyperaceae	AQUA
+EPDcoretop_E229	192	18	42	Fagus	Fagus	TRSH
+EPDcoretop_E229	3969	5	146	Filicopsida	Monolete fern spores	VACR
+EPDcoretop_E229	1601	1690	80	Gramineae	Poaceae	HERB
+EPDcoretop_E229	57	1	57	Juglans	Juglans	TRSH
+EPDcoretop_E229	744	1	744	Leguminosae	Leguminosae	HERB
+EPDcoretop_E229	1714	2	1549	Lycopodium clavatum	Lycopodium clavatum	VACR
+EPDcoretop_E229	961	1	175	Menyanthes trifoliata	Menyanthes trifoliata	AQUA
+EPDcoretop_E229	2174	49	977	Myrica	Myrica	TRSH
+EPDcoretop_E229	126	8	126	Picea	Picea	TRSH
+EPDcoretop_E229	75	153	75	Pinus	Pinus	TRSH
+EPDcoretop_E229	189	71	189	Quercus	Quercus	TRSH
+EPDcoretop_E229	96	4	96	Rumex acetosella	Rumex acetosella	HERB
+EPDcoretop_E229	99	4	99	Salix	Salix	TRSH
+EPDcoretop_E229	104	42	22	Secale	Cerealia-type	HERB
+EPDcoretop_E229	144	18	144	Sphagnum	Sphagnum	BRYO
+EPDcoretop_E229	116	7	116	Trifolium repens	Trifolium repens-type	HERB
+EPDcoretop_E229	154	6	154	Ulmus	Ulmus/Zelkova	TRSH
+EPDcoretop_E229	590	1	6	Umbelliferae	Apiaceae	HERB
+EPDcoretop_E229	24	7	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+EPDcoretop_E229	60	28	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+EPDcoretop_E229	821	3	462	Centaurea cyanus	Centaurea cyanus-type	HERB
+EPDcoretop_E229	92	5	92	Rosaceae	Rosaceae	TRSH
+EPDcoretop_E229	93	9	93	Rubiaceae	Rubiaceae	HERB

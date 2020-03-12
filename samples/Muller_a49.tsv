@@ -1,20 +1,20 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Muller_a49	Alnus glutinosa	Alnus glutinosa-type	TRSH	4	0.95238095
-Muller_a49	Betula sect. Albae	Betula pubescens-type	TRSH	42	10
-Muller_a49	Ericaceae empetrum-type	Empetrum nigrum	DWAR	5	1.1904762
-Muller_a49	Larix	Larix/Pseudotsuga	TRSH	20	4.7619048
-Muller_a49	Picea	Picea	TRSH	2	0.47619048
-Muller_a49	Pinus diploxylon-type	Pinus sylvestris-type	TRSH	320	76.190476
-Muller_a49	Cyperaceae	Cyperaceae	HERB	2	0.47619048
-Muller_a49	Poaceae	Poaceae	HERB	16	3.8095238
-Muller_a49	Ranunculaceae pulsatilla	Pulsatilla	HERB	4	0.95238095
-Muller_a49	Asteraceae saussurea-type	Saussurea-type	HERB	3	0.71428571
-Muller_a49	Ranunculaceae thalictrum	Thalictrum	HERB	1	0.23809524
-Muller_a49	Lycopodium annotinum	Lycopodium annotinum-type	VACR	1	0.23809524
-Muller_a49	Tracheids	Indeterminable: unknown	INUN	1	
-Muller_a49	Pollen, terrestrial	Indeterminable: unknown	INUN	419	
-Muller_a49	Gelasinospora	Gelasinospora	FUNG	2	
-Muller_a49	Lycopodium spores counted	Lycopodium (counted)	NOPO	34	
-Muller_a49	Pollen per unit sediment mass	Pollen per unit sediment mass (/g)	NOPO	26321	
-Muller_a49	Sphagnum	Sphagnum	NOPO	2	
-Muller_a49	Stomata	Stomata	VEMI	7	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Muller_a49	123	20	123	Larix	Larix/Pseudotsuga	TRSH
+Muller_a49	126	2	126	Picea	Picea	TRSH
+Muller_a49	128	42	128	Betula sect. Albae	Betula pubescens-type	TRSH
+Muller_a49	33	2	33	Cyperaceae	Cyperaceae	HERB
+Muller_a49	80	16	80	Poaceae	Poaceae	HERB
+Muller_a49	2966	3	235	Asteraceae saussurea-type	Saussurea-type	HERB
+Muller_a49	2986	5	739	Ericaceae empetrum-type	Empetrum nigrum	DWAR
+Muller_a49	2969	1	112	Ranunculaceae thalictrum	Thalictrum	HERB
+Muller_a49	2991	4	2991	Ranunculaceae pulsatilla	Pulsatilla	HERB
+Muller_a49	2811	2	2811	Gelasinospora	Gelasinospora	FUNG
+Muller_a49	2981	7	2771	Stomata	Stomata	VEMI
+Muller_a49	2998	1	177	Tracheids	Indeterminable: unknown	INUN
+Muller_a49	144	2	144	Sphagnum	Sphagnum	BRYO
+Muller_a49	965	1	183	Lycopodium annotinum	Lycopodium annotinum-type	VACR
+Muller_a49	2970	419	177	Pollen, terrestrial	Indeterminable: unknown	INUN
+Muller_a49	3000	34	559	Lycopodium spores counted	Lycopodium (counted)	NOPO
+Muller_a49	3001	26321	3001	Pollen per unit sediment mass	Pollen per unit sediment mass (/g)	NOPO
+Muller_a49	760	4	155	Alnus glutinosa	Alnus glutinosa-type	TRSH
+Muller_a49	1049	320	125	Pinus diploxylon-type	Pinus sylvestris-type	TRSH

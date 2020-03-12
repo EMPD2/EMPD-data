@@ -1,25 +1,25 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Lapteva_b17	Abies sibirica	Abies sibirica	TRSH	8	2.020202
-Lapteva_b17	Betula sect. Albae	Betula pubescens-type	TRSH	82	20.707071
-Lapteva_b17	Picea	Picea	TRSH	46	11.616162
-Lapteva_b17	Pinus sylvestris=Pinus s/g Diploxylon	Pinus sylvestris-type	TRSH	71	17.929293
-Lapteva_b17	Rosaceae	Rosaceae	TRSH	4	1.010101
-Lapteva_b17	Tilia cordata-type	Tilia cordata-type	TRSH	3	0.75757576
-Lapteva_b17	Ulmus	Ulmus/Zelkova	TRSH	3	0.75757576
-Lapteva_b17	Artemisia	Artemisia	HERB	11	2.7777778
-Lapteva_b17	Asteraceae/Asteroideae	Asteraceae subf. Asteroideae	HERB	6	1.5151515
-Lapteva_b17	Asteraceae/Cichorioideae	Asteraceae subf. Cichorioideae	HERB	14	3.5353535
-Lapteva_b17	Brassicaceae	Brassicaceae	HERB	2	0.50505051
-Lapteva_b17	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	14	3.5353535
-Lapteva_b17	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	4	1.010101
-Lapteva_b17	Fabaceae	Fabaceae	HERB	2	0.50505051
-Lapteva_b17	Geraniaceae	Geraniaceae	HERB	1	0.25252525
-Lapteva_b17	Poaceae	Poaceae	HERB	108	27.272727
-Lapteva_b17	Polygonaceae	Polygonaceae	HERB	6	1.5151515
-Lapteva_b17	Rubiaceae	Rubiaceae	HERB	1	0.25252525
-Lapteva_b17	Lycopodium clavatum-type	Lycopodium clavatum-type	VACR	1	0.25252525
-Lapteva_b17	Polypodiophyta	Monolete fern spores	VACR	6	1.5151515
-Lapteva_b17	Ophyoglossaceae	Ophioglossaceae	VACR	2	0.50505051
-Lapteva_b17	Pteridium aquilinum	Pteridium aquilinum	VACR	1	0.25252525
-Lapteva_b17	Pollen gen. indet.	Indeterminable: unknown	INUN	2	
-Lapteva_b17	Sphagnum	Sphagnum	NOPO	2	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Lapteva_b17	149	8	149	Abies sibirica	Abies sibirica	TRSH
+Lapteva_b17	126	46	126	Picea	Picea	TRSH
+Lapteva_b17	150	71	125	Pinus sylvestris=Pinus s/g Diploxylon	Pinus sylvestris-type	TRSH
+Lapteva_b17	128	82	128	Betula sect. Albae	Betula pubescens-type	TRSH
+Lapteva_b17	153	3	153	Tilia cordata-type	Tilia cordata-type	TRSH
+Lapteva_b17	154	3	154	Ulmus	Ulmus/Zelkova	TRSH
+Lapteva_b17	80	108	80	Poaceae	Poaceae	HERB
+Lapteva_b17	7	11	7	Artemisia	Artemisia	HERB
+Lapteva_b17	13	2	13	Brassicaceae	Brassicaceae	HERB
+Lapteva_b17	160	6	160	Asteraceae/Asteroideae	Asteraceae subf. Asteroideae	HERB
+Lapteva_b17	161	14	25	Asteraceae/Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Lapteva_b17	18	14	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Lapteva_b17	41	2	41	Fabaceae	Fabaceae	HERB
+Lapteva_b17	138	6	138	Polygonaceae	Polygonaceae	HERB
+Lapteva_b17	165	1	165	Geraniaceae	Geraniaceae	HERB
+Lapteva_b17	92	4	92	Rosaceae	Rosaceae	TRSH
+Lapteva_b17	93	1	93	Rubiaceae	Rubiaceae	HERB
+Lapteva_b17	177	2	177	Pollen gen. indet.	Indeterminable: unknown	INUN
+Lapteva_b17	178	6	146	Polypodiophyta	Monolete fern spores	VACR
+Lapteva_b17	144	2	144	Sphagnum	Sphagnum	BRYO
+Lapteva_b17	24	4	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Lapteva_b17	179	2	179	Ophyoglossaceae	Ophioglossaceae	VACR
+Lapteva_b17	180	1	180	Pteridium aquilinum	Pteridium aquilinum	VACR
+Lapteva_b17	182	1	182	Lycopodium clavatum-type	Lycopodium clavatum-type	VACR

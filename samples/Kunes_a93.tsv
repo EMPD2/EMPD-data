@@ -1,40 +1,40 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Kunes_a93	Abies	Abies	TRSH	4	0.37071362
-Kunes_a93	Betula	Betula	TRSH	29	2.6876738
-Kunes_a93	Betula nana	Betula nana-type	DWAR	142	13.160334
-Kunes_a93	Ephedra fragilis-type	Ephedra fragilis-type	TRSH	2	0.18535681
-Kunes_a93	Larix/Pseudotsuga	Larix/Pseudotsuga	TRSH	25	2.3169601
-Kunes_a93	Picea	Picea	TRSH	24	2.2242817
-Kunes_a93	Pinus cembra-type	Pinus cembra-type	TRSH	346	32.066728
-Kunes_a93	Pinus sylvestris-type	Pinus sylvestris-type	TRSH	15	1.3901761
-Kunes_a93	Salix	Salix	TRSH	1	0.092678406
-Kunes_a93	Sorbus/Cotoneaster	Sorbus-type	TRSH	2	0.18535681
-Kunes_a93	Aconitum-type	Aconitum	HERB	1	0.092678406
-Kunes_a93	Allium-type	Allium-type	HERB	2	0.18535681
-Kunes_a93	Apiaceae undiff.	Apiaceae	HERB	1	0.092678406
-Kunes_a93	Bupleurum-type	Apiaceae	HERB	3	0.27803522
-Kunes_a93	Apiaceae	Apiaceae	HERB	7	0.64874884
-Kunes_a93	Artemisia	Artemisia	HERB	181	16.774791
-Kunes_a93	Brassicaceae	Brassicaceae	HERB	3	0.27803522
-Kunes_a93	Cerealia undiff.	Cerealia-type	HERB	1	0.092678406
-Kunes_a93	Chenopodiaceae pro parte	Chenopodiaceae/Amaranthaceae	HERB	13	1.2048193
-Kunes_a93	Cirsium	Cirsium	HERB	1	0.092678406
-Kunes_a93	Gentiana pneumonanthe-type	Gentiana pneumonanthe-type	HERB	1	0.092678406
-Kunes_a93	Gentianella germanica-type	Gentianella campestris-type	HERB	5	0.46339203
-Kunes_a93	Gypsophila repens-type	Gypsophila repens-type	HERB	2	0.18535681
-Kunes_a93	Heracleum sphondylium	Heracleum sphondylium	HERB	7	0.64874884
-Kunes_a93	Cannabaceae	Humulus/Cannabis	HERB	3	0.27803522
-Kunes_a93	Matricaria-type	Matricaria-type	HERB	1	0.092678406
-Kunes_a93	Mentha-type	Mentha-type	HERB	3	0.27803522
-Kunes_a93	Plantago media/major-type	Plantago major/P. media-type	HERB	10	0.92678406
-Kunes_a93	Poaceae	Poaceae	HERB	175	16.218721
-Kunes_a93	Polygonum bistorta	Polygonum bistorta	HERB	2	0.18535681
-Kunes_a93	Potentilla-type	Potentilla-type	HERB	28	2.5949954
-Kunes_a93	Prunella-type	Prunella-type	HERB	1	0.092678406
-Kunes_a93	Ranunculus acris-type	Ranunculus acris-type	HERB	6	0.55607044
-Kunes_a93	Rubiaceae	Rubiaceae	HERB	2	0.18535681
-Kunes_a93	Senecio-type	Senecio-type	HERB	18	1.6682113
-Kunes_a93	Thalictrum	Thalictrum	HERB	7	0.64874884
-Kunes_a93	Urtica	Urtica	HERB	4	0.37071362
-Kunes_a93	Monolete fern spores	Monolete fern spores	VACR	1	0.092678406
-Kunes_a93	Cyperaceae	Cyperaceae	AQUA	92	8.5264133
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Kunes_a93	3501	1	585	Aconitum-type	Aconitum	HERB
+Kunes_a93	6	7	6	Apiaceae	Apiaceae	HERB
+Kunes_a93	1107	1	6	Apiaceae undiff.	Apiaceae	HERB
+Kunes_a93	12	29	12	Betula	Betula	TRSH
+Kunes_a93	1363	142	127	Betula nana	Betula nana-type	DWAR
+Kunes_a93	2550	3	6	Bupleurum-type	Apiaceae	HERB
+Kunes_a93	3652	3	205	Cannabaceae	Humulus/Cannabis	HERB
+Kunes_a93	822	1	22	Cerealia undiff.	Cerealia-type	HERB
+Kunes_a93	3787	13	24	Chenopodiaceae pro parte	Chenopodiaceae/Amaranthaceae	HERB
+Kunes_a93	603	1	603	Cirsium	Cirsium	HERB
+Kunes_a93	3868	92	3868	Cyperaceae	Cyperaceae	AQUA
+Kunes_a93	2424	2	36	Ephedra fragilis-type	Ephedra fragilis-type	TRSH
+Kunes_a93	1067	1	607	Gentiana pneumonanthe-type	Gentiana pneumonanthe-type	HERB
+Kunes_a93	4002	5	608	Gentianella germanica-type	Gentianella campestris-type	HERB
+Kunes_a93	2564	2	1253	Gypsophila repens-type	Gypsophila repens-type	HERB
+Kunes_a93	4045	7	1140	Heracleum sphondylium	Heracleum sphondylium	HERB
+Kunes_a93	2336	25	123	Larix/Pseudotsuga	Larix/Pseudotsuga	TRSH
+Kunes_a93	1073	3	65	Mentha-type	Mentha-type	HERB
+Kunes_a93	126	24	126	Picea	Picea	TRSH
+Kunes_a93	4298	346	124	Pinus cembra-type	Pinus cembra-type	TRSH
+Kunes_a93	1226	15	125	Pinus sylvestris-type	Pinus sylvestris-type	TRSH
+Kunes_a93	80	175	80	Poaceae	Poaceae	HERB
+Kunes_a93	625	2	625	Polygonum bistorta	Polygonum bistorta	HERB
+Kunes_a93	1080	1	1080	Prunella-type	Prunella-type	HERB
+Kunes_a93	630	6	87	Ranunculus acris-type	Ranunculus acris-type	HERB
+Kunes_a93	93	2	93	Rubiaceae	Rubiaceae	HERB
+Kunes_a93	99	1	99	Salix	Salix	TRSH
+Kunes_a93	4603	2	107	Sorbus/Cotoneaster	Sorbus-type	TRSH
+Kunes_a93	652	4	652	Urtica	Urtica	HERB
+Kunes_a93	7	181	7	Artemisia	Artemisia	HERB
+Kunes_a93	13	3	13	Brassicaceae	Brassicaceae	HERB
+Kunes_a93	112	7	112	Thalictrum	Thalictrum	HERB
+Kunes_a93	560	4	321	Abies	Abies	TRSH
+Kunes_a93	626	28	512	Potentilla-type	Potentilla-type	HERB
+Kunes_a93	1072	1	3	Matricaria-type	Matricaria-type	HERB
+Kunes_a93	1230	18	133	Senecio-type	Senecio-type	HERB
+Kunes_a93	1326	2	4	Allium-type	Allium-type	HERB
+Kunes_a93	4193	1	146	Monolete fern spores	Monolete fern spores	VACR
+Kunes_a93	4327	10	458	Plantago media/major-type	Plantago major/P. media-type	HERB

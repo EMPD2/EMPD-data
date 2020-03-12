@@ -1,41 +1,41 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-EPDcoretop_E1917	Alnus	Alnus	TRSH	527	30.183276
-EPDcoretop_E1917	Betula	Betula	TRSH	524	30.011455
-EPDcoretop_E1917	Ericaceae undiff.	Ericales (tetrad)	DWAR	72	4.1237113
-EPDcoretop_E1917	Picea	Picea	TRSH	1	0.057273769
-EPDcoretop_E1917	Pinus subg. Strobus	Pinus cembra-type	TRSH	155	8.8774341
-EPDcoretop_E1917	Rhododendron	Rhododendron	TRSH	1	0.057273769
-EPDcoretop_E1917	Rosaceae undiff.	Rosaceae	TRSH	2	0.11454754
-EPDcoretop_E1917	Salix	Salix	TRSH	28	1.6036655
-EPDcoretop_E1917	Apiaceae	Apiaceae	HERB	2	0.11454754
-EPDcoretop_E1917	Artemisia	Artemisia	HERB	42	2.4054983
-EPDcoretop_E1917	Asteraceae undiff.	Asteraceae	HERB	12	0.68728522
-EPDcoretop_E1917	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB	7	0.40091638
-EPDcoretop_E1917	Brassicaceae undiff.	Brassicaceae	HERB	10	0.57273769
-EPDcoretop_E1917	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.057273769
-EPDcoretop_E1917	Cyperaceae	Cyperaceae	HERB	32	1.8327606
-EPDcoretop_E1917	Fabaceae	Fabaceae	HERB	1	0.057273769
-EPDcoretop_E1917	Lamiaceae	Lamiaceae	HERB	1	0.057273769
-EPDcoretop_E1917	Liliaceae	Liliaceae-type	HERB	1	0.057273769
-EPDcoretop_E1917	Onagraceae undiff.	Onagraceae	HERB	9	0.51546392
-EPDcoretop_E1917	Pedicularis	Pedicularis	HERB	1	0.057273769
-EPDcoretop_E1917	Poaceae	Poaceae	HERB	120	6.8728522
-EPDcoretop_E1917	Polemoniaceae	Polemoniaceae	HERB	1	0.057273769
-EPDcoretop_E1917	Primulaceae undiff.	Primulaceae	HERB	4	0.22909507
-EPDcoretop_E1917	Ranunculaceae undiff.	Ranunculaceae	HERB	5	0.28636884
-EPDcoretop_E1917	Sanguisorba	Sanguisorba officinalis	HERB	3	0.17182131
-EPDcoretop_E1917	Saxifragaceae	Saxifragaceae	HERB	1	0.057273769
-EPDcoretop_E1917	Scrophulariaceae undiff.	Scrophulariaceae (colporate-reticulate)	HERB	1	0.057273769
-EPDcoretop_E1917	Thalictrum	Thalictrum	HERB	2	0.11454754
-EPDcoretop_E1917	Valeriana	Valeriana	HERB	1	0.057273769
-EPDcoretop_E1917	Hepaticae undiff.	Hepaticae	BRYO	2	0.11454754
-EPDcoretop_E1917	Polypodiophyta undiff.	Monolete fern spores	VACR	6	0.34364261
-EPDcoretop_E1917	Riccia	Riccia	BRYO	1	0.057273769
-EPDcoretop_E1917	Selaginella rupestris	Selaginella rupestris	VACR	20	1.1454754
-EPDcoretop_E1917	Sphagnum	Sphagnum	BRYO	150	8.5910653
-EPDcoretop_E1917	Myriophyllum	Myriophyllum	AQUA	1	0.057273769
-EPDcoretop_E1917	Unknown	Indeterminable: unknown	INUN	6	
-EPDcoretop_E1917	Concentration of Lycopodium	Concentration of Lycopodium	NOPO	13911	
-EPDcoretop_E1917	Lycopodium spike (added)	Lycopodium spike (added)	NOPO	1	
-EPDcoretop_E1917	Lycopodium spike (counted)	Lycopodium spike (counted)	NOPO	133	
-EPDcoretop_E1917	Sample volume (ml)	Sample volume (ml)	NOPO	2	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+EPDcoretop_E1917	4542	2	883	Sample volume (ml)	Sample volume (ml)	NOPO
+EPDcoretop_E1917	4778	1	4778	Lycopodium spike (added)	Lycopodium spike (added)	NOPO
+EPDcoretop_E1917	4779	133	2629	Lycopodium spike (counted)	Lycopodium spike (counted)	NOPO
+EPDcoretop_E1917	3828	13911	2415	Concentration of Lycopodium	Concentration of Lycopodium	NOPO
+EPDcoretop_E1917	969	6	177	Unknown	Indeterminable: unknown	INUN
+EPDcoretop_E1917	5	527	5	Alnus	Alnus	TRSH
+EPDcoretop_E1917	6	2	6	Apiaceae	Apiaceae	HERB
+EPDcoretop_E1917	7	42	7	Artemisia	Artemisia	HERB
+EPDcoretop_E1917	12	524	12	Betula	Betula	TRSH
+EPDcoretop_E1917	33	32	33	Cyperaceae	Cyperaceae	HERB
+EPDcoretop_E1917	41	1	41	Fabaceae	Fabaceae	HERB
+EPDcoretop_E1917	59	1	59	Lamiaceae	Lamiaceae	HERB
+EPDcoretop_E1917	62	1	62	Liliaceae	Liliaceae-type	HERB
+EPDcoretop_E1917	80	120	80	Poaceae	Poaceae	HERB
+EPDcoretop_E1917	99	28	99	Salix	Salix	TRSH
+EPDcoretop_E1917	112	2	112	Thalictrum	Thalictrum	HERB
+EPDcoretop_E1917	126	1	126	Picea	Picea	TRSH
+EPDcoretop_E1917	144	150	144	Sphagnum	Sphagnum	BRYO
+EPDcoretop_E1917	169	1	169	Polemoniaceae	Polemoniaceae	HERB
+EPDcoretop_E1917	480	1	480	Rhododendron	Rhododendron	TRSH
+EPDcoretop_E1917	493	1	493	Valeriana	Valeriana	HERB
+EPDcoretop_E1917	495	1	495	Riccia	Riccia	BRYO
+EPDcoretop_E1917	504	1	504	Myriophyllum	Myriophyllum	AQUA
+EPDcoretop_E1917	638	3	474	Sanguisorba	Sanguisorba officinalis	HERB
+EPDcoretop_E1917	639	1	639	Saxifragaceae	Saxifragaceae	HERB
+EPDcoretop_E1917	709	12	134	Asteraceae undiff.	Asteraceae	HERB
+EPDcoretop_E1917	716	72	130	Ericaceae undiff.	Ericales (tetrad)	DWAR
+EPDcoretop_E1917	753	1	753	Pedicularis	Pedicularis	HERB
+EPDcoretop_E1917	769	1	24	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB
+EPDcoretop_E1917	1180	5	135	Ranunculaceae undiff.	Ranunculaceae	HERB
+EPDcoretop_E1917	1190	1	173	Scrophulariaceae undiff.	Scrophulariaceae (colporate-reticulate)	HERB
+EPDcoretop_E1917	1422	10	13	Brassicaceae undiff.	Brassicaceae	HERB
+EPDcoretop_E1917	2995	20	142	Selaginella rupestris	Selaginella rupestris	VACR
+EPDcoretop_E1917	3824	7	25	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+EPDcoretop_E1917	4940	155	124	Pinus subg. Strobus	Pinus cembra-type	TRSH
+EPDcoretop_E1917	4943	9	137	Onagraceae undiff.	Onagraceae	HERB
+EPDcoretop_E1917	4954	2	4044	Hepaticae undiff.	Hepaticae	BRYO
+EPDcoretop_E1917	4955	6	146	Polypodiophyta undiff.	Monolete fern spores	VACR
+EPDcoretop_E1917	4981	4	799	Primulaceae undiff.	Primulaceae	HERB
+EPDcoretop_E1917	472	2	92	Rosaceae undiff.	Rosaceae	TRSH

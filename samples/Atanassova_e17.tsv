@@ -1,32 +1,32 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Atanassova_e17	Alnus	Alnus	TRSH	45	5.363528
-Atanassova_e17	Betula	Betula	TRSH	21	2.5029797
-Atanassova_e17	Carpinus betulus	Carpinus betulus	TRSH	43	5.125149
-Atanassova_e17	Corylus	Corylus	TRSH	39	4.6483909
-Atanassova_e17	Fagus	Fagus	TRSH	48	5.7210965
-Atanassova_e17	Fraxinus ornus	Fraxinus ornus	TRSH	1	0.11918951
-Atanassova_e17	Juglans	Juglans	TRSH	6	0.71513707
-Atanassova_e17	Carpinus orientalis/Ostrya	Ostrya/Carpinus orientalis	TRSH	7	0.83432658
-Atanassova_e17	Picea	Picea	TRSH	21	2.5029797
-Atanassova_e17	Pinus	Pinus	TRSH	291	34.684148
-Atanassova_e17	Quercus	Quercus	TRSH	52	6.1978546
-Atanassova_e17	Tilia	Tilia	TRSH	17	2.0262217
-Atanassova_e17	Ulmus	Ulmus/Zelkova	TRSH	2	0.23837902
-Atanassova_e17	Apiaceae	Apiaceae	HERB	11	1.3110846
-Atanassova_e17	Cirsium type	Asteraceae subf. Carduoideae	HERB	5	0.59594756
-Atanassova_e17	Asteraceae (Liguliflorae)	Asteraceae subf. Cichorioideae	HERB	32	3.8140644
-Atanassova_e17	Brassicaceae	Brassicaceae	HERB	10	1.1918951
-Atanassova_e17	Centaurea jacea type	Centaurea nigra-type	HERB	6	0.71513707
-Atanassova_e17	Cerealia	Cerealia-type	HERB	2	0.23837902
-Atanassova_e17	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	32	3.8140644
-Atanassova_e17	Geum type	Geum-type	HERB	5	0.59594756
-Atanassova_e17	Achillea type	Matricaria-type	HERB	20	2.3837902
-Atanassova_e17	Plantago lanceolata	Plantago lanceolata-type	HERB	2	0.23837902
-Atanassova_e17	Plantago major/Plantago media type	Plantago major/P. media-type	HERB	2	0.23837902
-Atanassova_e17	Poaceae	Poaceae	HERB	56	6.6746126
-Atanassova_e17	Polygonum aviculare	Polygonum aviculare-type	HERB	4	0.47675805
-Atanassova_e17	Ranunculaceae	Ranunculaceae	HERB	4	0.47675805
-Atanassova_e17	Rubiaceae	Rubiaceae	HERB	9	1.0727056
-Atanassova_e17	Rumex	Rumex/Oxyria	HERB	19	2.2646007
-Atanassova_e17	Silene	Silene-type	HERB	23	2.7413588
-Atanassova_e17	Trifolium type	Trifolium-type	HERB	4	0.47675805
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Atanassova_e17	3	20	3	Achillea type	Matricaria-type	HERB
+Atanassova_e17	5	45	5	Alnus	Alnus	TRSH
+Atanassova_e17	6	11	6	Apiaceae	Apiaceae	HERB
+Atanassova_e17	12	21	12	Betula	Betula	TRSH
+Atanassova_e17	13	10	13	Brassicaceae	Brassicaceae	HERB
+Atanassova_e17	22	2	22	Cerealia	Cerealia-type	HERB
+Atanassova_e17	24	32	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Atanassova_e17	44	1	44	Fraxinus ornus	Fraxinus ornus	TRSH
+Atanassova_e17	57	6	57	Juglans	Juglans	TRSH
+Atanassova_e17	126	21	126	Picea	Picea	TRSH
+Atanassova_e17	192	48	42	Fagus	Fagus	TRSH
+Atanassova_e17	201	39	31	Corylus	Corylus	TRSH
+Atanassova_e17	60	2	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+Atanassova_e17	75	291	75	Pinus	Pinus	TRSH
+Atanassova_e17	80	56	80	Poaceae	Poaceae	HERB
+Atanassova_e17	132	23	132	Silene	Silene-type	HERB
+Atanassova_e17	135	4	135	Ranunculaceae	Ranunculaceae	HERB
+Atanassova_e17	154	2	154	Ulmus	Ulmus/Zelkova	TRSH
+Atanassova_e17	187	17	187	Tilia	Tilia	TRSH
+Atanassova_e17	189	52	189	Quercus	Quercus	TRSH
+Atanassova_e17	563	43	16	Carpinus betulus	Carpinus betulus	TRSH
+Atanassova_e17	600	6	29	Centaurea jacea type	Centaurea nigra-type	HERB
+Atanassova_e17	650	5	649	Geum type	Geum-type	HERB
+Atanassova_e17	725	4	262	Polygonum aviculare	Polygonum aviculare-type	HERB
+Atanassova_e17	727	19	94	Rumex	Rumex/Oxyria	HERB
+Atanassova_e17	1032	32	25	Asteraceae (Liguliflorae)	Asteraceae subf. Cichorioideae	HERB
+Atanassova_e17	1035	7	70	Carpinus orientalis/Ostrya	Ostrya/Carpinus orientalis	TRSH
+Atanassova_e17	1036	5	336	Cirsium type	Asteraceae subf. Carduoideae	HERB
+Atanassova_e17	1039	2	458	Plantago major/Plantago media type	Plantago major/P. media-type	HERB
+Atanassova_e17	1042	4	115	Trifolium type	Trifolium-type	HERB
+Atanassova_e17	93	9	93	Rubiaceae	Rubiaceae	HERB

@@ -1,39 +1,39 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Fall_b4	Acacia	Acacia	TRSH	6	1.4388489
-Fall_b4	Alnus	Alnus	TRSH	1	0.23980815
-Fall_b4	Castenea	Castanea sativa	TRSH	1	0.23980815
-Fall_b4	Ceratonia	Ceratonia siliqua	TRSH	2	0.47961631
-Fall_b4	Cercis	Cercis siliquastrum	TRSH	2	0.47961631
-Fall_b4	Citrus	Citrus	TRSH	1	0.23980815
-Fall_b4	Eucalyptus	Eucalyptus	TRSH	18	4.3165468
-Fall_b4	Fraxinus	Fraxinus	TRSH	4	0.95923261
-Fall_b4	Juglans	Juglans	TRSH	1	0.23980815
-Fall_b4	Juniperus type	Juniperus-type	TRSH	42	10.071942
-Fall_b4	Myrtus	Myrtaceae	TRSH	20	4.7961631
-Fall_b4	Olea	Olea europaea	TRSH	9	2.1582734
-Fall_b4	Pinus sp	Pinus	TRSH	42	10.071942
-Fall_b4	Pinus hap	Pinus cembra-type	TRSH	9	2.1582734
-Fall_b4	Pinus dip	Pinus sylvestris-type	TRSH	5	1.1990408
-Fall_b4	Pistacia	Pistacia	TRSH	1	0.23980815
-Fall_b4	Quercus	Quercus	TRSH	8	1.9184652
-Fall_b4	Rhamnaceae	Rhamnaceae	TRSH	1	0.23980815
-Fall_b4	Tamarix	Tamarix	TRSH	8	1.9184652
-Fall_b4	Artemisia	Artemisia	HERB	2	0.47961631
-Fall_b4	Poaceae Cerealia	Cerealia-type	HERB	2	0.47961631
-Fall_b4	Chenopodiaceae Sueda/Atriplex type	Chenopodiaceae/Amaranthaceae	HERB	97	23.261391
-Fall_b4	Chenopodiaceae, Salsola type	Chenopodiaceae/Amaranthaceae	HERB	37	8.8729017
-Fall_b4	Chenopodiaceae, Noaea type	Chenopodiaceae/Amaranthaceae	HERB	4	0.95923261
-Fall_b4	Cyperaceae	Cyperaceae	HERB	4	0.95923261
-Fall_b4	Euphorbia	Euphorbia	HERB	1	0.23980815
-Fall_b4	Paplionaceae	Fabaceae	HERB	1	0.23980815
-Fall_b4	Asteraceae Helianthus type	Helianthus	HERB	16	3.8369305
-Fall_b4	Lamiaceae	Lamiaceae	HERB	1	0.23980815
-Fall_b4	Plantago lanceolata type	Plantago lanceolata-type	HERB	30	7.1942446
-Fall_b4	Plantago maritima	Plantago maritima-type	HERB	5	1.1990408
-Fall_b4	Plantago ovata	Plantago maritima-type	HERB	3	0.71942446
-Fall_b4	Poaceae	Poaceae	HERB	15	3.5971223
-Fall_b4	Polygonum	Polygonum-type (tricolporate)	HERB	1	0.23980815
-Fall_b4	Asteraceae, Senecio type	Senecio-type	HERB	5	1.1990408
-Fall_b4	Urtica sp (triporate type)	Urtica	HERB	1	0.23980815
-Fall_b4	Urtica pilulifera	Urtica pilulifera	HERB	11	2.6378897
-Fall_b4	Unknown A	Indeterminable: unknown	INUN	2	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Fall_b4	5	1	5	Alnus	Alnus	TRSH
+Fall_b4	203	42	203	Juniperus type	Juniperus-type	TRSH
+Fall_b4	518	6	518	Acacia	Acacia	TRSH
+Fall_b4	542	2	542	Ceratonia	Ceratonia siliqua	TRSH
+Fall_b4	39	18	39	Eucalyptus	Eucalyptus	TRSH
+Fall_b4	57	1	57	Juglans	Juglans	TRSH
+Fall_b4	190	4	190	Fraxinus	Fraxinus	TRSH
+Fall_b4	77	1	77	Pistacia	Pistacia	TRSH
+Fall_b4	1615	42	75	Pinus sp	Pinus	TRSH
+Fall_b4	1616	5	125	Pinus dip	Pinus sylvestris-type	TRSH
+Fall_b4	90	1	90	Rhamnaceae	Rhamnaceae	TRSH
+Fall_b4	189	8	189	Quercus	Quercus	TRSH
+Fall_b4	500	8	414	Tamarix	Tamarix	TRSH
+Fall_b4	7	2	7	Artemisia	Artemisia	HERB
+Fall_b4	1642	16	1642	Asteraceae Helianthus type	Helianthus	HERB
+Fall_b4	1647	5	133	Asteraceae, Senecio type	Senecio-type	HERB
+Fall_b4	1654	97	24	Chenopodiaceae Sueda/Atriplex type	Chenopodiaceae/Amaranthaceae	HERB
+Fall_b4	1655	37	24	Chenopodiaceae, Salsola type	Chenopodiaceae/Amaranthaceae	HERB
+Fall_b4	40	1	40	Euphorbia	Euphorbia	HERB
+Fall_b4	59	1	59	Lamiaceae	Lamiaceae	HERB
+Fall_b4	64	5	64	Plantago maritima	Plantago maritima-type	HERB
+Fall_b4	80	15	80	Poaceae	Poaceae	HERB
+Fall_b4	221	30	60	Plantago lanceolata type	Plantago lanceolata-type	HERB
+Fall_b4	1604	1	1505	Polygonum	Polygonum-type (tricolporate)	HERB
+Fall_b4	1683	2	177	Unknown A	Indeterminable: unknown	INUN
+Fall_b4	33	4	33	Cyperaceae	Cyperaceae	HERB
+Fall_b4	841	11	119	Urtica pilulifera	Urtica pilulifera	HERB
+Fall_b4	442	9	68	Olea	Olea europaea	TRSH
+Fall_b4	1609	1	19	Castenea	Castanea sativa	TRSH
+Fall_b4	1610	2	1610	Cercis	Cercis siliquastrum	TRSH
+Fall_b4	1611	1	1611	Citrus	Citrus	TRSH
+Fall_b4	1613	20	377	Myrtus	Myrtaceae	TRSH
+Fall_b4	1617	9	124	Pinus hap	Pinus cembra-type	TRSH
+Fall_b4	1656	4	24	Chenopodiaceae, Noaea type	Chenopodiaceae/Amaranthaceae	HERB
+Fall_b4	1668	1	41	Paplionaceae	Fabaceae	HERB
+Fall_b4	1670	3	64	Plantago ovata	Plantago maritima-type	HERB
+Fall_b4	1672	2	22	Poaceae Cerealia	Cerealia-type	HERB
+Fall_b4	1680	1	652	Urtica sp (triporate type)	Urtica	HERB

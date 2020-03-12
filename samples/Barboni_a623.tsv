@@ -1,39 +1,39 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Barboni_a623	Cedrus	Cedrus	TRSH	4	1.1661808
-Barboni_a623	Ephedra fragilis-type	Ephedra fragilis-type	TRSH	1	0.29154519
-Barboni_a623	Hippophae	Hippophae rhamnoides	TRSH	1	0.29154519
-Barboni_a623	Oleaceae	Oleaceae	TRSH	1	0.29154519
-Barboni_a623	Pinus	Pinus	TRSH	22	6.4139942
-Barboni_a623	Quercus undiff.	Quercus	TRSH	1	0.29154519
-Barboni_a623	Quercus cerris-type	Quercus cerris-type	TRSH	1	0.29154519
-Barboni_a623	Thymelaeaceae	Thymelaeaceae	DWAR	2	0.58309038
-Barboni_a623	Anemone	Anemone nemorosa-type	HERB	1	0.29154519
-Barboni_a623	Artemisia herba-alba-type	Artemisia	HERB	41	11.953353
-Barboni_a623	Artemisia vulgaris-type	Artemisia	HERB	10	2.9154519
-Barboni_a623	Cirsium/Gundelia	Asteraceae	HERB	1	0.29154519
-Barboni_a623	Compositae subf. Asteroideae	Asteraceae subf. Asteroideae	HERB	3	0.87463557
-Barboni_a623	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB	12	3.4985423
-Barboni_a623	Astragalus-type	Astragalus-type	HERB	1	0.29154519
-Barboni_a623	Brassica-type	Brassicaceae	HERB	6	1.7492711
-Barboni_a623	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	2	0.58309038
-Barboni_a623	Centaurea solstitialis-type	Centaurea nigra-type	HERB	10	2.9154519
-Barboni_a623	Cerealia-type	Cerealia-type	HERB	2	0.58309038
-Barboni_a623	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	24	6.9970845
-Barboni_a623	Noaea-type	Chenopodiaceae/Amaranthaceae	HERB	136	39.650146
-Barboni_a623	Cistaceae	Cistaceae	HERB	2	0.58309038
-Barboni_a623	Filago-type	Gnaphalium-type	HERB	7	2.0408163
-Barboni_a623	Liliaceae	Liliaceae-type	HERB	1	0.29154519
-Barboni_a623	Malva	Malvaceae	HERB	1	0.29154519
-Barboni_a623	Matricaria-type	Matricaria-type	HERB	2	0.58309038
-Barboni_a623	Matthiola	Matthiola	HERB	4	1.1661808
-Barboni_a623	Plantago maritima-type	Plantago maritima-type	HERB	8	2.3323615
-Barboni_a623	Plumbaginaceae	Plumbaginaceae	HERB	7	2.0408163
-Barboni_a623	Gramineae	Poaceae	HERB	17	4.9562682
-Barboni_a623	Psoralea	Psoralea bituminosa	HERB	2	0.58309038
-Barboni_a623	Ranunculaceae	Ranunculaceae	HERB	1	0.29154519
-Barboni_a623	Arctium/Jurinea	Saussurea-type	HERB	3	0.87463557
-Barboni_a623	Senecio-type	Senecio-type	HERB	3	0.87463557
-Barboni_a623	Thalictrum	Thalictrum	HERB	3	0.87463557
-Barboni_a623	Cyperaceae	Cyperaceae	AQUA	6	1.7492711
-Barboni_a623	Sparganium-type	Sparganium-type	AQUA	3	0.87463557
-Barboni_a623	Indeterminable: unknown	Indeterminable: unknown	INUN	16	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Barboni_a623	588	1	588	Anemone	Anemone nemorosa-type	HERB
+Barboni_a623	3572	41	7	Artemisia herba-alba-type	Artemisia	HERB
+Barboni_a623	3573	10	7	Artemisia vulgaris-type	Artemisia	HERB
+Barboni_a623	1438	1	10	Astragalus-type	Astragalus-type	HERB
+Barboni_a623	18	2	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Barboni_a623	576	4	340	Cedrus	Cedrus	TRSH
+Barboni_a623	3681	10	29	Centaurea solstitialis-type	Centaurea nigra-type	HERB
+Barboni_a623	1065	2	22	Cerealia-type	Cerealia-type	HERB
+Barboni_a623	24	24	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Barboni_a623	26	2	26	Cistaceae	Cistaceae	HERB
+Barboni_a623	3822	3	160	Compositae subf. Asteroideae	Asteraceae subf. Asteroideae	HERB
+Barboni_a623	3824	12	25	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Barboni_a623	3868	6	3868	Cyperaceae	Cyperaceae	AQUA
+Barboni_a623	2424	1	36	Ephedra fragilis-type	Ephedra fragilis-type	TRSH
+Barboni_a623	3967	7	2318	Filago-type	Gnaphalium-type	HERB
+Barboni_a623	1601	17	80	Gramineae	Poaceae	HERB
+Barboni_a623	1048	1	479	Hippophae	Hippophae rhamnoides	TRSH
+Barboni_a623	4078	16	177	Indeterminable: unknown	Indeterminable: unknown	INUN
+Barboni_a623	62	1	62	Liliaceae	Liliaceae-type	HERB
+Barboni_a623	1072	2	3	Matricaria-type	Matricaria-type	HERB
+Barboni_a623	1836	4	1665	Matthiola	Matthiola	HERB
+Barboni_a623	4221	136	24	Noaea-type	Chenopodiaceae/Amaranthaceae	HERB
+Barboni_a623	781	1	781	Oleaceae	Oleaceae	TRSH
+Barboni_a623	75	22	75	Pinus	Pinus	TRSH
+Barboni_a623	2760	8	64	Plantago maritima-type	Plantago maritima-type	HERB
+Barboni_a623	83	2	83	Psoralea	Psoralea bituminosa	HERB
+Barboni_a623	1051	1	84	Quercus cerris-type	Quercus cerris-type	TRSH
+Barboni_a623	2173	1	189	Quercus undiff.	Quercus	TRSH
+Barboni_a623	135	1	135	Ranunculaceae	Ranunculaceae	HERB
+Barboni_a623	1230	3	133	Senecio-type	Senecio-type	HERB
+Barboni_a623	1086	3	176	Sparganium-type	Sparganium-type	AQUA
+Barboni_a623	112	3	112	Thalictrum	Thalictrum	HERB
+Barboni_a623	4664	2	4664	Thymelaeaceae	Thymelaeaceae	DWAR
+Barboni_a623	1487	1	372	Malva	Malvaceae	HERB
+Barboni_a623	1916	7	166	Plumbaginaceae	Plumbaginaceae	HERB
+Barboni_a623	3562	3	235	Arctium/Jurinea	Saussurea-type	HERB
+Barboni_a623	3631	6	13	Brassica-type	Brassicaceae	HERB
+Barboni_a623	3795	1	134	Cirsium/Gundelia	Asteraceae	HERB

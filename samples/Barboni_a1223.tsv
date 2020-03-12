@@ -1,40 +1,40 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Barboni_a1223	Argania spinosa	Argania spinosa	TRSH	9	2.0594966
-Barboni_a1223	Cupressaceae	Cupressaceae undiff.	TRSH	1	0.22883295
-Barboni_a1223	Ephedra fragilis-type	Ephedra fragilis-type	TRSH	2	0.4576659
-Barboni_a1223	Genista/Ulex	Genista-type	TRSH	12	2.7459954
-Barboni_a1223	Juglans regia	Juglans regia	TRSH	1	0.22883295
-Barboni_a1223	Olea europaea	Olea europaea	TRSH	6	1.3729977
-Barboni_a1223	Pinus	Pinus	TRSH	1	0.22883295
-Barboni_a1223	Quercus ilex-type	Quercus ilex-type	TRSH	5	1.1441648
-Barboni_a1223	Rosaceae	Rosaceae	TRSH	6	1.3729977
-Barboni_a1223	Tamarix	Tamarix	TRSH	1	0.22883295
-Barboni_a1223	Thymelaeaceae	Thymelaeaceae	DWAR	16	3.6613272
-Barboni_a1223	Cuscuta	Cuscuta	LIAN	9	2.0594966
-Barboni_a1223	Umbelliferae	Apiaceae	HERB	5	1.1441648
-Barboni_a1223	Eryngium-type	Apiaceae	HERB	1	0.22883295
-Barboni_a1223	Artemisia	Artemisia	HERB	165	37.757437
-Barboni_a1223	Asphodelus fistulosus-type	Asphodelus fistulosus-type	HERB	3	0.68649886
-Barboni_a1223	Compositae subf. Asteroideae	Asteraceae subf. Asteroideae	HERB	16	3.6613272
-Barboni_a1223	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB	29	6.6361556
-Barboni_a1223	Boraginaceae	Boraginaceae	HERB	1	0.22883295
-Barboni_a1223	Cruciferae	Brassicaceae	HERB	2	0.4576659
-Barboni_a1223	Centaurea nigra-type	Centaurea nigra-type	HERB	9	2.0594966
-Barboni_a1223	Cerealia-type	Cerealia-type	HERB	2	0.4576659
-Barboni_a1223	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	6	1.3729977
-Barboni_a1223	Convolvulus arvensis	Convolvulus arvensis-type	HERB	1	0.22883295
-Barboni_a1223	Helianthemum	Helianthemum	HERB	2	0.4576659
-Barboni_a1223	Labiatae (6)	Labiatae (6)	HERB	3	0.68649886
-Barboni_a1223	Leguminosae	Leguminosae	HERB	40	9.1533181
-Barboni_a1223	Liliaceae	Liliaceae-type	HERB	3	0.68649886
-Barboni_a1223	Mercurialis	Mercurialis	HERB	26	5.9496568
-Barboni_a1223	Paronychia	Paronychia	HERB	8	1.8306636
-Barboni_a1223	Plantago lanceolata-type	Plantago lanceolata-type	HERB	4	0.91533181
-Barboni_a1223	Plantago major/P. media	Plantago major/P. media-type	HERB	2	0.4576659
-Barboni_a1223	Gramineae	Poaceae	HERB	11	2.5171625
-Barboni_a1223	Polycarpon	Polycarpon	HERB	18	4.1189931
-Barboni_a1223	Polygonum undiff.	Polygonum-type (tricolporate)	HERB	3	0.68649886
-Barboni_a1223	Ranunculaceae	Ranunculaceae	HERB	3	0.68649886
-Barboni_a1223	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	2	0.4576659
-Barboni_a1223	Grammitis	Grammitis	VACR	2	0.4576659
-Barboni_a1223	Monolete spore(s)	Monolete fern spores	VACR	1	0.22883295
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Barboni_a1223	3563	9	3563	Argania spinosa	Argania spinosa	TRSH
+Barboni_a1223	7	165	7	Artemisia	Artemisia	HERB
+Barboni_a1223	3581	3	3581	Asphodelus fistulosus-type	Asphodelus fistulosus-type	HERB
+Barboni_a1223	162	1	162	Boraginaceae	Boraginaceae	HERB
+Barboni_a1223	1065	2	22	Cerealia-type	Cerealia-type	HERB
+Barboni_a1223	769	6	24	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB
+Barboni_a1223	3824	29	25	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Barboni_a1223	1244	1	1244	Convolvulus arvensis	Convolvulus arvensis-type	HERB
+Barboni_a1223	482	2	13	Cruciferae	Brassicaceae	HERB
+Barboni_a1223	714	1	347	Cupressaceae	Cupressaceae undiff.	TRSH
+Barboni_a1223	3864	9	3864	Cuscuta	Cuscuta	LIAN
+Barboni_a1223	2424	2	36	Ephedra fragilis-type	Ephedra fragilis-type	TRSH
+Barboni_a1223	3949	1	6	Eryngium-type	Apiaceae	HERB
+Barboni_a1223	3995	12	49	Genista/Ulex	Genista-type	TRSH
+Barboni_a1223	4021	2	4021	Grammitis	Grammitis	VACR
+Barboni_a1223	52	2	52	Helianthemum	Helianthemum	HERB
+Barboni_a1223	1148	1	194	Juglans regia	Juglans regia	TRSH
+Barboni_a1223	4099	3	4099	Labiatae (6)	Labiatae (6)	HERB
+Barboni_a1223	744	40	744	Leguminosae	Leguminosae	HERB
+Barboni_a1223	62	3	62	Liliaceae	Liliaceae-type	HERB
+Barboni_a1223	227	26	227	Mercurialis	Mercurialis	HERB
+Barboni_a1223	68	6	68	Olea europaea	Olea europaea	TRSH
+Barboni_a1223	75	1	75	Pinus	Pinus	TRSH
+Barboni_a1223	4323	2	458	Plantago major/P. media	Plantago major/P. media-type	HERB
+Barboni_a1223	4371	3	1505	Polygonum undiff.	Polygonum-type (tricolporate)	HERB
+Barboni_a1223	1052	5	85	Quercus ilex-type	Quercus ilex-type	TRSH
+Barboni_a1223	135	3	135	Ranunculaceae	Ranunculaceae	HERB
+Barboni_a1223	92	6	92	Rosaceae	Rosaceae	TRSH
+Barboni_a1223	173	2	173	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB
+Barboni_a1223	500	1	414	Tamarix	Tamarix	TRSH
+Barboni_a1223	4664	16	4664	Thymelaeaceae	Thymelaeaceae	DWAR
+Barboni_a1223	72	8	72	Paronychia	Paronychia	HERB
+Barboni_a1223	590	5	6	Umbelliferae	Apiaceae	HERB
+Barboni_a1223	1075	4	60	Plantago lanceolata-type	Plantago lanceolata-type	HERB
+Barboni_a1223	1342	9	29	Centaurea nigra-type	Centaurea nigra-type	HERB
+Barboni_a1223	1601	11	80	Gramineae	Poaceae	HERB
+Barboni_a1223	3822	16	160	Compositae subf. Asteroideae	Asteraceae subf. Asteroideae	HERB
+Barboni_a1223	4197	1	146	Monolete spore(s)	Monolete fern spores	VACR
+Barboni_a1223	4356	18	4356	Polycarpon	Polycarpon	HERB

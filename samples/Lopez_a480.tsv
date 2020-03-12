@@ -1,33 +1,33 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Lopez_a480	Alnus	Alnus	TRSH	2	0.54347826
-Lopez_a480	Juniperus-type	Juniperus-type	TRSH	1	0.27173913
-Lopez_a480	Olea	Olea europaea	TRSH	200	54.347826
-Lopez_a480	Phillyrea	Phillyrea	TRSH	1	0.27173913
-Lopez_a480	Pinus pinaster	Pinus pinaster	TRSH	1	0.27173913
-Lopez_a480	Populus	Populus	TRSH	1	0.27173913
-Lopez_a480	Quercus evergreen	Quercus ilex-type	TRSH	71	19.293478
-Lopez_a480	Quercus deciduous	Quercus robur-type	TRSH	3	0.81521739
-Lopez_a480	Prunus/Rubus-type	Rosaceae (non-operculate)	TRSH	1	0.27173913
-Lopez_a480	Vitis	Vitis	LIAN	4	1.0869565
-Lopez_a480	Apiaceae	Apiaceae	HERB	1	0.27173913
-Lopez_a480	Aster-type	Aster-type	HERB	4	1.0869565
-Lopez_a480	Cardueae	Asteraceae subf. Carduoideae	HERB	7	1.9021739
-Lopez_a480	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	3	0.81521739
-Lopez_a480	Boraginaceae	Boraginaceae	HERB	1	0.27173913
-Lopez_a480	Cruciferae	Brassicaceae	HERB	9	2.4456522
-Lopez_a480	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	1	0.27173913
-Lopez_a480	Centaurea cyanus-type	Centaurea cyanus-type	HERB	8	2.173913
-Lopez_a480	Cerealia	Cerealia-type	HERB	4	1.0869565
-Lopez_a480	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	2	0.54347826
-Lopez_a480	Cistus ladanifer	Cistus ladanifer-type	HERB	7	1.9021739
-Lopez_a480	Helianthemum-type	Helianthemum	HERB	1	0.27173913
-Lopez_a480	Labiatae	Lamiaceae	HERB	1	0.27173913
-Lopez_a480	Liliaceae undiff,	Liliaceae-type	HERB	2	0.54347826
-Lopez_a480	Anthemis-type	Matricaria-type	HERB	2	0.54347826
-Lopez_a480	Poaceae undiff.	Poaceae	HERB	23	6.25
-Lopez_a480	Rumex acetosa-type	Rumex acetosa-type	HERB	2	0.54347826
-Lopez_a480	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	3	0.81521739
-Lopez_a480	Urtica dioica-type	Urtica dioica-type	HERB	2	0.54347826
-Lopez_a480	Fabaceae undiff.	Fabaceae undiff.	INUN	2	
-Lopez_a480	Glomus cf. G. fasciculatum	Glomus cf. fasciculatum	FUNG	75	
-Lopez_a480	Sporormiella	Sporormiella-type	FUNG	1	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Lopez_a480	589	2	3	Anthemis-type	Matricaria-type	HERB
+Lopez_a480	162	1	162	Boraginaceae	Boraginaceae	HERB
+Lopez_a480	445	7	336	Cardueae	Asteraceae subf. Carduoideae	HERB
+Lopez_a480	22	4	22	Cerealia	Cerealia-type	HERB
+Lopez_a480	769	2	24	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB
+Lopez_a480	447	3	25	Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Lopez_a480	482	9	13	Cruciferae	Brassicaceae	HERB
+Lopez_a480	3960	2	3960	Fabaceae undiff.	Fabaceae undiff.	INUN
+Lopez_a480	4008	75	305	Glomus cf. G. fasciculatum	Glomus cf. fasciculatum	FUNG
+Lopez_a480	738	1	203	Juniperus-type	Juniperus-type	TRSH
+Lopez_a480	485	1	59	Labiatae	Lamiaceae	HERB
+Lopez_a480	4131	2	62	Liliaceae undiff,	Liliaceae-type	HERB
+Lopez_a480	442	200	68	Olea	Olea europaea	TRSH
+Lopez_a480	74	1	74	Phillyrea	Phillyrea	TRSH
+Lopez_a480	439	1	439	Pinus pinaster	Pinus pinaster	TRSH
+Lopez_a480	429	23	80	Poaceae undiff.	Poaceae	HERB
+Lopez_a480	81	1	81	Populus	Populus	TRSH
+Lopez_a480	4403	1	490	Prunus/Rubus-type	Rosaceae (non-operculate)	TRSH
+Lopez_a480	427	71	85	Quercus evergreen	Quercus ilex-type	TRSH
+Lopez_a480	634	2	95	Rumex acetosa-type	Rumex acetosa-type	HERB
+Lopez_a480	173	3	173	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB
+Lopez_a480	677	1	557	Sporormiella	Sporormiella-type	FUNG
+Lopez_a480	4756	4	4756	Vitis	Vitis	LIAN
+Lopez_a480	5	2	5	Alnus	Alnus	TRSH
+Lopez_a480	6	1	6	Apiaceae	Apiaceae	HERB
+Lopez_a480	18	1	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Lopez_a480	437	3	86	Quercus deciduous	Quercus robur-type	TRSH
+Lopez_a480	597	4	11	Aster-type	Aster-type	HERB
+Lopez_a480	2292	8	462	Centaurea cyanus-type	Centaurea cyanus-type	HERB
+Lopez_a480	3800	7	3800	Cistus ladanifer	Cistus ladanifer-type	HERB
+Lopez_a480	4039	1	52	Helianthemum-type	Helianthemum	HERB
+Lopez_a480	4718	2	453	Urtica dioica-type	Urtica dioica-type	HERB

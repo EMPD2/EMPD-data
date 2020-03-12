@@ -1,56 +1,56 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Hjelle_a32	Acer	Acer campestre-type	TRSH	3	0.20703934
-Hjelle_a32	Alnus	Alnus	TRSH	143	9.8688751
-Hjelle_a32	Betula	Betula	TRSH	268	18.495514
-Hjelle_a32	Calluna vulgaris	Calluna vulgaris	TRSH	6	0.41407867
-Hjelle_a32	Corylus avellana	Corylus	TRSH	29	2.0013803
-Hjelle_a32	Empetrum	Empetrum nigrum	DWAR	2	0.13802622
-Hjelle_a32	Erica tetralix type	Erica tetralix-type	DWAR	2	0.13802622
-Hjelle_a32	Fraxinus	Fraxinus	TRSH	2	0.13802622
-Hjelle_a32	Ilex	Ilex	TRSH	1	0.069013112
-Hjelle_a32	Juniperus	Juniperus communis-type	TRSH	30	2.0703934
-Hjelle_a32	Myrica gale	Myrica	TRSH	1	0.069013112
-Hjelle_a32	Pinus sylvestris	Pinus sylvestris-type	TRSH	157	10.835059
-Hjelle_a32	Populus	Populus	TRSH	1	0.069013112
-Hjelle_a32	Prunus padus	Prunus padus	TRSH	1	0.069013112
-Hjelle_a32	Quercus	Quercus	TRSH	16	1.1042098
-Hjelle_a32	Rosaceae	Rosaceae	TRSH	5	0.34506556
-Hjelle_a32	Rubus idaeus	Rubus	TRSH	4	0.27605245
-Hjelle_a32	Salix	Salix	TRSH	12	0.82815735
-Hjelle_a32	Sorbus	Sorbus-type	TRSH	18	1.242236
-Hjelle_a32	Tilia cordata	Tilia cordata-type	TRSH	2	0.13802622
-Hjelle_a32	Ulmus	Ulmus/Zelkova	TRSH	13	0.89717046
-Hjelle_a32	Vaccinium type	Vaccinium-type	DWAR	1	0.069013112
-Hjelle_a32	Anemone type	Anemone nemorosa-type	HERB	1	0.069013112
-Hjelle_a32	Apiaceae	Apiaceae	HERB	1	0.069013112
-Hjelle_a32	Artemisia type	Artemisia	HERB	3	0.20703934
-Hjelle_a32	Asteraceae Cichorioideae	Asteraceae subf. Cichorioideae	HERB	3	0.20703934
-Hjelle_a32	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.069013112
-Hjelle_a32	Cyperaceae	Cyperaceae	HERB	24	1.6563147
-Hjelle_a32	Euphrasia	Euphrasia	HERB	1	0.069013112
-Hjelle_a32	Filipendula	Filipendula	HERB	3	0.20703934
-Hjelle_a32	Hypericum	Hypericum	HERB	2	0.13802622
-Hjelle_a32	Achillea type	Matricaria-type	HERB	2	0.13802622
-Hjelle_a32	Melampyrum	Melampyrum	HERB	2	0.13802622
-Hjelle_a32	Pedicularis	Pedicularis	HERB	1	0.069013112
-Hjelle_a32	Campanula	Phyteuma-type	HERB	1	0.069013112
-Hjelle_a32	Plantago lanceolata	Plantago lanceolata-type	HERB	3	0.20703934
-Hjelle_a32	Plantago major	Plantago major	HERB	1	0.069013112
-Hjelle_a32	Plantago maritima	Plantago maritima-type	HERB	1	0.069013112
-Hjelle_a32	Poaceae	Poaceae	HERB	208	14.354727
-Hjelle_a32	Polygonum aviculare type	Polygonum aviculare-type	HERB	1	0.069013112
-Hjelle_a32	Potentilla type	Potentilla-type	HERB	9	0.62111801
-Hjelle_a32	Ranunculus acris type	Ranunculus acris-type	HERB	1	0.069013112
-Hjelle_a32	Galium type	Rubiaceae	HERB	2	0.13802622
-Hjelle_a32	Rumex sect. Acetosa	Rumex acetosa-type	HERB	19	1.3112491
-Hjelle_a32	Rumex longifolius type	Rumex aquaticus-type	HERB	1	0.069013112
-Hjelle_a32	Silene dioica type	Silene dioica-type	HERB	1	0.069013112
-Hjelle_a32	Trifolium repens type	Trifolium repens-type	HERB	1	0.069013112
-Hjelle_a32	Urtica	Urtica	HERB	11	0.75914424
-Hjelle_a32	Gymnocarpium dryopteris type	Gymnocarpium dryopteris	VACR	28	1.9323671
-Hjelle_a32	Huperzia selago	Huperzia selago	VACR	2	0.13802622
-Hjelle_a32	Lycopodium annotinum	Lycopodium annotinum-type	VACR	3	0.20703934
-Hjelle_a32	Polypodiaceae	Monolete fern spores	VACR	388	26.777088
-Hjelle_a32	Polypodium vulgare	Polypodium	VACR	4	0.27605245
-Hjelle_a32	Pteridium	Pteridium aquilinum	VACR	3	0.20703934
-Hjelle_a32	Sphagnum	Sphagnum	NOPO	14	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Hjelle_a32	5	143	5	Alnus	Alnus	TRSH
+Hjelle_a32	12	268	12	Betula	Betula	TRSH
+Hjelle_a32	31	29	31	Corylus avellana	Corylus	TRSH
+Hjelle_a32	190	2	190	Fraxinus	Fraxinus	TRSH
+Hjelle_a32	81	1	81	Populus	Populus	TRSH
+Hjelle_a32	107	18	107	Sorbus	Sorbus-type	TRSH
+Hjelle_a32	189	16	189	Quercus	Quercus	TRSH
+Hjelle_a32	788	157	125	Pinus sylvestris	Pinus sylvestris-type	TRSH
+Hjelle_a32	58	30	58	Juniperus	Juniperus communis-type	TRSH
+Hjelle_a32	99	12	99	Salix	Salix	TRSH
+Hjelle_a32	154	13	154	Ulmus	Ulmus/Zelkova	TRSH
+Hjelle_a32	435	1	55	Ilex	Ilex	TRSH
+Hjelle_a32	3	2	3	Achillea type	Matricaria-type	HERB
+Hjelle_a32	6	1	6	Apiaceae	Apiaceae	HERB
+Hjelle_a32	739	2	739	Empetrum	Empetrum nigrum	DWAR
+Hjelle_a32	976	3	7	Artemisia type	Artemisia	HERB
+Hjelle_a32	24	1	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Hjelle_a32	33	24	33	Cyperaceae	Cyperaceae	HERB
+Hjelle_a32	45	3	45	Filipendula	Filipendula	HERB
+Hjelle_a32	602	1	483	Campanula	Phyteuma-type	HERB
+Hjelle_a32	54	2	54	Hypericum	Hypericum	HERB
+Hjelle_a32	60	3	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+Hjelle_a32	64	1	64	Plantago maritima	Plantago maritima-type	HERB
+Hjelle_a32	79	1	79	Plantago major	Plantago major	HERB
+Hjelle_a32	87	1	87	Ranunculus acris type	Ranunculus acris-type	HERB
+Hjelle_a32	699	9	512	Potentilla type	Potentilla-type	HERB
+Hjelle_a32	2618	19	95	Rumex sect. Acetosa	Rumex acetosa-type	HERB
+Hjelle_a32	2619	1	1084	Rumex longifolius type	Rumex aquaticus-type	HERB
+Hjelle_a32	92	5	92	Rosaceae	Rosaceae	TRSH
+Hjelle_a32	245	2	93	Galium type	Rubiaceae	HERB
+Hjelle_a32	645	1	116	Trifolium repens type	Trifolium repens-type	HERB
+Hjelle_a32	652	11	652	Urtica	Urtica	HERB
+Hjelle_a32	2621	1	106	Silene dioica type	Silene dioica-type	HERB
+Hjelle_a32	146	388	146	Polypodiaceae	Monolete fern spores	VACR
+Hjelle_a32	431	3	180	Pteridium	Pteridium aquilinum	VACR
+Hjelle_a32	667	4	214	Polypodium vulgare	Polypodium	VACR
+Hjelle_a32	964	2	184	Huperzia selago	Huperzia selago	VACR
+Hjelle_a32	144	14	144	Sphagnum	Sphagnum	BRYO
+Hjelle_a32	2	3	2	Acer	Acer campestre-type	TRSH
+Hjelle_a32	80	208	80	Poaceae	Poaceae	HERB
+Hjelle_a32	262	1	262	Polygonum aviculare type	Polygonum aviculare-type	HERB
+Hjelle_a32	457	6	457	Calluna vulgaris	Calluna vulgaris	TRSH
+Hjelle_a32	473	2	473	Melampyrum	Melampyrum	HERB
+Hjelle_a32	753	1	753	Pedicularis	Pedicularis	HERB
+Hjelle_a32	965	3	183	Lycopodium annotinum	Lycopodium annotinum-type	VACR
+Hjelle_a32	1365	3	25	Asteraceae Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Hjelle_a32	1406	2	153	Tilia cordata	Tilia cordata-type	TRSH
+Hjelle_a32	2370	1	2370	Prunus padus	Prunus padus	TRSH
+Hjelle_a32	2627	28	1320	Gymnocarpium dryopteris type	Gymnocarpium dryopteris	VACR
+Hjelle_a32	2598	4	141	Rubus idaeus	Rubus	TRSH
+Hjelle_a32	2600	2	2600	Erica tetralix type	Erica tetralix-type	DWAR
+Hjelle_a32	2601	1	977	Myrica gale	Myrica	TRSH
+Hjelle_a32	2602	1	942	Vaccinium type	Vaccinium-type	TRSH
+Hjelle_a32	2605	1	588	Anemone type	Anemone nemorosa-type	HERB
+Hjelle_a32	2608	1	2608	Euphrasia	Euphrasia	HERB

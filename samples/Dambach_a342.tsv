@@ -1,38 +1,38 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Dambach_a342	Abies	Abies	TRSH	5	0.63211125
-Dambach_a342	Acer	Acer campestre-type	TRSH	3	0.37926675
-Dambach_a342	Alnus	Alnus	TRSH	56	7.079646
-Dambach_a342	Betula	Betula	TRSH	82	10.366625
-Dambach_a342	Carpinus	Carpinus betulus	TRSH	77	9.7345133
-Dambach_a342	Castanea	Castanea sativa	TRSH	9	1.1378003
-Dambach_a342	Corylus	Corylus	TRSH	29	3.6662453
-Dambach_a342	Fagus	Fagus	TRSH	77	9.7345133
-Dambach_a342	Fraxinus	Fraxinus	TRSH	15	1.8963338
-Dambach_a342	Juglans	Juglans	TRSH	3	0.37926675
-Dambach_a342	Larix	Larix/Pseudotsuga	TRSH	1	0.12642225
-Dambach_a342	Picea	Picea	TRSH	23	2.9077118
-Dambach_a342	Pinus	Pinus	TRSH	164	20.733249
-Dambach_a342	Quercus	Quercus	TRSH	64	8.091024
-Dambach_a342	Rosaceae	Rosaceae	TRSH	3	0.37926675
-Dambach_a342	Salix	Salix	TRSH	8	1.011378
-Dambach_a342	Hedera helix	Hedera	LIAN	1	0.12642225
-Dambach_a342	Umbelliferae	Apiaceae	HERB	1	0.12642225
-Dambach_a342	Artemisia	Artemisia	HERB	1	0.12642225
-Dambach_a342	Asteroideae	Asteraceae subf. Asteroideae	HERB	21	2.6548673
-Dambach_a342	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	2	0.2528445
-Dambach_a342	Brassicaceae	Brassicaceae	HERB	7	0.88495575
-Dambach_a342	Cerealia-type	Cerealia-type	HERB	37	4.6776233
-Dambach_a342	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	5	0.63211125
-Dambach_a342	Plantago lanceolata	Plantago lanceolata-type	HERB	8	1.011378
-Dambach_a342	Gramineae	Poaceae	HERB	67	8.4702908
-Dambach_a342	Ranunculaceae	Ranunculaceae	HERB	3	0.37926675
-Dambach_a342	Ranunculus-type	Ranunculus-type	HERB	3	0.37926675
-Dambach_a342	Rubiaceae	Rubiaceae	HERB	1	0.12642225
-Dambach_a342	Rumex acetosa-type	Rumex acetosa-type	HERB	2	0.2528445
-Dambach_a342	Scrophularia/Verbascum	Scrophularia-type	HERB	6	0.7585335
-Dambach_a342	Urtica	Urtica	HERB	2	0.2528445
-Dambach_a342	Polypodiaceae	Monolete fern spores	VACR	5	0.63211125
-Dambach_a342	Cyperaceae	Cyperaceae	AQUA	12	1.517067
-Dambach_a342	Fabaceae	Fabaceae	INUN	2	
-Dambach_a342	Indeterminable: unknown	Indeterminable: unknown	INUN	12	
-Dambach_a342	Varia	Indeterminable: unknown	INUN	4	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Dambach_a342	560	5	321	Abies	Abies	TRSH
+Dambach_a342	2	3	2	Acer	Acer campestre-type	TRSH
+Dambach_a342	5	56	5	Alnus	Alnus	TRSH
+Dambach_a342	7	1	7	Artemisia	Artemisia	HERB
+Dambach_a342	761	21	160	Asteroideae	Asteraceae subf. Asteroideae	HERB
+Dambach_a342	12	82	12	Betula	Betula	TRSH
+Dambach_a342	13	7	13	Brassicaceae	Brassicaceae	HERB
+Dambach_a342	16	77	16	Carpinus	Carpinus betulus	TRSH
+Dambach_a342	441	9	19	Castanea	Castanea sativa	TRSH
+Dambach_a342	1065	37	22	Cerealia-type	Cerealia-type	HERB
+Dambach_a342	24	5	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Dambach_a342	201	29	31	Corylus	Corylus	TRSH
+Dambach_a342	3868	12	3868	Cyperaceae	Cyperaceae	AQUA
+Dambach_a342	3958	2	3958	Fabaceae	Fabaceae	INUN
+Dambach_a342	192	77	42	Fagus	Fagus	TRSH
+Dambach_a342	190	15	190	Fraxinus	Fraxinus	TRSH
+Dambach_a342	1601	67	80	Gramineae	Poaceae	HERB
+Dambach_a342	4078	12	177	Indeterminable: unknown	Indeterminable: unknown	INUN
+Dambach_a342	123	1	123	Larix	Larix/Pseudotsuga	TRSH
+Dambach_a342	126	23	126	Picea	Picea	TRSH
+Dambach_a342	75	164	75	Pinus	Pinus	TRSH
+Dambach_a342	60	8	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+Dambach_a342	146	5	146	Polypodiaceae	Monolete fern spores	VACR
+Dambach_a342	189	64	189	Quercus	Quercus	TRSH
+Dambach_a342	135	3	135	Ranunculaceae	Ranunculaceae	HERB
+Dambach_a342	2429	3	274	Ranunculus-type	Ranunculus-type	HERB
+Dambach_a342	93	1	93	Rubiaceae	Rubiaceae	HERB
+Dambach_a342	634	2	95	Rumex acetosa-type	Rumex acetosa-type	HERB
+Dambach_a342	99	8	99	Salix	Salix	TRSH
+Dambach_a342	4579	6	103	Scrophularia/Verbascum	Scrophularia-type	HERB
+Dambach_a342	590	1	6	Umbelliferae	Apiaceae	HERB
+Dambach_a342	652	2	652	Urtica	Urtica	HERB
+Dambach_a342	1098	4	177	Varia	Indeterminable: unknown	INUN
+Dambach_a342	57	3	57	Juglans	Juglans	TRSH
+Dambach_a342	447	2	25	Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Dambach_a342	4032	1	4031	Hedera helix	Hedera	LIAN
+Dambach_a342	92	3	92	Rosaceae	Rosaceae	TRSH

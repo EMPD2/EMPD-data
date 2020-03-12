@@ -1,36 +1,36 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-EPDcoretop_E1135	Alnus glutinosa	Alnus glutinosa-type	TRSH	15	3.3936652
-EPDcoretop_E1135	Betula	Betula	TRSH	4	0.90497738
-EPDcoretop_E1135	Corylus avellana	Corylus	TRSH	4	0.90497738
-EPDcoretop_E1135	Ephedra	Ephedra	TRSH	2	0.45248869
-EPDcoretop_E1135	Ericales	Ericales (tetrad)	DWAR	1	0.22624434
-EPDcoretop_E1135	Pinus sylvestris	Pinus sylvestris-type	TRSH	64	14.479638
-EPDcoretop_E1135	Quercus	Quercus	TRSH	3	0.67873303
-EPDcoretop_E1135	Rosaceae	Rosaceae	TRSH	1	0.22624434
-EPDcoretop_E1135	Salix	Salix	TRSH	4	0.90497738
-EPDcoretop_E1135	Tilia	Tilia	TRSH	1	0.22624434
-EPDcoretop_E1135	Ulmus minor	Ulmus/Zelkova	TRSH	1	0.22624434
-EPDcoretop_E1135	Vitis vinifera	Vitis	LIAN	1	0.22624434
-EPDcoretop_E1135	Apiaceae	Apiaceae	HERB	4	0.90497738
-EPDcoretop_E1135	Artemisia	Artemisia	HERB	50	11.312217
-EPDcoretop_E1135	Asteraceae undiff.	Asteraceae	HERB	15	3.3936652
-EPDcoretop_E1135	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB	3	0.67873303
-EPDcoretop_E1135	Brassicaceae	Brassicaceae	HERB	10	2.2624434
-EPDcoretop_E1135	Caryophyllaceae undiff.	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	1	0.22624434
-EPDcoretop_E1135	Centaurea	Centaurea	HERB	1	0.22624434
-EPDcoretop_E1135	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	40	9.0497738
-EPDcoretop_E1135	Euphorbiaceae	Euphorbiaceae	HERB	1	0.22624434
-EPDcoretop_E1135	Lamiaceae	Lamiaceae	HERB	1	0.22624434
-EPDcoretop_E1135	Gramineae undiff.	Poaceae	HERB	4	0.90497738
-EPDcoretop_E1135	Poaceae undiff.	Poaceae	HERB	57	12.895928
-EPDcoretop_E1135	Polygonaceae undiff.	Polygonaceae	HERB	1	0.22624434
-EPDcoretop_E1135	Ranunculaceae undiff.	Ranunculaceae	HERB	7	1.5837104
-EPDcoretop_E1135	Rubiaceae	Rubiaceae	HERB	3	0.67873303
-EPDcoretop_E1135	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	1	0.22624434
-EPDcoretop_E1135	Thalictrum undiff.	Thalictrum	HERB	1	0.22624434
-EPDcoretop_E1135	Polypodiaceae	Monolete fern spores	VACR	141	31.900452
-EPDcoretop_E1135	Cyperaceae	Cyperaceae	AQUA	1	0.22624434
-EPDcoretop_E1135	Nuphar	Nuphar	AQUA	1	0.22624434
-EPDcoretop_E1135	Nymphaea	Nymphaea	AQUA	3	0.67873303
-EPDcoretop_E1135	Sparganium	Potamogeton-type	AQUA	10	2.2624434
-EPDcoretop_E1135	Typha	Sparganium-type	AQUA	2	0.45248869
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+EPDcoretop_E1135	760	15	155	Alnus glutinosa	Alnus glutinosa-type	TRSH
+EPDcoretop_E1135	6	4	6	Apiaceae	Apiaceae	HERB
+EPDcoretop_E1135	7	50	7	Artemisia	Artemisia	HERB
+EPDcoretop_E1135	13	10	13	Brassicaceae	Brassicaceae	HERB
+EPDcoretop_E1135	946	1	18	Caryophyllaceae undiff.	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+EPDcoretop_E1135	24	40	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+EPDcoretop_E1135	3824	3	25	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+EPDcoretop_E1135	31	4	31	Corylus avellana	Corylus	TRSH
+EPDcoretop_E1135	3868	1	3868	Cyperaceae	Cyperaceae	AQUA
+EPDcoretop_E1135	159	2	159	Ephedra	Ephedra	TRSH
+EPDcoretop_E1135	773	1	773	Euphorbiaceae	Euphorbiaceae	HERB
+EPDcoretop_E1135	4018	4	80	Gramineae undiff.	Poaceae	HERB
+EPDcoretop_E1135	59	1	59	Lamiaceae	Lamiaceae	HERB
+EPDcoretop_E1135	1495	1	1495	Nuphar	Nuphar	AQUA
+EPDcoretop_E1135	788	64	125	Pinus sylvestris	Pinus sylvestris-type	TRSH
+EPDcoretop_E1135	146	141	146	Polypodiaceae	Monolete fern spores	VACR
+EPDcoretop_E1135	92	1	92	Rosaceae	Rosaceae	TRSH
+EPDcoretop_E1135	99	4	99	Salix	Salix	TRSH
+EPDcoretop_E1135	173	1	173	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB
+EPDcoretop_E1135	108	10	108	Sparganium	Potamogeton-type	AQUA
+EPDcoretop_E1135	4656	1	112	Thalictrum undiff.	Thalictrum	HERB
+EPDcoretop_E1135	187	1	187	Tilia	Tilia	TRSH
+EPDcoretop_E1135	176	2	176	Typha	Sparganium-type	AQUA
+EPDcoretop_E1135	4710	1	154	Ulmus minor	Ulmus/Zelkova	TRSH
+EPDcoretop_E1135	4757	1	4756	Vitis vinifera	Vitis	LIAN
+EPDcoretop_E1135	12	4	12	Betula	Betula	TRSH
+EPDcoretop_E1135	189	3	189	Quercus	Quercus	TRSH
+EPDcoretop_E1135	429	57	80	Poaceae undiff.	Poaceae	HERB
+EPDcoretop_E1135	627	3	627	Nymphaea	Nymphaea	AQUA
+EPDcoretop_E1135	709	15	134	Asteraceae undiff.	Asteraceae	HERB
+EPDcoretop_E1135	757	1	267	Centaurea	Centaurea	HERB
+EPDcoretop_E1135	1180	7	135	Ranunculaceae undiff.	Ranunculaceae	HERB
+EPDcoretop_E1135	2120	1	130	Ericales	Ericales (tetrad)	DWAR
+EPDcoretop_E1135	4360	1	138	Polygonaceae undiff.	Polygonaceae	HERB
+EPDcoretop_E1135	93	3	93	Rubiaceae	Rubiaceae	HERB

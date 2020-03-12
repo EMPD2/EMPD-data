@@ -1,26 +1,26 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Shaw_b1	Alnus glutinosa	Alnus glutinosa-type	TRSH	1	0.17667845
-Shaw_b1	Betula	Betula	TRSH	29	5.1236749
-Shaw_b1	Calluna vulgaris	Calluna vulgaris	DWAR	47	8.3038869
-Shaw_b1	Coryloid	Corylus/Myrica	TRSH	1	0.17667845
-Shaw_b1	Empetrum nigrum	Empetrum nigrum	DWAR	1	0.17667845
-Shaw_b1	Erica undiff.	Erica	DWAR	2	0.35335689
-Shaw_b1	Ericaceae undiff.	Ericales (tetrad)	DWAR	10	1.7667845
-Shaw_b1	Pinus sylvestris	Pinus sylvestris-type	TRSH	404	71.378092
-Shaw_b1	Vaccinium undiff.	Vaccinium	DWAR	4	0.70671378
-Shaw_b1	Poaceae	Poaceae	HERB	48	8.4805654
-Shaw_b1	Potentilla-type	Potentilla-type	HERB	7	1.2367491
-Shaw_b1	Ranunculus acris-type	Ranunculus acris-type	HERB	1	0.17667845
-Shaw_b1	Sphagnum	Sphagnum	BRYO	11	1.9434629
-Shaw_b1	Cyperaceae	Cyperaceae	AQUA	11	1.9434629
-Shaw_b1	Charcoal 10-20 _m	Charcoal 10-20µm	CHAR	1	
-Shaw_b1	Charcoal 3-10 _m	Charcoal 3-10µm	CHAR	9	
-Shaw_b1	Indeterminable: unknown	Indeterminable: unknown	INUN	7	
-Shaw_b1	Unknown	Indeterminable: unknown	INUN	1	
-Shaw_b1	Lycopodium (counted)	Lycopodium (counted)	NOPO	152	
-Shaw_b1	Pinus: stomata	Pinus: stomata	MACR	32	
-Shaw_b1	Sample volume (ml)	Sample volume (ml)	NOPO	1	
-Shaw_b1	Spheroidal Carbonaceous Particles	Spheroidal carbonaceous particle	NOPO	1	
-Shaw_b1	Spike (grains/tablet)	Spike (grains/tablet)	NOPO	12540	
-Shaw_b1	Spike tablets (number)	Spike tablets (number)	NOPO	2	
-Shaw_b1	Stomata undiff.	Stomata	VEMI	1	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Shaw_b1	760	1	155	Alnus glutinosa	Alnus glutinosa-type	TRSH
+Shaw_b1	12	29	12	Betula	Betula	TRSH
+Shaw_b1	3646	47	3645	Calluna vulgaris	Calluna vulgaris	DWAR
+Shaw_b1	3779	1	2407	Charcoal 10-20 _m	Charcoal 10-20µm	CHAR
+Shaw_b1	3781	9	3781	Charcoal 3-10 _m	Charcoal 3-10µm	CHAR
+Shaw_b1	939	1	739	Empetrum nigrum	Empetrum nigrum	DWAR
+Shaw_b1	3941	2	3927	Erica undiff.	Erica	DWAR
+Shaw_b1	716	10	130	Ericaceae undiff.	Ericales (tetrad)	DWAR
+Shaw_b1	4078	7	177	Indeterminable: unknown	Indeterminable: unknown	INUN
+Shaw_b1	559	152	559	Lycopodium (counted)	Lycopodium (counted)	NOPO
+Shaw_b1	788	404	125	Pinus sylvestris	Pinus sylvestris-type	TRSH
+Shaw_b1	4310	32	4310	Pinus: stomata	Pinus: stomata	MACR
+Shaw_b1	80	48	80	Poaceae	Poaceae	HERB
+Shaw_b1	626	7	512	Potentilla-type	Potentilla-type	HERB
+Shaw_b1	630	1	87	Ranunculus acris-type	Ranunculus acris-type	HERB
+Shaw_b1	4542	1	883	Sample volume (ml)	Sample volume (ml)	NOPO
+Shaw_b1	144	11	144	Sphagnum	Sphagnum	BRYO
+Shaw_b1	4624	1	2382	Spheroidal Carbonaceous Particles	Spheroidal carbonaceous particle	NOPO
+Shaw_b1	4625	12540	4625	Spike (grains/tablet)	Spike (grains/tablet)	NOPO
+Shaw_b1	4627	2	4627	Spike tablets (number)	Spike tablets (number)	NOPO
+Shaw_b1	2771	1	2771	Stomata undiff.	Stomata	VEMI
+Shaw_b1	969	1	177	Unknown	Indeterminable: unknown	INUN
+Shaw_b1	4729	4	4725	Vaccinium undiff.	Vaccinium	DWAR
+Shaw_b1	3847	1	3847	Coryloid	Corylus/Myrica	TRSH
+Shaw_b1	3868	11	3868	Cyperaceae	Cyperaceae	AQUA

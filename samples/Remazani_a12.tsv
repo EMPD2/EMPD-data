@@ -1,43 +1,43 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Remazani_a12	Acer campestre type	Acer campestre-type	TRSH	5	0.59808612
-Remazani_a12	Alnus	Alnus	TRSH	184	22.009569
-Remazani_a12	Carpinus type	Carpinus betulus	TRSH	196	23.444976
-Remazani_a12	Ephedra distachya type	Ephedra distachya-type	TRSH	1	0.11961722
-Remazani_a12	Fagus	Fagus	TRSH	335	40.07177
-Remazani_a12	Fagus clumps of two	Fagus	TRSH	3	0.35885167
-Remazani_a12	Fagus clumps	Fagus	TRSH	2	0.23923445
-Remazani_a12	Fraxinus	Fraxinus	TRSH	2	0.23923445
-Remazani_a12	Pinus	Pinus	TRSH	1	0.11961722
-Remazani_a12	Pterocarya fraxinifolia type	Pterocarya	TRSH	1	0.11961722
-Remazani_a12	Quercus	Quercus	TRSH	9	1.076555
-Remazani_a12	Rosaceae  undiff.  type	Rosaceae	TRSH	1	0.11961722
-Remazani_a12	Salix	Salix	TRSH	1	0.11961722
-Remazani_a12	Umbelliferae  undiff. type	Apiaceae	HERB	1	0.11961722
-Remazani_a12	Artemisia	Artemisia	HERB	4	0.4784689
-Remazani_a12	Aster type	Aster-type	HERB	1	0.11961722
-Remazani_a12	Chenopodiaceae and Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	7	0.83732057
-Remazani_a12	Cyperaceae	Cyperaceae	HERB	1	0.11961722
-Remazani_a12	Euphorbia/Mercurialis	Euphorbia/Mercurialis	HERB	1	0.11961722
-Remazani_a12	Hordeum group	Hordeum-type	HERB	1	0.11961722
-Remazani_a12	Mercurialis	Mercurialis	HERB	1	0.11961722
-Remazani_a12	Plantago lanceolata type	Plantago lanceolata-type	HERB	1	0.11961722
-Remazani_a12	Plantago tenuiflora type	Plantago tenuiflora	HERB	1	0.11961722
-Remazani_a12	Wild grass group	Poaceae	HERB	8	0.9569378
-Remazani_a12	Poaceae undiff. type	Poaceae	HERB	1	0.11961722
-Remazani_a12	Galium type	Rubiaceae	HERB	1	0.11961722
-Remazani_a12	Veronica type	Veronica-type	HERB	1	0.11961722
-Remazani_a12	Asplenium scolopendrium	Asplenium-type	VACR	1	0.11961722
-Remazani_a12	Athyrium filix-femina	Athyrium filix-femina	VACR	9	1.076555
-Remazani_a12	Dryopteris dilatata	Dryopteris dilatata	VACR	1	0.11961722
-Remazani_a12	Dryopteris filix-mas type	Dryopteris filix-mas-type	VACR	6	0.71770335
-Remazani_a12	Monolete spore without perine	Monolete fern spores	VACR	39	4.6650718
-Remazani_a12	Monolete spore with perine	Monolete fern spores	VACR	5	0.59808612
-Remazani_a12	Monocolpate verrucate	Monolete fern spores	VACR	1	0.11961722
-Remazani_a12	Polystichum type	Polystichum-type	VACR	3	0.35885167
-Remazani_a12	Ideterminable grains	Indeterminable: unknown	INUN	116	
-Remazani_a12	Type 503	Type 503	INUN	1	
-Remazani_a12	Arcella discoides C	Arcella discoides	RHIZ	1	
-Remazani_a12	Type 32 A: Assulina muscorum	Assulina muscorum	RHIZ	1	
-Remazani_a12	Monodictys E	Monodictys	FUNG	60	
-Remazani_a12	Multi-septate fungal remain	Multi-septate fungal remain	FUNG	22	
-Remazani_a12	Type 44: Ustulina deusta	Ustulina deusta	FUNG	71	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Remazani_a12	5	184	5	Alnus	Alnus	TRSH
+Remazani_a12	186	196	16	Carpinus type	Carpinus betulus	TRSH
+Remazani_a12	189	9	189	Quercus	Quercus	TRSH
+Remazani_a12	190	2	190	Fraxinus	Fraxinus	TRSH
+Remazani_a12	191	1	191	Pterocarya fraxinifolia type	Pterocarya	TRSH
+Remazani_a12	192	335	42	Fagus	Fagus	TRSH
+Remazani_a12	7	4	7	Artemisia	Artemisia	HERB
+Remazani_a12	75	1	75	Pinus	Pinus	TRSH
+Remazani_a12	99	1	99	Salix	Salix	TRSH
+Remazani_a12	211	1	37	Ephedra distachya type	Ephedra distachya-type	TRSH
+Remazani_a12	212	7	24	Chenopodiaceae and Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB
+Remazani_a12	11	1	11	Aster type	Aster-type	HERB
+Remazani_a12	213	3	213	Polystichum type	Polystichum-type	VACR
+Remazani_a12	215	9	215	Athyrium filix-femina	Athyrium filix-femina	VACR
+Remazani_a12	216	1	216	Asplenium scolopendrium	Asplenium-type	VACR
+Remazani_a12	219	1	219	Dryopteris dilatata	Dryopteris dilatata	VACR
+Remazani_a12	220	6	220	Dryopteris filix-mas type	Dryopteris filix-mas-type	VACR
+Remazani_a12	221	1	60	Plantago lanceolata type	Plantago lanceolata-type	HERB
+Remazani_a12	223	1	223	Plantago tenuiflora type	Plantago tenuiflora	HERB
+Remazani_a12	224	1	224	Veronica type	Veronica-type	HERB
+Remazani_a12	33	1	33	Cyperaceae	Cyperaceae	HERB
+Remazani_a12	249	8	80	Wild grass group	Poaceae	HERB
+Remazani_a12	258	1	258	Hordeum group	Hordeum-type	HERB
+Remazani_a12	268	1	80	Poaceae undiff. type	Poaceae	HERB
+Remazani_a12	245	1	93	Galium type	Rubiaceae	HERB
+Remazani_a12	273	1	6	Umbelliferae  undiff. type	Apiaceae	HERB
+Remazani_a12	275	39	146	Monolete spore without perine	Monolete fern spores	VACR
+Remazani_a12	276	5	146	Monolete spore with perine	Monolete fern spores	VACR
+Remazani_a12	281	1	146	Monocolpate verrucate	Monolete fern spores	VACR
+Remazani_a12	282	3	42	Fagus clumps of two	Fagus	TRSH
+Remazani_a12	283	2	42	Fagus clumps	Fagus	TRSH
+Remazani_a12	272	1	92	Rosaceae  undiff.  type	Rosaceae	TRSH
+Remazani_a12	301	116	177	Ideterminable grains	Indeterminable: unknown	INUN
+Remazani_a12	306	71	306	Type 44: Ustulina deusta	Ustulina deusta	FUNG
+Remazani_a12	307	1	307	Type 503	Type 503	INUN
+Remazani_a12	309	1	309	Arcella discoides C	Arcella discoides	RHIZ
+Remazani_a12	312	60	312	Monodictys E	Monodictys	FUNG
+Remazani_a12	317	1	317	Type 32 A: Assulina muscorum	Assulina muscorum	RHIZ
+Remazani_a12	320	22	320	Multi-septate fungal remain	Multi-septate fungal remain	FUNG
+Remazani_a12	195	5	2	Acer campestre type	Acer campestre-type	TRSH
+Remazani_a12	227	1	227	Mercurialis	Mercurialis	HERB
+Remazani_a12	234	1	234	Euphorbia/Mercurialis	Euphorbia/Mercurialis	HERB

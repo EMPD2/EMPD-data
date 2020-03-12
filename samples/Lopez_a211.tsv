@@ -1,56 +1,56 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Lopez_a211	Abies	Abies	TRSH	3	0.63694268
-Lopez_a211	Acer	Acer campestre-type	TRSH	8	1.6985138
-Lopez_a211	Alnus	Alnus	TRSH	1	0.21231423
-Lopez_a211	Berberis	Berberis	TRSH	5	1.0615711
-Lopez_a211	Castanea	Castanea sativa	TRSH	97	20.59448
-Lopez_a211	Corylus	Corylus	TRSH	2	0.42462845
-Lopez_a211	Erica arborea-type	Erica arborea-type	DWAR	1	0.21231423
-Lopez_a211	Frangula	Frangula alnus	TRSH	5	1.0615711
-Lopez_a211	Fraxinus	Fraxinus	TRSH	8	1.6985138
-Lopez_a211	Juniperus-type	Juniperus-type	TRSH	5	1.0615711
-Lopez_a211	Phillyrea	Phillyrea	TRSH	1	0.21231423
-Lopez_a211	Pinus pinea/halepensis-type	Pinus halepensis-type	TRSH	1	0.21231423
-Lopez_a211	Pinus pinaster	Pinus pinaster	TRSH	1	0.21231423
-Lopez_a211	Pinus sylvestris/nigra-type	Pinus sylvestris-type	TRSH	7	1.4861996
-Lopez_a211	Populus	Populus	TRSH	1	0.21231423
-Lopez_a211	Crataegus-type	Prunus-type	TRSH	11	2.3354565
-Lopez_a211	Quercus suber	Quercus cerris-type	TRSH	2	0.42462845
-Lopez_a211	Quercus evergreen	Quercus ilex-type	TRSH	7	1.4861996
-Lopez_a211	Quercus deciduous	Quercus robur-type	TRSH	178	37.791932
-Lopez_a211	Rosaceae undiff,	Rosaceae	TRSH	16	3.3970276
-Lopez_a211	Prunus/Rubus-type	Rosaceae (non-operculate)	TRSH	4	0.8492569
-Lopez_a211	Salix	Salix	TRSH	1	0.21231423
-Lopez_a211	Ulmus	Ulmus/Zelkova	TRSH	1	0.21231423
-Lopez_a211	Viburnum	Viburnum	TRSH	1	0.21231423
-Lopez_a211	Lonicera	Lonicera	LIAN	4	0.8492569
-Lopez_a211	Apiaceae	Apiaceae	HERB	1	0.21231423
-Lopez_a211	Artemisia	Artemisia	HERB	1	0.21231423
-Lopez_a211	Aster-type	Aster-type	HERB	1	0.21231423
-Lopez_a211	Cardueae	Asteraceae subf. Carduoideae	HERB	1	0.21231423
-Lopez_a211	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	1	0.21231423
-Lopez_a211	Boraginaceae	Boraginaceae	HERB	2	0.42462845
-Lopez_a211	Cruciferae	Brassicaceae	HERB	2	0.42462845
-Lopez_a211	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	2	0.42462845
-Lopez_a211	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	2	0.42462845
-Lopez_a211	Cistus-type	Cistus	HERB	1	0.21231423
-Lopez_a211	Cytisus/Genista-type	Genista-type	HERB	13	2.7600849
-Lopez_a211	Labiatae	Lamiaceae	HERB	7	1.4861996
-Lopez_a211	Amaryllidaceae	Liliaceae-type	HERB	1	0.21231423
-Lopez_a211	Liliaceae undiff,	Liliaceae-type	HERB	1	0.21231423
-Lopez_a211	Anthemis-type	Matricaria-type	HERB	1	0.21231423
-Lopez_a211	Melampyrum	Melampyrum	HERB	1	0.21231423
-Lopez_a211	Plantago coronopus-type	Plantago coronopus-type	HERB	2	0.42462845
-Lopez_a211	Plantago lanceolata-type	Plantago lanceolata-type	HERB	1	0.21231423
-Lopez_a211	Poaceae undiff.	Poaceae	HERB	43	9.1295117
-Lopez_a211	Ranunculaceae	Ranunculaceae	HERB	3	0.63694268
-Lopez_a211	Rumex acetosa-type	Rumex acetosa-type	HERB	2	0.42462845
-Lopez_a211	Rumex acetosella-type	Rumex acetosella	HERB	1	0.21231423
-Lopez_a211	Sanguisorba officinalis	Sanguisorba officinalis	HERB	1	0.21231423
-Lopez_a211	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	1	0.21231423
-Lopez_a211	Urtica dioica-type	Urtica dioica-type	HERB	1	0.21231423
-Lopez_a211	Violaceae	Viola	HERB	1	0.21231423
-Lopez_a211	Monolete fern spores undiff.	Monolete fern spores	VACR	3	0.63694268
-Lopez_a211	Trilete fern spores undiff.	Trilete spore(s)	VACR	3	0.63694268
-Lopez_a211	Cyperaceae	Cyperaceae	AQUA	6	1.2738854
-Lopez_a211	Fabaceae undiff.	Fabaceae undiff.	INUN	2	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Lopez_a211	2	8	2	Acer	Acer campestre-type	TRSH
+Lopez_a211	5	1	5	Alnus	Alnus	TRSH
+Lopez_a211	589	1	3	Anthemis-type	Matricaria-type	HERB
+Lopez_a211	6	1	6	Apiaceae	Apiaceae	HERB
+Lopez_a211	7	1	7	Artemisia	Artemisia	HERB
+Lopez_a211	597	1	11	Aster-type	Aster-type	HERB
+Lopez_a211	162	2	162	Boraginaceae	Boraginaceae	HERB
+Lopez_a211	445	1	336	Cardueae	Asteraceae subf. Carduoideae	HERB
+Lopez_a211	18	2	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Lopez_a211	441	97	19	Castanea	Castanea sativa	TRSH
+Lopez_a211	769	2	24	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB
+Lopez_a211	447	1	25	Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Lopez_a211	3810	1	3796	Cistus-type	Cistus	HERB
+Lopez_a211	201	2	31	Corylus	Corylus	TRSH
+Lopez_a211	3857	11	82	Crataegus-type	Prunus-type	TRSH
+Lopez_a211	482	2	13	Cruciferae	Brassicaceae	HERB
+Lopez_a211	3868	6	3868	Cyperaceae	Cyperaceae	AQUA
+Lopez_a211	3878	13	3878	Cytisus/Genista-type	Genista-type	HERB
+Lopez_a211	3929	1	3928	Erica arborea-type	Erica arborea-type	DWAR
+Lopez_a211	3960	2	3960	Fabaceae undiff.	Fabaceae undiff.	INUN
+Lopez_a211	468	5	468	Frangula	Frangula alnus	TRSH
+Lopez_a211	190	8	190	Fraxinus	Fraxinus	TRSH
+Lopez_a211	738	5	203	Juniperus-type	Juniperus-type	TRSH
+Lopez_a211	485	7	59	Labiatae	Lamiaceae	HERB
+Lopez_a211	473	1	473	Melampyrum	Melampyrum	HERB
+Lopez_a211	4195	3	146	Monolete fern spores undiff.	Monolete fern spores	VACR
+Lopez_a211	74	1	74	Phillyrea	Phillyrea	TRSH
+Lopez_a211	439	1	439	Pinus pinaster	Pinus pinaster	TRSH
+Lopez_a211	4304	1	440	Pinus pinea/halepensis-type	Pinus halepensis-type	TRSH
+Lopez_a211	4308	7	125	Pinus sylvestris/nigra-type	Pinus sylvestris-type	TRSH
+Lopez_a211	2801	2	30	Plantago coronopus-type	Plantago coronopus-type	HERB
+Lopez_a211	81	1	81	Populus	Populus	TRSH
+Lopez_a211	4403	4	490	Prunus/Rubus-type	Rosaceae (non-operculate)	TRSH
+Lopez_a211	437	178	86	Quercus deciduous	Quercus robur-type	TRSH
+Lopez_a211	427	7	85	Quercus evergreen	Quercus ilex-type	TRSH
+Lopez_a211	438	2	84	Quercus suber	Quercus cerris-type	TRSH
+Lopez_a211	4489	16	92	Rosaceae undiff,	Rosaceae	TRSH
+Lopez_a211	634	2	95	Rumex acetosa-type	Rumex acetosa-type	HERB
+Lopez_a211	1398	1	96	Rumex acetosella-type	Rumex acetosella	HERB
+Lopez_a211	99	1	99	Salix	Salix	TRSH
+Lopez_a211	1188	1	474	Sanguisorba officinalis	Sanguisorba officinalis	HERB
+Lopez_a211	173	1	173	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB
+Lopez_a211	4683	3	279	Trilete fern spores undiff.	Trilete spore(s)	VACR
+Lopez_a211	154	1	154	Ulmus	Ulmus/Zelkova	TRSH
+Lopez_a211	430	1	430	Violaceae	Viola	HERB
+Lopez_a211	120	1	120	Viburnum	Viburnum	TRSH
+Lopez_a211	135	3	135	Ranunculaceae	Ranunculaceae	HERB
+Lopez_a211	429	43	80	Poaceae undiff.	Poaceae	HERB
+Lopez_a211	517	1	62	Amaryllidaceae	Liliaceae-type	HERB
+Lopez_a211	524	5	524	Berberis	Berberis	TRSH
+Lopez_a211	560	3	321	Abies	Abies	TRSH
+Lopez_a211	1075	1	60	Plantago lanceolata-type	Plantago lanceolata-type	HERB
+Lopez_a211	4131	1	62	Liliaceae undiff,	Liliaceae-type	HERB
+Lopez_a211	4150	4	4150	Lonicera	Lonicera	LIAN
+Lopez_a211	4718	1	453	Urtica dioica-type	Urtica dioica-type	HERB

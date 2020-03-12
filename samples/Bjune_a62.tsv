@@ -1,36 +1,36 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Bjune_a62	Alnus	Alnus	TRSH	12	2.1052632
-Bjune_a62	Betula	Betula	TRSH	123	21.578947
-Bjune_a62	Juniperus communis	Juniperus communis-type	TRSH	38	6.6666667
-Bjune_a62	Picea	Picea	TRSH	104	18.245614
-Bjune_a62	Pinus sylvestris	Pinus sylvestris-type	TRSH	209	36.666667
-Bjune_a62	Rosaceae undiff.	Rosa	TRSH	1	0.1754386
-Bjune_a62	Salix undiff.	Salix	TRSH	2	0.35087719
-Bjune_a62	Vaccinium-type	Vaccinium-type	DWAR	1	0.1754386
-Bjune_a62	Filipendula	Filipendula	HERB	1	0.1754386
-Bjune_a62	Achillea-type	Matricaria-type	HERB	1	0.1754386
-Bjune_a62	Melampyrum	Melampyrum	HERB	2	0.35087719
-Bjune_a62	Plantago lanceolata	Plantago lanceolata-type	HERB	1	0.1754386
-Bjune_a62	Gramineae undiff.	Poaceae	HERB	29	5.0877193
-Bjune_a62	Potentilla-type	Potentilla-type	HERB	1	0.1754386
-Bjune_a62	Rubiaceae	Rubiaceae	HERB	1	0.1754386
-Bjune_a62	Rubus chamaemorus	Rubus chamaemorus	HERB	1	0.1754386
-Bjune_a62	Rumex acetosa	Rumex acetosa-type	HERB	5	0.87719298
-Bjune_a62	Rumex acetosa-type/R. acetosella-type	Rumex acetosa-type	HERB	1	0.1754386
-Bjune_a62	Rumex acetosella-type	Rumex acetosella	HERB	2	0.35087719
-Bjune_a62	Saussurea alpina	Saussurea alpina	HERB	1	0.1754386
-Bjune_a62	Solidago-type	Senecio-type	HERB	1	0.1754386
-Bjune_a62	Urtica	Urtica	HERB	1	0.1754386
-Bjune_a62	Dryopteris-type	Dryopteris-type	VACR	9	1.5789474
-Bjune_a62	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR	5	0.87719298
-Bjune_a62	Lycopodium annotinum	Lycopodium annotinum-type	VACR	5	0.87719298
-Bjune_a62	Sphagnum	Sphagnum	BRYO	13	2.2807018
-Bjune_a62	Botryococcus	Botryococcus	ALGA	13	2.2807018
-Bjune_a62	Carex-type	Carex	AQUA	8	1.4035088
-Bjune_a62	Cyperaceae undiff.	Cyperaceae	AQUA	3	0.52631579
-Bjune_a62	Isoetes lacustris	Isoetes lacustris	AQPT	1	0.1754386
-Bjune_a62	Pediastrum	Pediastrum	ALGA	15	2.6315789
-Bjune_a62	Indeterminable: broken	Indeterminable: broken	INUN	1	
-Bjune_a62	Indeterminable: concealed	Indeterminable: concealed	INUN	2	
-Bjune_a62	Indeterminable: corroded	Indeterminable: corroded	INUN	1	
-Bjune_a62	Pinus: stomata	Pinus: stomata	MACR	2	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Bjune_a62	943	1	3	Achillea-type	Matricaria-type	HERB
+Bjune_a62	5	12	5	Alnus	Alnus	TRSH
+Bjune_a62	12	123	12	Betula	Betula	TRSH
+Bjune_a62	663	13	663	Botryococcus	Botryococcus	ALGA
+Bjune_a62	3665	8	3663	Carex-type	Carex	AQUA
+Bjune_a62	3873	3	3868	Cyperaceae undiff.	Cyperaceae	AQUA
+Bjune_a62	1247	9	772	Dryopteris-type	Dryopteris-type	VACR
+Bjune_a62	45	1	45	Filipendula	Filipendula	HERB
+Bjune_a62	4018	29	80	Gramineae undiff.	Poaceae	HERB
+Bjune_a62	2121	5	1320	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR
+Bjune_a62	4072	1	998	Indeterminable: broken	Indeterminable: broken	INUN
+Bjune_a62	4073	2	999	Indeterminable: concealed	Indeterminable: concealed	INUN
+Bjune_a62	4074	1	1324	Indeterminable: corroded	Indeterminable: corroded	INUN
+Bjune_a62	1590	1	1590	Isoetes lacustris	Isoetes lacustris	AQPT
+Bjune_a62	941	38	58	Juniperus communis	Juniperus communis-type	TRSH
+Bjune_a62	965	5	183	Lycopodium annotinum	Lycopodium annotinum-type	VACR
+Bjune_a62	473	2	473	Melampyrum	Melampyrum	HERB
+Bjune_a62	662	15	662	Pediastrum	Pediastrum	ALGA
+Bjune_a62	4310	2	4310	Pinus: stomata	Pinus: stomata	MACR
+Bjune_a62	60	1	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+Bjune_a62	472	1	92	Rosaceae undiff.	Rosaceae	TRSH
+Bjune_a62	93	1	93	Rubiaceae	Rubiaceae	HERB
+Bjune_a62	2112	1	172	Rubus chamaemorus	Rubus chamaemorus	HERB
+Bjune_a62	95	5	95	Rumex acetosa	Rumex acetosa-type	HERB
+Bjune_a62	4504	1	95	Rumex acetosa-type/R. acetosella-type	Rumex acetosa-type	HERB
+Bjune_a62	1398	2	96	Rumex acetosella-type	Rumex acetosella	HERB
+Bjune_a62	4552	1	4552	Saussurea alpina	Saussurea alpina	HERB
+Bjune_a62	2428	1	133	Solidago-type	Senecio-type	HERB
+Bjune_a62	144	13	144	Sphagnum	Sphagnum	BRYO
+Bjune_a62	4730	1	4730	Vaccinium-type	Vaccinium-type	DWAR
+Bjune_a62	126	104	126	Picea	Picea	TRSH
+Bjune_a62	626	1	512	Potentilla-type	Potentilla-type	HERB
+Bjune_a62	652	1	652	Urtica	Urtica	HERB
+Bjune_a62	788	209	125	Pinus sylvestris	Pinus sylvestris-type	TRSH
+Bjune_a62	1400	2	99	Salix undiff.	Salix	TRSH

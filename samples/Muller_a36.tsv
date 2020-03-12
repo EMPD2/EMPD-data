@@ -1,22 +1,22 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Muller_a36	Alnus fruticosa	Alnus viridis	TRSH	15	3.7593985
-Muller_a36	Betula sect. Nanae	Betula nana-type	DWAR	162	40.601504
-Muller_a36	Larix	Larix/Pseudotsuga	TRSH	69	17.293233
-Muller_a36	Picea	Picea	TRSH	2	0.50125313
-Muller_a36	Pinus haploxylon-type	Pinus cembra-type	TRSH	1	0.25062657
-Muller_a36	Pinus diploxylon-type	Pinus sylvestris-type	TRSH	74	18.546366
-Muller_a36	Ericaceae vaccinium-type	Vaccinium	DWAR	24	6.0150376
-Muller_a36	Artemisia	Artemisia	HERB	8	2.0050125
-Muller_a36	Asteraceae subfam. Cichorioideae	Asteraceae subf. Cichorioideae	HERB	4	1.0025063
-Muller_a36	Brassicaceae	Brassicaceae	HERB	1	0.25062657
-Muller_a36	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	3	0.7518797
-Muller_a36	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	2	0.50125313
-Muller_a36	Cyperaceae	Cyperaceae	HERB	7	1.754386
-Muller_a36	Poaceae	Poaceae	HERB	23	5.764411
-Muller_a36	Sanguisorba officinalis-type	Sanguisorba officinalis	HERB	2	0.50125313
-Muller_a36	Asteraceae senecio-type	Senecio-type	HERB	2	0.50125313
-Muller_a36	Pollen, terrestrial	Indeterminable: unknown	INUN	399	
-Muller_a36	Lycopodium spores counted	Lycopodium (counted)	NOPO	42	
-Muller_a36	Microthyrium	Microthyrium	FUNG	1	
-Muller_a36	Pollen per unit sediment mass	Pollen per unit sediment mass (/g)	NOPO	20290	
-Muller_a36	Stomata	Stomata	VEMI	1	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Muller_a36	123	69	123	Larix	Larix/Pseudotsuga	TRSH
+Muller_a36	126	2	126	Picea	Picea	TRSH
+Muller_a36	127	162	127	Betula sect. Nanae	Betula nana-type	DWAR
+Muller_a36	1050	1	124	Pinus haploxylon-type	Pinus cembra-type	TRSH
+Muller_a36	7	8	7	Artemisia	Artemisia	HERB
+Muller_a36	33	7	33	Cyperaceae	Cyperaceae	HERB
+Muller_a36	13	1	13	Brassicaceae	Brassicaceae	HERB
+Muller_a36	18	3	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Muller_a36	2994	2	474	Sanguisorba officinalis-type	Sanguisorba officinalis	HERB
+Muller_a36	2344	1	2344	Microthyrium	Microthyrium	FUNG
+Muller_a36	2981	1	2771	Stomata	Stomata	VEMI
+Muller_a36	2970	399	177	Pollen, terrestrial	Indeterminable: unknown	INUN
+Muller_a36	3000	42	559	Lycopodium spores counted	Lycopodium (counted)	NOPO
+Muller_a36	3001	20290	3001	Pollen per unit sediment mass	Pollen per unit sediment mass (/g)	NOPO
+Muller_a36	24	2	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Muller_a36	80	23	80	Poaceae	Poaceae	HERB
+Muller_a36	1049	74	125	Pinus diploxylon-type	Pinus sylvestris-type	TRSH
+Muller_a36	2898	4	25	Asteraceae subfam. Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Muller_a36	2962	15	129	Alnus fruticosa	Alnus viridis	TRSH
+Muller_a36	2967	2	133	Asteraceae senecio-type	Senecio-type	HERB
+Muller_a36	2987	24	540	Ericaceae vaccinium-type	Vaccinium	TRSH

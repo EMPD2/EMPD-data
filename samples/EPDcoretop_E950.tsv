@@ -1,41 +1,41 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-EPDcoretop_E950	Abies	Abies	TRSH	190	15.310234
-EPDcoretop_E950	Alnus	Alnus	TRSH	36	2.9008864
-EPDcoretop_E950	Betula	Betula	TRSH	76	6.1240935
-EPDcoretop_E950	Calluna vulgaris	Calluna vulgaris	DWAR	47	3.7872683
-EPDcoretop_E950	Carpinus	Carpinus betulus	TRSH	4	0.32232071
-EPDcoretop_E950	Corylus	Corylus	TRSH	24	1.9339243
-EPDcoretop_E950	Fagus	Fagus	TRSH	53	4.2707494
-EPDcoretop_E950	Fraxinus	Fraxinus	TRSH	1	0.080580177
-EPDcoretop_E950	Juglans	Juglans	TRSH	1	0.080580177
-EPDcoretop_E950	Picea	Picea	TRSH	132	10.636583
-EPDcoretop_E950	Pinus	Pinus	TRSH	323	26.027397
-EPDcoretop_E950	Quercus	Quercus	TRSH	17	1.369863
-EPDcoretop_E950	Rosaceae	Rosaceae	TRSH	1	0.080580177
-EPDcoretop_E950	Tilia	Tilia	TRSH	1	0.080580177
-EPDcoretop_E950	Ulmus	Ulmus/Zelkova	TRSH	2	0.16116035
-EPDcoretop_E950	Hedera	Hedera	LIAN	1	0.080580177
-EPDcoretop_E950	Lysimachia	Anagallis-type	HERB	1	0.080580177
-EPDcoretop_E950	Daucus-type	Apiaceae	HERB	3	0.24174053
-EPDcoretop_E950	Artemisia	Artemisia	HERB	2	0.16116035
-EPDcoretop_E950	Compositae subf. Asteroideae	Asteraceae subf. Asteroideae	HERB	2	0.16116035
-EPDcoretop_E950	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB	26	2.0950846
-EPDcoretop_E950	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	4	0.32232071
-EPDcoretop_E950	Leguminosae	Leguminosae	HERB	1	0.080580177
-EPDcoretop_E950	Plantago lanceolata	Plantago lanceolata-type	HERB	9	0.7252216
-EPDcoretop_E950	Plantago major/P. media	Plantago major/P. media-type	HERB	2	0.16116035
-EPDcoretop_E950	Gramineae	Poaceae	HERB	174	14.020951
-EPDcoretop_E950	Ranunculaceae	Ranunculaceae	HERB	11	0.88638195
-EPDcoretop_E950	Rubiaceae	Rubiaceae	HERB	1	0.080580177
-EPDcoretop_E950	Rumex	Rumex/Oxyria	HERB	59	4.7542305
-EPDcoretop_E950	Thalictrum	Thalictrum	HERB	1	0.080580177
-EPDcoretop_E950	Triticum-type	Triticum-type	HERB	20	1.6116035
-EPDcoretop_E950	Bryales	Bryophyte spores	BRYO	3	0.24174053
-EPDcoretop_E950	Dryopteris-type	Dryopteris-type	VACR	3	0.24174053
-EPDcoretop_E950	Equisetum	Equisetum	VACR	1	0.080580177
-EPDcoretop_E950	Sphagnum	Sphagnum	BRYO	9	0.7252216
-EPDcoretop_E950	Cyperaceae	Cyperaceae	AQUA	9	0.7252216
-EPDcoretop_E950	Typha latifolia	Typha latifolia	AQUA	3	0.24174053
-EPDcoretop_E950	Varia	Indeterminable: unknown	INUN	13	
-EPDcoretop_E950	Euglypha	Euglypha	RHIZ	3	
-EPDcoretop_E950	Microthyrium	Microthyrium	FUNG	1	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+EPDcoretop_E950	560	190	321	Abies	Abies	TRSH
+EPDcoretop_E950	7	2	7	Artemisia	Artemisia	HERB
+EPDcoretop_E950	12	76	12	Betula	Betula	TRSH
+EPDcoretop_E950	147	3	147	Bryales	Bryophyte spores	BRYO
+EPDcoretop_E950	3646	47	3645	Calluna vulgaris	Calluna vulgaris	DWAR
+EPDcoretop_E950	24	4	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+EPDcoretop_E950	3824	26	25	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+EPDcoretop_E950	201	24	31	Corylus	Corylus	TRSH
+EPDcoretop_E950	3868	9	3868	Cyperaceae	Cyperaceae	AQUA
+EPDcoretop_E950	3886	3	6	Daucus-type	Apiaceae	HERB
+EPDcoretop_E950	1247	3	772	Dryopteris-type	Dryopteris-type	VACR
+EPDcoretop_E950	3951	3	3951	Euglypha	Euglypha	RHIZ
+EPDcoretop_E950	192	53	42	Fagus	Fagus	TRSH
+EPDcoretop_E950	190	1	190	Fraxinus	Fraxinus	TRSH
+EPDcoretop_E950	1601	174	80	Gramineae	Poaceae	HERB
+EPDcoretop_E950	4031	1	4031	Hedera	Hedera	LIAN
+EPDcoretop_E950	57	1	57	Juglans	Juglans	TRSH
+EPDcoretop_E950	614	1	587	Lysimachia	Anagallis-type	HERB
+EPDcoretop_E950	2344	1	2344	Microthyrium	Microthyrium	FUNG
+EPDcoretop_E950	126	132	126	Picea	Picea	TRSH
+EPDcoretop_E950	60	9	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+EPDcoretop_E950	135	11	135	Ranunculaceae	Ranunculaceae	HERB
+EPDcoretop_E950	92	1	92	Rosaceae	Rosaceae	TRSH
+EPDcoretop_E950	93	1	93	Rubiaceae	Rubiaceae	HERB
+EPDcoretop_E950	727	59	94	Rumex	Rumex/Oxyria	HERB
+EPDcoretop_E950	112	1	112	Thalictrum	Thalictrum	HERB
+EPDcoretop_E950	187	1	187	Tilia	Tilia	TRSH
+EPDcoretop_E950	1233	20	1199	Triticum-type	Triticum-type	HERB
+EPDcoretop_E950	1287	3	417	Typha latifolia	Typha latifolia	AQUA
+EPDcoretop_E950	1098	13	177	Varia	Indeterminable: unknown	INUN
+EPDcoretop_E950	5	36	5	Alnus	Alnus	TRSH
+EPDcoretop_E950	16	4	16	Carpinus	Carpinus betulus	TRSH
+EPDcoretop_E950	75	323	75	Pinus	Pinus	TRSH
+EPDcoretop_E950	144	9	144	Sphagnum	Sphagnum	BRYO
+EPDcoretop_E950	145	1	145	Equisetum	Equisetum	VACR
+EPDcoretop_E950	154	2	154	Ulmus	Ulmus/Zelkova	TRSH
+EPDcoretop_E950	189	17	189	Quercus	Quercus	TRSH
+EPDcoretop_E950	744	1	744	Leguminosae	Leguminosae	HERB
+EPDcoretop_E950	3822	2	160	Compositae subf. Asteroideae	Asteraceae subf. Asteroideae	HERB
+EPDcoretop_E950	4323	2	458	Plantago major/P. media	Plantago major/P. media-type	HERB

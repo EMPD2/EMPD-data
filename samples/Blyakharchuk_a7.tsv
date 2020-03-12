@@ -1,34 +1,34 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Blyakharchuk_a7	Abies sibirica	Abies sibirica	TRSH	1	0.34013605
-Blyakharchuk_a7	Alnaster	Alnus viridis	TRSH	1	0.34013605
-Blyakharchuk_a7	Betula nana	Betula nana-type	DWAR	3	1.0204082
-Blyakharchuk_a7	Betula pubescens	Betula pubescens-type	TRSH	1	0.34013605
-Blyakharchuk_a7	Betula pendula	Betula pubescens-type	TRSH	15	5.1020408
-Blyakharchuk_a7	Ephedra distahia	Ephedra distachya-type	TRSH	1	0.34013605
-Blyakharchuk_a7	Juniperus	Juniperus communis-type	TRSH	1	0.34013605
-Blyakharchuk_a7	Larix sibirica	Larix/Pseudotsuga	TRSH	3	1.0204082
-Blyakharchuk_a7	Picea obovata	Picea abies-type	TRSH	1	0.34013605
-Blyakharchuk_a7	Pinus sibirica	Pinus cembra-type	TRSH	56	19.047619
-Blyakharchuk_a7	Pinus sylvestris	Pinus sylvestris-type	TRSH	14	4.7619048
-Blyakharchuk_a7	Rosaceae	Rosaceae	TRSH	9	3.0612245
-Blyakharchuk_a7	Androsace	Androsace	HERB	1	0.34013605
-Blyakharchuk_a7	Artemisia	Artemisia	HERB	112	38.095238
-Blyakharchuk_a7	Spirea type	Aruncus/Spiraea	HERB	2	0.68027211
-Blyakharchuk_a7	Aster type	Aster-type	HERB	5	1.7006803
-Blyakharchuk_a7	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	1	0.34013605
-Blyakharchuk_a7	Boraginaceae	Boraginaceae	HERB	1	0.34013605
-Blyakharchuk_a7	Bupleurum	Bupleurum	HERB	1	0.34013605
-Blyakharchuk_a7	Cannabis	Cannabis sativa	HERB	1	0.34013605
-Blyakharchuk_a7	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	14	4.7619048
-Blyakharchuk_a7	Dryas	Dryas octopetala	HERB	2	0.68027211
-Blyakharchuk_a7	Euphorbiaceae	Euphorbiaceae	HERB	1	0.34013605
-Blyakharchuk_a7	Fabaceaa	Fabaceae	HERB	6	2.0408163
-Blyakharchuk_a7	Hordeum	Hordeum-type	HERB	13	4.4217687
-Blyakharchuk_a7	Hipericum type	Hypericum	HERB	3	1.0204082
-Blyakharchuk_a7	Plantago	Plantago	HERB	1	0.34013605
-Blyakharchuk_a7	Poaceae	Poaceae	HERB	18	6.122449
-Blyakharchuk_a7	Potentilla	Potentilla-type	HERB	1	0.34013605
-Blyakharchuk_a7	Rumex	Rumex/Oxyria	HERB	2	0.68027211
-Blyakharchuk_a7	Thalictrum	Thalictrum	HERB	1	0.34013605
-Blyakharchuk_a7	Bryales	Bryophyte spores	BRYO	1	0.34013605
-Blyakharchuk_a7	Monolete	Monolete fern spores	VACR	1	0.34013605
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Blyakharchuk_a7	788	14	125	Pinus sylvestris	Pinus sylvestris-type	TRSH
+Blyakharchuk_a7	149	1	149	Abies sibirica	Abies sibirica	TRSH
+Blyakharchuk_a7	1361	56	124	Pinus sibirica	Pinus cembra-type	TRSH
+Blyakharchuk_a7	1731	15	128	Betula pendula	Betula pubescens-type	TRSH
+Blyakharchuk_a7	58	1	58	Juniperus	Juniperus communis-type	TRSH
+Blyakharchuk_a7	937	1	128	Betula pubescens	Betula pubescens-type	TRSH
+Blyakharchuk_a7	1363	3	127	Betula nana	Betula nana-type	DWAR
+Blyakharchuk_a7	7	112	7	Artemisia	Artemisia	HERB
+Blyakharchuk_a7	11	5	11	Aster type	Aster-type	HERB
+Blyakharchuk_a7	14	1	14	Bupleurum	Bupleurum	HERB
+Blyakharchuk_a7	24	14	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Blyakharchuk_a7	162	1	162	Boraginaceae	Boraginaceae	HERB
+Blyakharchuk_a7	764	1	764	Cannabis	Cannabis sativa	HERB
+Blyakharchuk_a7	80	18	80	Poaceae	Poaceae	HERB
+Blyakharchuk_a7	447	1	25	Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Blyakharchuk_a7	773	1	773	Euphorbiaceae	Euphorbiaceae	HERB
+Blyakharchuk_a7	724	1	270	Plantago	Plantago	HERB
+Blyakharchuk_a7	1366	1	512	Potentilla	Potentilla-type	HERB
+Blyakharchuk_a7	1572	13	258	Hordeum	Hordeum-type	HERB
+Blyakharchuk_a7	2147	3	54	Hipericum type	Hypericum	HERB
+Blyakharchuk_a7	112	1	112	Thalictrum	Thalictrum	HERB
+Blyakharchuk_a7	727	2	94	Rumex	Rumex/Oxyria	HERB
+Blyakharchuk_a7	92	9	92	Rosaceae	Rosaceae	TRSH
+Blyakharchuk_a7	147	1	147	Bryales	Bryophyte spores	BRYO
+Blyakharchuk_a7	2169	1	146	Monolete	Monolete fern spores	VACR
+Blyakharchuk_a7	1447	1	129	Alnaster	Alnus viridis	TRSH
+Blyakharchuk_a7	2123	2	2123	Dryas	Dryas octopetala	HERB
+Blyakharchuk_a7	2130	1	783	Picea obovata	Picea abies-type	TRSH
+Blyakharchuk_a7	2131	3	123	Larix sibirica	Larix/Pseudotsuga	TRSH
+Blyakharchuk_a7	2134	2	1108	Spirea type	Aruncus/Spiraea	HERB
+Blyakharchuk_a7	2138	1	2138	Androsace	Androsace	HERB
+Blyakharchuk_a7	2145	1	37	Ephedra distahia	Ephedra distachya-type	TRSH
+Blyakharchuk_a7	2149	6	41	Fabaceaa	Fabaceae	HERB

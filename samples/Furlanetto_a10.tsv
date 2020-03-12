@@ -1,47 +1,47 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Furlanetto_a10	Alnus glutinosa/A. incana	Alnus glutinosa-type	TRSH	5	0.70028011
-Furlanetto_a10	Alnus viridis	Alnus viridis	TRSH	237	33.193277
-Furlanetto_a10	Calluna	Calluna vulgaris	TRSH	1	0.14005602
-Furlanetto_a10	Carpinus betulus	Carpinus betulus	TRSH	1	0.14005602
-Furlanetto_a10	Castanea	Castanea sativa	TRSH	2	0.28011204
-Furlanetto_a10	Corylus	Corylus	TRSH	1	0.14005602
-Furlanetto_a10	Ericaceae	Ericales (tetrad)	DWAR	2	0.28011204
-Furlanetto_a10	Fagus	Fagus	TRSH	2	0.28011204
-Furlanetto_a10	Juniperus	Juniperus communis-type	TRSH	1	0.14005602
-Furlanetto_a10	Pinus sylvestris/mugo type	Pinus sylvestris-type	TRSH	5	0.70028011
-Furlanetto_a10	Quercus robur type	Quercus robur-type	TRSH	5	0.70028011
-Furlanetto_a10	Salix	Salix	TRSH	2	0.28011204
-Furlanetto_a10	Ulmus	Ulmus/Zelkova	TRSH	1	0.14005602
-Furlanetto_a10	Viburnum	Viburnum	TRSH	3	0.42016807
-Furlanetto_a10	Apiaceae	Apiaceae	HERB	72	10.084034
-Furlanetto_a10	Aster-type	Aster-type	HERB	2	0.28011204
-Furlanetto_a10	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	4	0.56022409
-Furlanetto_a10	Astragalus type	Astragalus-type	HERB	3	0.42016807
-Furlanetto_a10	Brassicaceae	Brassicaceae	HERB	24	3.3613445
-Furlanetto_a10	Bupleurum	Bupleurum	HERB	6	0.84033613
-Furlanetto_a10	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	2	0.28011204
-Furlanetto_a10	Cirsium	Cirsium	HERB	1	0.14005602
-Furlanetto_a10	Cyperaceae	Cyperaceae	HERB	9	1.2605042
-Furlanetto_a10	Euphorbia	Euphorbia	HERB	1	0.14005602
-Furlanetto_a10	Gentiana	Gentiana	HERB	1	0.14005602
-Furlanetto_a10	Anthemis-type	Matricaria-type	HERB	4	0.56022409
-Furlanetto_a10	Pimpinella major type	Pimpinella major-type	HERB	8	1.1204482
-Furlanetto_a10	Plantago coronopus type	Plantago coronopus-type	HERB	1	0.14005602
-Furlanetto_a10	Poaceae_min 37	Poaceae	HERB	141	19.747899
-Furlanetto_a10	Poaceae_37-47	Poaceae	HERB	83	11.62465
-Furlanetto_a10	Poaceae mag 47 anulus min 11	Poaceae	HERB	4	0.56022409
-Furlanetto_a10	Potentilla-type	Potentilla-type	HERB	6	0.84033613
-Furlanetto_a10	Ranunculaceae	Ranunculaceae	HERB	2	0.28011204
-Furlanetto_a10	Ranunculus acris-type	Ranunculus acris-type	HERB	2	0.28011204
-Furlanetto_a10	Ranunculus	Ranunculus-type	HERB	2	0.28011204
-Furlanetto_a10	Rhinanthus-type	Rhinanthus-type	HERB	1	0.14005602
-Furlanetto_a10	Rumex acetosa-type	Rumex acetosa-type	HERB	3	0.42016807
-Furlanetto_a10	Rumex scutatus type	Rumex scutatus-type	HERB	4	0.56022409
-Furlanetto_a10	Sanguisorba dodecandra	Sanguisorba dodecandra	HERB	13	1.8207283
-Furlanetto_a10	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	28	3.9215686
-Furlanetto_a10	Trifolium repens type	Trifolium repens-type	HERB	1	0.14005602
-Furlanetto_a10	Polypodiaceae (spore monolete undiff.)	Monolete fern spores	VACR	18	2.5210084
-Furlanetto_a10	Pollen concentration	Concentration pollen	NOPO	9173	
-Furlanetto_a10	Lycopodium (added)	Lycopodium (added)	NOPO	55752	
-Furlanetto_a10	Lycopodium (counted)	Lycopodium (counted)	NOPO	47	
-Furlanetto_a10	Sample quantity (cm3)	Volume of sample (cm3)	NOPO	90	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Furlanetto_a10	559	47	559	Lycopodium (counted)	Lycopodium (counted)	NOPO
+Furlanetto_a10	692	55752	692	Lycopodium (added)	Lycopodium (added)	NOPO
+Furlanetto_a10	694	90	693	Sample quantity (cm3)	Volume of sample (cm3)	NOPO
+Furlanetto_a10	695	9173	695	Pollen concentration	Concentration pollen	NOPO
+Furlanetto_a10	6	72	6	Apiaceae	Apiaceae	HERB
+Furlanetto_a10	13	24	13	Brassicaceae	Brassicaceae	HERB
+Furlanetto_a10	14	6	14	Bupleurum	Bupleurum	HERB
+Furlanetto_a10	18	2	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Furlanetto_a10	33	9	33	Cyperaceae	Cyperaceae	HERB
+Furlanetto_a10	40	1	40	Euphorbia	Euphorbia	HERB
+Furlanetto_a10	58	1	58	Juniperus	Juniperus communis-type	TRSH
+Furlanetto_a10	99	2	99	Salix	Salix	TRSH
+Furlanetto_a10	120	3	120	Viburnum	Viburnum	TRSH
+Furlanetto_a10	130	2	130	Ericaceae	Ericales (tetrad)	DWAR
+Furlanetto_a10	135	2	135	Ranunculaceae	Ranunculaceae	HERB
+Furlanetto_a10	154	1	154	Ulmus	Ulmus/Zelkova	TRSH
+Furlanetto_a10	173	28	173	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB
+Furlanetto_a10	192	2	42	Fagus	Fagus	TRSH
+Furlanetto_a10	201	1	31	Corylus	Corylus	TRSH
+Furlanetto_a10	441	2	19	Castanea	Castanea sativa	TRSH
+Furlanetto_a10	447	4	25	Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Furlanetto_a10	561	237	129	Alnus viridis	Alnus viridis	TRSH
+Furlanetto_a10	562	5	155	Alnus glutinosa/A. incana	Alnus glutinosa-type	TRSH
+Furlanetto_a10	563	1	16	Carpinus betulus	Carpinus betulus	TRSH
+Furlanetto_a10	575	5	125	Pinus sylvestris/mugo type	Pinus sylvestris-type	TRSH
+Furlanetto_a10	578	5	86	Quercus robur type	Quercus robur-type	TRSH
+Furlanetto_a10	581	1	457	Calluna	Calluna vulgaris	TRSH
+Furlanetto_a10	589	4	3	Anthemis-type	Matricaria-type	HERB
+Furlanetto_a10	594	3	10	Astragalus type	Astragalus-type	HERB
+Furlanetto_a10	595	8	595	Pimpinella major type	Pimpinella major-type	HERB
+Furlanetto_a10	597	2	11	Aster-type	Aster-type	HERB
+Furlanetto_a10	603	1	603	Cirsium	Cirsium	HERB
+Furlanetto_a10	606	1	606	Gentiana	Gentiana	HERB
+Furlanetto_a10	616	1	30	Plantago coronopus type	Plantago coronopus-type	HERB
+Furlanetto_a10	622	141	80	Poaceae_min 37	Poaceae	HERB
+Furlanetto_a10	623	83	80	Poaceae_37-47	Poaceae	HERB
+Furlanetto_a10	624	4	80	Poaceae mag 47 anulus min 11	Poaceae	HERB
+Furlanetto_a10	626	6	512	Potentilla-type	Potentilla-type	HERB
+Furlanetto_a10	629	2	274	Ranunculus	Ranunculus-type	HERB
+Furlanetto_a10	630	2	87	Ranunculus acris-type	Ranunculus acris-type	HERB
+Furlanetto_a10	631	1	631	Rhinanthus-type	Rhinanthus-type	HERB
+Furlanetto_a10	634	3	95	Rumex acetosa-type	Rumex acetosa-type	HERB
+Furlanetto_a10	635	4	635	Rumex scutatus type	Rumex scutatus-type	HERB
+Furlanetto_a10	637	13	637	Sanguisorba dodecandra	Sanguisorba dodecandra	HERB
+Furlanetto_a10	645	1	116	Trifolium repens type	Trifolium repens-type	HERB
+Furlanetto_a10	665	18	146	Polypodiaceae (spore monolete undiff.)	Monolete fern spores	VACR

@@ -1,20 +1,20 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Muller_a40	Alnus fruticosa	Alnus viridis	TRSH	25	7.788162
-Muller_a40	Betula sect. Nanae	Betula nana-type	DWAR	104	32.398754
-Muller_a40	Betula sect. Albae	Betula pubescens-type	TRSH	1	0.31152648
-Muller_a40	Ericaceae	Ericales (tetrad)	DWAR	7	2.1806854
-Muller_a40	Larix	Larix/Pseudotsuga	TRSH	7	2.1806854
-Muller_a40	Pinaceae	Pinaceae	TRSH	15	4.6728972
-Muller_a40	Pinus diploxylon-type	Pinus sylvestris-type	TRSH	147	45.794393
-Muller_a40	Artemisia	Artemisia	HERB	2	0.62305296
-Muller_a40	Cyperaceae	Cyperaceae	HERB	6	1.8691589
-Muller_a40	Liliaceae	Liliaceae-type	HERB	1	0.31152648
-Muller_a40	Ranunculaceae	Ranunculaceae	HERB	3	0.93457944
-Muller_a40	Ranunculaceae thalictrum	Thalictrum	HERB	2	0.62305296
-Muller_a40	Equisetum	Equisetum	VACR	1	0.31152648
-Muller_a40	Pollen indeterminata	Indeterminable: unknown	INUN	5	
-Muller_a40	Pollen, terrestrial	Indeterminable: unknown	INUN	325	
-Muller_a40	Lycopodium spores counted	Lycopodium (counted)	NOPO	122	
-Muller_a40	Microthyrium	Microthyrium	FUNG	1	
-Muller_a40	Pollen per unit sediment mass	Pollen per unit sediment mass (/g)	NOPO	5690	
-Muller_a40	Sphagnum	Sphagnum	NOPO	1	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Muller_a40	123	7	123	Larix	Larix/Pseudotsuga	TRSH
+Muller_a40	128	1	128	Betula sect. Albae	Betula pubescens-type	TRSH
+Muller_a40	1049	147	125	Pinus diploxylon-type	Pinus sylvestris-type	TRSH
+Muller_a40	127	104	127	Betula sect. Nanae	Betula nana-type	DWAR
+Muller_a40	1944	15	1944	Pinaceae	Pinaceae	TRSH
+Muller_a40	2962	25	129	Alnus fruticosa	Alnus viridis	TRSH
+Muller_a40	7	2	7	Artemisia	Artemisia	HERB
+Muller_a40	33	6	33	Cyperaceae	Cyperaceae	HERB
+Muller_a40	130	7	130	Ericaceae	Ericales (tetrad)	DWAR
+Muller_a40	2900	5	177	Pollen indeterminata	Indeterminable: unknown	INUN
+Muller_a40	62	1	62	Liliaceae	Liliaceae-type	HERB
+Muller_a40	135	3	135	Ranunculaceae	Ranunculaceae	HERB
+Muller_a40	2969	2	112	Ranunculaceae thalictrum	Thalictrum	HERB
+Muller_a40	2344	1	2344	Microthyrium	Microthyrium	FUNG
+Muller_a40	144	1	144	Sphagnum	Sphagnum	BRYO
+Muller_a40	2970	325	177	Pollen, terrestrial	Indeterminable: unknown	INUN
+Muller_a40	3000	122	559	Lycopodium spores counted	Lycopodium (counted)	NOPO
+Muller_a40	3001	5690	3001	Pollen per unit sediment mass	Pollen per unit sediment mass (/g)	NOPO
+Muller_a40	145	1	145	Equisetum	Equisetum	VACR

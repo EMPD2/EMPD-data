@@ -1,33 +1,33 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-EPDcoretop_E1860	Alnus	Alnus	TRSH	235	25.739321
-EPDcoretop_E1860	Betula	Betula	TRSH	139	15.224535
-EPDcoretop_E1860	Ericaceae undiff.	Ericales (tetrad)	DWAR	14	1.5334064
-EPDcoretop_E1860	Larix	Larix/Pseudotsuga	TRSH	8	0.8762322
-EPDcoretop_E1860	Lonicera	Lonicera	TRSH	1	0.10952903
-EPDcoretop_E1860	Pinus subg. Strobus	Pinus cembra-type	TRSH	417	45.673604
-EPDcoretop_E1860	Rosaceae undiff.	Rosaceae	TRSH	1	0.10952903
-EPDcoretop_E1860	Salix	Salix	TRSH	2	0.21905805
-EPDcoretop_E1860	Apiaceae	Apiaceae	HERB	1	0.10952903
-EPDcoretop_E1860	Artemisia	Artemisia	HERB	9	0.98576123
-EPDcoretop_E1860	Brassicaceae	Brassicaceae	HERB	1	0.10952903
-EPDcoretop_E1860	Cyperaceae	Cyperaceae	HERB	20	2.1905805
-EPDcoretop_E1860	Fabaceae	Fabaceae	HERB	1	0.10952903
-EPDcoretop_E1860	Onagraceae	Onagraceae	HERB	1	0.10952903
-EPDcoretop_E1860	Papaveraceae	Papaveraceae	HERB	1	0.10952903
-EPDcoretop_E1860	Poaceae	Poaceae	HERB	11	1.2048193
-EPDcoretop_E1860	Polygonum sect. Bistorta	Polygonum bistorta-type	HERB	2	0.21905805
-EPDcoretop_E1860	Primulaceae	Primulaceae	HERB	13	1.4238773
-EPDcoretop_E1860	Ranunculaceae undiff.	Ranunculaceae	HERB	6	0.65717415
-EPDcoretop_E1860	Sanguisorba	Sanguisorba officinalis	HERB	1	0.10952903
-EPDcoretop_E1860	Saxifragaceae	Saxifragaceae	HERB	1	0.10952903
-EPDcoretop_E1860	Scrophulariaceae undiff.	Scrophulariaceae (colporate-reticulate)	HERB	2	0.21905805
-EPDcoretop_E1860	Valeriana	Valeriana	HERB	2	0.21905805
-EPDcoretop_E1860	Hepaticae undiff.	Hepaticae	BRYO	1	0.10952903
-EPDcoretop_E1860	Polypodiaceae	Monolete fern spores	VACR	13	1.4238773
-EPDcoretop_E1860	Selaginella rupestris	Selaginella rupestris	VACR	1	0.10952903
-EPDcoretop_E1860	Sphagnum	Sphagnum	BRYO	9	0.98576123
-EPDcoretop_E1860	Unknown	Indeterminable: unknown	INUN	2	
-EPDcoretop_E1860	Concentration of Lycopodium	Concentration of Lycopodium	NOPO	13911	
-EPDcoretop_E1860	Lycopodium spike (added)	Lycopodium spike (added)	NOPO	1	
-EPDcoretop_E1860	Lycopodium spike (counted)	Lycopodium spike (counted)	NOPO	394	
-EPDcoretop_E1860	Sample volume (ml)	Sample volume (ml)	NOPO	2	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+EPDcoretop_E1860	4542	2	883	Sample volume (ml)	Sample volume (ml)	NOPO
+EPDcoretop_E1860	4778	1	4778	Lycopodium spike (added)	Lycopodium spike (added)	NOPO
+EPDcoretop_E1860	4779	394	2629	Lycopodium spike (counted)	Lycopodium spike (counted)	NOPO
+EPDcoretop_E1860	3828	13911	2415	Concentration of Lycopodium	Concentration of Lycopodium	NOPO
+EPDcoretop_E1860	969	2	177	Unknown	Indeterminable: unknown	INUN
+EPDcoretop_E1860	5	235	5	Alnus	Alnus	TRSH
+EPDcoretop_E1860	6	1	6	Apiaceae	Apiaceae	HERB
+EPDcoretop_E1860	7	9	7	Artemisia	Artemisia	HERB
+EPDcoretop_E1860	12	139	12	Betula	Betula	TRSH
+EPDcoretop_E1860	13	1	13	Brassicaceae	Brassicaceae	HERB
+EPDcoretop_E1860	33	20	33	Cyperaceae	Cyperaceae	HERB
+EPDcoretop_E1860	41	1	41	Fabaceae	Fabaceae	HERB
+EPDcoretop_E1860	80	11	80	Poaceae	Poaceae	HERB
+EPDcoretop_E1860	99	2	99	Salix	Salix	TRSH
+EPDcoretop_E1860	123	8	123	Larix	Larix/Pseudotsuga	TRSH
+EPDcoretop_E1860	137	1	137	Onagraceae	Onagraceae	HERB
+EPDcoretop_E1860	144	9	144	Sphagnum	Sphagnum	BRYO
+EPDcoretop_E1860	146	13	146	Polypodiaceae	Monolete fern spores	VACR
+EPDcoretop_E1860	493	2	493	Valeriana	Valeriana	HERB
+EPDcoretop_E1860	516	1	516	Lonicera	Lonicera	TRSH
+EPDcoretop_E1860	638	1	474	Sanguisorba	Sanguisorba officinalis	HERB
+EPDcoretop_E1860	639	1	639	Saxifragaceae	Saxifragaceae	HERB
+EPDcoretop_E1860	716	14	130	Ericaceae undiff.	Ericales (tetrad)	DWAR
+EPDcoretop_E1860	799	13	799	Primulaceae	Primulaceae	HERB
+EPDcoretop_E1860	1180	6	135	Ranunculaceae undiff.	Ranunculaceae	HERB
+EPDcoretop_E1860	1190	2	173	Scrophulariaceae undiff.	Scrophulariaceae (colporate-reticulate)	HERB
+EPDcoretop_E1860	1669	1	381	Papaveraceae	Papaveraceae	HERB
+EPDcoretop_E1860	2995	1	142	Selaginella rupestris	Selaginella rupestris	VACR
+EPDcoretop_E1860	4938	2	389	Polygonum sect. Bistorta	Polygonum bistorta-type	HERB
+EPDcoretop_E1860	4940	417	124	Pinus subg. Strobus	Pinus cembra-type	TRSH
+EPDcoretop_E1860	4954	1	4044	Hepaticae undiff.	Hepaticae	BRYO
+EPDcoretop_E1860	472	1	92	Rosaceae undiff.	Rosaceae	TRSH

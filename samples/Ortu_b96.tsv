@@ -1,37 +1,37 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Ortu_b96	Abies	Abies	TRSH	61	12.525667
-Ortu_b96	Acer	Acer campestre-type	TRSH	18	3.6960986
-Ortu_b96	Alnus glutinosa	Alnus glutinosa-type	TRSH	1	0.20533881
-Ortu_b96	Alnus viridis	Alnus viridis	TRSH	8	1.6427105
-Ortu_b96	Betula	Betula	TRSH	3	0.61601643
-Ortu_b96	Carpinus	Carpinus betulus	TRSH	1	0.20533881
-Ortu_b96	Castanea	Castanea sativa	TRSH	2	0.41067762
-Ortu_b96	Corylus	Corylus	TRSH	6	1.2320329
-Ortu_b96	Fagus	Fagus	TRSH	58	11.909651
-Ortu_b96	Fraxinus	Fraxinus	TRSH	3	0.61601643
-Ortu_b96	Juglans	Juglans	TRSH	2	0.41067762
-Ortu_b96	Picea	Picea	TRSH	19	3.9014374
-Ortu_b96	Pinus	Pinus	TRSH	40	8.2135524
-Ortu_b96	Quercus robur-type	Quercus robur-type	TRSH	5	1.026694
-Ortu_b96	Salix	Salix	TRSH	2	0.41067762
-Ortu_b96	Ulmus	Ulmus/Zelkova	TRSH	2	0.41067762
-Ortu_b96	Apiaceae	Apiaceae	HERB	8	1.6427105
-Ortu_b96	Asteroideae	Asteraceae subf. Asteroideae	HERB	1	0.20533881
-Ortu_b96	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	7	1.4373717
-Ortu_b96	Boraginaceae	Boraginaceae	HERB	2	0.41067762
-Ortu_b96	Brassicaceae	Brassicaceae	HERB	2	0.41067762
-Ortu_b96	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	3	0.61601643
-Ortu_b96	Dipsacaceae	Dipsacaceae	HERB	1	0.20533881
-Ortu_b96	Epilobium	Epilobium	HERB	9	1.8480493
-Ortu_b96	Liliaceae	Liliaceae-type	HERB	1	0.20533881
-Ortu_b96	Plantago lanceolata	Plantago lanceolata-type	HERB	1	0.20533881
-Ortu_b96	Poaceae	Poaceae	HERB	68	13.963039
-Ortu_b96	Ranunculaceae	Ranunculaceae	HERB	27	5.5441478
-Ortu_b96	Rumex	Rumex/Oxyria	HERB	8	1.6427105
-Ortu_b96	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	5	1.026694
-Ortu_b96	Urticaceae	Urticaceae	HERB	1	0.20533881
-Ortu_b96	Valeriana	Valeriana	HERB	1	0.20533881
-Ortu_b96	Asplenium	Asplenium-type	VACR	1	0.20533881
-Ortu_b96	Monolete fern spores	Monolete fern spores	VACR	110	22.587269
-Ortu_b96	Cyperaceae	Cyperaceae	AQUA	4	0.82135524
-Ortu_b96	Indeterminable: unknown	Indeterminable: unknown	INUN	11	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Ortu_b96	560	61	321	Abies	Abies	TRSH
+Ortu_b96	2	18	2	Acer	Acer campestre-type	TRSH
+Ortu_b96	561	8	129	Alnus viridis	Alnus viridis	TRSH
+Ortu_b96	6	8	6	Apiaceae	Apiaceae	HERB
+Ortu_b96	1535	1	216	Asplenium	Asplenium-type	VACR
+Ortu_b96	761	1	160	Asteroideae	Asteraceae subf. Asteroideae	HERB
+Ortu_b96	12	3	12	Betula	Betula	TRSH
+Ortu_b96	13	2	13	Brassicaceae	Brassicaceae	HERB
+Ortu_b96	16	1	16	Carpinus	Carpinus betulus	TRSH
+Ortu_b96	18	3	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Ortu_b96	447	7	25	Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Ortu_b96	201	6	31	Corylus	Corylus	TRSH
+Ortu_b96	3868	4	3868	Cyperaceae	Cyperaceae	AQUA
+Ortu_b96	192	58	42	Fagus	Fagus	TRSH
+Ortu_b96	4078	11	177	Indeterminable: unknown	Indeterminable: unknown	INUN
+Ortu_b96	57	2	57	Juglans	Juglans	TRSH
+Ortu_b96	62	1	62	Liliaceae	Liliaceae-type	HERB
+Ortu_b96	4193	110	146	Monolete fern spores	Monolete fern spores	VACR
+Ortu_b96	126	19	126	Picea	Picea	TRSH
+Ortu_b96	75	40	75	Pinus	Pinus	TRSH
+Ortu_b96	60	1	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+Ortu_b96	152	5	86	Quercus robur-type	Quercus robur-type	TRSH
+Ortu_b96	135	27	135	Ranunculaceae	Ranunculaceae	HERB
+Ortu_b96	727	8	94	Rumex	Rumex/Oxyria	HERB
+Ortu_b96	99	2	99	Salix	Salix	TRSH
+Ortu_b96	173	5	173	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB
+Ortu_b96	154	2	154	Ulmus	Ulmus/Zelkova	TRSH
+Ortu_b96	80	68	80	Poaceae	Poaceae	HERB
+Ortu_b96	162	2	162	Boraginaceae	Boraginaceae	HERB
+Ortu_b96	164	1	164	Dipsacaceae	Dipsacaceae	HERB
+Ortu_b96	190	3	190	Fraxinus	Fraxinus	TRSH
+Ortu_b96	441	2	19	Castanea	Castanea sativa	TRSH
+Ortu_b96	493	1	493	Valeriana	Valeriana	HERB
+Ortu_b96	547	9	547	Epilobium	Epilobium	HERB
+Ortu_b96	760	1	155	Alnus glutinosa	Alnus glutinosa-type	TRSH
+Ortu_b96	809	1	809	Urticaceae	Urticaceae	HERB

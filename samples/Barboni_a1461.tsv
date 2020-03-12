@@ -1,39 +1,39 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Barboni_a1461	Abies	Abies	TRSH	1	0.24096386
-Barboni_a1461	Acer	Acer campestre-type	TRSH	1	0.24096386
-Barboni_a1461	Alnus	Alnus	TRSH	9	2.1686747
-Barboni_a1461	Betula	Betula	TRSH	8	1.9277108
-Barboni_a1461	Carpinus betulus	Carpinus betulus	TRSH	4	0.96385542
-Barboni_a1461	Castanea	Castanea sativa	TRSH	1	0.24096386
-Barboni_a1461	Corylus	Corylus	TRSH	37	8.9156627
-Barboni_a1461	Ericales	Ericales (tetrad)	DWAR	2	0.48192771
-Barboni_a1461	Fagus	Fagus	TRSH	7	1.686747
-Barboni_a1461	Fraxinus excelsior-type	Fraxinus excelsior-type	TRSH	1	0.24096386
-Barboni_a1461	Juniperus-type	Juniperus-type	TRSH	7	1.686747
-Barboni_a1461	Ostrya-type	Ostrya/Carpinus orientalis	TRSH	13	3.1325301
-Barboni_a1461	Picea	Picea	TRSH	89	21.445783
-Barboni_a1461	Pinus diploxylon	Pinus sylvestris-type	TRSH	78	18.795181
-Barboni_a1461	Quercus	Quercus	TRSH	12	2.8915663
-Barboni_a1461	Rosaceae undiff.	Rosa	TRSH	1	0.24096386
-Barboni_a1461	Salix	Salix	TRSH	1	0.24096386
-Barboni_a1461	Sambucus	Sambucus	TRSH	2	0.48192771
-Barboni_a1461	Umbelliferae	Apiaceae	HERB	6	1.4457831
-Barboni_a1461	Artemisia	Artemisia	HERB	1	0.24096386
-Barboni_a1461	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB	18	4.3373494
-Barboni_a1461	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	2	0.48192771
-Barboni_a1461	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	4	0.96385542
-Barboni_a1461	Leguminosae	Leguminosae	HERB	5	1.2048193
-Barboni_a1461	Anthemis-type	Matricaria-type	HERB	2	0.48192771
-Barboni_a1461	Plantago undiff.	Plantago	HERB	1	0.24096386
-Barboni_a1461	Gramineae	Poaceae	HERB	66	15.903614
-Barboni_a1461	Galium-type	Rubiaceae	HERB	18	4.3373494
-Barboni_a1461	Sanguisorba minor	Sanguisorba minor-type	HERB	8	1.9277108
-Barboni_a1461	Solidago-type	Senecio-type	HERB	6	1.4457831
-Barboni_a1461	Urticaceae	Urticaceae	HERB	2	0.48192771
-Barboni_a1461	Monolete spore(s)	Monolete fern spores	VACR	1	0.24096386
-Barboni_a1461	Trilete spore(s)	Trilete spore(s)	VACR	1	0.24096386
-Barboni_a1461	Cyperaceae	Cyperaceae	AQUA	32	7.7108434
-Barboni_a1461	cf. Centaurea nigra-type	Centaurea	INUN	2	
-Barboni_a1461	cf. Daphne	Indeterminable: unknown	INUN	1	
-Barboni_a1461	cf. Lonicera	Indeterminable: unknown	INUN	3	
-Barboni_a1461	cf. Olea	Indeterminable: unknown	INUN	5	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Barboni_a1461	560	1	321	Abies	Abies	TRSH
+Barboni_a1461	589	2	3	Anthemis-type	Matricaria-type	HERB
+Barboni_a1461	7	1	7	Artemisia	Artemisia	HERB
+Barboni_a1461	12	8	12	Betula	Betula	TRSH
+Barboni_a1461	563	4	16	Carpinus betulus	Carpinus betulus	TRSH
+Barboni_a1461	18	2	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Barboni_a1461	441	1	19	Castanea	Castanea sativa	TRSH
+Barboni_a1461	3713	2	3713	cf. Centaurea nigra-type	Centaurea	INUN
+Barboni_a1461	3719	1	177	cf. Daphne	Indeterminable: unknown	INUN
+Barboni_a1461	3732	3	177	cf. Lonicera	Indeterminable: unknown	INUN
+Barboni_a1461	3737	5	177	cf. Olea	Indeterminable: unknown	INUN
+Barboni_a1461	24	4	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Barboni_a1461	3824	18	25	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Barboni_a1461	201	37	31	Corylus	Corylus	TRSH
+Barboni_a1461	3868	32	3868	Cyperaceae	Cyperaceae	AQUA
+Barboni_a1461	2120	2	130	Ericales	Ericales (tetrad)	DWAR
+Barboni_a1461	1047	1	47	Fraxinus excelsior-type	Fraxinus excelsior-type	TRSH
+Barboni_a1461	1601	66	80	Gramineae	Poaceae	HERB
+Barboni_a1461	738	7	203	Juniperus-type	Juniperus-type	TRSH
+Barboni_a1461	744	5	744	Leguminosae	Leguminosae	HERB
+Barboni_a1461	4197	1	146	Monolete spore(s)	Monolete fern spores	VACR
+Barboni_a1461	572	13	70	Ostrya-type	Ostrya/Carpinus orientalis	TRSH
+Barboni_a1461	785	78	125	Pinus diploxylon	Pinus sylvestris-type	TRSH
+Barboni_a1461	1854	1	270	Plantago undiff.	Plantago	HERB
+Barboni_a1461	189	12	189	Quercus	Quercus	TRSH
+Barboni_a1461	472	1	92	Rosaceae undiff.	Rosaceae	TRSH
+Barboni_a1461	99	1	99	Salix	Salix	TRSH
+Barboni_a1461	481	2	407	Sambucus	Sambucus	TRSH
+Barboni_a1461	101	8	101	Sanguisorba minor	Sanguisorba minor-type	HERB
+Barboni_a1461	2428	6	133	Solidago-type	Senecio-type	HERB
+Barboni_a1461	590	6	6	Umbelliferae	Apiaceae	HERB
+Barboni_a1461	809	2	809	Urticaceae	Urticaceae	HERB
+Barboni_a1461	2	1	2	Acer	Acer campestre-type	TRSH
+Barboni_a1461	5	9	5	Alnus	Alnus	TRSH
+Barboni_a1461	126	89	126	Picea	Picea	TRSH
+Barboni_a1461	192	7	42	Fagus	Fagus	TRSH
+Barboni_a1461	4684	1	279	Trilete spore(s)	Trilete spore(s)	VACR
+Barboni_a1461	605	18	93	Galium-type	Rubiaceae	HERB

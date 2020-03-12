@@ -1,30 +1,30 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Bjune_a319	Alnus	Alnus	TRSH	1	0.60606061
-Bjune_a319	Betula	Betula	TRSH	9	5.4545455
-Bjune_a319	Pinus sylvestris	Pinus sylvestris-type	TRSH	9	5.4545455
-Bjune_a319	Salix undiff.	Salix	TRSH	7	4.2424242
-Bjune_a319	Artemisia	Artemisia	HERB	1	0.60606061
-Bjune_a319	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB	1	0.60606061
-Bjune_a319	Cruciferae	Brassicaceae	HERB	3	1.8181818
-Bjune_a319	Caryophyllaceae undiff.	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	1	0.60606061
-Bjune_a319	Cerastium alpinum-type	Cerastium-type	HERB	4	2.4242424
-Bjune_a319	Oxyria digyna	Oxyria digyna	HERB	74	44.848485
-Bjune_a319	Pedicularis palustris-type	Pedicularis palustris-type	HERB	1	0.60606061
-Bjune_a319	Gramineae undiff.	Poaceae	HERB	17	10.30303
-Bjune_a319	Polygonum viviparum/P. bistorta	Polygonum bistorta-type	HERB	1	0.60606061
-Bjune_a319	Potentilla-type	Potentilla-type	HERB	1	0.60606061
-Bjune_a319	Saxifraga cernua-type	Saxifraga granulata-type	HERB	8	4.8484848
-Bjune_a319	Saxifraga cespitosa-type	Saxifraga granulata-type	HERB	3	1.8181818
-Bjune_a319	Saxifraga oppositifolia-type	Saxifraga oppositifolia-type	HERB	18	10.909091
-Bjune_a319	Saxifraga stellaris-type	Saxifraga stellaris-type	HERB	1	0.60606061
-Bjune_a319	Dryopteris-type	Dryopteris-type	VACR	5	3.030303
-Bjune_a319	Botryococcus	Botryococcus	ALGA	342	207.27273
-Bjune_a319	Carex-type	Carex	AQUA	1	0.60606061
-Bjune_a319	Pediastrum	Pediastrum	ALGA	2458	1489.697
-Bjune_a319	Ranunculus trichophyllus-type	Ranunculus aquatilis-type	AQUA	2	1.2121212
-Bjune_a319	Indeterminable: concealed	Indeterminable: concealed	INUN	2	
-Bjune_a319	Indeterminable: corroded	Indeterminable: corroded	INUN	3	
-Bjune_a319	Indeterminable: crumpled	Indeterminable: crumpled	INUN	2	
-Bjune_a319	Indeterminable: degraded	Indeterminable: degraded	INUN	1	
-Bjune_a319	Unknown	Indeterminable: unknown	INUN	1	
-Bjune_a319	Pre-Quaternary spore	Pre-Quaternary sporomorphs	PREQ	1	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Bjune_a319	5	1	5	Alnus	Alnus	TRSH
+Bjune_a319	7	1	7	Artemisia	Artemisia	HERB
+Bjune_a319	12	9	12	Betula	Betula	TRSH
+Bjune_a319	663	342	663	Botryococcus	Botryococcus	ALGA
+Bjune_a319	3665	1	3663	Carex-type	Carex	AQUA
+Bjune_a319	946	1	18	Caryophyllaceae undiff.	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Bjune_a319	3688	4	21	Cerastium alpinum-type	Cerastium-type	HERB
+Bjune_a319	3824	1	25	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Bjune_a319	482	3	13	Cruciferae	Brassicaceae	HERB
+Bjune_a319	1247	5	772	Dryopteris-type	Dryopteris-type	VACR
+Bjune_a319	4018	17	80	Gramineae undiff.	Poaceae	HERB
+Bjune_a319	4073	2	999	Indeterminable: concealed	Indeterminable: concealed	INUN
+Bjune_a319	4074	3	1324	Indeterminable: corroded	Indeterminable: corroded	INUN
+Bjune_a319	4075	2	1925	Indeterminable: crumpled	Indeterminable: crumpled	INUN
+Bjune_a319	718	1	718	Indeterminable: degraded	Indeterminable: degraded	INUN
+Bjune_a319	241	74	241	Oxyria digyna	Oxyria digyna	HERB
+Bjune_a319	4271	1	1161	Pedicularis palustris-type	Pedicularis palustris-type	HERB
+Bjune_a319	4396	1	966	Pre-Quaternary spore	Pre-Quaternary sporomorphs	PREQ
+Bjune_a319	4459	2	1182	Ranunculus trichophyllus-type	Ranunculus aquatilis-type	AQUA
+Bjune_a319	1400	7	99	Salix undiff.	Salix	TRSH
+Bjune_a319	2953	8	1402	Saxifraga cernua-type	Saxifraga granulata-type	HERB
+Bjune_a319	956	18	640	Saxifraga oppositifolia-type	Saxifraga oppositifolia-type	HERB
+Bjune_a319	957	1	642	Saxifraga stellaris-type	Saxifraga stellaris-type	HERB
+Bjune_a319	969	1	177	Unknown	Indeterminable: unknown	INUN
+Bjune_a319	626	1	512	Potentilla-type	Potentilla-type	HERB
+Bjune_a319	662	2458	662	Pediastrum	Pediastrum	ALGA
+Bjune_a319	788	9	125	Pinus sylvestris	Pinus sylvestris-type	TRSH
+Bjune_a319	4372	1	389	Polygonum viviparum/P. bistorta	Polygonum bistorta-type	HERB
+Bjune_a319	4553	3	1402	Saxifraga cespitosa-type	Saxifraga granulata-type	HERB

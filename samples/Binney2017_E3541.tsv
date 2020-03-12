@@ -1,21 +1,21 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Binney2017_E3541	Alnus fruticosa	Alnus viridis	TRSH	5	1.3927577
-Binney2017_E3541	Betula	Betula	TRSH	35	9.7493036
-Binney2017_E3541	Larix dahurica	Larix dahurica	TRSH	42	11.699164
-Binney2017_E3541	Picea	Picea	TRSH	11	3.0640669
-Binney2017_E3541	Pinus	Pinus	TRSH	165	45.961003
-Binney2017_E3541	Salix	Salix	TRSH	5	1.3927577
-Binney2017_E3541	Artemisia	Artemisia	HERB	8	2.2284123
-Binney2017_E3541	Asteraceae	Asteraceae	HERB	10	2.7855153
-Binney2017_E3541	Brassicaceae	Brassicaceae	HERB	1	0.27855153
-Binney2017_E3541	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	4	1.1142061
-Binney2017_E3541	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.27855153
-Binney2017_E3541	Cyperaceae	Cyperaceae	HERB	15	4.178273
-Binney2017_E3541	Lamiaceae	Lamiaceae	HERB	5	1.3927577
-Binney2017_E3541	Poaceae	Poaceae	HERB	14	3.8997214
-Binney2017_E3541	Ranunculaceae	Ranunculaceae	HERB	8	2.2284123
-Binney2017_E3541	Galium	Rubiaceae	HERB	19	5.2924791
-Binney2017_E3541	Bryophyta	Bryophyte spores	BRYO	10	2.7855153
-Binney2017_E3541	Lycopodiaceae	Lycopodiaceae	VACR	1	0.27855153
-Binney2017_E3541	Alismataceae	Alismataceae	AQUA	1	0.27855153
-Binney2017_E3541	Sphagnum	Sphagnum	NOPO	4	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Binney2017_E3541	7	8	7	Artemisia	Artemisia	HERB
+Binney2017_E3541	12	35	12	Betula	Betula	TRSH
+Binney2017_E3541	13	1	13	Brassicaceae	Brassicaceae	HERB
+Binney2017_E3541	18	4	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Binney2017_E3541	33	15	33	Cyperaceae	Cyperaceae	HERB
+Binney2017_E3541	59	5	59	Lamiaceae	Lamiaceae	HERB
+Binney2017_E3541	75	165	75	Pinus	Pinus	TRSH
+Binney2017_E3541	80	14	80	Poaceae	Poaceae	HERB
+Binney2017_E3541	99	5	99	Salix	Salix	TRSH
+Binney2017_E3541	126	11	126	Picea	Picea	TRSH
+Binney2017_E3541	134	10	134	Asteraceae	Asteraceae	HERB
+Binney2017_E3541	135	8	135	Ranunculaceae	Ranunculaceae	HERB
+Binney2017_E3541	144	4	144	Sphagnum	Sphagnum	BRYO
+Binney2017_E3541	752	1	752	Lycopodiaceae	Lycopodiaceae	VACR
+Binney2017_E3541	769	1	24	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB
+Binney2017_E3541	1241	10	147	Bryophyta	Bryophyte spores	BRYO
+Binney2017_E3541	2237	1	2237	Alismataceae	Alismataceae	AQUA
+Binney2017_E3541	2962	5	129	Alnus fruticosa	Alnus viridis	TRSH
+Binney2017_E3541	5215	42	5215	Larix dahurica	Larix dahurica	TRSH
+Binney2017_E3541	1475	19	93	Galium	Rubiaceae	HERB

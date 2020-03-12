@@ -1,11 +1,11 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Binney2017_E2628	Alnus	Alnus	TRSH	15	7.1770335
-Binney2017_E2628	Ericaceae	Ericales (tetrad)	DWAR	9	4.3062201
-Binney2017_E2628	Larix	Larix/Pseudotsuga	TRSH	4	1.9138756
-Binney2017_E2628	Pinus pumila	Pinus cembra-type	TRSH	29	13.875598
-Binney2017_E2628	Cyperaceae	Cyperaceae	HERB	22	10.526316
-Binney2017_E2628	Poaceae	Poaceae	HERB	38	18.181818
-Binney2017_E2628	Bryophyta	Bryophyte spores	BRYO	19	9.0909091
-Binney2017_E2628	Lycopodium	Lycopodium	VACR	27	12.91866
-Binney2017_E2628	Polypodiaceae	Monolete fern spores	VACR	46	22.009569
-Binney2017_E2628	Sphagnales	Sphagnum	NOPO	19	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Binney2017_E2628	5	15	5	Alnus	Alnus	TRSH
+Binney2017_E2628	33	22	33	Cyperaceae	Cyperaceae	HERB
+Binney2017_E2628	80	38	80	Poaceae	Poaceae	HERB
+Binney2017_E2628	123	4	123	Larix	Larix/Pseudotsuga	TRSH
+Binney2017_E2628	130	9	130	Ericaceae	Ericales (tetrad)	DWAR
+Binney2017_E2628	143	27	143	Lycopodium	Lycopodium	VACR
+Binney2017_E2628	146	46	146	Polypodiaceae	Monolete fern spores	VACR
+Binney2017_E2628	1241	19	147	Bryophyta	Bryophyte spores	BRYO
+Binney2017_E2628	4620	19	144	Sphagnales	Sphagnum	BRYO
+Binney2017_E2628	4920	29	124	Pinus pumila	Pinus cembra-type	TRSH

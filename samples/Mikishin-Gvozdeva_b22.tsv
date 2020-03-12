@@ -1,29 +1,29 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Mikishin-Gvozdeva_b22	Abies	Abies	TRSH	2	0.37878788
-Mikishin-Gvozdeva_b22	Alnus	Alnus	TRSH	10	1.8939394
-Mikishin-Gvozdeva_b22	Araliaceae	Araliaceae	TRSH	1	0.18939394
-Mikishin-Gvozdeva_b22	Betula	Betula	TRSH	79	14.962121
-Mikishin-Gvozdeva_b22	Carpinus	Carpinus betulus	TRSH	1	0.18939394
-Mikishin-Gvozdeva_b22	Corylus	Corylus	TRSH	4	0.75757576
-Mikishin-Gvozdeva_b22	Juglans	Juglans	TRSH	5	0.9469697
-Mikishin-Gvozdeva_b22	Picea	Picea	TRSH	1	0.18939394
-Mikishin-Gvozdeva_b22	Pinus sgen. Haploxylon	Pinus cembra-type	TRSH	18	3.4090909
-Mikishin-Gvozdeva_b22	Pinus sgen. Diploxylon	Pinus sylvestris-type	TRSH	10	1.8939394
-Mikishin-Gvozdeva_b22	Quercus	Quercus	TRSH	48	9.0909091
-Mikishin-Gvozdeva_b22	Rosaceae	Rosaceae	TRSH	5	0.9469697
-Mikishin-Gvozdeva_b22	Ulmus	Ulmus/Zelkova	TRSH	24	4.5454545
-Mikishin-Gvozdeva_b22	Artemisia	Artemisia	HERB	14	2.6515152
-Mikishin-Gvozdeva_b22	Asteraceae	Asteraceae	HERB	185	35.037879
-Mikishin-Gvozdeva_b22	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	13	2.4621212
-Mikishin-Gvozdeva_b22	Cyperaceae	Cyperaceae	HERB	2	0.37878788
-Mikishin-Gvozdeva_b22	Fabaceae	Fabaceae	HERB	2	0.37878788
-Mikishin-Gvozdeva_b22	Poaceae	Poaceae	HERB	20	3.7878788
-Mikishin-Gvozdeva_b22	Polygonaceae	Polygonaceae	HERB	5	0.9469697
-Mikishin-Gvozdeva_b22	Ranunculaceae	Ranunculaceae	HERB	25	4.7348485
-Mikishin-Gvozdeva_b22	Thalictrum	Thalictrum	HERB	4	0.75757576
-Mikishin-Gvozdeva_b22	Valerianaceae	Valerianaceae	HERB	1	0.18939394
-Mikishin-Gvozdeva_b22	Polypodiaceae	Monolete fern spores	VACR	49	9.280303
-Mikishin-Gvozdeva_b22	Nelumbo	Nelumbo	AQVP	2	0.37878788
-Mikishin-Gvozdeva_b22	Potamogeton	Potamogeton-type	AQUA	100	18.939394
-Mikishin-Gvozdeva_b22	Salvinia	Salvinia	AQPT	1	0.18939394
-Mikishin-Gvozdeva_b22	Sparganium	Sparganium-type	AQUA	70	13.257576
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Mikishin-Gvozdeva_b22	126	1	126	Picea	Picea	TRSH
+Mikishin-Gvozdeva_b22	560	2	321	Abies	Abies	TRSH
+Mikishin-Gvozdeva_b22	2218	10	125	Pinus sgen. Diploxylon	Pinus sylvestris-type	TRSH
+Mikishin-Gvozdeva_b22	2219	18	124	Pinus sgen. Haploxylon	Pinus cembra-type	TRSH
+Mikishin-Gvozdeva_b22	12	79	12	Betula	Betula	TRSH
+Mikishin-Gvozdeva_b22	5	10	5	Alnus	Alnus	TRSH
+Mikishin-Gvozdeva_b22	189	48	189	Quercus	Quercus	TRSH
+Mikishin-Gvozdeva_b22	154	24	154	Ulmus	Ulmus/Zelkova	TRSH
+Mikishin-Gvozdeva_b22	57	5	57	Juglans	Juglans	TRSH
+Mikishin-Gvozdeva_b22	16	1	16	Carpinus	Carpinus betulus	TRSH
+Mikishin-Gvozdeva_b22	201	4	31	Corylus	Corylus	TRSH
+Mikishin-Gvozdeva_b22	2228	1	2227	Araliaceae	Araliaceae	TRSH
+Mikishin-Gvozdeva_b22	33	2	33	Cyperaceae	Cyperaceae	HERB
+Mikishin-Gvozdeva_b22	80	20	80	Poaceae	Poaceae	HERB
+Mikishin-Gvozdeva_b22	92	5	92	Rosaceae	Rosaceae	TRSH
+Mikishin-Gvozdeva_b22	7	14	7	Artemisia	Artemisia	HERB
+Mikishin-Gvozdeva_b22	134	185	134	Asteraceae	Asteraceae	HERB
+Mikishin-Gvozdeva_b22	24	13	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Mikishin-Gvozdeva_b22	112	4	112	Thalictrum	Thalictrum	HERB
+Mikishin-Gvozdeva_b22	135	25	135	Ranunculaceae	Ranunculaceae	HERB
+Mikishin-Gvozdeva_b22	138	5	138	Polygonaceae	Polygonaceae	HERB
+Mikishin-Gvozdeva_b22	41	2	41	Fabaceae	Fabaceae	HERB
+Mikishin-Gvozdeva_b22	174	1	174	Valerianaceae	Valerianaceae	HERB
+Mikishin-Gvozdeva_b22	2249	2	2249	Nelumbo	Nelumbo	AQVP
+Mikishin-Gvozdeva_b22	657	100	108	Potamogeton	Potamogeton-type	AQUA
+Mikishin-Gvozdeva_b22	658	70	176	Sparganium	Sparganium-type	AQUA
+Mikishin-Gvozdeva_b22	146	49	146	Polypodiaceae	Monolete fern spores	VACR
+Mikishin-Gvozdeva_b22	2255	1	1969	Salvinia	Salvinia	AQPT

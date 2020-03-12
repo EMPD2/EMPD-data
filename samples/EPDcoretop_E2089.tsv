@@ -1,22 +1,22 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-EPDcoretop_E2089	Abies	Abies	TRSH	1	0.28735632
-EPDcoretop_E2089	Alnus	Alnus	TRSH	1	0.28735632
-EPDcoretop_E2089	Betula	Betula	TRSH	2	0.57471264
-EPDcoretop_E2089	Castanea	Castanea sativa	TRSH	1	0.28735632
-EPDcoretop_E2089	Erica	Erica	DWAR	2	0.57471264
-EPDcoretop_E2089	Pinus pinaster	Pinus pinaster	TRSH	1	0.28735632
-EPDcoretop_E2089	Salix	Salix	TRSH	1	0.28735632
-EPDcoretop_E2089	Vaccinium oxycoccos	Vaccinium	DWAR	138	39.655172
-EPDcoretop_E2089	Artemisia	Artemisia	HERB	6	1.7241379
-EPDcoretop_E2089	Asteraceae	Asteraceae	HERB	108	31.034483
-EPDcoretop_E2089	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	44	12.643678
-EPDcoretop_E2089	Cuscuta	Cuscuta	HERB	3	0.86206897
-EPDcoretop_E2089	Epilobium	Epilobium	HERB	1	0.28735632
-EPDcoretop_E2089	Fagopyrum	Fagopyrum	HERB	1	0.28735632
-EPDcoretop_E2089	Hottonia-type	Hottonia palustris	HERB	2	0.57471264
-EPDcoretop_E2089	Oenotheraceae	Onagraceae	HERB	2	0.57471264
-EPDcoretop_E2089	Plantago lanceolata	Plantago lanceolata-type	HERB	18	5.1724138
-EPDcoretop_E2089	Poterium	Sanguisorba minor-type	HERB	1	0.28735632
-EPDcoretop_E2089	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	2	0.57471264
-EPDcoretop_E2089	Polypodiaceae	Monolete fern spores	VACR	12	3.4482759
-EPDcoretop_E2089	Pteridium	Pteridium aquilinum	VACR	1	0.28735632
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+EPDcoretop_E2089	5	1	5	Alnus	Alnus	TRSH
+EPDcoretop_E2089	7	6	7	Artemisia	Artemisia	HERB
+EPDcoretop_E2089	12	2	12	Betula	Betula	TRSH
+EPDcoretop_E2089	60	18	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+EPDcoretop_E2089	99	1	99	Salix	Salix	TRSH
+EPDcoretop_E2089	134	108	134	Asteraceae	Asteraceae	HERB
+EPDcoretop_E2089	146	12	146	Polypodiaceae	Monolete fern spores	VACR
+EPDcoretop_E2089	173	2	173	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB
+EPDcoretop_E2089	431	1	180	Pteridium	Pteridium aquilinum	VACR
+EPDcoretop_E2089	439	1	439	Pinus pinaster	Pinus pinaster	TRSH
+EPDcoretop_E2089	441	1	19	Castanea	Castanea sativa	TRSH
+EPDcoretop_E2089	447	44	25	Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+EPDcoretop_E2089	547	1	547	Epilobium	Epilobium	HERB
+EPDcoretop_E2089	560	1	321	Abies	Abies	TRSH
+EPDcoretop_E2089	1248	1	1248	Fagopyrum	Fagopyrum	HERB
+EPDcoretop_E2089	1674	1	101	Poterium	Sanguisorba minor-type	HERB
+EPDcoretop_E2089	3172	3	3172	Cuscuta	Cuscuta	HERB
+EPDcoretop_E2089	3471	2	137	Oenotheraceae	Onagraceae	HERB
+EPDcoretop_E2089	3927	2	3927	Erica	Erica	DWAR
+EPDcoretop_E2089	4728	138	4725	Vaccinium oxycoccos	Vaccinium	DWAR
+EPDcoretop_E2089	5003	2	935	Hottonia-type	Hottonia palustris	HERB

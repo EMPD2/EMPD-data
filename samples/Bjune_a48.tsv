@@ -1,35 +1,35 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Bjune_a48	Alnus	Alnus	TRSH	9	1.7475728
-Bjune_a48	Betula	Betula	TRSH	111	21.553398
-Bjune_a48	Empetrum nigrum	Empetrum nigrum	DWAR	2	0.38834951
-Bjune_a48	Ericaceae-type	Ericales (tetrad)	DWAR	4	0.77669903
-Bjune_a48	Juniperus communis	Juniperus communis-type	TRSH	46	8.9320388
-Bjune_a48	Picea	Picea	TRSH	24	4.6601942
-Bjune_a48	Pinus sylvestris	Pinus sylvestris-type	TRSH	273	53.009709
-Bjune_a48	Populus tremula	Populus tremula-type	TRSH	1	0.19417476
-Bjune_a48	Salix undiff.	Salix	TRSH	4	0.77669903
-Bjune_a48	Sorbus aucuparia	Sorbus-type	TRSH	1	0.19417476
-Bjune_a48	Vaccinium-type	Vaccinium-type	DWAR	1	0.19417476
-Bjune_a48	Umbelliferae undiff.	Apiaceae	HERB	1	0.19417476
-Bjune_a48	Artemisia	Artemisia	HERB	1	0.19417476
-Bjune_a48	Filipendula	Filipendula	HERB	1	0.19417476
-Bjune_a48	Gramineae undiff.	Poaceae	HERB	19	3.6893204
-Bjune_a48	Rumex acetosa-type/R. acetosella-type	Rumex acetosa-type	HERB	3	0.58252427
-Bjune_a48	Rumex acetosella-type	Rumex acetosella	HERB	1	0.19417476
-Bjune_a48	Urtica	Urtica	HERB	4	0.77669903
-Bjune_a48	Veronica-type	Veronica-type	HERB	1	0.19417476
-Bjune_a48	Dryopteris-type	Dryopteris-type	VACR	2	0.38834951
-Bjune_a48	Lycopodium annotinum	Lycopodium annotinum-type	VACR	1	0.19417476
-Bjune_a48	Selaginella selaginoides	Selaginella selaginoides	VACR	1	0.19417476
-Bjune_a48	Sphagnum	Sphagnum	BRYO	4	0.77669903
-Bjune_a48	Botryococcus	Botryococcus	ALGA	40	7.7669903
-Bjune_a48	Carex-type	Carex	AQUA	17	3.3009709
-Bjune_a48	Cyperaceae undiff.	Cyperaceae	AQUA	9	1.7475728
-Bjune_a48	Eriophorum-type	Eriophorum-type	AQUA	1	0.19417476
-Bjune_a48	Pediastrum	Pediastrum	ALGA	7	1.3592233
-Bjune_a48	Ranunculus trichophyllus-type	Ranunculus aquatilis-type	AQUA	1	0.19417476
-Bjune_a48	Indeterminable: concealed	Indeterminable: concealed	INUN	1	
-Bjune_a48	Indeterminable: corroded	Indeterminable: corroded	INUN	6	
-Bjune_a48	Indeterminable: crumpled	Indeterminable: crumpled	INUN	1	
-Bjune_a48	Juniperus: stomata	Juniperus: stomata	MACR	3	
-Bjune_a48	Pinus: stomata	Pinus: stomata	MACR	2	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Bjune_a48	5	9	5	Alnus	Alnus	TRSH
+Bjune_a48	7	1	7	Artemisia	Artemisia	HERB
+Bjune_a48	12	111	12	Betula	Betula	TRSH
+Bjune_a48	663	40	663	Botryococcus	Botryococcus	ALGA
+Bjune_a48	3665	17	3663	Carex-type	Carex	AQUA
+Bjune_a48	3873	9	3868	Cyperaceae undiff.	Cyperaceae	AQUA
+Bjune_a48	1247	2	772	Dryopteris-type	Dryopteris-type	VACR
+Bjune_a48	939	2	739	Empetrum nigrum	Empetrum nigrum	DWAR
+Bjune_a48	3944	4	130	Ericaceae-type	Ericales (tetrad)	DWAR
+Bjune_a48	3947	1	3946	Eriophorum-type	Eriophorum-type	AQUA
+Bjune_a48	45	1	45	Filipendula	Filipendula	HERB
+Bjune_a48	4018	19	80	Gramineae undiff.	Poaceae	HERB
+Bjune_a48	4073	1	999	Indeterminable: concealed	Indeterminable: concealed	INUN
+Bjune_a48	4074	6	1324	Indeterminable: corroded	Indeterminable: corroded	INUN
+Bjune_a48	4075	1	1925	Indeterminable: crumpled	Indeterminable: crumpled	INUN
+Bjune_a48	941	46	58	Juniperus communis	Juniperus communis-type	TRSH
+Bjune_a48	4092	3	4092	Juniperus: stomata	Juniperus: stomata	MACR
+Bjune_a48	965	1	183	Lycopodium annotinum	Lycopodium annotinum-type	VACR
+Bjune_a48	126	24	126	Picea	Picea	TRSH
+Bjune_a48	788	273	125	Pinus sylvestris	Pinus sylvestris-type	TRSH
+Bjune_a48	4310	2	4310	Pinus: stomata	Pinus: stomata	MACR
+Bjune_a48	4381	1	4381	Populus tremula	Populus tremula-type	TRSH
+Bjune_a48	4459	1	1182	Ranunculus trichophyllus-type	Ranunculus aquatilis-type	AQUA
+Bjune_a48	4504	3	95	Rumex acetosa-type/R. acetosella-type	Rumex acetosa-type	HERB
+Bjune_a48	1398	1	96	Rumex acetosella-type	Rumex acetosella	HERB
+Bjune_a48	1400	4	99	Salix undiff.	Salix	TRSH
+Bjune_a48	874	1	185	Selaginella selaginoides	Selaginella selaginoides	VACR
+Bjune_a48	2388	1	107	Sorbus aucuparia	Sorbus-type	TRSH
+Bjune_a48	144	4	144	Sphagnum	Sphagnum	BRYO
+Bjune_a48	4711	1	6	Umbelliferae undiff.	Apiaceae	HERB
+Bjune_a48	652	4	652	Urtica	Urtica	HERB
+Bjune_a48	4730	1	4730	Vaccinium-type	Vaccinium-type	DWAR
+Bjune_a48	654	1	224	Veronica-type	Veronica-type	HERB
+Bjune_a48	662	7	662	Pediastrum	Pediastrum	ALGA

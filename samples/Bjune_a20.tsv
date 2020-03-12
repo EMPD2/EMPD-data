@@ -1,35 +1,35 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Bjune_a20	Alnus	Alnus	TRSH	3	0.56390977
-Bjune_a20	Betula	Betula	TRSH	278	52.255639
-Bjune_a20	Betula/Corylus/Myrica	Betula/Corylus/Myrica	TRSH	4	0.7518797
-Bjune_a20	Corylus avellana	Corylus	TRSH	1	0.18796992
-Bjune_a20	Ericaceae-type	Ericales (tetrad)	DWAR	2	0.37593985
-Bjune_a20	Juniperus communis	Juniperus communis-type	TRSH	47	8.8345865
-Bjune_a20	Picea	Picea	TRSH	3	0.56390977
-Bjune_a20	Pinus sylvestris	Pinus sylvestris-type	TRSH	31	5.8270677
-Bjune_a20	Quercus	Quercus	TRSH	1	0.18796992
-Bjune_a20	Salix undiff.	Salix	TRSH	7	1.3157895
-Bjune_a20	Filipendula	Filipendula	HERB	3	0.56390977
-Bjune_a20	Achillea-type	Matricaria-type	HERB	1	0.18796992
-Bjune_a20	Melampyrum	Melampyrum	HERB	1	0.18796992
-Bjune_a20	Gramineae undiff.	Poaceae	HERB	45	8.4586466
-Bjune_a20	Potentilla-type	Potentilla-type	HERB	1	0.18796992
-Bjune_a20	Rumex acetosa	Rumex acetosa-type	HERB	4	0.7518797
-Bjune_a20	Rumex acetosa-type/R. acetosella-type	Rumex acetosa-type	HERB	1	0.18796992
-Bjune_a20	Rumex longifolius-type	Rumex aquaticus-type	HERB	1	0.18796992
-Bjune_a20	Solidago-type	Senecio-type	HERB	1	0.18796992
-Bjune_a20	Thalictrum	Thalictrum	HERB	3	0.56390977
-Bjune_a20	Dryopteris-type	Dryopteris-type	VACR	86	16.165414
-Bjune_a20	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR	8	1.5037594
-Bjune_a20	Botryococcus	Botryococcus	ALGA	77	14.473684
-Bjune_a20	Carex-type	Carex	AQUA	13	2.443609
-Bjune_a20	Cyperaceae undiff.	Cyperaceae	AQUA	4	0.7518797
-Bjune_a20	Isoetes echinospora	Isoetes echinospora	AQPT	15	2.8195489
-Bjune_a20	Isoetes lacustris	Isoetes lacustris	AQPT	637	119.73684
-Bjune_a20	Pediastrum	Pediastrum	ALGA	174	32.706767
-Bjune_a20	Ranunculus trichophyllus-type	Ranunculus aquatilis-type	AQUA	2	0.37593985
-Bjune_a20	Sparganium emersum-type	Sparganium emersum-type	AQUA	2	0.37593985
-Bjune_a20	Indeterminable: broken	Indeterminable: broken	INUN	1	
-Bjune_a20	Indeterminable: corroded	Indeterminable: corroded	INUN	1	
-Bjune_a20	Indeterminable: crumpled	Indeterminable: crumpled	INUN	1	
-Bjune_a20	Unknown	Indeterminable: unknown	INUN	1	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Bjune_a20	943	1	3	Achillea-type	Matricaria-type	HERB
+Bjune_a20	5	3	5	Alnus	Alnus	TRSH
+Bjune_a20	3619	4	3619	Betula/Corylus/Myrica	Betula/Corylus/Myrica	TRSH
+Bjune_a20	663	77	663	Botryococcus	Botryococcus	ALGA
+Bjune_a20	3665	13	3663	Carex-type	Carex	AQUA
+Bjune_a20	31	1	31	Corylus avellana	Corylus	TRSH
+Bjune_a20	3873	4	3868	Cyperaceae undiff.	Cyperaceae	AQUA
+Bjune_a20	1247	86	772	Dryopteris-type	Dryopteris-type	VACR
+Bjune_a20	3944	2	130	Ericaceae-type	Ericales (tetrad)	DWAR
+Bjune_a20	4018	45	80	Gramineae undiff.	Poaceae	HERB
+Bjune_a20	2121	8	1320	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR
+Bjune_a20	4072	1	998	Indeterminable: broken	Indeterminable: broken	INUN
+Bjune_a20	4074	1	1324	Indeterminable: corroded	Indeterminable: corroded	INUN
+Bjune_a20	4075	1	1925	Indeterminable: crumpled	Indeterminable: crumpled	INUN
+Bjune_a20	2332	15	2332	Isoetes echinospora	Isoetes echinospora	AQPT
+Bjune_a20	1590	637	1590	Isoetes lacustris	Isoetes lacustris	AQPT
+Bjune_a20	941	47	58	Juniperus communis	Juniperus communis-type	TRSH
+Bjune_a20	473	1	473	Melampyrum	Melampyrum	HERB
+Bjune_a20	662	174	662	Pediastrum	Pediastrum	ALGA
+Bjune_a20	788	31	125	Pinus sylvestris	Pinus sylvestris-type	TRSH
+Bjune_a20	626	1	512	Potentilla-type	Potentilla-type	HERB
+Bjune_a20	189	1	189	Quercus	Quercus	TRSH
+Bjune_a20	4504	1	95	Rumex acetosa-type/R. acetosella-type	Rumex acetosa-type	HERB
+Bjune_a20	4514	1	1084	Rumex longifolius-type	Rumex aquaticus-type	HERB
+Bjune_a20	2428	1	133	Solidago-type	Senecio-type	HERB
+Bjune_a20	4610	2	4608	Sparganium emersum-type	Sparganium emersum-type	AQUA
+Bjune_a20	969	1	177	Unknown	Indeterminable: unknown	INUN
+Bjune_a20	12	278	12	Betula	Betula	TRSH
+Bjune_a20	45	3	45	Filipendula	Filipendula	HERB
+Bjune_a20	95	4	95	Rumex acetosa	Rumex acetosa-type	HERB
+Bjune_a20	112	3	112	Thalictrum	Thalictrum	HERB
+Bjune_a20	126	3	126	Picea	Picea	TRSH
+Bjune_a20	1400	7	99	Salix undiff.	Salix	TRSH
+Bjune_a20	4459	2	1182	Ranunculus trichophyllus-type	Ranunculus aquatilis-type	AQUA

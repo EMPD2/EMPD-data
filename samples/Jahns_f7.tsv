@@ -1,48 +1,48 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Jahns_f7	Alnus	Alnus	TRSH	4	0.69084629
-Jahns_f7	Ceratonia	Ceratonia siliqua	TRSH	1	0.17271157
-Jahns_f7	Cornus	Cornus	TRSH	1	0.17271157
-Jahns_f7	Corylus	Corylus	TRSH	1	0.17271157
-Jahns_f7	Erica	Erica	DWAR	5	0.86355786
-Jahns_f7	Fagus	Fagus	TRSH	1	0.17271157
-Jahns_f7	Fraxinus ornus	Fraxinus ornus	TRSH	2	0.34542314
-Jahns_f7	Myrtus	Myrtus communis	TRSH	2	0.34542314
-Jahns_f7	Olea	Olea europaea	TRSH	8	1.3816926
-Jahns_f7	Phillyrea	Phillyrea	TRSH	61	10.535406
-Jahns_f7	Pinus	Pinus	TRSH	9	1.5544041
-Jahns_f7	Pistacia	Pistacia	TRSH	2	0.34542314
-Jahns_f7	Quercus pro parte	Quercus	TRSH	2	0.34542314
-Jahns_f7	Quercus evergreeen	Quercus ilex-type	TRSH	31	5.3540587
-Jahns_f7	Quercus deciduous	Quercus robur-type	TRSH	75	12.953368
-Jahns_f7	Rhamnus	Rhamnus-type	TRSH	7	1.208981
-Jahns_f7	Rosaceae	Rosaceae	TRSH	5	0.86355786
-Jahns_f7	Salix	Salix	TRSH	1	0.17271157
-Jahns_f7	Agrostemma	Agrostemma githago	HERB	4	0.69084629
-Jahns_f7	Apiaceae	Apiaceae	HERB	18	3.1088083
-Jahns_f7	Artemisia	Artemisia	HERB	4	0.69084629
-Jahns_f7	Aster-type	Aster-type	HERB	22	3.7996546
-Jahns_f7	Asteraceae Tubuliflorae	Asteraceae subf. Asteroideae	HERB	79	13.644214
-Jahns_f7	Asteraceae Liguliflorae	Asteraceae subf. Cichorioideae	HERB	131	22.625216
-Jahns_f7	Brassicaceae	Brassicaceae	HERB	21	3.626943
-Jahns_f7	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	9	1.5544041
-Jahns_f7	Centaurea solstitialis-type	Centaurea nigra-type	HERB	8	1.3816926
-Jahns_f7	Cerealia-type	Cerealia-type	HERB	1	0.17271157
-Jahns_f7	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	6	1.0362694
-Jahns_f7	Euphorbiaceae	Euphorbiaceae	HERB	3	0.51813472
-Jahns_f7	Fallopia convolvulus	Fallopia	HERB	1	0.17271157
-Jahns_f7	Geranium	Geranium	HERB	3	0.51813472
-Jahns_f7	Knautia	Knautia	HERB	1	0.17271157
-Jahns_f7	Lamiaceae	Lamiaceae	HERB	1	0.17271157
-Jahns_f7	Liliaceae	Liliaceae-type	HERB	3	0.51813472
-Jahns_f7	Lythrum	Lythrum	HERB	2	0.34542314
-Jahns_f7	Mercurialis	Mercurialis	HERB	1	0.17271157
-Jahns_f7	Plantago lanceolata-type	Plantago lanceolata-type	HERB	4	0.69084629
-Jahns_f7	Poaceae	Poaceae	HERB	19	3.2815199
-Jahns_f7	Rubiaceae	Rubiaceae	HERB	12	2.0725389
-Jahns_f7	Rumex	Rumex/Oxyria	HERB	1	0.17271157
-Jahns_f7	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	1	0.17271157
-Jahns_f7	Trifolium	Trifolium-type	HERB	5	0.86355786
-Jahns_f7	Filicinae	Monolete fern spores	VACR	1	0.17271157
-Jahns_f7	Cyperaceae	Cyperaceae	AQUA	4	0.69084629
-Jahns_f7	Fabaceae pro parte	Fabaceae	INUN	19	
-Jahns_f7	Varia	Indeterminable: unknown	INUN	51	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Jahns_f7	3515	4	2274	Agrostemma	Agrostemma githago	HERB
+Jahns_f7	5	4	5	Alnus	Alnus	TRSH
+Jahns_f7	6	18	6	Apiaceae	Apiaceae	HERB
+Jahns_f7	597	22	11	Aster-type	Aster-type	HERB
+Jahns_f7	1337	131	25	Asteraceae Liguliflorae	Asteraceae subf. Cichorioideae	HERB
+Jahns_f7	1927	79	160	Asteraceae Tubuliflorae	Asteraceae subf. Asteroideae	HERB
+Jahns_f7	13	21	13	Brassicaceae	Brassicaceae	HERB
+Jahns_f7	542	1	542	Ceratonia	Ceratonia siliqua	TRSH
+Jahns_f7	1065	1	22	Cerealia-type	Cerealia-type	HERB
+Jahns_f7	755	1	755	Cornus	Cornus	TRSH
+Jahns_f7	201	1	31	Corylus	Corylus	TRSH
+Jahns_f7	3868	4	3868	Cyperaceae	Cyperaceae	AQUA
+Jahns_f7	3927	5	3927	Erica	Erica	DWAR
+Jahns_f7	3959	19	3958	Fabaceae pro parte	Fabaceae	INUN
+Jahns_f7	192	1	42	Fagus	Fagus	TRSH
+Jahns_f7	3965	1	1138	Fallopia convolvulus	Fallopia	HERB
+Jahns_f7	1941	1	146	Filicinae	Monolete fern spores	VACR
+Jahns_f7	44	2	44	Fraxinus ornus	Fraxinus ornus	TRSH
+Jahns_f7	498	3	498	Geranium	Geranium	HERB
+Jahns_f7	1257	1	1257	Knautia	Knautia	HERB
+Jahns_f7	59	1	59	Lamiaceae	Lamiaceae	HERB
+Jahns_f7	62	3	62	Liliaceae	Liliaceae-type	HERB
+Jahns_f7	63	2	63	Lythrum	Lythrum	HERB
+Jahns_f7	227	1	227	Mercurialis	Mercurialis	HERB
+Jahns_f7	509	2	509	Myrtus	Myrtus communis	TRSH
+Jahns_f7	75	9	75	Pinus	Pinus	TRSH
+Jahns_f7	77	2	77	Pistacia	Pistacia	TRSH
+Jahns_f7	1075	4	60	Plantago lanceolata-type	Plantago lanceolata-type	HERB
+Jahns_f7	80	19	80	Poaceae	Poaceae	HERB
+Jahns_f7	437	75	86	Quercus deciduous	Quercus robur-type	TRSH
+Jahns_f7	4432	2	189	Quercus pro parte	Quercus	TRSH
+Jahns_f7	89	7	89	Rhamnus	Rhamnus-type	TRSH
+Jahns_f7	93	12	93	Rubiaceae	Rubiaceae	HERB
+Jahns_f7	99	1	99	Salix	Salix	TRSH
+Jahns_f7	173	1	173	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB
+Jahns_f7	1098	51	177	Varia	Indeterminable: unknown	INUN
+Jahns_f7	7	4	7	Artemisia	Artemisia	HERB
+Jahns_f7	18	9	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Jahns_f7	24	6	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Jahns_f7	74	61	74	Phillyrea	Phillyrea	TRSH
+Jahns_f7	115	5	115	Trifolium	Trifolium-type	HERB
+Jahns_f7	442	8	68	Olea	Olea europaea	TRSH
+Jahns_f7	727	1	94	Rumex	Rumex/Oxyria	HERB
+Jahns_f7	773	3	773	Euphorbiaceae	Euphorbiaceae	HERB
+Jahns_f7	3681	8	29	Centaurea solstitialis-type	Centaurea nigra-type	HERB
+Jahns_f7	4430	31	85	Quercus evergreeen	Quercus ilex-type	TRSH
+Jahns_f7	92	5	92	Rosaceae	Rosaceae	TRSH

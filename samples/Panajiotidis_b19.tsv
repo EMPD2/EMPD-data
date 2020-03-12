@@ -1,44 +1,44 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Panajiotidis_b19	Abies	Abies	TRSH	11	1.8425461
-Panajiotidis_b19	Alnus	Alnus	TRSH	2	0.33500838
-Panajiotidis_b19	Castanea	Castanea sativa	TRSH	5	0.83752094
-Panajiotidis_b19	Corylus	Corylus	TRSH	5	0.83752094
-Panajiotidis_b19	Fagus	Fagus	TRSH	32	5.360134
-Panajiotidis_b19	Fraxinus	Fraxinus	TRSH	1	0.16750419
-Panajiotidis_b19	Juglans	Juglans	TRSH	13	2.1775544
-Panajiotidis_b19	Juniperus	Juniperus-type	TRSH	7	1.1725293
-Panajiotidis_b19	Olea europaea	Olea europaea	TRSH	1	0.16750419
-Panajiotidis_b19	Ostrya carpinifolia/Carpinus orientalis	Ostrya/Carpinus orientalis	TRSH	36	6.0301508
-Panajiotidis_b19	Phillyrea	Phillyrea	TRSH	1	0.16750419
-Panajiotidis_b19	Pinus	Pinus	TRSH	167	27.973199
-Panajiotidis_b19	Platanus	Platanus	TRSH	11	1.8425461
-Panajiotidis_b19	Populus	Populus	TRSH	1	0.16750419
-Panajiotidis_b19	Quercus cerris-type	Quercus cerris-type	TRSH	2	0.33500838
-Panajiotidis_b19	Quercus ilex-type	Quercus ilex-type	TRSH	10	1.6750419
-Panajiotidis_b19	Quercus pubescens-type	Quercus robur-type	TRSH	190	31.825796
-Panajiotidis_b19	Robinia	Robinia pseudacacia	TRSH	2	0.33500838
-Panajiotidis_b19	Rosa	Rosa	TRSH	4	0.67001675
-Panajiotidis_b19	Salix	Salix	TRSH	2	0.33500838
-Panajiotidis_b19	Artemisia	Artemisia	HERB	5	0.83752094
-Panajiotidis_b19	Asteraceae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB	7	1.1725293
-Panajiotidis_b19	Carduus-type	Carduus-type	HERB	1	0.16750419
-Panajiotidis_b19	Centaurea montana	Centaurea montana-type	HERB	1	0.16750419
-Panajiotidis_b19	Cerealia	Cerealia-type	HERB	6	1.0050251
-Panajiotidis_b19	Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	2	0.33500838
-Panajiotidis_b19	Cyperaceae	Cyperaceae	HERB	9	1.5075377
-Panajiotidis_b19	Filipendula	Filipendula	HERB	1	0.16750419
-Panajiotidis_b19	Stachys (Galeopsis - Ballota - Gruppe)	Galeopsis/Ballota-type	HERB	2	0.33500838
-Panajiotidis_b19	Mentha-type	Mentha-type	HERB	4	0.67001675
-Panajiotidis_b19	Platango lanceolata-type	Plantago lanceolata-type	HERB	3	0.50251256
-Panajiotidis_b19	Poaceae	Poaceae	HERB	36	6.0301508
-Panajiotidis_b19	Potentilla-type	Potentilla-type	HERB	6	1.0050251
-Panajiotidis_b19	Ranunculus acris-type	Ranunculus acris-type	HERB	2	0.33500838
-Panajiotidis_b19	Sanguisorba minor-type	Sanguisorba minor-type	HERB	2	0.33500838
-Panajiotidis_b19	Silene-type	Silene-type	HERB	3	0.50251256
-Panajiotidis_b19	Spergularia-type	Spergularia-type	HERB	2	0.33500838
-Panajiotidis_b19	Trifolium repens-type	Trifolium repens-type	HERB	1	0.16750419
-Panajiotidis_b19	Zea	Zea mays	HERB	1	0.16750419
-Panajiotidis_b19	Lycopodium	Lycopodium (counted)	NOPO	126	
-Panajiotidis_b19	concentration of Lycopodium	Lycopodium (spores/tablet)	NOPO	12542	
-Panajiotidis_b19	quantity of Lycopodium added	Lycopodium tablets (number)	NOPO	5	
-Panajiotidis_b19	volume of sample	Quantity of sample	NOPO	19.6	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Panajiotidis_b19	5	2	5	Alnus	Alnus	TRSH
+Panajiotidis_b19	75	167	75	Pinus	Pinus	TRSH
+Panajiotidis_b19	192	32	42	Fagus	Fagus	TRSH
+Panajiotidis_b19	201	5	31	Corylus	Corylus	TRSH
+Panajiotidis_b19	441	5	19	Castanea	Castanea sativa	TRSH
+Panajiotidis_b19	560	11	321	Abies	Abies	TRSH
+Panajiotidis_b19	1051	2	84	Quercus cerris-type	Quercus cerris-type	TRSH
+Panajiotidis_b19	57	13	57	Juglans	Juglans	TRSH
+Panajiotidis_b19	78	11	78	Platanus	Platanus	TRSH
+Panajiotidis_b19	81	1	81	Populus	Populus	TRSH
+Panajiotidis_b19	99	2	99	Salix	Salix	TRSH
+Panajiotidis_b19	190	1	190	Fraxinus	Fraxinus	TRSH
+Panajiotidis_b19	1728	7	203	Juniperus	Juniperus-type	TRSH
+Panajiotidis_b19	7	5	7	Artemisia	Artemisia	HERB
+Panajiotidis_b19	22	6	22	Cerealia	Cerealia-type	HERB
+Panajiotidis_b19	68	1	68	Olea europaea	Olea europaea	TRSH
+Panajiotidis_b19	74	1	74	Phillyrea	Phillyrea	TRSH
+Panajiotidis_b19	80	36	80	Poaceae	Poaceae	HERB
+Panajiotidis_b19	707	2	24	Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB
+Panajiotidis_b19	33	9	33	Cyperaceae	Cyperaceae	HERB
+Panajiotidis_b19	630	2	87	Ranunculus acris-type	Ranunculus acris-type	HERB
+Panajiotidis_b19	1055	2	101	Sanguisorba minor-type	Sanguisorba minor-type	HERB
+Panajiotidis_b19	1073	4	65	Mentha-type	Mentha-type	HERB
+Panajiotidis_b19	1769	2	1769	Stachys (Galeopsis - Ballota - Gruppe)	Galeopsis/Ballota-type	HERB
+Panajiotidis_b19	1771	3	60	Platango lanceolata-type	Plantago lanceolata-type	HERB
+Panajiotidis_b19	45	1	45	Filipendula	Filipendula	HERB
+Panajiotidis_b19	626	6	512	Potentilla-type	Potentilla-type	HERB
+Panajiotidis_b19	1381	1	1381	Carduus-type	Carduus-type	HERB
+Panajiotidis_b19	1743	1	1063	Centaurea montana	Centaurea montana-type	HERB
+Panajiotidis_b19	1746	7	25	Asteraceae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Panajiotidis_b19	1779	3	132	Silene-type	Silene-type	HERB
+Panajiotidis_b19	1781	2	109	Spergularia-type	Spergularia-type	HERB
+Panajiotidis_b19	1786	1	116	Trifolium repens-type	Trifolium repens-type	HERB
+Panajiotidis_b19	1791	126	559	Lycopodium	Lycopodium (counted)	NOPO
+Panajiotidis_b19	1792	19.6	1756	volume of sample	Quantity of sample	NOPO
+Panajiotidis_b19	1793	5	1295	quantity of Lycopodium added	Lycopodium tablets (number)	NOPO
+Panajiotidis_b19	1794	12542	1293	concentration of Lycopodium	Lycopodium (spores/tablet)	NOPO
+Panajiotidis_b19	811	1	423	Zea	Zea mays	HERB
+Panajiotidis_b19	1052	10	85	Quercus ilex-type	Quercus ilex-type	TRSH
+Panajiotidis_b19	1083	4	632	Rosa	Rosa	TRSH
+Panajiotidis_b19	1734	36	70	Ostrya carpinifolia/Carpinus orientalis	Ostrya/Carpinus orientalis	TRSH
+Panajiotidis_b19	1759	190	86	Quercus pubescens-type	Quercus robur-type	TRSH
+Panajiotidis_b19	1760	2	1760	Robinia	Robinia pseudacacia	TRSH

@@ -1,39 +1,39 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Tinner_a23	Betula	Betula	TRSH	9	1.3274336
-Tinner_a23	Hippophae rhamnoides	Hippophae rhamnoides	TRSH	2	0.29498525
-Tinner_a23	Juniperus t.	Juniperus-type	TRSH	22	3.2448378
-Tinner_a23	Picea schrenkiana	Picea schrenkiana	TRSH	319	47.050147
-Tinner_a23	Pinus	Pinus	TRSH	8	1.179941
-Tinner_a23	Sorbus/Rubus t.	Rosaceae (non-operculate)	TRSH	4	0.5899705
-Tinner_a23	Salix	Salix	TRSH	1	0.14749263
-Tinner_a23	Ulmus	Ulmus/Zelkova	TRSH	2	0.29498525
-Tinner_a23	Apiaceae indet.	Apiaceae	HERB	2	0.29498525
-Tinner_a23	Bupleurum t.	Apiaceae	HERB	1	0.14749263
-Tinner_a23	Artemisia	Artemisia	HERB	105	15.486726
-Tinner_a23	Brassicaceae Hornungia & Sinapis t.	Brassicaceae	HERB	1	0.14749263
-Tinner_a23	Centaurea montana t.	Centaurea montana-type	HERB	3	0.44247788
-Tinner_a23	Centaurea nigra t.	Centaurea nigra-type	HERB	1	0.14749263
-Tinner_a23	Cerealia	Cerealia-type	HERB	5	0.73746313
-Tinner_a23	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	26	3.8348083
-Tinner_a23	Cyperaceae	Cyperaceae	HERB	16	2.359882
-Tinner_a23	Daucus t.	Daucus	HERB	2	0.29498525
-Tinner_a23	Euphorbia	Euphorbia	HERB	2	0.29498525
-Tinner_a23	Fabaceae indet.	Fabaceae undiff.	HERB	1	0.14749263
-Tinner_a23	Cannabis t.	Humulus/Cannabis	HERB	5	0.73746313
-Tinner_a23	Liliaceae indet.	Liliaceae-type	HERB	1	0.14749263
-Tinner_a23	Mentha t.	Mentha-type	HERB	1	0.14749263
-Tinner_a23	Papaver rhoeas t.	Papaver rhoeas-type	HERB	1	0.14749263
-Tinner_a23	Plantago lanceolata t.	Plantago lanceolata-type	HERB	1	0.14749263
-Tinner_a23	Plantago major/media t.	Plantago major/P. media-type	HERB	2	0.29498525
-Tinner_a23	Poaceae	Poaceae	HERB	48	7.079646
-Tinner_a23	Polygonum aviculare t.	Polygonum aviculare-type	HERB	1	0.14749263
-Tinner_a23	Ranunculus acris t.	Ranunculus acris-type	HERB	8	1.179941
-Tinner_a23	Rumex obtusifolius t.	Rumex crispus-type	HERB	1	0.14749263
-Tinner_a23	Senecio t.	Senecio-type	HERB	2	0.29498525
-Tinner_a23	Sium t.	Sium-type	HERB	69	10.176991
-Tinner_a23	Thalictrum type N	Thalictrum	HERB	3	0.44247788
-Tinner_a23	Urtica dioica t.	Urtica dioica-type	HERB	2	0.29498525
-Tinner_a23	Xanthium t.	Xanthium	HERB	1	0.14749263
-Tinner_a23	Berula erecta	Berula erecta	HELO	1	0.14749263
-Tinner_a23	Ranunculus aquatilis t.	Ranunculus aquatilis-type	AQUA	2	0.29498525
-Tinner_a23	Picea Stomata	Picea: stomata	VEMI	12	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Tinner_a23	12	9	12	Betula	Betula	TRSH
+Tinner_a23	75	8	75	Pinus	Pinus	TRSH
+Tinner_a23	154	2	154	Ulmus	Ulmus/Zelkova	TRSH
+Tinner_a23	436	22	203	Juniperus t.	Juniperus-type	TRSH
+Tinner_a23	2816	319	2816	Picea schrenkiana	Picea schrenkiana	TRSH
+Tinner_a23	2818	4	490	Sorbus/Rubus t.	Rosaceae (non-operculate)	TRSH
+Tinner_a23	99	1	99	Salix	Salix	TRSH
+Tinner_a23	826	2	479	Hippophae rhamnoides	Hippophae rhamnoides	TRSH
+Tinner_a23	2825	2	6	Apiaceae indet.	Apiaceae	HERB
+Tinner_a23	7	105	7	Artemisia	Artemisia	HERB
+Tinner_a23	2828	1	2828	Berula erecta	Berula erecta	HELO
+Tinner_a23	2831	1	13	Brassicaceae Hornungia & Sinapis t.	Brassicaceae	HERB
+Tinner_a23	22	5	22	Cerealia	Cerealia-type	HERB
+Tinner_a23	24	26	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Tinner_a23	2835	3	1063	Centaurea montana t.	Centaurea montana-type	HERB
+Tinner_a23	2840	2	35	Daucus t.	Daucus	HERB
+Tinner_a23	40	2	40	Euphorbia	Euphorbia	HERB
+Tinner_a23	2843	1	269	Fabaceae indet.	Fabaceae undiff.	HERB
+Tinner_a23	494	1	494	Papaver rhoeas t.	Papaver rhoeas-type	HERB
+Tinner_a23	2854	1	62	Liliaceae indet.	Liliaceae-type	HERB
+Tinner_a23	2857	1	65	Mentha t.	Mentha-type	HERB
+Tinner_a23	80	48	80	Poaceae	Poaceae	HERB
+Tinner_a23	451	1	60	Plantago lanceolata t.	Plantago lanceolata-type	HERB
+Tinner_a23	458	2	458	Plantago major/media t.	Plantago major/P. media-type	HERB
+Tinner_a23	450	1	251	Rumex obtusifolius t.	Rumex crispus-type	HERB
+Tinner_a23	2867	8	87	Ranunculus acris t.	Ranunculus acris-type	HERB
+Tinner_a23	2878	2	133	Senecio t.	Senecio-type	HERB
+Tinner_a23	453	2	453	Urtica dioica t.	Urtica dioica-type	HERB
+Tinner_a23	2879	69	1193	Sium t.	Sium-type	HERB
+Tinner_a23	2881	3	112	Thalictrum type N	Thalictrum	HERB
+Tinner_a23	33	16	33	Cyperaceae	Cyperaceae	HERB
+Tinner_a23	2886	1	1044	Xanthium t.	Xanthium	HERB
+Tinner_a23	2889	2	1182	Ranunculus aquatilis t.	Ranunculus aquatilis-type	AQUA
+Tinner_a23	1165	12	1165	Picea Stomata	Picea: stomata	VEMI
+Tinner_a23	459	1	262	Polygonum aviculare t.	Polygonum aviculare-type	HERB
+Tinner_a23	2832	1	6	Bupleurum t.	Apiaceae	HERB
+Tinner_a23	2834	5	205	Cannabis t.	Humulus/Cannabis	HERB
+Tinner_a23	2836	1	29	Centaurea nigra t.	Centaurea nigra-type	HERB

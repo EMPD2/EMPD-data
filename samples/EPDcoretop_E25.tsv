@@ -1,43 +1,43 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-EPDcoretop_E25	Abies alba	Abies	TRSH	39	4.2998897
-EPDcoretop_E25	Alnus	Alnus	TRSH	141	15.545755
-EPDcoretop_E25	Betula	Betula	TRSH	174	19.184123
-EPDcoretop_E25	Corylus avellana	Corylus	TRSH	46	5.0716648
-EPDcoretop_E25	Fagus sylvatica	Fagus	TRSH	29	3.1973539
-EPDcoretop_E25	Juniperus	Juniperus communis-type	TRSH	8	0.88202867
-EPDcoretop_E25	Picea abies	Picea abies-type	TRSH	99	10.915105
-EPDcoretop_E25	Pinus	Pinus	TRSH	58	6.3947078
-EPDcoretop_E25	Populus	Populus	TRSH	1	0.11025358
-EPDcoretop_E25	Quercus	Quercus	TRSH	6	0.6615215
-EPDcoretop_E25	Salix	Salix	TRSH	7	0.77177508
-EPDcoretop_E25	Tilia	Tilia	TRSH	4	0.44101433
-EPDcoretop_E25	Ulmus	Ulmus/Zelkova	TRSH	5	0.55126792
-EPDcoretop_E25	Vaccinium-type	Vaccinium-type	DWAR	3	0.33076075
-EPDcoretop_E25	Umbelliferae	Apiaceae	HERB	13	1.4332966
-EPDcoretop_E25	Artemisia	Artemisia	HERB	5	0.55126792
-EPDcoretop_E25	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB	6	0.6615215
-EPDcoretop_E25	Barbarea-type	Brassicaceae	HERB	8	0.88202867
-EPDcoretop_E25	Cardamine pratensis-type	Brassicaceae	HERB	2	0.22050717
-EPDcoretop_E25	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	2	0.22050717
-EPDcoretop_E25	Cirsium-type	Cirsium	HERB	5	0.55126792
-EPDcoretop_E25	Echium	Echium	HERB	1	0.11025358
-EPDcoretop_E25	Filipendula	Filipendula	HERB	6	0.6615215
-EPDcoretop_E25	Lotus-type	Lotus-type	HERB	1	0.11025358
-EPDcoretop_E25	Achillea-type	Matricaria-type	HERB	2	0.22050717
-EPDcoretop_E25	Plantago lanceolata	Plantago lanceolata-type	HERB	2	0.22050717
-EPDcoretop_E25	Plantago major/P. media	Plantago major/P. media-type	HERB	6	0.6615215
-EPDcoretop_E25	Gramineae	Poaceae	HERB	42	4.6306505
-EPDcoretop_E25	Polygonum bistorta-type	Polygonum bistorta-type	HERB	1	0.11025358
-EPDcoretop_E25	Potentilla subg. Comarum	Potentilla-type	HERB	6	0.6615215
-EPDcoretop_E25	Ranunculus arvensis-type	Ranunculus arvensis-type	HERB	6	0.6615215
-EPDcoretop_E25	Ranunculus-type	Ranunculus-type	HERB	10	1.1025358
-EPDcoretop_E25	Galium-type	Rubiaceae	HERB	2	0.22050717
-EPDcoretop_E25	Rumex acetosa-type	Rumex acetosa-type	HERB	3	0.33076075
-EPDcoretop_E25	Sanguisorba officinalis	Sanguisorba officinalis	HERB	27	2.9768467
-EPDcoretop_E25	Secale-type	Secale cereale	HERB	4	0.44101433
-EPDcoretop_E25	Thalictrum	Thalictrum	HERB	2	0.22050717
-EPDcoretop_E25	Equisetum	Equisetum	VACR	1	0.11025358
-EPDcoretop_E25	Monolete spore(s) undiff.	Monolete fern spores	VACR	70	7.7177508
-EPDcoretop_E25	Sphagnum	Sphagnum	BRYO	54	5.9536935
-EPDcoretop_E25	Cyperaceae	Cyperaceae	AQUA	33	3.6383682
-EPDcoretop_E25	Varia	Indeterminable: unknown	INUN	7	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+EPDcoretop_E25	943	2	3	Achillea-type	Matricaria-type	HERB
+EPDcoretop_E25	5	141	5	Alnus	Alnus	TRSH
+EPDcoretop_E25	7	5	7	Artemisia	Artemisia	HERB
+EPDcoretop_E25	3605	8	13	Barbarea-type	Brassicaceae	HERB
+EPDcoretop_E25	12	174	12	Betula	Betula	TRSH
+EPDcoretop_E25	24	2	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+EPDcoretop_E25	3824	6	25	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+EPDcoretop_E25	31	46	31	Corylus avellana	Corylus	TRSH
+EPDcoretop_E25	3868	33	3868	Cyperaceae	Cyperaceae	AQUA
+EPDcoretop_E25	604	1	242	Echium	Echium	HERB
+EPDcoretop_E25	42	29	42	Fagus sylvatica	Fagus	TRSH
+EPDcoretop_E25	45	6	45	Filipendula	Filipendula	HERB
+EPDcoretop_E25	605	2	93	Galium-type	Rubiaceae	HERB
+EPDcoretop_E25	58	8	58	Juniperus	Juniperus communis-type	TRSH
+EPDcoretop_E25	611	1	611	Lotus-type	Lotus-type	HERB
+EPDcoretop_E25	4198	70	146	Monolete spore(s) undiff.	Monolete fern spores	VACR
+EPDcoretop_E25	4323	6	458	Plantago major/P. media	Plantago major/P. media-type	HERB
+EPDcoretop_E25	2362	1	389	Polygonum bistorta-type	Polygonum bistorta-type	HERB
+EPDcoretop_E25	81	1	81	Populus	Populus	TRSH
+EPDcoretop_E25	189	6	189	Quercus	Quercus	TRSH
+EPDcoretop_E25	3003	6	2868	Ranunculus arvensis-type	Ranunculus arvensis-type	HERB
+EPDcoretop_E25	2429	10	274	Ranunculus-type	Ranunculus-type	HERB
+EPDcoretop_E25	1188	27	474	Sanguisorba officinalis	Sanguisorba officinalis	HERB
+EPDcoretop_E25	4585	4	256	Secale-type	Secale cereale	HERB
+EPDcoretop_E25	112	2	112	Thalictrum	Thalictrum	HERB
+EPDcoretop_E25	154	5	154	Ulmus	Ulmus/Zelkova	TRSH
+EPDcoretop_E25	590	13	6	Umbelliferae	Apiaceae	HERB
+EPDcoretop_E25	1098	7	177	Varia	Indeterminable: unknown	INUN
+EPDcoretop_E25	60	2	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+EPDcoretop_E25	75	58	75	Pinus	Pinus	TRSH
+EPDcoretop_E25	99	7	99	Salix	Salix	TRSH
+EPDcoretop_E25	144	54	144	Sphagnum	Sphagnum	BRYO
+EPDcoretop_E25	145	1	145	Equisetum	Equisetum	VACR
+EPDcoretop_E25	187	4	187	Tilia	Tilia	TRSH
+EPDcoretop_E25	634	3	95	Rumex acetosa-type	Rumex acetosa-type	HERB
+EPDcoretop_E25	759	39	321	Abies alba	Abies	TRSH
+EPDcoretop_E25	783	99	783	Picea abies	Picea abies-type	TRSH
+EPDcoretop_E25	1243	5	603	Cirsium-type	Cirsium	HERB
+EPDcoretop_E25	1601	42	80	Gramineae	Poaceae	HERB
+EPDcoretop_E25	3659	2	13	Cardamine pratensis-type	Brassicaceae	HERB
+EPDcoretop_E25	4391	6	512	Potentilla subg. Comarum	Potentilla-type	HERB
+EPDcoretop_E25	4730	3	4730	Vaccinium-type	Vaccinium-type	DWAR

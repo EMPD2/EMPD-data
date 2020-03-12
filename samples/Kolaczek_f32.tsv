@@ -1,56 +1,56 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Kolaczek_f32	Abies alba	Abies	TRSH	1	0.14224751
-Kolaczek_f32	Aesculus hippocastanum	Aesculus hippocastanum	TRSH	28	3.9829303
-Kolaczek_f32	Alnus	Alnus	TRSH	334	47.510669
-Kolaczek_f32	Betula	Betula	TRSH	43	6.116643
-Kolaczek_f32	Carpinus betulus	Carpinus betulus	TRSH	1	0.14224751
-Kolaczek_f32	Corylus avellana	Corylus	TRSH	3	0.42674253
-Kolaczek_f32	Fagus sylvatica	Fagus	TRSH	5	0.71123755
-Kolaczek_f32	Frangula alnus	Frangula alnus	TRSH	1	0.14224751
-Kolaczek_f32	Fraxinus	Fraxinus	TRSH	9	1.2802276
-Kolaczek_f32	Juniperus	Juniperus communis-type	TRSH	1	0.14224751
-Kolaczek_f32	Ligustrum vulgare	Ligustrum	TRSH	1	0.14224751
-Kolaczek_f32	Picea abies	Picea abies-type	TRSH	14	1.9914651
-Kolaczek_f32	Pinus sylvestris-type	Pinus sylvestris-type	TRSH	92	13.086771
-Kolaczek_f32	Prunus-type	Prunus-type	TRSH	3	0.42674253
-Kolaczek_f32	Quercus	Quercus	TRSH	7	0.99573257
-Kolaczek_f32	Rhus	Rhus	TRSH	1	0.14224751
-Kolaczek_f32	Rosa-type	Rosa	TRSH	1	0.14224751
-Kolaczek_f32	Rosaceae undiff.	Rosa	TRSH	1	0.14224751
-Kolaczek_f32	Sorbus-group	Rosaceae (non-operculate)	TRSH	1	0.14224751
-Kolaczek_f32	Salix undiff.	Salix	TRSH	7	0.99573257
-Kolaczek_f32	Sambucus nigra-type	Sambucus nigra/S. racemosa	TRSH	27	3.8406828
-Kolaczek_f32	Tilia cordata-type	Tilia cordata-type	TRSH	1	0.14224751
-Kolaczek_f32	Ambrosia artemisiifolia-type	Ambrosia	HERB	3	0.42674253
-Kolaczek_f32	Apiaceae undiff.	Apiaceae	HERB	3	0.42674253
-Kolaczek_f32	Artemisia	Artemisia	HERB	13	1.8492176
-Kolaczek_f32	Aster-type	Aster-type	HERB	16	2.2759602
-Kolaczek_f32	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	3	0.42674253
-Kolaczek_f32	Brassicaceae undiff.	Brassicaceae	HERB	1	0.14224751
-Kolaczek_f32	Caltha-type	Caltha-type	HERB	1	0.14224751
-Kolaczek_f32	Carduus-type	Carduus-type	HERB	1	0.14224751
-Kolaczek_f32	Cerealia-type	Cerealia-type	HERB	10	1.4224751
-Kolaczek_f32	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	4	0.56899004
-Kolaczek_f32	Filipendula	Filipendula	HERB	1	0.14224751
-Kolaczek_f32	Iris pseudacorus-type	Iris pseudacorus-type	HERB	1	0.14224751
-Kolaczek_f32	Vicia-type	Lathyrus/Vicia-type	HERB	1	0.14224751
-Kolaczek_f32	Anthemis-type	Matricaria-type	HERB	1	0.14224751
-Kolaczek_f32	Mentha-type	Mentha-type	HERB	3	0.42674253
-Kolaczek_f32	Mercurialis perennis	Mercurialis perennis-type	HERB	1	0.14224751
-Kolaczek_f32	Plantago lanceolata	Plantago lanceolata-type	HERB	7	0.99573257
-Kolaczek_f32	Poaceae undiff.	Poaceae	HERB	25	3.5561878
-Kolaczek_f32	Potentilla-type	Potentilla-type	HERB	1	0.14224751
-Kolaczek_f32	Galium-type	Rubiaceae	HERB	1	0.14224751
-Kolaczek_f32	Rumex acetosa-type	Rumex acetosa-type	HERB	3	0.42674253
-Kolaczek_f32	Rumex acetosella-type	Rumex acetosella	HERB	1	0.14224751
-Kolaczek_f32	Secale cereale	Secale cereale	HERB	2	0.28449502
-Kolaczek_f32	Solanum dulcamara	Solanum dulcamara	HERB	3	0.42674253
-Kolaczek_f32	Spergula-type	Spergularia-type	HERB	1	0.14224751
-Kolaczek_f32	Urtica	Urtica	HERB	14	1.9914651
-Kolaczek_f32	Cyperaceae undiff.	Cyperaceae	AQUA	42	5.9743954
-Kolaczek_f32	Phragmites australis-type	Phragmites australis-type	AQUA	9	1.2802276
-Kolaczek_f32	Potamogeton sect. Eupotamogeton	Potamogeton natans-type	AQUA	1	0.14224751
-Kolaczek_f32	cf. Humulus lupulus	Humulus/Cannabis	INUN	2	
-Kolaczek_f32	Indeterminable: corroded	Indeterminable: corroded	INUN	2	
-Kolaczek_f32	Varia	Indeterminable: unknown	INUN	5	
-Kolaczek_f32	Lycopodium (counted)	Lycopodium (counted)	NOPO	181	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Kolaczek_f32	759	1	321	Abies alba	Abies	TRSH
+Kolaczek_f32	1101	28	1101	Aesculus hippocastanum	Aesculus hippocastanum	TRSH
+Kolaczek_f32	5	334	5	Alnus	Alnus	TRSH
+Kolaczek_f32	589	1	3	Anthemis-type	Matricaria-type	HERB
+Kolaczek_f32	1107	3	6	Apiaceae undiff.	Apiaceae	HERB
+Kolaczek_f32	7	13	7	Artemisia	Artemisia	HERB
+Kolaczek_f32	597	16	11	Aster-type	Aster-type	HERB
+Kolaczek_f32	12	43	12	Betula	Betula	TRSH
+Kolaczek_f32	1422	1	13	Brassicaceae undiff.	Brassicaceae	HERB
+Kolaczek_f32	3650	1	3650	Caltha-type	Caltha-type	HERB
+Kolaczek_f32	1381	1	1381	Carduus-type	Carduus-type	HERB
+Kolaczek_f32	563	1	16	Carpinus betulus	Carpinus betulus	TRSH
+Kolaczek_f32	1065	10	22	Cerealia-type	Cerealia-type	HERB
+Kolaczek_f32	3727	2	3709	cf. Humulus lupulus	Humulus/Cannabis	INUN
+Kolaczek_f32	24	4	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Kolaczek_f32	31	3	31	Corylus avellana	Corylus	TRSH
+Kolaczek_f32	3873	42	3868	Cyperaceae undiff.	Cyperaceae	AQUA
+Kolaczek_f32	42	5	42	Fagus sylvatica	Fagus	TRSH
+Kolaczek_f32	567	1	468	Frangula alnus	Frangula alnus	TRSH
+Kolaczek_f32	190	9	190	Fraxinus	Fraxinus	TRSH
+Kolaczek_f32	4074	2	1324	Indeterminable: corroded	Indeterminable: corroded	INUN
+Kolaczek_f32	1429	1	61	Ligustrum vulgare	Ligustrum	TRSH
+Kolaczek_f32	559	181	559	Lycopodium (counted)	Lycopodium (counted)	NOPO
+Kolaczek_f32	1073	3	65	Mentha-type	Mentha-type	HERB
+Kolaczek_f32	1261	1	1156	Mercurialis perennis	Mercurialis perennis-type	HERB
+Kolaczek_f32	4286	9	4284	Phragmites australis-type	Phragmites australis-type	AQUA
+Kolaczek_f32	1226	92	125	Pinus sylvestris-type	Pinus sylvestris-type	TRSH
+Kolaczek_f32	60	7	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+Kolaczek_f32	429	25	80	Poaceae undiff.	Poaceae	HERB
+Kolaczek_f32	626	1	512	Potentilla-type	Potentilla-type	HERB
+Kolaczek_f32	1227	3	82	Prunus-type	Prunus-type	TRSH
+Kolaczek_f32	189	7	189	Quercus	Quercus	TRSH
+Kolaczek_f32	1619	1	1619	Rhus	Rhus	TRSH
+Kolaczek_f32	1414	1	632	Rosa-type	Rosa	TRSH
+Kolaczek_f32	472	1	92	Rosaceae undiff.	Rosaceae	TRSH
+Kolaczek_f32	634	3	95	Rumex acetosa-type	Rumex acetosa-type	HERB
+Kolaczek_f32	1398	1	96	Rumex acetosella-type	Rumex acetosella	HERB
+Kolaczek_f32	1400	7	99	Salix undiff.	Salix	TRSH
+Kolaczek_f32	1354	27	583	Sambucus nigra-type	Sambucus nigra/S. racemosa	TRSH
+Kolaczek_f32	256	2	256	Secale cereale	Secale cereale	HERB
+Kolaczek_f32	3006	1	490	Sorbus-group	Rosaceae (non-operculate)	TRSH
+Kolaczek_f32	4617	1	109	Spergula-type	Spergularia-type	HERB
+Kolaczek_f32	1098	5	177	Varia	Indeterminable: unknown	INUN
+Kolaczek_f32	1290	1	1290	Vicia-type	Lathyrus/Vicia-type	HERB
+Kolaczek_f32	45	1	45	Filipendula	Filipendula	HERB
+Kolaczek_f32	58	1	58	Juniperus	Juniperus communis-type	TRSH
+Kolaczek_f32	153	1	153	Tilia cordata-type	Tilia cordata-type	TRSH
+Kolaczek_f32	447	3	25	Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Kolaczek_f32	652	14	652	Urtica	Urtica	HERB
+Kolaczek_f32	783	14	783	Picea abies	Picea abies-type	TRSH
+Kolaczek_f32	1194	3	1194	Solanum dulcamara	Solanum dulcamara	HERB
+Kolaczek_f32	3526	3	586	Ambrosia artemisiifolia-type	Ambrosia	HERB
+Kolaczek_f32	4083	1	2330	Iris pseudacorus-type	Iris pseudacorus-type	HERB
+Kolaczek_f32	4384	1	912	Potamogeton sect. Eupotamogeton	Potamogeton natans-type	AQUA
+Kolaczek_f32	605	1	93	Galium-type	Rubiaceae	HERB

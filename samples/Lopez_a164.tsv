@@ -1,34 +1,34 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Lopez_a164	Alnus	Alnus	TRSH	127	24.470135
-Lopez_a164	Castanea	Castanea sativa	TRSH	1	0.19267823
-Lopez_a164	Fraxinus	Fraxinus	TRSH	46	8.8631985
-Lopez_a164	Pinus pinaster	Pinus pinaster	TRSH	2	0.38535645
-Lopez_a164	Quercus deciduous	Quercus robur-type	TRSH	144	27.745665
-Lopez_a164	Prunus/Rubus-type	Rosaceae (non-operculate)	TRSH	26	5.0096339
-Lopez_a164	Salix	Salix	TRSH	3	0.57803468
-Lopez_a164	Sambucus	Sambucus	TRSH	4	0.77071291
-Lopez_a164	Ulmus	Ulmus/Zelkova	TRSH	1	0.19267823
-Lopez_a164	Viburnum	Viburnum	TRSH	1	0.19267823
-Lopez_a164	Hedera	Hedera	LIAN	16	3.0828516
-Lopez_a164	Lonicera	Lonicera	LIAN	1	0.19267823
-Lopez_a164	Apiaceae	Apiaceae	HERB	33	6.3583815
-Lopez_a164	Asphodelus albus-type	Asphodelus albus-type	HERB	11	2.1194605
-Lopez_a164	Aster-type	Aster-type	HERB	3	0.57803468
-Lopez_a164	Cardueae	Asteraceae subf. Carduoideae	HERB	1	0.19267823
-Lopez_a164	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	4	0.77071291
-Lopez_a164	Cruciferae	Brassicaceae	HERB	15	2.8901734
-Lopez_a164	Cytisus/Genista-type	Genista-type	HERB	4	0.77071291
-Lopez_a164	Amaryllidaceae	Liliaceae-type	HERB	1	0.19267823
-Lopez_a164	Liliaceae undiff,	Liliaceae-type	HERB	1	0.19267823
-Lopez_a164	Anthemis-type	Matricaria-type	HERB	11	2.1194605
-Lopez_a164	Poaceae undiff.	Poaceae	HERB	41	7.8998073
-Lopez_a164	Ranunculaceae	Ranunculaceae	HERB	9	1.734104
-Lopez_a164	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	1	0.19267823
-Lopez_a164	Urtica dioica-type	Urtica dioica-type	HERB	3	0.57803468
-Lopez_a164	Monolete fern spores undiff.	Monolete fern spores	VACR	2	0.38535645
-Lopez_a164	Osmunda regalis	Osmunda regalis	VACR	1	0.19267823
-Lopez_a164	Polypodium vulgare-type	Polypodium	VACR	1	0.19267823
-Lopez_a164	Trilete fern spores undiff.	Trilete spore(s)	VACR	5	0.96339114
-Lopez_a164	Cyperaceae	Cyperaceae	AQUA	23	4.4315992
-Lopez_a164	Fabaceae undiff.	Fabaceae undiff.	INUN	1	
-Lopez_a164	Glomus cf. G. fasciculatum	Glomus cf. fasciculatum	FUNG	2	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Lopez_a164	5	127	5	Alnus	Alnus	TRSH
+Lopez_a164	517	1	62	Amaryllidaceae	Liliaceae-type	HERB
+Lopez_a164	589	11	3	Anthemis-type	Matricaria-type	HERB
+Lopez_a164	6	33	6	Apiaceae	Apiaceae	HERB
+Lopez_a164	3580	11	487	Asphodelus albus-type	Asphodelus albus-type	HERB
+Lopez_a164	597	3	11	Aster-type	Aster-type	HERB
+Lopez_a164	445	1	336	Cardueae	Asteraceae subf. Carduoideae	HERB
+Lopez_a164	441	1	19	Castanea	Castanea sativa	TRSH
+Lopez_a164	447	4	25	Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Lopez_a164	482	15	13	Cruciferae	Brassicaceae	HERB
+Lopez_a164	3868	23	3868	Cyperaceae	Cyperaceae	AQUA
+Lopez_a164	3878	4	3878	Cytisus/Genista-type	Genista-type	HERB
+Lopez_a164	3960	1	3960	Fabaceae undiff.	Fabaceae undiff.	INUN
+Lopez_a164	4008	2	305	Glomus cf. G. fasciculatum	Glomus cf. fasciculatum	FUNG
+Lopez_a164	4031	16	4031	Hedera	Hedera	LIAN
+Lopez_a164	4131	1	62	Liliaceae undiff,	Liliaceae-type	HERB
+Lopez_a164	4150	1	4150	Lonicera	Lonicera	LIAN
+Lopez_a164	4195	2	146	Monolete fern spores undiff.	Monolete fern spores	VACR
+Lopez_a164	429	41	80	Poaceae undiff.	Poaceae	HERB
+Lopez_a164	2596	1	214	Polypodium vulgare-type	Polypodium	VACR
+Lopez_a164	437	144	86	Quercus deciduous	Quercus robur-type	TRSH
+Lopez_a164	99	3	99	Salix	Salix	TRSH
+Lopez_a164	481	4	407	Sambucus	Sambucus	TRSH
+Lopez_a164	173	1	173	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB
+Lopez_a164	4683	5	279	Trilete fern spores undiff.	Trilete spore(s)	VACR
+Lopez_a164	154	1	154	Ulmus	Ulmus/Zelkova	TRSH
+Lopez_a164	4718	3	453	Urtica dioica-type	Urtica dioica-type	HERB
+Lopez_a164	120	1	120	Viburnum	Viburnum	TRSH
+Lopez_a164	135	9	135	Ranunculaceae	Ranunculaceae	HERB
+Lopez_a164	190	46	190	Fraxinus	Fraxinus	TRSH
+Lopez_a164	439	2	439	Pinus pinaster	Pinus pinaster	TRSH
+Lopez_a164	465	1	465	Osmunda regalis	Osmunda regalis	VACR
+Lopez_a164	4403	26	490	Prunus/Rubus-type	Rosaceae (non-operculate)	TRSH

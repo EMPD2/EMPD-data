@@ -1,28 +1,28 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Beaudouin_a11	Alnus	Alnus	TRSH	2	0.46620047
-Beaudouin_a11	Betula	Betula	TRSH	1	0.23310023
-Beaudouin_a11	Cedrus	Cedrus	TRSH	1	0.23310023
-Beaudouin_a11	Corylus	Corylus	TRSH	2	0.46620047
-Beaudouin_a11	Cupressaceae	Cupressaceae undiff.	TRSH	7	1.6317016
-Beaudouin_a11	Ericaceae	Ericales (tetrad)	DWAR	6	1.3986014
-Beaudouin_a11	Juglans	Juglans	TRSH	2	0.46620047
-Beaudouin_a11	Olea	Olea europaea	TRSH	4	0.93240093
-Beaudouin_a11	Picea	Picea	TRSH	6	1.3986014
-Beaudouin_a11	Pinus	Pinus	TRSH	283	65.967366
-Beaudouin_a11	Platanus	Platanus	TRSH	5	1.1655012
-Beaudouin_a11	Populus	Populus	TRSH	1	0.23310023
-Beaudouin_a11	Quercus ilex-type	Quercus ilex-type	TRSH	27	6.2937063
-Beaudouin_a11	Quercus deciduous	Quercus robur-type	TRSH	46	10.722611
-Beaudouin_a11	Salix	Salix	TRSH	1	0.23310023
-Beaudouin_a11	Vitis	Vitis	LIAN	2	0.46620047
-Beaudouin_a11	Artemisia	Artemisia	HERB	2	0.46620047
-Beaudouin_a11	Asteroideae	Asteraceae subf. Asteroideae	HERB	2	0.46620047
-Beaudouin_a11	Brassicaceae	Brassicaceae	HERB	3	0.6993007
-Beaudouin_a11	Amaranthaceae/Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	16	3.7296037
-Beaudouin_a11	Mercurialis	Mercurialis	HERB	1	0.23310023
-Beaudouin_a11	Papaveraceae	Papaveraceae	HERB	2	0.46620047
-Beaudouin_a11	Plantago	Plantago	HERB	2	0.46620047
-Beaudouin_a11	Poaceae	Poaceae	HERB	3	0.6993007
-Beaudouin_a11	Polygonum	Polygonum-type (tricolporate)	HERB	1	0.23310023
-Beaudouin_a11	Ranunculaceae	Ranunculaceae	HERB	1	0.23310023
-Beaudouin_a11	Cyperaceae	Cyperaceae	AQUA	6	1.3986014
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Beaudouin_a11	5	2	5	Alnus	Alnus	TRSH
+Beaudouin_a11	3525	16	24	Amaranthaceae/Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Beaudouin_a11	7	2	7	Artemisia	Artemisia	HERB
+Beaudouin_a11	761	2	160	Asteroideae	Asteraceae subf. Asteroideae	HERB
+Beaudouin_a11	12	1	12	Betula	Betula	TRSH
+Beaudouin_a11	13	3	13	Brassicaceae	Brassicaceae	HERB
+Beaudouin_a11	576	1	340	Cedrus	Cedrus	TRSH
+Beaudouin_a11	201	2	31	Corylus	Corylus	TRSH
+Beaudouin_a11	714	7	347	Cupressaceae	Cupressaceae undiff.	TRSH
+Beaudouin_a11	3868	6	3868	Cyperaceae	Cyperaceae	AQUA
+Beaudouin_a11	130	6	130	Ericaceae	Ericales (tetrad)	DWAR
+Beaudouin_a11	227	1	227	Mercurialis	Mercurialis	HERB
+Beaudouin_a11	126	6	126	Picea	Picea	TRSH
+Beaudouin_a11	724	2	270	Plantago	Plantago	HERB
+Beaudouin_a11	78	5	78	Platanus	Platanus	TRSH
+Beaudouin_a11	80	3	80	Poaceae	Poaceae	HERB
+Beaudouin_a11	1604	1	1505	Polygonum	Polygonum-type (tricolporate)	HERB
+Beaudouin_a11	81	1	81	Populus	Populus	TRSH
+Beaudouin_a11	1052	27	85	Quercus ilex-type	Quercus ilex-type	TRSH
+Beaudouin_a11	135	1	135	Ranunculaceae	Ranunculaceae	HERB
+Beaudouin_a11	99	1	99	Salix	Salix	TRSH
+Beaudouin_a11	4756	2	4756	Vitis	Vitis	LIAN
+Beaudouin_a11	57	2	57	Juglans	Juglans	TRSH
+Beaudouin_a11	75	283	75	Pinus	Pinus	TRSH
+Beaudouin_a11	437	46	86	Quercus deciduous	Quercus robur-type	TRSH
+Beaudouin_a11	442	4	68	Olea	Olea europaea	TRSH
+Beaudouin_a11	1669	2	381	Papaveraceae	Papaveraceae	HERB

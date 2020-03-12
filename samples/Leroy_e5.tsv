@@ -1,41 +1,41 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Leroy_e5	Alnus	Alnus	TRSH	92	21.495327
-Leroy_e5	Betula	Betula	TRSH	1	0.23364486
-Leroy_e5	Carpinus betulus	Carpinus betulus	TRSH	26	6.0747664
-Leroy_e5	Cupressaceae	Cupressaceae undiff.	TRSH	2	0.46728972
-Leroy_e5	Fagus	Fagus	TRSH	13	3.0373832
-Leroy_e5	Juglans	Juglans	TRSH	4	0.93457944
-Leroy_e5	Olea	Olea europaea	TRSH	2	0.46728972
-Leroy_e5	Parrotia persica	Parrotia persica	TRSH	3	0.70093458
-Leroy_e5	Pinus	Pinus	TRSH	3	0.70093458
-Leroy_e5	Platanus	Platanus	TRSH	3	0.70093458
-Leroy_e5	Pterocarya	Pterocarya	TRSH	1	0.23364486
-Leroy_e5	Q. sempervirens-t.	Quercus ilex-type	TRSH	1	0.23364486
-Leroy_e5	Quercus deciduous	Quercus robur-type	TRSH	7	1.635514
-Leroy_e5	Ulmus-Zelkova	Ulmus/Zelkova	TRSH	2	0.46728972
-Leroy_e5	Vitis	Vitis	TRSH	2	0.46728972
-Leroy_e5	Apiaceae	Apiaceae	HERB	1	0.23364486
-Leroy_e5	Artemisia	Artemisia	HERB	46	10.747664
-Leroy_e5	Aster. tubuliflorae	Asteraceae subf. Asteroideae	HERB	6	1.4018692
-Leroy_e5	Aster. liguliflorae	Asteraceae subf. Cichorioideae	HERB	1	0.23364486
-Leroy_e5	Cerealia-t.	Cerealia-type	HERB	1	0.23364486
-Leroy_e5	Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	35	8.1775701
-Leroy_e5	Cyperaceae	Cyperaceae	HERB	100	23.364486
-Leroy_e5	Lamiaceae	Lamiaceae	HERB	1	0.23364486
-Leroy_e5	Oenothera	Oenothera	HERB	1	0.23364486
-Leroy_e5	Plantago	Plantago	HERB	1	0.23364486
-Leroy_e5	P. coronopus	Plantago coronopus-type	HERB	1	0.23364486
-Leroy_e5	Poaceae	Poaceae	HERB	63	14.719626
-Leroy_e5	P. avic.-bistorta	Polygonum-type (tricolporate)	HERB	1	0.23364486
-Leroy_e5	Rubiaceae 6-colpate	Rubiaceae	HERB	1	0.23364486
-Leroy_e5	Rumex	Rumex/Oxyria	HERB	1	0.23364486
-Leroy_e5	Solanaceae	Solanaceae	HERB	1	0.23364486
-Leroy_e5	Urticac.-Moraceae	Urticaceae	HERB	4	0.93457944
-Leroy_e5	Trilete psilate	Trilete spore(s)	VACR	1	0.23364486
-Leroy_e5	Myriophyllum alterniflorum	Myriophyllum alterniflorum	AQUA	11	2.5700935
-Leroy_e5	M. verticillatum	Myriophyllum spicatum/M. verticillatum	AQUA	79	18.457944
-Leroy_e5	Potamogeton	Potamogeton-type	AQUA	119	27.803738
-Leroy_e5	Typha-Sparganium	Sparganium-type	AQUA	38	8.8785047
-Leroy_e5	Indeterminated	Indeterminable: unknown	INUN	3	
-Leroy_e5	Indeterminable	Indeterminable: unknown	INUN	7	
-Leroy_e5	Ceratophyllum	Ceratophyllum: macroremains	MACR	2	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Leroy_e5	5	92	5	Alnus	Alnus	TRSH
+Leroy_e5	12	1	12	Betula	Betula	TRSH
+Leroy_e5	75	3	75	Pinus	Pinus	TRSH
+Leroy_e5	563	26	16	Carpinus betulus	Carpinus betulus	TRSH
+Leroy_e5	714	2	347	Cupressaceae	Cupressaceae undiff.	TRSH
+Leroy_e5	6	1	6	Apiaceae	Apiaceae	HERB
+Leroy_e5	7	46	7	Artemisia	Artemisia	HERB
+Leroy_e5	33	100	33	Cyperaceae	Cyperaceae	HERB
+Leroy_e5	57	4	57	Juglans	Juglans	TRSH
+Leroy_e5	59	1	59	Lamiaceae	Lamiaceae	HERB
+Leroy_e5	78	3	78	Platanus	Platanus	TRSH
+Leroy_e5	80	63	80	Poaceae	Poaceae	HERB
+Leroy_e5	122	2	122	Vitis	Vitis	TRSH
+Leroy_e5	192	13	42	Fagus	Fagus	TRSH
+Leroy_e5	193	3	193	Parrotia persica	Parrotia persica	TRSH
+Leroy_e5	437	7	86	Quercus deciduous	Quercus robur-type	TRSH
+Leroy_e5	442	2	68	Olea	Olea europaea	TRSH
+Leroy_e5	707	35	24	Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB
+Leroy_e5	724	1	270	Plantago	Plantago	HERB
+Leroy_e5	727	1	94	Rumex	Rumex/Oxyria	HERB
+Leroy_e5	1948	1	85	Q. sempervirens-t.	Quercus ilex-type	TRSH
+Leroy_e5	1968	2	1968	Ceratophyllum	Ceratophyllum: macroremains	MACR
+Leroy_e5	1981	3	177	Indeterminated	Indeterminable: unknown	INUN
+Leroy_e5	717	7	177	Indeterminable	Indeterminable: unknown	INUN
+Leroy_e5	492	1	492	Solanaceae	Solanaceae	HERB
+Leroy_e5	657	119	108	Potamogeton	Potamogeton-type	AQUA
+Leroy_e5	1966	4	809	Urticac.-Moraceae	Urticaceae	HERB
+Leroy_e5	1971	11	1841	Myriophyllum alterniflorum	Myriophyllum alterniflorum	AQUA
+Leroy_e5	1972	79	1972	M. verticillatum	Myriophyllum spicatum/M. verticillatum	AQUA
+Leroy_e5	1975	38	176	Typha-Sparganium	Sparganium-type	AQUA
+Leroy_e5	1979	1	279	Trilete psilate	Trilete spore(s)	VACR
+Leroy_e5	1950	1	191	Pterocarya	Pterocarya	TRSH
+Leroy_e5	1954	2	154	Ulmus-Zelkova	Ulmus/Zelkova	TRSH
+Leroy_e5	1955	1	25	Aster. liguliflorae	Asteraceae subf. Cichorioideae	HERB
+Leroy_e5	1956	6	160	Aster. tubuliflorae	Asteraceae subf. Asteroideae	HERB
+Leroy_e5	1959	1	1959	Oenothera	Oenothera	HERB
+Leroy_e5	1961	1	30	P. coronopus	Plantago coronopus-type	HERB
+Leroy_e5	1962	1	22	Cerealia-t.	Cerealia-type	HERB
+Leroy_e5	1964	1	1505	P. avic.-bistorta	Polygonum-type (tricolporate)	HERB
+Leroy_e5	1965	1	93	Rubiaceae 6-colpate	Rubiaceae	HERB

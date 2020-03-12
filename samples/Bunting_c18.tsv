@@ -1,40 +1,40 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Bunting_c18	Acer	Acer campestre-type	TRSH	1	0.16366612
-Bunting_c18	Alnus	Alnus	TRSH	2	0.32733224
-Bunting_c18	Betula	Betula	TRSH	68	11.129296
-Bunting_c18	Calluna	Calluna vulgaris	TRSH	27	4.4189853
-Bunting_c18	Corylus type	Corylus	TRSH	2	0.32733224
-Bunting_c18	Fagus	Fagus	TRSH	2	0.32733224
-Bunting_c18	Fraxinus	Fraxinus	TRSH	2	0.32733224
-Bunting_c18	Ilex	Ilex	TRSH	1	0.16366612
-Bunting_c18	Juniperus	Juniperus communis-type	TRSH	1	0.16366612
-Bunting_c18	Myrica type	Myrica	TRSH	70	11.456628
-Bunting_c18	Picea	Picea	TRSH	2	0.32733224
-Bunting_c18	Pinus sylvestris	Pinus sylvestris-type	TRSH	84	13.747954
-Bunting_c18	Populus	Populus	TRSH	1	0.16366612
-Bunting_c18	Quercus	Quercus	TRSH	11	1.8003273
-Bunting_c18	Salix	Salix	TRSH	3	0.49099836
-Bunting_c18	Vaccinium-type	Vaccinium-type	DWAR	13	2.1276596
-Bunting_c18	Artemisia type	Artemisia	HERB	5	0.81833061
-Bunting_c18	Brassicaceae	Brassicaceae	HERB	3	0.49099836
-Bunting_c18	Cereal type	Cerealia-type	HERB	5	0.81833061
-Bunting_c18	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.16366612
-Bunting_c18	Cyperaceae	Cyperaceae	HERB	10	1.6366612
-Bunting_c18	Filipendula	Filipendula	HERB	2	0.32733224
-Bunting_c18	Narthecium	Narthecium	HERB	1	0.16366612
-Bunting_c18	Plantago lanceolata	Plantago lanceolata-type	HERB	2	0.32733224
-Bunting_c18	Poaceae	Poaceae	HERB	248	40.589198
-Bunting_c18	Potentilla type	Potentilla-type	HERB	5	0.81833061
-Bunting_c18	Ranunculus type	Ranunculus-type	HERB	5	0.81833061
-Bunting_c18	Rubiaceae	Rubiaceae	HERB	1	0.16366612
-Bunting_c18	Rumex undif.	Rumex/Oxyria	HERB	7	1.1456628
-Bunting_c18	Urtica dioica	Urtica dioica	HERB	22	3.6006547
-Bunting_c18	Vicia sativa type	Vicia-type	HERB	1	0.16366612
-Bunting_c18	Dryopteris dilatata	Dryopteris dilatata	VACR	3	0.49099836
-Bunting_c18	Indet: concealed	Indeterminable: concealed	INUN	1	
-Bunting_c18	cf. Papaver radicatum	Indeterminable: unknown	INUN	1	
-Bunting_c18	Exotic	Exotics (counted)	NOPO	1296	
-Bunting_c18	exotic per tablet	Number of exotics per tablet	NOPO	10793	
-Bunting_c18	sediment volume (cm^3)	Sediment volume	NOPO	1	
-Bunting_c18	Sphagnum	Sphagnum	NOPO	44	
-Bunting_c18	number of exotic tablets	Tablets (added)	NOPO	2	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Bunting_c18	971	1296	881	Exotic	Exotics (counted)	NOPO
+Bunting_c18	972	1	972	sediment volume (cm^3)	Sediment volume	NOPO
+Bunting_c18	973	2	973	number of exotic tablets	Tablets (added)	NOPO
+Bunting_c18	974	10793	974	exotic per tablet	Number of exotics per tablet	NOPO
+Bunting_c18	2	1	2	Acer	Acer campestre-type	TRSH
+Bunting_c18	45	2	45	Filipendula	Filipendula	HERB
+Bunting_c18	60	2	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+Bunting_c18	99	3	99	Salix	Salix	TRSH
+Bunting_c18	190	2	190	Fraxinus	Fraxinus	TRSH
+Bunting_c18	581	27	457	Calluna	Calluna vulgaris	TRSH
+Bunting_c18	5	2	5	Alnus	Alnus	TRSH
+Bunting_c18	33	10	33	Cyperaceae	Cyperaceae	HERB
+Bunting_c18	80	248	80	Poaceae	Poaceae	HERB
+Bunting_c18	189	11	189	Quercus	Quercus	TRSH
+Bunting_c18	192	2	42	Fagus	Fagus	TRSH
+Bunting_c18	699	5	512	Potentilla type	Potentilla-type	HERB
+Bunting_c18	788	84	125	Pinus sylvestris	Pinus sylvestris-type	TRSH
+Bunting_c18	977	70	977	Myrica type	Myrica	TRSH
+Bunting_c18	12	68	12	Betula	Betula	TRSH
+Bunting_c18	13	3	13	Brassicaceae	Brassicaceae	HERB
+Bunting_c18	24	1	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Bunting_c18	126	2	126	Picea	Picea	TRSH
+Bunting_c18	942	13	942	Vaccinium-type	Vaccinium-type	TRSH
+Bunting_c18	980	7	94	Rumex undif.	Rumex/Oxyria	HERB
+Bunting_c18	981	2	31	Corylus type	Corylus	TRSH
+Bunting_c18	982	5	22	Cereal type	Cerealia-type	HERB
+Bunting_c18	994	1	177	cf. Papaver radicatum	Indeterminable: unknown	INUN
+Bunting_c18	999	1	999	Indet: concealed	Indeterminable: concealed	INUN
+Bunting_c18	58	1	58	Juniperus	Juniperus communis-type	TRSH
+Bunting_c18	81	1	81	Populus	Populus	TRSH
+Bunting_c18	117	22	117	Urtica dioica	Urtica dioica	HERB
+Bunting_c18	144	44	144	Sphagnum	Sphagnum	BRYO
+Bunting_c18	219	3	219	Dryopteris dilatata	Dryopteris dilatata	VACR
+Bunting_c18	435	1	55	Ilex	Ilex	TRSH
+Bunting_c18	987	1	987	Narthecium	Narthecium	HERB
+Bunting_c18	976	5	7	Artemisia type	Artemisia	HERB
+Bunting_c18	979	5	274	Ranunculus type	Ranunculus-type	HERB
+Bunting_c18	983	1	121	Vicia sativa type	Vicia-type	HERB
+Bunting_c18	93	1	93	Rubiaceae	Rubiaceae	HERB

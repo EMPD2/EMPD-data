@@ -1,35 +1,35 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-EPDcoretop_E2007	Alnus	Alnus	TRSH	181	53.869048
-EPDcoretop_E2007	Betula	Betula	TRSH	7	2.0833333
-EPDcoretop_E2007	Carpinus	Carpinus betulus	TRSH	1	0.29761905
-EPDcoretop_E2007	Corylus	Corylus	TRSH	28	8.3333333
-EPDcoretop_E2007	Fagus	Fagus	TRSH	2	0.5952381
-EPDcoretop_E2007	Hedera	Hedera	TRSH	1	0.29761905
-EPDcoretop_E2007	Juglans	Juglans	TRSH	1	0.29761905
-EPDcoretop_E2007	Lonicera	Lonicera	TRSH	1	0.29761905
-EPDcoretop_E2007	Myrica	Myrica	TRSH	3	0.89285714
-EPDcoretop_E2007	Pinus sylvestris	Pinus sylvestris-type	TRSH	2	0.5952381
-EPDcoretop_E2007	Quercus	Quercus	TRSH	11	3.2738095
-EPDcoretop_E2007	Rosaceae	Rosaceae	TRSH	10	2.9761905
-EPDcoretop_E2007	Salix	Salix	TRSH	3	0.89285714
-EPDcoretop_E2007	Apiaceae	Apiaceae	HERB	1	0.29761905
-EPDcoretop_E2007	Artemisia	Artemisia	HERB	1	0.29761905
-EPDcoretop_E2007	Asteraceae	Asteraceae	HERB	1	0.29761905
-EPDcoretop_E2007	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	1	0.29761905
-EPDcoretop_E2007	Brassicaceae	Brassicaceae	HERB	2	0.5952381
-EPDcoretop_E2007	Cerealia-type	Cerealia-type	HERB	5	1.4880952
-EPDcoretop_E2007	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.29761905
-EPDcoretop_E2007	Cyperaceae	Cyperaceae	HERB	13	3.8690476
-EPDcoretop_E2007	Fabaceae	Fabaceae	HERB	1	0.29761905
-EPDcoretop_E2007	Cannabis/Humulus	Humulus/Cannabis	HERB	1	0.29761905
-EPDcoretop_E2007	Lamiaceae	Lamiaceae	HERB	1	0.29761905
-EPDcoretop_E2007	Mercurialis annua	Mercurialis annua	HERB	1	0.29761905
-EPDcoretop_E2007	Plantago	Plantago	HERB	5	1.4880952
-EPDcoretop_E2007	Poaceae	Poaceae	HERB	44	13.095238
-EPDcoretop_E2007	Polygonum	Polygonum-type (tricolporate)	HERB	1	0.29761905
-EPDcoretop_E2007	Ranunculaceae	Ranunculaceae	HERB	1	0.29761905
-EPDcoretop_E2007	Rumex	Rumex/Oxyria	HERB	1	0.29761905
-EPDcoretop_E2007	Polypodiaceae	Monolete fern spores	VACR	1	0.29761905
-EPDcoretop_E2007	Pteridium	Pteridium aquilinum	VACR	1	0.29761905
-EPDcoretop_E2007	Sphagnum	Sphagnum	BRYO	2	0.5952381
-EPDcoretop_E2007	Lemna	Lemna	AQUA	2	0.5952381
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+EPDcoretop_E2007	5	181	5	Alnus	Alnus	TRSH
+EPDcoretop_E2007	6	1	6	Apiaceae	Apiaceae	HERB
+EPDcoretop_E2007	7	1	7	Artemisia	Artemisia	HERB
+EPDcoretop_E2007	12	7	12	Betula	Betula	TRSH
+EPDcoretop_E2007	13	2	13	Brassicaceae	Brassicaceae	HERB
+EPDcoretop_E2007	16	1	16	Carpinus	Carpinus betulus	TRSH
+EPDcoretop_E2007	24	1	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+EPDcoretop_E2007	33	13	33	Cyperaceae	Cyperaceae	HERB
+EPDcoretop_E2007	41	1	41	Fabaceae	Fabaceae	HERB
+EPDcoretop_E2007	57	1	57	Juglans	Juglans	TRSH
+EPDcoretop_E2007	59	1	59	Lamiaceae	Lamiaceae	HERB
+EPDcoretop_E2007	66	1	66	Mercurialis annua	Mercurialis annua	HERB
+EPDcoretop_E2007	80	44	80	Poaceae	Poaceae	HERB
+EPDcoretop_E2007	99	3	99	Salix	Salix	TRSH
+EPDcoretop_E2007	134	1	134	Asteraceae	Asteraceae	HERB
+EPDcoretop_E2007	135	1	135	Ranunculaceae	Ranunculaceae	HERB
+EPDcoretop_E2007	144	2	144	Sphagnum	Sphagnum	BRYO
+EPDcoretop_E2007	146	1	146	Polypodiaceae	Monolete fern spores	VACR
+EPDcoretop_E2007	189	11	189	Quercus	Quercus	TRSH
+EPDcoretop_E2007	192	2	42	Fagus	Fagus	TRSH
+EPDcoretop_E2007	201	28	31	Corylus	Corylus	TRSH
+EPDcoretop_E2007	264	2	264	Lemna	Lemna	AQUA
+EPDcoretop_E2007	431	1	180	Pteridium	Pteridium aquilinum	VACR
+EPDcoretop_E2007	447	1	25	Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+EPDcoretop_E2007	503	1	51	Hedera	Hedera	TRSH
+EPDcoretop_E2007	516	1	516	Lonicera	Lonicera	TRSH
+EPDcoretop_E2007	651	1	205	Cannabis/Humulus	Humulus/Cannabis	HERB
+EPDcoretop_E2007	724	5	270	Plantago	Plantago	HERB
+EPDcoretop_E2007	727	1	94	Rumex	Rumex/Oxyria	HERB
+EPDcoretop_E2007	788	2	125	Pinus sylvestris	Pinus sylvestris-type	TRSH
+EPDcoretop_E2007	1065	5	22	Cerealia-type	Cerealia-type	HERB
+EPDcoretop_E2007	1604	1	1505	Polygonum	Polygonum-type (tricolporate)	HERB
+EPDcoretop_E2007	2174	3	977	Myrica	Myrica	TRSH
+EPDcoretop_E2007	92	10	92	Rosaceae	Rosaceae	TRSH

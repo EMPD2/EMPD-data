@@ -1,43 +1,43 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-EPDcoretop_E1459	Abies	Abies	TRSH	1	0.30769231
-EPDcoretop_E1459	Alnus	Alnus	TRSH	64	19.692308
-EPDcoretop_E1459	Betula	Betula	TRSH	22	6.7692308
-EPDcoretop_E1459	Carpinus	Carpinus betulus	TRSH	2	0.61538462
-EPDcoretop_E1459	Castanea	Castanea sativa	TRSH	17	5.2307692
-EPDcoretop_E1459	Corylus	Corylus	TRSH	33	10.153846
-EPDcoretop_E1459	Ephedra	Ephedra	TRSH	1	0.30769231
-EPDcoretop_E1459	Ericaceae	Ericales (tetrad)	DWAR	1	0.30769231
-EPDcoretop_E1459	Fagus	Fagus	TRSH	7	2.1538462
-EPDcoretop_E1459	Fraxinus	Fraxinus	TRSH	2	0.61538462
-EPDcoretop_E1459	Hippophae	Hippophae rhamnoides	TRSH	2	0.61538462
-EPDcoretop_E1459	Juglans	Juglans	TRSH	27	8.3076923
-EPDcoretop_E1459	Juniperus	Juniperus communis-type	TRSH	1	0.30769231
-EPDcoretop_E1459	Olea	Olea europaea	TRSH	11	3.3846154
-EPDcoretop_E1459	Picea	Picea	TRSH	2	0.61538462
-EPDcoretop_E1459	Pinus	Pinus	TRSH	4	1.2307692
-EPDcoretop_E1459	Populus	Populus	TRSH	1	0.30769231
-EPDcoretop_E1459	Quercus deciduous	Quercus robur-type	TRSH	33	10.153846
-EPDcoretop_E1459	Salix	Salix	TRSH	1	0.30769231
-EPDcoretop_E1459	Tilia	Tilia	TRSH	2	0.61538462
-EPDcoretop_E1459	Ulmus	Ulmus/Zelkova	TRSH	2	0.61538462
-EPDcoretop_E1459	Apiaceae	Apiaceae	HERB	2	0.61538462
-EPDcoretop_E1459	Artemisia	Artemisia	HERB	1	0.30769231
-EPDcoretop_E1459	Asteroideae	Asteraceae subf. Asteroideae	HERB	1	0.30769231
-EPDcoretop_E1459	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	4	1.2307692
-EPDcoretop_E1459	Cerealia	Cerealia-type	HERB	7	2.1538462
-EPDcoretop_E1459	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	2	0.61538462
-EPDcoretop_E1459	Crassulaceae	Crassulaceae	HERB	1	0.30769231
-EPDcoretop_E1459	Cyperaceae	Cyperaceae	HERB	2	0.61538462
-EPDcoretop_E1459	Filipendula	Filipendula	HERB	1	0.30769231
-EPDcoretop_E1459	Lamiaceae	Lamiaceae	HERB	2	0.61538462
-EPDcoretop_E1459	Mercurialis	Mercurialis	HERB	12	3.6923077
-EPDcoretop_E1459	Plantago	Plantago	HERB	12	3.6923077
-EPDcoretop_E1459	Poaceae	Poaceae	HERB	20	6.1538462
-EPDcoretop_E1459	Ranunculaceae	Ranunculaceae	HERB	3	0.92307692
-EPDcoretop_E1459	Rubiaceae	Rubiaceae	HERB	2	0.61538462
-EPDcoretop_E1459	Rumex	Rumex/Oxyria	HERB	7	2.1538462
-EPDcoretop_E1459	Urticaceae	Urticaceae	HERB	4	1.2307692
-EPDcoretop_E1459	Monolete spore(s)	Monolete fern spores	VACR	6	1.8461538
-EPDcoretop_E1459	Number of counted lines	Number of counted lines	NOPO	21	
-EPDcoretop_E1459	Total number of lines	Total number of lines	NOPO	41	
-EPDcoretop_E1459	Weight	Weight	NOPO	18	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+EPDcoretop_E1459	4762	18	1879	Weight	Weight	NOPO
+EPDcoretop_E1459	4223	21	1895	Number of counted lines	Number of counted lines	NOPO
+EPDcoretop_E1459	4673	41	4673	Total number of lines	Total number of lines	NOPO
+EPDcoretop_E1459	5	64	5	Alnus	Alnus	TRSH
+EPDcoretop_E1459	6	2	6	Apiaceae	Apiaceae	HERB
+EPDcoretop_E1459	7	1	7	Artemisia	Artemisia	HERB
+EPDcoretop_E1459	12	22	12	Betula	Betula	TRSH
+EPDcoretop_E1459	16	2	16	Carpinus	Carpinus betulus	TRSH
+EPDcoretop_E1459	18	4	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+EPDcoretop_E1459	22	7	22	Cerealia	Cerealia-type	HERB
+EPDcoretop_E1459	24	2	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+EPDcoretop_E1459	33	2	33	Cyperaceae	Cyperaceae	HERB
+EPDcoretop_E1459	45	1	45	Filipendula	Filipendula	HERB
+EPDcoretop_E1459	57	27	57	Juglans	Juglans	TRSH
+EPDcoretop_E1459	58	1	58	Juniperus	Juniperus communis-type	TRSH
+EPDcoretop_E1459	59	2	59	Lamiaceae	Lamiaceae	HERB
+EPDcoretop_E1459	75	4	75	Pinus	Pinus	TRSH
+EPDcoretop_E1459	80	20	80	Poaceae	Poaceae	HERB
+EPDcoretop_E1459	81	1	81	Populus	Populus	TRSH
+EPDcoretop_E1459	99	1	99	Salix	Salix	TRSH
+EPDcoretop_E1459	126	2	126	Picea	Picea	TRSH
+EPDcoretop_E1459	130	1	130	Ericaceae	Ericales (tetrad)	DWAR
+EPDcoretop_E1459	135	3	135	Ranunculaceae	Ranunculaceae	HERB
+EPDcoretop_E1459	154	2	154	Ulmus	Ulmus/Zelkova	TRSH
+EPDcoretop_E1459	159	1	159	Ephedra	Ephedra	TRSH
+EPDcoretop_E1459	187	2	187	Tilia	Tilia	TRSH
+EPDcoretop_E1459	190	2	190	Fraxinus	Fraxinus	TRSH
+EPDcoretop_E1459	192	7	42	Fagus	Fagus	TRSH
+EPDcoretop_E1459	201	33	31	Corylus	Corylus	TRSH
+EPDcoretop_E1459	227	12	227	Mercurialis	Mercurialis	HERB
+EPDcoretop_E1459	437	33	86	Quercus deciduous	Quercus robur-type	TRSH
+EPDcoretop_E1459	441	17	19	Castanea	Castanea sativa	TRSH
+EPDcoretop_E1459	442	11	68	Olea	Olea europaea	TRSH
+EPDcoretop_E1459	519	1	519	Crassulaceae	Crassulaceae	HERB
+EPDcoretop_E1459	560	1	321	Abies	Abies	TRSH
+EPDcoretop_E1459	724	12	270	Plantago	Plantago	HERB
+EPDcoretop_E1459	727	7	94	Rumex	Rumex/Oxyria	HERB
+EPDcoretop_E1459	761	1	160	Asteroideae	Asteraceae subf. Asteroideae	HERB
+EPDcoretop_E1459	809	4	809	Urticaceae	Urticaceae	HERB
+EPDcoretop_E1459	1048	2	479	Hippophae	Hippophae rhamnoides	TRSH
+EPDcoretop_E1459	4197	6	146	Monolete spore(s)	Monolete fern spores	VACR
+EPDcoretop_E1459	93	2	93	Rubiaceae	Rubiaceae	HERB

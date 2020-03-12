@@ -1,35 +1,35 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Finsinger_a73	Abies	Abies	TRSH	1	0.20533881
-Finsinger_a73	Alnus glutinosa-type	Alnus glutinosa-type	TRSH	1	0.20533881
-Finsinger_a73	Alnus viridis	Alnus viridis	TRSH	156	32.032854
-Finsinger_a73	BETULA	Betula	TRSH	4	0.82135524
-Finsinger_a73	Calluna vulgaris	Calluna vulgaris	TRSH	1	0.20533881
-Finsinger_a73	Castanea sativa	Castanea sativa	TRSH	7	1.4373717
-Finsinger_a73	Corylus avellana	Corylus	TRSH	8	1.6427105
-Finsinger_a73	Eucalyptus	Eucalyptus	TRSH	1	0.20533881
-Finsinger_a73	Fagus	Fagus	TRSH	9	1.8480493
-Finsinger_a73	Fraxinus ornus	Fraxinus ornus	TRSH	1	0.20533881
-Finsinger_a73	Juniperus	Juniperus-type	TRSH	1	0.20533881
-Finsinger_a73	Larix	Larix/Pseudotsuga	TRSH	8	1.6427105
-Finsinger_a73	Ostrya-type	Ostrya/Carpinus orientalis	TRSH	3	0.61601643
-Finsinger_a73	Picea	Picea	TRSH	49	10.061602
-Finsinger_a73	Pinus cembra	Pinus cembra-type	TRSH	3	0.61601643
-Finsinger_a73	Pinus sylvestris-type	Pinus sylvestris-type	TRSH	45	9.2402464
-Finsinger_a73	Quercus rob.-pub.-type	Quercus robur-type	TRSH	11	2.2587269
-Finsinger_a73	Salix	Salix	TRSH	1	0.20533881
-Finsinger_a73	Tilia	Tilia	TRSH	1	0.20533881
-Finsinger_a73	Artemisia	Artemisia	HERB	1	0.20533881
-Finsinger_a73	Compositae Subfam. Asteroideae	Asteraceae subf. Asteroideae	HERB	3	0.61601643
-Finsinger_a73	Compositae Subfam. Cichorioideae	Asteraceae subf. Cichorioideae	HERB	1	0.20533881
-Finsinger_a73	Cruciferae	Brassicaceae	HERB	4	0.82135524
-Finsinger_a73	Chaerophyllum hirsutum-type	Chaerophyllum hirsutum-type	HERB	1	0.20533881
-Finsinger_a73	Chenopodiaceae-type	Chenopodiaceae/Amaranthaceae	HERB	1	0.20533881
-Finsinger_a73	Humulus lupulus	Humulus lupulus	HERB	1	0.20533881
-Finsinger_a73	Humulus-type	Humulus/Cannabis	HERB	1	0.20533881
-Finsinger_a73	Peucedanum-type	Peucedanum-type	HERB	1	0.20533881
-Finsinger_a73	Gramineae	Poaceae	HERB	20	4.1067762
-Finsinger_a73	Potentilla-type	Potentilla-type	HERB	1	0.20533881
-Finsinger_a73	Rumex acetosa-type	Rumex acetosa-type	HERB	1	0.20533881
-Finsinger_a73	Thesium humifusum	Thesium	HERB	1	0.20533881
-Finsinger_a73	Cryptogramma crispa	Cryptogramma crispa	VACR	1	0.20533881
-Finsinger_a73	Polypodium vulgare-type	Polypodium	VACR	138	28.336756
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Finsinger_a73	560	1	321	Abies	Abies	TRSH
+Finsinger_a73	155	1	155	Alnus glutinosa-type	Alnus glutinosa-type	TRSH
+Finsinger_a73	330	4	12	BETULA	Betula	TRSH
+Finsinger_a73	561	156	129	Alnus viridis	Alnus viridis	TRSH
+Finsinger_a73	19	7	19	Castanea sativa	Castanea sativa	TRSH
+Finsinger_a73	457	1	457	Calluna vulgaris	Calluna vulgaris	TRSH
+Finsinger_a73	31	8	31	Corylus avellana	Corylus	TRSH
+Finsinger_a73	39	1	39	Eucalyptus	Eucalyptus	TRSH
+Finsinger_a73	44	1	44	Fraxinus ornus	Fraxinus ornus	TRSH
+Finsinger_a73	123	8	123	Larix	Larix/Pseudotsuga	TRSH
+Finsinger_a73	572	3	70	Ostrya-type	Ostrya/Carpinus orientalis	TRSH
+Finsinger_a73	126	49	126	Picea	Picea	TRSH
+Finsinger_a73	573	3	124	Pinus cembra	Pinus cembra-type	TRSH
+Finsinger_a73	1226	45	125	Pinus sylvestris-type	Pinus sylvestris-type	TRSH
+Finsinger_a73	2541	11	86	Quercus rob.-pub.-type	Quercus robur-type	TRSH
+Finsinger_a73	99	1	99	Salix	Salix	TRSH
+Finsinger_a73	7	1	7	Artemisia	Artemisia	HERB
+Finsinger_a73	2557	1	1124	Chaerophyllum hirsutum-type	Chaerophyllum hirsutum-type	HERB
+Finsinger_a73	2558	1	24	Chenopodiaceae-type	Chenopodiaceae/Amaranthaceae	HERB
+Finsinger_a73	2560	3	160	Compositae Subfam. Asteroideae	Asteraceae subf. Asteroideae	HERB
+Finsinger_a73	482	4	13	Cruciferae	Brassicaceae	HERB
+Finsinger_a73	2561	1	25	Compositae Subfam. Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Finsinger_a73	1601	20	80	Gramineae	Poaceae	HERB
+Finsinger_a73	828	1	828	Humulus lupulus	Humulus lupulus	HERB
+Finsinger_a73	1267	1	73	Peucedanum-type	Peucedanum-type	HERB
+Finsinger_a73	626	1	512	Potentilla-type	Potentilla-type	HERB
+Finsinger_a73	634	1	95	Rumex acetosa-type	Rumex acetosa-type	HERB
+Finsinger_a73	2588	1	2588	Thesium humifusum	Thesium	HERB
+Finsinger_a73	1607	1	553	Cryptogramma crispa	Cryptogramma crispa	VACR
+Finsinger_a73	2596	138	214	Polypodium vulgare-type	Polypodium	VACR
+Finsinger_a73	187	1	187	Tilia	Tilia	TRSH
+Finsinger_a73	192	9	42	Fagus	Fagus	TRSH
+Finsinger_a73	1728	1	203	Juniperus	Juniperus-type	TRSH
+Finsinger_a73	2568	1	205	Humulus-type	Humulus/Cannabis	HERB

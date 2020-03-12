@@ -1,36 +1,36 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Bjune_a5	Alnus	Alnus	TRSH	1	0.1980198
-Bjune_a5	Betula	Betula	TRSH	186	36.831683
-Bjune_a5	Betula/Corylus/Myrica	Betula/Corylus/Myrica	TRSH	8	1.5841584
-Bjune_a5	Corylus avellana	Corylus	TRSH	1	0.1980198
-Bjune_a5	Empetrum nigrum	Empetrum nigrum	DWAR	9	1.7821782
-Bjune_a5	Ericaceae-type	Ericales (tetrad)	DWAR	13	2.5742574
-Bjune_a5	Juniperus communis	Juniperus communis-type	TRSH	99	19.60396
-Bjune_a5	Picea	Picea	TRSH	9	1.7821782
-Bjune_a5	Pinus sylvestris	Pinus sylvestris-type	TRSH	109	21.584158
-Bjune_a5	Salix undiff.	Salix	TRSH	6	1.1881188
-Bjune_a5	Vaccinium-type	Vaccinium-type	DWAR	5	0.99009901
-Bjune_a5	Artemisia	Artemisia	HERB	2	0.3960396
-Bjune_a5	Cirsium/Carduus	Asteraceae subf. Carduoideae	HERB	1	0.1980198
-Bjune_a5	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	2	0.3960396
-Bjune_a5	Filipendula	Filipendula	HERB	1	0.1980198
-Bjune_a5	Hordeum-type	Hordeum-type	HERB	1	0.1980198
-Bjune_a5	Gramineae undiff.	Poaceae	HERB	20	3.960396
-Bjune_a5	Rumex acetosa-type/R. acetosella-type	Rumex acetosa-type	HERB	1	0.1980198
-Bjune_a5	Thalictrum	Thalictrum	HERB	1	0.1980198
-Bjune_a5	Cryptogramma crispa	Cryptogramma crispa	VACR	1	0.1980198
-Bjune_a5	Dryopteris-type	Dryopteris-type	VACR	7	1.3861386
-Bjune_a5	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR	2	0.3960396
-Bjune_a5	Lycopodium annotinum	Lycopodium annotinum-type	VACR	3	0.59405941
-Bjune_a5	Lycopodium clavatum	Lycopodium clavatum	VACR	1	0.1980198
-Bjune_a5	Diphasiastrum	Lycopodium clavatum-type	VACR	3	0.59405941
-Bjune_a5	Selaginella selaginoides	Selaginella selaginoides	VACR	4	0.79207921
-Bjune_a5	Sphagnum	Sphagnum	BRYO	9	1.7821782
-Bjune_a5	Botryococcus	Botryococcus	ALGA	777	153.86139
-Bjune_a5	Carex-type	Carex	AQUA	20	3.960396
-Bjune_a5	Cyperaceae undiff.	Cyperaceae	AQUA	3	0.59405941
-Bjune_a5	Pediastrum	Pediastrum	ALGA	11	2.1782178
-Bjune_a5	Scirpus lacustris-type	Scirpus-type	AQUA	2	0.3960396
-Bjune_a5	Indeterminable: broken	Indeterminable: broken	INUN	1	
-Bjune_a5	Indeterminable: corroded	Indeterminable: corroded	INUN	8	
-Bjune_a5	Indeterminable: crumpled	Indeterminable: crumpled	INUN	1	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Bjune_a5	5	1	5	Alnus	Alnus	TRSH
+Bjune_a5	7	2	7	Artemisia	Artemisia	HERB
+Bjune_a5	3619	8	3619	Betula/Corylus/Myrica	Betula/Corylus/Myrica	TRSH
+Bjune_a5	663	777	663	Botryococcus	Botryococcus	ALGA
+Bjune_a5	24	2	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Bjune_a5	1383	1	336	Cirsium/Carduus	Asteraceae subf. Carduoideae	HERB
+Bjune_a5	31	1	31	Corylus avellana	Corylus	TRSH
+Bjune_a5	1607	1	553	Cryptogramma crispa	Cryptogramma crispa	VACR
+Bjune_a5	3873	3	3868	Cyperaceae undiff.	Cyperaceae	AQUA
+Bjune_a5	1247	7	772	Dryopteris-type	Dryopteris-type	VACR
+Bjune_a5	3944	13	130	Ericaceae-type	Ericales (tetrad)	DWAR
+Bjune_a5	45	1	45	Filipendula	Filipendula	HERB
+Bjune_a5	4018	20	80	Gramineae undiff.	Poaceae	HERB
+Bjune_a5	949	1	258	Hordeum-type	Hordeum-type	HERB
+Bjune_a5	4072	1	998	Indeterminable: broken	Indeterminable: broken	INUN
+Bjune_a5	4074	8	1324	Indeterminable: corroded	Indeterminable: corroded	INUN
+Bjune_a5	4075	1	1925	Indeterminable: crumpled	Indeterminable: crumpled	INUN
+Bjune_a5	941	99	58	Juniperus communis	Juniperus communis-type	TRSH
+Bjune_a5	965	3	183	Lycopodium annotinum	Lycopodium annotinum-type	VACR
+Bjune_a5	1714	1	1549	Lycopodium clavatum	Lycopodium clavatum	VACR
+Bjune_a5	662	11	662	Pediastrum	Pediastrum	ALGA
+Bjune_a5	126	9	126	Picea	Picea	TRSH
+Bjune_a5	788	109	125	Pinus sylvestris	Pinus sylvestris-type	TRSH
+Bjune_a5	4504	1	95	Rumex acetosa-type/R. acetosella-type	Rumex acetosa-type	HERB
+Bjune_a5	1400	6	99	Salix undiff.	Salix	TRSH
+Bjune_a5	874	4	185	Selaginella selaginoides	Selaginella selaginoides	VACR
+Bjune_a5	144	9	144	Sphagnum	Sphagnum	BRYO
+Bjune_a5	112	1	112	Thalictrum	Thalictrum	HERB
+Bjune_a5	4730	5	4730	Vaccinium-type	Vaccinium-type	DWAR
+Bjune_a5	12	186	12	Betula	Betula	TRSH
+Bjune_a5	939	9	739	Empetrum nigrum	Empetrum nigrum	DWAR
+Bjune_a5	2121	2	1320	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR
+Bjune_a5	3665	20	3663	Carex-type	Carex	AQUA
+Bjune_a5	3894	3	182	Diphasiastrum	Lycopodium clavatum-type	VACR
+Bjune_a5	4574	2	4569	Scirpus lacustris-type	Scirpus-type	AQUA

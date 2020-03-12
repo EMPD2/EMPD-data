@@ -1,49 +1,49 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Champvillair_a23	Abies	Abies	TRSH	1	0.12345679
-Champvillair_a23	Alnus	Alnus	TRSH	11	1.3580247
-Champvillair_a23	Alnus viridis	Alnus viridis	TRSH	8	0.98765432
-Champvillair_a23	Castanea	Castanea sativa	TRSH	7	0.86419753
-Champvillair_a23	Corylus	Corylus	TRSH	2	0.24691358
-Champvillair_a23	Fraxinus excelsior	Fraxinus excelsior-type	TRSH	2	0.24691358
-Champvillair_a23	Juglans	Juglans	TRSH	1	0.12345679
-Champvillair_a23	Juniperus	Juniperus communis-type	TRSH	7	0.86419753
-Champvillair_a23	Larix	Larix/Pseudotsuga	TRSH	2	0.24691358
-Champvillair_a23	Olea	Olea europaea	TRSH	5	0.61728395
-Champvillair_a23	Picea	Picea	TRSH	33	4.0740741
-Champvillair_a23	Pinus cembra	Pinus cembra-type	TRSH	13	1.6049383
-Champvillair_a23	Pinus sylvestris/mugo	Pinus sylvestris-type	TRSH	57	7.037037
-Champvillair_a23	Salix	Salix	TRSH	1	0.12345679
-Champvillair_a23	Tilia	Tilia	TRSH	1	0.12345679
-Champvillair_a23	Ambrosia	Ambrosia	HERB	1	0.12345679
-Champvillair_a23	Umbelliferae	Apiaceae	HERB	30	3.7037037
-Champvillair_a23	Artemisia	Artemisia	HERB	1	0.12345679
-Champvillair_a23	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	52	6.4197531
-Champvillair_a23	Cruciferae	Brassicaceae	HERB	4	0.49382716
-Champvillair_a23	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	13	1.6049383
-Champvillair_a23	Crassulaceae	Crassulaceae	HERB	4	0.49382716
-Champvillair_a23	Cyperaceae	Cyperaceae	HERB	142	17.530864
-Champvillair_a23	Fabaceae	Fabaceae	HERB	3	0.37037037
-Champvillair_a23	Geum type	Geum-type	HERB	9	1.1111111
-Champvillair_a23	Anthemis type	Matricaria-type	HERB	10	1.2345679
-Champvillair_a23	Phyteuma	Phyteuma-type	HERB	8	0.98765432
-Champvillair_a23	Plantago lanceolata type	Plantago lanceolata-type	HERB	14	1.7283951
-Champvillair_a23	Plantago alpina type	Plantago maritima-type	HERB	12	1.4814815
-Champvillair_a23	Gramineae P	Poaceae	HERB	309	38.148148
-Champvillair_a23	Ranunculaceae ND	Ranunculaceae	HERB	16	1.9753086
-Champvillair_a23	Rumex acetosa type	Rumex acetosa-type	HERB	7	0.86419753
-Champvillair_a23	Sanguisorba	Sanguisorba officinalis	HERB	8	0.98765432
-Champvillair_a23	Saxifragaceae	Saxifragaceae	HERB	10	1.2345679
-Champvillair_a23	Veronica type	Veronica-type	HERB	1	0.12345679
-Champvillair_a23	Spore monolete	Monolete fern spores	VACR	1	0.12345679
-Champvillair_a23	Polypodium vulgare	Polypodium	VACR	1	0.12345679
-Champvillair_a23	Spore trilete	Trilete spore(s)	VACR	3	0.37037037
-Champvillair_a23	Carboni piccoli contati	Charcoal <50µm	CHAR	13	
-Champvillair_a23	Concentrazione carbone P (Part/cm3)	Charcoal <50µm concentration	CHAR	84	
-Champvillair_a23	Concentrazione carbone tot (Part/cm3)	Concentration charcoal	CHAR	84	
-Champvillair_a23	Anphitrema	Amphitrema	RHIZ	3	
-Champvillair_a23	Arcella	Arcella	RHIZ	4	
-Champvillair_a23	Concentrazione pollinica (gran/cm3)	Concentration pollen	NOPO	5181	
-Champvillair_a23	Lycopodium cont	Lycopodium (counted)	NOPO	476	
-Champvillair_a23	Oociti di Neorabdocoehla	Neorhabdocoela oocytes	PLAT	3	
-Champvillair_a23	Sordariaceae	Sordariaceae	FUNG	1	
-Champvillair_a23	Volume (cm3)	Volume of sample (cm3)	NOPO	18	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Champvillair_a23	660	4	308	Arcella	Arcella	RHIZ
+Champvillair_a23	675	1	675	Sordariaceae	Sordariaceae	FUNG
+Champvillair_a23	680	3	680	Anphitrema	Amphitrema	RHIZ
+Champvillair_a23	684	3	684	Oociti di Neorabdocoehla	Neorhabdocoela oocytes	PLAT
+Champvillair_a23	693	18	693	Volume (cm3)	Volume of sample (cm3)	NOPO
+Champvillair_a23	700	476	559	Lycopodium cont	Lycopodium (counted)	NOPO
+Champvillair_a23	701	13	701	Carboni piccoli contati	Charcoal <50µm	CHAR
+Champvillair_a23	703	5181	695	Concentrazione pollinica (gran/cm3)	Concentration pollen	NOPO
+Champvillair_a23	704	84	704	Concentrazione carbone P (Part/cm3)	Charcoal <50µm concentration	CHAR
+Champvillair_a23	706	84	706	Concentrazione carbone tot (Part/cm3)	Concentration charcoal	CHAR
+Champvillair_a23	5	11	5	Alnus	Alnus	TRSH
+Champvillair_a23	7	1	7	Artemisia	Artemisia	HERB
+Champvillair_a23	18	13	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Champvillair_a23	33	142	33	Cyperaceae	Cyperaceae	HERB
+Champvillair_a23	41	3	41	Fabaceae	Fabaceae	HERB
+Champvillair_a23	47	2	47	Fraxinus excelsior	Fraxinus excelsior-type	TRSH
+Champvillair_a23	57	1	57	Juglans	Juglans	TRSH
+Champvillair_a23	58	7	58	Juniperus	Juniperus communis-type	TRSH
+Champvillair_a23	99	1	99	Salix	Salix	TRSH
+Champvillair_a23	123	2	123	Larix	Larix/Pseudotsuga	TRSH
+Champvillair_a23	126	33	126	Picea	Picea	TRSH
+Champvillair_a23	187	1	187	Tilia	Tilia	TRSH
+Champvillair_a23	201	2	31	Corylus	Corylus	TRSH
+Champvillair_a23	221	14	60	Plantago lanceolata type	Plantago lanceolata-type	HERB
+Champvillair_a23	224	1	224	Veronica type	Veronica-type	HERB
+Champvillair_a23	226	10	3	Anthemis type	Matricaria-type	HERB
+Champvillair_a23	250	7	95	Rumex acetosa type	Rumex acetosa-type	HERB
+Champvillair_a23	441	7	19	Castanea	Castanea sativa	TRSH
+Champvillair_a23	442	5	68	Olea	Olea europaea	TRSH
+Champvillair_a23	447	52	25	Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Champvillair_a23	482	4	13	Cruciferae	Brassicaceae	HERB
+Champvillair_a23	519	4	519	Crassulaceae	Crassulaceae	HERB
+Champvillair_a23	560	1	321	Abies	Abies	TRSH
+Champvillair_a23	561	8	129	Alnus viridis	Alnus viridis	TRSH
+Champvillair_a23	573	13	124	Pinus cembra	Pinus cembra-type	TRSH
+Champvillair_a23	574	57	125	Pinus sylvestris/mugo	Pinus sylvestris-type	TRSH
+Champvillair_a23	586	1	586	Ambrosia	Ambrosia	HERB
+Champvillair_a23	590	30	6	Umbelliferae	Apiaceae	HERB
+Champvillair_a23	599	8	483	Phyteuma	Phyteuma-type	HERB
+Champvillair_a23	618	12	64	Plantago alpina type	Plantago maritima-type	HERB
+Champvillair_a23	620	309	80	Gramineae P	Poaceae	HERB
+Champvillair_a23	628	16	135	Ranunculaceae ND	Ranunculaceae	HERB
+Champvillair_a23	638	8	474	Sanguisorba	Sanguisorba officinalis	HERB
+Champvillair_a23	639	10	639	Saxifragaceae	Saxifragaceae	HERB
+Champvillair_a23	650	9	649	Geum type	Geum-type	HERB
+Champvillair_a23	661	1	146	Spore monolete	Monolete fern spores	VACR
+Champvillair_a23	667	1	214	Polypodium vulgare	Polypodium	VACR
+Champvillair_a23	669	3	279	Spore trilete	Trilete spore(s)	VACR

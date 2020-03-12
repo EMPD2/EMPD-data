@@ -1,37 +1,37 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Kunes_a49	Abies	Abies	TRSH	1	0.09354537
-Kunes_a49	Betula	Betula	TRSH	10	0.9354537
-Kunes_a49	Betula nana	Betula nana-type	DWAR	41	3.8353601
-Kunes_a49	Empetrum/Ledum	Empetrum/Ledum	DWAR	1	0.09354537
-Kunes_a49	Ephedra distachya-type	Ephedra distachya-type	TRSH	1	0.09354537
-Kunes_a49	Ephedra fragilis-type	Ephedra fragilis-type	TRSH	1	0.09354537
-Kunes_a49	Larix/Pseudotsuga	Larix/Pseudotsuga	TRSH	102	9.5416277
-Kunes_a49	Picea	Picea	TRSH	10	0.9354537
-Kunes_a49	Pinus cembra-type	Pinus cembra-type	TRSH	646	60.430309
-Kunes_a49	Salix	Salix	TRSH	3	0.28063611
-Kunes_a49	Aconitum-type	Aconitum	HERB	1	0.09354537
-Kunes_a49	Bupleurum-type	Apiaceae	HERB	3	0.28063611
-Kunes_a49	Apiaceae undiff.	Apiaceae	HERB	2	0.18709074
-Kunes_a49	Artemisia	Artemisia	HERB	80	7.4836296
-Kunes_a49	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB	14	1.3096352
-Kunes_a49	Astragalus-type	Astragalus-type	HERB	2	0.18709074
-Kunes_a49	Caryophyllaceae pro parte	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	1	0.09354537
-Kunes_a49	Cerastium	Cerastium-type	HERB	1	0.09354537
-Kunes_a49	Chenopodiaceae pro parte	Chenopodiaceae/Amaranthaceae	HERB	5	0.46772685
-Kunes_a49	Gentiana pneumonanthe-type	Gentiana pneumonanthe-type	HERB	1	0.09354537
-Kunes_a49	Gypsophila repens-type	Gypsophila repens-type	HERB	2	0.18709074
-Kunes_a49	Helianthemum	Helianthemum	HERB	3	0.28063611
-Kunes_a49	Labiatae	Lamiaceae	HERB	1	0.09354537
-Kunes_a49	Matricaria-type	Matricaria-type	HERB	1	0.09354537
-Kunes_a49	Onobrychis	Onobrychis	HERB	1	0.09354537
-Kunes_a49	Poaceae	Poaceae	HERB	105	9.8222638
-Kunes_a49	Polygonatum	Polygonatum-type	HERB	14	1.3096352
-Kunes_a49	Polygonum bistorta	Polygonum bistorta	HERB	2	0.18709074
-Kunes_a49	Potentilla-type	Potentilla-type	HERB	1	0.09354537
-Kunes_a49	Rhinanthus-type	Rhinanthus-type	HERB	1	0.09354537
-Kunes_a49	Rumex acetosa-type	Rumex acetosa-type	HERB	1	0.09354537
-Kunes_a49	Senecio-type	Senecio-type	HERB	4	0.37418148
-Kunes_a49	Silene pro parte	Silene-type	HERB	3	0.28063611
-Kunes_a49	Thalictrum	Thalictrum	HERB	3	0.28063611
-Kunes_a49	Trollius europaeus	Trollius europaeus	HERB	1	0.09354537
-Kunes_a49	Cyperaceae	Cyperaceae	AQUA	72	6.7352666
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Kunes_a49	560	1	321	Abies	Abies	TRSH
+Kunes_a49	3501	1	585	Aconitum-type	Aconitum	HERB
+Kunes_a49	1107	2	6	Apiaceae undiff.	Apiaceae	HERB
+Kunes_a49	7	80	7	Artemisia	Artemisia	HERB
+Kunes_a49	1438	2	10	Astragalus-type	Astragalus-type	HERB
+Kunes_a49	12	10	12	Betula	Betula	TRSH
+Kunes_a49	1363	41	127	Betula nana	Betula nana-type	DWAR
+Kunes_a49	3787	5	24	Chenopodiaceae pro parte	Chenopodiaceae/Amaranthaceae	HERB
+Kunes_a49	3868	72	3868	Cyperaceae	Cyperaceae	AQUA
+Kunes_a49	1046	1	37	Ephedra distachya-type	Ephedra distachya-type	TRSH
+Kunes_a49	2424	1	36	Ephedra fragilis-type	Ephedra fragilis-type	TRSH
+Kunes_a49	1067	1	607	Gentiana pneumonanthe-type	Gentiana pneumonanthe-type	HERB
+Kunes_a49	52	3	52	Helianthemum	Helianthemum	HERB
+Kunes_a49	485	1	59	Labiatae	Lamiaceae	HERB
+Kunes_a49	2336	102	123	Larix/Pseudotsuga	Larix/Pseudotsuga	TRSH
+Kunes_a49	1072	1	3	Matricaria-type	Matricaria-type	HERB
+Kunes_a49	619	1	619	Onobrychis	Onobrychis	HERB
+Kunes_a49	126	10	126	Picea	Picea	TRSH
+Kunes_a49	4298	646	124	Pinus cembra-type	Pinus cembra-type	TRSH
+Kunes_a49	80	105	80	Poaceae	Poaceae	HERB
+Kunes_a49	625	2	625	Polygonum bistorta	Polygonum bistorta	HERB
+Kunes_a49	626	1	512	Potentilla-type	Potentilla-type	HERB
+Kunes_a49	631	1	631	Rhinanthus-type	Rhinanthus-type	HERB
+Kunes_a49	1230	4	133	Senecio-type	Senecio-type	HERB
+Kunes_a49	4597	3	132	Silene pro parte	Silene-type	HERB
+Kunes_a49	112	3	112	Thalictrum	Thalictrum	HERB
+Kunes_a49	4694	1	2163	Trollius europaeus	Trollius europaeus	HERB
+Kunes_a49	21	1	21	Cerastium	Cerastium-type	HERB
+Kunes_a49	99	3	99	Salix	Salix	TRSH
+Kunes_a49	634	1	95	Rumex acetosa-type	Rumex acetosa-type	HERB
+Kunes_a49	2550	3	6	Bupleurum-type	Apiaceae	HERB
+Kunes_a49	2564	2	1253	Gypsophila repens-type	Gypsophila repens-type	HERB
+Kunes_a49	3673	1	18	Caryophyllaceae pro parte	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Kunes_a49	3824	14	25	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Kunes_a49	3922	1	1388	Empetrum/Ledum	Empetrum/Ledum	DWAR
+Kunes_a49	4361	14	4361	Polygonatum	Polygonatum-type	HERB

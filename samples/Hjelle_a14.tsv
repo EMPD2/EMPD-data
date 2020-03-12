@@ -1,41 +1,41 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Hjelle_a14	Alnus	Alnus	TRSH	33	3.2226562
-Hjelle_a14	Betula	Betula	TRSH	62	6.0546875
-Hjelle_a14	Calluna vulgaris	Calluna vulgaris	TRSH	3	0.29296875
-Hjelle_a14	Corylus avellana	Corylus	TRSH	14	1.3671875
-Hjelle_a14	Fraxinus	Fraxinus	TRSH	2	0.1953125
-Hjelle_a14	Juniperus	Juniperus communis-type	TRSH	12	1.171875
-Hjelle_a14	Picea	Picea	TRSH	6	0.5859375
-Hjelle_a14	Pinus sylvestris	Pinus sylvestris-type	TRSH	635	62.011719
-Hjelle_a14	Quercus	Quercus	TRSH	5	0.48828125
-Hjelle_a14	Salix	Salix	TRSH	6	0.5859375
-Hjelle_a14	Sorbus	Sorbus-type	TRSH	1	0.09765625
-Hjelle_a14	Tilia cordata	Tilia cordata-type	TRSH	1	0.09765625
-Hjelle_a14	Ulmus	Ulmus/Zelkova	TRSH	5	0.48828125
-Hjelle_a14	Viburnum	Viburnum	TRSH	1	0.09765625
-Hjelle_a14	Apiaceae	Apiaceae	HERB	2	0.1953125
-Hjelle_a14	Artemisia type	Artemisia	HERB	1	0.09765625
-Hjelle_a14	Asteraceae Cichorioideae	Asteraceae subf. Cichorioideae	HERB	1	0.09765625
-Hjelle_a14	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	1	0.09765625
-Hjelle_a14	Cyperaceae	Cyperaceae	HERB	12	1.171875
-Hjelle_a14	Filipendula	Filipendula	HERB	2	0.1953125
-Hjelle_a14	Galeopsis	Galeopsis-type	HERB	4	0.390625
-Hjelle_a14	Melampyrum	Melampyrum	HERB	3	0.29296875
-Hjelle_a14	Polygonum sect. Persicaria	Persicaria maculosa-type	HERB	1	0.09765625
-Hjelle_a14	Plantago lanceolata	Plantago lanceolata-type	HERB	2	0.1953125
-Hjelle_a14	Poaceae	Poaceae	HERB	158	15.429688
-Hjelle_a14	Potentilla type	Potentilla-type	HERB	6	0.5859375
-Hjelle_a14	Ranunculus acris type	Ranunculus acris-type	HERB	3	0.29296875
-Hjelle_a14	Rumex sect. Acetosa	Rumex acetosa-type	HERB	12	1.171875
-Hjelle_a14	Saxifraga oppositifolia type	Saxifraga oppositifolia-type	HERB	1	0.09765625
-Hjelle_a14	Trifolium repens type	Trifolium repens-type	HERB	2	0.1953125
-Hjelle_a14	Urtica	Urtica	HERB	7	0.68359375
-Hjelle_a14	Valeriana	Valeriana	HERB	1	0.09765625
-Hjelle_a14	Verbascum	Verbascum	HERB	2	0.1953125
-Hjelle_a14	Gymnocarpium dryopteris type	Gymnocarpium dryopteris	VACR	4	0.390625
-Hjelle_a14	Polypodiaceae	Monolete fern spores	VACR	10	0.9765625
-Hjelle_a14	Pteridium	Pteridium aquilinum	VACR	2	0.1953125
-Hjelle_a14	Selaginella	Selaginella	VACR	1	0.09765625
-Hjelle_a14	Ranunculus flammula type	Ranunculus flammula-type	HELO	1	0.09765625
-Hjelle_a14	Corroded	Indeterminable: corroded	INUN	2	
-Hjelle_a14	Sphagnum	Sphagnum	NOPO	3	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Hjelle_a14	5	33	5	Alnus	Alnus	TRSH
+Hjelle_a14	12	62	12	Betula	Betula	TRSH
+Hjelle_a14	31	14	31	Corylus avellana	Corylus	TRSH
+Hjelle_a14	126	6	126	Picea	Picea	TRSH
+Hjelle_a14	107	1	107	Sorbus	Sorbus-type	TRSH
+Hjelle_a14	189	5	189	Quercus	Quercus	TRSH
+Hjelle_a14	788	635	125	Pinus sylvestris	Pinus sylvestris-type	TRSH
+Hjelle_a14	1406	1	153	Tilia cordata	Tilia cordata-type	TRSH
+Hjelle_a14	58	12	58	Juniperus	Juniperus communis-type	TRSH
+Hjelle_a14	99	6	99	Salix	Salix	TRSH
+Hjelle_a14	120	1	120	Viburnum	Viburnum	TRSH
+Hjelle_a14	154	5	154	Ulmus	Ulmus/Zelkova	TRSH
+Hjelle_a14	457	3	457	Calluna vulgaris	Calluna vulgaris	TRSH
+Hjelle_a14	6	2	6	Apiaceae	Apiaceae	HERB
+Hjelle_a14	976	1	7	Artemisia type	Artemisia	HERB
+Hjelle_a14	1365	1	25	Asteraceae Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Hjelle_a14	18	1	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Hjelle_a14	33	12	33	Cyperaceae	Cyperaceae	HERB
+Hjelle_a14	45	2	45	Filipendula	Filipendula	HERB
+Hjelle_a14	2609	4	244	Galeopsis	Galeopsis-type	HERB
+Hjelle_a14	60	2	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+Hjelle_a14	80	158	80	Poaceae	Poaceae	HERB
+Hjelle_a14	473	3	473	Melampyrum	Melampyrum	HERB
+Hjelle_a14	699	6	512	Potentilla type	Potentilla-type	HERB
+Hjelle_a14	2614	1	231	Polygonum sect. Persicaria	Persicaria maculosa-type	HERB
+Hjelle_a14	87	3	87	Ranunculus acris type	Ranunculus acris-type	HERB
+Hjelle_a14	640	1	640	Saxifraga oppositifolia type	Saxifraga oppositifolia-type	HERB
+Hjelle_a14	2616	1	1582	Ranunculus flammula type	Ranunculus flammula-type	HELO
+Hjelle_a14	2618	12	95	Rumex sect. Acetosa	Rumex acetosa-type	HERB
+Hjelle_a14	1384	2	1324	Corroded	Indeterminable: corroded	INUN
+Hjelle_a14	493	1	493	Valeriana	Valeriana	HERB
+Hjelle_a14	645	2	116	Trifolium repens type	Trifolium repens-type	HERB
+Hjelle_a14	652	7	652	Urtica	Urtica	HERB
+Hjelle_a14	146	10	146	Polypodiaceae	Monolete fern spores	VACR
+Hjelle_a14	431	2	180	Pteridium	Pteridium aquilinum	VACR
+Hjelle_a14	668	1	668	Selaginella	Selaginella	VACR
+Hjelle_a14	144	3	144	Sphagnum	Sphagnum	BRYO
+Hjelle_a14	190	2	190	Fraxinus	Fraxinus	TRSH
+Hjelle_a14	653	2	653	Verbascum	Verbascum	HERB
+Hjelle_a14	2627	4	1320	Gymnocarpium dryopteris type	Gymnocarpium dryopteris	VACR

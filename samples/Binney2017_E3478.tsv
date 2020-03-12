@@ -1,20 +1,20 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Binney2017_E3478	Alnus fruticosa	Alnus viridis	TRSH	220	51.643192
-Binney2017_E3478	Betula nana-type	Betula nana-type	TRSH	22	5.1643192
-Binney2017_E3478	Betula sect. Albae	Betula pubescens-type	TRSH	3	0.70422535
-Binney2017_E3478	Ericales	Ericales (tetrad)	DWAR	1	0.23474178
-Binney2017_E3478	Larix dahurica	Larix dahurica	TRSH	11	2.5821596
-Binney2017_E3478	Picea abies subsp. obovata	Picea abies-type	TRSH	1	0.23474178
-Binney2017_E3478	Pinus subg. Strobus	Pinus cembra-type	TRSH	12	2.8169014
-Binney2017_E3478	Rosaceae	Rosaceae	TRSH	2	0.46948357
-Binney2017_E3478	Salix	Salix	TRSH	3	0.70422535
-Binney2017_E3478	Artemisia	Artemisia	HERB	5	1.1737089
-Binney2017_E3478	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	1	0.23474178
-Binney2017_E3478	Cyperaceae	Cyperaceae	HERB	3	0.70422535
-Binney2017_E3478	Onagraceae	Onagraceae	HERB	1	0.23474178
-Binney2017_E3478	Poaceae	Poaceae	HERB	106	24.882629
-Binney2017_E3478	Ranunculaceae	Ranunculaceae	HERB	1	0.23474178
-Binney2017_E3478	Valeriana	Valeriana	HERB	4	0.93896714
-Binney2017_E3478	Bryophyta	Bryophyte spores	BRYO	29	6.8075117
-Binney2017_E3478	Polypodiales	Monolete fern spores	VACR	1	0.23474178
-Binney2017_E3478	Sphagnum	Sphagnum	NOPO	3	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Binney2017_E3478	7	5	7	Artemisia	Artemisia	HERB
+Binney2017_E3478	18	1	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Binney2017_E3478	33	3	33	Cyperaceae	Cyperaceae	HERB
+Binney2017_E3478	80	106	80	Poaceae	Poaceae	HERB
+Binney2017_E3478	99	3	99	Salix	Salix	TRSH
+Binney2017_E3478	128	3	128	Betula sect. Albae	Betula pubescens-type	TRSH
+Binney2017_E3478	135	1	135	Ranunculaceae	Ranunculaceae	HERB
+Binney2017_E3478	137	1	137	Onagraceae	Onagraceae	HERB
+Binney2017_E3478	144	3	144	Sphagnum	Sphagnum	BRYO
+Binney2017_E3478	493	4	493	Valeriana	Valeriana	HERB
+Binney2017_E3478	1241	29	147	Bryophyta	Bryophyte spores	BRYO
+Binney2017_E3478	2120	1	130	Ericales	Ericales (tetrad)	DWAR
+Binney2017_E3478	2962	220	129	Alnus fruticosa	Alnus viridis	TRSH
+Binney2017_E3478	3614	22	3613	Betula nana-type	Betula nana-type	TRSH
+Binney2017_E3478	4291	1	783	Picea abies subsp. obovata	Picea abies-type	TRSH
+Binney2017_E3478	4377	1	146	Polypodiales	Monolete fern spores	VACR
+Binney2017_E3478	4940	12	124	Pinus subg. Strobus	Pinus cembra-type	TRSH
+Binney2017_E3478	5215	11	5215	Larix dahurica	Larix dahurica	TRSH
+Binney2017_E3478	92	2	92	Rosaceae	Rosaceae	TRSH

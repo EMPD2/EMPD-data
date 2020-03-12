@@ -1,44 +1,44 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Bjune_a83	Alnus	Alnus	TRSH	32	4.6309696
-Bjune_a83	Betula	Betula	TRSH	175	25.325615
-Bjune_a83	Calluna vulgaris	Calluna vulgaris	DWAR	9	1.3024602
-Bjune_a83	Corylus avellana	Corylus	TRSH	10	1.447178
-Bjune_a83	Corylus/Myrica	Corylus/Myrica	TRSH	1	0.1447178
-Bjune_a83	Juniperus communis	Juniperus communis-type	TRSH	68	9.8408104
-Bjune_a83	Myrica gale	Myrica	TRSH	5	0.723589
-Bjune_a83	Picea	Picea	TRSH	36	5.2098408
-Bjune_a83	Pinus sylvestris	Pinus sylvestris-type	TRSH	261	37.771346
-Bjune_a83	Populus tremula	Populus tremula-type	TRSH	1	0.1447178
-Bjune_a83	Quercus	Quercus	TRSH	6	0.8683068
-Bjune_a83	Rosaceae undiff.	Rosa	TRSH	1	0.1447178
-Bjune_a83	Salix undiff.	Salix	TRSH	4	0.5788712
-Bjune_a83	Sambucus nigra/S. racemosa	Sambucus nigra/S. racemosa	TRSH	1	0.1447178
-Bjune_a83	Ulmus	Ulmus/Zelkova	TRSH	1	0.1447178
-Bjune_a83	Avena/Triticum-type	Avena/Triticum-type	HERB	2	0.2894356
-Bjune_a83	Echium vulgare	Echium	HERB	1	0.1447178
-Bjune_a83	Filipendula	Filipendula	HERB	1	0.1447178
-Bjune_a83	Hordeum-type	Hordeum-type	HERB	1	0.1447178
-Bjune_a83	Gramineae undiff.	Poaceae	HERB	47	6.8017366
-Bjune_a83	Rumex acetosa	Rumex acetosa-type	HERB	3	0.4341534
-Bjune_a83	Rumex acetosa-type/R. acetosella-type	Rumex acetosa-type	HERB	4	0.5788712
-Bjune_a83	Rumex acetosella-type	Rumex acetosella	HERB	3	0.4341534
-Bjune_a83	Succisa pratensis	Succisa-type	HERB	1	0.1447178
-Bjune_a83	Urtica	Urtica	HERB	5	0.723589
-Bjune_a83	Dryopteris-type	Dryopteris-type	VACR	1	0.1447178
-Bjune_a83	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR	1	0.1447178
-Bjune_a83	Lycopodium annotinum	Lycopodium annotinum-type	VACR	1	0.1447178
-Bjune_a83	Lycopodium clavatum	Lycopodium clavatum	VACR	1	0.1447178
-Bjune_a83	Pteridium aquilinum	Pteridium aquilinum	VACR	3	0.4341534
-Bjune_a83	Sphagnum	Sphagnum	BRYO	5	0.723589
-Bjune_a83	Botryococcus	Botryococcus	ALGA	168	24.31259
-Bjune_a83	Carex-type	Carex	AQUA	5	0.723589
-Bjune_a83	Cyperaceae undiff.	Cyperaceae	AQUA	3	0.4341534
-Bjune_a83	Isoetes echinospora	Isoetes echinospora	AQPT	7	1.0130246
-Bjune_a83	Isoetes lacustris	Isoetes lacustris	AQPT	1	0.1447178
-Bjune_a83	Nymphaea	Nymphaea	AQUA	5	0.723589
-Bjune_a83	Pediastrum	Pediastrum	ALGA	25	3.617945
-Bjune_a83	Phragmites australis-type	Phragmites australis-type	AQUA	11	1.5918958
-Bjune_a83	Potamogeton sect. Eupotamogeton	Potamogeton natans-type	AQUA	14	2.0260492
-Bjune_a83	Ranunculus trichophyllus-type	Ranunculus aquatilis-type	AQUA	1	0.1447178
-Bjune_a83	Indeterminable: corroded	Indeterminable: corroded	INUN	1	
-Bjune_a83	Juniperus: stomata	Juniperus: stomata	MACR	1	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Bjune_a83	5	32	5	Alnus	Alnus	TRSH
+Bjune_a83	3601	2	818	Avena/Triticum-type	Avena/Triticum-type	HERB
+Bjune_a83	12	175	12	Betula	Betula	TRSH
+Bjune_a83	663	168	663	Botryococcus	Botryococcus	ALGA
+Bjune_a83	3665	5	3663	Carex-type	Carex	AQUA
+Bjune_a83	31	10	31	Corylus avellana	Corylus	TRSH
+Bjune_a83	1247	1	772	Dryopteris-type	Dryopteris-type	VACR
+Bjune_a83	4018	47	80	Gramineae undiff.	Poaceae	HERB
+Bjune_a83	2121	1	1320	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR
+Bjune_a83	949	1	258	Hordeum-type	Hordeum-type	HERB
+Bjune_a83	4074	1	1324	Indeterminable: corroded	Indeterminable: corroded	INUN
+Bjune_a83	1590	1	1590	Isoetes lacustris	Isoetes lacustris	AQPT
+Bjune_a83	941	68	58	Juniperus communis	Juniperus communis-type	TRSH
+Bjune_a83	4092	1	4092	Juniperus: stomata	Juniperus: stomata	MACR
+Bjune_a83	1714	1	1549	Lycopodium clavatum	Lycopodium clavatum	VACR
+Bjune_a83	627	5	627	Nymphaea	Nymphaea	AQUA
+Bjune_a83	662	25	662	Pediastrum	Pediastrum	ALGA
+Bjune_a83	4286	11	4284	Phragmites australis-type	Phragmites australis-type	AQUA
+Bjune_a83	126	36	126	Picea	Picea	TRSH
+Bjune_a83	788	261	125	Pinus sylvestris	Pinus sylvestris-type	TRSH
+Bjune_a83	4381	1	4381	Populus tremula	Populus tremula-type	TRSH
+Bjune_a83	4384	14	912	Potamogeton sect. Eupotamogeton	Potamogeton natans-type	AQUA
+Bjune_a83	180	3	180	Pteridium aquilinum	Pteridium aquilinum	VACR
+Bjune_a83	189	6	189	Quercus	Quercus	TRSH
+Bjune_a83	4459	1	1182	Ranunculus trichophyllus-type	Ranunculus aquatilis-type	AQUA
+Bjune_a83	472	1	92	Rosaceae undiff.	Rosaceae	TRSH
+Bjune_a83	4504	4	95	Rumex acetosa-type/R. acetosella-type	Rumex acetosa-type	HERB
+Bjune_a83	1398	3	96	Rumex acetosella-type	Rumex acetosella	HERB
+Bjune_a83	1400	4	99	Salix undiff.	Salix	TRSH
+Bjune_a83	1401	1	583	Sambucus nigra/S. racemosa	Sambucus nigra/S. racemosa	TRSH
+Bjune_a83	144	5	144	Sphagnum	Sphagnum	BRYO
+Bjune_a83	989	1	989	Succisa pratensis	Succisa-type	HERB
+Bjune_a83	154	1	154	Ulmus	Ulmus/Zelkova	TRSH
+Bjune_a83	652	5	652	Urtica	Urtica	HERB
+Bjune_a83	45	1	45	Filipendula	Filipendula	HERB
+Bjune_a83	95	3	95	Rumex acetosa	Rumex acetosa-type	HERB
+Bjune_a83	242	1	242	Echium vulgare	Echium	HERB
+Bjune_a83	965	1	183	Lycopodium annotinum	Lycopodium annotinum-type	VACR
+Bjune_a83	2332	7	2332	Isoetes echinospora	Isoetes echinospora	AQPT
+Bjune_a83	2601	5	977	Myrica gale	Myrica	TRSH
+Bjune_a83	3646	9	3645	Calluna vulgaris	Calluna vulgaris	DWAR
+Bjune_a83	3852	1	3847	Corylus/Myrica	Corylus/Myrica	TRSH
+Bjune_a83	3873	3	3868	Cyperaceae undiff.	Cyperaceae	AQUA

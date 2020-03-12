@@ -1,44 +1,44 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Bjune_a33	Alnus	Alnus	TRSH	5	1.0416667
-Bjune_a33	Betula	Betula	TRSH	251	52.291667
-Bjune_a33	Calluna vulgaris	Calluna vulgaris	DWAR	1	0.20833333
-Bjune_a33	Corylus/Myrica	Corylus/Myrica	TRSH	2	0.41666667
-Bjune_a33	Empetrum nigrum	Empetrum nigrum	DWAR	1	0.20833333
-Bjune_a33	Ericaceae-type	Ericales (tetrad)	DWAR	2	0.41666667
-Bjune_a33	Juniperus communis	Juniperus communis-type	TRSH	37	7.7083333
-Bjune_a33	Picea	Picea	TRSH	15	3.125
-Bjune_a33	Pinus sylvestris	Pinus sylvestris-type	TRSH	70	14.583333
-Bjune_a33	Salix undiff.	Salix	TRSH	3	0.625
-Bjune_a33	Vaccinium-type	Vaccinium-type	DWAR	3	0.625
-Bjune_a33	Alchemilla	Alchemilla	HERB	1	0.20833333
-Bjune_a33	Dryas octopetala	Dryas octopetala	HERB	2	0.41666667
-Bjune_a33	Filipendula	Filipendula	HERB	1	0.20833333
-Bjune_a33	Hordeum-type	Hordeum-type	HERB	1	0.20833333
-Bjune_a33	Melampyrum	Melampyrum	HERB	2	0.41666667
-Bjune_a33	Gramineae undiff.	Poaceae	HERB	28	5.8333333
-Bjune_a33	Potentilla-type	Potentilla-type	HERB	4	0.83333333
-Bjune_a33	Rumex acetosa	Rumex acetosa-type	HERB	4	0.83333333
-Bjune_a33	Rumex acetosa-type/R. acetosella-type	Rumex acetosa-type	HERB	2	0.41666667
-Bjune_a33	Saxifraga cernua-type	Saxifraga granulata-type	HERB	1	0.20833333
-Bjune_a33	Saxifraga cespitosa-type	Saxifraga granulata-type	HERB	1	0.20833333
-Bjune_a33	Solidago-type	Senecio-type	HERB	2	0.41666667
-Bjune_a33	Thalictrum	Thalictrum	HERB	5	1.0416667
-Bjune_a33	Urtica	Urtica	HERB	1	0.20833333
-Bjune_a33	Valeriana sambucifolia-type	Valeriana officinalis-type	HERB	1	0.20833333
-Bjune_a33	Dryopteris-type	Dryopteris-type	VACR	18	3.75
-Bjune_a33	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR	7	1.4583333
-Bjune_a33	Huperzia selago	Huperzia selago	VACR	1	0.20833333
-Bjune_a33	Lycopodium clavatum	Lycopodium clavatum	VACR	1	0.20833333
-Bjune_a33	Selaginella selaginoides	Selaginella selaginoides	VACR	4	0.83333333
-Bjune_a33	Sphagnum	Sphagnum	BRYO	3	0.625
-Bjune_a33	Botryococcus	Botryococcus	ALGA	10	2.0833333
-Bjune_a33	Caltha palustris	Caltha palustris	AQUA	1	0.20833333
-Bjune_a33	Carex-type	Carex	AQUA	43	8.9583333
-Bjune_a33	Cyperaceae undiff.	Cyperaceae	AQUA	18	3.75
-Bjune_a33	Myriophyllum alterniflorum	Myriophyllum alterniflorum	AQUA	1	0.20833333
-Bjune_a33	Pediastrum	Pediastrum	ALGA	91	18.958333
-Bjune_a33	Potamogeton sect. Eupotamogeton	Potamogeton natans-type	AQUA	1	0.20833333
-Bjune_a33	Indeterminable: broken	Indeterminable: broken	INUN	2	
-Bjune_a33	Indeterminable: concealed	Indeterminable: concealed	INUN	1	
-Bjune_a33	Indeterminable: corroded	Indeterminable: corroded	INUN	5	
-Bjune_a33	Unknown	Indeterminable: unknown	INUN	1	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Bjune_a33	944	1	323	Alchemilla	Alchemilla	HERB
+Bjune_a33	5	5	5	Alnus	Alnus	TRSH
+Bjune_a33	12	251	12	Betula	Betula	TRSH
+Bjune_a33	663	10	663	Botryococcus	Botryococcus	ALGA
+Bjune_a33	3646	1	3645	Calluna vulgaris	Calluna vulgaris	DWAR
+Bjune_a33	2284	1	1463	Caltha palustris	Caltha palustris	AQUA
+Bjune_a33	3665	43	3663	Carex-type	Carex	AQUA
+Bjune_a33	3873	18	3868	Cyperaceae undiff.	Cyperaceae	AQUA
+Bjune_a33	3910	2	2123	Dryas octopetala	Dryas octopetala	HERB
+Bjune_a33	1247	18	772	Dryopteris-type	Dryopteris-type	VACR
+Bjune_a33	939	1	739	Empetrum nigrum	Empetrum nigrum	DWAR
+Bjune_a33	4018	28	80	Gramineae undiff.	Poaceae	HERB
+Bjune_a33	4072	2	998	Indeterminable: broken	Indeterminable: broken	INUN
+Bjune_a33	4073	1	999	Indeterminable: concealed	Indeterminable: concealed	INUN
+Bjune_a33	4074	5	1324	Indeterminable: corroded	Indeterminable: corroded	INUN
+Bjune_a33	941	37	58	Juniperus communis	Juniperus communis-type	TRSH
+Bjune_a33	1714	1	1549	Lycopodium clavatum	Lycopodium clavatum	VACR
+Bjune_a33	1971	1	1841	Myriophyllum alterniflorum	Myriophyllum alterniflorum	AQUA
+Bjune_a33	662	91	662	Pediastrum	Pediastrum	ALGA
+Bjune_a33	126	15	126	Picea	Picea	TRSH
+Bjune_a33	788	70	125	Pinus sylvestris	Pinus sylvestris-type	TRSH
+Bjune_a33	4384	1	912	Potamogeton sect. Eupotamogeton	Potamogeton natans-type	AQUA
+Bjune_a33	626	4	512	Potentilla-type	Potentilla-type	HERB
+Bjune_a33	95	4	95	Rumex acetosa	Rumex acetosa-type	HERB
+Bjune_a33	4504	2	95	Rumex acetosa-type/R. acetosella-type	Rumex acetosa-type	HERB
+Bjune_a33	1400	3	99	Salix undiff.	Salix	TRSH
+Bjune_a33	874	4	185	Selaginella selaginoides	Selaginella selaginoides	VACR
+Bjune_a33	144	3	144	Sphagnum	Sphagnum	BRYO
+Bjune_a33	112	5	112	Thalictrum	Thalictrum	HERB
+Bjune_a33	969	1	177	Unknown	Indeterminable: unknown	INUN
+Bjune_a33	652	1	652	Urtica	Urtica	HERB
+Bjune_a33	4734	1	1087	Valeriana sambucifolia-type	Valeriana officinalis-type	HERB
+Bjune_a33	45	1	45	Filipendula	Filipendula	HERB
+Bjune_a33	473	2	473	Melampyrum	Melampyrum	HERB
+Bjune_a33	949	1	258	Hordeum-type	Hordeum-type	HERB
+Bjune_a33	964	1	184	Huperzia selago	Huperzia selago	VACR
+Bjune_a33	2121	7	1320	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR
+Bjune_a33	2428	2	133	Solidago-type	Senecio-type	HERB
+Bjune_a33	2953	1	1402	Saxifraga cernua-type	Saxifraga granulata-type	HERB
+Bjune_a33	3852	2	3847	Corylus/Myrica	Corylus/Myrica	TRSH
+Bjune_a33	3944	2	130	Ericaceae-type	Ericales (tetrad)	DWAR
+Bjune_a33	4553	1	1402	Saxifraga cespitosa-type	Saxifraga granulata-type	HERB
+Bjune_a33	4730	3	4730	Vaccinium-type	Vaccinium-type	DWAR

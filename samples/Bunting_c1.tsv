@@ -1,41 +1,41 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Bunting_c1	Alnus	Alnus	TRSH	3	0.45801527
-Bunting_c1	Betula	Betula	TRSH	30	4.5801527
-Bunting_c1	Calluna	Calluna vulgaris	TRSH	213	32.519084
-Bunting_c1	Carpinus	Carpinus betulus	TRSH	1	0.15267176
-Bunting_c1	Corylus type	Corylus	TRSH	1	0.15267176
-Bunting_c1	Empetrum	Empetrum nigrum	DWAR	1	0.15267176
-Bunting_c1	Fagus	Fagus	TRSH	1	0.15267176
-Bunting_c1	Fraxinus	Fraxinus	TRSH	3	0.45801527
-Bunting_c1	Larix	Larix/Pseudotsuga	TRSH	1	0.15267176
-Bunting_c1	Myrica type	Myrica	TRSH	1	0.15267176
-Bunting_c1	Pinus sylvestris	Pinus sylvestris-type	TRSH	78	11.908397
-Bunting_c1	Quercus	Quercus	TRSH	16	2.4427481
-Bunting_c1	Rosaceae undif.	Rosaceae	TRSH	3	0.45801527
-Bunting_c1	Salix	Salix	TRSH	4	0.61068702
-Bunting_c1	Tsuga	Tsuga	TRSH	1	0.15267176
-Bunting_c1	Ulmus	Ulmus/Zelkova	TRSH	1	0.15267176
-Bunting_c1	Vaccinium-type	Vaccinium-type	DWAR	3	0.45801527
-Bunting_c1	Artemisia type	Artemisia	HERB	2	0.30534351
-Bunting_c1	Aster type	Aster-type	HERB	1	0.15267176
-Bunting_c1	Brassicaceae	Brassicaceae	HERB	2	0.30534351
-Bunting_c1	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	1	0.15267176
-Bunting_c1	Cereal type	Cerealia-type	HERB	3	0.45801527
-Bunting_c1	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.15267176
-Bunting_c1	Cyperaceae	Cyperaceae	HERB	7	1.0687023
-Bunting_c1	Filipendula	Filipendula	HERB	1	0.15267176
-Bunting_c1	Plantago lanceolata	Plantago lanceolata-type	HERB	2	0.30534351
-Bunting_c1	Poaceae	Poaceae	HERB	244	37.251908
-Bunting_c1	Ranunculus type	Ranunculus-type	HERB	3	0.45801527
-Bunting_c1	Rhiananthus type	Rhinanthus-type	HERB	1	0.15267176
-Bunting_c1	Rumex undif.	Rumex/Oxyria	HERB	9	1.3740458
-Bunting_c1	Urtica dioica	Urtica dioica	HERB	12	1.8320611
-Bunting_c1	Pteropsida (monolete) indet.	Monolete fern spores	VACR	4	0.61068702
-Bunting_c1	Pteridium aquilinum	Pteridium aquilinum	VACR	1	0.15267176
-Bunting_c1	Drosera undif.	Drosera	AQUA	2	0.30534351
-Bunting_c1	Potamogeton	Potamogeton-type	AQUA	2	0.30534351
-Bunting_c1	Exotic	Exotics (counted)	NOPO	1014	
-Bunting_c1	exotic per tablet	Number of exotics per tablet	NOPO	10793	
-Bunting_c1	sediment volume (cm^3)	Sediment volume	NOPO	1	
-Bunting_c1	Sphagnum	Sphagnum	NOPO	9	
-Bunting_c1	number of exotic tablets	Tablets (added)	NOPO	2	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Bunting_c1	971	1014	881	Exotic	Exotics (counted)	NOPO
+Bunting_c1	972	1	972	sediment volume (cm^3)	Sediment volume	NOPO
+Bunting_c1	973	2	973	number of exotic tablets	Tablets (added)	NOPO
+Bunting_c1	974	10793	974	exotic per tablet	Number of exotics per tablet	NOPO
+Bunting_c1	5	3	5	Alnus	Alnus	TRSH
+Bunting_c1	11	1	11	Aster type	Aster-type	HERB
+Bunting_c1	12	30	12	Betula	Betula	TRSH
+Bunting_c1	13	2	13	Brassicaceae	Brassicaceae	HERB
+Bunting_c1	16	1	16	Carpinus	Carpinus betulus	TRSH
+Bunting_c1	18	1	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Bunting_c1	24	1	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Bunting_c1	33	7	33	Cyperaceae	Cyperaceae	HERB
+Bunting_c1	45	1	45	Filipendula	Filipendula	HERB
+Bunting_c1	60	2	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+Bunting_c1	80	244	80	Poaceae	Poaceae	HERB
+Bunting_c1	99	4	99	Salix	Salix	TRSH
+Bunting_c1	117	12	117	Urtica dioica	Urtica dioica	HERB
+Bunting_c1	123	1	123	Larix	Larix/Pseudotsuga	TRSH
+Bunting_c1	144	9	144	Sphagnum	Sphagnum	BRYO
+Bunting_c1	154	1	154	Ulmus	Ulmus/Zelkova	TRSH
+Bunting_c1	180	1	180	Pteridium aquilinum	Pteridium aquilinum	VACR
+Bunting_c1	189	16	189	Quercus	Quercus	TRSH
+Bunting_c1	190	3	190	Fraxinus	Fraxinus	TRSH
+Bunting_c1	192	1	42	Fagus	Fagus	TRSH
+Bunting_c1	581	213	457	Calluna	Calluna vulgaris	TRSH
+Bunting_c1	657	2	108	Potamogeton	Potamogeton-type	AQUA
+Bunting_c1	739	1	739	Empetrum	Empetrum nigrum	DWAR
+Bunting_c1	788	78	125	Pinus sylvestris	Pinus sylvestris-type	TRSH
+Bunting_c1	942	3	942	Vaccinium-type	Vaccinium-type	TRSH
+Bunting_c1	967	4	146	Pteropsida (monolete) indet.	Monolete fern spores	VACR
+Bunting_c1	976	2	7	Artemisia type	Artemisia	HERB
+Bunting_c1	977	1	977	Myrica type	Myrica	TRSH
+Bunting_c1	979	3	274	Ranunculus type	Ranunculus-type	HERB
+Bunting_c1	980	9	94	Rumex undif.	Rumex/Oxyria	HERB
+Bunting_c1	981	1	31	Corylus type	Corylus	TRSH
+Bunting_c1	982	3	22	Cereal type	Cerealia-type	HERB
+Bunting_c1	991	2	991	Drosera undif.	Drosera	AQUA
+Bunting_c1	995	1	995	Tsuga	Tsuga	TRSH
+Bunting_c1	996	1	631	Rhiananthus type	Rhinanthus-type	HERB
+Bunting_c1	978	3	92	Rosaceae undif.	Rosaceae	TRSH

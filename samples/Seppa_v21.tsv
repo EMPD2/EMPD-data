@@ -1,32 +1,32 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Seppa_v21	Alnus	Alnus	TRSH	47	8.1034483
-Seppa_v21	Betula	Betula	TRSH	174	30
-Seppa_v21	Corylus avellana	Corylus	TRSH	7	1.2068966
-Seppa_v21	Fraxinus excelsior	Fraxinus excelsior-type	TRSH	1	0.17241379
-Seppa_v21	Juniperus communis	Juniperus communis-type	TRSH	8	1.3793103
-Seppa_v21	Picea	Picea	TRSH	50	8.6206897
-Seppa_v21	Pinus sylvestris	Pinus sylvestris-type	TRSH	172	29.655172
-Seppa_v21	Populus tremula	Populus tremula-type	TRSH	2	0.34482759
-Seppa_v21	Quercus	Quercus	TRSH	1	0.17241379
-Seppa_v21	Salix undiff.	Salix	TRSH	5	0.86206897
-Seppa_v21	Tilia cordata	Tilia cordata-type	TRSH	2	0.34482759
-Seppa_v21	Ulmus	Ulmus/Zelkova	TRSH	2	0.34482759
-Seppa_v21	Vaccinium-type	Vaccinium-type	DWAR	2	0.34482759
-Seppa_v21	Artemisia	Artemisia	HERB	6	1.0344828
-Seppa_v21	Avena/Triticum-type	Avena/Triticum-type	HERB	1	0.17241379
-Seppa_v21	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	2	0.34482759
-Seppa_v21	Hordeum-type	Hordeum-type	HERB	3	0.51724138
-Seppa_v21	Humulus lupulus	Humulus lupulus	HERB	1	0.17241379
-Seppa_v21	Gramineae undiff.	Poaceae	HERB	21	3.6206897
-Seppa_v21	Ranunculaceae undiff.	Ranunculaceae	HERB	2	0.34482759
-Seppa_v21	Rumex acetosa	Rumex acetosa-type	HERB	6	1.0344828
-Seppa_v21	Rumex acetosella-type	Rumex acetosella	HERB	5	0.86206897
-Seppa_v21	Urtica	Urtica	HERB	1	0.17241379
-Seppa_v21	Dryopteris-type	Dryopteris-type	VACR	5	0.86206897
-Seppa_v21	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR	1	0.17241379
-Seppa_v21	Lycopodium clavatum	Lycopodium clavatum	VACR	1	0.17241379
-Seppa_v21	Sphagnum	Sphagnum	BRYO	52	8.9655172
-Seppa_v21	Carex-type	Carex	AQUA	5	0.86206897
-Seppa_v21	Isoetes lacustris	Isoetes lacustris	AQPT	15	2.5862069
-Seppa_v21	Nuphar	Nuphar	AQUA	1	0.17241379
-Seppa_v21	cf. Sorbus aucuparia	Rosaceae (non-operculate)	INUN	1	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Seppa_v21	5	47	5	Alnus	Alnus	TRSH
+Seppa_v21	7	6	7	Artemisia	Artemisia	HERB
+Seppa_v21	3601	1	818	Avena/Triticum-type	Avena/Triticum-type	HERB
+Seppa_v21	12	174	12	Betula	Betula	TRSH
+Seppa_v21	3665	5	3663	Carex-type	Carex	AQUA
+Seppa_v21	3756	1	3746	cf. Sorbus aucuparia	Rosaceae (non-operculate)	INUN
+Seppa_v21	24	2	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Seppa_v21	31	7	31	Corylus avellana	Corylus	TRSH
+Seppa_v21	47	1	47	Fraxinus excelsior	Fraxinus excelsior-type	TRSH
+Seppa_v21	4018	21	80	Gramineae undiff.	Poaceae	HERB
+Seppa_v21	2121	1	1320	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR
+Seppa_v21	828	1	828	Humulus lupulus	Humulus lupulus	HERB
+Seppa_v21	1590	15	1590	Isoetes lacustris	Isoetes lacustris	AQPT
+Seppa_v21	941	8	58	Juniperus communis	Juniperus communis-type	TRSH
+Seppa_v21	1714	1	1549	Lycopodium clavatum	Lycopodium clavatum	VACR
+Seppa_v21	1495	1	1495	Nuphar	Nuphar	AQUA
+Seppa_v21	788	172	125	Pinus sylvestris	Pinus sylvestris-type	TRSH
+Seppa_v21	4381	2	4381	Populus tremula	Populus tremula-type	TRSH
+Seppa_v21	189	1	189	Quercus	Quercus	TRSH
+Seppa_v21	1180	2	135	Ranunculaceae undiff.	Ranunculaceae	HERB
+Seppa_v21	95	6	95	Rumex acetosa	Rumex acetosa-type	HERB
+Seppa_v21	1398	5	96	Rumex acetosella-type	Rumex acetosella	HERB
+Seppa_v21	144	52	144	Sphagnum	Sphagnum	BRYO
+Seppa_v21	1406	2	153	Tilia cordata	Tilia cordata-type	TRSH
+Seppa_v21	154	2	154	Ulmus	Ulmus/Zelkova	TRSH
+Seppa_v21	652	1	652	Urtica	Urtica	HERB
+Seppa_v21	4730	2	4730	Vaccinium-type	Vaccinium-type	DWAR
+Seppa_v21	126	50	126	Picea	Picea	TRSH
+Seppa_v21	949	3	258	Hordeum-type	Hordeum-type	HERB
+Seppa_v21	1247	5	772	Dryopteris-type	Dryopteris-type	VACR
+Seppa_v21	1400	5	99	Salix undiff.	Salix	TRSH

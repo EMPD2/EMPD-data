@@ -1,43 +1,43 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-EPDcoretop_E379	Acer	Acer campestre-type	TRSH	1	0.18903592
-EPDcoretop_E379	Alnus	Alnus	TRSH	14	2.6465028
-EPDcoretop_E379	Betula	Betula	TRSH	42	7.9395085
-EPDcoretop_E379	Buxus	Buxus	TRSH	2	0.37807183
-EPDcoretop_E379	Calluna vulgaris	Calluna vulgaris	DWAR	1	0.18903592
-EPDcoretop_E379	Carpinus	Carpinus betulus	TRSH	11	2.0793951
-EPDcoretop_E379	Castanea	Castanea sativa	TRSH	40	7.5614367
-EPDcoretop_E379	Corylus	Corylus	TRSH	47	8.8846881
-EPDcoretop_E379	Fagus	Fagus	TRSH	6	1.1342155
-EPDcoretop_E379	Fraxinus	Fraxinus	TRSH	12	2.268431
-EPDcoretop_E379	Juglans	Juglans	TRSH	4	0.75614367
-EPDcoretop_E379	Picea	Picea	TRSH	8	1.5122873
-EPDcoretop_E379	Pinus	Pinus	TRSH	121	22.873346
-EPDcoretop_E379	Populus	Populus	TRSH	19	3.5916824
-EPDcoretop_E379	Quercus ilex	Quercus ilex-type	TRSH	3	0.56710775
-EPDcoretop_E379	Quercus robur-type	Quercus robur-type	TRSH	35	6.6162571
-EPDcoretop_E379	Salix	Salix	TRSH	5	0.94517958
-EPDcoretop_E379	Tilia	Tilia	TRSH	1	0.18903592
-EPDcoretop_E379	Ulmus	Ulmus/Zelkova	TRSH	3	0.56710775
-EPDcoretop_E379	Umbelliferae	Apiaceae	HERB	1	0.18903592
-EPDcoretop_E379	Artemisia	Artemisia	HERB	4	0.75614367
-EPDcoretop_E379	Cruciferae	Brassicaceae	HERB	3	0.56710775
-EPDcoretop_E379	Cerealia-type	Cerealia-type	HERB	13	2.4574669
-EPDcoretop_E379	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	2	0.37807183
-EPDcoretop_E379	Filipendula	Filipendula	HERB	1	0.18903592
-EPDcoretop_E379	Lactuca	Lactuca-type	HERB	3	0.56710775
-EPDcoretop_E379	Achillea	Matricaria-type	HERB	6	1.1342155
-EPDcoretop_E379	Mercurialis	Mercurialis	HERB	3	0.56710775
-EPDcoretop_E379	Plantago lanceolata	Plantago lanceolata-type	HERB	4	0.75614367
-EPDcoretop_E379	Gramineae	Poaceae	HERB	73	13.799622
-EPDcoretop_E379	Ranunculaceae undiff.	Ranunculaceae	HERB	12	2.268431
-EPDcoretop_E379	Galium	Rubiaceae	HERB	1	0.18903592
-EPDcoretop_E379	Rumex	Rumex/Oxyria	HERB	5	0.94517958
-EPDcoretop_E379	Sanguisorba minor	Sanguisorba minor-type	HERB	2	0.37807183
-EPDcoretop_E379	Urticaceae	Urticaceae	HERB	7	1.3232514
-EPDcoretop_E379	Monolete spore(s)	Monolete fern spores	VACR	4	0.75614367
-EPDcoretop_E379	Sphagnum	Sphagnum	BRYO	5	0.94517958
-EPDcoretop_E379	Trilete spore(s)	Trilete spore(s)	VACR	5	0.94517958
-EPDcoretop_E379	Cyperaceae	Cyperaceae	AQUA	12	2.268431
-EPDcoretop_E379	Myriophyllum	Myriophyllum	AQUA	12	2.268431
-EPDcoretop_E379	Potamogeton	Potamogeton-type	AQUA	3	0.56710775
-EPDcoretop_E379	Indeterminable: unknown	Indeterminable: unknown	INUN	8	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+EPDcoretop_E379	2	1	2	Acer	Acer campestre-type	TRSH
+EPDcoretop_E379	2504	6	3	Achillea	Matricaria-type	HERB
+EPDcoretop_E379	5	14	5	Alnus	Alnus	TRSH
+EPDcoretop_E379	7	4	7	Artemisia	Artemisia	HERB
+EPDcoretop_E379	12	42	12	Betula	Betula	TRSH
+EPDcoretop_E379	188	2	188	Buxus	Buxus	TRSH
+EPDcoretop_E379	3646	1	3645	Calluna vulgaris	Calluna vulgaris	DWAR
+EPDcoretop_E379	16	11	16	Carpinus	Carpinus betulus	TRSH
+EPDcoretop_E379	441	40	19	Castanea	Castanea sativa	TRSH
+EPDcoretop_E379	1065	13	22	Cerealia-type	Cerealia-type	HERB
+EPDcoretop_E379	24	2	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+EPDcoretop_E379	201	47	31	Corylus	Corylus	TRSH
+EPDcoretop_E379	482	3	13	Cruciferae	Brassicaceae	HERB
+EPDcoretop_E379	3868	12	3868	Cyperaceae	Cyperaceae	AQUA
+EPDcoretop_E379	192	6	42	Fagus	Fagus	TRSH
+EPDcoretop_E379	190	12	190	Fraxinus	Fraxinus	TRSH
+EPDcoretop_E379	1475	1	93	Galium	Rubiaceae	HERB
+EPDcoretop_E379	1601	73	80	Gramineae	Poaceae	HERB
+EPDcoretop_E379	4078	8	177	Indeterminable: unknown	Indeterminable: unknown	INUN
+EPDcoretop_E379	57	4	57	Juglans	Juglans	TRSH
+EPDcoretop_E379	2335	3	2205	Lactuca	Lactuca-type	HERB
+EPDcoretop_E379	227	3	227	Mercurialis	Mercurialis	HERB
+EPDcoretop_E379	4197	4	146	Monolete spore(s)	Monolete fern spores	VACR
+EPDcoretop_E379	504	12	504	Myriophyllum	Myriophyllum	AQUA
+EPDcoretop_E379	126	8	126	Picea	Picea	TRSH
+EPDcoretop_E379	75	121	75	Pinus	Pinus	TRSH
+EPDcoretop_E379	60	4	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+EPDcoretop_E379	657	3	108	Potamogeton	Potamogeton-type	AQUA
+EPDcoretop_E379	579	3	85	Quercus ilex	Quercus ilex-type	TRSH
+EPDcoretop_E379	152	35	86	Quercus robur-type	Quercus robur-type	TRSH
+EPDcoretop_E379	99	5	99	Salix	Salix	TRSH
+EPDcoretop_E379	101	2	101	Sanguisorba minor	Sanguisorba minor-type	HERB
+EPDcoretop_E379	144	5	144	Sphagnum	Sphagnum	BRYO
+EPDcoretop_E379	187	1	187	Tilia	Tilia	TRSH
+EPDcoretop_E379	4684	5	279	Trilete spore(s)	Trilete spore(s)	VACR
+EPDcoretop_E379	154	3	154	Ulmus	Ulmus/Zelkova	TRSH
+EPDcoretop_E379	590	1	6	Umbelliferae	Apiaceae	HERB
+EPDcoretop_E379	809	7	809	Urticaceae	Urticaceae	HERB
+EPDcoretop_E379	45	1	45	Filipendula	Filipendula	HERB
+EPDcoretop_E379	81	19	81	Populus	Populus	TRSH
+EPDcoretop_E379	727	5	94	Rumex	Rumex/Oxyria	HERB
+EPDcoretop_E379	1180	12	135	Ranunculaceae undiff.	Ranunculaceae	HERB

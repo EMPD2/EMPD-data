@@ -1,15 +1,15 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Pardoe_c182	Alnus	Alnus	TRSH	5	0.9765625
-Pardoe_c182	Betula	Betula	TRSH	71	13.867188
-Pardoe_c182	Corylus	Corylus	TRSH	5	0.9765625
-Pardoe_c182	Empetrum	Empetrum nigrum	DWAR	1	0.1953125
-Pardoe_c182	Picea	Picea	TRSH	11	2.1484375
-Pardoe_c182	Pinus	Pinus	TRSH	175	34.179688
-Pardoe_c182	Salix	Salix	TRSH	184	35.9375
-Pardoe_c182	Vaccinium	Vaccinium	DWAR	1	0.1953125
-Pardoe_c182	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.1953125
-Pardoe_c182	Cyperaceae	Cyperaceae	HERB	6	1.171875
-Pardoe_c182	Plantago	Plantago	HERB	1	0.1953125
-Pardoe_c182	Poaceae	Poaceae	HERB	15	2.9296875
-Pardoe_c182	Ranunuculaceae	Ranunculaceae	HERB	35	6.8359375
-Pardoe_c182	Trientalis europaea	Trientalis europaea	HERB	1	0.1953125
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Pardoe_c182	12	71	12	Betula	Betula	TRSH
+Pardoe_c182	75	175	75	Pinus	Pinus	TRSH
+Pardoe_c182	201	5	31	Corylus	Corylus	TRSH
+Pardoe_c182	99	184	99	Salix	Salix	TRSH
+Pardoe_c182	33	6	33	Cyperaceae	Cyperaceae	HERB
+Pardoe_c182	540	1	540	Vaccinium	Vaccinium	TRSH
+Pardoe_c182	24	1	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Pardoe_c182	742	35	135	Ranunuculaceae	Ranunculaceae	HERB
+Pardoe_c182	724	1	270	Plantago	Plantago	HERB
+Pardoe_c182	5	5	5	Alnus	Alnus	TRSH
+Pardoe_c182	80	15	80	Poaceae	Poaceae	HERB
+Pardoe_c182	126	11	126	Picea	Picea	TRSH
+Pardoe_c182	739	1	739	Empetrum	Empetrum nigrum	DWAR
+Pardoe_c182	749	1	749	Trientalis europaea	Trientalis europaea	HERB

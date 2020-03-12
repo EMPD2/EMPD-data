@@ -1,35 +1,35 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-EPDcoretop_E1026	Alnus	Alnus	TRSH	21	5.2238806
-EPDcoretop_E1026	Betula	Betula	TRSH	11	2.7363184
-EPDcoretop_E1026	Carpinus	Carpinus betulus	TRSH	34	8.4577114
-EPDcoretop_E1026	Castanea	Castanea sativa	TRSH	1	0.24875622
-EPDcoretop_E1026	Corylus	Corylus	TRSH	22	5.4726368
-EPDcoretop_E1026	Fagus	Fagus	TRSH	34	8.4577114
-EPDcoretop_E1026	Fraxinus	Fraxinus	TRSH	7	1.7412935
-EPDcoretop_E1026	Juglans regia	Juglans regia	TRSH	3	0.74626866
-EPDcoretop_E1026	Picea	Picea	TRSH	30	7.4626866
-EPDcoretop_E1026	Pinus	Pinus	TRSH	108	26.865672
-EPDcoretop_E1026	Populus	Populus	TRSH	1	0.24875622
-EPDcoretop_E1026	Quercus	Quercus	TRSH	20	4.9751244
-EPDcoretop_E1026	Tilia	Tilia	TRSH	3	0.74626866
-EPDcoretop_E1026	Ulmus	Ulmus/Zelkova	TRSH	1	0.24875622
-EPDcoretop_E1026	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	1	0.24875622
-EPDcoretop_E1026	Brassicaceae	Brassicaceae	HERB	3	0.74626866
-EPDcoretop_E1026	Caltha-type	Caltha-type	HERB	1	0.24875622
-EPDcoretop_E1026	Centaurea cyanus	Centaurea cyanus-type	HERB	1	0.24875622
-EPDcoretop_E1026	Cerealia	Cerealia-type	HERB	13	3.2338308
-EPDcoretop_E1026	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.24875622
-EPDcoretop_E1026	Filipendula	Filipendula	HERB	1	0.24875622
-EPDcoretop_E1026	Plantago lanceolata	Plantago lanceolata-type	HERB	15	3.7313433
-EPDcoretop_E1026	Plantago major/P. media	Plantago major/P. media-type	HERB	2	0.49751244
-EPDcoretop_E1026	Poaceae	Poaceae	HERB	61	15.174129
-EPDcoretop_E1026	Polygonum aviculare	Polygonum aviculare-type	HERB	1	0.24875622
-EPDcoretop_E1026	Rumex	Rumex/Oxyria	HERB	2	0.49751244
-EPDcoretop_E1026	Dryopteris-type	Dryopteris-type	VACR	3	0.74626866
-EPDcoretop_E1026	Sphagnum	Sphagnum	BRYO	1	0.24875622
-EPDcoretop_E1026	Cyperaceae	Cyperaceae	AQUA	18	4.4776119
-EPDcoretop_E1026	Utricularia	Utricularia	AQUA	1	0.24875622
-EPDcoretop_E1026	Fabaceae	Fabaceae	INUN	2	
-EPDcoretop_E1026	Indeterminable: unknown	Indeterminable: unknown	INUN	20	
-EPDcoretop_E1026	Varia	Indeterminable: unknown	INUN	2	
-EPDcoretop_E1026	Lycopodium (counted)	Lycopodium (counted)	NOPO	54	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+EPDcoretop_E1026	5	21	5	Alnus	Alnus	TRSH
+EPDcoretop_E1026	12	11	12	Betula	Betula	TRSH
+EPDcoretop_E1026	16	34	16	Carpinus	Carpinus betulus	TRSH
+EPDcoretop_E1026	441	1	19	Castanea	Castanea sativa	TRSH
+EPDcoretop_E1026	22	13	22	Cerealia	Cerealia-type	HERB
+EPDcoretop_E1026	24	1	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+EPDcoretop_E1026	447	1	25	Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+EPDcoretop_E1026	201	22	31	Corylus	Corylus	TRSH
+EPDcoretop_E1026	3868	18	3868	Cyperaceae	Cyperaceae	AQUA
+EPDcoretop_E1026	1247	3	772	Dryopteris-type	Dryopteris-type	VACR
+EPDcoretop_E1026	3958	2	3958	Fabaceae	Fabaceae	INUN
+EPDcoretop_E1026	45	1	45	Filipendula	Filipendula	HERB
+EPDcoretop_E1026	190	7	190	Fraxinus	Fraxinus	TRSH
+EPDcoretop_E1026	4078	20	177	Indeterminable: unknown	Indeterminable: unknown	INUN
+EPDcoretop_E1026	559	54	559	Lycopodium (counted)	Lycopodium (counted)	NOPO
+EPDcoretop_E1026	126	30	126	Picea	Picea	TRSH
+EPDcoretop_E1026	75	108	75	Pinus	Pinus	TRSH
+EPDcoretop_E1026	60	15	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+EPDcoretop_E1026	4323	2	458	Plantago major/P. media	Plantago major/P. media-type	HERB
+EPDcoretop_E1026	80	61	80	Poaceae	Poaceae	HERB
+EPDcoretop_E1026	725	1	262	Polygonum aviculare	Polygonum aviculare-type	HERB
+EPDcoretop_E1026	81	1	81	Populus	Populus	TRSH
+EPDcoretop_E1026	189	20	189	Quercus	Quercus	TRSH
+EPDcoretop_E1026	727	2	94	Rumex	Rumex/Oxyria	HERB
+EPDcoretop_E1026	144	1	144	Sphagnum	Sphagnum	BRYO
+EPDcoretop_E1026	154	1	154	Ulmus	Ulmus/Zelkova	TRSH
+EPDcoretop_E1026	1203	1	1203	Utricularia	Utricularia	AQUA
+EPDcoretop_E1026	1098	2	177	Varia	Indeterminable: unknown	INUN
+EPDcoretop_E1026	13	3	13	Brassicaceae	Brassicaceae	HERB
+EPDcoretop_E1026	187	3	187	Tilia	Tilia	TRSH
+EPDcoretop_E1026	192	34	42	Fagus	Fagus	TRSH
+EPDcoretop_E1026	821	1	462	Centaurea cyanus	Centaurea cyanus-type	HERB
+EPDcoretop_E1026	1148	3	194	Juglans regia	Juglans regia	TRSH
+EPDcoretop_E1026	3650	1	3650	Caltha-type	Caltha-type	HERB

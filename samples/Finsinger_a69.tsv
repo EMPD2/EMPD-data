@@ -1,33 +1,33 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Finsinger_a69	Abies	Abies	TRSH	2	0.56022409
-Finsinger_a69	Acer	Acer campestre-type	TRSH	1	0.28011204
-Finsinger_a69	Alnus glutinosa-type	Alnus glutinosa-type	TRSH	5	1.4005602
-Finsinger_a69	Alnus viridis	Alnus viridis	TRSH	46	12.885154
-Finsinger_a69	BETULA	Betula	TRSH	4	1.1204482
-Finsinger_a69	Castanea sativa	Castanea sativa	TRSH	20	5.6022409
-Finsinger_a69	Cedrus	Cedrus	TRSH	1	0.28011204
-Finsinger_a69	Corylus avellana	Corylus	TRSH	23	6.442577
-Finsinger_a69	Empetrum-type	Empetrum/Ledum	DWAR	1	0.28011204
-Finsinger_a69	Fagus	Fagus	TRSH	7	1.9607843
-Finsinger_a69	Fraxinus ornus	Fraxinus ornus	TRSH	10	2.8011204
-Finsinger_a69	Juglans	Juglans	TRSH	2	0.56022409
-Finsinger_a69	Ostrya-type	Ostrya/Carpinus orientalis	TRSH	2	0.56022409
-Finsinger_a69	Picea	Picea	TRSH	60	16.806723
-Finsinger_a69	Pinus cembra	Pinus cembra-type	TRSH	6	1.6806723
-Finsinger_a69	Pinus sylvestris-type	Pinus sylvestris-type	TRSH	84	23.529412
-Finsinger_a69	Quercus rob.-pub.-type	Quercus robur-type	TRSH	9	2.5210084
-Finsinger_a69	Salix	Salix	TRSH	1	0.28011204
-Finsinger_a69	Ulmus	Ulmus/Zelkova	TRSH	1	0.28011204
-Finsinger_a69	Ambrosia-type	Ambrosia/Xanthium	HERB	1	0.28011204
-Finsinger_a69	Artemisia	Artemisia	HERB	4	1.1204482
-Finsinger_a69	Compositae Subfam. Asteroideae	Asteraceae subf. Asteroideae	HERB	1	0.28011204
-Finsinger_a69	Cirsium	Asteraceae subf. Asteroideae	HERB	2	0.56022409
-Finsinger_a69	Compositae Subfam. Cichorioideae	Asteraceae subf. Cichorioideae	HERB	1	0.28011204
-Finsinger_a69	Cruciferae	Brassicaceae	HERB	4	1.1204482
-Finsinger_a69	Sagina	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	2	0.56022409
-Finsinger_a69	Chaerophyllum hirsutum-type	Chaerophyllum hirsutum-type	HERB	1	0.28011204
-Finsinger_a69	Chenopodiaceae-type	Chenopodiaceae/Amaranthaceae	HERB	2	0.56022409
-Finsinger_a69	Humulus lupulus	Humulus lupulus	HERB	4	1.1204482
-Finsinger_a69	Plantago lanceolata-type	Plantago lanceolata-type	HERB	10	2.8011204
-Finsinger_a69	Gramineae	Poaceae	HERB	32	8.9635854
-Finsinger_a69	Polypodium vulgare-type	Polypodium	VACR	8	2.2408964
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Finsinger_a69	560	2	321	Abies	Abies	TRSH
+Finsinger_a69	2	1	2	Acer	Acer campestre-type	TRSH
+Finsinger_a69	330	4	12	BETULA	Betula	TRSH
+Finsinger_a69	561	46	129	Alnus viridis	Alnus viridis	TRSH
+Finsinger_a69	19	20	19	Castanea sativa	Castanea sativa	TRSH
+Finsinger_a69	31	23	31	Corylus avellana	Corylus	TRSH
+Finsinger_a69	192	7	42	Fagus	Fagus	TRSH
+Finsinger_a69	576	1	340	Cedrus	Cedrus	TRSH
+Finsinger_a69	2535	1	1388	Empetrum-type	Empetrum/Ledum	DWAR
+Finsinger_a69	44	10	44	Fraxinus ornus	Fraxinus ornus	TRSH
+Finsinger_a69	57	2	57	Juglans	Juglans	TRSH
+Finsinger_a69	572	2	70	Ostrya-type	Ostrya/Carpinus orientalis	TRSH
+Finsinger_a69	126	60	126	Picea	Picea	TRSH
+Finsinger_a69	573	6	124	Pinus cembra	Pinus cembra-type	TRSH
+Finsinger_a69	1226	84	125	Pinus sylvestris-type	Pinus sylvestris-type	TRSH
+Finsinger_a69	2541	9	86	Quercus rob.-pub.-type	Quercus robur-type	TRSH
+Finsinger_a69	99	1	99	Salix	Salix	TRSH
+Finsinger_a69	154	1	154	Ulmus	Ulmus/Zelkova	TRSH
+Finsinger_a69	7	4	7	Artemisia	Artemisia	HERB
+Finsinger_a69	1421	1	228	Ambrosia-type	Ambrosia/Xanthium	HERB
+Finsinger_a69	2557	1	1124	Chaerophyllum hirsutum-type	Chaerophyllum hirsutum-type	HERB
+Finsinger_a69	603	2	603	Cirsium	Cirsium	HERB
+Finsinger_a69	482	4	13	Cruciferae	Brassicaceae	HERB
+Finsinger_a69	2561	1	25	Compositae Subfam. Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Finsinger_a69	1601	32	80	Gramineae	Poaceae	HERB
+Finsinger_a69	828	4	828	Humulus lupulus	Humulus lupulus	HERB
+Finsinger_a69	1075	10	60	Plantago lanceolata-type	Plantago lanceolata-type	HERB
+Finsinger_a69	2583	2	18	Sagina	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Finsinger_a69	2596	8	214	Polypodium vulgare-type	Polypodium	VACR
+Finsinger_a69	155	5	155	Alnus glutinosa-type	Alnus glutinosa-type	TRSH
+Finsinger_a69	2558	2	24	Chenopodiaceae-type	Chenopodiaceae/Amaranthaceae	HERB
+Finsinger_a69	2560	1	160	Compositae Subfam. Asteroideae	Asteraceae subf. Asteroideae	HERB

@@ -1,46 +1,46 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Montanari_a12	ALNUS indiff.	Alnus	TRSH	2	0.21321962
-Montanari_a12	ALNUS  incana	Alnus glutinosa-type	TRSH	59	6.2899787
-Montanari_a12	ALNUS viridis	Alnus viridis	TRSH	92	9.8081023
-Montanari_a12	BETULA	Betula	TRSH	16	1.7057569
-Montanari_a12	CASTANEA	Castanea sativa	TRSH	1	0.10660981
-Montanari_a12	CORYLUS	Corylus	TRSH	3	0.31982942
-Montanari_a12	CUPRESSACEAE	Cupressaceae undiff.	TRSH	1	0.10660981
-Montanari_a12	ERICACEAE indiff.	Ericales (tetrad)	DWAR	2	0.21321962
-Montanari_a12	FRAXINUS	Fraxinus	TRSH	5	0.53304904
-Montanari_a12	LARIX	Larix/Pseudotsuga	TRSH	36	3.8379531
-Montanari_a12	PICEA	Picea	TRSH	104	11.08742
-Montanari_a12	PINUS indiff..	Pinus	TRSH	44	4.6908316
-Montanari_a12	PINUS CEMBRA	Pinus cembra-type	TRSH	40	4.2643923
-Montanari_a12	PINUS sylv.	Pinus sylvestris-type	TRSH	94	10.021322
-Montanari_a12	ROSACEAE indiff.	Rosaceae (non-operculate)	TRSH	12	1.2793177
-Montanari_a12	SALIX	Salix	TRSH	18	1.9189765
-Montanari_a12	SAMBUCUS	Sambucus	TRSH	11	1.1727079
-Montanari_a12	SORBUS	Sorbus-type	TRSH	11	1.1727079
-Montanari_a12	UMBELLIFERAE	Apiaceae	HERB	15	1.5991471
-Montanari_a12	ARTEMISIA	Artemisia	HERB	14	1.4925373
-Montanari_a12	ASTERACEAE aster.	Asteraceae subf. Asteroideae	HERB	8	0.85287846
-Montanari_a12	ASTERACEAE cichor.	Asteraceae subf. Carduoideae	HERB	2	0.21321962
-Montanari_a12	CRUCIFERAE	Brassicaceae	HERB	1	0.10660981
-Montanari_a12	CHENOPODIACEAE	Chenopodiaceae/Amaranthaceae	HERB	3	0.31982942
-Montanari_a12	CIRSIUM	Cirsium	HERB	1	0.10660981
-Montanari_a12	CYPERACEAE	Cyperaceae	HERB	1	0.10660981
-Montanari_a12	LEGUMINOSAE	Fabaceae	HERB	1	0.10660981
-Montanari_a12	cf. Filipendula	Filipendula	HERB	9	0.95948827
-Montanari_a12	LABIATAE	Lamiaceae	HERB	1	0.10660981
-Montanari_a12	PLANTAGO indet.	Plantago	HERB	5	0.53304904
-Montanari_a12	POACEAE	Poaceae	HERB	128	13.646055
-Montanari_a12	POLYGONUM bistorta	Polygonum bistorta	HERB	4	0.42643923
-Montanari_a12	RUMEX acetosa	Rumex acetosa-type	HERB	3	0.31982942
-Montanari_a12	RUMEX cf. obtusif.	Rumex crispus-type	HERB	3	0.31982942
-Montanari_a12	SEDUM	Sedum-type	HERB	14	1.4925373
-Montanari_a12	URTICACEAE	Urticaceae	HERB	26	2.771855
-Montanari_a12	BRYOPHYTA	Bryophyte spores	BRYO	88	9.3816631
-Montanari_a12	CYSTOPTERIS	Cystopteris	VACR	5	0.53304904
-Montanari_a12	DRYOPTERIS	Dryopteris-type	VACR	10	1.0660981
-Montanari_a12	FILICALES monol.	Monolete fern spores	VACR	43	4.5842217
-Montanari_a12	FILICALES tril.	Trilete spore(s)	VACR	2	0.21321962
-Montanari_a12	unidentified	Indeterminable: unknown	INUN	3	
-Montanari_a12	sample volume (Vp) (ml)	Sample volume (ml)	NOPO	10	
-Montanari_a12	examined volume (Vg) (ml)	Sample volume analysed (ml)	NOPO	0.04	
-Montanari_a12	sample weight (Pp) (grams)	Weight (g)	NOPO	2.2083	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Montanari_a12	330	16	12	BETULA	Betula	TRSH
+Montanari_a12	339	1	19	CASTANEA	Castanea sativa	TRSH
+Montanari_a12	346	3	31	CORYLUS	Corylus	TRSH
+Montanari_a12	347	1	347	CUPRESSACEAE	Cupressaceae undiff.	TRSH
+Montanari_a12	383	104	126	PICEA	Picea	TRSH
+Montanari_a12	2630	94	125	PINUS sylv.	Pinus sylvestris-type	TRSH
+Montanari_a12	2631	40	124	PINUS CEMBRA	Pinus cembra-type	TRSH
+Montanari_a12	2632	44	75	PINUS indiff..	Pinus	TRSH
+Montanari_a12	2633	36	123	LARIX	Larix/Pseudotsuga	TRSH
+Montanari_a12	359	5	190	FRAXINUS	Fraxinus	TRSH
+Montanari_a12	406	18	99	SALIX	Salix	TRSH
+Montanari_a12	2636	59	155	ALNUS  incana	Alnus glutinosa-type	TRSH
+Montanari_a12	2637	92	129	ALNUS viridis	Alnus viridis	TRSH
+Montanari_a12	2638	2	5	ALNUS indiff.	Alnus	TRSH
+Montanari_a12	2645	11	107	SORBUS	Sorbus-type	TRSH
+Montanari_a12	349	1	33	CYPERACEAE	Cyperaceae	HERB
+Montanari_a12	388	128	80	POACEAE	Poaceae	HERB
+Montanari_a12	407	11	407	SAMBUCUS	Sambucus	TRSH
+Montanari_a12	1316	15	6	UMBELLIFERAE	Apiaceae	HERB
+Montanari_a12	2651	2	130	ERICACEAE indiff.	Ericales (tetrad)	DWAR
+Montanari_a12	2653	12	490	ROSACEAE indiff.	Rosaceae (non-operculate)	TRSH
+Montanari_a12	2661	9	45	cf. Filipendula	Filipendula	HERB
+Montanari_a12	328	14	7	ARTEMISIA	Artemisia	HERB
+Montanari_a12	2666	1	603	CIRSIUM	Cirsium	HERB
+Montanari_a12	2667	26	809	URTICACEAE	Urticaceae	HERB
+Montanari_a12	2668	5	270	PLANTAGO indet.	Plantago	HERB
+Montanari_a12	2671	3	24	CHENOPODIACEAE	Chenopodiaceae/Amaranthaceae	HERB
+Montanari_a12	2672	3	95	RUMEX acetosa	Rumex acetosa-type	HERB
+Montanari_a12	2673	3	251	RUMEX cf. obtusif.	Rumex crispus-type	HERB
+Montanari_a12	2675	4	625	POLYGONUM bistorta	Polygonum bistorta	HERB
+Montanari_a12	2676	1	13	CRUCIFERAE	Brassicaceae	HERB
+Montanari_a12	2691	3	177	unidentified	Indeterminable: unknown	INUN
+Montanari_a12	2693	10	883	sample volume (Vp) (ml)	Sample volume (ml)	NOPO
+Montanari_a12	2694	0.04	2694	examined volume (Vg) (ml)	Sample volume analysed (ml)	NOPO
+Montanari_a12	2695	2.2083	2695	sample weight (Pp) (grams)	Weight (g)	NOPO
+Montanari_a12	1305	1	59	LABIATAE	Lamiaceae	HERB
+Montanari_a12	2686	2	279	FILICALES tril.	Trilete spore(s)	VACR
+Montanari_a12	2687	43	146	FILICALES monol.	Monolete fern spores	VACR
+Montanari_a12	2663	14	105	SEDUM	Sedum-type	HERB
+Montanari_a12	2664	8	160	ASTERACEAE aster.	Asteraceae subf. Asteroideae	HERB
+Montanari_a12	2665	2	336	ASTERACEAE cichor.	Asteraceae subf. Carduoideae	HERB
+Montanari_a12	2679	1	41	LEGUMINOSAE	Fabaceae	HERB
+Montanari_a12	2689	5	1789	CYSTOPTERIS	Cystopteris	VACR
+Montanari_a12	2690	10	772	DRYOPTERIS	Dryopteris-type	VACR
+Montanari_a12	2692	88	147	BRYOPHYTA	Bryophyte spores	BRYO

@@ -1,34 +1,34 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Tonkov_r4	Abies	Abies	TRSH	16	2.4169184
-Tonkov_r4	Alnus	Alnus	TRSH	20	3.021148
-Tonkov_r4	Betula	Betula	TRSH	17	2.5679758
-Tonkov_r4	Carpinus betulus	Carpinus betulus	TRSH	9	1.3595166
-Tonkov_r4	Corylus	Corylus	TRSH	14	2.1148036
-Tonkov_r4	Ericaceae	Ericales (tetrad)	DWAR	2	0.3021148
-Tonkov_r4	Fagus	Fagus	TRSH	55	8.3081571
-Tonkov_r4	Fraxinus excelsior-type	Fraxinus excelsior-type	TRSH	1	0.1510574
-Tonkov_r4	Juglans	Juglans	TRSH	3	0.45317221
-Tonkov_r4	Juniperus	Juniperus communis-type	TRSH	2	0.3021148
-Tonkov_r4	Carpinus orientalis/Ostrya	Ostrya/Carpinus orientalis	TRSH	6	0.90634441
-Tonkov_r4	Picea	Picea	TRSH	38	5.7401813
-Tonkov_r4	Pinus peuce	Pinus cembra-type	TRSH	12	1.8126888
-Tonkov_r4	Pinus diploxylon-type	Pinus sylvestris-type	TRSH	167	25.226586
-Tonkov_r4	Quercus robur-type	Quercus robur-type	TRSH	41	6.1933535
-Tonkov_r4	Salix	Salix	TRSH	1	0.1510574
-Tonkov_r4	Ulmus	Ulmus/Zelkova	TRSH	1	0.1510574
-Tonkov_r4	Anemone-type	Anemone nemorosa-type	HERB	1	0.1510574
-Tonkov_r4	Apiaceae	Apiaceae	HERB	1	0.1510574
-Tonkov_r4	Artemisia	Artemisia	HERB	10	1.510574
-Tonkov_r4	Campanulaceae	Campanulaceae	HERB	1	0.1510574
-Tonkov_r4	Cerealia-type	Cerealia-type	HERB	2	0.3021148
-Tonkov_r4	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	9	1.3595166
-Tonkov_r4	Dianthus-type	Dianthus/Petrorhagia	HERB	1	0.1510574
-Tonkov_r4	Chamenerion	Epilobium	HERB	1	0.1510574
-Tonkov_r4	Filipendula	Filipendula	HERB	3	0.45317221
-Tonkov_r4	Lamiaceae	Lamiaceae	HERB	1	0.1510574
-Tonkov_r4	Melampyrum	Melampyrum	HERB	45	6.7975831
-Tonkov_r4	Pedicularis	Pedicularis	HERB	1	0.1510574
-Tonkov_r4	Plantago lanceolata	Plantago lanceolata-type	HERB	22	3.3232628
-Tonkov_r4	Poaceae	Poaceae	HERB	155	23.413897
-Tonkov_r4	Ranunculus-type	Ranunculus-type	HERB	2	0.3021148
-Tonkov_r4	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	2	0.3021148
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Tonkov_r4	5	20	5	Alnus	Alnus	TRSH
+Tonkov_r4	7	10	7	Artemisia	Artemisia	HERB
+Tonkov_r4	12	17	12	Betula	Betula	TRSH
+Tonkov_r4	24	9	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Tonkov_r4	45	3	45	Filipendula	Filipendula	HERB
+Tonkov_r4	57	3	57	Juglans	Juglans	TRSH
+Tonkov_r4	58	2	58	Juniperus	Juniperus communis-type	TRSH
+Tonkov_r4	60	22	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+Tonkov_r4	80	155	80	Poaceae	Poaceae	HERB
+Tonkov_r4	99	1	99	Salix	Salix	TRSH
+Tonkov_r4	126	38	126	Picea	Picea	TRSH
+Tonkov_r4	130	2	130	Ericaceae	Ericales (tetrad)	DWAR
+Tonkov_r4	152	41	86	Quercus robur-type	Quercus robur-type	TRSH
+Tonkov_r4	154	1	154	Ulmus	Ulmus/Zelkova	TRSH
+Tonkov_r4	192	55	42	Fagus	Fagus	TRSH
+Tonkov_r4	201	14	31	Corylus	Corylus	TRSH
+Tonkov_r4	560	16	321	Abies	Abies	TRSH
+Tonkov_r4	563	9	16	Carpinus betulus	Carpinus betulus	TRSH
+Tonkov_r4	1035	6	70	Carpinus orientalis/Ostrya	Ostrya/Carpinus orientalis	TRSH
+Tonkov_r4	1047	1	47	Fraxinus excelsior-type	Fraxinus excelsior-type	TRSH
+Tonkov_r4	1049	167	125	Pinus diploxylon-type	Pinus sylvestris-type	TRSH
+Tonkov_r4	1065	2	22	Cerealia-type	Cerealia-type	HERB
+Tonkov_r4	1237	1	588	Anemone-type	Anemone nemorosa-type	HERB
+Tonkov_r4	2420	12	124	Pinus peuce	Pinus cembra-type	TRSH
+Tonkov_r4	6	1	6	Apiaceae	Apiaceae	HERB
+Tonkov_r4	59	1	59	Lamiaceae	Lamiaceae	HERB
+Tonkov_r4	136	1	136	Campanulaceae	Campanulaceae	HERB
+Tonkov_r4	173	2	173	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB
+Tonkov_r4	473	45	473	Melampyrum	Melampyrum	HERB
+Tonkov_r4	753	1	753	Pedicularis	Pedicularis	HERB
+Tonkov_r4	1246	1	1246	Dianthus-type	Dianthus/Petrorhagia	HERB
+Tonkov_r4	2429	2	274	Ranunculus-type	Ranunculus-type	HERB
+Tonkov_r4	2432	1	547	Chamenerion	Epilobium	HERB

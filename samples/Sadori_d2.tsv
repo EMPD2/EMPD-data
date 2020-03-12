@@ -1,28 +1,28 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Sadori_d2	Acer	Acer campestre-type	TRSH	1	0.19379845
-Sadori_d2	Carpinus betulus	Carpinus betulus	TRSH	27	5.2325581
-Sadori_d2	Castanea	Castanea sativa	TRSH	2	0.3875969
-Sadori_d2	Corylus	Corylus	TRSH	8	1.5503876
-Sadori_d2	Ephedra fragilis-type	Ephedra fragilis-type	TRSH	1	0.19379845
-Sadori_d2	Ericaceae	Ericales (tetrad)	DWAR	5	0.96899225
-Sadori_d2	Fagus	Fagus	TRSH	327	63.372093
-Sadori_d2	Fraxinus	Fraxinus	TRSH	3	0.58139535
-Sadori_d2	Juniperus	Juniperus communis-type	TRSH	20	3.875969
-Sadori_d2	Myrtaceae	Myrtaceae	TRSH	3	0.58139535
-Sadori_d2	Olea	Olea europaea	TRSH	4	0.7751938
-Sadori_d2	Ostrya	Ostrya/Carpinus orientalis	TRSH	8	1.5503876
-Sadori_d2	Pinus	Pinus	TRSH	23	4.4573643
-Sadori_d2	Quercus ilex-type	Quercus ilex-type	TRSH	5	0.96899225
-Sadori_d2	Quercus deciduous	Quercus robur-type	TRSH	34	6.5891473
-Sadori_d2	Umbelliferae	Apiaceae	HERB	1	0.19379845
-Sadori_d2	Artemisia	Artemisia	HERB	1	0.19379845
-Sadori_d2	Asteroideae	Asteraceae subf. Asteroideae	HERB	2	0.3875969
-Sadori_d2	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	1	0.19379845
-Sadori_d2	Cruciferae	Brassicaceae	HERB	8	1.5503876
-Sadori_d2	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	3	0.58139535
-Sadori_d2	Gramineae	Poaceae	HERB	20	3.875969
-Sadori_d2	Rumex	Rumex/Oxyria	HERB	4	0.7751938
-Sadori_d2	Urticaceae	Urticaceae	HERB	3	0.58139535
-Sadori_d2	Monolete fern spores	Monolete fern spores	VACR	2	0.3875969
-Sadori_d2	Lycopodium (added)	Lycopodium (added)	NOPO	54000	
-Sadori_d2	Lycopodium (counted)	Lycopodium (counted)	NOPO	183	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Sadori_d2	2	1	2	Acer	Acer campestre-type	TRSH
+Sadori_d2	7	1	7	Artemisia	Artemisia	HERB
+Sadori_d2	761	2	160	Asteroideae	Asteraceae subf. Asteroideae	HERB
+Sadori_d2	563	27	16	Carpinus betulus	Carpinus betulus	TRSH
+Sadori_d2	441	2	19	Castanea	Castanea sativa	TRSH
+Sadori_d2	447	1	25	Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Sadori_d2	201	8	31	Corylus	Corylus	TRSH
+Sadori_d2	482	8	13	Cruciferae	Brassicaceae	HERB
+Sadori_d2	2424	1	36	Ephedra fragilis-type	Ephedra fragilis-type	TRSH
+Sadori_d2	130	5	130	Ericaceae	Ericales (tetrad)	DWAR
+Sadori_d2	192	327	42	Fagus	Fagus	TRSH
+Sadori_d2	190	3	190	Fraxinus	Fraxinus	TRSH
+Sadori_d2	1601	20	80	Gramineae	Poaceae	HERB
+Sadori_d2	58	20	58	Juniperus	Juniperus communis-type	TRSH
+Sadori_d2	692	54000	692	Lycopodium (added)	Lycopodium (added)	NOPO
+Sadori_d2	559	183	559	Lycopodium (counted)	Lycopodium (counted)	NOPO
+Sadori_d2	4193	2	146	Monolete fern spores	Monolete fern spores	VACR
+Sadori_d2	442	4	68	Olea	Olea europaea	TRSH
+Sadori_d2	571	8	70	Ostrya	Ostrya/Carpinus orientalis	TRSH
+Sadori_d2	75	23	75	Pinus	Pinus	TRSH
+Sadori_d2	437	34	86	Quercus deciduous	Quercus robur-type	TRSH
+Sadori_d2	1052	5	85	Quercus ilex-type	Quercus ilex-type	TRSH
+Sadori_d2	727	4	94	Rumex	Rumex/Oxyria	HERB
+Sadori_d2	590	1	6	Umbelliferae	Apiaceae	HERB
+Sadori_d2	809	3	809	Urticaceae	Urticaceae	HERB
+Sadori_d2	24	3	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Sadori_d2	3313	3	377	Myrtaceae	Myrtaceae	TRSH

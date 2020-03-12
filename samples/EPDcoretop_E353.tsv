@@ -1,36 +1,36 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-EPDcoretop_E353	Abies	Abies	TRSH	4	0.53262317
-EPDcoretop_E353	Alnus	Alnus	TRSH	6	0.79893475
-EPDcoretop_E353	Betula	Betula	TRSH	5	0.66577896
-EPDcoretop_E353	Carpinus betulus	Carpinus betulus	TRSH	2	0.26631158
-EPDcoretop_E353	Corylus	Corylus	TRSH	14	1.8641811
-EPDcoretop_E353	Fagus	Fagus	TRSH	19	2.5299601
-EPDcoretop_E353	Juglans	Juglans	TRSH	1	0.13315579
-EPDcoretop_E353	Carpinus orientalis/Ostrya	Ostrya/Carpinus orientalis	TRSH	16	2.1304927
-EPDcoretop_E353	Picea	Picea	TRSH	3	0.39946738
-EPDcoretop_E353	Pinus diploxylon	Pinus sylvestris-type	TRSH	482	64.181092
-EPDcoretop_E353	Quercus	Quercus	TRSH	10	1.3315579
-EPDcoretop_E353	Rosaceae	Rosaceae	TRSH	5	0.66577896
-EPDcoretop_E353	Salix	Salix	TRSH	1	0.13315579
-EPDcoretop_E353	Vitis	Vitis	LIAN	1	0.13315579
-EPDcoretop_E353	Umbelliferae	Apiaceae	HERB	1	0.13315579
-EPDcoretop_E353	Artemisia	Artemisia	HERB	5	0.66577896
-EPDcoretop_E353	Compositae subf. Asteroideae	Asteraceae subf. Asteroideae	HERB	3	0.39946738
-EPDcoretop_E353	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB	2	0.26631158
-EPDcoretop_E353	Cruciferae	Brassicaceae	HERB	1	0.13315579
-EPDcoretop_E353	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	4	0.53262317
-EPDcoretop_E353	Gentiana	Gentiana	HERB	1	0.13315579
-EPDcoretop_E353	Geum-type	Geum-type	HERB	2	0.26631158
-EPDcoretop_E353	Hordeum-type	Hordeum-type	HERB	3	0.39946738
-EPDcoretop_E353	Hypericum	Hypericum	HERB	1	0.13315579
-EPDcoretop_E353	Leguminosae	Leguminosae	HERB	1	0.13315579
-EPDcoretop_E353	Plantago lanceolata	Plantago lanceolata-type	HERB	7	0.93209055
-EPDcoretop_E353	Gramineae	Poaceae	HERB	121	16.111851
-EPDcoretop_E353	Polygonum aviculare	Polygonum aviculare-type	HERB	2	0.26631158
-EPDcoretop_E353	Ranunculaceae	Ranunculaceae	HERB	10	1.3315579
-EPDcoretop_E353	Galium	Rubiaceae	HERB	13	1.7310253
-EPDcoretop_E353	Rumex	Rumex/Oxyria	HERB	3	0.39946738
-EPDcoretop_E353	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	1	0.13315579
-EPDcoretop_E353	Adiantum	Adiantum capillus-veneris	VACR	1	0.13315579
-EPDcoretop_E353	Cyperaceae	Cyperaceae	AQUA	18	2.3968043
-EPDcoretop_E353	Lemna	Lemna	AQUA	7	0.93209055
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+EPDcoretop_E353	560	4	321	Abies	Abies	TRSH
+EPDcoretop_E353	1697	1	1697	Adiantum	Adiantum capillus-veneris	VACR
+EPDcoretop_E353	5	6	5	Alnus	Alnus	TRSH
+EPDcoretop_E353	12	5	12	Betula	Betula	TRSH
+EPDcoretop_E353	563	2	16	Carpinus betulus	Carpinus betulus	TRSH
+EPDcoretop_E353	1035	16	70	Carpinus orientalis/Ostrya	Ostrya/Carpinus orientalis	TRSH
+EPDcoretop_E353	24	4	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+EPDcoretop_E353	3824	2	25	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+EPDcoretop_E353	201	14	31	Corylus	Corylus	TRSH
+EPDcoretop_E353	482	1	13	Cruciferae	Brassicaceae	HERB
+EPDcoretop_E353	3868	18	3868	Cyperaceae	Cyperaceae	AQUA
+EPDcoretop_E353	192	19	42	Fagus	Fagus	TRSH
+EPDcoretop_E353	1475	13	93	Galium	Rubiaceae	HERB
+EPDcoretop_E353	1219	2	649	Geum-type	Geum-type	HERB
+EPDcoretop_E353	1601	121	80	Gramineae	Poaceae	HERB
+EPDcoretop_E353	949	3	258	Hordeum-type	Hordeum-type	HERB
+EPDcoretop_E353	57	1	57	Juglans	Juglans	TRSH
+EPDcoretop_E353	744	1	744	Leguminosae	Leguminosae	HERB
+EPDcoretop_E353	264	7	264	Lemna	Lemna	AQUA
+EPDcoretop_E353	126	3	126	Picea	Picea	TRSH
+EPDcoretop_E353	785	482	125	Pinus diploxylon	Pinus sylvestris-type	TRSH
+EPDcoretop_E353	60	7	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+EPDcoretop_E353	725	2	262	Polygonum aviculare	Polygonum aviculare-type	HERB
+EPDcoretop_E353	189	10	189	Quercus	Quercus	TRSH
+EPDcoretop_E353	135	10	135	Ranunculaceae	Ranunculaceae	HERB
+EPDcoretop_E353	92	5	92	Rosaceae	Rosaceae	TRSH
+EPDcoretop_E353	727	3	94	Rumex	Rumex/Oxyria	HERB
+EPDcoretop_E353	99	1	99	Salix	Salix	TRSH
+EPDcoretop_E353	173	1	173	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB
+EPDcoretop_E353	590	1	6	Umbelliferae	Apiaceae	HERB
+EPDcoretop_E353	7	5	7	Artemisia	Artemisia	HERB
+EPDcoretop_E353	54	1	54	Hypericum	Hypericum	HERB
+EPDcoretop_E353	606	1	606	Gentiana	Gentiana	HERB
+EPDcoretop_E353	3822	3	160	Compositae subf. Asteroideae	Asteraceae subf. Asteroideae	HERB
+EPDcoretop_E353	4756	1	4756	Vitis	Vitis	LIAN

@@ -1,42 +1,42 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Ejarque_a27	Betula	Betula	TRSH	116	15.654521
-Ejarque_a27	Buxus	Buxus	TRSH	7	0.94466937
-Ejarque_a27	Castanea	Castanea sativa	TRSH	5	0.67476383
-Ejarque_a27	Corylus	Corylus	TRSH	50	6.7476383
-Ejarque_a27	Ericaceae	Ericales (tetrad)	DWAR	1	0.13495277
-Ejarque_a27	Fagus	Fagus	TRSH	3	0.4048583
-Ejarque_a27	Fraxinus	Fraxinus	TRSH	8	1.0796221
-Ejarque_a27	Genista/Ulex	Genista-type	TRSH	1	0.13495277
-Ejarque_a27	Juniperus	Juniperus communis-type	TRSH	2	0.26990553
-Ejarque_a27	Olea europaea	Olea europaea	TRSH	7	0.94466937
-Ejarque_a27	Pinus	Pinus	TRSH	432	58.299595
-Ejarque_a27	Pistacia	Pistacia	TRSH	6	0.8097166
-Ejarque_a27	Quercus ilex-type	Quercus ilex-type	TRSH	4	0.53981107
-Ejarque_a27	Quercus deciduous	Quercus robur-type	TRSH	40	5.3981107
-Ejarque_a27	Rhododendron ferrugineum	Rhododendron	DWAR	1	0.13495277
-Ejarque_a27	Rosaceae	Rosaceae	TRSH	1	0.13495277
-Ejarque_a27	Tilia	Tilia	TRSH	3	0.4048583
-Ejarque_a27	Ulmus	Ulmus/Zelkova	TRSH	3	0.4048583
-Ejarque_a27	Apiaceae	Apiaceae	HERB	4	0.53981107
-Ejarque_a27	Artemisia	Artemisia	HERB	5	0.67476383
-Ejarque_a27	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	1	0.13495277
-Ejarque_a27	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	1	0.13495277
-Ejarque_a27	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	2	0.26990553
-Ejarque_a27	Filipendula-type	Filipendula	HERB	1	0.13495277
-Ejarque_a27	Lotus-type	Lotus-type	HERB	2	0.26990553
-Ejarque_a27	Mentha-type	Mentha-type	HERB	1	0.13495277
-Ejarque_a27	Plantago	Plantago	HERB	1	0.13495277
-Ejarque_a27	Plantago lanceolata-type	Plantago lanceolata-type	HERB	2	0.26990553
-Ejarque_a27	Poaceae	Poaceae	HERB	11	1.4844804
-Ejarque_a27	Ranunculus-type	Ranunculus-type	HERB	2	0.26990553
-Ejarque_a27	Saxifragaceae	Saxifragaceae	HERB	1	0.13495277
-Ejarque_a27	Spergularia	Spergularia-type	HERB	2	0.26990553
-Ejarque_a27	Botrychium	Botrychium	VACR	1	0.13495277
-Ejarque_a27	Lycopodium	Lycopodium	VACR	12	1.6194332
-Ejarque_a27	Monolete spore(s)	Monolete fern spores	VACR	1	0.13495277
-Ejarque_a27	Trilete spores	Trilete spore(s)	VACR	1	0.13495277
-Ejarque_a27	Cyperaceae	Cyperaceae	AQUA	1	0.13495277
-Ejarque_a27	Varia	Indeterminable: unknown	INUN	14	
-Ejarque_a27	Lycopodium (grains/tablet)	Lycopodium (spores/tablet)	NOPO	13100	
-Ejarque_a27	Lycopodium tablets (number)	Lycopodium tablets (number)	NOPO	10	
-Ejarque_a27	Sample dry mass (g)	Sample dry mass (g)	NOPO	8	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Ejarque_a27	6	4	6	Apiaceae	Apiaceae	HERB
+Ejarque_a27	7	5	7	Artemisia	Artemisia	HERB
+Ejarque_a27	12	116	12	Betula	Betula	TRSH
+Ejarque_a27	962	1	962	Botrychium	Botrychium	VACR
+Ejarque_a27	441	5	19	Castanea	Castanea sativa	TRSH
+Ejarque_a27	24	2	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Ejarque_a27	447	1	25	Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Ejarque_a27	201	50	31	Corylus	Corylus	TRSH
+Ejarque_a27	3868	1	3868	Cyperaceae	Cyperaceae	AQUA
+Ejarque_a27	130	1	130	Ericaceae	Ericales (tetrad)	DWAR
+Ejarque_a27	3975	1	45	Filipendula-type	Filipendula	HERB
+Ejarque_a27	190	8	190	Fraxinus	Fraxinus	TRSH
+Ejarque_a27	3995	1	49	Genista/Ulex	Genista-type	TRSH
+Ejarque_a27	58	2	58	Juniperus	Juniperus communis-type	TRSH
+Ejarque_a27	611	2	611	Lotus-type	Lotus-type	HERB
+Ejarque_a27	143	12	143	Lycopodium	Lycopodium	VACR
+Ejarque_a27	2111	13100	1293	Lycopodium (grains/tablet)	Lycopodium (spores/tablet)	NOPO
+Ejarque_a27	4163	10	1295	Lycopodium tablets (number)	Lycopodium tablets (number)	NOPO
+Ejarque_a27	1073	1	65	Mentha-type	Mentha-type	HERB
+Ejarque_a27	4197	1	146	Monolete spore(s)	Monolete fern spores	VACR
+Ejarque_a27	75	432	75	Pinus	Pinus	TRSH
+Ejarque_a27	724	1	270	Plantago	Plantago	HERB
+Ejarque_a27	80	11	80	Poaceae	Poaceae	HERB
+Ejarque_a27	437	40	86	Quercus deciduous	Quercus robur-type	TRSH
+Ejarque_a27	4474	1	4474	Rhododendron ferrugineum	Rhododendron	DWAR
+Ejarque_a27	92	1	92	Rosaceae	Rosaceae	TRSH
+Ejarque_a27	4539	8	4539	Sample dry mass (g)	Sample dry mass (g)	NOPO
+Ejarque_a27	639	1	639	Saxifragaceae	Saxifragaceae	HERB
+Ejarque_a27	1418	2	109	Spergularia	Spergularia-type	HERB
+Ejarque_a27	187	3	187	Tilia	Tilia	TRSH
+Ejarque_a27	416	1	279	Trilete spores	Trilete spore(s)	VACR
+Ejarque_a27	154	3	154	Ulmus	Ulmus/Zelkova	TRSH
+Ejarque_a27	1098	14	177	Varia	Indeterminable: unknown	INUN
+Ejarque_a27	18	1	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Ejarque_a27	68	7	68	Olea europaea	Olea europaea	TRSH
+Ejarque_a27	77	6	77	Pistacia	Pistacia	TRSH
+Ejarque_a27	188	7	188	Buxus	Buxus	TRSH
+Ejarque_a27	192	3	42	Fagus	Fagus	TRSH
+Ejarque_a27	1052	4	85	Quercus ilex-type	Quercus ilex-type	TRSH
+Ejarque_a27	1075	2	60	Plantago lanceolata-type	Plantago lanceolata-type	HERB
+Ejarque_a27	2429	2	274	Ranunculus-type	Ranunculus-type	HERB

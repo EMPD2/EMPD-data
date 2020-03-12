@@ -1,40 +1,40 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Bakker_b46	Abies cilicica	Abies	TRSH	3	0.25773196
-Bakker_b46	Betula	Betula	TRSH	1	0.085910653
-Bakker_b46	Carpinus betulus	Carpinus betulus	TRSH	1	0.085910653
-Bakker_b46	Cedrus libani	Cedrus	TRSH	6	0.51546392
-Bakker_b46	Corylus	Corylus	TRSH	1	0.085910653
-Bakker_b46	Juglans regia	Juglans regia	TRSH	7	0.60137457
-Bakker_b46	Juniperus	Juniperus communis-type	TRSH	3	0.25773196
-Bakker_b46	Olea europaea	Olea europaea	TRSH	4	0.34364261
-Bakker_b46	Ostrya-type	Ostrya/Carpinus orientalis	TRSH	1	0.085910653
-Bakker_b46	Pinus	Pinus	TRSH	446	38.316151
-Bakker_b46	Quercus cerris-type	Quercus cerris-type	TRSH	8	0.68728522
-Bakker_b46	Quercus coccifera-type	Quercus ilex-type	TRSH	48	4.1237113
-Bakker_b46	Rosa-type	Rosa	TRSH	2	0.17182131
-Bakker_b46	Salix	Salix	TRSH	3	0.25773196
-Bakker_b46	Lonicera	Lonicera	LIAN	1	0.085910653
-Bakker_b46	Adonis	Adonis	HERB	1	0.085910653
-Bakker_b46	Torilis-type	Apiaceae	HERB	2	0.17182131
-Bakker_b46	Artemisia herba-alba-type	Artemisia	HERB	406	34.879725
-Bakker_b46	Aster-type	Aster-type	HERB	2	0.17182131
-Bakker_b46	Lactuceae	Asteraceae subf. Cichorioideae	HERB	10	0.85910653
-Bakker_b46	Capsella-type	Brassicaceae	HERB	1	0.085910653
-Bakker_b46	Brassica	Brassicaceae	HERB	3	0.25773196
-Bakker_b46	Carduus-type	Carduus-type	HERB	2	0.17182131
-Bakker_b46	Centaurea solstitialis-type	Centaurea nigra-type	HERB	8	0.68728522
-Bakker_b46	Cerealia-type	Cerealia-type	HERB	51	4.3814433
-Bakker_b46	Chenopodiaceae undiff.	Chenopodiaceae/Amaranthaceae	HERB	6	0.51546392
-Bakker_b46	Lotus	Lotus-type	HERB	1	0.085910653
-Bakker_b46	Anthemis-type	Matricaria-type	HERB	2	0.17182131
-Bakker_b46	Plantago lanceolata	Plantago lanceolata-type	HERB	3	0.25773196
-Bakker_b46	Poaceae	Poaceae	HERB	82	7.0446735
-Bakker_b46	Polygonum cognatum-type	Polygonum cognatum	HERB	1	0.085910653
-Bakker_b46	Galium-type	Rubiaceae	HERB	22	1.8900344
-Bakker_b46	Sanguisorba minor	Sanguisorba minor-type	HERB	1	0.085910653
-Bakker_b46	Scabiosa-type	Scabiosa	HERB	1	0.085910653
-Bakker_b46	Scandix	Scandix pecten-veneris/Caucalis platycarpos	HERB	1	0.085910653
-Bakker_b46	Scrophularia/Verbascum-type	Scrophularia-type	HERB	2	0.17182131
-Bakker_b46	Silene-type	Silene-type	HERB	16	1.3745704
-Bakker_b46	Spergula-type	Spergularia-type	HERB	1	0.085910653
-Bakker_b46	Valerianella	Valerianella	HERB	4	0.34364261
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Bakker_b46	3488	3	321	Abies cilicica	Abies	TRSH
+Bakker_b46	589	2	3	Anthemis-type	Matricaria-type	HERB
+Bakker_b46	3572	406	7	Artemisia herba-alba-type	Artemisia	HERB
+Bakker_b46	597	2	11	Aster-type	Aster-type	HERB
+Bakker_b46	12	1	12	Betula	Betula	TRSH
+Bakker_b46	1649	3	13	Brassica	Brassicaceae	HERB
+Bakker_b46	3658	1	13	Capsella-type	Brassicaceae	HERB
+Bakker_b46	1381	2	1381	Carduus-type	Carduus-type	HERB
+Bakker_b46	563	1	16	Carpinus betulus	Carpinus betulus	TRSH
+Bakker_b46	3676	6	340	Cedrus libani	Cedrus	TRSH
+Bakker_b46	3681	8	29	Centaurea solstitialis-type	Centaurea nigra-type	HERB
+Bakker_b46	1065	51	22	Cerealia-type	Cerealia-type	HERB
+Bakker_b46	1810	6	24	Chenopodiaceae undiff.	Chenopodiaceae/Amaranthaceae	HERB
+Bakker_b46	201	1	31	Corylus	Corylus	TRSH
+Bakker_b46	605	22	93	Galium-type	Rubiaceae	HERB
+Bakker_b46	1148	7	194	Juglans regia	Juglans regia	TRSH
+Bakker_b46	58	3	58	Juniperus	Juniperus communis-type	TRSH
+Bakker_b46	741	10	25	Lactuceae	Asteraceae subf. Cichorioideae	HERB
+Bakker_b46	1152	1	611	Lotus	Lotus-type	HERB
+Bakker_b46	68	4	68	Olea europaea	Olea europaea	TRSH
+Bakker_b46	572	1	70	Ostrya-type	Ostrya/Carpinus orientalis	TRSH
+Bakker_b46	75	446	75	Pinus	Pinus	TRSH
+Bakker_b46	60	3	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+Bakker_b46	80	82	80	Poaceae	Poaceae	HERB
+Bakker_b46	4367	1	2929	Polygonum cognatum-type	Polygonum cognatum	HERB
+Bakker_b46	1051	8	84	Quercus cerris-type	Quercus cerris-type	TRSH
+Bakker_b46	99	3	99	Salix	Salix	TRSH
+Bakker_b46	101	1	101	Sanguisorba minor	Sanguisorba minor-type	HERB
+Bakker_b46	4563	1	102	Scabiosa-type	Scabiosa	HERB
+Bakker_b46	4565	1	4565	Scandix	Scandix pecten-veneris/Caucalis platycarpos	HERB
+Bakker_b46	4580	2	103	Scrophularia/Verbascum-type	Scrophularia-type	HERB
+Bakker_b46	1779	16	132	Silene-type	Silene-type	HERB
+Bakker_b46	4617	1	109	Spergula-type	Spergularia-type	HERB
+Bakker_b46	4672	2	6	Torilis-type	Apiaceae	HERB
+Bakker_b46	1414	2	632	Rosa-type	Rosa	TRSH
+Bakker_b46	2402	4	2165	Valerianella	Valerianella	HERB
+Bakker_b46	3505	1	3505	Adonis	Adonis	HERB
+Bakker_b46	4150	1	4150	Lonicera	Lonicera	LIAN
+Bakker_b46	4428	48	85	Quercus coccifera-type	Quercus ilex-type	TRSH

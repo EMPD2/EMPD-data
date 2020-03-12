@@ -1,54 +1,54 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-MunozSobrino_a30	Alnus	Alnus	TRSH	36	18.848168
-MunozSobrino_a30	Castanea-type	Castanea sativa	TRSH	4	2.0942408
-MunozSobrino_a30	Corylus	Corylus	TRSH	2	1.0471204
-MunozSobrino_a30	Erica	Erica	DWAR	7	3.6649215
-MunozSobrino_a30	Ulex-type	Genista-type	TRSH	1	0.52356021
-MunozSobrino_a30	Juniperus/Cupressaceae	Juniperus-type	TRSH	1	0.52356021
-MunozSobrino_a30	Pinus	Pinus	TRSH	43	22.513089
-MunozSobrino_a30	Quercus robur-type	Quercus robur-type	TRSH	5	2.617801
-MunozSobrino_a30	Salix	Salix	TRSH	2	1.0471204
-MunozSobrino_a30	Umbelliferae	Apiaceae	HERB	4	2.0942408
-MunozSobrino_a30	Asteraceae	Asteraceae	HERB	22	11.518325
-MunozSobrino_a30	Brassicaceae	Brassicaceae	HERB	1	0.52356021
-MunozSobrino_a30	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	3	1.5706806
-MunozSobrino_a30	Cyperaceae	Cyperaceae	HERB	12	6.2827225
-MunozSobrino_a30	Helianthemum	Helianthemum	HERB	1	0.52356021
-MunozSobrino_a30	Plantago maritima-type	Plantago maritima-type	HERB	1	0.52356021
-MunozSobrino_a30	Poaceae	Poaceae	HERB	26	13.612565
-MunozSobrino_a30	Polygonaceae	Polygonaceae	HERB	2	1.0471204
-MunozSobrino_a30	Ranunculus-type	Ranunculus-type	HERB	1	0.52356021
-MunozSobrino_a30	Urtica	Urtica	HERB	1	0.52356021
-MunozSobrino_a30	Monolete	Monolete fern spores	VACR	10	5.2356021
-MunozSobrino_a30	Osmunda regalis	Osmunda regalis	VACR	1	0.52356021
-MunozSobrino_a30	Polypodium sporangia	Polypodium	VACR	1	0.52356021
-MunozSobrino_a30	Pteridium aquilinum	Pteridium aquilinum	VACR	3	1.5706806
-MunozSobrino_a30	Trilete	Trilete spore(s)	VACR	1	0.52356021
-MunozSobrino_a30	Botryococcus	Botryococcus cf. B. terribilis	ALGA	15	7.8534031
-MunozSobrino_a30	Chlorococcales	Chlorococcales	ALGA	116	60.732984
-MunozSobrino_a30	Non-septate filamentous algae undet.	Non-septate filamentous algae undet.	ALGA	39	20.418848
-MunozSobrino_a30	Pediastrum	Pediastrum	ALGA	3	1.5706806
-MunozSobrino_a30	Spirogyra	Spirogyra	ALGA	6	3.1413613
-MunozSobrino_a30	Type 225	Type 225/229	ALGA	6	3.1413613
-MunozSobrino_a30	Typha latifolia-type	Typha latifolia-type	HELO	1	0.52356021
-MunozSobrino_a30	Ullotrix/Microspora-type	Ullotrix/Microspora-type	ALGA	6	3.1413613
-MunozSobrino_a30	Arcella	Arcella	RHIZ	3	
-MunozSobrino_a30	Assulina	Assulina	RHIZ	9	
-MunozSobrino_a30	Elater	Elater	MACR	5	
-MunozSobrino_a30	Eucalyptus	Eucalyptus spike (counted)	NOPO	5	
-MunozSobrino_a30	Foram	Foraminifera	INVE	24	
-MunozSobrino_a30	Hiphae	Fungal Hyphae	FUNG	365	
-MunozSobrino_a30	Fungal spore undet.	Fungal spore	FUNG	30	
-MunozSobrino_a30	Gloeotrichia	Gloeotrichia	CYAN	6	
-MunozSobrino_a30	Glomus	Glomus	FUNG	15	
-MunozSobrino_a30	Artropod	Invertebrata	INVE	30	
-MunozSobrino_a30	Multiseptate conidia undet.	Multiseptate conidia undet.	FUNG	27	
-MunozSobrino_a30	Neurospora	Neurospora	FUNG	3	
-MunozSobrino_a30	Phytolith	Phytolith	NOPO	3	
-MunozSobrino_a30	Sordariaceus ascospores	Sordariaceus ascospores	FUNG	196	
-MunozSobrino_a30	Stomata undiff.	Stomata	VEMI	6	
-MunozSobrino_a30	Type 1066	Type 1066	FUNG	83	
-MunozSobrino_a30	Type 143	Type 143	FUNG	12	
-MunozSobrino_a30	Type 200	Type 200	FUNG	39	
-MunozSobrino_a30	Type 201	Type 201	FUNG	116	
-MunozSobrino_a30	Xilariaceae	Xylariaceae	FUNG	15	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+MunozSobrino_a30	5	36	5	Alnus	Alnus	TRSH
+MunozSobrino_a30	660	3	308	Arcella	Arcella	RHIZ
+MunozSobrino_a30	687	9	687	Assulina	Assulina	RHIZ
+MunozSobrino_a30	134	22	134	Asteraceae	Asteraceae	HERB
+MunozSobrino_a30	663	15	663	Botryococcus	Botryococcus	ALGA
+MunozSobrino_a30	13	1	13	Brassicaceae	Brassicaceae	HERB
+MunozSobrino_a30	2733	4	19	Castanea-type	Castanea sativa	TRSH
+MunozSobrino_a30	24	3	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+MunozSobrino_a30	33	12	33	Cyperaceae	Cyperaceae	HERB
+MunozSobrino_a30	201	2	31	Corylus	Corylus	TRSH
+MunozSobrino_a30	2740	5	2740	Elater	Elater	MACR
+MunozSobrino_a30	2741	5	2741	Eucalyptus	Eucalyptus spike (counted)	NOPO
+MunozSobrino_a30	2742	24	358	Foram	Foraminifera	INVE
+MunozSobrino_a30	38	7	38	Erica	Erica	TRSH
+MunozSobrino_a30	1252	6	1252	Gloeotrichia	Gloeotrichia	CYAN
+MunozSobrino_a30	554	15	362	Glomus	Glomus	FUNG
+MunozSobrino_a30	2743	365	2743	Hiphae	Fungal Hyphae	FUNG
+MunozSobrino_a30	52	1	52	Helianthemum	Helianthemum	HERB
+MunozSobrino_a30	2750	27	2750	Multiseptate conidia undet.	Multiseptate conidia undet.	FUNG
+MunozSobrino_a30	2169	10	146	Monolete	Monolete fern spores	VACR
+MunozSobrino_a30	2753	3	304	Neurospora	Neurospora	FUNG
+MunozSobrino_a30	465	1	465	Osmunda regalis	Osmunda regalis	VACR
+MunozSobrino_a30	2757	30	2022	Fungal spore undet.	Fungal spore	FUNG
+MunozSobrino_a30	2759	3	2759	Phytolith	Phytolith	NOPO
+MunozSobrino_a30	75	43	75	Pinus	Pinus	TRSH
+MunozSobrino_a30	80	26	80	Poaceae	Poaceae	HERB
+MunozSobrino_a30	138	2	138	Polygonaceae	Polygonaceae	HERB
+MunozSobrino_a30	180	3	180	Pteridium aquilinum	Pteridium aquilinum	VACR
+MunozSobrino_a30	99	2	99	Salix	Salix	TRSH
+MunozSobrino_a30	152	5	86	Quercus robur-type	Quercus robur-type	TRSH
+MunozSobrino_a30	2429	1	274	Ranunculus-type	Ranunculus-type	HERB
+MunozSobrino_a30	2768	196	2768	Sordariaceus ascospores	Sordariaceus ascospores	FUNG
+MunozSobrino_a30	2771	6	2771	Stomata undiff.	Stomata	VEMI
+MunozSobrino_a30	2773	83	2773	Type 1066	Type 1066	FUNG
+MunozSobrino_a30	729	6	315	Spirogyra	Spirogyra	ALGA
+MunozSobrino_a30	2172	1	279	Trilete	Trilete spore(s)	VACR
+MunozSobrino_a30	2776	12	2776	Type 143	Type 143	FUNG
+MunozSobrino_a30	2780	39	2780	Type 200	Type 200	FUNG
+MunozSobrino_a30	2781	116	2781	Type 201	Type 201	FUNG
+MunozSobrino_a30	2786	30	2786	Artropod	Invertebrata	INVE
+MunozSobrino_a30	590	4	6	Umbelliferae	Apiaceae	HERB
+MunozSobrino_a30	1234	1	914	Typha latifolia-type	Typha latifolia-type	AQUA
+MunozSobrino_a30	2537	1	49	Ulex-type	Genista-type	TRSH
+MunozSobrino_a30	2789	15	2789	Xilariaceae	Xylariaceae	FUNG
+MunozSobrino_a30	652	1	652	Urtica	Urtica	HERB
+MunozSobrino_a30	662	3	662	Pediastrum	Pediastrum	ALGA
+MunozSobrino_a30	2736	116	2736	Chlorococcales	Chlorococcales	ALGA
+MunozSobrino_a30	2747	1	203	Juniperus/Cupressaceae	Juniperus-type	TRSH
+MunozSobrino_a30	2754	39	2754	Non-septate filamentous algae undet.	Non-septate filamentous algae undet.	ALGA
+MunozSobrino_a30	2760	1	64	Plantago maritima-type	Plantago maritima-type	HERB
+MunozSobrino_a30	2762	1	214	Polypodium sporangia	Polypodium	VACR
+MunozSobrino_a30	2767	6	2767	Ullotrix/Microspora-type	Ullotrix/Microspora-type	ALGA
+MunozSobrino_a30	2783	6	2783	Type 225	Type 225/229	ALGA

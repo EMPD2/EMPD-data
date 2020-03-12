@@ -1,38 +1,38 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Finsinger_a77	Abies	Abies	TRSH	26	6.9518717
-Finsinger_a77	Alnus glutinosa-type	Alnus glutinosa-type	TRSH	14	3.7433155
-Finsinger_a77	Alnus viridis	Alnus viridis	TRSH	2	0.53475936
-Finsinger_a77	BETULA	Betula	TRSH	27	7.2192513
-Finsinger_a77	Calluna vulgaris	Calluna vulgaris	TRSH	1	0.26737968
-Finsinger_a77	Castanea sativa	Castanea sativa	TRSH	5	1.3368984
-Finsinger_a77	Corylus avellana	Corylus	TRSH	10	2.6737968
-Finsinger_a77	Empetrum-type	Empetrum/Ledum	DWAR	1	0.26737968
-Finsinger_a77	Fagus	Fagus	TRSH	36	9.6256684
-Finsinger_a77	Fraxinus excelsior	Fraxinus excelsior-type	TRSH	1	0.26737968
-Finsinger_a77	Fraxinus ornus	Fraxinus ornus	TRSH	8	2.1390374
-Finsinger_a77	Juglans	Juglans	TRSH	2	0.53475936
-Finsinger_a77	Juniperus	Juniperus-type	TRSH	7	1.8716578
-Finsinger_a77	Larix	Larix/Pseudotsuga	TRSH	3	0.80213904
-Finsinger_a77	Olea	Olea europaea	TRSH	2	0.53475936
-Finsinger_a77	Ostrya-type	Ostrya/Carpinus orientalis	TRSH	44	11.764706
-Finsinger_a77	Picea	Picea	TRSH	27	7.2192513
-Finsinger_a77	Pinus cembra	Pinus cembra-type	TRSH	13	3.4759358
-Finsinger_a77	Pinus sylvestris-type	Pinus sylvestris-type	TRSH	65	17.379679
-Finsinger_a77	Quercus ilex-type	Quercus ilex-type	TRSH	2	0.53475936
-Finsinger_a77	Quercus rob.-pub.-type	Quercus robur-type	TRSH	24	6.4171123
-Finsinger_a77	Salix	Salix	TRSH	2	0.53475936
-Finsinger_a77	Sorbus-type	Sorbus-type	TRSH	1	0.26737968
-Finsinger_a77	Ulmus	Ulmus/Zelkova	TRSH	1	0.26737968
-Finsinger_a77	Vitis	Vitis	TRSH	1	0.26737968
-Finsinger_a77	Artemisia	Artemisia	HERB	2	0.53475936
-Finsinger_a77	Sagina	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	2	0.53475936
-Finsinger_a77	Chaerophyllum hirsutum-type	Chaerophyllum hirsutum-type	HERB	1	0.26737968
-Finsinger_a77	Chenopodiaceae-type	Chenopodiaceae/Amaranthaceae	HERB	1	0.26737968
-Finsinger_a77	Echium	Echium	HERB	1	0.26737968
-Finsinger_a77	Humulus lupulus	Humulus lupulus	HERB	5	1.3368984
-Finsinger_a77	Odontites-type	Odontites-type	HERB	1	0.26737968
-Finsinger_a77	Plantago lanceolata-type	Plantago lanceolata-type	HERB	3	0.80213904
-Finsinger_a77	Gramineae	Poaceae	HERB	24	6.4171123
-Finsinger_a77	Thesium humifusum	Thesium	HERB	1	0.26737968
-Finsinger_a77	Valeriana dioica-type	Valeriana dioica	HERB	5	1.3368984
-Finsinger_a77	Polypodium vulgare-type	Polypodium	VACR	3	0.80213904
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Finsinger_a77	560	26	321	Abies	Abies	TRSH
+Finsinger_a77	155	14	155	Alnus glutinosa-type	Alnus glutinosa-type	TRSH
+Finsinger_a77	330	27	12	BETULA	Betula	TRSH
+Finsinger_a77	561	2	129	Alnus viridis	Alnus viridis	TRSH
+Finsinger_a77	19	5	19	Castanea sativa	Castanea sativa	TRSH
+Finsinger_a77	31	10	31	Corylus avellana	Corylus	TRSH
+Finsinger_a77	192	36	42	Fagus	Fagus	TRSH
+Finsinger_a77	2535	1	1388	Empetrum-type	Empetrum/Ledum	DWAR
+Finsinger_a77	47	1	47	Fraxinus excelsior	Fraxinus excelsior-type	TRSH
+Finsinger_a77	44	8	44	Fraxinus ornus	Fraxinus ornus	TRSH
+Finsinger_a77	57	2	57	Juglans	Juglans	TRSH
+Finsinger_a77	123	3	123	Larix	Larix/Pseudotsuga	TRSH
+Finsinger_a77	1728	7	203	Juniperus	Juniperus-type	TRSH
+Finsinger_a77	442	2	68	Olea	Olea europaea	TRSH
+Finsinger_a77	126	27	126	Picea	Picea	TRSH
+Finsinger_a77	1226	65	125	Pinus sylvestris-type	Pinus sylvestris-type	TRSH
+Finsinger_a77	2541	24	86	Quercus rob.-pub.-type	Quercus robur-type	TRSH
+Finsinger_a77	1052	2	85	Quercus ilex-type	Quercus ilex-type	TRSH
+Finsinger_a77	99	2	99	Salix	Salix	TRSH
+Finsinger_a77	122	1	122	Vitis	Vitis	TRSH
+Finsinger_a77	7	2	7	Artemisia	Artemisia	HERB
+Finsinger_a77	2557	1	1124	Chaerophyllum hirsutum-type	Chaerophyllum hirsutum-type	HERB
+Finsinger_a77	2558	1	24	Chenopodiaceae-type	Chenopodiaceae/Amaranthaceae	HERB
+Finsinger_a77	604	1	242	Echium	Echium	HERB
+Finsinger_a77	1601	24	80	Gramineae	Poaceae	HERB
+Finsinger_a77	828	5	828	Humulus lupulus	Humulus lupulus	HERB
+Finsinger_a77	1075	3	60	Plantago lanceolata-type	Plantago lanceolata-type	HERB
+Finsinger_a77	2573	1	67	Odontites-type	Odontites-type	HERB
+Finsinger_a77	2583	2	18	Sagina	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Finsinger_a77	2590	5	2590	Valeriana dioica-type	Valeriana dioica	HERB
+Finsinger_a77	2596	3	214	Polypodium vulgare-type	Polypodium	VACR
+Finsinger_a77	154	1	154	Ulmus	Ulmus/Zelkova	TRSH
+Finsinger_a77	457	1	457	Calluna vulgaris	Calluna vulgaris	TRSH
+Finsinger_a77	572	44	70	Ostrya-type	Ostrya/Carpinus orientalis	TRSH
+Finsinger_a77	573	13	124	Pinus cembra	Pinus cembra-type	TRSH
+Finsinger_a77	1232	1	107	Sorbus-type	Sorbus-type	TRSH
+Finsinger_a77	2588	1	2588	Thesium humifusum	Thesium	HERB

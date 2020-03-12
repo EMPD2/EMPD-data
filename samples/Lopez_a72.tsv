@@ -1,21 +1,21 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Lopez_a72	Alnus	Alnus	TRSH	4	0.95465394
-Lopez_a72	Castanea	Castanea sativa	TRSH	6	1.4319809
-Lopez_a72	Olea	Olea europaea	TRSH	2	0.47732697
-Lopez_a72	Pinus pinaster	Pinus pinaster	TRSH	13	3.1026253
-Lopez_a72	Quercus evergreen	Quercus ilex-type	TRSH	13	3.1026253
-Lopez_a72	Quercus deciduous	Quercus robur-type	TRSH	5	1.1933174
-Lopez_a72	Sambucus	Sambucus	TRSH	1	0.23866348
-Lopez_a72	Asphodelus albus-type	Asphodelus albus-type	HERB	2	0.47732697
-Lopez_a72	Aster-type	Aster-type	HERB	30	7.1599045
-Lopez_a72	Cardueae	Asteraceae subf. Carduoideae	HERB	23	5.4892601
-Lopez_a72	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	34	8.1145585
-Lopez_a72	Boraginaceae	Boraginaceae	HERB	6	1.4319809
-Lopez_a72	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	2	0.47732697
-Lopez_a72	Poaceae undiff.	Poaceae	HERB	276	65.871122
-Lopez_a72	Solanaceae	Solanaceae	HERB	2	0.47732697
-Lopez_a72	Cercophora	Cercophora-type	FUNG	45	
-Lopez_a72	Glomus cf. G. fasciculatum	Glomus cf. fasciculatum	FUNG	21	
-Lopez_a72	Podospora	Podospora-type	FUNG	25	
-Lopez_a72	Sordaria	Sordaria-type	NOPO	121	
-Lopez_a72	Sporormiella	Sporormiella-type	FUNG	88	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Lopez_a72	5	4	5	Alnus	Alnus	TRSH
+Lopez_a72	3580	2	487	Asphodelus albus-type	Asphodelus albus-type	HERB
+Lopez_a72	162	6	162	Boraginaceae	Boraginaceae	HERB
+Lopez_a72	445	23	336	Cardueae	Asteraceae subf. Carduoideae	HERB
+Lopez_a72	18	2	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Lopez_a72	441	6	19	Castanea	Castanea sativa	TRSH
+Lopez_a72	2406	45	556	Cercophora	Cercophora-type	FUNG
+Lopez_a72	447	34	25	Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Lopez_a72	4008	21	305	Glomus cf. G. fasciculatum	Glomus cf. fasciculatum	FUNG
+Lopez_a72	442	2	68	Olea	Olea europaea	TRSH
+Lopez_a72	439	13	439	Pinus pinaster	Pinus pinaster	TRSH
+Lopez_a72	429	276	80	Poaceae undiff.	Poaceae	HERB
+Lopez_a72	671	25	558	Podospora	Podospora-type	FUNG
+Lopez_a72	437	5	86	Quercus deciduous	Quercus robur-type	TRSH
+Lopez_a72	427	13	85	Quercus evergreen	Quercus ilex-type	TRSH
+Lopez_a72	481	1	407	Sambucus	Sambucus	TRSH
+Lopez_a72	4604	121	4604	Sordaria	Sordaria-type	NOPO
+Lopez_a72	677	88	557	Sporormiella	Sporormiella-type	FUNG
+Lopez_a72	492	2	492	Solanaceae	Solanaceae	HERB
+Lopez_a72	597	30	11	Aster-type	Aster-type	HERB

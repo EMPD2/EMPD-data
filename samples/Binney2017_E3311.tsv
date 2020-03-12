@@ -1,14 +1,14 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Binney2017_E3311	Alnus	Alnus	TRSH	48	22.857143
-Binney2017_E3311	Ericales	Ericales (tetrad)	DWAR	19	9.047619
-Binney2017_E3311	Larix	Larix/Pseudotsuga	TRSH	7	3.3333333
-Binney2017_E3311	Pinus pumila	Pinus cembra-type	TRSH	29	13.809524
-Binney2017_E3311	Artemisia	Artemisia	HERB	5	2.3809524
-Binney2017_E3311	Asteraceae	Asteraceae	HERB	11	5.2380952
-Binney2017_E3311	Cyperaceae	Cyperaceae	HERB	9	4.2857143
-Binney2017_E3311	Poaceae	Poaceae	HERB	24	11.428571
-Binney2017_E3311	Bryophyta	Bryophyte spores	BRYO	24	11.428571
-Binney2017_E3311	Equisetum	Equisetum	VACR	5	2.3809524
-Binney2017_E3311	Lycopodium	Lycopodium	VACR	14	6.6666667
-Binney2017_E3311	Polypodiaceae	Monolete fern spores	VACR	15	7.1428571
-Binney2017_E3311	Sphagnales	Sphagnum	NOPO	54	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Binney2017_E3311	5	48	5	Alnus	Alnus	TRSH
+Binney2017_E3311	7	5	7	Artemisia	Artemisia	HERB
+Binney2017_E3311	33	9	33	Cyperaceae	Cyperaceae	HERB
+Binney2017_E3311	80	24	80	Poaceae	Poaceae	HERB
+Binney2017_E3311	123	7	123	Larix	Larix/Pseudotsuga	TRSH
+Binney2017_E3311	134	11	134	Asteraceae	Asteraceae	HERB
+Binney2017_E3311	143	14	143	Lycopodium	Lycopodium	VACR
+Binney2017_E3311	145	5	145	Equisetum	Equisetum	VACR
+Binney2017_E3311	146	15	146	Polypodiaceae	Monolete fern spores	VACR
+Binney2017_E3311	1241	24	147	Bryophyta	Bryophyte spores	BRYO
+Binney2017_E3311	2120	19	130	Ericales	Ericales (tetrad)	DWAR
+Binney2017_E3311	4620	54	144	Sphagnales	Sphagnum	BRYO
+Binney2017_E3311	4920	29	124	Pinus pumila	Pinus cembra-type	TRSH

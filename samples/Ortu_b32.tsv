@@ -1,42 +1,42 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Ortu_b32	Abies	Abies	TRSH	2	0.41237113
-Ortu_b32	Acer	Acer campestre-type	TRSH	1	0.20618557
-Ortu_b32	Alnus glutinosa	Alnus glutinosa-type	TRSH	5	1.0309278
-Ortu_b32	Alnus viridis	Alnus viridis	TRSH	11	2.2680412
-Ortu_b32	Betula	Betula	TRSH	23	4.742268
-Ortu_b32	Castanea	Castanea sativa	TRSH	7	1.443299
-Ortu_b32	Corylus	Corylus	TRSH	3	0.6185567
-Ortu_b32	Ericaceae	Ericales (tetrad)	DWAR	1	0.20618557
-Ortu_b32	Fagus	Fagus	TRSH	2	0.41237113
-Ortu_b32	Fraxinus	Fraxinus	TRSH	13	2.6804124
-Ortu_b32	Juglans	Juglans	TRSH	1	0.20618557
-Ortu_b32	Larix	Larix/Pseudotsuga	TRSH	1	0.20618557
-Ortu_b32	Picea	Picea	TRSH	35	7.2164948
-Ortu_b32	Pinus	Pinus	TRSH	259	53.402062
-Ortu_b32	Quercus robur-type	Quercus robur-type	TRSH	3	0.6185567
-Ortu_b32	Rosaceae	Rosaceae	TRSH	4	0.82474227
-Ortu_b32	Salix	Salix	TRSH	1	0.20618557
-Ortu_b32	Tilia	Tilia	TRSH	1	0.20618557
-Ortu_b32	Apiaceae	Apiaceae	HERB	18	3.7113402
-Ortu_b32	Artemisia	Artemisia	HERB	2	0.41237113
-Ortu_b32	Asteroideae	Asteraceae subf. Asteroideae	HERB	1	0.20618557
-Ortu_b32	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	2	0.41237113
-Ortu_b32	Boraginaceae	Boraginaceae	HERB	5	1.0309278
-Ortu_b32	Brassicaceae	Brassicaceae	HERB	3	0.6185567
-Ortu_b32	Campanulaceae	Campanulaceae	HERB	2	0.41237113
-Ortu_b32	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	3	0.6185567
-Ortu_b32	Crassulaceae	Crassulaceae	HERB	14	2.8865979
-Ortu_b32	Geranium	Geranium	HERB	1	0.20618557
-Ortu_b32	Lamiaceae	Lamiaceae	HERB	10	2.0618557
-Ortu_b32	Onobrychis	Onobrychis	HERB	2	0.41237113
-Ortu_b32	Plantago lanceolata	Plantago lanceolata-type	HERB	5	1.0309278
-Ortu_b32	Poaceae	Poaceae	HERB	33	6.8041237
-Ortu_b32	Ranunculaceae	Ranunculaceae	HERB	2	0.41237113
-Ortu_b32	Rubiaceae	Rubiaceae	HERB	1	0.20618557
-Ortu_b32	Saxifraga	Saxifraga	HERB	1	0.20618557
-Ortu_b32	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	5	1.0309278
-Ortu_b32	Urticaceae	Urticaceae	HERB	1	0.20618557
-Ortu_b32	Monolete fern spores	Monolete fern spores	VACR	1	0.20618557
-Ortu_b32	Cyperaceae	Cyperaceae	AQUA	1	0.20618557
-Ortu_b32	Indeterminable: unknown	Indeterminable: unknown	INUN	13	
-Ortu_b32	Stomata	Stomata	VEMI	4	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Ortu_b32	560	2	321	Abies	Abies	TRSH
+Ortu_b32	2	1	2	Acer	Acer campestre-type	TRSH
+Ortu_b32	760	5	155	Alnus glutinosa	Alnus glutinosa-type	TRSH
+Ortu_b32	7	2	7	Artemisia	Artemisia	HERB
+Ortu_b32	761	1	160	Asteroideae	Asteraceae subf. Asteroideae	HERB
+Ortu_b32	12	23	12	Betula	Betula	TRSH
+Ortu_b32	13	3	13	Brassicaceae	Brassicaceae	HERB
+Ortu_b32	136	2	136	Campanulaceae	Campanulaceae	HERB
+Ortu_b32	441	7	19	Castanea	Castanea sativa	TRSH
+Ortu_b32	24	3	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Ortu_b32	447	2	25	Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Ortu_b32	201	3	31	Corylus	Corylus	TRSH
+Ortu_b32	519	14	519	Crassulaceae	Crassulaceae	HERB
+Ortu_b32	3868	1	3868	Cyperaceae	Cyperaceae	AQUA
+Ortu_b32	190	13	190	Fraxinus	Fraxinus	TRSH
+Ortu_b32	498	1	498	Geranium	Geranium	HERB
+Ortu_b32	4078	13	177	Indeterminable: unknown	Indeterminable: unknown	INUN
+Ortu_b32	57	1	57	Juglans	Juglans	TRSH
+Ortu_b32	59	10	59	Lamiaceae	Lamiaceae	HERB
+Ortu_b32	123	1	123	Larix	Larix/Pseudotsuga	TRSH
+Ortu_b32	4193	1	146	Monolete fern spores	Monolete fern spores	VACR
+Ortu_b32	619	2	619	Onobrychis	Onobrychis	HERB
+Ortu_b32	126	35	126	Picea	Picea	TRSH
+Ortu_b32	75	259	75	Pinus	Pinus	TRSH
+Ortu_b32	80	33	80	Poaceae	Poaceae	HERB
+Ortu_b32	152	3	86	Quercus robur-type	Quercus robur-type	TRSH
+Ortu_b32	135	2	135	Ranunculaceae	Ranunculaceae	HERB
+Ortu_b32	92	4	92	Rosaceae	Rosaceae	TRSH
+Ortu_b32	93	1	93	Rubiaceae	Rubiaceae	HERB
+Ortu_b32	99	1	99	Salix	Salix	TRSH
+Ortu_b32	491	1	491	Saxifraga	Saxifraga	HERB
+Ortu_b32	173	5	173	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB
+Ortu_b32	2981	4	2771	Stomata	Stomata	VEMI
+Ortu_b32	809	1	809	Urticaceae	Urticaceae	HERB
+Ortu_b32	6	18	6	Apiaceae	Apiaceae	HERB
+Ortu_b32	60	5	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+Ortu_b32	130	1	130	Ericaceae	Ericales (tetrad)	DWAR
+Ortu_b32	162	5	162	Boraginaceae	Boraginaceae	HERB
+Ortu_b32	187	1	187	Tilia	Tilia	TRSH
+Ortu_b32	192	2	42	Fagus	Fagus	TRSH
+Ortu_b32	561	11	129	Alnus viridis	Alnus viridis	TRSH

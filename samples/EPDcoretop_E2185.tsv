@@ -1,34 +1,34 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-EPDcoretop_E2185	Abies	Abies	TRSH	10	2.8248588
-EPDcoretop_E2185	Alnus	Alnus	TRSH	6	1.6949153
-EPDcoretop_E2185	Betula	Betula	TRSH	24	6.779661
-EPDcoretop_E2185	Calluna	Calluna vulgaris	DWAR	6	1.6949153
-EPDcoretop_E2185	Castanea	Castanea sativa	TRSH	2	0.56497175
-EPDcoretop_E2185	Corylus	Corylus	TRSH	16	4.519774
-EPDcoretop_E2185	Fagus	Fagus	TRSH	20	5.6497175
-EPDcoretop_E2185	Ilex	Ilex	TRSH	1	0.28248588
-EPDcoretop_E2185	Pinus	Pinus	TRSH	62	17.514124
-EPDcoretop_E2185	Quercus	Quercus	TRSH	20	5.6497175
-EPDcoretop_E2185	Rhamnus	Rhamnus-type	TRSH	1	0.28248588
-EPDcoretop_E2185	Rosaceae	Rosaceae	TRSH	7	1.9774011
-EPDcoretop_E2185	Salix	Salix	TRSH	1	0.28248588
-EPDcoretop_E2185	Tilia	Tilia	TRSH	2	0.56497175
-EPDcoretop_E2185	Ulmus	Ulmus/Zelkova	TRSH	1	0.28248588
-EPDcoretop_E2185	Artemisia	Artemisia	HERB	3	0.84745763
-EPDcoretop_E2185	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	1	0.28248588
-EPDcoretop_E2185	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	1	0.28248588
-EPDcoretop_E2185	Cerealia-type	Cerealia-type	HERB	2	0.56497175
-EPDcoretop_E2185	Cyperaceae	Cyperaceae	HERB	6	1.6949153
-EPDcoretop_E2185	Dipsacaceae	Dipsacaceae	HERB	2	0.56497175
-EPDcoretop_E2185	Filipendula	Filipendula	HERB	5	1.4124294
-EPDcoretop_E2185	Liliaceae	Liliaceae-type	HERB	3	0.84745763
-EPDcoretop_E2185	Anthemideae	Matricaria-type	HERB	1	0.28248588
-EPDcoretop_E2185	Melampyrum	Melampyrum	HERB	3	0.84745763
-EPDcoretop_E2185	Oenotheraceae	Onagraceae	HERB	1	0.28248588
-EPDcoretop_E2185	Plantago	Plantago	HERB	5	1.4124294
-EPDcoretop_E2185	Gramineae	Poaceae	HERB	90	25.423729
-EPDcoretop_E2185	Ranunculaceae	Ranunculaceae	HERB	1	0.28248588
-EPDcoretop_E2185	Monolete spore(s)	Monolete fern spores	VACR	34	9.6045198
-EPDcoretop_E2185	Sphagnum	Sphagnum	BRYO	16	4.519774
-EPDcoretop_E2185	Trilete spore(s)	Trilete spore(s)	VACR	1	0.28248588
-EPDcoretop_E2185	Indeterminable: unknown	Indeterminable: unknown	INUN	7	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+EPDcoretop_E2185	5	6	5	Alnus	Alnus	TRSH
+EPDcoretop_E2185	7	3	7	Artemisia	Artemisia	HERB
+EPDcoretop_E2185	12	24	12	Betula	Betula	TRSH
+EPDcoretop_E2185	33	6	33	Cyperaceae	Cyperaceae	HERB
+EPDcoretop_E2185	45	5	45	Filipendula	Filipendula	HERB
+EPDcoretop_E2185	75	62	75	Pinus	Pinus	TRSH
+EPDcoretop_E2185	135	1	135	Ranunculaceae	Ranunculaceae	HERB
+EPDcoretop_E2185	164	2	164	Dipsacaceae	Dipsacaceae	HERB
+EPDcoretop_E2185	189	20	189	Quercus	Quercus	TRSH
+EPDcoretop_E2185	192	20	42	Fagus	Fagus	TRSH
+EPDcoretop_E2185	201	16	31	Corylus	Corylus	TRSH
+EPDcoretop_E2185	435	1	55	Ilex	Ilex	TRSH
+EPDcoretop_E2185	473	3	473	Melampyrum	Melampyrum	HERB
+EPDcoretop_E2185	560	10	321	Abies	Abies	TRSH
+EPDcoretop_E2185	724	5	270	Plantago	Plantago	HERB
+EPDcoretop_E2185	1065	2	22	Cerealia-type	Cerealia-type	HERB
+EPDcoretop_E2185	4078	7	177	Indeterminable: unknown	Indeterminable: unknown	INUN
+EPDcoretop_E2185	18	1	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+EPDcoretop_E2185	62	3	62	Liliaceae	Liliaceae-type	HERB
+EPDcoretop_E2185	89	1	89	Rhamnus	Rhamnus-type	TRSH
+EPDcoretop_E2185	99	1	99	Salix	Salix	TRSH
+EPDcoretop_E2185	144	16	144	Sphagnum	Sphagnum	BRYO
+EPDcoretop_E2185	154	1	154	Ulmus	Ulmus/Zelkova	TRSH
+EPDcoretop_E2185	187	2	187	Tilia	Tilia	TRSH
+EPDcoretop_E2185	441	2	19	Castanea	Castanea sativa	TRSH
+EPDcoretop_E2185	447	1	25	Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+EPDcoretop_E2185	1601	90	80	Gramineae	Poaceae	HERB
+EPDcoretop_E2185	3471	1	137	Oenotheraceae	Onagraceae	HERB
+EPDcoretop_E2185	3546	1	3	Anthemideae	Matricaria-type	HERB
+EPDcoretop_E2185	3645	6	3645	Calluna	Calluna vulgaris	DWAR
+EPDcoretop_E2185	4197	34	146	Monolete spore(s)	Monolete fern spores	VACR
+EPDcoretop_E2185	4684	1	279	Trilete spore(s)	Trilete spore(s)	VACR
+EPDcoretop_E2185	92	7	92	Rosaceae	Rosaceae	TRSH

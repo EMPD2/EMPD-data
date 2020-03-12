@@ -1,40 +1,40 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Kunes_a35	Abies	Abies	TRSH	1	0.155521
-Kunes_a35	Alnus viridis	Alnus viridis	TRSH	1	0.155521
-Kunes_a35	Betula	Betula	TRSH	310	48.211509
-Kunes_a35	Betula nana	Betula nana-type	DWAR	13	2.0217729
-Kunes_a35	Empetrum-group	Empetrum nigrum	DWAR	1	0.155521
-Kunes_a35	Juglans	Juglans	TRSH	2	0.31104199
-Kunes_a35	Larix/Pseudotsuga	Larix/Pseudotsuga	TRSH	73	11.353033
-Kunes_a35	Picea	Picea	TRSH	4	0.62208398
-Kunes_a35	Pinus cembra-type	Pinus cembra-type	TRSH	17	2.6438569
-Kunes_a35	Pinus sylvestris-type	Pinus sylvestris-type	TRSH	22	3.4214619
-Kunes_a35	Populus	Populus	TRSH	4	0.62208398
-Kunes_a35	Salix	Salix	TRSH	4	0.62208398
-Kunes_a35	Vaccinium-type	Vaccinium-type	DWAR	2	0.31104199
-Kunes_a35	Allium-type	Allium-type	HERB	1	0.155521
-Kunes_a35	Apiaceae	Apiaceae	HERB	2	0.31104199
-Kunes_a35	Bupleurum-type	Apiaceae	HERB	3	0.46656299
-Kunes_a35	Artemisia	Artemisia	HERB	84	13.063764
-Kunes_a35	Compositae subf. Asteroideae	Asteraceae subf. Asteroideae	HERB	1	0.155521
-Kunes_a35	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB	2	0.31104199
-Kunes_a35	Brassicaceae	Brassicaceae	HERB	1	0.155521
-Kunes_a35	Chenopodiaceae pro parte	Chenopodiaceae/Amaranthaceae	HERB	4	0.62208398
-Kunes_a35	Filipendula	Filipendula	HERB	2	0.31104199
-Kunes_a35	Gentianaceae	Gentianaceae	HERB	1	0.155521
-Kunes_a35	Cannabaceae	Humulus/Cannabis	HERB	14	2.1772939
-Kunes_a35	Vicia-type	Lathyrus/Vicia-type	HERB	1	0.155521
-Kunes_a35	Plantago media/major-type	Plantago major/P. media-type	HERB	10	1.55521
-Kunes_a35	Poaceae	Poaceae	HERB	21	3.2659409
-Kunes_a35	Ranunculus acris-type	Ranunculus acris-type	HERB	3	0.46656299
-Kunes_a35	Rubiaceae	Rubiaceae	HERB	1	0.155521
-Kunes_a35	Rumex acetosa-type	Rumex acetosa-type	HERB	1	0.155521
-Kunes_a35	Sanguisorba officinalis	Sanguisorba officinalis	HERB	10	1.55521
-Kunes_a35	Thalictrum	Thalictrum	HERB	6	0.93312597
-Kunes_a35	Triticum-type	Triticum-type	HERB	1	0.155521
-Kunes_a35	Urtica	Urtica	HERB	16	2.4883359
-Kunes_a35	Athyrium filix-femina	Athyrium filix-femina	VACR	1	0.155521
-Kunes_a35	Monolete fern spores	Monolete fern spores	VACR	2	0.31104199
-Kunes_a35	Athyrium distentifolium	Woodsia-type	VACR	1	0.155521
-Kunes_a35	Cyperaceae	Cyperaceae	AQUA	4	0.62208398
-Kunes_a35	Sparganium-type	Sparganium-type	AQUA	1	0.155521
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Kunes_a35	560	1	321	Abies	Abies	TRSH
+Kunes_a35	1326	1	4	Allium-type	Allium-type	HERB
+Kunes_a35	561	1	129	Alnus viridis	Alnus viridis	TRSH
+Kunes_a35	6	2	6	Apiaceae	Apiaceae	HERB
+Kunes_a35	7	84	7	Artemisia	Artemisia	HERB
+Kunes_a35	215	1	215	Athyrium filix-femina	Athyrium filix-femina	VACR
+Kunes_a35	3594	1	968	Athyrium distentifolium	Woodsia-type	VACR
+Kunes_a35	12	310	12	Betula	Betula	TRSH
+Kunes_a35	1363	13	127	Betula nana	Betula nana-type	DWAR
+Kunes_a35	13	1	13	Brassicaceae	Brassicaceae	HERB
+Kunes_a35	2550	3	6	Bupleurum-type	Apiaceae	HERB
+Kunes_a35	3652	14	205	Cannabaceae	Humulus/Cannabis	HERB
+Kunes_a35	3787	4	24	Chenopodiaceae pro parte	Chenopodiaceae/Amaranthaceae	HERB
+Kunes_a35	3822	1	160	Compositae subf. Asteroideae	Asteraceae subf. Asteroideae	HERB
+Kunes_a35	3824	2	25	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Kunes_a35	3868	4	3868	Cyperaceae	Cyperaceae	AQUA
+Kunes_a35	3921	1	739	Empetrum-group	Empetrum nigrum	DWAR
+Kunes_a35	525	1	525	Gentianaceae	Gentianaceae	HERB
+Kunes_a35	2336	73	123	Larix/Pseudotsuga	Larix/Pseudotsuga	TRSH
+Kunes_a35	4193	2	146	Monolete fern spores	Monolete fern spores	VACR
+Kunes_a35	4327	10	458	Plantago media/major-type	Plantago major/P. media-type	HERB
+Kunes_a35	81	4	81	Populus	Populus	TRSH
+Kunes_a35	630	3	87	Ranunculus acris-type	Ranunculus acris-type	HERB
+Kunes_a35	93	1	93	Rubiaceae	Rubiaceae	HERB
+Kunes_a35	634	1	95	Rumex acetosa-type	Rumex acetosa-type	HERB
+Kunes_a35	1188	10	474	Sanguisorba officinalis	Sanguisorba officinalis	HERB
+Kunes_a35	112	6	112	Thalictrum	Thalictrum	HERB
+Kunes_a35	1233	1	1199	Triticum-type	Triticum-type	HERB
+Kunes_a35	652	16	652	Urtica	Urtica	HERB
+Kunes_a35	1290	1	1290	Vicia-type	Lathyrus/Vicia-type	HERB
+Kunes_a35	45	2	45	Filipendula	Filipendula	HERB
+Kunes_a35	57	2	57	Juglans	Juglans	TRSH
+Kunes_a35	80	21	80	Poaceae	Poaceae	HERB
+Kunes_a35	99	4	99	Salix	Salix	TRSH
+Kunes_a35	126	4	126	Picea	Picea	TRSH
+Kunes_a35	1086	1	176	Sparganium-type	Sparganium-type	AQUA
+Kunes_a35	1226	22	125	Pinus sylvestris-type	Pinus sylvestris-type	TRSH
+Kunes_a35	4298	17	124	Pinus cembra-type	Pinus cembra-type	TRSH
+Kunes_a35	4730	2	4730	Vaccinium-type	Vaccinium-type	DWAR

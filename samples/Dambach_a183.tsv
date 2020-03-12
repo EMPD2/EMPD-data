@@ -1,39 +1,39 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Dambach_a183	Alnus	Alnus	TRSH	27	3.4090909
-Dambach_a183	Betula	Betula	TRSH	73	9.2171717
-Dambach_a183	Carpinus	Carpinus betulus	TRSH	4	0.50505051
-Dambach_a183	Castanea	Castanea sativa	TRSH	1	0.12626263
-Dambach_a183	Corylus	Corylus	TRSH	16	2.020202
-Dambach_a183	Fagus	Fagus	TRSH	6	0.75757576
-Dambach_a183	Fraxinus	Fraxinus	TRSH	9	1.1363636
-Dambach_a183	Picea	Picea	TRSH	124	15.656566
-Dambach_a183	Pinus	Pinus	TRSH	335	42.29798
-Dambach_a183	Quercus	Quercus	TRSH	10	1.2626263
-Dambach_a183	Rosaceae	Rosaceae	TRSH	3	0.37878788
-Dambach_a183	Salix	Salix	TRSH	7	0.88383838
-Dambach_a183	Tilia	Tilia	TRSH	1	0.12626263
-Dambach_a183	Umbelliferae	Apiaceae	HERB	3	0.37878788
-Dambach_a183	Artemisia	Artemisia	HERB	4	0.50505051
-Dambach_a183	Asteroideae	Asteraceae subf. Asteroideae	HERB	7	0.88383838
-Dambach_a183	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	2	0.25252525
-Dambach_a183	Brassicaceae	Brassicaceae	HERB	5	0.63131313
-Dambach_a183	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	1	0.12626263
-Dambach_a183	Cerealia-type	Cerealia-type	HERB	33	4.1666667
-Dambach_a183	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	5	0.63131313
-Dambach_a183	Mercurialis	Mercurialis	HERB	1	0.12626263
-Dambach_a183	Plantago lanceolata	Plantago lanceolata-type	HERB	11	1.3888889
-Dambach_a183	Plantago major/P. media	Plantago major/P. media-type	HERB	3	0.37878788
-Dambach_a183	Gramineae	Poaceae	HERB	72	9.0909091
-Dambach_a183	Polygonum bistorta	Polygonum bistorta	HERB	1	0.12626263
-Dambach_a183	Ranunculaceae	Ranunculaceae	HERB	5	0.63131313
-Dambach_a183	Ranunculus-type	Ranunculus-type	HERB	8	1.010101
-Dambach_a183	Rubiaceae	Rubiaceae	HERB	4	0.50505051
-Dambach_a183	Rumex acetosa-type	Rumex acetosa-type	HERB	4	0.50505051
-Dambach_a183	Eurumex	Rumex crispus-type	HERB	1	0.12626263
-Dambach_a183	Scrophularia/Verbascum	Scrophularia-type	HERB	3	0.37878788
-Dambach_a183	Urtica	Urtica	HERB	2	0.25252525
-Dambach_a183	Polypodiaceae	Monolete fern spores	VACR	1	0.12626263
-Dambach_a183	Cyperaceae	Cyperaceae	AQUA	7	0.88383838
-Dambach_a183	Fabaceae	Fabaceae	INUN	1	
-Dambach_a183	Indeterminable: unknown	Indeterminable: unknown	INUN	8	
-Dambach_a183	Varia	Indeterminable: unknown	INUN	4	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Dambach_a183	5	27	5	Alnus	Alnus	TRSH
+Dambach_a183	7	4	7	Artemisia	Artemisia	HERB
+Dambach_a183	12	73	12	Betula	Betula	TRSH
+Dambach_a183	13	5	13	Brassicaceae	Brassicaceae	HERB
+Dambach_a183	16	4	16	Carpinus	Carpinus betulus	TRSH
+Dambach_a183	18	1	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Dambach_a183	441	1	19	Castanea	Castanea sativa	TRSH
+Dambach_a183	1065	33	22	Cerealia-type	Cerealia-type	HERB
+Dambach_a183	24	5	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Dambach_a183	447	2	25	Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Dambach_a183	201	16	31	Corylus	Corylus	TRSH
+Dambach_a183	3868	7	3868	Cyperaceae	Cyperaceae	AQUA
+Dambach_a183	3955	1	251	Eurumex	Rumex crispus-type	HERB
+Dambach_a183	3958	1	3958	Fabaceae	Fabaceae	INUN
+Dambach_a183	192	6	42	Fagus	Fagus	TRSH
+Dambach_a183	190	9	190	Fraxinus	Fraxinus	TRSH
+Dambach_a183	4078	8	177	Indeterminable: unknown	Indeterminable: unknown	INUN
+Dambach_a183	227	1	227	Mercurialis	Mercurialis	HERB
+Dambach_a183	126	124	126	Picea	Picea	TRSH
+Dambach_a183	75	335	75	Pinus	Pinus	TRSH
+Dambach_a183	60	11	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+Dambach_a183	4323	3	458	Plantago major/P. media	Plantago major/P. media-type	HERB
+Dambach_a183	625	1	625	Polygonum bistorta	Polygonum bistorta	HERB
+Dambach_a183	189	10	189	Quercus	Quercus	TRSH
+Dambach_a183	92	3	92	Rosaceae	Rosaceae	TRSH
+Dambach_a183	93	4	93	Rubiaceae	Rubiaceae	HERB
+Dambach_a183	634	4	95	Rumex acetosa-type	Rumex acetosa-type	HERB
+Dambach_a183	99	7	99	Salix	Salix	TRSH
+Dambach_a183	187	1	187	Tilia	Tilia	TRSH
+Dambach_a183	652	2	652	Urtica	Urtica	HERB
+Dambach_a183	1098	4	177	Varia	Indeterminable: unknown	INUN
+Dambach_a183	135	5	135	Ranunculaceae	Ranunculaceae	HERB
+Dambach_a183	146	1	146	Polypodiaceae	Monolete fern spores	VACR
+Dambach_a183	590	3	6	Umbelliferae	Apiaceae	HERB
+Dambach_a183	761	7	160	Asteroideae	Asteraceae subf. Asteroideae	HERB
+Dambach_a183	1601	72	80	Gramineae	Poaceae	HERB
+Dambach_a183	2429	8	274	Ranunculus-type	Ranunculus-type	HERB
+Dambach_a183	4579	3	103	Scrophularia/Verbascum	Scrophularia-type	HERB

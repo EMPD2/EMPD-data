@@ -1,48 +1,48 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Mazier_a19	Abies	Abies	TRSH	35	3.5897436
-Mazier_a19	Acer	Acer campestre-type	TRSH	9	0.92307692
-Mazier_a19	Alnus glutinosa-type	Alnus glutinosa-type	TRSH	12	1.2307692
-Mazier_a19	Alnus viridis	Alnus viridis	TRSH	1	0.1025641
-Mazier_a19	Betula	Betula	TRSH	21	2.1538462
-Mazier_a19	Carpinus betulus	Carpinus betulus	TRSH	7	0.71794872
-Mazier_a19	Castanea sativa	Castanea sativa	TRSH	12	1.2307692
-Mazier_a19	Corylus avellana	Corylus	TRSH	9	0.92307692
-Mazier_a19	Fagus	Fagus	TRSH	77	7.8974359
-Mazier_a19	Fraxinus excelsior	Fraxinus excelsior-type	TRSH	25	2.5641026
-Mazier_a19	Juglans	Juglans	TRSH	1	0.1025641
-Mazier_a19	Juniperus	Juniperus communis-type	TRSH	5	0.51282051
-Mazier_a19	Morus nigra	Morus nigra	TRSH	1	0.1025641
-Mazier_a19	Olea	Olea europaea	TRSH	1	0.1025641
-Mazier_a19	Picea	Picea	TRSH	510	52.307692
-Mazier_a19	Pinus cembra	Pinus cembra-type	TRSH	18	1.8461538
-Mazier_a19	Pinus subg. Pinus	Pinus sylvestris-type	TRSH	35	3.5897436
-Mazier_a19	Quercus	Quercus	TRSH	26	2.6666667
-Mazier_a19	Salix	Salix	TRSH	5	0.51282051
-Mazier_a19	Sambucus racemosa	Sambucus racemosa	TRSH	1	0.1025641
-Mazier_a19	Sorbus-type	Sorbus-type	TRSH	4	0.41025641
-Mazier_a19	Tilia	Tilia	TRSH	1	0.1025641
-Mazier_a19	Ulmus	Ulmus/Zelkova	TRSH	2	0.20512821
-Mazier_a19	Hedera helix	Hedera	LIAN	1	0.1025641
-Mazier_a19	Ambrosia	Ambrosia	HERB	3	0.30769231
-Mazier_a19	Artemisia	Artemisia	HERB	3	0.30769231
-Mazier_a19	Aster-type	Aster-type	HERB	1	0.1025641
-Mazier_a19	Cruciferae	Brassicaceae	HERB	5	0.51282051
-Mazier_a19	Carum carvi	Carum carvi	HERB	2	0.20512821
-Mazier_a19	Cerealia	Cerealia-type	HERB	3	0.30769231
-Mazier_a19	Chenopodiaceae-type	Chenopodiaceae/Amaranthaceae	HERB	3	0.30769231
-Mazier_a19	Heracleum	Heracleum	HERB	1	0.1025641
-Mazier_a19	Hypericum perforatum-type	Hypericum perforatum-type	HERB	8	0.82051282
-Mazier_a19	Melampyrum	Melampyrum	HERB	8	0.82051282
-Mazier_a19	Plantago lanceolata-type	Plantago lanceolata-type	HERB	7	0.71794872
-Mazier_a19	Plantago media	Plantago media	HERB	9	0.92307692
-Mazier_a19	Gramineae	Poaceae	HERB	66	6.7692308
-Mazier_a19	Ranunculus acris-type	Ranunculus acris-type	HERB	8	0.82051282
-Mazier_a19	Rubiaceae	Rubiaceae	HERB	2	0.20512821
-Mazier_a19	Rumex acetosa-type	Rumex acetosa-type	HERB	4	0.41025641
-Mazier_a19	Thalictrum	Thalictrum	HERB	1	0.1025641
-Mazier_a19	Urtica	Urtica	HERB	17	1.7435897
-Mazier_a19	Athyrium filix-femina	Athyrium filix-femina	VACR	1	0.1025641
-Mazier_a19	Monolete fern spores	Monolete fern spores	VACR	4	0.41025641
-Mazier_a19	Cyperaceae	Cyperaceae	AQUA	2	0.20512821
-Mazier_a19	Juniperus: stomata	Juniperus: stomata	MACR	1	
-Mazier_a19	Picea: stomata	Picea: stomata	MACR	4	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Mazier_a19	560	35	321	Abies	Abies	TRSH
+Mazier_a19	2	9	2	Acer	Acer campestre-type	TRSH
+Mazier_a19	155	12	155	Alnus glutinosa-type	Alnus glutinosa-type	TRSH
+Mazier_a19	586	3	586	Ambrosia	Ambrosia	HERB
+Mazier_a19	597	1	11	Aster-type	Aster-type	HERB
+Mazier_a19	215	1	215	Athyrium filix-femina	Athyrium filix-femina	VACR
+Mazier_a19	12	21	12	Betula	Betula	TRSH
+Mazier_a19	563	7	16	Carpinus betulus	Carpinus betulus	TRSH
+Mazier_a19	1118	2	1118	Carum carvi	Carum carvi	HERB
+Mazier_a19	22	3	22	Cerealia	Cerealia-type	HERB
+Mazier_a19	2558	3	24	Chenopodiaceae-type	Chenopodiaceae/Amaranthaceae	HERB
+Mazier_a19	31	9	31	Corylus avellana	Corylus	TRSH
+Mazier_a19	482	5	13	Cruciferae	Brassicaceae	HERB
+Mazier_a19	3868	2	3868	Cyperaceae	Cyperaceae	AQUA
+Mazier_a19	192	77	42	Fagus	Fagus	TRSH
+Mazier_a19	47	25	47	Fraxinus excelsior	Fraxinus excelsior-type	TRSH
+Mazier_a19	4032	1	4031	Hedera helix	Hedera	LIAN
+Mazier_a19	2323	1	610	Heracleum	Heracleum	HERB
+Mazier_a19	1220	8	829	Hypericum perforatum-type	Hypericum perforatum-type	HERB
+Mazier_a19	57	1	57	Juglans	Juglans	TRSH
+Mazier_a19	58	5	58	Juniperus	Juniperus communis-type	TRSH
+Mazier_a19	4092	1	4092	Juniperus: stomata	Juniperus: stomata	MACR
+Mazier_a19	4193	4	146	Monolete fern spores	Monolete fern spores	VACR
+Mazier_a19	442	1	68	Olea	Olea europaea	TRSH
+Mazier_a19	126	510	126	Picea	Picea	TRSH
+Mazier_a19	4294	4	4294	Picea: stomata	Picea: stomata	MACR
+Mazier_a19	573	18	124	Pinus cembra	Pinus cembra-type	TRSH
+Mazier_a19	4307	35	125	Pinus subg. Pinus	Pinus sylvestris-type	TRSH
+Mazier_a19	1075	7	60	Plantago lanceolata-type	Plantago lanceolata-type	HERB
+Mazier_a19	1169	9	698	Plantago media	Plantago media	HERB
+Mazier_a19	189	26	189	Quercus	Quercus	TRSH
+Mazier_a19	630	8	87	Ranunculus acris-type	Ranunculus acris-type	HERB
+Mazier_a19	99	5	99	Salix	Salix	TRSH
+Mazier_a19	1232	4	107	Sorbus-type	Sorbus-type	TRSH
+Mazier_a19	112	1	112	Thalictrum	Thalictrum	HERB
+Mazier_a19	187	1	187	Tilia	Tilia	TRSH
+Mazier_a19	154	2	154	Ulmus	Ulmus/Zelkova	TRSH
+Mazier_a19	652	17	652	Urtica	Urtica	HERB
+Mazier_a19	7	3	7	Artemisia	Artemisia	HERB
+Mazier_a19	19	12	19	Castanea sativa	Castanea sativa	TRSH
+Mazier_a19	473	8	473	Melampyrum	Melampyrum	HERB
+Mazier_a19	561	1	129	Alnus viridis	Alnus viridis	TRSH
+Mazier_a19	634	4	95	Rumex acetosa-type	Rumex acetosa-type	HERB
+Mazier_a19	1601	66	80	Gramineae	Poaceae	HERB
+Mazier_a19	2378	1	2378	Sambucus racemosa	Sambucus racemosa	TRSH
+Mazier_a19	4201	1	4201	Morus nigra	Morus nigra	TRSH
+Mazier_a19	93	2	93	Rubiaceae	Rubiaceae	HERB

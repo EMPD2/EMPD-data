@@ -1,35 +1,35 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Nakagawa_b1	Abies	Abies	TRSH	3	0.57581574
-Nakagawa_b1	Acer	Acer campestre-type	TRSH	3	0.57581574
-Nakagawa_b1	Aesculus	Aesculus	TRSH	1	0.19193858
-Nakagawa_b1	Alnus	Alnus	TRSH	13	2.4952015
-Nakagawa_b1	Araliaceae	Araliaceae	TRSH	2	0.38387716
-Nakagawa_b1	Carpinus	Carpinus betulus	TRSH	16	3.0710173
-Nakagawa_b1	Corylus	Corylus	TRSH	1	0.19193858
-Nakagawa_b1	Cryptomeria	Cryptomeria-type	TRSH	162	31.09405
-Nakagawa_b1	Castanea-Castanopsis	Fagaceae	TRSH	12	2.303263
-Nakagawa_b1	Fagus	Fagus	TRSH	1	0.19193858
-Nakagawa_b1	Juglans	Juglans	TRSH	2	0.38387716
-Nakagawa_b1	QuercusLepido.	Lithocarpus lepidocarpus	TRSH	16	3.0710173
-Nakagawa_b1	Moraceae	Moraceae	TRSH	1	0.19193858
-Nakagawa_b1	Phellodendron	Phellodendron	TRSH	1	0.19193858
-Nakagawa_b1	Pinus	Pinus	TRSH	60	11.516315
-Nakagawa_b1	PinusHaplo.	Pinus cembra-type	TRSH	10	1.9193858
-Nakagawa_b1	PinusDiplo.	Pinus sylvestris-type	TRSH	101	19.385797
-Nakagawa_b1	QuercusCyclo.	Quercus	TRSH	2	0.38387716
-Nakagawa_b1	Rosaceae	Rosaceae	TRSH	1	0.19193858
-Nakagawa_b1	T-C-C type	Taxaceae/Cephalotaxaceae/Cupressaceae	TRSH	10	1.9193858
-Nakagawa_b1	Tsugadiversifolia	Tsuga diversifolia	TRSH	1	0.19193858
-Nakagawa_b1	Ulmus-Zelkova	Ulmus/Zelkova	TRSH	19	3.646833
-Nakagawa_b1	Umbelliferae	Apiaceae	HERB	1	0.19193858
-Nakagawa_b1	Artemisia	Artemisia	HERB	10	1.9193858
-Nakagawa_b1	Asteroideae	Asteraceae subf. Asteroideae	HERB	3	0.57581574
-Nakagawa_b1	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	12	2.303263
-Nakagawa_b1	Coryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	5	0.9596929
-Nakagawa_b1	Chenopodiaceae-Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.19193858
-Nakagawa_b1	Cyperaceae	Cyperaceae	HERB	1	0.19193858
-Nakagawa_b1	Euphorbiaceae	Euphorbiaceae	HERB	1	0.19193858
-Nakagawa_b1	Gramineae	Poaceae	HERB	45	8.6372361
-Nakagawa_b1	spore-monolete	Monolete fern spores	VACR	2	0.38387716
-Nakagawa_b1	spore-trilete	Trilete spore(s)	VACR	2	0.38387716
-Nakagawa_b1	Unknown	Indeterminable: unknown	INUN	44	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Nakagawa_b1	560	3	321	Abies	Abies	TRSH
+Nakagawa_b1	2221	162	2221	Cryptomeria	Cryptomeria-type	TRSH
+Nakagawa_b1	5	13	5	Alnus	Alnus	TRSH
+Nakagawa_b1	201	1	31	Corylus	Corylus	TRSH
+Nakagawa_b1	192	1	42	Fagus	Fagus	TRSH
+Nakagawa_b1	2	3	2	Acer	Acer campestre-type	TRSH
+Nakagawa_b1	7	10	7	Artemisia	Artemisia	HERB
+Nakagawa_b1	2440	1	2440	Aesculus	Aesculus	TRSH
+Nakagawa_b1	16	16	16	Carpinus	Carpinus betulus	TRSH
+Nakagawa_b1	75	60	75	Pinus	Pinus	TRSH
+Nakagawa_b1	2445	10	2445	T-C-C type	Taxaceae/Cephalotaxaceae/Cupressaceae	TRSH
+Nakagawa_b1	33	1	33	Cyperaceae	Cyperaceae	HERB
+Nakagawa_b1	57	2	57	Juglans	Juglans	TRSH
+Nakagawa_b1	447	12	25	Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Nakagawa_b1	969	44	177	Unknown	Indeterminable: unknown	INUN
+Nakagawa_b1	761	3	160	Asteroideae	Asteraceae subf. Asteroideae	HERB
+Nakagawa_b1	773	1	773	Euphorbiaceae	Euphorbiaceae	HERB
+Nakagawa_b1	2467	2	146	spore-monolete	Monolete fern spores	VACR
+Nakagawa_b1	2468	2	279	spore-trilete	Trilete spore(s)	VACR
+Nakagawa_b1	590	1	6	Umbelliferae	Apiaceae	HERB
+Nakagawa_b1	1491	1	375	Moraceae	Moraceae	TRSH
+Nakagawa_b1	1601	45	80	Gramineae	Poaceae	HERB
+Nakagawa_b1	1954	19	154	Ulmus-Zelkova	Ulmus/Zelkova	TRSH
+Nakagawa_b1	2226	1	2226	Phellodendron	Phellodendron	TRSH
+Nakagawa_b1	2449	1	24	Chenopodiaceae-Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB
+Nakagawa_b1	2452	1	2452	Tsugadiversifolia	Tsuga diversifolia	TRSH
+Nakagawa_b1	2453	10	124	PinusHaplo.	Pinus cembra-type	TRSH
+Nakagawa_b1	2454	101	125	PinusDiplo.	Pinus sylvestris-type	TRSH
+Nakagawa_b1	2455	16	2455	QuercusLepido.	Lithocarpus lepidocarpus	TRSH
+Nakagawa_b1	2456	2	189	QuercusCyclo.	Quercus	TRSH
+Nakagawa_b1	2457	12	2442	Castanea-Castanopsis	Fagaceae	TRSH
+Nakagawa_b1	2459	5	18	Coryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Nakagawa_b1	2228	2	2227	Araliaceae	Araliaceae	TRSH
+Nakagawa_b1	92	1	92	Rosaceae	Rosaceae	TRSH

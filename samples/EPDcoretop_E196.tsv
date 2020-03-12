@@ -1,40 +1,40 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-EPDcoretop_E196	Alnus	Alnus	TRSH	7	0.85470085
-EPDcoretop_E196	Betula	Betula	TRSH	33	4.029304
-EPDcoretop_E196	Calluna vulgaris	Calluna vulgaris	DWAR	360	43.956044
-EPDcoretop_E196	Corylus	Corylus	TRSH	11	1.3431013
-EPDcoretop_E196	Empetrum	Empetrum nigrum	DWAR	33	4.029304
-EPDcoretop_E196	Ericales undiff.	Ericales (tetrad)	DWAR	5	0.61050061
-EPDcoretop_E196	Pinus	Pinus	TRSH	9	1.0989011
-EPDcoretop_E196	Quercus	Quercus	TRSH	2	0.24420024
-EPDcoretop_E196	Salix	Salix	TRSH	1	0.12210012
-EPDcoretop_E196	Tilia	Tilia	TRSH	1	0.12210012
-EPDcoretop_E196	Ulmus	Ulmus/Zelkova	TRSH	6	0.73260073
-EPDcoretop_E196	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	1	0.12210012
-EPDcoretop_E196	Filipendula	Filipendula	HERB	2	0.24420024
-EPDcoretop_E196	Hordeum-type	Hordeum-type	HERB	3	0.36630037
-EPDcoretop_E196	Plantago lanceolata	Plantago lanceolata-type	HERB	1	0.12210012
-EPDcoretop_E196	Plantago maritima	Plantago maritima-type	HERB	2	0.24420024
-EPDcoretop_E196	Gramineae	Poaceae	HERB	73	8.9133089
-EPDcoretop_E196	Potentilla	Potentilla-type	HERB	24	2.9304029
-EPDcoretop_E196	Rubiaceae	Rubiaceae	HERB	3	0.36630037
-EPDcoretop_E196	Rumex	Rumex/Oxyria	HERB	4	0.48840049
-EPDcoretop_E196	Succisa	Succisa-type	HERB	1	0.12210012
-EPDcoretop_E196	Huperzia selago	Huperzia selago	VACR	1	0.12210012
-EPDcoretop_E196	Filicopsida	Monolete fern spores	VACR	25	3.0525031
-EPDcoretop_E196	Polypodium	Polypodium	VACR	17	2.0757021
-EPDcoretop_E196	Sphagnum	Sphagnum	BRYO	194	23.687424
-EPDcoretop_E196	Cyperaceae	Cyperaceae	AQUA	38	4.6398046
-EPDcoretop_E196	Isoetes lacustris	Isoetes lacustris	AQPT	162	19.78022
-EPDcoretop_E196	Myriophyllum alterniflorum	Myriophyllum alterniflorum	AQUA	2	0.24420024
-EPDcoretop_E196	Potamogeton	Potamogeton-type	AQUA	1	0.12210012
-EPDcoretop_E196	Indeterminable: broken	Indeterminable: broken	INUN	1	
-EPDcoretop_E196	Indeterminable: concealed	Indeterminable: concealed	INUN	1	
-EPDcoretop_E196	Indeterminable: corroded	Indeterminable: corroded	INUN	1	
-EPDcoretop_E196	Indeterminable: crumpled	Indeterminable: crumpled	INUN	1	
-EPDcoretop_E196	Indeterminable: degraded	Indeterminable: degraded	INUN	1	
-EPDcoretop_E196	Unknown	Indeterminable: unknown	INUN	1	
-EPDcoretop_E196	Charcoal	Charcoal	MACR	35	
-EPDcoretop_E196	Concentration spikes	Concentration spikes	NOPO	49333	
-EPDcoretop_E196	Eucalyptus count	Eucalyptus spike (counted)	NOPO	138	
-EPDcoretop_E196	Sample volume (ml)	Sample volume (ml)	NOPO	1	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+EPDcoretop_E196	5	7	5	Alnus	Alnus	TRSH
+EPDcoretop_E196	12	33	12	Betula	Betula	TRSH
+EPDcoretop_E196	18	1	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+EPDcoretop_E196	3773	35	3773	Charcoal	Charcoal	MACR
+EPDcoretop_E196	3831	49333	3831	Concentration spikes	Concentration spikes	NOPO
+EPDcoretop_E196	201	11	31	Corylus	Corylus	TRSH
+EPDcoretop_E196	3868	38	3868	Cyperaceae	Cyperaceae	AQUA
+EPDcoretop_E196	940	5	130	Ericales undiff.	Ericales (tetrad)	DWAR
+EPDcoretop_E196	3950	138	2741	Eucalyptus count	Eucalyptus spike (counted)	NOPO
+EPDcoretop_E196	45	2	45	Filipendula	Filipendula	HERB
+EPDcoretop_E196	1601	73	80	Gramineae	Poaceae	HERB
+EPDcoretop_E196	949	3	258	Hordeum-type	Hordeum-type	HERB
+EPDcoretop_E196	964	1	184	Huperzia selago	Huperzia selago	VACR
+EPDcoretop_E196	4072	1	998	Indeterminable: broken	Indeterminable: broken	INUN
+EPDcoretop_E196	4073	1	999	Indeterminable: concealed	Indeterminable: concealed	INUN
+EPDcoretop_E196	4074	1	1324	Indeterminable: corroded	Indeterminable: corroded	INUN
+EPDcoretop_E196	4075	1	1925	Indeterminable: crumpled	Indeterminable: crumpled	INUN
+EPDcoretop_E196	718	1	718	Indeterminable: degraded	Indeterminable: degraded	INUN
+EPDcoretop_E196	1971	2	1841	Myriophyllum alterniflorum	Myriophyllum alterniflorum	AQUA
+EPDcoretop_E196	75	9	75	Pinus	Pinus	TRSH
+EPDcoretop_E196	60	1	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+EPDcoretop_E196	64	2	64	Plantago maritima	Plantago maritima-type	HERB
+EPDcoretop_E196	666	17	214	Polypodium	Polypodium	VACR
+EPDcoretop_E196	657	1	108	Potamogeton	Potamogeton-type	AQUA
+EPDcoretop_E196	1366	24	512	Potentilla	Potentilla-type	HERB
+EPDcoretop_E196	189	2	189	Quercus	Quercus	TRSH
+EPDcoretop_E196	93	3	93	Rubiaceae	Rubiaceae	HERB
+EPDcoretop_E196	727	4	94	Rumex	Rumex/Oxyria	HERB
+EPDcoretop_E196	99	1	99	Salix	Salix	TRSH
+EPDcoretop_E196	4542	1	883	Sample volume (ml)	Sample volume (ml)	NOPO
+EPDcoretop_E196	144	194	144	Sphagnum	Sphagnum	BRYO
+EPDcoretop_E196	2392	1	989	Succisa	Succisa-type	HERB
+EPDcoretop_E196	187	1	187	Tilia	Tilia	TRSH
+EPDcoretop_E196	154	6	154	Ulmus	Ulmus/Zelkova	TRSH
+EPDcoretop_E196	969	1	177	Unknown	Indeterminable: unknown	INUN
+EPDcoretop_E196	739	33	739	Empetrum	Empetrum nigrum	DWAR
+EPDcoretop_E196	1590	162	1590	Isoetes lacustris	Isoetes lacustris	AQPT
+EPDcoretop_E196	3646	360	3645	Calluna vulgaris	Calluna vulgaris	DWAR
+EPDcoretop_E196	3969	25	146	Filicopsida	Monolete fern spores	VACR

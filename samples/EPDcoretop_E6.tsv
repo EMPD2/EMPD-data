@@ -1,35 +1,35 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-EPDcoretop_E6	Alnus	Alnus	TRSH	21	5.46875
-EPDcoretop_E6	Betula	Betula	TRSH	12	3.125
-EPDcoretop_E6	Calluna vulgaris	Calluna vulgaris	DWAR	72	18.75
-EPDcoretop_E6	Corylus	Corylus	TRSH	70	18.229167
-EPDcoretop_E6	Ericaceae	Ericales (tetrad)	DWAR	2	0.52083333
-EPDcoretop_E6	Ulex	Genista-type	TRSH	1	0.26041667
-EPDcoretop_E6	Ilex	Ilex	TRSH	1	0.26041667
-EPDcoretop_E6	Pinus	Pinus	TRSH	5	1.3020833
-EPDcoretop_E6	Quercus	Quercus	TRSH	17	4.4270833
-EPDcoretop_E6	Rosaceae	Rosaceae	TRSH	5	1.3020833
-EPDcoretop_E6	Salix	Salix	TRSH	1	0.26041667
-EPDcoretop_E6	Ulmus	Ulmus/Zelkova	TRSH	5	1.3020833
-EPDcoretop_E6	Hedera	Hedera	LIAN	1	0.26041667
-EPDcoretop_E6	Cannabaceae	Humulus/Cannabis	HERB	1	0.26041667
-EPDcoretop_E6	Jasione	Jasione montana-type	HERB	2	0.52083333
-EPDcoretop_E6	Plantago lanceolata	Plantago lanceolata-type	HERB	7	1.8229167
-EPDcoretop_E6	Plantago media	Plantago media	HERB	1	0.26041667
-EPDcoretop_E6	Gramineae undiff.	Poaceae	HERB	57	14.84375
-EPDcoretop_E6	Potentilla	Potentilla-type	HERB	4	1.0416667
-EPDcoretop_E6	Galium	Rubiaceae	HERB	1	0.26041667
-EPDcoretop_E6	Rumex acetosella	Rumex acetosella	HERB	2	0.52083333
-EPDcoretop_E6	Teucrium	Teucrium	HERB	1	0.26041667
-EPDcoretop_E6	Lycopodium	Lycopodium	VACR	26	6.7708333
-EPDcoretop_E6	Filicopsida	Monolete fern spores	VACR	15	3.90625
-EPDcoretop_E6	Polypodium	Polypodium	VACR	3	0.78125
-EPDcoretop_E6	Pteridium	Pteridium	VACR	8	2.0833333
-EPDcoretop_E6	Sphagnum	Sphagnum	BRYO	43	11.197917
-EPDcoretop_E6	Cyperaceae	Cyperaceae	AQUA	6	1.5625
-EPDcoretop_E6	Isoetes	Isoetes	AQPT	1	0.26041667
-EPDcoretop_E6	Indeterminable: broken	Indeterminable: broken	INUN	2	
-EPDcoretop_E6	Indeterminable: concealed	Indeterminable: concealed	INUN	1	
-EPDcoretop_E6	Indeterminable: crumpled	Indeterminable: crumpled	INUN	2	
-EPDcoretop_E6	Indeterminable: deteriorated	Indeterminable: deteriorated	INUN	9	
-EPDcoretop_E6	Indeterminable: unknown	Indeterminable: unknown	INUN	3	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+EPDcoretop_E6	5	21	5	Alnus	Alnus	TRSH
+EPDcoretop_E6	12	12	12	Betula	Betula	TRSH
+EPDcoretop_E6	3652	1	205	Cannabaceae	Humulus/Cannabis	HERB
+EPDcoretop_E6	201	70	31	Corylus	Corylus	TRSH
+EPDcoretop_E6	3868	6	3868	Cyperaceae	Cyperaceae	AQUA
+EPDcoretop_E6	1475	1	93	Galium	Rubiaceae	HERB
+EPDcoretop_E6	4018	57	80	Gramineae undiff.	Poaceae	HERB
+EPDcoretop_E6	4031	1	4031	Hedera	Hedera	LIAN
+EPDcoretop_E6	435	1	55	Ilex	Ilex	TRSH
+EPDcoretop_E6	4072	2	998	Indeterminable: broken	Indeterminable: broken	INUN
+EPDcoretop_E6	4073	1	999	Indeterminable: concealed	Indeterminable: concealed	INUN
+EPDcoretop_E6	4075	2	1925	Indeterminable: crumpled	Indeterminable: crumpled	INUN
+EPDcoretop_E6	4076	9	4076	Indeterminable: deteriorated	Indeterminable: deteriorated	INUN
+EPDcoretop_E6	4078	3	177	Indeterminable: unknown	Indeterminable: unknown	INUN
+EPDcoretop_E6	56	2	56	Jasione	Jasione montana-type	HERB
+EPDcoretop_E6	143	26	143	Lycopodium	Lycopodium	VACR
+EPDcoretop_E6	75	5	75	Pinus	Pinus	TRSH
+EPDcoretop_E6	60	7	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+EPDcoretop_E6	666	3	214	Polypodium	Polypodium	VACR
+EPDcoretop_E6	1366	4	512	Potentilla	Potentilla-type	HERB
+EPDcoretop_E6	189	17	189	Quercus	Quercus	TRSH
+EPDcoretop_E6	92	5	92	Rosaceae	Rosaceae	TRSH
+EPDcoretop_E6	96	2	96	Rumex acetosella	Rumex acetosella	HERB
+EPDcoretop_E6	99	1	99	Salix	Salix	TRSH
+EPDcoretop_E6	144	43	144	Sphagnum	Sphagnum	BRYO
+EPDcoretop_E6	1356	1	1356	Teucrium	Teucrium	HERB
+EPDcoretop_E6	4707	1	49	Ulex	Genista-type	TRSH
+EPDcoretop_E6	154	5	154	Ulmus	Ulmus/Zelkova	TRSH
+EPDcoretop_E6	130	2	130	Ericaceae	Ericales (tetrad)	DWAR
+EPDcoretop_E6	431	8	180	Pteridium	Pteridium aquilinum	VACR
+EPDcoretop_E6	552	1	366	Isoetes	Isoetes	AQPT
+EPDcoretop_E6	1169	1	698	Plantago media	Plantago media	HERB
+EPDcoretop_E6	3646	72	3645	Calluna vulgaris	Calluna vulgaris	DWAR
+EPDcoretop_E6	3969	15	146	Filicopsida	Monolete fern spores	VACR

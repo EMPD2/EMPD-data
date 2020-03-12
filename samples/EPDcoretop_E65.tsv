@@ -1,40 +1,40 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-EPDcoretop_E65	Abies nordmanniana	Abies	TRSH	3	0.85959885
-EPDcoretop_E65	Acer	Acer campestre-type	TRSH	1	0.28653295
-EPDcoretop_E65	Alnus	Alnus	TRSH	68	19.484241
-EPDcoretop_E65	Carpinus betulus	Carpinus betulus	TRSH	2	0.5730659
-EPDcoretop_E65	Castanea sativa	Castanea sativa	TRSH	1	0.28653295
-EPDcoretop_E65	Corylus	Corylus	TRSH	14	4.0114613
-EPDcoretop_E65	Fagus orientalis	Fagus	TRSH	14	4.0114613
-EPDcoretop_E65	Picea orientalis	Picea omorika-type	TRSH	2	0.5730659
-EPDcoretop_E65	Pinus	Pinus	TRSH	5	1.4326648
-EPDcoretop_E65	Quercus	Quercus	TRSH	2	0.5730659
-EPDcoretop_E65	Rhododendron	Rhododendron	TRSH	4	1.1461318
-EPDcoretop_E65	Rosaceae	Rosaceae	TRSH	1	0.28653295
-EPDcoretop_E65	Tilia	Tilia	TRSH	1	0.28653295
-EPDcoretop_E65	Ulmus	Ulmus/Zelkova	TRSH	1	0.28653295
-EPDcoretop_E65	Umbelliferae	Apiaceae	HERB	30	8.5959885
-EPDcoretop_E65	Artemisia	Artemisia	HERB	1	0.28653295
-EPDcoretop_E65	Aster	Aster-type	HERB	3	0.85959885
-EPDcoretop_E65	Compositae	Asteraceae	HERB	1	0.28653295
-EPDcoretop_E65	Taraxacum	Asteraceae subf. Cichorioideae	HERB	1	0.28653295
-EPDcoretop_E65	Boraginaceae	Boraginaceae	HERB	3	0.85959885
-EPDcoretop_E65	Cruciferae	Brassicaceae	HERB	1	0.28653295
-EPDcoretop_E65	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	6	1.7191977
-EPDcoretop_E65	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	3	0.85959885
-EPDcoretop_E65	Cirsium	Cirsium	HERB	3	0.85959885
-EPDcoretop_E65	Cichorium	Crepis-type	HERB	5	1.4326648
-EPDcoretop_E65	Labiatae	Lamiaceae	HERB	3	0.85959885
-EPDcoretop_E65	Leguminosae	Leguminosae	HERB	1	0.28653295
-EPDcoretop_E65	Liliaceae	Liliaceae-type	HERB	1	0.28653295
-EPDcoretop_E65	Campanula	Phyteuma-type	HERB	2	0.5730659
-EPDcoretop_E65	Plumbaginaceae	Plumbaginaceae	HERB	1	0.28653295
-EPDcoretop_E65	Gramineae	Poaceae	HERB	13	3.7249284
-EPDcoretop_E65	Polygonaceae	Polygonaceae	HERB	19	5.4441261
-EPDcoretop_E65	Primulaceae	Primulaceae	HERB	1	0.28653295
-EPDcoretop_E65	Ranunculaceae	Ranunculaceae	HERB	1	0.28653295
-EPDcoretop_E65	Polypodiaceae undiff.	Monolete fern spores	VACR	129	36.962751
-EPDcoretop_E65	Polypodium vulgare	Polypodium	VACR	1	0.28653295
-EPDcoretop_E65	Pteridium undiff.	Pteridium aquilinum	VACR	1	0.28653295
-EPDcoretop_E65	Cyperaceae	Cyperaceae	AQUA	7	2.0057307
-EPDcoretop_E65	Indeterminable: unknown	Indeterminable: unknown	INUN	11	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+EPDcoretop_E65	3490	3	321	Abies nordmanniana	Abies	TRSH
+EPDcoretop_E65	5	68	5	Alnus	Alnus	TRSH
+EPDcoretop_E65	1458	3	11	Aster	Aster-type	HERB
+EPDcoretop_E65	602	2	483	Campanula	Phyteuma-type	HERB
+EPDcoretop_E65	563	2	16	Carpinus betulus	Carpinus betulus	TRSH
+EPDcoretop_E65	19	1	19	Castanea sativa	Castanea sativa	TRSH
+EPDcoretop_E65	24	3	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+EPDcoretop_E65	603	3	603	Cirsium	Cirsium	HERB
+EPDcoretop_E65	2466	1	134	Compositae	Asteraceae	HERB
+EPDcoretop_E65	201	14	31	Corylus	Corylus	TRSH
+EPDcoretop_E65	482	1	13	Cruciferae	Brassicaceae	HERB
+EPDcoretop_E65	3868	7	3868	Cyperaceae	Cyperaceae	AQUA
+EPDcoretop_E65	3963	14	42	Fagus orientalis	Fagus	TRSH
+EPDcoretop_E65	4078	11	177	Indeterminable: unknown	Indeterminable: unknown	INUN
+EPDcoretop_E65	4292	2	4292	Picea orientalis	Picea omorika-type	TRSH
+EPDcoretop_E65	1916	1	166	Plumbaginaceae	Plumbaginaceae	HERB
+EPDcoretop_E65	138	19	138	Polygonaceae	Polygonaceae	HERB
+EPDcoretop_E65	1174	129	146	Polypodiaceae undiff.	Monolete fern spores	VACR
+EPDcoretop_E65	667	1	214	Polypodium vulgare	Polypodium	VACR
+EPDcoretop_E65	4406	1	180	Pteridium undiff.	Pteridium aquilinum	VACR
+EPDcoretop_E65	189	2	189	Quercus	Quercus	TRSH
+EPDcoretop_E65	135	1	135	Ranunculaceae	Ranunculaceae	HERB
+EPDcoretop_E65	92	1	92	Rosaceae	Rosaceae	TRSH
+EPDcoretop_E65	154	1	154	Ulmus	Ulmus/Zelkova	TRSH
+EPDcoretop_E65	590	30	6	Umbelliferae	Apiaceae	HERB
+EPDcoretop_E65	2	1	2	Acer	Acer campestre-type	TRSH
+EPDcoretop_E65	7	1	7	Artemisia	Artemisia	HERB
+EPDcoretop_E65	18	6	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+EPDcoretop_E65	62	1	62	Liliaceae	Liliaceae-type	HERB
+EPDcoretop_E65	75	5	75	Pinus	Pinus	TRSH
+EPDcoretop_E65	162	3	162	Boraginaceae	Boraginaceae	HERB
+EPDcoretop_E65	187	1	187	Tilia	Tilia	TRSH
+EPDcoretop_E65	480	4	480	Rhododendron	Rhododendron	TRSH
+EPDcoretop_E65	485	3	59	Labiatae	Lamiaceae	HERB
+EPDcoretop_E65	744	1	744	Leguminosae	Leguminosae	HERB
+EPDcoretop_E65	799	1	799	Primulaceae	Primulaceae	HERB
+EPDcoretop_E65	1599	1	25	Taraxacum	Asteraceae subf. Cichorioideae	HERB
+EPDcoretop_E65	1601	13	80	Gramineae	Poaceae	HERB
+EPDcoretop_E65	3155	5	1242	Cichorium	Crepis-type	HERB

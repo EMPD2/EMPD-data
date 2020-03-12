@@ -1,34 +1,34 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Leroy_d19	Abies	Abies	TRSH	2	1.4184397
-Leroy_d19	Alnus	Alnus	TRSH	6	4.2553191
-Leroy_d19	Carpinus betulus-type	Carpinus betulus	TRSH	3	2.1276596
-Leroy_d19	Castanea	Castanea sativa	TRSH	21	14.893617
-Leroy_d19	Corylus	Corylus	TRSH	2	1.4184397
-Leroy_d19	Cupressaceae	Cupressaceae undiff.	TRSH	1	0.70921986
-Leroy_d19	Ericaceae	Ericales (tetrad)	DWAR	2	1.4184397
-Leroy_d19	Fagus	Fagus	TRSH	3	2.1276596
-Leroy_d19	Juglans	Juglans	TRSH	15	10.638298
-Leroy_d19	Pinus	Pinus	TRSH	31	21.985816
-Leroy_d19	Quercus evergreen	Quercus ilex-type	TRSH	2	1.4184397
-Leroy_d19	Quercus deciduous	Quercus robur-type	TRSH	7	4.964539
-Leroy_d19	Rhododendron	Rhododendron	TRSH	2	1.4184397
-Leroy_d19	Rosaceae	Rosaceae	TRSH	1	0.70921986
-Leroy_d19	Salix	Salix	TRSH	3	2.1276596
-Leroy_d19	Tilia	Tilia	TRSH	3	2.1276596
-Leroy_d19	Hedera	Hedera	LIAN	1	0.70921986
-Leroy_d19	Asteraceae Tubuliflorae	Asteraceae subf. Asteroideae	HERB	1	0.70921986
-Leroy_d19	Asteraceae Liguliflorae	Asteraceae subf. Cichorioideae	HERB	3	2.1276596
-Leroy_d19	Amaranthaceae/Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	3	2.1276596
-Leroy_d19	Euphorbia	Euphorbia	HERB	1	0.70921986
-Leroy_d19	Mercurialis annua	Mercurialis annua	HERB	1	0.70921986
-Leroy_d19	Plantago lanceolata	Plantago lanceolata-type	HERB	3	2.1276596
-Leroy_d19	Poaceae	Poaceae	HERB	6	4.2553191
-Leroy_d19	Dryopteris filix-mas	Dryopteris filix-mas-type	VACR	6	4.2553191
-Leroy_d19	Monolete psilate	Monolete fern spores	VACR	7	4.964539
-Leroy_d19	Monolete not psilate	Monolete fern spores	VACR	4	2.8368794
-Leroy_d19	Trilete spores (psilate)	Trilete spore(s)	VACR	1	0.70921986
-Leroy_d19	Cyperaceae	Cyperaceae	AQUA	1	0.70921986
-Leroy_d19	Fabaceae	Fabaceae	INUN	1	
-Leroy_d19	Indeterminable: unknown	Indeterminable: unknown	INUN	15	
-Leroy_d19	Moss: leaf	Moss: remains	MACR	2	
-Leroy_d19	Concentricystes	Pseudoschizaea	NOPO	1	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Leroy_d19	560	2	321	Abies	Abies	TRSH
+Leroy_d19	5	6	5	Alnus	Alnus	TRSH
+Leroy_d19	1337	3	25	Asteraceae Liguliflorae	Asteraceae subf. Cichorioideae	HERB
+Leroy_d19	1927	1	160	Asteraceae Tubuliflorae	Asteraceae subf. Asteroideae	HERB
+Leroy_d19	3667	3	16	Carpinus betulus-type	Carpinus betulus	TRSH
+Leroy_d19	441	21	19	Castanea	Castanea sativa	TRSH
+Leroy_d19	3832	1	3832	Concentricystes	Pseudoschizaea	NOPO
+Leroy_d19	201	2	31	Corylus	Corylus	TRSH
+Leroy_d19	714	1	347	Cupressaceae	Cupressaceae undiff.	TRSH
+Leroy_d19	3868	1	3868	Cyperaceae	Cyperaceae	AQUA
+Leroy_d19	825	6	220	Dryopteris filix-mas	Dryopteris filix-mas-type	VACR
+Leroy_d19	130	2	130	Ericaceae	Ericales (tetrad)	DWAR
+Leroy_d19	40	1	40	Euphorbia	Euphorbia	HERB
+Leroy_d19	3958	1	3958	Fabaceae	Fabaceae	INUN
+Leroy_d19	192	3	42	Fagus	Fagus	TRSH
+Leroy_d19	4031	1	4031	Hedera	Hedera	LIAN
+Leroy_d19	4078	15	177	Indeterminable: unknown	Indeterminable: unknown	INUN
+Leroy_d19	57	15	57	Juglans	Juglans	TRSH
+Leroy_d19	66	1	66	Mercurialis annua	Mercurialis annua	HERB
+Leroy_d19	1921	7	146	Monolete psilate	Monolete fern spores	VACR
+Leroy_d19	4196	4	146	Monolete not psilate	Monolete fern spores	VACR
+Leroy_d19	4202	2	2023	Moss: leaf	Moss: remains	MACR
+Leroy_d19	75	31	75	Pinus	Pinus	TRSH
+Leroy_d19	60	3	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+Leroy_d19	80	6	80	Poaceae	Poaceae	HERB
+Leroy_d19	437	7	86	Quercus deciduous	Quercus robur-type	TRSH
+Leroy_d19	427	2	85	Quercus evergreen	Quercus ilex-type	TRSH
+Leroy_d19	480	2	480	Rhododendron	Rhododendron	TRSH
+Leroy_d19	92	1	92	Rosaceae	Rosaceae	TRSH
+Leroy_d19	99	3	99	Salix	Salix	TRSH
+Leroy_d19	187	3	187	Tilia	Tilia	TRSH
+Leroy_d19	4687	1	279	Trilete spores (psilate)	Trilete spore(s)	VACR
+Leroy_d19	3525	3	24	Amaranthaceae/Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB

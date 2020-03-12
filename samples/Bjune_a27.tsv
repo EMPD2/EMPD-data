@@ -1,35 +1,35 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Bjune_a27	Alnus	Alnus	TRSH	35	6.8226121
-Bjune_a27	Betula	Betula	TRSH	212	41.325536
-Bjune_a27	Calluna vulgaris	Calluna vulgaris	DWAR	1	0.19493177
-Bjune_a27	Ericaceae-type	Ericales (tetrad)	DWAR	1	0.19493177
-Bjune_a27	Juniperus communis	Juniperus communis-type	TRSH	85	16.569201
-Bjune_a27	Picea	Picea	TRSH	1	0.19493177
-Bjune_a27	Pinus sylvestris	Pinus sylvestris-type	TRSH	57	11.111111
-Bjune_a27	Salix undiff.	Salix	TRSH	3	0.58479532
-Bjune_a27	Sorbus aucuparia	Sorbus-type	TRSH	1	0.19493177
-Bjune_a27	Vaccinium-type	Vaccinium-type	DWAR	1	0.19493177
-Bjune_a27	Filipendula	Filipendula	HERB	9	1.754386
-Bjune_a27	Gramineae undiff.	Poaceae	HERB	38	7.4074074
-Bjune_a27	Potentilla-type	Potentilla-type	HERB	1	0.19493177
-Bjune_a27	Rubiaceae	Rubiaceae	HERB	1	0.19493177
-Bjune_a27	Rumex acetosa-type/R. acetosella-type	Rumex acetosa-type	HERB	6	1.1695906
-Bjune_a27	Rumex acetosa	Rumex acetosa-type	HERB	2	0.38986355
-Bjune_a27	Thalictrum	Thalictrum	HERB	2	0.38986355
-Bjune_a27	Urtica	Urtica	HERB	2	0.38986355
-Bjune_a27	Dryopteris-type	Dryopteris-type	VACR	32	6.2378168
-Bjune_a27	Equisetum	Equisetum	VACR	5	0.97465887
-Bjune_a27	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR	3	0.58479532
-Bjune_a27	Lycopodium annotinum	Lycopodium annotinum-type	VACR	4	0.7797271
-Bjune_a27	Thelypteris phegopteris	Phegopteris connectilis	VACR	2	0.38986355
-Bjune_a27	Selaginella selaginoides	Selaginella selaginoides	VACR	5	0.97465887
-Bjune_a27	Sphagnum	Sphagnum	BRYO	4	0.7797271
-Bjune_a27	Botryococcus	Botryococcus	ALGA	196	38.206628
-Bjune_a27	Carex-type	Carex	AQUA	31	6.042885
-Bjune_a27	Cyperaceae undiff.	Cyperaceae	AQUA	9	1.754386
-Bjune_a27	Nymphaea	Nymphaea	AQUA	1	0.19493177
-Bjune_a27	Pediastrum	Pediastrum	ALGA	49	9.5516569
-Bjune_a27	Potamogeton sect. Eupotamogeton	Potamogeton natans-type	AQUA	11	2.1442495
-Bjune_a27	Ranunculus trichophyllus-type	Ranunculus aquatilis-type	AQUA	3	0.58479532
-Bjune_a27	Indeterminable: corroded	Indeterminable: corroded	INUN	1	
-Bjune_a27	Indeterminable: crumpled	Indeterminable: crumpled	INUN	1	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Bjune_a27	5	35	5	Alnus	Alnus	TRSH
+Bjune_a27	12	212	12	Betula	Betula	TRSH
+Bjune_a27	663	196	663	Botryococcus	Botryococcus	ALGA
+Bjune_a27	3646	1	3645	Calluna vulgaris	Calluna vulgaris	DWAR
+Bjune_a27	3665	31	3663	Carex-type	Carex	AQUA
+Bjune_a27	3873	9	3868	Cyperaceae undiff.	Cyperaceae	AQUA
+Bjune_a27	1247	32	772	Dryopteris-type	Dryopteris-type	VACR
+Bjune_a27	145	5	145	Equisetum	Equisetum	VACR
+Bjune_a27	45	9	45	Filipendula	Filipendula	HERB
+Bjune_a27	4018	38	80	Gramineae undiff.	Poaceae	HERB
+Bjune_a27	2121	3	1320	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR
+Bjune_a27	4074	1	1324	Indeterminable: corroded	Indeterminable: corroded	INUN
+Bjune_a27	4075	1	1925	Indeterminable: crumpled	Indeterminable: crumpled	INUN
+Bjune_a27	941	85	58	Juniperus communis	Juniperus communis-type	TRSH
+Bjune_a27	627	1	627	Nymphaea	Nymphaea	AQUA
+Bjune_a27	126	1	126	Picea	Picea	TRSH
+Bjune_a27	4384	11	912	Potamogeton sect. Eupotamogeton	Potamogeton natans-type	AQUA
+Bjune_a27	626	1	512	Potentilla-type	Potentilla-type	HERB
+Bjune_a27	4459	3	1182	Ranunculus trichophyllus-type	Ranunculus aquatilis-type	AQUA
+Bjune_a27	93	1	93	Rubiaceae	Rubiaceae	HERB
+Bjune_a27	95	2	95	Rumex acetosa	Rumex acetosa-type	HERB
+Bjune_a27	4504	6	95	Rumex acetosa-type/R. acetosella-type	Rumex acetosa-type	HERB
+Bjune_a27	1400	3	99	Salix undiff.	Salix	TRSH
+Bjune_a27	874	5	185	Selaginella selaginoides	Selaginella selaginoides	VACR
+Bjune_a27	144	4	144	Sphagnum	Sphagnum	BRYO
+Bjune_a27	4660	2	1541	Thelypteris phegopteris	Phegopteris connectilis	VACR
+Bjune_a27	652	2	652	Urtica	Urtica	HERB
+Bjune_a27	112	2	112	Thalictrum	Thalictrum	HERB
+Bjune_a27	662	49	662	Pediastrum	Pediastrum	ALGA
+Bjune_a27	788	57	125	Pinus sylvestris	Pinus sylvestris-type	TRSH
+Bjune_a27	965	4	183	Lycopodium annotinum	Lycopodium annotinum-type	VACR
+Bjune_a27	2388	1	107	Sorbus aucuparia	Sorbus-type	TRSH
+Bjune_a27	3944	1	130	Ericaceae-type	Ericales (tetrad)	DWAR
+Bjune_a27	4730	1	4730	Vaccinium-type	Vaccinium-type	DWAR

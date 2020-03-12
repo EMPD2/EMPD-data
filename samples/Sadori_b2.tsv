@@ -1,50 +1,50 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Sadori_b2	Abies	Abies	TRSH	1	0.34364261
-Sadori_b2	Alnus	Alnus	TRSH	27	9.2783505
-Sadori_b2	Carpinus betulus	Carpinus betulus	TRSH	4	1.3745704
-Sadori_b2	Castanea	Castanea sativa	TRSH	1	0.34364261
-Sadori_b2	Corylus	Corylus	TRSH	7	2.4054983
-Sadori_b2	Ephedra fragilis-type	Ephedra fragilis-type	TRSH	1	0.34364261
-Sadori_b2	Ericaceae	Ericales (tetrad)	DWAR	9	3.0927835
-Sadori_b2	Fagus	Fagus	TRSH	6	2.0618557
-Sadori_b2	Fraxinus	Fraxinus	TRSH	3	1.0309278
-Sadori_b2	Olea	Olea europaea	TRSH	16	5.4982818
-Sadori_b2	Ostrya/Carpinus orientalis	Ostrya/Carpinus orientalis	TRSH	10	3.4364261
-Sadori_b2	Pinus	Pinus	TRSH	6	2.0618557
-Sadori_b2	Pistacia	Pistacia	TRSH	2	0.68728522
-Sadori_b2	Populus	Populus	TRSH	1	0.34364261
-Sadori_b2	Quercus cerris-type	Quercus cerris-type	TRSH	2	0.68728522
-Sadori_b2	Quercus evergreen	Quercus ilex-type	TRSH	13	4.467354
-Sadori_b2	Quercus deciduous	Quercus robur-type	TRSH	29	9.9656357
-Sadori_b2	Salix	Salix	TRSH	3	1.0309278
-Sadori_b2	Ulmus	Ulmus/Zelkova	TRSH	10	3.4364261
-Sadori_b2	Vitis	Vitis	LIAN	1	0.34364261
-Sadori_b2	Umbelliferae	Apiaceae	HERB	1	0.34364261
-Sadori_b2	Artemisia	Artemisia	HERB	6	2.0618557
-Sadori_b2	Asteroideae	Asteraceae subf. Asteroideae	HERB	9	3.0927835
-Sadori_b2	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	11	3.7800687
-Sadori_b2	Cruciferae	Brassicaceae	HERB	1	0.34364261
-Sadori_b2	Campanulaceae	Campanulaceae	HERB	1	0.34364261
-Sadori_b2	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	8	2.7491409
-Sadori_b2	Cerealia-type	Cerealia-type	HERB	5	1.7182131
-Sadori_b2	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	2	0.68728522
-Sadori_b2	Cistus	Cistus	HERB	1	0.34364261
-Sadori_b2	Cannabaceae	Humulus/Cannabis	HERB	2	0.68728522
-Sadori_b2	Leguminosae	Leguminosae	HERB	6	2.0618557
-Sadori_b2	Plantago	Plantago	HERB	2	0.68728522
-Sadori_b2	Gramineae	Poaceae	HERB	75	25.773196
-Sadori_b2	Ranunculaceae	Ranunculaceae	HERB	3	1.0309278
-Sadori_b2	Rumex	Rumex/Oxyria	HERB	1	0.34364261
-Sadori_b2	Monolete fern spores	Monolete fern spores	VACR	2	0.68728522
-Sadori_b2	Polypodium	Polypodium	VACR	1	0.34364261
-Sadori_b2	Trilete spores	Trilete spore(s)	VACR	2	0.68728522
-Sadori_b2	Alisma	Alisma-type	AQUA	1	0.34364261
-Sadori_b2	Cyperaceae	Cyperaceae	AQUA	2	0.68728522
-Sadori_b2	Myriophyllum alterniflorum	Myriophyllum alterniflorum	AQUA	1	0.34364261
-Sadori_b2	Charcoal 50-125 _m	Charcoal 50-125µm	CHAR	2	
-Sadori_b2	Charcoal <50 -_m	Charcoal <50µm	CHAR	29	
-Sadori_b2	Indeterminable: unknown	Indeterminable: unknown	INUN	37	
-Sadori_b2	Botryococcaceae	Botryococcaceae	NOPO	3	
-Sadori_b2	Lycopodium (added)	Lycopodium (added)	NOPO	27000	
-Sadori_b2	Lycopodium (counted)	Lycopodium (counted)	NOPO	603	
-Sadori_b2	Pseudoschizaea	Pseudoschizaea	CHLO	1	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Sadori_b2	5	27	5	Alnus	Alnus	TRSH
+Sadori_b2	7	6	7	Artemisia	Artemisia	HERB
+Sadori_b2	761	9	160	Asteroideae	Asteraceae subf. Asteroideae	HERB
+Sadori_b2	3628	3	331	Botryococcaceae	Botryococcaceae	NOPO
+Sadori_b2	3652	2	205	Cannabaceae	Humulus/Cannabis	HERB
+Sadori_b2	563	4	16	Carpinus betulus	Carpinus betulus	TRSH
+Sadori_b2	18	8	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Sadori_b2	441	1	19	Castanea	Castanea sativa	TRSH
+Sadori_b2	1065	5	22	Cerealia-type	Cerealia-type	HERB
+Sadori_b2	3774	29	701	Charcoal <50 -_m	Charcoal <50µm	CHAR
+Sadori_b2	3783	2	3783	Charcoal 50-125 _m	Charcoal 50-125µm	CHAR
+Sadori_b2	24	2	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Sadori_b2	447	11	25	Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Sadori_b2	201	7	31	Corylus	Corylus	TRSH
+Sadori_b2	482	1	13	Cruciferae	Brassicaceae	HERB
+Sadori_b2	3868	2	3868	Cyperaceae	Cyperaceae	AQUA
+Sadori_b2	130	9	130	Ericaceae	Ericales (tetrad)	DWAR
+Sadori_b2	192	6	42	Fagus	Fagus	TRSH
+Sadori_b2	1601	75	80	Gramineae	Poaceae	HERB
+Sadori_b2	4078	37	177	Indeterminable: unknown	Indeterminable: unknown	INUN
+Sadori_b2	744	6	744	Leguminosae	Leguminosae	HERB
+Sadori_b2	692	27000	692	Lycopodium (added)	Lycopodium (added)	NOPO
+Sadori_b2	559	603	559	Lycopodium (counted)	Lycopodium (counted)	NOPO
+Sadori_b2	4193	2	146	Monolete fern spores	Monolete fern spores	VACR
+Sadori_b2	1971	1	1841	Myriophyllum alterniflorum	Myriophyllum alterniflorum	AQUA
+Sadori_b2	442	16	68	Olea	Olea europaea	TRSH
+Sadori_b2	4238	10	70	Ostrya/Carpinus orientalis	Ostrya/Carpinus orientalis	TRSH
+Sadori_b2	724	2	270	Plantago	Plantago	HERB
+Sadori_b2	4404	1	4404	Pseudoschizaea	Pseudoschizaea	CHLO
+Sadori_b2	437	29	86	Quercus deciduous	Quercus robur-type	TRSH
+Sadori_b2	427	13	85	Quercus evergreen	Quercus ilex-type	TRSH
+Sadori_b2	135	3	135	Ranunculaceae	Ranunculaceae	HERB
+Sadori_b2	99	3	99	Salix	Salix	TRSH
+Sadori_b2	416	2	279	Trilete spores	Trilete spore(s)	VACR
+Sadori_b2	4756	1	4756	Vitis	Vitis	LIAN
+Sadori_b2	75	6	75	Pinus	Pinus	TRSH
+Sadori_b2	77	2	77	Pistacia	Pistacia	TRSH
+Sadori_b2	81	1	81	Populus	Populus	TRSH
+Sadori_b2	136	1	136	Campanulaceae	Campanulaceae	HERB
+Sadori_b2	154	10	154	Ulmus	Ulmus/Zelkova	TRSH
+Sadori_b2	190	3	190	Fraxinus	Fraxinus	TRSH
+Sadori_b2	560	1	321	Abies	Abies	TRSH
+Sadori_b2	590	1	6	Umbelliferae	Apiaceae	HERB
+Sadori_b2	666	1	214	Polypodium	Polypodium	VACR
+Sadori_b2	727	1	94	Rumex	Rumex/Oxyria	HERB
+Sadori_b2	1051	2	84	Quercus cerris-type	Quercus cerris-type	TRSH
+Sadori_b2	1456	1	1456	Alisma	Alisma-type	AQUA
+Sadori_b2	2424	1	36	Ephedra fragilis-type	Ephedra fragilis-type	TRSH
+Sadori_b2	3796	1	3796	Cistus	Cistus	HERB

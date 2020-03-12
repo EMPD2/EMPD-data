@@ -1,35 +1,35 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Grant_a14	Alnus glutinosa	Alnus glutinosa-type	TRSH	3	0.89552239
-Grant_a14	Betula	Betula	TRSH	13	3.880597
-Grant_a14	Calluna vulgaris	Calluna vulgaris	DWAR	65	19.402985
-Grant_a14	Corylus avellana-type	Corylus	TRSH	19	5.6716418
-Grant_a14	Fagus sylvatica	Fagus	TRSH	2	0.59701493
-Grant_a14	Fraxinus excelsior	Fraxinus excelsior-type	TRSH	3	0.89552239
-Grant_a14	Pinus sylvestris	Pinus sylvestris-type	TRSH	16	4.7761194
-Grant_a14	Quercus	Quercus	TRSH	18	5.3731343
-Grant_a14	Taxus baccata	Taxus baccata	TRSH	1	0.29850746
-Grant_a14	Ulmus	Ulmus/Zelkova	TRSH	2	0.59701493
-Grant_a14	Apiaceae undiff.	Apiaceae	HERB	2	0.59701493
-Grant_a14	Poaceae (annulus >10 um)	Cerealia-type	HERB	2	0.59701493
-Grant_a14	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	2	0.59701493
-Grant_a14	Stachys-type	Galeopsis-type	HERB	1	0.29850746
-Grant_a14	Campanula-type	Phyteuma-type	HERB	1	0.29850746
-Grant_a14	Plantago lanceolata	Plantago lanceolata-type	HERB	2	0.59701493
-Grant_a14	Plantago major	Plantago major	HERB	1	0.29850746
-Grant_a14	Poaceae undiff.	Poaceae	HERB	153	45.671642
-Grant_a14	Ranunculus acris-type	Ranunculus acris-type	HERB	2	0.59701493
-Grant_a14	Rhinanthus-type	Rhinanthus-type	HERB	1	0.29850746
-Grant_a14	Rumex acetosa	Rumex acetosa-type	HERB	3	0.89552239
-Grant_a14	Rumex acetosella	Rumex acetosella	HERB	6	1.7910448
-Grant_a14	Spergula-type	Spergularia-type	HERB	1	0.29850746
-Grant_a14	Urtica dioica	Urtica dioica	HERB	4	1.1940299
-Grant_a14	Asplenium-type	Asplenium-type	VACR	1	0.29850746
-Grant_a14	Bryophyta	Bryophyte spores	BRYO	8	2.3880597
-Grant_a14	Equisetum	Equisetum	VACR	1	0.29850746
-Grant_a14	Pteridium aquilinum	Pteridium aquilinum	VACR	2	0.59701493
-Grant_a14	Caltha palustris-type	Caltha-type	AQUA	1	0.29850746
-Grant_a14	Cyperaceae undiff.	Cyperaceae	AQUA	5	1.4925373
-Grant_a14	Indeterminable: broken	Indeterminable: broken	INUN	2	
-Grant_a14	Indeterminable: concealed	Indeterminable: concealed	INUN	4	
-Grant_a14	Lycopodium (added)	Lycopodium (added)	NOPO	21358	
-Grant_a14	Sediment volume used (ml)	Sample volume (ml)	NOPO	1	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Grant_a14	760	3	155	Alnus glutinosa	Alnus glutinosa-type	TRSH
+Grant_a14	1107	2	6	Apiaceae undiff.	Apiaceae	HERB
+Grant_a14	12	13	12	Betula	Betula	TRSH
+Grant_a14	1241	8	147	Bryophyta	Bryophyte spores	BRYO
+Grant_a14	3649	1	3649	Caltha palustris-type	Caltha-type	AQUA
+Grant_a14	24	2	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Grant_a14	3849	19	31	Corylus avellana-type	Corylus	TRSH
+Grant_a14	3873	5	3868	Cyperaceae undiff.	Cyperaceae	AQUA
+Grant_a14	145	1	145	Equisetum	Equisetum	VACR
+Grant_a14	42	2	42	Fagus sylvatica	Fagus	TRSH
+Grant_a14	47	3	47	Fraxinus excelsior	Fraxinus excelsior-type	TRSH
+Grant_a14	4072	2	998	Indeterminable: broken	Indeterminable: broken	INUN
+Grant_a14	4073	4	999	Indeterminable: concealed	Indeterminable: concealed	INUN
+Grant_a14	692	21358	692	Lycopodium (added)	Lycopodium (added)	NOPO
+Grant_a14	788	16	125	Pinus sylvestris	Pinus sylvestris-type	TRSH
+Grant_a14	60	2	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+Grant_a14	79	1	79	Plantago major	Plantago major	HERB
+Grant_a14	429	153	80	Poaceae undiff.	Poaceae	HERB
+Grant_a14	4340	2	22	Poaceae (annulus >10 um)	Cerealia-type	HERB
+Grant_a14	180	2	180	Pteridium aquilinum	Pteridium aquilinum	VACR
+Grant_a14	189	18	189	Quercus	Quercus	TRSH
+Grant_a14	630	2	87	Ranunculus acris-type	Ranunculus acris-type	HERB
+Grant_a14	631	1	631	Rhinanthus-type	Rhinanthus-type	HERB
+Grant_a14	96	6	96	Rumex acetosella	Rumex acetosella	HERB
+Grant_a14	4587	1	883	Sediment volume used (ml)	Sample volume (ml)	NOPO
+Grant_a14	4617	1	109	Spergula-type	Spergularia-type	HERB
+Grant_a14	1405	1	244	Stachys-type	Galeopsis-type	HERB
+Grant_a14	154	2	154	Ulmus	Ulmus/Zelkova	TRSH
+Grant_a14	117	4	117	Urtica dioica	Urtica dioica	HERB
+Grant_a14	95	3	95	Rumex acetosa	Rumex acetosa-type	HERB
+Grant_a14	111	1	111	Taxus baccata	Taxus baccata	TRSH
+Grant_a14	1765	1	483	Campanula-type	Phyteuma-type	HERB
+Grant_a14	2593	1	216	Asplenium-type	Asplenium-type	VACR
+Grant_a14	3646	65	3645	Calluna vulgaris	Calluna vulgaris	DWAR

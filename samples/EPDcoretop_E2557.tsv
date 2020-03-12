@@ -1,36 +1,36 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-EPDcoretop_E2557	Alnus	Alnus	TRSH	171	15.745856
-EPDcoretop_E2557	Betula	Betula	TRSH	395	36.372007
-EPDcoretop_E2557	Calluna	Calluna vulgaris	DWAR	2	0.18416206
-EPDcoretop_E2557	Corylus	Corylus	TRSH	40	3.6832413
-EPDcoretop_E2557	Fraxinus	Fraxinus	TRSH	2	0.18416206
-EPDcoretop_E2557	Picea	Picea	TRSH	57	5.2486188
-EPDcoretop_E2557	Pinus	Pinus	TRSH	260	23.941068
-EPDcoretop_E2557	Quercus	Quercus	TRSH	8	0.73664825
-EPDcoretop_E2557	Rosaceae	Rosaceae	TRSH	1	0.092081031
-EPDcoretop_E2557	Salix	Salix	TRSH	5	0.46040516
-EPDcoretop_E2557	Tilia	Tilia	TRSH	6	0.55248619
-EPDcoretop_E2557	Ulmus	Ulmus/Zelkova	TRSH	12	1.1049724
-EPDcoretop_E2557	Artemisia	Artemisia	HERB	8	0.73664825
-EPDcoretop_E2557	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	1	0.092081031
-EPDcoretop_E2557	Cerealia	Cerealia-type	HERB	8	0.73664825
-EPDcoretop_E2557	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	3	0.27624309
-EPDcoretop_E2557	Cyperaceae	Cyperaceae	HERB	5	0.46040516
-EPDcoretop_E2557	Filipendula	Filipendula	HERB	13	1.1970534
-EPDcoretop_E2557	Melampyrum	Melampyrum	HERB	1	0.092081031
-EPDcoretop_E2557	Poaceae	Poaceae	HERB	30	2.7624309
-EPDcoretop_E2557	Ranunculaceae	Ranunculaceae	HERB	2	0.18416206
-EPDcoretop_E2557	Galium	Rubiaceae	HERB	1	0.092081031
-EPDcoretop_E2557	Rumex acetosa/R. acetosella-type	Rumex acetosa-type	HERB	4	0.36832413
-EPDcoretop_E2557	Secale cereale	Secale cereale	HERB	8	0.73664825
-EPDcoretop_E2557	Polypodiaceae	Monolete fern spores	VACR	37	3.4069982
-EPDcoretop_E2557	Sphagnum	Sphagnum	BRYO	6	0.55248619
-EPDcoretop_E2557	Algae	Algae	ALGA	2715	250
-EPDcoretop_E2557	Botryococcus	Botryococcus	ALGA	46	4.2357274
-EPDcoretop_E2557	Myriophyllum spicatum	Myriophyllum spicatum	AQUA	22	2.0257827
-EPDcoretop_E2557	Pediastrum	Pediastrum	ALGA	2669	245.76427
-EPDcoretop_E2557	Typha/Sparganium-type	Sparganium-type	AQUA	2	0.18416206
-EPDcoretop_E2557	Typha latifolia	Typha latifolia	HELO	1	0.092081031
-EPDcoretop_E2557	Charcoal	Charcoal	CHAR	345	
-EPDcoretop_E2557	Indeterminable: unknown	Indeterminable: unknown	INUN	1	
-EPDcoretop_E2557	Spores	Indeterminable: unknown	INUN	43	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+EPDcoretop_E2557	4078	1	177	Indeterminable: unknown	Indeterminable: unknown	INUN
+EPDcoretop_E2557	5	171	5	Alnus	Alnus	TRSH
+EPDcoretop_E2557	7	8	7	Artemisia	Artemisia	HERB
+EPDcoretop_E2557	12	395	12	Betula	Betula	TRSH
+EPDcoretop_E2557	33	5	33	Cyperaceae	Cyperaceae	HERB
+EPDcoretop_E2557	45	13	45	Filipendula	Filipendula	HERB
+EPDcoretop_E2557	75	260	75	Pinus	Pinus	TRSH
+EPDcoretop_E2557	99	5	99	Salix	Salix	TRSH
+EPDcoretop_E2557	126	57	126	Picea	Picea	TRSH
+EPDcoretop_E2557	135	2	135	Ranunculaceae	Ranunculaceae	HERB
+EPDcoretop_E2557	187	6	187	Tilia	Tilia	TRSH
+EPDcoretop_E2557	189	8	189	Quercus	Quercus	TRSH
+EPDcoretop_E2557	190	2	190	Fraxinus	Fraxinus	TRSH
+EPDcoretop_E2557	201	40	31	Corylus	Corylus	TRSH
+EPDcoretop_E2557	256	8	256	Secale cereale	Secale cereale	HERB
+EPDcoretop_E2557	473	1	473	Melampyrum	Melampyrum	HERB
+EPDcoretop_E2557	1158	22	376	Myriophyllum spicatum	Myriophyllum spicatum	AQUA
+EPDcoretop_E2557	1287	1	417	Typha latifolia	Typha latifolia	AQUA
+EPDcoretop_E2557	92	1	92	Rosaceae	Rosaceae	TRSH
+EPDcoretop_E2557	1125	345	1125	Charcoal	Charcoal	CHAR
+EPDcoretop_E2557	4837	43	177	Spores	Indeterminable: unknown	INUN
+EPDcoretop_E2557	18	1	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+EPDcoretop_E2557	22	8	22	Cerealia	Cerealia-type	HERB
+EPDcoretop_E2557	24	3	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+EPDcoretop_E2557	80	30	80	Poaceae	Poaceae	HERB
+EPDcoretop_E2557	144	6	144	Sphagnum	Sphagnum	BRYO
+EPDcoretop_E2557	146	37	146	Polypodiaceae	Monolete fern spores	VACR
+EPDcoretop_E2557	154	12	154	Ulmus	Ulmus/Zelkova	TRSH
+EPDcoretop_E2557	662	2669	662	Pediastrum	Pediastrum	ALGA
+EPDcoretop_E2557	663	46	663	Botryococcus	Botryococcus	ALGA
+EPDcoretop_E2557	2119	2715	2119	Algae	Algae	ALGA
+EPDcoretop_E2557	2436	2	176	Typha/Sparganium-type	Sparganium-type	AQUA
+EPDcoretop_E2557	3645	2	3645	Calluna	Calluna vulgaris	DWAR
+EPDcoretop_E2557	4506	4	95	Rumex acetosa/R. acetosella-type	Rumex acetosa-type	HERB
+EPDcoretop_E2557	1475	1	93	Galium	Rubiaceae	HERB

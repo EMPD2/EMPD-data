@@ -1,37 +1,37 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-EPDcoretop_E1483	Abies	Abies	TRSH	1	0.17761989
-EPDcoretop_E1483	Alnus	Alnus	TRSH	9	1.598579
-EPDcoretop_E1483	Arbutus unedo	Arbutus	TRSH	7	1.2433393
-EPDcoretop_E1483	Betula	Betula	TRSH	23	4.0852575
-EPDcoretop_E1483	Cistus-type undiff.	Cistus	TRSH	7	1.2433393
-EPDcoretop_E1483	Cistus ladanifer-type	Cistus ladanifer-type	TRSH	3	0.53285968
-EPDcoretop_E1483	Corylus	Corylus	TRSH	2	0.35523979
-EPDcoretop_E1483	Erica arborea-type	Erica arborea-type	TRSH	135	23.978686
-EPDcoretop_E1483	Eucalyptus	Eucalyptus	TRSH	25	4.4404973
-EPDcoretop_E1483	Frangula	Frangula alnus	TRSH	5	0.88809947
-EPDcoretop_E1483	Fraxinus	Fraxinus	TRSH	1	0.17761989
-EPDcoretop_E1483	Genista/Ulex-type	Genista-type	TRSH	15	2.6642984
-EPDcoretop_E1483	Juniperus-type	Juniperus-type	TRSH	2	0.35523979
-EPDcoretop_E1483	Pinus pinaster	Pinus pinaster	TRSH	31	5.5062167
-EPDcoretop_E1483	Pinus sylvestris-type	Pinus sylvestris-type	TRSH	134	23.801066
-EPDcoretop_E1483	Populus	Populus	TRSH	1	0.17761989
-EPDcoretop_E1483	Quercus deciduous	Quercus robur-type	TRSH	43	7.6376554
-EPDcoretop_E1483	Umbelliferae	Apiaceae	HERB	2	0.35523979
-EPDcoretop_E1483	Aster-type	Aster-type	HERB	2	0.35523979
-EPDcoretop_E1483	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	9	1.598579
-EPDcoretop_E1483	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	1	0.17761989
-EPDcoretop_E1483	Cerealia-type	Cerealia-type	HERB	7	1.2433393
-EPDcoretop_E1483	Cyperaceae	Cyperaceae	HERB	21	3.7300178
-EPDcoretop_E1483	Labiatae	Lamiaceae	HERB	2	0.35523979
-EPDcoretop_E1483	Plantago lanceolata-type	Plantago lanceolata-type	HERB	11	1.9538188
-EPDcoretop_E1483	Plantago major/P. media-type	Plantago major/P. media-type	HERB	3	0.53285968
-EPDcoretop_E1483	Poaceae	Poaceae	HERB	36	6.3943162
-EPDcoretop_E1483	Rumex acetosella-type	Rumex acetosa-type	HERB	6	1.0657194
-EPDcoretop_E1483	Urtica dioica-type	Urtica dioica-type	HERB	1	0.17761989
-EPDcoretop_E1483	Polypodium vulgare-type	Polypodium	VACR	1	0.17761989
-EPDcoretop_E1483	Pteridium aquilinum	Pteridium aquilinum	VACR	17	3.0195382
-EPDcoretop_E1483	Mougeotia	Mougeotia	ALGA	2	0.35523979
-EPDcoretop_E1483	Spirogyra	Spirogyra	ALGA	5	0.88809947
-EPDcoretop_E1483	Glomus	Glomus	FUNG	1	
-EPDcoretop_E1483	Sordaria	Sordaria-type	FUNG	1	
-EPDcoretop_E1483	Ustulina deusta	Ustulina deusta	FUNG	1	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+EPDcoretop_E1483	554	1	362	Glomus	Glomus	FUNG
+EPDcoretop_E1483	1030	1	306	Ustulina deusta	Ustulina deusta	FUNG
+EPDcoretop_E1483	676	1	555	Sordaria	Sordaria-type	FUNG
+EPDcoretop_E1483	5	9	5	Alnus	Alnus	TRSH
+EPDcoretop_E1483	12	23	12	Betula	Betula	TRSH
+EPDcoretop_E1483	18	1	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+EPDcoretop_E1483	33	21	33	Cyperaceae	Cyperaceae	HERB
+EPDcoretop_E1483	39	25	39	Eucalyptus	Eucalyptus	TRSH
+EPDcoretop_E1483	80	36	80	Poaceae	Poaceae	HERB
+EPDcoretop_E1483	81	1	81	Populus	Populus	TRSH
+EPDcoretop_E1483	180	17	180	Pteridium aquilinum	Pteridium aquilinum	VACR
+EPDcoretop_E1483	190	1	190	Fraxinus	Fraxinus	TRSH
+EPDcoretop_E1483	201	2	31	Corylus	Corylus	TRSH
+EPDcoretop_E1483	437	43	86	Quercus deciduous	Quercus robur-type	TRSH
+EPDcoretop_E1483	439	31	439	Pinus pinaster	Pinus pinaster	TRSH
+EPDcoretop_E1483	447	9	25	Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+EPDcoretop_E1483	461	7	327	Arbutus unedo	Arbutus	TRSH
+EPDcoretop_E1483	468	5	468	Frangula	Frangula alnus	TRSH
+EPDcoretop_E1483	485	2	59	Labiatae	Lamiaceae	HERB
+EPDcoretop_E1483	560	1	321	Abies	Abies	TRSH
+EPDcoretop_E1483	590	2	6	Umbelliferae	Apiaceae	HERB
+EPDcoretop_E1483	597	2	11	Aster-type	Aster-type	HERB
+EPDcoretop_E1483	729	5	315	Spirogyra	Spirogyra	ALGA
+EPDcoretop_E1483	738	2	203	Juniperus-type	Juniperus-type	TRSH
+EPDcoretop_E1483	1065	7	22	Cerealia-type	Cerealia-type	HERB
+EPDcoretop_E1483	1075	11	60	Plantago lanceolata-type	Plantago lanceolata-type	HERB
+EPDcoretop_E1483	1226	134	125	Pinus sylvestris-type	Pinus sylvestris-type	TRSH
+EPDcoretop_E1483	2015	2	2015	Mougeotia	Mougeotia	ALGA
+EPDcoretop_E1483	2536	135	455	Erica arborea-type	Erica arborea-type	TRSH
+EPDcoretop_E1483	2582	6	95	Rumex acetosella-type	Rumex acetosa-type	HERB
+EPDcoretop_E1483	2596	1	214	Polypodium vulgare-type	Polypodium	VACR
+EPDcoretop_E1483	4324	3	458	Plantago major/P. media-type	Plantago major/P. media-type	HERB
+EPDcoretop_E1483	4718	1	453	Urtica dioica-type	Urtica dioica-type	HERB
+EPDcoretop_E1483	4802	3	454	Cistus ladanifer-type	Cistus ladanifer-type	TRSH
+EPDcoretop_E1483	4803	7	27	Cistus-type undiff.	Cistus	TRSH
+EPDcoretop_E1483	4804	15	49	Genista/Ulex-type	Genista-type	TRSH

@@ -1,18 +1,18 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Pardoe_c29	Alnus	Alnus	TRSH	17	3.2818533
-Pardoe_c29	Betula	Betula	TRSH	160	30.888031
-Pardoe_c29	Calluna	Calluna vulgaris	TRSH	13	2.5096525
-Pardoe_c29	Corylus	Corylus	TRSH	8	1.5444015
-Pardoe_c29	Empetrum	Empetrum nigrum	DWAR	69	13.320463
-Pardoe_c29	Picea	Picea	TRSH	3	0.57915058
-Pardoe_c29	Pinus	Pinus	TRSH	105	20.27027
-Pardoe_c29	Salix	Salix	TRSH	20	3.8610039
-Pardoe_c29	Vaccinium	Vaccinium	DWAR	6	1.1583012
-Pardoe_c29	Artemisia	Artemisia	HERB	3	0.57915058
-Pardoe_c29	Asteraceae	Asteraceae	HERB	1	0.19305019
-Pardoe_c29	Cyperaceae	Cyperaceae	HERB	13	2.5096525
-Pardoe_c29	Leguminosae	Leguminosae	HERB	7	1.3513514
-Pardoe_c29	Oxyria	Oxyria digyna	HERB	23	4.4401544
-Pardoe_c29	Poaceae	Poaceae	HERB	36	6.9498069
-Pardoe_c29	Equisetum	Equisetum	VACR	33	6.3706564
-Pardoe_c29	Selaginella	Selaginella	VACR	1	0.19305019
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Pardoe_c29	12	160	12	Betula	Betula	TRSH
+Pardoe_c29	126	3	126	Picea	Picea	TRSH
+Pardoe_c29	201	8	31	Corylus	Corylus	TRSH
+Pardoe_c29	99	20	99	Salix	Salix	TRSH
+Pardoe_c29	33	13	33	Cyperaceae	Cyperaceae	HERB
+Pardoe_c29	581	13	457	Calluna	Calluna vulgaris	TRSH
+Pardoe_c29	739	69	739	Empetrum	Empetrum nigrum	DWAR
+Pardoe_c29	134	1	134	Asteraceae	Asteraceae	HERB
+Pardoe_c29	540	6	540	Vaccinium	Vaccinium	TRSH
+Pardoe_c29	744	7	744	Leguminosae	Leguminosae	HERB
+Pardoe_c29	745	23	241	Oxyria	Oxyria digyna	HERB
+Pardoe_c29	145	33	145	Equisetum	Equisetum	VACR
+Pardoe_c29	7	3	7	Artemisia	Artemisia	HERB
+Pardoe_c29	668	1	668	Selaginella	Selaginella	VACR
+Pardoe_c29	5	17	5	Alnus	Alnus	TRSH
+Pardoe_c29	75	105	75	Pinus	Pinus	TRSH
+Pardoe_c29	80	36	80	Poaceae	Poaceae	HERB

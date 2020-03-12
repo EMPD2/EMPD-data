@@ -1,50 +1,50 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Karpinska_a13	Aesculus hippocastanum	Aesculus hippocastanum	TRSH	2	0.17777778
-Karpinska_a13	Alnus	Alnus	TRSH	55	4.8888889
-Karpinska_a13	Betula undiff.	Betula	TRSH	133	11.822222
-Karpinska_a13	Carpinus betulus	Carpinus betulus	TRSH	20	1.7777778
-Karpinska_a13	Corylus avellana	Corylus	TRSH	20	1.7777778
-Karpinska_a13	Fagus sylvatica	Fagus	TRSH	34	3.0222222
-Karpinska_a13	Fraxinus	Fraxinus	TRSH	7	0.62222222
-Karpinska_a13	Juglans	Juglans	TRSH	5	0.44444444
-Karpinska_a13	Picea abies	Picea abies-type	TRSH	39	3.4666667
-Karpinska_a13	Pinus sylvestris-type	Pinus sylvestris-type	TRSH	280	24.888889
-Karpinska_a13	Prunus-type	Prunus-type	TRSH	6	0.53333333
-Karpinska_a13	Quercus	Quercus	TRSH	58	5.1555556
-Karpinska_a13	Rosa-type	Rosa	TRSH	11	0.97777778
-Karpinska_a13	Sorbus-group	Rosaceae (non-operculate)	TRSH	6	0.53333333
-Karpinska_a13	Salix	Salix	TRSH	11	0.97777778
-Karpinska_a13	Tilia cordata-type	Tilia cordata-type	TRSH	1	0.088888889
-Karpinska_a13	Ulmus	Ulmus/Zelkova	TRSH	3	0.26666667
-Karpinska_a13	Vaccinium-type	Vaccinium-type	DWAR	1	0.088888889
-Karpinska_a13	Ambrosia-type	Ambrosia	HERB	10	0.88888889
-Karpinska_a13	Apiaceae undiff.	Apiaceae	HERB	6	0.53333333
-Karpinska_a13	Artemisia	Artemisia	HERB	9	0.8
-Karpinska_a13	Aster-type	Aster-type	HERB	9	0.8
-Karpinska_a13	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	4	0.35555556
-Karpinska_a13	Brassicaceae undiff.	Brassicaceae	HERB	3	0.26666667
-Karpinska_a13	Cerastium-type	Cerastium-type	HERB	2	0.17777778
-Karpinska_a13	Cerealia-type	Cerealia-type	HERB	3	0.26666667
-Karpinska_a13	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	7	0.62222222
-Karpinska_a13	Dianthus-type	Dianthus/Petrorhagia	HERB	5	0.44444444
-Karpinska_a13	Echium vulgare	Echium	HERB	2	0.17777778
-Karpinska_a13	Filipendula	Filipendula	HERB	1	0.088888889
-Karpinska_a13	Hypericum perforatum-type	Hypericum perforatum-type	HERB	7	0.62222222
-Karpinska_a13	Lotus-type	Lotus-type	HERB	1	0.088888889
-Karpinska_a13	Anthemis-type	Matricaria-type	HERB	1	0.088888889
-Karpinska_a13	Mentha-type	Mentha-type	HERB	20	1.7777778
-Karpinska_a13	Plantago lanceolata	Plantago lanceolata-type	HERB	16	1.4222222
-Karpinska_a13	Poaceae undiff.	Poaceae	HERB	299	26.577778
-Karpinska_a13	Potentilla-type	Potentilla-type	HERB	11	0.97777778
-Karpinska_a13	Ranunculus acris-type	Ranunculus acris-type	HERB	1	0.088888889
-Karpinska_a13	Galium-type	Rubiaceae	HERB	7	0.62222222
-Karpinska_a13	Rumex acetosa-type	Rumex acetosa-type	HERB	1	0.088888889
-Karpinska_a13	Sanguisorba minor	Sanguisorba minor-type	HERB	3	0.26666667
-Karpinska_a13	Sanguisorba officinalis	Sanguisorba officinalis	HERB	1	0.088888889
-Karpinska_a13	Urtica	Urtica	HERB	1	0.088888889
-Karpinska_a13	Verbascum-type	Verbascum	HERB	2	0.17777778
-Karpinska_a13	Monolete fern spores	Monolete fern spores	VACR	1	0.088888889
-Karpinska_a13	Cyperaceae	Cyperaceae	AQUA	1	0.088888889
-Karpinska_a13	Indeterminable: corroded	Indeterminable: corroded	INUN	5	
-Karpinska_a13	Charcoal	Charcoal	MACR	135	
-Karpinska_a13	Lycopodium (counted)	Lycopodium (counted)	NOPO	54	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Karpinska_a13	5	55	5	Alnus	Alnus	TRSH
+Karpinska_a13	1377	10	586	Ambrosia-type	Ambrosia	HERB
+Karpinska_a13	589	1	3	Anthemis-type	Matricaria-type	HERB
+Karpinska_a13	1107	6	6	Apiaceae undiff.	Apiaceae	HERB
+Karpinska_a13	7	9	7	Artemisia	Artemisia	HERB
+Karpinska_a13	597	9	11	Aster-type	Aster-type	HERB
+Karpinska_a13	1380	133	12	Betula undiff.	Betula	TRSH
+Karpinska_a13	1422	3	13	Brassicaceae undiff.	Brassicaceae	HERB
+Karpinska_a13	947	2	21	Cerastium-type	Cerastium-type	HERB
+Karpinska_a13	1065	3	22	Cerealia-type	Cerealia-type	HERB
+Karpinska_a13	3773	135	3773	Charcoal	Charcoal	MACR
+Karpinska_a13	24	7	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Karpinska_a13	31	20	31	Corylus avellana	Corylus	TRSH
+Karpinska_a13	1246	5	1246	Dianthus-type	Dianthus/Petrorhagia	HERB
+Karpinska_a13	42	34	42	Fagus sylvatica	Fagus	TRSH
+Karpinska_a13	45	1	45	Filipendula	Filipendula	HERB
+Karpinska_a13	190	7	190	Fraxinus	Fraxinus	TRSH
+Karpinska_a13	1220	7	829	Hypericum perforatum-type	Hypericum perforatum-type	HERB
+Karpinska_a13	4074	5	1324	Indeterminable: corroded	Indeterminable: corroded	INUN
+Karpinska_a13	57	5	57	Juglans	Juglans	TRSH
+Karpinska_a13	611	1	611	Lotus-type	Lotus-type	HERB
+Karpinska_a13	559	54	559	Lycopodium (counted)	Lycopodium (counted)	NOPO
+Karpinska_a13	4193	1	146	Monolete fern spores	Monolete fern spores	VACR
+Karpinska_a13	783	39	783	Picea abies	Picea abies-type	TRSH
+Karpinska_a13	1226	280	125	Pinus sylvestris-type	Pinus sylvestris-type	TRSH
+Karpinska_a13	429	299	80	Poaceae undiff.	Poaceae	HERB
+Karpinska_a13	626	11	512	Potentilla-type	Potentilla-type	HERB
+Karpinska_a13	1227	6	82	Prunus-type	Prunus-type	TRSH
+Karpinska_a13	189	58	189	Quercus	Quercus	TRSH
+Karpinska_a13	630	1	87	Ranunculus acris-type	Ranunculus acris-type	HERB
+Karpinska_a13	1414	11	632	Rosa-type	Rosa	TRSH
+Karpinska_a13	634	1	95	Rumex acetosa-type	Rumex acetosa-type	HERB
+Karpinska_a13	99	11	99	Salix	Salix	TRSH
+Karpinska_a13	101	3	101	Sanguisorba minor	Sanguisorba minor-type	HERB
+Karpinska_a13	1188	1	474	Sanguisorba officinalis	Sanguisorba officinalis	HERB
+Karpinska_a13	3006	6	490	Sorbus-group	Rosaceae (non-operculate)	TRSH
+Karpinska_a13	153	1	153	Tilia cordata-type	Tilia cordata-type	TRSH
+Karpinska_a13	154	3	154	Ulmus	Ulmus/Zelkova	TRSH
+Karpinska_a13	4730	1	4730	Vaccinium-type	Vaccinium-type	DWAR
+Karpinska_a13	60	16	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+Karpinska_a13	242	2	242	Echium vulgare	Echium	HERB
+Karpinska_a13	447	4	25	Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Karpinska_a13	563	20	16	Carpinus betulus	Carpinus betulus	TRSH
+Karpinska_a13	652	1	652	Urtica	Urtica	HERB
+Karpinska_a13	1073	20	65	Mentha-type	Mentha-type	HERB
+Karpinska_a13	1101	2	1101	Aesculus hippocastanum	Aesculus hippocastanum	TRSH
+Karpinska_a13	1335	2	653	Verbascum-type	Verbascum	HERB
+Karpinska_a13	3868	1	3868	Cyperaceae	Cyperaceae	AQUA
+Karpinska_a13	605	7	93	Galium-type	Rubiaceae	HERB

@@ -1,47 +1,47 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Grant_a13	Abies	Abies	TRSH	3	0.37082818
-Grant_a13	Alnus glutinosa	Alnus glutinosa-type	TRSH	91	11.248455
-Grant_a13	Betula	Betula	TRSH	78	9.6415328
-Grant_a13	Calluna vulgaris	Calluna vulgaris	DWAR	121	14.956737
-Grant_a13	Carpinus betulus	Carpinus betulus	TRSH	1	0.12360939
-Grant_a13	Corylus avellana-type	Corylus	TRSH	9	1.1124845
-Grant_a13	Erica tetralix	Erica tetralix-type	DWAR	11	1.3597033
-Grant_a13	Fagus sylvatica	Fagus	TRSH	11	1.3597033
-Grant_a13	Fraxinus excelsior	Fraxinus excelsior-type	TRSH	4	0.49443758
-Grant_a13	Ilex aquifolium	Ilex	TRSH	4	0.49443758
-Grant_a13	Ligustrum vulgare	Ligustrum	TRSH	1	0.12360939
-Grant_a13	Myrica gale	Myrica	TRSH	108	13.349815
-Grant_a13	Picea	Picea	TRSH	1	0.12360939
-Grant_a13	Pinus sylvestris	Pinus sylvestris-type	TRSH	66	8.15822
-Grant_a13	Quercus	Quercus	TRSH	83	10.25958
-Grant_a13	Rosaceae undiff.	Rosa	TRSH	1	0.12360939
-Grant_a13	Salix	Salix	TRSH	5	0.61804697
-Grant_a13	Taxus baccata	Taxus baccata	TRSH	1	0.12360939
-Grant_a13	Tilia cordata	Tilia cordata-type	TRSH	2	0.24721879
-Grant_a13	Ulmus	Ulmus/Zelkova	TRSH	5	0.61804697
-Grant_a13	Apiaceae undiff.	Apiaceae	HERB	1	0.12360939
-Grant_a13	Lactuceae undiff.	Asteraceae subf. Cichorioideae	HERB	2	0.24721879
-Grant_a13	Centaurea nigra	Centaurea nigra-type	HERB	1	0.12360939
-Grant_a13	Poaceae (annulus >10 um)	Cerealia-type	HERB	1	0.12360939
-Grant_a13	Poaceae (annulus 8-10 um)	Cerealia-type	HERB	2	0.24721879
-Grant_a13	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	2	0.24721879
-Grant_a13	Achillea-type	Matricaria-type	HERB	2	0.24721879
-Grant_a13	Plantago lanceolata	Plantago lanceolata-type	HERB	3	0.37082818
-Grant_a13	Poaceae undiff.	Poaceae	HERB	95	11.742892
-Grant_a13	Potentilla-type	Potentilla-type	HERB	1	0.12360939
-Grant_a13	Ranunculus acris-type	Ranunculus acris-type	HERB	5	0.61804697
-Grant_a13	Rhinanthus-type	Rhinanthus-type	HERB	3	0.37082818
-Grant_a13	Rumex acetosella	Rumex acetosella	HERB	1	0.12360939
-Grant_a13	Sedum	Sedum-type	HERB	2	0.24721879
-Grant_a13	Urtica dioica	Urtica dioica	HERB	5	0.61804697
-Grant_a13	Botrychium lunaria	Botrychium lunaria-type	VACR	1	0.12360939
-Grant_a13	Bryophyta	Bryophyte spores	BRYO	22	2.7194067
-Grant_a13	Equisetum	Equisetum	VACR	1	0.12360939
-Grant_a13	Monolete fern spores undiff.	Monolete fern spores	VACR	33	4.07911
-Grant_a13	Polypodium	Polypodium	VACR	6	0.74165637
-Grant_a13	Polystichum	Polystichum	VACR	3	0.37082818
-Grant_a13	Pteridium aquilinum	Pteridium aquilinum	VACR	11	1.3597033
-Grant_a13	Cyperaceae undiff.	Cyperaceae	AQUA	1	0.12360939
-Grant_a13	Lycopodium (added)	Lycopodium (added)	NOPO	21358	
-Grant_a13	Lycopodium (counted)	Lycopodium (counted)	NOPO	43	
-Grant_a13	Sediment volume used (ml)	Sample volume (ml)	NOPO	4	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Grant_a13	560	3	321	Abies	Abies	TRSH
+Grant_a13	943	2	3	Achillea-type	Matricaria-type	HERB
+Grant_a13	1107	1	6	Apiaceae undiff.	Apiaceae	HERB
+Grant_a13	12	78	12	Betula	Betula	TRSH
+Grant_a13	1241	22	147	Bryophyta	Bryophyte spores	BRYO
+Grant_a13	3646	121	3645	Calluna vulgaris	Calluna vulgaris	DWAR
+Grant_a13	563	1	16	Carpinus betulus	Carpinus betulus	TRSH
+Grant_a13	997	1	29	Centaurea nigra	Centaurea nigra-type	HERB
+Grant_a13	3849	9	31	Corylus avellana-type	Corylus	TRSH
+Grant_a13	3873	1	3868	Cyperaceae undiff.	Cyperaceae	AQUA
+Grant_a13	145	1	145	Equisetum	Equisetum	VACR
+Grant_a13	42	11	42	Fagus sylvatica	Fagus	TRSH
+Grant_a13	47	4	47	Fraxinus excelsior	Fraxinus excelsior-type	TRSH
+Grant_a13	55	4	55	Ilex aquifolium	Ilex	TRSH
+Grant_a13	4104	2	25	Lactuceae undiff.	Asteraceae subf. Cichorioideae	HERB
+Grant_a13	1429	1	61	Ligustrum vulgare	Ligustrum	TRSH
+Grant_a13	692	21358	692	Lycopodium (added)	Lycopodium (added)	NOPO
+Grant_a13	559	43	559	Lycopodium (counted)	Lycopodium (counted)	NOPO
+Grant_a13	4195	33	146	Monolete fern spores undiff.	Monolete fern spores	VACR
+Grant_a13	126	1	126	Picea	Picea	TRSH
+Grant_a13	788	66	125	Pinus sylvestris	Pinus sylvestris-type	TRSH
+Grant_a13	429	95	80	Poaceae undiff.	Poaceae	HERB
+Grant_a13	4340	1	22	Poaceae (annulus >10 um)	Cerealia-type	HERB
+Grant_a13	666	6	214	Polypodium	Polypodium	VACR
+Grant_a13	4379	3	4379	Polystichum	Polystichum	VACR
+Grant_a13	472	1	92	Rosaceae undiff.	Rosaceae	TRSH
+Grant_a13	96	1	96	Rumex acetosella	Rumex acetosella	HERB
+Grant_a13	99	5	99	Salix	Salix	TRSH
+Grant_a13	4587	4	883	Sediment volume used (ml)	Sample volume (ml)	NOPO
+Grant_a13	105	2	105	Sedum	Sedum-type	HERB
+Grant_a13	111	1	111	Taxus baccata	Taxus baccata	TRSH
+Grant_a13	154	5	154	Ulmus	Ulmus/Zelkova	TRSH
+Grant_a13	24	2	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Grant_a13	60	3	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+Grant_a13	117	5	117	Urtica dioica	Urtica dioica	HERB
+Grant_a13	180	11	180	Pteridium aquilinum	Pteridium aquilinum	VACR
+Grant_a13	189	83	189	Quercus	Quercus	TRSH
+Grant_a13	626	1	512	Potentilla-type	Potentilla-type	HERB
+Grant_a13	630	5	87	Ranunculus acris-type	Ranunculus acris-type	HERB
+Grant_a13	631	3	631	Rhinanthus-type	Rhinanthus-type	HERB
+Grant_a13	760	91	155	Alnus glutinosa	Alnus glutinosa-type	TRSH
+Grant_a13	1406	2	153	Tilia cordata	Tilia cordata-type	TRSH
+Grant_a13	2601	108	977	Myrica gale	Myrica	TRSH
+Grant_a13	2794	11	2600	Erica tetralix	Erica tetralix-type	DWAR
+Grant_a13	3625	1	1703	Botrychium lunaria	Botrychium lunaria-type	VACR
+Grant_a13	4342	2	22	Poaceae (annulus 8-10 um)	Cerealia-type	HERB

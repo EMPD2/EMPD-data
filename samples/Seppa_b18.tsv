@@ -1,16 +1,16 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Seppa_b18	Alnus	Alnus	TRSH	3	0.56710775
-Seppa_b18	Betula	Betula	TRSH	129	24.385633
-Seppa_b18	Betula/Corylus/Myrica	Betula/Corylus/Myrica	TRSH	4	0.75614367
-Seppa_b18	Empetrum nigrum	Empetrum nigrum	DWAR	1	0.18903592
-Seppa_b18	Ericaceae-type	Ericales (tetrad)	DWAR	4	0.75614367
-Seppa_b18	Juniperus communis	Juniperus communis-type	TRSH	2	0.37807183
-Seppa_b18	Picea	Picea	TRSH	27	5.1039698
-Seppa_b18	Pinus sylvestris	Pinus sylvestris-type	TRSH	334	63.137996
-Seppa_b18	Populus tremula	Populus tremula-type	TRSH	1	0.18903592
-Seppa_b18	Ulmus	Ulmus/Zelkova	TRSH	1	0.18903592
-Seppa_b18	Gramineae undiff.	Poaceae	HERB	20	3.7807183
-Seppa_b18	Potentilla-type	Potentilla-type	HERB	1	0.18903592
-Seppa_b18	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR	2	0.37807183
-Seppa_b18	Carex-type	Carex	AQUA	4	0.75614367
-Seppa_b18	Cyperaceae undiff.	Cyperaceae	AQUA	2	0.37807183
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Seppa_b18	5	3	5	Alnus	Alnus	TRSH
+Seppa_b18	3619	4	3619	Betula/Corylus/Myrica	Betula/Corylus/Myrica	TRSH
+Seppa_b18	3665	4	3663	Carex-type	Carex	AQUA
+Seppa_b18	3873	2	3868	Cyperaceae undiff.	Cyperaceae	AQUA
+Seppa_b18	3944	4	130	Ericaceae-type	Ericales (tetrad)	DWAR
+Seppa_b18	4018	20	80	Gramineae undiff.	Poaceae	HERB
+Seppa_b18	2121	2	1320	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR
+Seppa_b18	941	2	58	Juniperus communis	Juniperus communis-type	TRSH
+Seppa_b18	126	27	126	Picea	Picea	TRSH
+Seppa_b18	788	334	125	Pinus sylvestris	Pinus sylvestris-type	TRSH
+Seppa_b18	626	1	512	Potentilla-type	Potentilla-type	HERB
+Seppa_b18	154	1	154	Ulmus	Ulmus/Zelkova	TRSH
+Seppa_b18	12	129	12	Betula	Betula	TRSH
+Seppa_b18	939	1	739	Empetrum nigrum	Empetrum nigrum	DWAR
+Seppa_b18	4381	1	4381	Populus tremula	Populus tremula-type	TRSH

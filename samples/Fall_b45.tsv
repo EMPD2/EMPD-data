@@ -1,27 +1,27 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Fall_b45	Acer	Acer campestre-type	TRSH	1	0.21367521
-Fall_b45	Alnus	Alnus	TRSH	5	1.0683761
-Fall_b45	Cistus	Cistus	TRSH	11	2.3504274
-Fall_b45	Corylus	Corylus	TRSH	2	0.42735043
-Fall_b45	Juglans	Juglans	TRSH	3	0.64102564
-Fall_b45	Juniperus type	Juniperus-type	TRSH	36	7.6923077
-Fall_b45	Cupressus type	Juniperus-type	TRSH	16	3.4188034
-Fall_b45	Olea	Olea europaea	TRSH	15	3.2051282
-Fall_b45	Pinus sp	Pinus	TRSH	303	64.74359
-Fall_b45	Pinus hap	Pinus cembra-type	TRSH	1	0.21367521
-Fall_b45	Pinus dip	Pinus sylvestris-type	TRSH	3	0.64102564
-Fall_b45	Pistacia	Pistacia	TRSH	5	1.0683761
-Fall_b45	Quercus	Quercus	TRSH	25	5.3418803
-Fall_b45	Rhamnaceae	Rhamnaceae	TRSH	1	0.21367521
-Fall_b45	Sorbus	Sorbus-type	TRSH	2	0.42735043
-Fall_b45	Pulmonaria	Anchusa/Pulmonaria	HERB	1	0.21367521
-Fall_b45	Apiaceae	Apiaceae	HERB	2	0.42735043
-Fall_b45	Artemisia	Artemisia	HERB	2	0.42735043
-Fall_b45	Chenopodiaceae Sueda/Atriplex type	Chenopodiaceae/Amaranthaceae	HERB	10	2.1367521
-Fall_b45	Cyperaceae	Cyperaceae	HERB	6	1.2820513
-Fall_b45	Capsella	Hornungia-type	HERB	1	0.21367521
-Fall_b45	Poaceae	Poaceae	HERB	14	2.991453
-Fall_b45	cf. Coprosma	Rubiaceae	HERB	1	0.21367521
-Fall_b45	Rubia	Rubiaceae	HERB	1	0.21367521
-Fall_b45	Silene	Silene-type	HERB	1	0.21367521
-Fall_b45	Typha/Sparagnum	Typha/Sparganium	AQUA	1	0.21367521
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Fall_b45	2	1	2	Acer	Acer campestre-type	TRSH
+Fall_b45	5	5	5	Alnus	Alnus	TRSH
+Fall_b45	1612	16	203	Cupressus type	Juniperus-type	TRSH
+Fall_b45	57	3	57	Juglans	Juglans	TRSH
+Fall_b45	201	2	31	Corylus	Corylus	TRSH
+Fall_b45	77	5	77	Pistacia	Pistacia	TRSH
+Fall_b45	1615	303	75	Pinus sp	Pinus	TRSH
+Fall_b45	1616	3	125	Pinus dip	Pinus sylvestris-type	TRSH
+Fall_b45	90	1	90	Rhamnaceae	Rhamnaceae	TRSH
+Fall_b45	189	25	189	Quercus	Quercus	TRSH
+Fall_b45	6	2	6	Apiaceae	Apiaceae	HERB
+Fall_b45	7	2	7	Artemisia	Artemisia	HERB
+Fall_b45	27	11	27	Cistus	Cistus	TRSH
+Fall_b45	1651	1	261	Capsella	Hornungia-type	HERB
+Fall_b45	1654	10	24	Chenopodiaceae Sueda/Atriplex type	Chenopodiaceae/Amaranthaceae	HERB
+Fall_b45	1658	1	93	cf. Coprosma	Rubiaceae	HERB
+Fall_b45	80	14	80	Poaceae	Poaceae	HERB
+Fall_b45	33	6	33	Cyperaceae	Cyperaceae	HERB
+Fall_b45	107	2	107	Sorbus	Sorbus-type	TRSH
+Fall_b45	132	1	132	Silene	Silene-type	HERB
+Fall_b45	203	36	203	Juniperus type	Juniperus-type	TRSH
+Fall_b45	442	15	68	Olea	Olea europaea	TRSH
+Fall_b45	1617	1	124	Pinus hap	Pinus cembra-type	TRSH
+Fall_b45	1675	1	936	Pulmonaria	Anchusa/Pulmonaria	HERB
+Fall_b45	1682	1	734	Typha/Sparagnum	Typha/Sparganium	AQUA
+Fall_b45	1676	1	93	Rubia	Rubiaceae	HERB

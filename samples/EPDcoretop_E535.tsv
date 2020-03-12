@@ -1,18 +1,18 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-EPDcoretop_E535	Alnus	Alnus	TRSH	11	1.7054264
-EPDcoretop_E535	Betula	Betula	TRSH	152	23.565891
-EPDcoretop_E535	Cornus mas/C. suecica	Cornus mas-type	TRSH	2	0.31007752
-EPDcoretop_E535	Ericaceae	Ericales (tetrad)	DWAR	4	0.62015504
-EPDcoretop_E535	Juniperus	Juniperus communis-type	TRSH	5	0.7751938
-EPDcoretop_E535	Picea	Picea	TRSH	55	8.5271318
-EPDcoretop_E535	Pinus	Pinus	TRSH	280	43.410853
-EPDcoretop_E535	Salix	Salix	TRSH	1	0.15503876
-EPDcoretop_E535	Cruciferae	Brassicaceae	HERB	1	0.15503876
-EPDcoretop_E535	Cerealia-type	Cerealia-type	HERB	6	0.93023256
-EPDcoretop_E535	Secale	Cerealia-type	HERB	5	0.7751938
-EPDcoretop_E535	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.15503876
-EPDcoretop_E535	Gramineae	Poaceae	HERB	88	13.643411
-EPDcoretop_E535	Rumex	Rumex/Oxyria	HERB	16	2.4806202
-EPDcoretop_E535	Equisetum	Equisetum	VACR	2	0.31007752
-EPDcoretop_E535	Sphagnum	Sphagnum	BRYO	16	2.4806202
-EPDcoretop_E535	Cyperaceae	Cyperaceae	AQUA	9	1.3953488
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+EPDcoretop_E535	5	11	5	Alnus	Alnus	TRSH
+EPDcoretop_E535	12	152	12	Betula	Betula	TRSH
+EPDcoretop_E535	24	1	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+EPDcoretop_E535	3842	2	3842	Cornus mas/C. suecica	Cornus mas-type	TRSH
+EPDcoretop_E535	482	1	13	Cruciferae	Brassicaceae	HERB
+EPDcoretop_E535	3868	9	3868	Cyperaceae	Cyperaceae	AQUA
+EPDcoretop_E535	130	4	130	Ericaceae	Ericales (tetrad)	DWAR
+EPDcoretop_E535	1601	88	80	Gramineae	Poaceae	HERB
+EPDcoretop_E535	58	5	58	Juniperus	Juniperus communis-type	TRSH
+EPDcoretop_E535	126	55	126	Picea	Picea	TRSH
+EPDcoretop_E535	75	280	75	Pinus	Pinus	TRSH
+EPDcoretop_E535	727	16	94	Rumex	Rumex/Oxyria	HERB
+EPDcoretop_E535	99	1	99	Salix	Salix	TRSH
+EPDcoretop_E535	104	5	22	Secale	Cerealia-type	HERB
+EPDcoretop_E535	144	16	144	Sphagnum	Sphagnum	BRYO
+EPDcoretop_E535	145	2	145	Equisetum	Equisetum	VACR
+EPDcoretop_E535	1065	6	22	Cerealia-type	Cerealia-type	HERB

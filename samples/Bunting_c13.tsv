@@ -1,42 +1,42 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Bunting_c13	Acer	Acer campestre-type	TRSH	1	0.11947431
-Bunting_c13	Alnus	Alnus	TRSH	9	1.0752688
-Bunting_c13	Betula	Betula	TRSH	76	9.0800478
-Bunting_c13	Calluna	Calluna vulgaris	TRSH	39	4.6594982
-Bunting_c13	Corylus type	Corylus	TRSH	5	0.59737157
-Bunting_c13	Fagus	Fagus	TRSH	7	0.83632019
-Bunting_c13	Fraxinus	Fraxinus	TRSH	11	1.3142174
-Bunting_c13	Ilex	Ilex	TRSH	1	0.11947431
-Bunting_c13	Juniperus	Juniperus communis-type	TRSH	2	0.23894863
-Bunting_c13	Myrica type	Myrica	TRSH	92	10.991637
-Bunting_c13	Picea	Picea	TRSH	3	0.35842294
-Bunting_c13	Pinus sylvestris	Pinus sylvestris-type	TRSH	123	14.695341
-Bunting_c13	Populus	Populus	TRSH	1	0.11947431
-Bunting_c13	Quercus	Quercus	TRSH	15	1.7921147
-Bunting_c13	Rosaceae undif.	Rosaceae	TRSH	2	0.23894863
-Bunting_c13	Salix	Salix	TRSH	25	2.9868578
-Bunting_c13	Ulmus	Ulmus/Zelkova	TRSH	3	0.35842294
-Bunting_c13	Apiaceae	Apiaceae	HERB	2	0.23894863
-Bunting_c13	Brassicaceae	Brassicaceae	HERB	3	0.35842294
-Bunting_c13	Cereal type	Cerealia-type	HERB	7	0.83632019
-Bunting_c13	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	3	0.35842294
-Bunting_c13	Cirsium type	Cirsium	HERB	2	0.23894863
-Bunting_c13	Cyperaceae	Cyperaceae	HERB	35	4.181601
-Bunting_c13	Fabaceae undif.	Fabaceae undiff.	HERB	1	0.11947431
-Bunting_c13	Filipendula	Filipendula	HERB	1	0.11947431
-Bunting_c13	Plantago lanceolata	Plantago lanceolata-type	HERB	1	0.11947431
-Bunting_c13	Poaceae	Poaceae	HERB	328	39.187575
-Bunting_c13	Potentilla type	Potentilla-type	HERB	1	0.11947431
-Bunting_c13	Ranunculus type	Ranunculus-type	HERB	8	0.9557945
-Bunting_c13	Rubiaceae	Rubiaceae	HERB	1	0.11947431
-Bunting_c13	Rumex undif.	Rumex/Oxyria	HERB	3	0.35842294
-Bunting_c13	Talictrum	Thalictrum	HERB	1	0.11947431
-Bunting_c13	Urtica dioica	Urtica dioica	HERB	17	2.0310633
-Bunting_c13	Dryopteris dilatata	Dryopteris dilatata	VACR	1	0.11947431
-Bunting_c13	Equisetum	Equisetum	VACR	4	0.47789725
-Bunting_c13	Pteropsida (monolete) indet.	Monolete fern spores	VACR	3	0.35842294
-Bunting_c13	Indet: broken	Indeterminable: broken	INUN	1	
-Bunting_c13	Exotic	Exotics (counted)	NOPO	291	
-Bunting_c13	exotic per tablet	Number of exotics per tablet	NOPO	10793	
-Bunting_c13	sediment volume (cm^3)	Sediment volume	NOPO	1	
-Bunting_c13	number of exotic tablets	Tablets (added)	NOPO	2	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Bunting_c13	971	291	881	Exotic	Exotics (counted)	NOPO
+Bunting_c13	972	1	972	sediment volume (cm^3)	Sediment volume	NOPO
+Bunting_c13	973	2	973	number of exotic tablets	Tablets (added)	NOPO
+Bunting_c13	974	10793	974	exotic per tablet	Number of exotics per tablet	NOPO
+Bunting_c13	2	1	2	Acer	Acer campestre-type	TRSH
+Bunting_c13	45	1	45	Filipendula	Filipendula	HERB
+Bunting_c13	60	1	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+Bunting_c13	99	25	99	Salix	Salix	TRSH
+Bunting_c13	5	9	5	Alnus	Alnus	TRSH
+Bunting_c13	33	35	33	Cyperaceae	Cyperaceae	HERB
+Bunting_c13	80	328	80	Poaceae	Poaceae	HERB
+Bunting_c13	154	3	154	Ulmus	Ulmus/Zelkova	TRSH
+Bunting_c13	189	15	189	Quercus	Quercus	TRSH
+Bunting_c13	192	7	42	Fagus	Fagus	TRSH
+Bunting_c13	699	1	512	Potentilla type	Potentilla-type	HERB
+Bunting_c13	788	123	125	Pinus sylvestris	Pinus sylvestris-type	TRSH
+Bunting_c13	6	2	6	Apiaceae	Apiaceae	HERB
+Bunting_c13	12	76	12	Betula	Betula	TRSH
+Bunting_c13	13	3	13	Brassicaceae	Brassicaceae	HERB
+Bunting_c13	24	3	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Bunting_c13	126	3	126	Picea	Picea	TRSH
+Bunting_c13	980	3	94	Rumex undif.	Rumex/Oxyria	HERB
+Bunting_c13	981	5	31	Corylus type	Corylus	TRSH
+Bunting_c13	982	7	22	Cereal type	Cerealia-type	HERB
+Bunting_c13	998	1	998	Indet: broken	Indeterminable: broken	INUN
+Bunting_c13	58	2	58	Juniperus	Juniperus communis-type	TRSH
+Bunting_c13	81	1	81	Populus	Populus	TRSH
+Bunting_c13	117	17	117	Urtica dioica	Urtica dioica	HERB
+Bunting_c13	145	4	145	Equisetum	Equisetum	VACR
+Bunting_c13	219	1	219	Dryopteris dilatata	Dryopteris dilatata	VACR
+Bunting_c13	190	11	190	Fraxinus	Fraxinus	TRSH
+Bunting_c13	435	1	55	Ilex	Ilex	TRSH
+Bunting_c13	581	39	457	Calluna	Calluna vulgaris	TRSH
+Bunting_c13	967	3	146	Pteropsida (monolete) indet.	Monolete fern spores	VACR
+Bunting_c13	977	92	977	Myrica type	Myrica	TRSH
+Bunting_c13	979	8	274	Ranunculus type	Ranunculus-type	HERB
+Bunting_c13	986	2	603	Cirsium type	Cirsium	HERB
+Bunting_c13	988	1	112	Talictrum	Thalictrum	HERB
+Bunting_c13	993	1	269	Fabaceae undif.	Fabaceae undiff.	HERB
+Bunting_c13	978	2	92	Rosaceae undif.	Rosaceae	TRSH
+Bunting_c13	93	1	93	Rubiaceae	Rubiaceae	HERB

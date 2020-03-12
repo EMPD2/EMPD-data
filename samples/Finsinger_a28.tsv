@@ -1,42 +1,42 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Finsinger_a28	Alnus glutinosa-type	Alnus glutinosa-type	TRSH	10	2.0283976
-Finsinger_a28	Castanea sativa	Castanea sativa	TRSH	6	1.2170385
-Finsinger_a28	Cistus salvifolius	Cistus salvifolius	TRSH	6	1.2170385
-Finsinger_a28	Corylus avellana	Corylus	TRSH	14	2.8397566
-Finsinger_a28	Eucalyptus	Eucalyptus	TRSH	8	1.6227181
-Finsinger_a28	Fagus	Fagus	TRSH	2	0.40567951
-Finsinger_a28	Fraxinus ornus	Fraxinus ornus	TRSH	2	0.40567951
-Finsinger_a28	Hedera-type	Hedera	TRSH	2	0.40567951
-Finsinger_a28	Juniperus	Juniperus-type	TRSH	99	20.081136
-Finsinger_a28	Olea	Olea europaea	TRSH	8	1.6227181
-Finsinger_a28	Ostrya-type	Ostrya/Carpinus orientalis	TRSH	2	0.40567951
-Finsinger_a28	Phillyrea	Phillyrea	TRSH	22	4.4624746
-Finsinger_a28	Pinus sylvestris-type	Pinus sylvestris-type	TRSH	64	12.981744
-Finsinger_a28	Pistacia	Pistacia	TRSH	2	0.40567951
-Finsinger_a28	Platanus	Platanus	TRSH	4	0.81135903
-Finsinger_a28	Populus	Populus	TRSH	2	0.40567951
-Finsinger_a28	Quercus cerris-type	Quercus cerris-type	TRSH	28	5.6795132
-Finsinger_a28	Quercus ilex-type	Quercus ilex-type	TRSH	38	7.7079108
-Finsinger_a28	Quercus rob.-pub.-type	Quercus robur-type	TRSH	2	0.40567951
-Finsinger_a28	Rhus group	Rhus-type	TRSH	4	0.81135903
-Finsinger_a28	Salix	Salix	TRSH	2	0.40567951
-Finsinger_a28	Sambucus	Sambucus	TRSH	2	0.40567951
-Finsinger_a28	Tamarix	Tamarix	TRSH	8	1.6227181
-Finsinger_a28	Vaccinium-type	Vaccinium-type	DWAR	10	2.0283976
-Finsinger_a28	Allium-type	Allium-type	HERB	2	0.40567951
-Finsinger_a28	Artemisia	Artemisia	HERB	8	1.6227181
-Finsinger_a28	Cirsium	Asteraceae subf. Asteroideae	HERB	2	0.40567951
-Finsinger_a28	Compositae Subfam. Asteroideae	Asteraceae subf. Asteroideae	HERB	2	0.40567951
-Finsinger_a28	Lotus-type	Astragalus-type	HERB	2	0.40567951
-Finsinger_a28	Cruciferae	Brassicaceae	HERB	6	1.2170385
-Finsinger_a28	Sagina	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	8	1.6227181
-Finsinger_a28	Chenopodiaceae-type	Chenopodiaceae/Amaranthaceae	HERB	26	5.2738337
-Finsinger_a28	Gentiana pneumonanthe-type	Gentiana pneumonanthe-type	HERB	2	0.40567951
-Finsinger_a28	Achillea-type	Matricaria-type	HERB	4	0.81135903
-Finsinger_a28	Mercurialis	Mercurialis	HERB	18	3.6511156
-Finsinger_a28	Plantago lanceolata-type	Plantago lanceolata-type	HERB	2	0.40567951
-Finsinger_a28	Gramineae	Poaceae	HERB	24	4.8681542
-Finsinger_a28	Thesium humifusum	Thesium	HERB	2	0.40567951
-Finsinger_a28	Urtica pilulifera	Urtica pilulifera	HERB	10	2.0283976
-Finsinger_a28	Urtica urens	Urtica urens	HERB	18	3.6511156
-Finsinger_a28	Valeriana dioica-type	Valeriana dioica	HERB	10	2.0283976
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Finsinger_a28	155	10	155	Alnus glutinosa-type	Alnus glutinosa-type	TRSH
+Finsinger_a28	19	6	19	Castanea sativa	Castanea sativa	TRSH
+Finsinger_a28	31	14	31	Corylus avellana	Corylus	TRSH
+Finsinger_a28	39	8	39	Eucalyptus	Eucalyptus	TRSH
+Finsinger_a28	44	2	44	Fraxinus ornus	Fraxinus ornus	TRSH
+Finsinger_a28	1728	99	203	Juniperus	Juniperus-type	TRSH
+Finsinger_a28	2538	2	51	Hedera-type	Hedera	TRSH
+Finsinger_a28	442	8	68	Olea	Olea europaea	TRSH
+Finsinger_a28	74	22	74	Phillyrea	Phillyrea	TRSH
+Finsinger_a28	77	2	77	Pistacia	Pistacia	TRSH
+Finsinger_a28	81	2	81	Populus	Populus	TRSH
+Finsinger_a28	2541	2	86	Quercus rob.-pub.-type	Quercus robur-type	TRSH
+Finsinger_a28	99	2	99	Salix	Salix	TRSH
+Finsinger_a28	481	2	407	Sambucus	Sambucus	TRSH
+Finsinger_a28	500	8	414	Tamarix	Tamarix	TRSH
+Finsinger_a28	942	10	942	Vaccinium-type	Vaccinium-type	TRSH
+Finsinger_a28	7	8	7	Artemisia	Artemisia	HERB
+Finsinger_a28	603	2	603	Cirsium	Cirsium	HERB
+Finsinger_a28	2558	26	24	Chenopodiaceae-type	Chenopodiaceae/Amaranthaceae	HERB
+Finsinger_a28	482	6	13	Cruciferae	Brassicaceae	HERB
+Finsinger_a28	1067	2	607	Gentiana pneumonanthe-type	Gentiana pneumonanthe-type	HERB
+Finsinger_a28	1389	2	10	Lotus-type	Astragalus-type	HERB
+Finsinger_a28	227	18	227	Mercurialis	Mercurialis	HERB
+Finsinger_a28	1075	2	60	Plantago lanceolata-type	Plantago lanceolata-type	HERB
+Finsinger_a28	2583	8	18	Sagina	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Finsinger_a28	2588	2	2588	Thesium humifusum	Thesium	HERB
+Finsinger_a28	841	10	119	Urtica pilulifera	Urtica pilulifera	HERB
+Finsinger_a28	78	4	78	Platanus	Platanus	TRSH
+Finsinger_a28	192	2	42	Fagus	Fagus	TRSH
+Finsinger_a28	572	2	70	Ostrya-type	Ostrya/Carpinus orientalis	TRSH
+Finsinger_a28	943	4	3	Achillea-type	Matricaria-type	HERB
+Finsinger_a28	1051	28	84	Quercus cerris-type	Quercus cerris-type	TRSH
+Finsinger_a28	1052	38	85	Quercus ilex-type	Quercus ilex-type	TRSH
+Finsinger_a28	1226	64	125	Pinus sylvestris-type	Pinus sylvestris-type	TRSH
+Finsinger_a28	1326	2	4	Allium-type	Allium-type	HERB
+Finsinger_a28	1601	24	80	Gramineae	Poaceae	HERB
+Finsinger_a28	1733	6	1733	Cistus salvifolius	Cistus salvifolius	TRSH
+Finsinger_a28	1752	18	1752	Urtica urens	Urtica urens	HERB
+Finsinger_a28	2543	4	1184	Rhus group	Rhus-type	TRSH
+Finsinger_a28	2560	2	160	Compositae Subfam. Asteroideae	Asteraceae subf. Asteroideae	HERB
+Finsinger_a28	2590	10	2590	Valeriana dioica-type	Valeriana dioica	HERB

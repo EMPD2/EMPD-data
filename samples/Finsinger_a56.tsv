@@ -1,36 +1,36 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Finsinger_a56	Alnus glutinosa-type	Alnus glutinosa-type	TRSH	260	62.052506
-Finsinger_a56	Alnus viridis	Alnus viridis	TRSH	1	0.23866348
-Finsinger_a56	Calluna vulgaris	Calluna vulgaris	TRSH	2	0.47732697
-Finsinger_a56	Castanea sativa	Castanea sativa	TRSH	11	2.6252983
-Finsinger_a56	Corylus avellana	Corylus	TRSH	4	0.95465394
-Finsinger_a56	Eucalyptus	Eucalyptus	TRSH	1	0.23866348
-Finsinger_a56	Fraxinus excelsior	Fraxinus excelsior-type	TRSH	1	0.23866348
-Finsinger_a56	Hedera-type	Hedera	TRSH	1	0.23866348
-Finsinger_a56	Juglans	Juglans	TRSH	3	0.71599045
-Finsinger_a56	Juniperus	Juniperus-type	TRSH	7	1.6706444
-Finsinger_a56	Olea	Olea europaea	TRSH	6	1.4319809
-Finsinger_a56	Ostrya-type	Ostrya/Carpinus orientalis	TRSH	4	0.95465394
-Finsinger_a56	Phillyrea	Phillyrea	TRSH	3	0.71599045
-Finsinger_a56	Pinus sylvestris-type	Pinus sylvestris-type	TRSH	2	0.47732697
-Finsinger_a56	Populus	Populus	TRSH	1	0.23866348
-Finsinger_a56	Quercus cerris-type	Quercus cerris-type	TRSH	13	3.1026253
-Finsinger_a56	Quercus ilex-type	Quercus ilex-type	TRSH	7	1.6706444
-Finsinger_a56	Quercus rob.-pub.-type	Quercus robur-type	TRSH	10	2.3866348
-Finsinger_a56	Salix	Salix	TRSH	9	2.1479714
-Finsinger_a56	Sambucus	Sambucus	TRSH	2	0.47732697
-Finsinger_a56	Ulmus	Ulmus/Zelkova	TRSH	7	1.6706444
-Finsinger_a56	Compositae Subfam. Asteroideae	Asteraceae subf. Asteroideae	HERB	4	0.95465394
-Finsinger_a56	Compositae Subfam. Cichorioideae	Asteraceae subf. Cichorioideae	HERB	6	1.4319809
-Finsinger_a56	Sagina	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	3	0.71599045
-Finsinger_a56	Chaerophyllum hirsutum-type	Chaerophyllum hirsutum-type	HERB	2	0.47732697
-Finsinger_a56	Chenopodiaceae-type	Chenopodiaceae/Amaranthaceae	HERB	3	0.71599045
-Finsinger_a56	Peucedanum-type	Peucedanum-type	HERB	1	0.23866348
-Finsinger_a56	Plantago lanceolata-type	Plantago lanceolata-type	HERB	1	0.23866348
-Finsinger_a56	Gramineae	Poaceae	HERB	28	6.6825776
-Finsinger_a56	Primula veris-type	Primula veris-type	HERB	1	0.23866348
-Finsinger_a56	Rumex acetosa-type	Rumex acetosa-type	HERB	4	0.95465394
-Finsinger_a56	Thesium humifusum	Thesium	HERB	1	0.23866348
-Finsinger_a56	Valeriana dioica-type	Valeriana dioica	HERB	3	0.71599045
-Finsinger_a56	Athyrium filix-femina	Athyrium filix-femina	VACR	1	0.23866348
-Finsinger_a56	Polypodium vulgare-type	Polypodium	VACR	6	1.4319809
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Finsinger_a56	155	260	155	Alnus glutinosa-type	Alnus glutinosa-type	TRSH
+Finsinger_a56	457	2	457	Calluna vulgaris	Calluna vulgaris	TRSH
+Finsinger_a56	561	1	129	Alnus viridis	Alnus viridis	TRSH
+Finsinger_a56	19	11	19	Castanea sativa	Castanea sativa	TRSH
+Finsinger_a56	31	4	31	Corylus avellana	Corylus	TRSH
+Finsinger_a56	39	1	39	Eucalyptus	Eucalyptus	TRSH
+Finsinger_a56	47	1	47	Fraxinus excelsior	Fraxinus excelsior-type	TRSH
+Finsinger_a56	57	3	57	Juglans	Juglans	TRSH
+Finsinger_a56	1728	7	203	Juniperus	Juniperus-type	TRSH
+Finsinger_a56	442	6	68	Olea	Olea europaea	TRSH
+Finsinger_a56	572	4	70	Ostrya-type	Ostrya/Carpinus orientalis	TRSH
+Finsinger_a56	74	3	74	Phillyrea	Phillyrea	TRSH
+Finsinger_a56	1226	2	125	Pinus sylvestris-type	Pinus sylvestris-type	TRSH
+Finsinger_a56	81	1	81	Populus	Populus	TRSH
+Finsinger_a56	1051	13	84	Quercus cerris-type	Quercus cerris-type	TRSH
+Finsinger_a56	2541	10	86	Quercus rob.-pub.-type	Quercus robur-type	TRSH
+Finsinger_a56	99	9	99	Salix	Salix	TRSH
+Finsinger_a56	1052	7	85	Quercus ilex-type	Quercus ilex-type	TRSH
+Finsinger_a56	154	7	154	Ulmus	Ulmus/Zelkova	TRSH
+Finsinger_a56	481	2	407	Sambucus	Sambucus	TRSH
+Finsinger_a56	2557	2	1124	Chaerophyllum hirsutum-type	Chaerophyllum hirsutum-type	HERB
+Finsinger_a56	2558	3	24	Chenopodiaceae-type	Chenopodiaceae/Amaranthaceae	HERB
+Finsinger_a56	2561	6	25	Compositae Subfam. Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Finsinger_a56	1601	28	80	Gramineae	Poaceae	HERB
+Finsinger_a56	1075	1	60	Plantago lanceolata-type	Plantago lanceolata-type	HERB
+Finsinger_a56	1267	1	73	Peucedanum-type	Peucedanum-type	HERB
+Finsinger_a56	1772	1	1079	Primula veris-type	Primula veris-type	HERB
+Finsinger_a56	634	4	95	Rumex acetosa-type	Rumex acetosa-type	HERB
+Finsinger_a56	2588	1	2588	Thesium humifusum	Thesium	HERB
+Finsinger_a56	215	1	215	Athyrium filix-femina	Athyrium filix-femina	VACR
+Finsinger_a56	2590	3	2590	Valeriana dioica-type	Valeriana dioica	HERB
+Finsinger_a56	2596	6	214	Polypodium vulgare-type	Polypodium	VACR
+Finsinger_a56	2538	1	51	Hedera-type	Hedera	TRSH
+Finsinger_a56	2560	4	160	Compositae Subfam. Asteroideae	Asteraceae subf. Asteroideae	HERB
+Finsinger_a56	2583	3	18	Sagina	Caryophyllaceae (periporate excl. Paronychioideae)	HERB

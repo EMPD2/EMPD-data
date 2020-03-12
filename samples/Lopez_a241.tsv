@@ -1,22 +1,22 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Lopez_a241	Betula	Betula	TRSH	3	0.66079295
-Lopez_a241	Fagus	Fagus	TRSH	1	0.22026432
-Lopez_a241	Juniperus-type	Juniperus-type	TRSH	165	36.343612
-Lopez_a241	Pinus sylvestris/nigra-type	Pinus sylvestris-type	TRSH	2	0.44052863
-Lopez_a241	Quercus deciduous	Quercus robur-type	TRSH	3	0.66079295
-Lopez_a241	Rosaceae undiff,	Rosaceae	TRSH	3	0.66079295
-Lopez_a241	Prunus/Rubus-type	Rosaceae (non-operculate)	TRSH	2	0.44052863
-Lopez_a241	Hedera	Hedera	LIAN	3	0.66079295
-Lopez_a241	Artemisia	Artemisia	HERB	13	2.8634361
-Lopez_a241	Cruciferae	Brassicaceae	HERB	5	1.1013216
-Lopez_a241	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	2	0.44052863
-Lopez_a241	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	2	0.44052863
-Lopez_a241	Cytisus/Genista-type	Genista-type	HERB	19	4.185022
-Lopez_a241	Helianthemum-type	Helianthemum	HERB	5	1.1013216
-Lopez_a241	Liliaceae undiff,	Liliaceae-type	HERB	5	1.1013216
-Lopez_a241	Anthemis-type	Matricaria-type	HERB	7	1.5418502
-Lopez_a241	Poaceae undiff.	Poaceae	HERB	206	45.374449
-Lopez_a241	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	4	0.88105727
-Lopez_a241	Monolete fern spores undiff.	Monolete fern spores	VACR	3	0.66079295
-Lopez_a241	Trilete fern spores undiff.	Trilete spore(s)	VACR	1	0.22026432
-Lopez_a241	Glomus cf. G. fasciculatum	Glomus cf. fasciculatum	FUNG	4	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Lopez_a241	589	7	3	Anthemis-type	Matricaria-type	HERB
+Lopez_a241	7	13	7	Artemisia	Artemisia	HERB
+Lopez_a241	12	3	12	Betula	Betula	TRSH
+Lopez_a241	482	5	13	Cruciferae	Brassicaceae	HERB
+Lopez_a241	192	1	42	Fagus	Fagus	TRSH
+Lopez_a241	4008	4	305	Glomus cf. G. fasciculatum	Glomus cf. fasciculatum	FUNG
+Lopez_a241	4031	3	4031	Hedera	Hedera	LIAN
+Lopez_a241	4039	5	52	Helianthemum-type	Helianthemum	HERB
+Lopez_a241	738	165	203	Juniperus-type	Juniperus-type	TRSH
+Lopez_a241	4131	5	62	Liliaceae undiff,	Liliaceae-type	HERB
+Lopez_a241	4403	2	490	Prunus/Rubus-type	Rosaceae (non-operculate)	TRSH
+Lopez_a241	437	3	86	Quercus deciduous	Quercus robur-type	TRSH
+Lopez_a241	173	4	173	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB
+Lopez_a241	4683	1	279	Trilete fern spores undiff.	Trilete spore(s)	VACR
+Lopez_a241	18	2	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Lopez_a241	429	206	80	Poaceae undiff.	Poaceae	HERB
+Lopez_a241	769	2	24	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB
+Lopez_a241	3878	19	3878	Cytisus/Genista-type	Genista-type	HERB
+Lopez_a241	4195	3	146	Monolete fern spores undiff.	Monolete fern spores	VACR
+Lopez_a241	4308	2	125	Pinus sylvestris/nigra-type	Pinus sylvestris-type	TRSH
+Lopez_a241	4489	3	92	Rosaceae undiff,	Rosaceae	TRSH

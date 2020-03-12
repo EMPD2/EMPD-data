@@ -1,17 +1,17 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Edwards_a25	Betula	Betula	TRSH	41	1.6872428
-Edwards_a25	Calluna vulgaris	Calluna vulgaris	DWAR	366	15.061728
-Edwards_a25	Corylus avellana-type	Corylus	TRSH	16	0.65843621
-Edwards_a25	Erica tetralix-type	Erica tetralix-type	DWAR	37	1.5226337
-Edwards_a25	Pinus sylvestris	Pinus sylvestris-type	TRSH	12	0.49382716
-Edwards_a25	Quercus	Quercus	TRSH	7	0.28806584
-Edwards_a25	Ulmus	Ulmus/Zelkova	TRSH	2	0.082304527
-Edwards_a25	Lactuceae	Asteraceae subf. Cichorioideae	HERB	11	0.4526749
-Edwards_a25	Cyperaceae class 2	Cyperaceae	HERB	245	10.082305
-Edwards_a25	Plantago lanceolata	Plantago lanceolata-type	HERB	15	0.61728395
-Edwards_a25	Poaceae class 2	Poaceae	HERB	151	6.2139918
-Edwards_a25	Poaceae class 3	Poaceae	HERB	16	0.65843621
-Edwards_a25	Potentilla-type	Potentilla-type	HERB	13	0.53497942
-Edwards_a25	Pteridophyta spore	Monolete fern spores	VACR	749	30.823045
-Edwards_a25	Pteridium aquilinum	Pteridium aquilinum	VACR	8	0.32921811
-Edwards_a25	Sphagnum	Sphagnum	BRYO	741	30.493827
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Edwards_a25	12	41	12	Betula	Betula	TRSH
+Edwards_a25	3849	16	31	Corylus avellana-type	Corylus	TRSH
+Edwards_a25	3870	245	33	Cyperaceae class 2	Cyperaceae	HERB
+Edwards_a25	3939	37	2600	Erica tetralix-type	Erica tetralix-type	DWAR
+Edwards_a25	741	11	25	Lactuceae	Asteraceae subf. Cichorioideae	HERB
+Edwards_a25	788	12	125	Pinus sylvestris	Pinus sylvestris-type	TRSH
+Edwards_a25	4345	151	80	Poaceae class 2	Poaceae	HERB
+Edwards_a25	4346	16	80	Poaceae class 3	Poaceae	HERB
+Edwards_a25	626	13	512	Potentilla-type	Potentilla-type	HERB
+Edwards_a25	180	8	180	Pteridium aquilinum	Pteridium aquilinum	VACR
+Edwards_a25	4408	749	146	Pteridophyta spore	Monolete fern spores	VACR
+Edwards_a25	189	7	189	Quercus	Quercus	TRSH
+Edwards_a25	144	741	144	Sphagnum	Sphagnum	BRYO
+Edwards_a25	154	2	154	Ulmus	Ulmus/Zelkova	TRSH
+Edwards_a25	60	15	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+Edwards_a25	3646	366	3645	Calluna vulgaris	Calluna vulgaris	DWAR

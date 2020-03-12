@@ -1,37 +1,37 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Sadori_g4	Acer	Acer campestre-type	TRSH	3	0.47543582
-Sadori_g4	Alnus	Alnus	TRSH	1	0.15847861
-Sadori_g4	Carpinus betulus	Carpinus betulus	TRSH	12	1.9017433
-Sadori_g4	Castanea	Castanea sativa	TRSH	5	0.79239303
-Sadori_g4	Corylus	Corylus	TRSH	12	1.9017433
-Sadori_g4	Ericaceae	Ericales (tetrad)	DWAR	5	0.79239303
-Sadori_g4	Fagus	Fagus	TRSH	192	30.427892
-Sadori_g4	Fraxinus	Fraxinus	TRSH	2	0.31695721
-Sadori_g4	Juniperus	Juniperus communis-type	TRSH	4	0.63391442
-Sadori_g4	Olea	Olea europaea	TRSH	4	0.63391442
-Sadori_g4	Ostrya	Ostrya/Carpinus orientalis	TRSH	12	1.9017433
-Sadori_g4	Picea	Picea	TRSH	2	0.31695721
-Sadori_g4	Pinus	Pinus	TRSH	17	2.6941363
-Sadori_g4	Quercus deciduous	Quercus robur-type	TRSH	38	6.022187
-Sadori_g4	Salix	Salix	TRSH	2	0.31695721
-Sadori_g4	Sambucus	Sambucus	TRSH	3	0.47543582
-Sadori_g4	Viburnum	Viburnum	TRSH	1	0.15847861
-Sadori_g4	Umbelliferae	Apiaceae	HERB	10	1.5847861
-Sadori_g4	Artemisia	Artemisia	HERB	2	0.31695721
-Sadori_g4	Asteroideae	Asteraceae subf. Asteroideae	HERB	12	1.9017433
-Sadori_g4	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	16	2.5356577
-Sadori_g4	Cruciferae	Brassicaceae	HERB	16	2.5356577
-Sadori_g4	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	6	0.95087163
-Sadori_g4	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.15847861
-Sadori_g4	Euphorbia	Euphorbia	HERB	2	0.31695721
-Sadori_g4	Labiatae	Lamiaceae	HERB	6	0.95087163
-Sadori_g4	Leguminosae	Leguminosae	HERB	18	2.8526149
-Sadori_g4	Gramineae	Poaceae	HERB	200	31.695721
-Sadori_g4	Ranunculaceae	Ranunculaceae	HERB	1	0.15847861
-Sadori_g4	Urticaceae	Urticaceae	HERB	19	3.0110935
-Sadori_g4	Monolete fern spores	Monolete fern spores	VACR	4	0.63391442
-Sadori_g4	Trilete spores	Trilete spore(s)	VACR	3	0.47543582
-Sadori_g4	Cyperaceae	Cyperaceae	AQUA	1	0.15847861
-Sadori_g4	Lycopodium (added)	Lycopodium (added)	NOPO	13500	
-Sadori_g4	Lycopodium (counted)	Lycopodium (counted)	NOPO	2	
-Sadori_g4	Sample dry mass (g)	Sample dry mass (g)	NOPO	1	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Sadori_g4	5	1	5	Alnus	Alnus	TRSH
+Sadori_g4	7	2	7	Artemisia	Artemisia	HERB
+Sadori_g4	563	12	16	Carpinus betulus	Carpinus betulus	TRSH
+Sadori_g4	18	6	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Sadori_g4	447	16	25	Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Sadori_g4	201	12	31	Corylus	Corylus	TRSH
+Sadori_g4	3868	1	3868	Cyperaceae	Cyperaceae	AQUA
+Sadori_g4	40	2	40	Euphorbia	Euphorbia	HERB
+Sadori_g4	190	2	190	Fraxinus	Fraxinus	TRSH
+Sadori_g4	1601	200	80	Gramineae	Poaceae	HERB
+Sadori_g4	58	4	58	Juniperus	Juniperus communis-type	TRSH
+Sadori_g4	692	13500	692	Lycopodium (added)	Lycopodium (added)	NOPO
+Sadori_g4	559	2	559	Lycopodium (counted)	Lycopodium (counted)	NOPO
+Sadori_g4	442	4	68	Olea	Olea europaea	TRSH
+Sadori_g4	126	2	126	Picea	Picea	TRSH
+Sadori_g4	75	17	75	Pinus	Pinus	TRSH
+Sadori_g4	437	38	86	Quercus deciduous	Quercus robur-type	TRSH
+Sadori_g4	135	1	135	Ranunculaceae	Ranunculaceae	HERB
+Sadori_g4	99	2	99	Salix	Salix	TRSH
+Sadori_g4	4539	1	4539	Sample dry mass (g)	Sample dry mass (g)	NOPO
+Sadori_g4	416	3	279	Trilete spores	Trilete spore(s)	VACR
+Sadori_g4	809	19	809	Urticaceae	Urticaceae	HERB
+Sadori_g4	120	1	120	Viburnum	Viburnum	TRSH
+Sadori_g4	2	3	2	Acer	Acer campestre-type	TRSH
+Sadori_g4	24	1	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Sadori_g4	130	5	130	Ericaceae	Ericales (tetrad)	DWAR
+Sadori_g4	192	192	42	Fagus	Fagus	TRSH
+Sadori_g4	441	5	19	Castanea	Castanea sativa	TRSH
+Sadori_g4	481	3	407	Sambucus	Sambucus	TRSH
+Sadori_g4	482	16	13	Cruciferae	Brassicaceae	HERB
+Sadori_g4	485	6	59	Labiatae	Lamiaceae	HERB
+Sadori_g4	571	12	70	Ostrya	Ostrya/Carpinus orientalis	TRSH
+Sadori_g4	590	10	6	Umbelliferae	Apiaceae	HERB
+Sadori_g4	744	18	744	Leguminosae	Leguminosae	HERB
+Sadori_g4	761	12	160	Asteroideae	Asteraceae subf. Asteroideae	HERB
+Sadori_g4	4193	4	146	Monolete fern spores	Monolete fern spores	VACR

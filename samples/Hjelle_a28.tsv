@@ -1,48 +1,48 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Hjelle_a28	Alnus	Alnus	TRSH	194	15.759545
-Hjelle_a28	Betula	Betula	TRSH	228	18.521527
-Hjelle_a28	Calluna vulgaris	Calluna vulgaris	TRSH	50	4.0617384
-Hjelle_a28	Cornus suecica type	Cornus suecica	TRSH	1	0.081234768
-Hjelle_a28	Corylus avellana	Corylus	TRSH	48	3.8992689
-Hjelle_a28	Fagus	Fagus	TRSH	1	0.081234768
-Hjelle_a28	Fraxinus	Fraxinus	TRSH	3	0.24370431
-Hjelle_a28	Juniperus	Juniperus communis-type	TRSH	31	2.5182778
-Hjelle_a28	Myrica gale	Myrica	TRSH	22	1.7871649
-Hjelle_a28	Picea	Picea	TRSH	1	0.081234768
-Hjelle_a28	Pinus sylvestris	Pinus sylvestris-type	TRSH	272	22.095857
-Hjelle_a28	Quercus	Quercus	TRSH	31	2.5182778
-Hjelle_a28	Rubus idaeus	Rubus	TRSH	1	0.081234768
-Hjelle_a28	Salix	Salix	TRSH	1	0.081234768
-Hjelle_a28	Sorbus	Sorbus-type	TRSH	2	0.16246954
-Hjelle_a28	Tilia cordata	Tilia cordata-type	TRSH	7	0.56864338
-Hjelle_a28	Ulmus	Ulmus/Zelkova	TRSH	2	0.16246954
-Hjelle_a28	Vaccinium type	Vaccinium-type	DWAR	8	0.64987815
-Hjelle_a28	Anemone type	Anemone nemorosa-type	HERB	1	0.081234768
-Hjelle_a28	Apiaceae	Apiaceae	HERB	2	0.16246954
-Hjelle_a28	Asteraceae Cichorioideae	Asteraceae subf. Cichorioideae	HERB	2	0.16246954
-Hjelle_a28	Avena type	Avena-type	HERB	1	0.081234768
-Hjelle_a28	Cerastium fontanum type	Cerastium-type	HERB	1	0.081234768
-Hjelle_a28	Cerastium group	Cerastium-type	HERB	1	0.081234768
-Hjelle_a28	Cirsium type	Cirsium	HERB	1	0.081234768
-Hjelle_a28	Cyperaceae	Cyperaceae	HERB	27	2.1933387
-Hjelle_a28	Filipendula	Filipendula	HERB	3	0.24370431
-Hjelle_a28	Melampyrum	Melampyrum	HERB	2	0.16246954
-Hjelle_a28	Plantago lanceolata	Plantago lanceolata-type	HERB	1	0.081234768
-Hjelle_a28	Plantago major	Plantago major	HERB	2	0.16246954
-Hjelle_a28	Poaceae	Poaceae	HERB	116	9.4232331
-Hjelle_a28	Potentilla type	Potentilla-type	HERB	3	0.24370431
-Hjelle_a28	Ranunculus acris type	Ranunculus acris-type	HERB	2	0.16246954
-Hjelle_a28	Galium type	Rubiaceae	HERB	1	0.081234768
-Hjelle_a28	Rumex sect. Acetosa	Rumex acetosa-type	HERB	2	0.16246954
-Hjelle_a28	Rumex longifolius type	Rumex aquaticus-type	HERB	2	0.16246954
-Hjelle_a28	Succisa	Succisa-type	HERB	1	0.081234768
-Hjelle_a28	Valeriana	Valeriana	HERB	1	0.081234768
-Hjelle_a28	Gymnocarpium dryopteris type	Gymnocarpium dryopteris	VACR	12	0.97481722
-Hjelle_a28	Huperzia selago	Huperzia selago	VACR	1	0.081234768
-Hjelle_a28	Lycopodium annotinum	Lycopodium annotinum-type	VACR	1	0.081234768
-Hjelle_a28	Polypodiaceae	Monolete fern spores	VACR	136	11.047929
-Hjelle_a28	Polypodium vulgare	Polypodium	VACR	5	0.40617384
-Hjelle_a28	Pteridium	Pteridium aquilinum	VACR	1	0.081234768
-Hjelle_a28	Caltha type	Caltha-type	HELO	1	0.081234768
-Hjelle_a28	Ranunculus flammula type	Ranunculus flammula-type	HELO	2	0.16246954
-Hjelle_a28	Sphagnum	Sphagnum	NOPO	39	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Hjelle_a28	5	194	5	Alnus	Alnus	TRSH
+Hjelle_a28	12	228	12	Betula	Betula	TRSH
+Hjelle_a28	31	48	31	Corylus avellana	Corylus	TRSH
+Hjelle_a28	126	1	126	Picea	Picea	TRSH
+Hjelle_a28	107	2	107	Sorbus	Sorbus-type	TRSH
+Hjelle_a28	189	31	189	Quercus	Quercus	TRSH
+Hjelle_a28	58	31	58	Juniperus	Juniperus communis-type	TRSH
+Hjelle_a28	99	1	99	Salix	Salix	TRSH
+Hjelle_a28	33	27	33	Cyperaceae	Cyperaceae	HERB
+Hjelle_a28	45	3	45	Filipendula	Filipendula	HERB
+Hjelle_a28	232	1	232	Caltha type	Caltha-type	HELO
+Hjelle_a28	986	1	603	Cirsium type	Cirsium	HERB
+Hjelle_a28	60	1	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+Hjelle_a28	87	2	87	Ranunculus acris type	Ranunculus acris-type	HERB
+Hjelle_a28	699	3	512	Potentilla type	Potentilla-type	HERB
+Hjelle_a28	493	1	493	Valeriana	Valeriana	HERB
+Hjelle_a28	2392	1	989	Succisa	Succisa-type	HERB
+Hjelle_a28	146	136	146	Polypodiaceae	Monolete fern spores	VACR
+Hjelle_a28	431	1	180	Pteridium	Pteridium aquilinum	VACR
+Hjelle_a28	667	5	214	Polypodium vulgare	Polypodium	VACR
+Hjelle_a28	6	2	6	Apiaceae	Apiaceae	HERB
+Hjelle_a28	79	2	79	Plantago major	Plantago major	HERB
+Hjelle_a28	80	116	80	Poaceae	Poaceae	HERB
+Hjelle_a28	144	39	144	Sphagnum	Sphagnum	BRYO
+Hjelle_a28	154	2	154	Ulmus	Ulmus/Zelkova	TRSH
+Hjelle_a28	190	3	190	Fraxinus	Fraxinus	TRSH
+Hjelle_a28	192	1	42	Fagus	Fagus	TRSH
+Hjelle_a28	457	50	457	Calluna vulgaris	Calluna vulgaris	TRSH
+Hjelle_a28	473	2	473	Melampyrum	Melampyrum	HERB
+Hjelle_a28	788	272	125	Pinus sylvestris	Pinus sylvestris-type	TRSH
+Hjelle_a28	964	1	184	Huperzia selago	Huperzia selago	VACR
+Hjelle_a28	965	1	183	Lycopodium annotinum	Lycopodium annotinum-type	VACR
+Hjelle_a28	1365	2	25	Asteraceae Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Hjelle_a28	1406	7	153	Tilia cordata	Tilia cordata-type	TRSH
+Hjelle_a28	1809	1	21	Cerastium fontanum type	Cerastium-type	HERB
+Hjelle_a28	1928	1	1111	Avena type	Avena-type	HERB
+Hjelle_a28	2627	12	1320	Gymnocarpium dryopteris type	Gymnocarpium dryopteris	VACR
+Hjelle_a28	2598	1	141	Rubus idaeus	Rubus	TRSH
+Hjelle_a28	2601	22	977	Myrica gale	Myrica	TRSH
+Hjelle_a28	2602	8	942	Vaccinium type	Vaccinium-type	TRSH
+Hjelle_a28	2605	1	588	Anemone type	Anemone nemorosa-type	HERB
+Hjelle_a28	2606	1	21	Cerastium group	Cerastium-type	HERB
+Hjelle_a28	2607	1	2607	Cornus suecica type	Cornus suecica	TRSH
+Hjelle_a28	2616	2	1582	Ranunculus flammula type	Ranunculus flammula-type	HELO
+Hjelle_a28	2618	2	95	Rumex sect. Acetosa	Rumex acetosa-type	HERB
+Hjelle_a28	2619	2	1084	Rumex longifolius type	Rumex aquaticus-type	HERB
+Hjelle_a28	245	1	93	Galium type	Rubiaceae	HERB

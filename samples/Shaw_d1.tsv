@@ -1,39 +1,39 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Shaw_d1	Acer	Acer campestre-type	TRSH	2	0.47281324
-Shaw_d1	Alnus glutinosa	Alnus glutinosa-type	TRSH	7	1.6548463
-Shaw_d1	Betula	Betula	TRSH	6	1.4184397
-Shaw_d1	Calluna vulgaris	Calluna vulgaris	DWAR	2	0.47281324
-Shaw_d1	Corylus	Corylus	TRSH	4	0.94562648
-Shaw_d1	Fagus	Fagus	TRSH	1	0.23640662
-Shaw_d1	Fraxinus excelsior	Fraxinus excelsior-type	TRSH	7	1.6548463
-Shaw_d1	Picea	Picea	TRSH	2	0.47281324
-Shaw_d1	Pinus sylvestris	Pinus sylvestris-type	TRSH	8	1.891253
-Shaw_d1	Quercus	Quercus	TRSH	7	1.6548463
-Shaw_d1	Rosaceae (operculate) undiff.	Rosaceae (operculate)	TRSH	1	0.23640662
-Shaw_d1	Ulmus	Ulmus/Zelkova	TRSH	1	0.23640662
-Shaw_d1	Anagallis tenella	Anagallis tenella-type	HERB	1	0.23640662
-Shaw_d1	Poaceae (annulus >8 um)	Cerealia-type	HERB	7	1.6548463
-Shaw_d1	Cannabis-type	Humulus/Cannabis	HERB	1	0.23640662
-Shaw_d1	Lychnis flos-cuculi	Lychnis flos-cuculi	HERB	1	0.23640662
-Shaw_d1	Plantago lanceolata	Plantago lanceolata-type	HERB	2	0.47281324
-Shaw_d1	Poaceae (annulus <8 um)	Poaceae	HERB	342	80.851064
-Shaw_d1	Potentilla-type	Potentilla-type	HERB	3	0.70921986
-Shaw_d1	Ranunculus-type	Ranunculus-type	HERB	3	0.70921986
-Shaw_d1	Galium	Rubiaceae	HERB	6	1.4184397
-Shaw_d1	Sanguisorba minor	Sanguisorba minor-type	HERB	1	0.23640662
-Shaw_d1	Saxifragia cf. S. granulata	Saxifraga granulata-type	HERB	1	0.23640662
-Shaw_d1	Sinapis	Sinapis-type	HERB	1	0.23640662
-Shaw_d1	Thalictrum	Thalictrum	HERB	1	0.23640662
-Shaw_d1	Urtica dioica	Urtica dioica	HERB	5	1.1820331
-Shaw_d1	Cyperaceae	Cyperaceae	AQUA	5	1.1820331
-Shaw_d1	Charcoal 10-20 _m	Charcoal 10-20µm	CHAR	73	
-Shaw_d1	Charcoal 20-30 _m	Charcoal 20-30µm	CHAR	17	
-Shaw_d1	Charcoal 3-10 _m	Charcoal 3-10µm	CHAR	166	
-Shaw_d1	Charcoal 30-40 _m	Charcoal 30-40µm	CHAR	12	
-Shaw_d1	Charcoal >40 _m	Charcoal >40µm	CHAR	15	
-Shaw_d1	Indeterminable: unknown	Indeterminable: unknown	INUN	9	
-Shaw_d1	Unknown	Indeterminable: unknown	INUN	1	
-Shaw_d1	Lycopodium (counted)	Lycopodium (counted)	NOPO	549	
-Shaw_d1	Spheroidal Carbonaceous Particles	Spheroidal carbonaceous particle	NOPO	12	
-Shaw_d1	Spike (grains/tablet)	Spike (grains/tablet)	NOPO	18583	
-Shaw_d1	Spike tablets (number)	Spike tablets (number)	NOPO	2	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Shaw_d1	2	2	2	Acer	Acer campestre-type	TRSH
+Shaw_d1	12	6	12	Betula	Betula	TRSH
+Shaw_d1	3646	2	3645	Calluna vulgaris	Calluna vulgaris	DWAR
+Shaw_d1	1340	1	205	Cannabis-type	Humulus/Cannabis	HERB
+Shaw_d1	3778	15	3778	Charcoal >40 _m	Charcoal >40µm	CHAR
+Shaw_d1	3779	73	2407	Charcoal 10-20 _m	Charcoal 10-20µm	CHAR
+Shaw_d1	3780	17	3780	Charcoal 20-30 _m	Charcoal 20-30µm	CHAR
+Shaw_d1	3781	166	3781	Charcoal 3-10 _m	Charcoal 3-10µm	CHAR
+Shaw_d1	3782	12	3782	Charcoal 30-40 _m	Charcoal 30-40µm	CHAR
+Shaw_d1	201	4	31	Corylus	Corylus	TRSH
+Shaw_d1	3868	5	3868	Cyperaceae	Cyperaceae	AQUA
+Shaw_d1	192	1	42	Fagus	Fagus	TRSH
+Shaw_d1	47	7	47	Fraxinus excelsior	Fraxinus excelsior-type	TRSH
+Shaw_d1	1475	6	93	Galium	Rubiaceae	HERB
+Shaw_d1	4078	9	177	Indeterminable: unknown	Indeterminable: unknown	INUN
+Shaw_d1	2518	1	2518	Lychnis flos-cuculi	Lychnis flos-cuculi	HERB
+Shaw_d1	559	549	559	Lycopodium (counted)	Lycopodium (counted)	NOPO
+Shaw_d1	126	2	126	Picea	Picea	TRSH
+Shaw_d1	60	2	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+Shaw_d1	4339	342	80	Poaceae (annulus <8 um)	Poaceae	HERB
+Shaw_d1	4341	7	22	Poaceae (annulus >8 um)	Cerealia-type	HERB
+Shaw_d1	626	3	512	Potentilla-type	Potentilla-type	HERB
+Shaw_d1	189	7	189	Quercus	Quercus	TRSH
+Shaw_d1	2429	3	274	Ranunculus-type	Ranunculus-type	HERB
+Shaw_d1	4482	1	4482	Rosaceae (operculate) undiff.	Rosaceae (operculate)	TRSH
+Shaw_d1	101	1	101	Sanguisorba minor	Sanguisorba minor-type	HERB
+Shaw_d1	4559	1	1402	Saxifragia cf. S. granulata	Saxifraga granulata-type	HERB
+Shaw_d1	1355	1	246	Sinapis	Sinapis-type	HERB
+Shaw_d1	4624	12	2382	Spheroidal Carbonaceous Particles	Spheroidal carbonaceous particle	NOPO
+Shaw_d1	4625	18583	4625	Spike (grains/tablet)	Spike (grains/tablet)	NOPO
+Shaw_d1	4627	2	4627	Spike tablets (number)	Spike tablets (number)	NOPO
+Shaw_d1	969	1	177	Unknown	Indeterminable: unknown	INUN
+Shaw_d1	117	5	117	Urtica dioica	Urtica dioica	HERB
+Shaw_d1	112	1	112	Thalictrum	Thalictrum	HERB
+Shaw_d1	154	1	154	Ulmus	Ulmus/Zelkova	TRSH
+Shaw_d1	760	7	155	Alnus glutinosa	Alnus glutinosa-type	TRSH
+Shaw_d1	788	8	125	Pinus sylvestris	Pinus sylvestris-type	TRSH
+Shaw_d1	3531	1	814	Anagallis tenella	Anagallis tenella-type	HERB

@@ -1,19 +1,19 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Lapteva_b77	Duschekia fruticosa= Alnus fruticosa-type	Alnus viridis	TRSH	100	21.645022
-Lapteva_b77	Betula nana=Betula sect. Nanae	Betula nana-type	DWAR	95	20.562771
-Lapteva_b77	Betula sect. Albae	Betula pubescens-type	TRSH	40	8.6580087
-Lapteva_b77	Ericaceae	Ericales (tetrad)	DWAR	13	2.8138528
-Lapteva_b77	Larix	Larix/Pseudotsuga	TRSH	2	0.43290043
-Lapteva_b77	Picea	Picea	TRSH	9	1.9480519
-Lapteva_b77	Pinus sibirica=Pinus s/g Haploxylon	Pinus cembra-type	TRSH	6	1.2987013
-Lapteva_b77	Pinus sylvestris=Pinus s/g Diploxylon	Pinus sylvestris-type	TRSH	60	12.987013
-Lapteva_b77	Rosaceae	Rosaceae	TRSH	4	0.86580087
-Lapteva_b77	Salix	Salix	TRSH	10	2.1645022
-Lapteva_b77	Artemisia	Artemisia	HERB	2	0.43290043
-Lapteva_b77	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	3	0.64935065
-Lapteva_b77	Cyperaceae	Cyperaceae	HERB	10	2.1645022
-Lapteva_b77	Poaceae	Poaceae	HERB	3	0.64935065
-Lapteva_b77	Rosaceae/Rubus chamaemorus	Rubus chamaemorus	HERB	64	13.852814
-Lapteva_b77	Bryales	Bryophyte spores	BRYO	39	8.4415584
-Lapteva_b77	Equisetum	Equisetum	VACR	2	0.43290043
-Lapteva_b77	Sphagnum	Sphagnum	NOPO	29	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Lapteva_b77	123	2	123	Larix	Larix/Pseudotsuga	TRSH
+Lapteva_b77	126	9	126	Picea	Picea	TRSH
+Lapteva_b77	150	60	125	Pinus sylvestris=Pinus s/g Diploxylon	Pinus sylvestris-type	TRSH
+Lapteva_b77	99	10	99	Salix	Salix	TRSH
+Lapteva_b77	156	95	127	Betula nana=Betula sect. Nanae	Betula nana-type	DWAR
+Lapteva_b77	130	13	130	Ericaceae	Ericales (tetrad)	DWAR
+Lapteva_b77	157	100	129	Duschekia fruticosa= Alnus fruticosa-type	Alnus viridis	TRSH
+Lapteva_b77	33	10	33	Cyperaceae	Cyperaceae	HERB
+Lapteva_b77	7	2	7	Artemisia	Artemisia	HERB
+Lapteva_b77	92	4	92	Rosaceae	Rosaceae	TRSH
+Lapteva_b77	172	64	172	Rosaceae/Rubus chamaemorus	Rubus chamaemorus	HERB
+Lapteva_b77	145	2	145	Equisetum	Equisetum	VACR
+Lapteva_b77	147	39	147	Bryales	Bryophyte spores	BRYO
+Lapteva_b77	24	3	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Lapteva_b77	80	3	80	Poaceae	Poaceae	HERB
+Lapteva_b77	128	40	128	Betula sect. Albae	Betula pubescens-type	TRSH
+Lapteva_b77	144	29	144	Sphagnum	Sphagnum	BRYO
+Lapteva_b77	151	6	124	Pinus sibirica=Pinus s/g Haploxylon	Pinus cembra-type	TRSH

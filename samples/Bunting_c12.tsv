@@ -1,38 +1,38 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Bunting_c12	Abies	Abies	TRSH	1	0.13333333
-Bunting_c12	Alnus	Alnus	TRSH	2	0.26666667
-Bunting_c12	Betula	Betula	TRSH	81	10.8
-Bunting_c12	Calluna	Calluna vulgaris	TRSH	31	4.1333333
-Bunting_c12	Corylus type	Corylus	TRSH	3	0.4
-Bunting_c12	Fagus	Fagus	TRSH	2	0.26666667
-Bunting_c12	Fraxinus	Fraxinus	TRSH	3	0.4
-Bunting_c12	Juniperus	Juniperus communis-type	TRSH	3	0.4
-Bunting_c12	Myrica type	Myrica	TRSH	46	6.1333333
-Bunting_c12	Picea	Picea	TRSH	1	0.13333333
-Bunting_c12	Pinus sylvestris	Pinus sylvestris-type	TRSH	120	16
-Bunting_c12	Quercus	Quercus	TRSH	15	2
-Bunting_c12	Rosaceae undif.	Rosaceae	TRSH	2	0.26666667
-Bunting_c12	Salix	Salix	TRSH	13	1.7333333
-Bunting_c12	Tilia	Tilia	TRSH	1	0.13333333
-Bunting_c12	Tsuga	Tsuga	TRSH	1	0.13333333
-Bunting_c12	Vaccinium-type	Vaccinium-type	DWAR	2	0.26666667
-Bunting_c12	Artemisia type	Artemisia	HERB	5	0.66666667
-Bunting_c12	Asteraceae (C/A)	Asteraceae	HERB	1	0.13333333
-Bunting_c12	Brassicaceae	Brassicaceae	HERB	3	0.4
-Bunting_c12	Cereal type	Cerealia-type	HERB	9	1.2
-Bunting_c12	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	3	0.4
-Bunting_c12	Cyperaceae	Cyperaceae	HERB	15	2
-Bunting_c12	Filipendula	Filipendula	HERB	3	0.4
-Bunting_c12	Poaceae	Poaceae	HERB	351	46.8
-Bunting_c12	Potentilla type	Potentilla-type	HERB	4	0.53333333
-Bunting_c12	Ranunculus type	Ranunculus-type	HERB	4	0.53333333
-Bunting_c12	Rubiaceae	Rubiaceae	HERB	5	0.66666667
-Bunting_c12	Rumex undif.	Rumex/Oxyria	HERB	10	1.3333333
-Bunting_c12	Urtica dioica	Urtica dioica	HERB	2	0.26666667
-Bunting_c12	Equisetum	Equisetum	VACR	2	0.26666667
-Bunting_c12	Pteropsida (monolete) indet.	Monolete fern spores	VACR	6	0.8
-Bunting_c12	Indet: broken	Indeterminable: broken	INUN	1	
-Bunting_c12	Exotic	Exotics (counted)	NOPO	992	
-Bunting_c12	exotic per tablet	Number of exotics per tablet	NOPO	10793	
-Bunting_c12	sediment volume (cm^3)	Sediment volume	NOPO	1	
-Bunting_c12	number of exotic tablets	Tablets (added)	NOPO	2	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Bunting_c12	971	992	881	Exotic	Exotics (counted)	NOPO
+Bunting_c12	972	1	972	sediment volume (cm^3)	Sediment volume	NOPO
+Bunting_c12	973	2	973	number of exotic tablets	Tablets (added)	NOPO
+Bunting_c12	974	10793	974	exotic per tablet	Number of exotics per tablet	NOPO
+Bunting_c12	45	3	45	Filipendula	Filipendula	HERB
+Bunting_c12	99	13	99	Salix	Salix	TRSH
+Bunting_c12	190	3	190	Fraxinus	Fraxinus	TRSH
+Bunting_c12	581	31	457	Calluna	Calluna vulgaris	TRSH
+Bunting_c12	5	2	5	Alnus	Alnus	TRSH
+Bunting_c12	33	15	33	Cyperaceae	Cyperaceae	HERB
+Bunting_c12	80	351	80	Poaceae	Poaceae	HERB
+Bunting_c12	189	15	189	Quercus	Quercus	TRSH
+Bunting_c12	192	2	42	Fagus	Fagus	TRSH
+Bunting_c12	699	4	512	Potentilla type	Potentilla-type	HERB
+Bunting_c12	788	120	125	Pinus sylvestris	Pinus sylvestris-type	TRSH
+Bunting_c12	12	81	12	Betula	Betula	TRSH
+Bunting_c12	13	3	13	Brassicaceae	Brassicaceae	HERB
+Bunting_c12	24	3	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Bunting_c12	126	1	126	Picea	Picea	TRSH
+Bunting_c12	187	1	187	Tilia	Tilia	TRSH
+Bunting_c12	560	1	321	Abies	Abies	TRSH
+Bunting_c12	942	2	942	Vaccinium-type	Vaccinium-type	TRSH
+Bunting_c12	998	1	998	Indet: broken	Indeterminable: broken	INUN
+Bunting_c12	58	3	58	Juniperus	Juniperus communis-type	TRSH
+Bunting_c12	117	2	117	Urtica dioica	Urtica dioica	HERB
+Bunting_c12	145	2	145	Equisetum	Equisetum	VACR
+Bunting_c12	967	6	146	Pteropsida (monolete) indet.	Monolete fern spores	VACR
+Bunting_c12	995	1	995	Tsuga	Tsuga	TRSH
+Bunting_c12	976	5	7	Artemisia type	Artemisia	HERB
+Bunting_c12	977	46	977	Myrica type	Myrica	TRSH
+Bunting_c12	979	4	274	Ranunculus type	Ranunculus-type	HERB
+Bunting_c12	980	10	94	Rumex undif.	Rumex/Oxyria	HERB
+Bunting_c12	981	3	31	Corylus type	Corylus	TRSH
+Bunting_c12	982	9	22	Cereal type	Cerealia-type	HERB
+Bunting_c12	985	1	134	Asteraceae (C/A)	Asteraceae	HERB
+Bunting_c12	978	2	92	Rosaceae undif.	Rosaceae	TRSH
+Bunting_c12	93	5	93	Rubiaceae	Rubiaceae	HERB

@@ -1,40 +1,40 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-EPDcoretop_E1635	Abies	Abies	TRSH	5	0.43252595
-EPDcoretop_E1635	Acer	Acer campestre-type	TRSH	2	0.17301038
-EPDcoretop_E1635	Alnus	Alnus	TRSH	7	0.60553633
-EPDcoretop_E1635	Betula	Betula	TRSH	14	1.2110727
-EPDcoretop_E1635	Carpinus betulus	Carpinus betulus	TRSH	4	0.34602076
-EPDcoretop_E1635	Castanea	Castanea sativa	TRSH	7	0.60553633
-EPDcoretop_E1635	Corylus	Corylus	TRSH	8	0.69204152
-EPDcoretop_E1635	Ephedra fragilis	Ephedra fragilis-type	TRSH	1	0.08650519
-EPDcoretop_E1635	Fagus	Fagus	TRSH	124	10.726644
-EPDcoretop_E1635	Fraxinus ornus	Fraxinus ornus	TRSH	5	0.43252595
-EPDcoretop_E1635	Juglans	Juglans	TRSH	3	0.25951557
-EPDcoretop_E1635	Juniperus	Juniperus communis-type	TRSH	62	5.3633218
-EPDcoretop_E1635	Ostrya/Carpinus orientalis-type	Ostrya/Carpinus orientalis	TRSH	19	1.6435986
-EPDcoretop_E1635	Picea	Picea	TRSH	1	0.08650519
-EPDcoretop_E1635	Pinus peuce	Pinus cembra-type	TRSH	28	2.4221453
-EPDcoretop_E1635	Pinus sylvestris-type	Pinus sylvestris-type	TRSH	154	13.321799
-EPDcoretop_E1635	Quercus	Quercus	TRSH	88	7.6124567
-EPDcoretop_E1635	Rosaceae	Rosaceae	TRSH	14	1.2110727
-EPDcoretop_E1635	Salix	Salix	TRSH	12	1.0380623
-EPDcoretop_E1635	Ulmus	Ulmus/Zelkova	TRSH	1	0.08650519
-EPDcoretop_E1635	Vaccinium	Vaccinium	DWAR	2	0.17301038
-EPDcoretop_E1635	Apiaceae	Apiaceae	HERB	7	0.60553633
-EPDcoretop_E1635	Artemisia	Artemisia	HERB	18	1.5570934
-EPDcoretop_E1635	Asteraceae	Asteraceae	HERB	8	0.69204152
-EPDcoretop_E1635	Compositae subf. Cichorioideae undiff.	Asteraceae subf. Cichorioideae	HERB	5	0.43252595
-EPDcoretop_E1635	Brassicaceae	Brassicaceae	HERB	1	0.08650519
-EPDcoretop_E1635	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	3	0.25951557
-EPDcoretop_E1635	Cerealia-type	Cerealia-type	HERB	4	0.34602076
-EPDcoretop_E1635	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	17	1.4705882
-EPDcoretop_E1635	Cyperaceae	Cyperaceae	HERB	278	24.048443
-EPDcoretop_E1635	Plantago lanceolata-type	Plantago lanceolata-type	HERB	30	2.5951557
-EPDcoretop_E1635	Poaceae	Poaceae	HERB	184	15.916955
-EPDcoretop_E1635	Ranunculaceae	Ranunculaceae	HERB	1	0.08650519
-EPDcoretop_E1635	Rubiaceae	Rubiaceae	HERB	6	0.51903114
-EPDcoretop_E1635	Rumex/Oxyria-type	Rumex/Oxyria	HERB	23	1.9896194
-EPDcoretop_E1635	Thalictrum	Thalictrum	HERB	5	0.43252595
-EPDcoretop_E1635	Pteridophyta spores	Monolete fern spores	VACR	5	0.43252595
-EPDcoretop_E1635	Sparganium	Sparganium-type	AQUA	1	0.08650519
-EPDcoretop_E1635	Other herbs	Indeterminable: unknown	INUN	1	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+EPDcoretop_E1635	5	7	5	Alnus	Alnus	TRSH
+EPDcoretop_E1635	7	18	7	Artemisia	Artemisia	HERB
+EPDcoretop_E1635	12	14	12	Betula	Betula	TRSH
+EPDcoretop_E1635	560	5	321	Abies	Abies	TRSH
+EPDcoretop_E1635	4899	1	177	Other herbs	Indeterminable: unknown	INUN
+EPDcoretop_E1635	2	2	2	Acer	Acer campestre-type	TRSH
+EPDcoretop_E1635	6	7	6	Apiaceae	Apiaceae	HERB
+EPDcoretop_E1635	13	1	13	Brassicaceae	Brassicaceae	HERB
+EPDcoretop_E1635	18	3	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+EPDcoretop_E1635	24	17	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+EPDcoretop_E1635	33	278	33	Cyperaceae	Cyperaceae	HERB
+EPDcoretop_E1635	44	5	44	Fraxinus ornus	Fraxinus ornus	TRSH
+EPDcoretop_E1635	57	3	57	Juglans	Juglans	TRSH
+EPDcoretop_E1635	58	62	58	Juniperus	Juniperus communis-type	TRSH
+EPDcoretop_E1635	80	184	80	Poaceae	Poaceae	HERB
+EPDcoretop_E1635	99	12	99	Salix	Salix	TRSH
+EPDcoretop_E1635	112	5	112	Thalictrum	Thalictrum	HERB
+EPDcoretop_E1635	126	1	126	Picea	Picea	TRSH
+EPDcoretop_E1635	134	8	134	Asteraceae	Asteraceae	HERB
+EPDcoretop_E1635	135	1	135	Ranunculaceae	Ranunculaceae	HERB
+EPDcoretop_E1635	154	1	154	Ulmus	Ulmus/Zelkova	TRSH
+EPDcoretop_E1635	189	88	189	Quercus	Quercus	TRSH
+EPDcoretop_E1635	192	124	42	Fagus	Fagus	TRSH
+EPDcoretop_E1635	201	8	31	Corylus	Corylus	TRSH
+EPDcoretop_E1635	441	7	19	Castanea	Castanea sativa	TRSH
+EPDcoretop_E1635	563	4	16	Carpinus betulus	Carpinus betulus	TRSH
+EPDcoretop_E1635	658	1	176	Sparganium	Sparganium-type	AQUA
+EPDcoretop_E1635	1065	4	22	Cerealia-type	Cerealia-type	HERB
+EPDcoretop_E1635	1075	30	60	Plantago lanceolata-type	Plantago lanceolata-type	HERB
+EPDcoretop_E1635	1226	154	125	Pinus sylvestris-type	Pinus sylvestris-type	TRSH
+EPDcoretop_E1635	1737	1	36	Ephedra fragilis	Ephedra fragilis-type	TRSH
+EPDcoretop_E1635	2420	28	124	Pinus peuce	Pinus cembra-type	TRSH
+EPDcoretop_E1635	3825	5	25	Compositae subf. Cichorioideae undiff.	Asteraceae subf. Cichorioideae	HERB
+EPDcoretop_E1635	4725	2	4725	Vaccinium	Vaccinium	DWAR
+EPDcoretop_E1635	4793	19	70	Ostrya/Carpinus orientalis-type	Ostrya/Carpinus orientalis	TRSH
+EPDcoretop_E1635	4794	23	94	Rumex/Oxyria-type	Rumex/Oxyria	HERB
+EPDcoretop_E1635	4901	5	146	Pteridophyta spores	Monolete fern spores	VACR
+EPDcoretop_E1635	92	14	92	Rosaceae	Rosaceae	TRSH
+EPDcoretop_E1635	93	6	93	Rubiaceae	Rubiaceae	HERB

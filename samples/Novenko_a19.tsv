@@ -1,34 +1,34 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Novenko_a19	Acer	Acer campestre-type	TRSH	1	0.052882073
-Novenko_a19	Alnus	Alnus	TRSH	107	5.6583818
-Novenko_a19	Betula	Betula	TRSH	207	10.946589
-Novenko_a19	Corylus	Corylus	TRSH	15	0.79323109
-Novenko_a19	Ericales	Ericales (tetrad)	DWAR	1	0.052882073
-Novenko_a19	Picea	Picea	TRSH	139	7.3506081
-Novenko_a19	Pinus	Pinus	TRSH	109	5.764146
-Novenko_a19	Quercus	Quercus	TRSH	9	0.47593866
-Novenko_a19	Rosaceae	Rosaceae	TRSH	6	0.31729244
-Novenko_a19	Salix	Salix	TRSH	3	0.15864622
-Novenko_a19	Sambucus	Sambucus	TRSH	4	0.21152829
-Novenko_a19	Tilia	Tilia	TRSH	21	1.1105235
-Novenko_a19	Ulmus	Ulmus/Zelkova	TRSH	1	0.052882073
-Novenko_a19	Artemisia	Artemisia	HERB	7	0.37017451
-Novenko_a19	Compositae	Asteraceae	HERB	4	0.21152829
-Novenko_a19	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	1	0.052882073
-Novenko_a19	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	6	0.31729244
-Novenko_a19	Dipsacaceae	Dipsacaceae	HERB	1	0.052882073
-Novenko_a19	Humulus	Humulus lupulus	HERB	2	0.10576415
-Novenko_a19	Juncaceae	Juncaceae	HERB	1	0.052882073
-Novenko_a19	Oxalis acetosella	Oxalis acetosella	HERB	4	0.21152829
-Novenko_a19	Poaceae	Poaceae	HERB	9	0.47593866
-Novenko_a19	Polygonaceae	Polygonaceae	HERB	1	0.052882073
-Novenko_a19	Ranunculaceae	Ranunculaceae	HERB	4	0.21152829
-Novenko_a19	Rumex	Rumex/Oxyria	HERB	1	0.052882073
-Novenko_a19	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	1	0.052882073
-Novenko_a19	Huperzia selago	Huperzia selago	VACR	3	0.15864622
-Novenko_a19	Lycopodium annotinum	Lycopodium annotinum-type	VACR	2	0.10576415
-Novenko_a19	Lycopodium clavatum	Lycopodium clavatum	VACR	4	0.21152829
-Novenko_a19	Polypodiaceae	Monolete fern spores	VACR	1213	64.145955
-Novenko_a19	Sphagnum	Sphagnum	BRYO	4	0.21152829
-Novenko_a19	Cyperaceae	Cyperaceae	AQUA	2	0.10576415
-Novenko_a19	Typha	Sparganium-type	AQUA	1	0.052882073
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Novenko_a19	5	107	5	Alnus	Alnus	TRSH
+Novenko_a19	7	7	7	Artemisia	Artemisia	HERB
+Novenko_a19	12	207	12	Betula	Betula	TRSH
+Novenko_a19	18	1	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Novenko_a19	24	6	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Novenko_a19	2466	4	134	Compositae	Asteraceae	HERB
+Novenko_a19	201	15	31	Corylus	Corylus	TRSH
+Novenko_a19	3868	2	3868	Cyperaceae	Cyperaceae	AQUA
+Novenko_a19	164	1	164	Dipsacaceae	Dipsacaceae	HERB
+Novenko_a19	2120	1	130	Ericales	Ericales (tetrad)	DWAR
+Novenko_a19	1573	2	828	Humulus	Humulus lupulus	HERB
+Novenko_a19	964	3	184	Huperzia selago	Huperzia selago	VACR
+Novenko_a19	1750	1	1750	Juncaceae	Juncaceae	HERB
+Novenko_a19	1160	4	1160	Oxalis acetosella	Oxalis acetosella	HERB
+Novenko_a19	126	139	126	Picea	Picea	TRSH
+Novenko_a19	75	109	75	Pinus	Pinus	TRSH
+Novenko_a19	138	1	138	Polygonaceae	Polygonaceae	HERB
+Novenko_a19	146	1213	146	Polypodiaceae	Monolete fern spores	VACR
+Novenko_a19	189	9	189	Quercus	Quercus	TRSH
+Novenko_a19	92	6	92	Rosaceae	Rosaceae	TRSH
+Novenko_a19	727	1	94	Rumex	Rumex/Oxyria	HERB
+Novenko_a19	99	3	99	Salix	Salix	TRSH
+Novenko_a19	481	4	407	Sambucus	Sambucus	TRSH
+Novenko_a19	173	1	173	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB
+Novenko_a19	144	4	144	Sphagnum	Sphagnum	BRYO
+Novenko_a19	187	21	187	Tilia	Tilia	TRSH
+Novenko_a19	154	1	154	Ulmus	Ulmus/Zelkova	TRSH
+Novenko_a19	2	1	2	Acer	Acer campestre-type	TRSH
+Novenko_a19	80	9	80	Poaceae	Poaceae	HERB
+Novenko_a19	135	4	135	Ranunculaceae	Ranunculaceae	HERB
+Novenko_a19	176	1	176	Typha	Sparganium-type	AQUA
+Novenko_a19	965	2	183	Lycopodium annotinum	Lycopodium annotinum-type	VACR
+Novenko_a19	1714	4	1549	Lycopodium clavatum	Lycopodium clavatum	VACR

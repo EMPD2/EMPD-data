@@ -1,30 +1,30 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Seppa_b144	Alnus	Alnus	TRSH	19	2.8485757
-Seppa_b144	Betula	Betula	TRSH	165	24.737631
-Seppa_b144	Betula/Corylus/Myrica	Betula/Corylus/Myrica	TRSH	3	0.44977511
-Seppa_b144	Calluna vulgaris	Calluna vulgaris	DWAR	6	0.89955022
-Seppa_b144	Corylus avellana	Corylus	TRSH	38	5.6971514
-Seppa_b144	Fagus sylvatica	Fagus	TRSH	1	0.14992504
-Seppa_b144	Juniperus communis	Juniperus communis-type	TRSH	7	1.0494753
-Seppa_b144	Picea	Picea	TRSH	56	8.3958021
-Seppa_b144	Pinus sylvestris	Pinus sylvestris-type	TRSH	275	41.229385
-Seppa_b144	Populus tremula	Populus tremula-type	TRSH	1	0.14992504
-Seppa_b144	Quercus	Quercus	TRSH	10	1.4992504
-Seppa_b144	Salix undiff.	Salix	TRSH	1	0.14992504
-Seppa_b144	Tilia cordata	Tilia cordata-type	TRSH	1	0.14992504
-Seppa_b144	Ulmus	Ulmus/Zelkova	TRSH	1	0.14992504
-Seppa_b144	Vaccinium-type	Vaccinium-type	DWAR	1	0.14992504
-Seppa_b144	Artemisia	Artemisia	HERB	2	0.29985007
-Seppa_b144	Cerealia undiff.	Cerealia-type	HERB	8	1.1994003
-Seppa_b144	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	3	0.44977511
-Seppa_b144	Cannabis-type	Humulus/Cannabis	HERB	1	0.14992504
-Seppa_b144	Gramineae undiff.	Poaceae	HERB	33	4.9475262
-Seppa_b144	Potentilla-type	Potentilla-type	HERB	1	0.14992504
-Seppa_b144	Rumex acetosa/R. acetosella-type	Rumex acetosa-type	HERB	1	0.14992504
-Seppa_b144	Rumex acetosella-type	Rumex acetosella	HERB	3	0.44977511
-Seppa_b144	Sinapis-type	Sinapis-type	HERB	1	0.14992504
-Seppa_b144	Urtica	Urtica	HERB	13	1.9490255
-Seppa_b144	Equisetum	Equisetum	VACR	13	1.9490255
-Seppa_b144	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR	2	0.29985007
-Seppa_b144	Lycopodium annotinum	Lycopodium annotinum-type	VACR	1	0.14992504
-Seppa_b144	Cyperaceae undiff.	Cyperaceae	AQUA	7	1.0494753
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Seppa_b144	5	19	5	Alnus	Alnus	TRSH
+Seppa_b144	7	2	7	Artemisia	Artemisia	HERB
+Seppa_b144	12	165	12	Betula	Betula	TRSH
+Seppa_b144	1340	1	205	Cannabis-type	Humulus/Cannabis	HERB
+Seppa_b144	822	8	22	Cerealia undiff.	Cerealia-type	HERB
+Seppa_b144	24	3	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Seppa_b144	31	38	31	Corylus avellana	Corylus	TRSH
+Seppa_b144	145	13	145	Equisetum	Equisetum	VACR
+Seppa_b144	42	1	42	Fagus sylvatica	Fagus	TRSH
+Seppa_b144	4018	33	80	Gramineae undiff.	Poaceae	HERB
+Seppa_b144	2121	2	1320	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR
+Seppa_b144	941	7	58	Juniperus communis	Juniperus communis-type	TRSH
+Seppa_b144	126	56	126	Picea	Picea	TRSH
+Seppa_b144	788	275	125	Pinus sylvestris	Pinus sylvestris-type	TRSH
+Seppa_b144	189	10	189	Quercus	Quercus	TRSH
+Seppa_b144	4506	1	95	Rumex acetosa/R. acetosella-type	Rumex acetosa-type	HERB
+Seppa_b144	1398	3	96	Rumex acetosella-type	Rumex acetosella	HERB
+Seppa_b144	1400	1	99	Salix undiff.	Salix	TRSH
+Seppa_b144	1406	1	153	Tilia cordata	Tilia cordata-type	TRSH
+Seppa_b144	154	1	154	Ulmus	Ulmus/Zelkova	TRSH
+Seppa_b144	652	13	652	Urtica	Urtica	HERB
+Seppa_b144	4730	1	4730	Vaccinium-type	Vaccinium-type	DWAR
+Seppa_b144	626	1	512	Potentilla-type	Potentilla-type	HERB
+Seppa_b144	965	1	183	Lycopodium annotinum	Lycopodium annotinum-type	VACR
+Seppa_b144	1403	1	246	Sinapis-type	Sinapis-type	HERB
+Seppa_b144	3619	3	3619	Betula/Corylus/Myrica	Betula/Corylus/Myrica	TRSH
+Seppa_b144	3646	6	3645	Calluna vulgaris	Calluna vulgaris	DWAR
+Seppa_b144	3873	7	3868	Cyperaceae undiff.	Cyperaceae	AQUA
+Seppa_b144	4381	1	4381	Populus tremula	Populus tremula-type	TRSH

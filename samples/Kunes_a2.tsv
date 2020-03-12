@@ -1,34 +1,34 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Kunes_a2	Abies	Abies	TRSH	3	0.27422303
-Kunes_a2	Betula	Betula	TRSH	7	0.63985375
-Kunes_a2	Betula nana	Betula nana-type	DWAR	39	3.5648995
-Kunes_a2	Empetrum/Ledum	Empetrum/Ledum	DWAR	1	0.091407678
-Kunes_a2	Ephedra distachya-type	Ephedra distachya-type	TRSH	1	0.091407678
-Kunes_a2	Juniperus-type	Juniperus-type	TRSH	5	0.45703839
-Kunes_a2	Larix/Pseudotsuga	Larix/Pseudotsuga	TRSH	20	1.8281536
-Kunes_a2	Picea	Picea	TRSH	4	0.36563071
-Kunes_a2	Pinus cembra-type	Pinus cembra-type	TRSH	212	19.378428
-Kunes_a2	Salix	Salix	TRSH	5	0.45703839
-Kunes_a2	Artemisia	Artemisia	HERB	288	26.325411
-Kunes_a2	Aruncus-type	Aruncus/Spiraea	HERB	2	0.18281536
-Kunes_a2	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB	2	0.18281536
-Kunes_a2	Astragalus-type	Astragalus-type	HERB	1	0.091407678
-Kunes_a2	Brassicaceae	Brassicaceae	HERB	6	0.54844607
-Kunes_a2	Cerastium	Cerastium-type	HERB	1	0.091407678
-Kunes_a2	Chenopodiaceae pro parte	Chenopodiaceae/Amaranthaceae	HERB	134	12.248629
-Kunes_a2	Gentiana pneumonanthe-type	Gentiana pneumonanthe-type	HERB	7	0.63985375
-Kunes_a2	Mentha-type	Mentha-type	HERB	1	0.091407678
-Kunes_a2	Omphalodes-type	Omphalodes-type	HERB	2	0.18281536
-Kunes_a2	Onobrychis	Onobrychis	HERB	1	0.091407678
-Kunes_a2	Poaceae	Poaceae	HERB	213	19.469835
-Kunes_a2	Potentilla-type	Potentilla-type	HERB	110	10.054845
-Kunes_a2	Ranunculus acris-type	Ranunculus acris-type	HERB	4	0.36563071
-Kunes_a2	Rhinanthus-type	Rhinanthus-type	HERB	6	0.54844607
-Kunes_a2	Saxifraga hirculus-type	Saxifraga granulata-type	HERB	6	0.54844607
-Kunes_a2	Sedum-type	Sedum-type	HERB	2	0.18281536
-Kunes_a2	Senecio-type	Senecio-type	HERB	2	0.18281536
-Kunes_a2	Silene pro parte	Silene-type	HERB	3	0.27422303
-Kunes_a2	Thalictrum	Thalictrum	HERB	2	0.18281536
-Kunes_a2	Monolete fern spores	Monolete fern spores	VACR	2	0.18281536
-Kunes_a2	Trilete spores undiff.	Trilete spore(s)	VACR	2	0.18281536
-Kunes_a2	Cyperaceae	Cyperaceae	AQUA	415	37.934186
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Kunes_a2	560	3	321	Abies	Abies	TRSH
+Kunes_a2	7	288	7	Artemisia	Artemisia	HERB
+Kunes_a2	3575	2	1108	Aruncus-type	Aruncus/Spiraea	HERB
+Kunes_a2	1438	1	10	Astragalus-type	Astragalus-type	HERB
+Kunes_a2	12	7	12	Betula	Betula	TRSH
+Kunes_a2	1363	39	127	Betula nana	Betula nana-type	DWAR
+Kunes_a2	13	6	13	Brassicaceae	Brassicaceae	HERB
+Kunes_a2	21	1	21	Cerastium	Cerastium-type	HERB
+Kunes_a2	3787	134	24	Chenopodiaceae pro parte	Chenopodiaceae/Amaranthaceae	HERB
+Kunes_a2	3824	2	25	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Kunes_a2	3868	415	3868	Cyperaceae	Cyperaceae	AQUA
+Kunes_a2	1067	7	607	Gentiana pneumonanthe-type	Gentiana pneumonanthe-type	HERB
+Kunes_a2	738	5	203	Juniperus-type	Juniperus-type	TRSH
+Kunes_a2	2336	20	123	Larix/Pseudotsuga	Larix/Pseudotsuga	TRSH
+Kunes_a2	1073	1	65	Mentha-type	Mentha-type	HERB
+Kunes_a2	4193	2	146	Monolete fern spores	Monolete fern spores	VACR
+Kunes_a2	4233	2	4233	Omphalodes-type	Omphalodes-type	HERB
+Kunes_a2	619	1	619	Onobrychis	Onobrychis	HERB
+Kunes_a2	126	4	126	Picea	Picea	TRSH
+Kunes_a2	4298	212	124	Pinus cembra-type	Pinus cembra-type	TRSH
+Kunes_a2	80	213	80	Poaceae	Poaceae	HERB
+Kunes_a2	630	4	87	Ranunculus acris-type	Ranunculus acris-type	HERB
+Kunes_a2	631	6	631	Rhinanthus-type	Rhinanthus-type	HERB
+Kunes_a2	99	5	99	Salix	Salix	TRSH
+Kunes_a2	4556	6	1402	Saxifraga hirculus-type	Saxifraga granulata-type	HERB
+Kunes_a2	1230	2	133	Senecio-type	Senecio-type	HERB
+Kunes_a2	4597	3	132	Silene pro parte	Silene-type	HERB
+Kunes_a2	112	2	112	Thalictrum	Thalictrum	HERB
+Kunes_a2	4691	2	279	Trilete spores undiff.	Trilete spore(s)	VACR
+Kunes_a2	626	110	512	Potentilla-type	Potentilla-type	HERB
+Kunes_a2	1046	1	37	Ephedra distachya-type	Ephedra distachya-type	TRSH
+Kunes_a2	2805	2	105	Sedum-type	Sedum-type	HERB
+Kunes_a2	3922	1	1388	Empetrum/Ledum	Empetrum/Ledum	DWAR

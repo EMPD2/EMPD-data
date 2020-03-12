@@ -1,60 +1,60 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Mazier_a17	Abies	Abies	TRSH	51	4.6660567
-Mazier_a17	Acer	Acer campestre-type	TRSH	2	0.18298262
-Mazier_a17	Alnus glutinosa-type	Alnus glutinosa-type	TRSH	15	1.3723696
-Mazier_a17	Alnus viridis	Alnus viridis	TRSH	7	0.64043916
-Mazier_a17	Betula	Betula	TRSH	18	1.6468435
-Mazier_a17	Carpinus betulus	Carpinus betulus	TRSH	6	0.54894785
-Mazier_a17	Castanea sativa	Castanea sativa	TRSH	15	1.3723696
-Mazier_a17	Corylus avellana	Corylus	TRSH	16	1.4638609
-Mazier_a17	Fagus	Fagus	TRSH	186	17.017383
-Mazier_a17	Fraxinus excelsior	Fraxinus excelsior-type	TRSH	27	2.4702653
-Mazier_a17	Fraxinus ornus	Fraxinus ornus	TRSH	1	0.091491308
-Mazier_a17	Juglans	Juglans	TRSH	1	0.091491308
-Mazier_a17	Juniperus	Juniperus communis-type	TRSH	1	0.091491308
-Mazier_a17	Ligustrum	Ligustrum	TRSH	1	0.091491308
-Mazier_a17	Olea	Olea europaea	TRSH	1	0.091491308
-Mazier_a17	Picea	Picea	TRSH	372	34.034767
-Mazier_a17	Pinus cembra	Pinus cembra-type	TRSH	21	1.9213175
-Mazier_a17	Pinus subg. Pinus	Pinus sylvestris-type	TRSH	57	5.2150046
-Mazier_a17	Pistacia	Pistacia	TRSH	1	0.091491308
-Mazier_a17	Platanus	Platanus	TRSH	1	0.091491308
-Mazier_a17	Populus	Populus	TRSH	3	0.27447392
-Mazier_a17	Prunus-type	Prunus-type	TRSH	1	0.091491308
-Mazier_a17	Quercus	Quercus	TRSH	35	3.2021958
-Mazier_a17	Salix	Salix	TRSH	4	0.36596523
-Mazier_a17	Sambucus racemosa	Sambucus racemosa	TRSH	1	0.091491308
-Mazier_a17	Sorbus-type	Sorbus-type	TRSH	1	0.091491308
-Mazier_a17	Ulmus	Ulmus/Zelkova	TRSH	1	0.091491308
-Mazier_a17	Ambrosia	Ambrosia	HERB	4	0.36596523
-Mazier_a17	Bupleurum-type	Apiaceae	HERB	1	0.091491308
-Mazier_a17	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB	4	0.36596523
-Mazier_a17	Cruciferae	Brassicaceae	HERB	8	0.73193047
-Mazier_a17	Cannabis sativa	Cannabis sativa	HERB	2	0.18298262
-Mazier_a17	Cerealia	Cerealia-type	HERB	3	0.27447392
-Mazier_a17	Chenopodiaceae-type	Chenopodiaceae/Amaranthaceae	HERB	4	0.36596523
-Mazier_a17	Filipendula	Filipendula	HERB	2	0.18298262
-Mazier_a17	Stachys-type	Galeopsis-type	HERB	1	0.091491308
-Mazier_a17	Hypericum perforatum-type	Hypericum perforatum-type	HERB	4	0.36596523
-Mazier_a17	Achillea-type	Matricaria-type	HERB	3	0.27447392
-Mazier_a17	Melampyrum	Melampyrum	HERB	6	0.54894785
-Mazier_a17	Mercurialis annua	Mercurialis annua	HERB	1	0.091491308
-Mazier_a17	Mercurialis perennis-type	Mercurialis perennis-type	HERB	10	0.91491308
-Mazier_a17	Pimpinella major-type	Pimpinella major-type	HERB	1	0.091491308
-Mazier_a17	Plantago lanceolata-type	Plantago lanceolata-type	HERB	6	0.54894785
-Mazier_a17	Plantago maior	Plantago major	HERB	1	0.091491308
-Mazier_a17	Plantago media	Plantago media	HERB	4	0.36596523
-Mazier_a17	Gramineae	Poaceae	HERB	144	13.174748
-Mazier_a17	Potentilla-type	Potentilla-type	HERB	4	0.36596523
-Mazier_a17	Ranunculus acris-type	Ranunculus acris-type	HERB	2	0.18298262
-Mazier_a17	Rubiaceae	Rubiaceae	HERB	3	0.27447392
-Mazier_a17	Rumex acetosa-type	Rumex acetosa-type	HERB	5	0.45745654
-Mazier_a17	Rumex obtusifolius-type	Rumex crispus-type	HERB	2	0.18298262
-Mazier_a17	Saxifraga granulata-type	Saxifraga granulata-type	HERB	1	0.091491308
-Mazier_a17	Trollius europaeus	Trollius europaeus	HERB	1	0.091491308
-Mazier_a17	Urtica	Urtica	HERB	9	0.82342177
-Mazier_a17	Veronica	Veronica-type	HERB	2	0.18298262
-Mazier_a17	Athyrium filix-femina	Athyrium filix-femina	VACR	3	0.27447392
-Mazier_a17	Dryopteris filix-mas-type	Dryopteris filix-mas-type	VACR	6	0.54894785
-Mazier_a17	Cyperaceae	Cyperaceae	AQUA	4	0.36596523
-Mazier_a17	Picea: stomata	Picea: stomata	MACR	1	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Mazier_a17	560	51	321	Abies	Abies	TRSH
+Mazier_a17	943	3	3	Achillea-type	Matricaria-type	HERB
+Mazier_a17	155	15	155	Alnus glutinosa-type	Alnus glutinosa-type	TRSH
+Mazier_a17	561	7	129	Alnus viridis	Alnus viridis	TRSH
+Mazier_a17	586	4	586	Ambrosia	Ambrosia	HERB
+Mazier_a17	215	3	215	Athyrium filix-femina	Athyrium filix-femina	VACR
+Mazier_a17	12	18	12	Betula	Betula	TRSH
+Mazier_a17	2550	1	6	Bupleurum-type	Apiaceae	HERB
+Mazier_a17	3654	2	764	Cannabis sativa	Cannabis sativa	HERB
+Mazier_a17	19	15	19	Castanea sativa	Castanea sativa	TRSH
+Mazier_a17	22	3	22	Cerealia	Cerealia-type	HERB
+Mazier_a17	3824	4	25	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Mazier_a17	31	16	31	Corylus avellana	Corylus	TRSH
+Mazier_a17	482	8	13	Cruciferae	Brassicaceae	HERB
+Mazier_a17	3868	4	3868	Cyperaceae	Cyperaceae	AQUA
+Mazier_a17	192	186	42	Fagus	Fagus	TRSH
+Mazier_a17	45	2	45	Filipendula	Filipendula	HERB
+Mazier_a17	47	27	47	Fraxinus excelsior	Fraxinus excelsior-type	TRSH
+Mazier_a17	1601	144	80	Gramineae	Poaceae	HERB
+Mazier_a17	1220	4	829	Hypericum perforatum-type	Hypericum perforatum-type	HERB
+Mazier_a17	57	1	57	Juglans	Juglans	TRSH
+Mazier_a17	58	1	58	Juniperus	Juniperus communis-type	TRSH
+Mazier_a17	61	1	61	Ligustrum	Ligustrum	TRSH
+Mazier_a17	473	6	473	Melampyrum	Melampyrum	HERB
+Mazier_a17	66	1	66	Mercurialis annua	Mercurialis annua	HERB
+Mazier_a17	442	1	68	Olea	Olea europaea	TRSH
+Mazier_a17	126	372	126	Picea	Picea	TRSH
+Mazier_a17	4294	1	4294	Picea: stomata	Picea: stomata	MACR
+Mazier_a17	2576	1	595	Pimpinella major-type	Pimpinella major-type	HERB
+Mazier_a17	573	21	124	Pinus cembra	Pinus cembra-type	TRSH
+Mazier_a17	4307	57	125	Pinus subg. Pinus	Pinus sylvestris-type	TRSH
+Mazier_a17	77	1	77	Pistacia	Pistacia	TRSH
+Mazier_a17	1075	6	60	Plantago lanceolata-type	Plantago lanceolata-type	HERB
+Mazier_a17	1169	4	698	Plantago media	Plantago media	HERB
+Mazier_a17	78	1	78	Platanus	Platanus	TRSH
+Mazier_a17	81	3	81	Populus	Populus	TRSH
+Mazier_a17	626	4	512	Potentilla-type	Potentilla-type	HERB
+Mazier_a17	1227	1	82	Prunus-type	Prunus-type	TRSH
+Mazier_a17	93	3	93	Rubiaceae	Rubiaceae	HERB
+Mazier_a17	634	5	95	Rumex acetosa-type	Rumex acetosa-type	HERB
+Mazier_a17	4515	2	251	Rumex obtusifolius-type	Rumex crispus-type	HERB
+Mazier_a17	2378	1	2378	Sambucus racemosa	Sambucus racemosa	TRSH
+Mazier_a17	1402	1	1402	Saxifraga granulata-type	Saxifraga granulata-type	HERB
+Mazier_a17	1232	1	107	Sorbus-type	Sorbus-type	TRSH
+Mazier_a17	1405	1	244	Stachys-type	Galeopsis-type	HERB
+Mazier_a17	4694	1	2163	Trollius europaeus	Trollius europaeus	HERB
+Mazier_a17	154	1	154	Ulmus	Ulmus/Zelkova	TRSH
+Mazier_a17	652	9	652	Urtica	Urtica	HERB
+Mazier_a17	529	2	224	Veronica	Veronica-type	HERB
+Mazier_a17	2	2	2	Acer	Acer campestre-type	TRSH
+Mazier_a17	44	1	44	Fraxinus ornus	Fraxinus ornus	TRSH
+Mazier_a17	99	4	99	Salix	Salix	TRSH
+Mazier_a17	189	35	189	Quercus	Quercus	TRSH
+Mazier_a17	563	6	16	Carpinus betulus	Carpinus betulus	TRSH
+Mazier_a17	630	2	87	Ranunculus acris-type	Ranunculus acris-type	HERB
+Mazier_a17	1168	1	79	Plantago maior	Plantago major	HERB
+Mazier_a17	2558	4	24	Chenopodiaceae-type	Chenopodiaceae/Amaranthaceae	HERB
+Mazier_a17	2595	6	220	Dryopteris filix-mas-type	Dryopteris filix-mas-type	VACR
+Mazier_a17	4184	10	1156	Mercurialis perennis-type	Mercurialis perennis-type	HERB

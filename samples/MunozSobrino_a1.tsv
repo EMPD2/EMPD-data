@@ -1,56 +1,56 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-MunozSobrino_a1	Alnus	Alnus	TRSH	1	0.61728395
-MunozSobrino_a1	Betula	Betula	TRSH	4	2.4691358
-MunozSobrino_a1	Castanea-type	Castanea sativa	TRSH	3	1.8518519
-MunozSobrino_a1	Erica	Erica	DWAR	1	0.61728395
-MunozSobrino_a1	Ulex-type	Genista-type	TRSH	1	0.61728395
-MunozSobrino_a1	Pinus	Pinus	TRSH	52	32.098765
-MunozSobrino_a1	Populus	Populus	TRSH	3	1.8518519
-MunozSobrino_a1	Quercus robur-type	Quercus robur-type	TRSH	7	4.3209877
-MunozSobrino_a1	Asteraceae	Asteraceae	HERB	11	6.7901235
-MunozSobrino_a1	Brassicaceae	Brassicaceae	HERB	1	0.61728395
-MunozSobrino_a1	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	13	8.0246914
-MunozSobrino_a1	Cyperaceae	Cyperaceae	HERB	8	4.9382716
-MunozSobrino_a1	Plantago maritima-type	Plantago maritima-type	HERB	13	8.0246914
-MunozSobrino_a1	Poaceae	Poaceae	HERB	21	12.962963
-MunozSobrino_a1	Saxifraga stellaris-type	Saxifraga stellaris-type	HERB	1	0.61728395
-MunozSobrino_a1	Urtica	Urtica	HERB	2	1.2345679
-MunozSobrino_a1	Monolete	Monolete fern spores	VACR	11	6.7901235
-MunozSobrino_a1	Polypodium vulgare-type	Polypodium	VACR	1	0.61728395
-MunozSobrino_a1	Pteridium aquilinum	Pteridium aquilinum	VACR	3	1.8518519
-MunozSobrino_a1	Briophyte 340-type	Type 340	BRYO	5	3.0864198
-MunozSobrino_a1	Alisma plantago-aquatica	Alisma-type	HELO	1	0.61728395
-MunozSobrino_a1	Botryococcus	Botryococcus cf. B. terribilis	ALGA	2	1.2345679
-MunozSobrino_a1	Chlorococcales	Chlorococcales	ALGA	42	25.925926
-MunozSobrino_a1	Cosmarium	Cosmarium	ALGA	4	2.4691358
-MunozSobrino_a1	Non-septate filamentous algae undet.	Non-septate filamentous algae undet.	ALGA	18	11.111111
-MunozSobrino_a1	Pseudosquizaea spp.	Pseudosquizaea spp.	ALGA	2	1.2345679
-MunozSobrino_a1	Spirogyra	Spirogyra	ALGA	2	1.2345679
-MunozSobrino_a1	Type 225	Type 225/229	ALGA	4	2.4691358
-MunozSobrino_a1	Phragmospore undet.	Indeterminable: unknown	INUN	26	
-MunozSobrino_a1	Spicules	Spicules	INUN	4	
-MunozSobrino_a1	Arcella	Arcella	RHIZ	2	
-MunozSobrino_a1	Assulina	Assulina	RHIZ	2	
-MunozSobrino_a1	cf. Type 1024_Conidia, Brachysporium	Brachysporium	FUNG	2	
-MunozSobrino_a1	Eucalyptus	Eucalyptus spike (counted)	NOPO	5	
-MunozSobrino_a1	Foram	Foraminifera	INVE	11	
-MunozSobrino_a1	Hiphae	Fungal Hyphae	FUNG	59	
-MunozSobrino_a1	Fungal spore undet.	Fungal spore	FUNG	7	
-MunozSobrino_a1	Glomus	Glomus	FUNG	4	
-MunozSobrino_a1	Artropod	Invertebrata	INVE	2	
-MunozSobrino_a1	Lingulodinium	Lingulodinium	DINO	4	
-MunozSobrino_a1	Multiseptate conidia undet.	Multiseptate conidia undet.	FUNG	15	
-MunozSobrino_a1	Neobardocoela oocytes	Neorhabdocoela	PLAT	2	
-MunozSobrino_a1	Neurospora	Neurospora	FUNG	81	
-MunozSobrino_a1	Nymphaea basal cells	Nymphaeaceae: base cells	VEMI	1	
-MunozSobrino_a1	Phytolith	Phytolith	NOPO	4	
-MunozSobrino_a1	Sordariaceus ascospores	Sordariaceus ascospores	FUNG	191	
-MunozSobrino_a1	Sphagnum	Sphagnum	NOPO	2	
-MunozSobrino_a1	Type 1066	Type 1066	FUNG	2	
-MunozSobrino_a1	Type 1282	Type 1282	FUNG	2	
-MunozSobrino_a1	Type 143	Type 143	FUNG	2	
-MunozSobrino_a1	Type 173	Type 173A	FUNG	4	
-MunozSobrino_a1	Type 200	Type 200	FUNG	11	
-MunozSobrino_a1	Type 201	Type 201	FUNG	55	
-MunozSobrino_a1	Typer 27	Type 27	FUNG	4	
-MunozSobrino_a1	Xilariaceae	Xylariaceae	FUNG	136	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+MunozSobrino_a1	660	2	308	Arcella	Arcella	RHIZ
+MunozSobrino_a1	5	1	5	Alnus	Alnus	TRSH
+MunozSobrino_a1	687	2	687	Assulina	Assulina	RHIZ
+MunozSobrino_a1	2735	2	2735	cf. Type 1024_Conidia, Brachysporium	Brachysporium	FUNG
+MunozSobrino_a1	2741	5	2741	Eucalyptus	Eucalyptus spike (counted)	NOPO
+MunozSobrino_a1	2742	11	358	Foram	Foraminifera	INVE
+MunozSobrino_a1	554	4	362	Glomus	Glomus	FUNG
+MunozSobrino_a1	2743	59	2743	Hiphae	Fungal Hyphae	FUNG
+MunozSobrino_a1	2749	4	2749	Lingulodinium	Lingulodinium	DINO
+MunozSobrino_a1	2750	15	2750	Multiseptate conidia undet.	Multiseptate conidia undet.	FUNG
+MunozSobrino_a1	2752	2	2752	Neobardocoela oocytes	Neorhabdocoela	PLAT
+MunozSobrino_a1	2753	81	304	Neurospora	Neurospora	FUNG
+MunozSobrino_a1	2755	1	1593	Nymphaea basal cells	Nymphaeaceae: base cells	VEMI
+MunozSobrino_a1	2757	7	2022	Fungal spore undet.	Fungal spore	FUNG
+MunozSobrino_a1	2758	26	177	Phragmospore undet.	Indeterminable: unknown	INUN
+MunozSobrino_a1	2759	4	2759	Phytolith	Phytolith	NOPO
+MunozSobrino_a1	2768	191	2768	Sordariaceus ascospores	Sordariaceus ascospores	FUNG
+MunozSobrino_a1	2769	4	2769	Spicules	Spicules	INUN
+MunozSobrino_a1	2773	2	2773	Type 1066	Type 1066	FUNG
+MunozSobrino_a1	2775	2	2775	Type 1282	Type 1282	FUNG
+MunozSobrino_a1	2776	2	2776	Type 143	Type 143	FUNG
+MunozSobrino_a1	2777	4	2777	Type 173	Type 173A	FUNG
+MunozSobrino_a1	2780	11	2780	Type 200	Type 200	FUNG
+MunozSobrino_a1	2781	55	2781	Type 201	Type 201	FUNG
+MunozSobrino_a1	2785	4	2785	Typer 27	Type 27	FUNG
+MunozSobrino_a1	2786	2	2786	Artropod	Invertebrata	INVE
+MunozSobrino_a1	2789	136	2789	Xilariaceae	Xylariaceae	FUNG
+MunozSobrino_a1	12	4	12	Betula	Betula	TRSH
+MunozSobrino_a1	13	1	13	Brassicaceae	Brassicaceae	HERB
+MunozSobrino_a1	24	13	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+MunozSobrino_a1	33	8	33	Cyperaceae	Cyperaceae	HERB
+MunozSobrino_a1	38	1	38	Erica	Erica	TRSH
+MunozSobrino_a1	75	52	75	Pinus	Pinus	TRSH
+MunozSobrino_a1	80	21	80	Poaceae	Poaceae	HERB
+MunozSobrino_a1	81	3	81	Populus	Populus	TRSH
+MunozSobrino_a1	134	11	134	Asteraceae	Asteraceae	HERB
+MunozSobrino_a1	144	2	144	Sphagnum	Sphagnum	BRYO
+MunozSobrino_a1	152	7	86	Quercus robur-type	Quercus robur-type	TRSH
+MunozSobrino_a1	180	3	180	Pteridium aquilinum	Pteridium aquilinum	VACR
+MunozSobrino_a1	652	2	652	Urtica	Urtica	HERB
+MunozSobrino_a1	663	2	663	Botryococcus	Botryococcus	ALGA
+MunozSobrino_a1	729	2	315	Spirogyra	Spirogyra	ALGA
+MunozSobrino_a1	957	1	642	Saxifraga stellaris-type	Saxifraga stellaris-type	HERB
+MunozSobrino_a1	2169	11	146	Monolete	Monolete fern spores	VACR
+MunozSobrino_a1	2276	1	1456	Alisma plantago-aquatica	Alisma-type	AQUA
+MunozSobrino_a1	2537	1	49	Ulex-type	Genista-type	TRSH
+MunozSobrino_a1	2596	1	214	Polypodium vulgare-type	Polypodium	VACR
+MunozSobrino_a1	2732	5	2732	Briophyte 340-type	Type 340	BRYO
+MunozSobrino_a1	2733	3	19	Castanea-type	Castanea sativa	TRSH
+MunozSobrino_a1	2736	42	2736	Chlorococcales	Chlorococcales	ALGA
+MunozSobrino_a1	2737	4	2737	Cosmarium	Cosmarium	ALGA
+MunozSobrino_a1	2754	18	2754	Non-septate filamentous algae undet.	Non-septate filamentous algae undet.	ALGA
+MunozSobrino_a1	2760	13	64	Plantago maritima-type	Plantago maritima-type	HERB
+MunozSobrino_a1	2764	2	2764	Pseudosquizaea spp.	Pseudosquizaea spp.	ALGA
+MunozSobrino_a1	2783	4	2783	Type 225	Type 225/229	ALGA

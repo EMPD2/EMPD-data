@@ -1,35 +1,35 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Bakker_b45	Alnus	Alnus	TRSH	2	0.15140045
-Bakker_b45	Cedrus libani	Cedrus	TRSH	1	0.075700227
-Bakker_b45	Corylus	Corylus	TRSH	3	0.22710068
-Bakker_b45	Fraxinus angustifolia	Fraxinus angustifolia	TRSH	3	0.22710068
-Bakker_b45	Juglans regia	Juglans regia	TRSH	18	1.3626041
-Bakker_b45	Juniperus	Juniperus communis-type	TRSH	4	0.30280091
-Bakker_b45	Olea europaea	Olea europaea	TRSH	13	0.98410295
-Bakker_b45	Fontanesia/Phillyrea	Oleaceae	TRSH	1	0.075700227
-Bakker_b45	Ostrya-type	Ostrya/Carpinus orientalis	TRSH	1	0.075700227
-Bakker_b45	Pinus	Pinus	TRSH	215	16.275549
-Bakker_b45	Quercus cerris-type	Quercus cerris-type	TRSH	906	68.584406
-Bakker_b45	Quercus coccifera-type	Quercus ilex-type	TRSH	40	3.0280091
-Bakker_b45	Salix	Salix	TRSH	15	1.1355034
-Bakker_b45	Artemisia herba-alba-type	Artemisia	HERB	9	0.68130204
-Bakker_b45	Lactuceae	Asteraceae subf. Cichorioideae	HERB	1	0.075700227
-Bakker_b45	Ballota	Ballota-type	HERB	2	0.15140045
-Bakker_b45	Brassica	Brassicaceae	HERB	6	0.45420136
-Bakker_b45	Centaurea cyanus-type	Centaurea cyanus-type	HERB	4	0.30280091
-Bakker_b45	Cerealia-type	Cerealia-type	HERB	12	0.90840273
-Bakker_b45	Chenopodiaceae undiff.	Chenopodiaceae/Amaranthaceae	HERB	17	1.2869039
-Bakker_b45	Cirsium-type	Cirsium	HERB	1	0.075700227
-Bakker_b45	Eryngium	Eryngium	HERB	3	0.22710068
-Bakker_b45	Euphorbia	Euphorbia	HERB	1	0.075700227
-Bakker_b45	Hypericum	Hypericum	HERB	1	0.075700227
-Bakker_b45	Anthemis-type	Matricaria-type	HERB	3	0.22710068
-Bakker_b45	Plantago lanceolata	Plantago lanceolata-type	HERB	7	0.52990159
-Bakker_b45	Poaceae	Poaceae	HERB	27	2.0439061
-Bakker_b45	Galium-type	Rubiaceae	HERB	1	0.075700227
-Bakker_b45	Sanguisorba minor	Sanguisorba minor-type	HERB	1	0.075700227
-Bakker_b45	Scrophularia/Verbascum-type	Scrophularia-type	HERB	1	0.075700227
-Bakker_b45	Silene-type	Silene-type	HERB	1	0.075700227
-Bakker_b45	Xanthium	Xanthium	HERB	1	0.075700227
-Bakker_b45	Sparganium/Typha	Sparganium-type	AQUA	1	0.075700227
-Bakker_b45	Typha latifolia	Typha latifolia	AQUA	1	0.075700227
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Bakker_b45	5	2	5	Alnus	Alnus	TRSH
+Bakker_b45	589	3	3	Anthemis-type	Matricaria-type	HERB
+Bakker_b45	3572	9	7	Artemisia herba-alba-type	Artemisia	HERB
+Bakker_b45	3604	2	1058	Ballota	Ballota-type	HERB
+Bakker_b45	1649	6	13	Brassica	Brassicaceae	HERB
+Bakker_b45	3676	1	340	Cedrus libani	Cedrus	TRSH
+Bakker_b45	1065	12	22	Cerealia-type	Cerealia-type	HERB
+Bakker_b45	1810	17	24	Chenopodiaceae undiff.	Chenopodiaceae/Amaranthaceae	HERB
+Bakker_b45	1136	3	1136	Eryngium	Eryngium	HERB
+Bakker_b45	40	1	40	Euphorbia	Euphorbia	HERB
+Bakker_b45	605	1	93	Galium-type	Rubiaceae	HERB
+Bakker_b45	54	1	54	Hypericum	Hypericum	HERB
+Bakker_b45	741	1	25	Lactuceae	Asteraceae subf. Cichorioideae	HERB
+Bakker_b45	68	13	68	Olea europaea	Olea europaea	TRSH
+Bakker_b45	572	1	70	Ostrya-type	Ostrya/Carpinus orientalis	TRSH
+Bakker_b45	75	215	75	Pinus	Pinus	TRSH
+Bakker_b45	60	7	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+Bakker_b45	80	27	80	Poaceae	Poaceae	HERB
+Bakker_b45	1051	906	84	Quercus cerris-type	Quercus cerris-type	TRSH
+Bakker_b45	4428	40	85	Quercus coccifera-type	Quercus ilex-type	TRSH
+Bakker_b45	101	1	101	Sanguisorba minor	Sanguisorba minor-type	HERB
+Bakker_b45	4580	1	103	Scrophularia/Verbascum-type	Scrophularia-type	HERB
+Bakker_b45	1779	1	132	Silene-type	Silene-type	HERB
+Bakker_b45	804	1	176	Sparganium/Typha	Sparganium-type	AQUA
+Bakker_b45	1287	1	417	Typha latifolia	Typha latifolia	AQUA
+Bakker_b45	46	3	46	Fraxinus angustifolia	Fraxinus angustifolia	TRSH
+Bakker_b45	58	4	58	Juniperus	Juniperus communis-type	TRSH
+Bakker_b45	99	15	99	Salix	Salix	TRSH
+Bakker_b45	201	3	31	Corylus	Corylus	TRSH
+Bakker_b45	1044	1	1044	Xanthium	Xanthium	HERB
+Bakker_b45	1148	18	194	Juglans regia	Juglans regia	TRSH
+Bakker_b45	1243	1	603	Cirsium-type	Cirsium	HERB
+Bakker_b45	2292	4	462	Centaurea cyanus-type	Centaurea cyanus-type	HERB
+Bakker_b45	3977	1	781	Fontanesia/Phillyrea	Oleaceae	TRSH

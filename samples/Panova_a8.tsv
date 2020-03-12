@@ -1,17 +1,17 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Panova_a8	Abies	Abies	TRSH	3	1.0989011
-Panova_a8	Alnus	Alnus	TRSH	4	1.4652015
-Panova_a8	Betula alba-type	Betula pubescens-type	TRSH	16	5.8608059
-Panova_a8	Larix	Larix/Pseudotsuga	TRSH	4	1.4652015
-Panova_a8	Picea	Picea	TRSH	29	10.622711
-Panova_a8	Pinus sibirica	Pinus cembra-type	TRSH	18	6.5934066
-Panova_a8	Pinus sylvestris	Pinus sylvestris-type	TRSH	128	46.886447
-Panova_a8	Artemisia	Artemisia	HERB	3	1.0989011
-Panova_a8	Botrychium	Botrychium	VACR	2	0.73260073
-Panova_a8	Bryales	Bryophyte spores	BRYO	2	0.73260073
-Panova_a8	Lycopodium	Lycopodium	VACR	32	11.721612
-Panova_a8	Lycopodium clavatum	Lycopodium clavatum	VACR	6	2.1978022
-Panova_a8	Lycopodium complanatum	Lycopodium clavatum-type	VACR	18	6.5934066
-Panova_a8	Polypodiaceae	Monolete fern spores	VACR	8	2.9304029
-Panova_a8	Typha latifolia	Typha latifolia	HELO	1	0.36630037
-Panova_a8	Sphagnum	Sphagnum	NOPO	4	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Panova_a8	144	4	144	Sphagnum	Sphagnum	BRYO
+Panova_a8	788	128	125	Pinus sylvestris	Pinus sylvestris-type	TRSH
+Panova_a8	1240	16	128	Betula alba-type	Betula pubescens-type	TRSH
+Panova_a8	126	29	126	Picea	Picea	TRSH
+Panova_a8	1361	18	124	Pinus sibirica	Pinus cembra-type	TRSH
+Panova_a8	7	3	7	Artemisia	Artemisia	HERB
+Panova_a8	146	8	146	Polypodiaceae	Monolete fern spores	VACR
+Panova_a8	5	4	5	Alnus	Alnus	TRSH
+Panova_a8	123	4	123	Larix	Larix/Pseudotsuga	TRSH
+Panova_a8	143	32	143	Lycopodium	Lycopodium	VACR
+Panova_a8	2114	18	182	Lycopodium complanatum	Lycopodium clavatum-type	VACR
+Panova_a8	962	2	962	Botrychium	Botrychium	VACR
+Panova_a8	1287	1	417	Typha latifolia	Typha latifolia	AQUA
+Panova_a8	1714	6	1549	Lycopodium clavatum	Lycopodium clavatum	VACR
+Panova_a8	147	2	147	Bryales	Bryophyte spores	BRYO
+Panova_a8	560	3	321	Abies	Abies	TRSH

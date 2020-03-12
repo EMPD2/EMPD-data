@@ -1,31 +1,31 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-EPDcoretop_E2500	Alnus	Alnus	TRSH	10	1.2953368
-EPDcoretop_E2500	Betula	Betula	TRSH	104	13.471503
-EPDcoretop_E2500	Calluna vulgaris	Calluna vulgaris	DWAR	10	1.2953368
-EPDcoretop_E2500	Carpinus	Carpinus betulus	TRSH	1	0.12953368
-EPDcoretop_E2500	Corylus	Corylus	TRSH	5	0.64766839
-EPDcoretop_E2500	Fagus	Fagus	TRSH	10	1.2953368
-EPDcoretop_E2500	Fraxinus	Fraxinus	TRSH	1	0.12953368
-EPDcoretop_E2500	Myrica	Myrica	TRSH	1	0.12953368
-EPDcoretop_E2500	Picea	Picea	TRSH	13	1.6839378
-EPDcoretop_E2500	Pinus	Pinus	TRSH	342	44.300518
-EPDcoretop_E2500	Quercus	Quercus	TRSH	18	2.3316062
-EPDcoretop_E2500	Ulmus	Ulmus/Zelkova	TRSH	1	0.12953368
-EPDcoretop_E2500	Artemisia	Artemisia	HERB	2	0.25906736
-EPDcoretop_E2500	Tubuliflorae	Asteraceae subf. Asteroideae	HERB	3	0.38860104
-EPDcoretop_E2500	Liguliflorae	Asteraceae subf. Cichorioideae	HERB	1	0.12953368
-EPDcoretop_E2500	Brassicaceae	Brassicaceae	HERB	1	0.12953368
-EPDcoretop_E2500	Cerealia-type	Cerealia-type	HERB	4	0.51813472
-EPDcoretop_E2500	Cerealia 40-50µm	Cerealia-type	HERB	1	0.12953368
-EPDcoretop_E2500	Cerealia >50µm	Cerealia-type	HERB	3	0.38860104
-EPDcoretop_E2500	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.12953368
-EPDcoretop_E2500	Cyperaceae	Cyperaceae	HERB	2	0.25906736
-EPDcoretop_E2500	Plantago lanceolata	Plantago lanceolata-type	HERB	2	0.25906736
-EPDcoretop_E2500	Poaceae	Poaceae	HERB	56	7.253886
-EPDcoretop_E2500	Ranunculus acris-type	Ranunculus acris-type	HERB	4	0.51813472
-EPDcoretop_E2500	Rumex	Rumex/Oxyria	HERB	1	0.12953368
-EPDcoretop_E2500	Secale	Secale cereale	HERB	2	0.25906736
-EPDcoretop_E2500	Trifolium repens	Trifolium repens-type	HERB	1	0.12953368
-EPDcoretop_E2500	Dryopteris filix-mas	Dryopteris filix-mas-type	VACR	12	1.5544041
-EPDcoretop_E2500	Polypodiaceae	Monolete fern spores	VACR	159	20.595855
-EPDcoretop_E2500	Sphagnum	Sphagnum	BRYO	1	0.12953368
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+EPDcoretop_E2500	5	10	5	Alnus	Alnus	TRSH
+EPDcoretop_E2500	7	2	7	Artemisia	Artemisia	HERB
+EPDcoretop_E2500	12	104	12	Betula	Betula	TRSH
+EPDcoretop_E2500	13	1	13	Brassicaceae	Brassicaceae	HERB
+EPDcoretop_E2500	16	1	16	Carpinus	Carpinus betulus	TRSH
+EPDcoretop_E2500	24	1	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+EPDcoretop_E2500	33	2	33	Cyperaceae	Cyperaceae	HERB
+EPDcoretop_E2500	60	2	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+EPDcoretop_E2500	75	342	75	Pinus	Pinus	TRSH
+EPDcoretop_E2500	80	56	80	Poaceae	Poaceae	HERB
+EPDcoretop_E2500	116	1	116	Trifolium repens	Trifolium repens-type	HERB
+EPDcoretop_E2500	126	13	126	Picea	Picea	TRSH
+EPDcoretop_E2500	144	1	144	Sphagnum	Sphagnum	BRYO
+EPDcoretop_E2500	146	159	146	Polypodiaceae	Monolete fern spores	VACR
+EPDcoretop_E2500	154	1	154	Ulmus	Ulmus/Zelkova	TRSH
+EPDcoretop_E2500	189	18	189	Quercus	Quercus	TRSH
+EPDcoretop_E2500	190	1	190	Fraxinus	Fraxinus	TRSH
+EPDcoretop_E2500	192	10	42	Fagus	Fagus	TRSH
+EPDcoretop_E2500	201	5	31	Corylus	Corylus	TRSH
+EPDcoretop_E2500	630	4	87	Ranunculus acris-type	Ranunculus acris-type	HERB
+EPDcoretop_E2500	710	1	25	Liguliflorae	Asteraceae subf. Cichorioideae	HERB
+EPDcoretop_E2500	711	3	160	Tubuliflorae	Asteraceae subf. Asteroideae	HERB
+EPDcoretop_E2500	727	1	94	Rumex	Rumex/Oxyria	HERB
+EPDcoretop_E2500	801	2	256	Secale	Secale cereale	HERB
+EPDcoretop_E2500	825	12	220	Dryopteris filix-mas	Dryopteris filix-mas-type	VACR
+EPDcoretop_E2500	1065	4	22	Cerealia-type	Cerealia-type	HERB
+EPDcoretop_E2500	2174	1	977	Myrica	Myrica	TRSH
+EPDcoretop_E2500	3646	10	3645	Calluna vulgaris	Calluna vulgaris	DWAR
+EPDcoretop_E2500	5104	1	22	Cerealia 40-50µm	Cerealia-type	HERB
+EPDcoretop_E2500	5105	3	22	Cerealia >50µm	Cerealia-type	HERB

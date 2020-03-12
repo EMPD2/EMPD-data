@@ -1,35 +1,35 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Edwards_a3	Alnus glutinosa	Alnus glutinosa-type	TRSH	3	0.64516129
-Edwards_a3	Betula	Betula	TRSH	1	0.21505376
-Edwards_a3	Calluna vulgaris	Calluna vulgaris	DWAR	16	3.4408602
-Edwards_a3	Corylus avellana-type	Corylus	TRSH	4	0.86021505
-Edwards_a3	Pinus sylvestris	Pinus sylvestris-type	TRSH	2	0.43010753
-Edwards_a3	Ulmus	Ulmus/Zelkova	TRSH	1	0.21505376
-Edwards_a3	Apiaceae	Apiaceae	HERB	4	0.86021505
-Edwards_a3	Armeria maritima	Armeria-type	HERB	2	0.43010753
-Edwards_a3	Solidago virgaurea-type	Aster-type	HERB	34	7.311828
-Edwards_a3	Asteraceae	Asteraceae	HERB	23	4.9462366
-Edwards_a3	Lactuceae	Asteraceae subf. Cichorioideae	HERB	18	3.8709677
-Edwards_a3	Brassicaceae	Brassicaceae	HERB	5	1.0752688
-Edwards_a3	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	3	0.64516129
-Edwards_a3	Cyperaceae class 2	Cyperaceae	HERB	4	0.86021505
-Edwards_a3	Cyperaceae class 3	Cyperaceae	HERB	3	0.64516129
-Edwards_a3	Cyperaceae class 4	Cyperaceae	HERB	3	0.64516129
-Edwards_a3	Filipendula	Filipendula	HERB	3	0.64516129
-Edwards_a3	Plantago lanceolata	Plantago lanceolata-type	HERB	86	18.494624
-Edwards_a3	Poaceae class 1	Poaceae	HERB	48	10.322581
-Edwards_a3	Poaceae class 2	Poaceae	HERB	11	2.3655914
-Edwards_a3	Poaceae class 3	Poaceae	HERB	98	21.075269
-Edwards_a3	Poaceae class 4	Poaceae	HERB	2	0.43010753
-Edwards_a3	Potentilla-type	Potentilla-type	HERB	5	1.0752688
-Edwards_a3	Ranunculus acris-type	Ranunculus acris-type	HERB	24	5.1612903
-Edwards_a3	Rhinanthus-type	Rhinanthus-type	HERB	3	0.64516129
-Edwards_a3	Rubiaceae	Rubiaceae	HERB	12	2.5806452
-Edwards_a3	Rumex acetosa	Rumex acetosa-type	HERB	11	2.3655914
-Edwards_a3	Thalictrum	Thalictrum	HERB	3	0.64516129
-Edwards_a3	Trifolium-type	Trifolium-type	HERB	21	4.516129
-Edwards_a3	Violaceae	Viola	HERB	4	0.86021505
-Edwards_a3	Pteridophyta spore	Monolete fern spores	VACR	4	0.86021505
-Edwards_a3	Polypodium	Polypodium	VACR	4	0.86021505
-Edwards_a3	Hippuris vulgaris	Hippuris vulgaris	AQUA	24	5.1612903
-Edwards_a3	Menyanthes trifoliata	Menyanthes trifoliata	AQUA	1	0.21505376
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Edwards_a3	760	3	155	Alnus glutinosa	Alnus glutinosa-type	TRSH
+Edwards_a3	6	4	6	Apiaceae	Apiaceae	HERB
+Edwards_a3	3564	2	992	Armeria maritima	Armeria-type	HERB
+Edwards_a3	134	23	134	Asteraceae	Asteraceae	HERB
+Edwards_a3	12	1	12	Betula	Betula	TRSH
+Edwards_a3	13	5	13	Brassicaceae	Brassicaceae	HERB
+Edwards_a3	3646	16	3645	Calluna vulgaris	Calluna vulgaris	DWAR
+Edwards_a3	18	3	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Edwards_a3	3849	4	31	Corylus avellana-type	Corylus	TRSH
+Edwards_a3	3870	4	33	Cyperaceae class 2	Cyperaceae	HERB
+Edwards_a3	45	3	45	Filipendula	Filipendula	HERB
+Edwards_a3	4053	24	1478	Hippuris vulgaris	Hippuris vulgaris	AQUA
+Edwards_a3	741	18	25	Lactuceae	Asteraceae subf. Cichorioideae	HERB
+Edwards_a3	961	1	175	Menyanthes trifoliata	Menyanthes trifoliata	AQUA
+Edwards_a3	788	2	125	Pinus sylvestris	Pinus sylvestris-type	TRSH
+Edwards_a3	4344	48	80	Poaceae class 1	Poaceae	HERB
+Edwards_a3	4345	11	80	Poaceae class 2	Poaceae	HERB
+Edwards_a3	666	4	214	Polypodium	Polypodium	VACR
+Edwards_a3	4408	4	146	Pteridophyta spore	Monolete fern spores	VACR
+Edwards_a3	630	24	87	Ranunculus acris-type	Ranunculus acris-type	HERB
+Edwards_a3	631	3	631	Rhinanthus-type	Rhinanthus-type	HERB
+Edwards_a3	93	12	93	Rubiaceae	Rubiaceae	HERB
+Edwards_a3	95	11	95	Rumex acetosa	Rumex acetosa-type	HERB
+Edwards_a3	154	1	154	Ulmus	Ulmus/Zelkova	TRSH
+Edwards_a3	430	4	430	Violaceae	Viola	HERB
+Edwards_a3	60	86	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+Edwards_a3	112	3	112	Thalictrum	Thalictrum	HERB
+Edwards_a3	626	5	512	Potentilla-type	Potentilla-type	HERB
+Edwards_a3	1284	21	115	Trifolium-type	Trifolium-type	HERB
+Edwards_a3	3871	3	33	Cyperaceae class 3	Cyperaceae	HERB
+Edwards_a3	3872	3	33	Cyperaceae class 4	Cyperaceae	HERB
+Edwards_a3	4346	98	80	Poaceae class 3	Poaceae	HERB
+Edwards_a3	4347	2	80	Poaceae class 4	Poaceae	HERB
+Edwards_a3	4601	34	11	Solidago virgaurea-type	Aster-type	HERB

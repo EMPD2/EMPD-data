@@ -1,35 +1,35 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Dambach_a223	Acer	Acer campestre-type	TRSH	2	0.28409091
-Dambach_a223	Alnus	Alnus	TRSH	27	3.8352273
-Dambach_a223	Betula	Betula	TRSH	46	6.5340909
-Dambach_a223	Carpinus	Carpinus betulus	TRSH	6	0.85227273
-Dambach_a223	Corylus	Corylus	TRSH	11	1.5625
-Dambach_a223	Fagus	Fagus	TRSH	120	17.045455
-Dambach_a223	Fraxinus	Fraxinus	TRSH	7	0.99431818
-Dambach_a223	Juglans	Juglans	TRSH	1	0.14204545
-Dambach_a223	Larix	Larix/Pseudotsuga	TRSH	1	0.14204545
-Dambach_a223	Picea	Picea	TRSH	150	21.306818
-Dambach_a223	Pinus	Pinus	TRSH	119	16.903409
-Dambach_a223	Quercus	Quercus	TRSH	38	5.3977273
-Dambach_a223	Rosaceae	Rosaceae	TRSH	1	0.14204545
-Dambach_a223	Salix	Salix	TRSH	5	0.71022727
-Dambach_a223	Tilia	Tilia	TRSH	16	2.2727273
-Dambach_a223	Umbelliferae	Apiaceae	HERB	2	0.28409091
-Dambach_a223	Artemisia	Artemisia	HERB	4	0.56818182
-Dambach_a223	Asteroideae	Asteraceae subf. Asteroideae	HERB	9	1.2784091
-Dambach_a223	Brassicaceae	Brassicaceae	HERB	1	0.14204545
-Dambach_a223	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	2	0.28409091
-Dambach_a223	Cerealia-type	Cerealia-type	HERB	33	4.6875
-Dambach_a223	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	3	0.42613636
-Dambach_a223	Linum	Linum	HERB	1	0.14204545
-Dambach_a223	Plantago lanceolata	Plantago lanceolata-type	HERB	13	1.8465909
-Dambach_a223	Gramineae	Poaceae	HERB	75	10.653409
-Dambach_a223	Ranunculaceae	Ranunculaceae	HERB	3	0.42613636
-Dambach_a223	Ranunculus-type	Ranunculus-type	HERB	1	0.14204545
-Dambach_a223	Rubiaceae	Rubiaceae	HERB	2	0.28409091
-Dambach_a223	Rumex acetosa-type	Rumex acetosa-type	HERB	3	0.42613636
-Dambach_a223	Scrophularia/Verbascum	Scrophularia-type	HERB	1	0.14204545
-Dambach_a223	Polypodiaceae	Monolete fern spores	VACR	1	0.14204545
-Dambach_a223	Cyperaceae	Cyperaceae	AQUA	5	0.71022727
-Dambach_a223	Indeterminable: unknown	Indeterminable: unknown	INUN	4	
-Dambach_a223	Varia	Indeterminable: unknown	INUN	2	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Dambach_a223	2	2	2	Acer	Acer campestre-type	TRSH
+Dambach_a223	5	27	5	Alnus	Alnus	TRSH
+Dambach_a223	7	4	7	Artemisia	Artemisia	HERB
+Dambach_a223	761	9	160	Asteroideae	Asteraceae subf. Asteroideae	HERB
+Dambach_a223	12	46	12	Betula	Betula	TRSH
+Dambach_a223	13	1	13	Brassicaceae	Brassicaceae	HERB
+Dambach_a223	18	2	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Dambach_a223	1065	33	22	Cerealia-type	Cerealia-type	HERB
+Dambach_a223	24	3	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Dambach_a223	201	11	31	Corylus	Corylus	TRSH
+Dambach_a223	3868	5	3868	Cyperaceae	Cyperaceae	AQUA
+Dambach_a223	192	120	42	Fagus	Fagus	TRSH
+Dambach_a223	1601	75	80	Gramineae	Poaceae	HERB
+Dambach_a223	4078	4	177	Indeterminable: unknown	Indeterminable: unknown	INUN
+Dambach_a223	57	1	57	Juglans	Juglans	TRSH
+Dambach_a223	126	150	126	Picea	Picea	TRSH
+Dambach_a223	60	13	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+Dambach_a223	146	1	146	Polypodiaceae	Monolete fern spores	VACR
+Dambach_a223	189	38	189	Quercus	Quercus	TRSH
+Dambach_a223	135	3	135	Ranunculaceae	Ranunculaceae	HERB
+Dambach_a223	2429	1	274	Ranunculus-type	Ranunculus-type	HERB
+Dambach_a223	92	1	92	Rosaceae	Rosaceae	TRSH
+Dambach_a223	93	2	93	Rubiaceae	Rubiaceae	HERB
+Dambach_a223	634	3	95	Rumex acetosa-type	Rumex acetosa-type	HERB
+Dambach_a223	99	5	99	Salix	Salix	TRSH
+Dambach_a223	4579	1	103	Scrophularia/Verbascum	Scrophularia-type	HERB
+Dambach_a223	187	16	187	Tilia	Tilia	TRSH
+Dambach_a223	590	2	6	Umbelliferae	Apiaceae	HERB
+Dambach_a223	1098	2	177	Varia	Indeterminable: unknown	INUN
+Dambach_a223	16	6	16	Carpinus	Carpinus betulus	TRSH
+Dambach_a223	75	119	75	Pinus	Pinus	TRSH
+Dambach_a223	123	1	123	Larix	Larix/Pseudotsuga	TRSH
+Dambach_a223	190	7	190	Fraxinus	Fraxinus	TRSH
+Dambach_a223	747	1	747	Linum	Linum	HERB

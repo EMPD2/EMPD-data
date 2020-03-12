@@ -1,41 +1,41 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Nakagawa_d4	Acer	Acer campestre-type	TRSH	4	0.72072072
-Nakagawa_d4	Alnus	Alnus	TRSH	29	5.2252252
-Nakagawa_d4	Betula	Betula	TRSH	11	1.981982
-Nakagawa_d4	Celtis-Aphananthe	Cannabaceae	TRSH	2	0.36036036
-Nakagawa_d4	Castanea	Castanea sativa	TRSH	2	0.36036036
-Nakagawa_d4	Corylus	Corylus	TRSH	3	0.54054054
-Nakagawa_d4	Cryptomeria	Cryptomeria-type	TRSH	74	13.333333
-Nakagawa_d4	Fagus	Fagus	TRSH	63	11.351351
-Nakagawa_d4	Fagus crenata type	Fagus	TRSH	13	2.3423423
-Nakagawa_d4	Fagus japonica type	Fagus	TRSH	5	0.9009009
-Nakagawa_d4	Pterocarya-Juglans	Juglandaceae	TRSH	15	2.7027027
-Nakagawa_d4	Cupressaceae type	Juniperus-type	TRSH	4	0.72072072
-Nakagawa_d4	Larix	Larix/Pseudotsuga	TRSH	3	0.54054054
-Nakagawa_d4	Pseudotsuga	Larix/Pseudotsuga	TRSH	1	0.18018018
-Nakagawa_d4	Mallotus	Mallotus	TRSH	1	0.18018018
-Nakagawa_d4	Carpinus-Ostrya	Ostrya/Carpinus orientalis	TRSH	11	1.981982
-Nakagawa_d4	Pinus-H	Pinus cembra-type	TRSH	2	0.36036036
-Nakagawa_d4	Pinus-D	Pinus sylvestris-type	TRSH	60	10.810811
-Nakagawa_d4	Pseudolarix type	Pseudolarix amabilis	TRSH	1	0.18018018
-Nakagawa_d4	Quercus	Quercus	TRSH	144	25.945946
-Nakagawa_d4	Cyclobalanopsis	Quercus ilex-type	TRSH	7	1.2612613
-Nakagawa_d4	Salix	Salix	TRSH	1	0.18018018
-Nakagawa_d4	Tsuga	Tsuga	TRSH	1	0.18018018
-Nakagawa_d4	Ulmus-Zelkova	Ulmus/Zelkova	TRSH	13	2.3423423
-Nakagawa_d4	Weigela	Weigela	TRSH	2	0.36036036
-Nakagawa_d4	Artemisia	Artemisia	HERB	9	1.6216216
-Nakagawa_d4	Carduoideae	Asteraceae	HERB	6	1.0810811
-Nakagawa_d4	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	5	0.9009009
-Nakagawa_d4	Cruciferae	Brassicaceae	HERB	1	0.18018018
-Nakagawa_d4	Gramineae(>40)	Cerealia-type	HERB	4	0.72072072
-Nakagawa_d4	Cyperaceae	Cyperaceae	HERB	3	0.54054054
-Nakagawa_d4	Plantago	Plantago	HERB	2	0.36036036
-Nakagawa_d4	Gramineae(<40)	Poaceae	HERB	12	2.1621622
-Nakagawa_d4	Reynoutria	Reynoutria	HERB	5	0.9009009
-Nakagawa_d4	Moraceae-Urticaceae	Urticaceae/Moraceae	HERB	2	0.36036036
-Nakagawa_d4	Aspid.-Asple.	Monolete fern spores	VACR	6	1.0810811
-Nakagawa_d4	MONOLATE-TYPE-SPORE	Monolete fern spores	VACR	9	1.6216216
-Nakagawa_d4	TRILATE-TYPE-SPORE	Trilete spore(s)	VACR	19	3.4234234
-Nakagawa_d4	UNKNOWN-POLLEN	Indeterminable: unknown	INUN	10	
-Nakagawa_d4	UNKNOWN-POLLEN/SPORES	Indeterminable: unknown	INUN	465	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Nakagawa_d4	99	1	99	Salix	Salix	TRSH
+Nakagawa_d4	2221	74	2221	Cryptomeria	Cryptomeria-type	TRSH
+Nakagawa_d4	12	11	12	Betula	Betula	TRSH
+Nakagawa_d4	201	3	31	Corylus	Corylus	TRSH
+Nakagawa_d4	5	29	5	Alnus	Alnus	TRSH
+Nakagawa_d4	192	63	42	Fagus	Fagus	TRSH
+Nakagawa_d4	1954	13	154	Ulmus-Zelkova	Ulmus/Zelkova	TRSH
+Nakagawa_d4	7	9	7	Artemisia	Artemisia	HERB
+Nakagawa_d4	2	4	2	Acer	Acer campestre-type	TRSH
+Nakagawa_d4	995	1	995	Tsuga	Tsuga	TRSH
+Nakagawa_d4	123	3	123	Larix	Larix/Pseudotsuga	TRSH
+Nakagawa_d4	33	3	33	Cyperaceae	Cyperaceae	HERB
+Nakagawa_d4	447	5	25	Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Nakagawa_d4	482	1	13	Cruciferae	Brassicaceae	HERB
+Nakagawa_d4	724	2	270	Plantago	Plantago	HERB
+Nakagawa_d4	2461	60	125	Pinus-D	Pinus sylvestris-type	TRSH
+Nakagawa_d4	2462	2	124	Pinus-H	Pinus cembra-type	TRSH
+Nakagawa_d4	2470	1	123	Pseudotsuga	Larix/Pseudotsuga	TRSH
+Nakagawa_d4	189	144	189	Quercus	Quercus	TRSH
+Nakagawa_d4	441	2	19	Castanea	Castanea sativa	TRSH
+Nakagawa_d4	2045	11	70	Carpinus-Ostrya	Ostrya/Carpinus orientalis	TRSH
+Nakagawa_d4	2224	2	2224	Weigela	Weigela	TRSH
+Nakagawa_d4	2473	15	2198	Pterocarya-Juglans	Juglandaceae	TRSH
+Nakagawa_d4	2474	13	42	Fagus crenata type	Fagus	TRSH
+Nakagawa_d4	2475	5	42	Fagus japonica type	Fagus	TRSH
+Nakagawa_d4	2476	7	85	Cyclobalanopsis	Quercus ilex-type	TRSH
+Nakagawa_d4	2499	10	177	UNKNOWN-POLLEN	Indeterminable: unknown	INUN
+Nakagawa_d4	2500	465	177	UNKNOWN-POLLEN/SPORES	Indeterminable: unknown	INUN
+Nakagawa_d4	2485	4	22	Gramineae(>40)	Cerealia-type	HERB
+Nakagawa_d4	2488	5	2488	Reynoutria	Reynoutria	HERB
+Nakagawa_d4	2492	6	134	Carduoideae	Asteraceae	HERB
+Nakagawa_d4	2496	6	146	Aspid.-Asple.	Monolete fern spores	VACR
+Nakagawa_d4	2447	2	763	Celtis-Aphananthe	Cannabaceae	TRSH
+Nakagawa_d4	2448	1	2448	Mallotus	Mallotus	TRSH
+Nakagawa_d4	2471	1	2471	Pseudolarix type	Pseudolarix amabilis	TRSH
+Nakagawa_d4	2472	4	203	Cupressaceae type	Juniperus-type	TRSH
+Nakagawa_d4	2478	2	736	Moraceae-Urticaceae	Urticaceae/Moraceae	HERB
+Nakagawa_d4	2484	12	80	Gramineae(<40)	Poaceae	HERB
+Nakagawa_d4	2497	9	146	MONOLATE-TYPE-SPORE	Monolete fern spores	VACR
+Nakagawa_d4	2498	19	279	TRILATE-TYPE-SPORE	Trilete spore(s)	VACR

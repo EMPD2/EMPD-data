@@ -1,47 +1,47 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-EPDcoretop_E375	Abies	Abies	TRSH	1	0.10559662
-EPDcoretop_E375	Acer	Acer campestre-type	TRSH	1	0.10559662
-EPDcoretop_E375	Alnus	Alnus	TRSH	43	4.5406547
-EPDcoretop_E375	Betula	Betula	TRSH	105	11.087645
-EPDcoretop_E375	Calluna vulgaris	Calluna vulgaris	DWAR	1	0.10559662
-EPDcoretop_E375	Carpinus	Carpinus betulus	TRSH	10	1.0559662
-EPDcoretop_E375	Corylus	Corylus	TRSH	16	1.6895459
-EPDcoretop_E375	Ericaceae	Ericales (tetrad)	DWAR	2	0.21119324
-EPDcoretop_E375	Fagus	Fagus	TRSH	3	0.31678986
-EPDcoretop_E375	Frangula	Frangula alnus	TRSH	2	0.21119324
-EPDcoretop_E375	Fraxinus	Fraxinus	TRSH	1	0.10559662
-EPDcoretop_E375	Juniperus	Juniperus communis-type	TRSH	3	0.31678986
-EPDcoretop_E375	Picea	Picea	TRSH	4	0.42238648
-EPDcoretop_E375	Pinus	Pinus	TRSH	338	35.691658
-EPDcoretop_E375	Quercus	Quercus	TRSH	43	4.5406547
-EPDcoretop_E375	Rosaceae	Rosaceae	TRSH	3	0.31678986
-EPDcoretop_E375	Salix	Salix	TRSH	1	0.10559662
-EPDcoretop_E375	Tilia	Tilia	TRSH	4	0.42238648
-EPDcoretop_E375	Ulmus	Ulmus/Zelkova	TRSH	2	0.21119324
-EPDcoretop_E375	Artemisia	Artemisia	HERB	11	1.1615628
-EPDcoretop_E375	Compositae subf. Asteroideae	Asteraceae subf. Asteroideae	HERB	2	0.21119324
-EPDcoretop_E375	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB	3	0.31678986
-EPDcoretop_E375	Triticum	Avena/Triticum-type	HERB	5	0.5279831
-EPDcoretop_E375	Cruciferae	Brassicaceae	HERB	7	0.73917635
-EPDcoretop_E375	Centaurea cyanus	Centaurea cyanus-type	HERB	2	0.21119324
-EPDcoretop_E375	Cerealia-type	Cerealia-type	HERB	73	7.7085533
-EPDcoretop_E375	Secale	Cerealia-type	HERB	39	4.1182682
-EPDcoretop_E375	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	10	1.0559662
-EPDcoretop_E375	Fagopyrum	Fagopyrum	HERB	2	0.21119324
-EPDcoretop_E375	Filipendula	Filipendula	HERB	1	0.10559662
-EPDcoretop_E375	Leguminosae	Leguminosae	HERB	1	0.10559662
-EPDcoretop_E375	Plantago lanceolata	Plantago lanceolata-type	HERB	14	1.4783527
-EPDcoretop_E375	Plantago major/P. media	Plantago major/P. media-type	HERB	1	0.10559662
-EPDcoretop_E375	Gramineae	Poaceae	HERB	147	15.522703
-EPDcoretop_E375	Ranunculus	Ranunculus-type	HERB	1	0.10559662
-EPDcoretop_E375	Rubiaceae	Rubiaceae	HERB	1	0.10559662
-EPDcoretop_E375	Rumex subg. Acetosa/R. subg. Acetosella	Rumex acetosa-type	HERB	31	3.2734952
-EPDcoretop_E375	Equisetum	Equisetum	VACR	2	0.21119324
-EPDcoretop_E375	Polypodiaceae	Monolete fern spores	VACR	9	0.95036959
-EPDcoretop_E375	Pteridium	Pteridium	VACR	1	0.10559662
-EPDcoretop_E375	Thelypteris palustris	Thelypteris palustris	VACR	1	0.10559662
-EPDcoretop_E375	Cyperaceae	Cyperaceae	AQUA	15	1.5839493
-EPDcoretop_E375	Pediastrum boryanum	Pediastrum boryanum	ALGA	119	12.565998
-EPDcoretop_E375	Pediastrum duplex	Pediastrum duplex	ALGA	9	0.95036959
-EPDcoretop_E375	Potamogeton	Potamogeton-type	AQUA	2	0.21119324
-EPDcoretop_E375	Varia	Indeterminable: unknown	INUN	9	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+EPDcoretop_E375	560	1	321	Abies	Abies	TRSH
+EPDcoretop_E375	2	1	2	Acer	Acer campestre-type	TRSH
+EPDcoretop_E375	5	43	5	Alnus	Alnus	TRSH
+EPDcoretop_E375	7	11	7	Artemisia	Artemisia	HERB
+EPDcoretop_E375	3646	1	3645	Calluna vulgaris	Calluna vulgaris	DWAR
+EPDcoretop_E375	16	10	16	Carpinus	Carpinus betulus	TRSH
+EPDcoretop_E375	1065	73	22	Cerealia-type	Cerealia-type	HERB
+EPDcoretop_E375	3822	2	160	Compositae subf. Asteroideae	Asteraceae subf. Asteroideae	HERB
+EPDcoretop_E375	201	16	31	Corylus	Corylus	TRSH
+EPDcoretop_E375	482	7	13	Cruciferae	Brassicaceae	HERB
+EPDcoretop_E375	3868	15	3868	Cyperaceae	Cyperaceae	AQUA
+EPDcoretop_E375	145	2	145	Equisetum	Equisetum	VACR
+EPDcoretop_E375	130	2	130	Ericaceae	Ericales (tetrad)	DWAR
+EPDcoretop_E375	1248	2	1248	Fagopyrum	Fagopyrum	HERB
+EPDcoretop_E375	192	3	42	Fagus	Fagus	TRSH
+EPDcoretop_E375	45	1	45	Filipendula	Filipendula	HERB
+EPDcoretop_E375	468	2	468	Frangula	Frangula alnus	TRSH
+EPDcoretop_E375	190	1	190	Fraxinus	Fraxinus	TRSH
+EPDcoretop_E375	1601	147	80	Gramineae	Poaceae	HERB
+EPDcoretop_E375	58	3	58	Juniperus	Juniperus communis-type	TRSH
+EPDcoretop_E375	744	1	744	Leguminosae	Leguminosae	HERB
+EPDcoretop_E375	909	119	909	Pediastrum boryanum	Pediastrum boryanum	ALGA
+EPDcoretop_E375	2351	9	2351	Pediastrum duplex	Pediastrum duplex	ALGA
+EPDcoretop_E375	75	338	75	Pinus	Pinus	TRSH
+EPDcoretop_E375	60	14	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+EPDcoretop_E375	4323	1	458	Plantago major/P. media	Plantago major/P. media-type	HERB
+EPDcoretop_E375	146	9	146	Polypodiaceae	Monolete fern spores	VACR
+EPDcoretop_E375	657	2	108	Potamogeton	Potamogeton-type	AQUA
+EPDcoretop_E375	431	1	180	Pteridium	Pteridium aquilinum	VACR
+EPDcoretop_E375	189	43	189	Quercus	Quercus	TRSH
+EPDcoretop_E375	629	1	274	Ranunculus	Ranunculus-type	HERB
+EPDcoretop_E375	92	3	92	Rosaceae	Rosaceae	TRSH
+EPDcoretop_E375	93	1	93	Rubiaceae	Rubiaceae	HERB
+EPDcoretop_E375	99	1	99	Salix	Salix	TRSH
+EPDcoretop_E375	104	39	22	Secale	Cerealia-type	HERB
+EPDcoretop_E375	859	1	859	Thelypteris palustris	Thelypteris palustris	VACR
+EPDcoretop_E375	187	4	187	Tilia	Tilia	TRSH
+EPDcoretop_E375	1357	5	818	Triticum	Avena/Triticum-type	HERB
+EPDcoretop_E375	154	2	154	Ulmus	Ulmus/Zelkova	TRSH
+EPDcoretop_E375	1098	9	177	Varia	Indeterminable: unknown	INUN
+EPDcoretop_E375	12	105	12	Betula	Betula	TRSH
+EPDcoretop_E375	24	10	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+EPDcoretop_E375	126	4	126	Picea	Picea	TRSH
+EPDcoretop_E375	821	2	462	Centaurea cyanus	Centaurea cyanus-type	HERB
+EPDcoretop_E375	3824	3	25	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+EPDcoretop_E375	4519	31	95	Rumex subg. Acetosa/R. subg. Acetosella	Rumex acetosa-type	HERB

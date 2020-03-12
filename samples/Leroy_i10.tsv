@@ -1,44 +1,44 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Leroy_i10	Abies	Abies	TRSH	5	1.4409222
-Leroy_i10	Acer	Acer campestre-type	TRSH	2	0.57636888
-Leroy_i10	Alnus	Alnus	TRSH	1	0.28818444
-Leroy_i10	Betula	Betula	TRSH	1	0.28818444
-Leroy_i10	Buxus	Buxus	TRSH	1	0.28818444
-Leroy_i10	Corylus	Corylus	TRSH	6	1.7291066
-Leroy_i10	Ephedra	Ephedra	TRSH	1	0.28818444
-Leroy_i10	Ericaceae	Ericales (tetrad)	DWAR	6	1.7291066
-Leroy_i10	Fagus	Fagus	TRSH	1	0.28818444
-Leroy_i10	Fraxinus	Fraxinus	TRSH	3	0.86455331
-Leroy_i10	Cupressaceae	Juniperus-type	TRSH	5	1.4409222
-Leroy_i10	Olea	Olea europaea	TRSH	9	2.5936599
-Leroy_i10	Phillyrea	Phillyrea	TRSH	1	0.28818444
-Leroy_i10	Pinaceae	Pinaceae	TRSH	104	29.971182
-Leroy_i10	Pinus t. haplostellate	Pinus cembra-type	TRSH	1	0.28818444
-Leroy_i10	Platanus	Platanus	TRSH	3	0.86455331
-Leroy_i10	Quercus evergreen	Quercus ilex-type	TRSH	21	6.0518732
-Leroy_i10	Quercus deciduous	Quercus robur-type	TRSH	105	30.259366
-Leroy_i10	Salix	Salix	TRSH	1	0.28818444
-Leroy_i10	Ulmus	Ulmus/Zelkova	TRSH	2	0.57636888
-Leroy_i10	Artemisia	Artemisia	HERB	12	3.4582133
-Leroy_i10	A. tubuliflorae	Asteraceae subf. Asteroideae	HERB	1	0.28818444
-Leroy_i10	Asteraceae liguliflorae	Asteraceae subf. Cichorioideae	HERB	8	2.3054755
-Leroy_i10	Brassicaceae	Brassicaceae	HERB	5	1.4409222
-Leroy_i10	Centaurea	Centaurea	HERB	1	0.28818444
-Leroy_i10	Cerealia	Cerealia-type	HERB	3	0.86455331
-Leroy_i10	Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	3	0.86455331
-Leroy_i10	Cyperaceae	Cyperaceae	HERB	8	2.3054755
-Leroy_i10	Emex spinosa	Emex spinosa	HERB	1	0.28818444
-Leroy_i10	Filipendula	Filipendula	HERB	2	0.57636888
-Leroy_i10	Monocot. monocolp.	Liliaceae-type	HERB	1	0.28818444
-Leroy_i10	Plantago	Plantago	HERB	1	0.28818444
-Leroy_i10	Poaceae	Poaceae	HERB	12	3.4582133
-Leroy_i10	Ranunculaceae	Ranunculaceae	HERB	2	0.57636888
-Leroy_i10	Rumex	Rumex/Oxyria	HERB	1	0.28818444
-Leroy_i10	Monoletes psilate	Monolete fern spores	VACR	1	0.28818444
-Leroy_i10	Monoletes non psilate	Monolete fern spores	VACR	2	0.57636888
-Leroy_i10	Pteridium	Pteridium aquilinum	VACR	1	0.28818444
-Leroy_i10	Triletes psilate	Trilete spore(s)	VACR	3	0.86455331
-Leroy_i10	Nymphaea alba	Nymphaea	AQUA	1	0.28818444
-Leroy_i10	Potamogeton	Potamogeton-type	AQUA	2	0.57636888
-Leroy_i10	Indeterminated	Indeterminable: unknown	INUN	3	
-Leroy_i10	Undeterminable	Indeterminable: unknown	INUN	32	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Leroy_i10	2	2	2	Acer	Acer campestre-type	TRSH
+Leroy_i10	5	1	5	Alnus	Alnus	TRSH
+Leroy_i10	12	1	12	Betula	Betula	TRSH
+Leroy_i10	159	1	159	Ephedra	Ephedra	TRSH
+Leroy_i10	201	6	31	Corylus	Corylus	TRSH
+Leroy_i10	560	5	321	Abies	Abies	TRSH
+Leroy_i10	1819	5	203	Cupressaceae	Juniperus-type	TRSH
+Leroy_i10	130	6	130	Ericaceae	Ericales (tetrad)	DWAR
+Leroy_i10	188	1	188	Buxus	Buxus	TRSH
+Leroy_i10	190	3	190	Fraxinus	Fraxinus	TRSH
+Leroy_i10	192	1	42	Fagus	Fagus	TRSH
+Leroy_i10	427	21	85	Quercus evergreen	Quercus ilex-type	TRSH
+Leroy_i10	437	105	86	Quercus deciduous	Quercus robur-type	TRSH
+Leroy_i10	74	1	74	Phillyrea	Phillyrea	TRSH
+Leroy_i10	78	3	78	Platanus	Platanus	TRSH
+Leroy_i10	99	1	99	Salix	Salix	TRSH
+Leroy_i10	154	2	154	Ulmus	Ulmus/Zelkova	TRSH
+Leroy_i10	442	9	68	Olea	Olea europaea	TRSH
+Leroy_i10	707	3	24	Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB
+Leroy_i10	7	12	7	Artemisia	Artemisia	HERB
+Leroy_i10	13	5	13	Brassicaceae	Brassicaceae	HERB
+Leroy_i10	33	8	33	Cyperaceae	Cyperaceae	HERB
+Leroy_i10	80	12	80	Poaceae	Poaceae	HERB
+Leroy_i10	724	1	270	Plantago	Plantago	HERB
+Leroy_i10	1981	3	177	Indeterminated	Indeterminable: unknown	INUN
+Leroy_i10	22	3	22	Cerealia	Cerealia-type	HERB
+Leroy_i10	45	2	45	Filipendula	Filipendula	HERB
+Leroy_i10	135	2	135	Ranunculaceae	Ranunculaceae	HERB
+Leroy_i10	431	1	180	Pteridium	Pteridium aquilinum	VACR
+Leroy_i10	2066	32	177	Undeterminable	Indeterminable: unknown	INUN
+Leroy_i10	657	2	108	Potamogeton	Potamogeton-type	AQUA
+Leroy_i10	727	1	94	Rumex	Rumex/Oxyria	HERB
+Leroy_i10	757	1	267	Centaurea	Centaurea	HERB
+Leroy_i10	844	8	25	Asteraceae liguliflorae	Asteraceae subf. Cichorioideae	HERB
+Leroy_i10	1944	104	1944	Pinaceae	Pinaceae	TRSH
+Leroy_i10	2035	1	2035	Emex spinosa	Emex spinosa	HERB
+Leroy_i10	2052	1	124	Pinus t. haplostellate	Pinus cembra-type	TRSH
+Leroy_i10	2057	1	160	A. tubuliflorae	Asteraceae subf. Asteroideae	HERB
+Leroy_i10	2059	1	62	Monocot. monocolp.	Liliaceae-type	HERB
+Leroy_i10	2061	1	627	Nymphaea alba	Nymphaea	AQUA
+Leroy_i10	2062	1	146	Monoletes psilate	Monolete fern spores	VACR
+Leroy_i10	2063	2	146	Monoletes non psilate	Monolete fern spores	VACR
+Leroy_i10	2064	3	279	Triletes psilate	Trilete spore(s)	VACR

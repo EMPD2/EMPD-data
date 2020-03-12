@@ -1,41 +1,41 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-EPDcoretop_E1680	Alnus glutinosa	Alnus glutinosa-type	TRSH	8	1.4897579
-EPDcoretop_E1680	Betula	Betula	TRSH	1	0.18621974
-EPDcoretop_E1680	Calluna vulgaris	Calluna vulgaris	DWAR	1	0.18621974
-EPDcoretop_E1680	Corylus avellana-type	Corylus	TRSH	9	1.6759777
-EPDcoretop_E1680	Fagus sylvatica	Fagus	TRSH	1	0.18621974
-EPDcoretop_E1680	Fraxinus excelsior	Fraxinus excelsior-type	TRSH	2	0.37243948
-EPDcoretop_E1680	Pinus sylvestris	Pinus sylvestris-type	TRSH	6	1.1173184
-EPDcoretop_E1680	Quercus	Quercus	TRSH	14	2.6070764
-EPDcoretop_E1680	Rosaceae undiff.	Rosaceae	TRSH	2	0.37243948
-EPDcoretop_E1680	Salix	Salix	TRSH	4	0.74487896
-EPDcoretop_E1680	Ulmus	Ulmus/Zelkova	TRSH	5	0.9310987
-EPDcoretop_E1680	Apiaceae	Apiaceae	HERB	6	1.1173184
-EPDcoretop_E1680	Solidago virgaurea-type	Aster-type	HERB	9	1.6759777
-EPDcoretop_E1680	Cirsium-type	Asteraceae subf. Carduoideae	HERB	4	0.74487896
-EPDcoretop_E1680	Lactuceae	Asteraceae subf. Cichorioideae	HERB	14	2.6070764
-EPDcoretop_E1680	Avena/Triticum-type	Avena/Triticum-type	HERB	5	0.9310987
-EPDcoretop_E1680	Brassicaceae	Brassicaceae	HERB	8	1.4897579
-EPDcoretop_E1680	Cannabis sativa	Cannabis sativa	HERB	1	0.18621974
-EPDcoretop_E1680	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	6	1.1173184
-EPDcoretop_E1680	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.18621974
-EPDcoretop_E1680	Cyperaceae	Cyperaceae	HERB	48	8.9385475
-EPDcoretop_E1680	Filipendula	Filipendula	HERB	35	6.5176909
-EPDcoretop_E1680	Hordeum-type	Hordeum-type	HERB	4	0.74487896
-EPDcoretop_E1680	Lotus	Lotus-type	HERB	1	0.18621974
-EPDcoretop_E1680	Myosotis arvensis-type	Myosotis-type	HERB	9	1.6759777
-EPDcoretop_E1680	Plantago lanceolata	Plantago lanceolata-type	HERB	15	2.7932961
-EPDcoretop_E1680	Plantago major/P. media	Plantago major/P. media-type	HERB	2	0.37243948
-EPDcoretop_E1680	Poaceae	Poaceae	HERB	247	45.996276
-EPDcoretop_E1680	Polemonium caeruleum	Polemonium	HERB	1	0.18621974
-EPDcoretop_E1680	Potentilla-type	Potentilla-type	HERB	1	0.18621974
-EPDcoretop_E1680	Ranunculus acris-type	Ranunculus acris-type	HERB	4	0.74487896
-EPDcoretop_E1680	Rubiaceae	Rubiaceae	HERB	2	0.37243948
-EPDcoretop_E1680	Rumex acetosa/R. acetosella	Rumex acetosa-type	HERB	12	2.2346369
-EPDcoretop_E1680	Rumex obtusifolius-type	Rumex crispus-type	HERB	7	1.3035382
-EPDcoretop_E1680	Scrophularia-type	Scrophularia-type	HERB	1	0.18621974
-EPDcoretop_E1680	Trifolium-type	Trifolium-type	HERB	1	0.18621974
-EPDcoretop_E1680	Pteropsida monolete undiff.	Monolete fern spores	VACR	31	5.7728119
-EPDcoretop_E1680	Polypodium	Polypodium	VACR	3	0.55865922
-EPDcoretop_E1680	Pteridium	Pteridium aquilinum	VACR	5	0.9310987
-EPDcoretop_E1680	Sphagnum	Sphagnum	BRYO	1	0.18621974
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+EPDcoretop_E1680	6	6	6	Apiaceae	Apiaceae	HERB
+EPDcoretop_E1680	12	1	12	Betula	Betula	TRSH
+EPDcoretop_E1680	13	8	13	Brassicaceae	Brassicaceae	HERB
+EPDcoretop_E1680	18	6	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+EPDcoretop_E1680	24	1	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+EPDcoretop_E1680	33	48	33	Cyperaceae	Cyperaceae	HERB
+EPDcoretop_E1680	42	1	42	Fagus sylvatica	Fagus	TRSH
+EPDcoretop_E1680	45	35	45	Filipendula	Filipendula	HERB
+EPDcoretop_E1680	47	2	47	Fraxinus excelsior	Fraxinus excelsior-type	TRSH
+EPDcoretop_E1680	60	15	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+EPDcoretop_E1680	80	247	80	Poaceae	Poaceae	HERB
+EPDcoretop_E1680	99	4	99	Salix	Salix	TRSH
+EPDcoretop_E1680	144	1	144	Sphagnum	Sphagnum	BRYO
+EPDcoretop_E1680	154	5	154	Ulmus	Ulmus/Zelkova	TRSH
+EPDcoretop_E1680	189	14	189	Quercus	Quercus	TRSH
+EPDcoretop_E1680	431	5	180	Pteridium	Pteridium aquilinum	VACR
+EPDcoretop_E1680	626	1	512	Potentilla-type	Potentilla-type	HERB
+EPDcoretop_E1680	630	4	87	Ranunculus acris-type	Ranunculus acris-type	HERB
+EPDcoretop_E1680	666	3	214	Polypodium	Polypodium	VACR
+EPDcoretop_E1680	741	14	25	Lactuceae	Asteraceae subf. Cichorioideae	HERB
+EPDcoretop_E1680	760	8	155	Alnus glutinosa	Alnus glutinosa-type	TRSH
+EPDcoretop_E1680	788	6	125	Pinus sylvestris	Pinus sylvestris-type	TRSH
+EPDcoretop_E1680	949	4	258	Hordeum-type	Hordeum-type	HERB
+EPDcoretop_E1680	1152	1	611	Lotus	Lotus-type	HERB
+EPDcoretop_E1680	1275	1	103	Scrophularia-type	Scrophularia-type	HERB
+EPDcoretop_E1680	1284	1	115	Trifolium-type	Trifolium-type	HERB
+EPDcoretop_E1680	2426	4	336	Cirsium-type	Asteraceae subf. Carduoideae	HERB
+EPDcoretop_E1680	3601	5	818	Avena/Triticum-type	Avena/Triticum-type	HERB
+EPDcoretop_E1680	3646	1	3645	Calluna vulgaris	Calluna vulgaris	DWAR
+EPDcoretop_E1680	3654	1	764	Cannabis sativa	Cannabis sativa	HERB
+EPDcoretop_E1680	3849	9	31	Corylus avellana-type	Corylus	TRSH
+EPDcoretop_E1680	4207	9	1442	Myosotis arvensis-type	Myosotis-type	HERB
+EPDcoretop_E1680	4323	2	458	Plantago major/P. media	Plantago major/P. media-type	HERB
+EPDcoretop_E1680	4355	1	139	Polemonium caeruleum	Polemonium	HERB
+EPDcoretop_E1680	4505	12	95	Rumex acetosa/R. acetosella	Rumex acetosa-type	HERB
+EPDcoretop_E1680	4515	7	251	Rumex obtusifolius-type	Rumex crispus-type	HERB
+EPDcoretop_E1680	4601	9	11	Solidago virgaurea-type	Aster-type	HERB
+EPDcoretop_E1680	4912	31	146	Pteropsida monolete undiff.	Monolete fern spores	VACR
+EPDcoretop_E1680	472	2	92	Rosaceae undiff.	Rosaceae	TRSH
+EPDcoretop_E1680	93	2	93	Rubiaceae	Rubiaceae	HERB

@@ -1,35 +1,35 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-EPDcoretop_E114	Abies	Abies	TRSH	4	0.60422961
-EPDcoretop_E114	Cedrus	Cedrus	TRSH	65	9.8187311
-EPDcoretop_E114	Juniperus	Juniperus communis-type	TRSH	3	0.45317221
-EPDcoretop_E114	Olea	Olea europaea	TRSH	1	0.1510574
-EPDcoretop_E114	Ostrya/Carpinus orientalis	Ostrya/Carpinus orientalis	TRSH	1	0.1510574
-EPDcoretop_E114	Pinus	Pinus	TRSH	322	48.640483
-EPDcoretop_E114	Crataegus-type	Prunus-type	TRSH	1	0.1510574
-EPDcoretop_E114	Quercus cerris-type	Quercus cerris-type	TRSH	4	0.60422961
-EPDcoretop_E114	Salix	Salix	TRSH	2	0.3021148
-EPDcoretop_E114	Umbelliferae	Apiaceae	HERB	7	1.0574018
-EPDcoretop_E114	Artemisia	Artemisia	HERB	3	0.45317221
-EPDcoretop_E114	Compositae subf. Asteroideae	Asteraceae subf. Asteroideae	HERB	11	1.6616314
-EPDcoretop_E114	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB	70	10.574018
-EPDcoretop_E114	Brassica-type	Brassicaceae	HERB	4	0.60422961
-EPDcoretop_E114	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	1	0.1510574
-EPDcoretop_E114	Centaurea cyanus-type	Centaurea cyanus-type	HERB	1	0.1510574
-EPDcoretop_E114	Centaurea solstitialis-type	Centaurea nigra-type	HERB	21	3.1722054
-EPDcoretop_E114	Cerealia-type	Cerealia-type	HERB	7	1.0574018
-EPDcoretop_E114	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	5	0.75528701
-EPDcoretop_E114	Leguminosae	Leguminosae	HERB	6	0.90634441
-EPDcoretop_E114	Matricaria-type	Matricaria-type	HERB	2	0.3021148
-EPDcoretop_E114	Plantago lanceolata-type	Plantago lanceolata-type	HERB	28	4.2296073
-EPDcoretop_E114	Gramineae	Poaceae	HERB	29	4.3806647
-EPDcoretop_E114	Polygonum aviculare-type	Polygonum aviculare-type	HERB	8	1.2084592
-EPDcoretop_E114	Ranunculus repens-type	Ranunculus acris-type	HERB	13	1.9637462
-EPDcoretop_E114	Galium-type	Rubiaceae	HERB	2	0.3021148
-EPDcoretop_E114	Dryopteris-type	Dryopteris-type	VACR	40	6.0422961
-EPDcoretop_E114	Sphagnum	Sphagnum	BRYO	1	0.1510574
-EPDcoretop_E114	Butomus umbellatus	Butomus umbellatus	AQUA	8	1.2084592
-EPDcoretop_E114	Cyperaceae	Cyperaceae	AQUA	64	9.6676737
-EPDcoretop_E114	Myriophyllum spicatum/M. verticillatum	Myriophyllum spicatum/M. verticillatum	AQUA	1	0.1510574
-EPDcoretop_E114	Nymphaea	Nymphaea	AQUA	1	0.1510574
-EPDcoretop_E114	Sparganium-type	Sparganium-type	AQUA	25	3.776435
-EPDcoretop_E114	Indeterminable: unknown	Indeterminable: unknown	INUN	1	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+EPDcoretop_E114	560	4	321	Abies	Abies	TRSH
+EPDcoretop_E114	7	3	7	Artemisia	Artemisia	HERB
+EPDcoretop_E114	3631	4	13	Brassica-type	Brassicaceae	HERB
+EPDcoretop_E114	18	1	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+EPDcoretop_E114	576	65	340	Cedrus	Cedrus	TRSH
+EPDcoretop_E114	2292	1	462	Centaurea cyanus-type	Centaurea cyanus-type	HERB
+EPDcoretop_E114	3681	21	29	Centaurea solstitialis-type	Centaurea nigra-type	HERB
+EPDcoretop_E114	1065	7	22	Cerealia-type	Cerealia-type	HERB
+EPDcoretop_E114	24	5	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+EPDcoretop_E114	3822	11	160	Compositae subf. Asteroideae	Asteraceae subf. Asteroideae	HERB
+EPDcoretop_E114	3868	64	3868	Cyperaceae	Cyperaceae	AQUA
+EPDcoretop_E114	1247	40	772	Dryopteris-type	Dryopteris-type	VACR
+EPDcoretop_E114	605	2	93	Galium-type	Rubiaceae	HERB
+EPDcoretop_E114	4078	1	177	Indeterminable: unknown	Indeterminable: unknown	INUN
+EPDcoretop_E114	58	3	58	Juniperus	Juniperus communis-type	TRSH
+EPDcoretop_E114	744	6	744	Leguminosae	Leguminosae	HERB
+EPDcoretop_E114	1072	2	3	Matricaria-type	Matricaria-type	HERB
+EPDcoretop_E114	4213	1	1972	Myriophyllum spicatum/M. verticillatum	Myriophyllum spicatum/M. verticillatum	AQUA
+EPDcoretop_E114	442	1	68	Olea	Olea europaea	TRSH
+EPDcoretop_E114	4238	1	70	Ostrya/Carpinus orientalis	Ostrya/Carpinus orientalis	TRSH
+EPDcoretop_E114	75	322	75	Pinus	Pinus	TRSH
+EPDcoretop_E114	1075	28	60	Plantago lanceolata-type	Plantago lanceolata-type	HERB
+EPDcoretop_E114	1078	8	262	Polygonum aviculare-type	Polygonum aviculare-type	HERB
+EPDcoretop_E114	1051	4	84	Quercus cerris-type	Quercus cerris-type	TRSH
+EPDcoretop_E114	4452	13	87	Ranunculus repens-type	Ranunculus acris-type	HERB
+EPDcoretop_E114	99	2	99	Salix	Salix	TRSH
+EPDcoretop_E114	590	7	6	Umbelliferae	Apiaceae	HERB
+EPDcoretop_E114	144	1	144	Sphagnum	Sphagnum	BRYO
+EPDcoretop_E114	627	1	627	Nymphaea	Nymphaea	AQUA
+EPDcoretop_E114	1086	25	176	Sparganium-type	Sparganium-type	AQUA
+EPDcoretop_E114	1601	29	80	Gramineae	Poaceae	HERB
+EPDcoretop_E114	3639	8	3637	Butomus umbellatus	Butomus umbellatus	AQUA
+EPDcoretop_E114	3824	70	25	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+EPDcoretop_E114	3857	1	82	Crataegus-type	Prunus-type	TRSH

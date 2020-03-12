@@ -1,39 +1,39 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Matthias_b37	Acer	Acer campestre-type	TRSH	6	0.56980057
-Matthias_b37	Alnus	Alnus	TRSH	120	11.396011
-Matthias_b37	Betula	Betula	TRSH	112	10.636277
-Matthias_b37	Calluna	Calluna vulgaris	TRSH	1	0.094966762
-Matthias_b37	Carpinus	Carpinus betulus	TRSH	5	0.47483381
-Matthias_b37	Cornus	Cornus	TRSH	1	0.094966762
-Matthias_b37	Corylus	Corylus	TRSH	4	0.37986705
-Matthias_b37	Fagus	Fagus	TRSH	33	3.1339031
-Matthias_b37	Fraxinus	Fraxinus	TRSH	45	4.2735043
-Matthias_b37	Larix/Pseudotsuga	Larix/Pseudotsuga	TRSH	3	0.28490028
-Matthias_b37	Picea	Picea	TRSH	7	0.66476733
-Matthias_b37	Pinus	Pinus	TRSH	293	27.825261
-Matthias_b37	Quercus	Quercus	TRSH	196	18.613485
-Matthias_b37	Rhamnus-type	Rhamnus-type	TRSH	1	0.094966762
-Matthias_b37	Sorbus-group	Rosaceae (non-operculate)	TRSH	6	0.56980057
-Matthias_b37	Salix	Salix	TRSH	4	0.37986705
-Matthias_b37	Tilia cordata	Tilia cordata-type	TRSH	9	0.85470085
-Matthias_b37	Tilia platyphyllos	Tilia platyphyllos-type	TRSH	6	0.56980057
-Matthias_b37	Ulmus	Ulmus/Zelkova	TRSH	16	1.5194682
-Matthias_b37	Artemisia	Artemisia	HERB	8	0.75973409
-Matthias_b37	Avena-type	Avena-type	HERB	5	0.47483381
-Matthias_b37	Brassicaceae	Brassicaceae	HERB	14	1.3295347
-Matthias_b37	Centaurea cyanus	Centaurea cyanus-type	HERB	28	2.6590693
-Matthias_b37	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	7	0.66476733
-Matthias_b37	Cyperaceae	Cyperaceae	HERB	6	0.56980057
-Matthias_b37	Filipendula	Filipendula	HERB	4	0.37986705
-Matthias_b37	Hordeum-type	Hordeum-type	HERB	9	0.85470085
-Matthias_b37	Matricaria-type	Matricaria-type	HERB	1	0.094966762
-Matthias_b37	Plantago lanceolata	Plantago lanceolata-type	HERB	4	0.37986705
-Matthias_b37	Poaceae	Poaceae	HERB	41	3.8936372
-Matthias_b37	Ranunculus acris-type	Ranunculus acris-type	HERB	3	0.28490028
-Matthias_b37	Rumex acetosa-type	Rumex acetosa-type	HERB	8	0.75973409
-Matthias_b37	Rumex acetosella-type	Rumex acetosa-type	HERB	3	0.28490028
-Matthias_b37	Secale	Secale cereale	HERB	14	1.3295347
-Matthias_b37	Trifolium	Trifolium-type	HERB	1	0.094966762
-Matthias_b37	Triticum-type	Triticum-type	HERB	17	1.6144349
-Matthias_b37	Urtica	Urtica	HERB	11	1.0446344
-Matthias_b37	Valeriana	Valeriana	HERB	1	0.094966762
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Matthias_b37	75	293	75	Pinus	Pinus	TRSH
+Matthias_b37	5	120	5	Alnus	Alnus	TRSH
+Matthias_b37	12	112	12	Betula	Betula	TRSH
+Matthias_b37	16	5	16	Carpinus	Carpinus betulus	TRSH
+Matthias_b37	201	4	31	Corylus	Corylus	TRSH
+Matthias_b37	99	4	99	Salix	Salix	TRSH
+Matthias_b37	126	7	126	Picea	Picea	TRSH
+Matthias_b37	2	6	2	Acer	Acer campestre-type	TRSH
+Matthias_b37	2336	3	123	Larix/Pseudotsuga	Larix/Pseudotsuga	TRSH
+Matthias_b37	2542	1	89	Rhamnus-type	Rhamnus-type	TRSH
+Matthias_b37	33	6	33	Cyperaceae	Cyperaceae	HERB
+Matthias_b37	80	41	80	Poaceae	Poaceae	HERB
+Matthias_b37	801	14	256	Secale	Secale cereale	HERB
+Matthias_b37	949	9	258	Hordeum-type	Hordeum-type	HERB
+Matthias_b37	1215	5	1111	Avena-type	Avena-type	HERB
+Matthias_b37	652	11	652	Urtica	Urtica	HERB
+Matthias_b37	1233	17	1199	Triticum-type	Triticum-type	HERB
+Matthias_b37	13	14	13	Brassicaceae	Brassicaceae	HERB
+Matthias_b37	60	4	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+Matthias_b37	7	8	7	Artemisia	Artemisia	HERB
+Matthias_b37	634	8	95	Rumex acetosa-type	Rumex acetosa-type	HERB
+Matthias_b37	2582	3	95	Rumex acetosella-type	Rumex acetosa-type	HERB
+Matthias_b37	24	7	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Matthias_b37	1072	1	3	Matricaria-type	Matricaria-type	HERB
+Matthias_b37	45	4	45	Filipendula	Filipendula	HERB
+Matthias_b37	581	1	457	Calluna	Calluna vulgaris	TRSH
+Matthias_b37	630	3	87	Ranunculus acris-type	Ranunculus acris-type	HERB
+Matthias_b37	821	28	462	Centaurea cyanus	Centaurea cyanus-type	HERB
+Matthias_b37	115	1	115	Trifolium	Trifolium-type	HERB
+Matthias_b37	493	1	493	Valeriana	Valeriana	HERB
+Matthias_b37	154	16	154	Ulmus	Ulmus/Zelkova	TRSH
+Matthias_b37	189	196	189	Quercus	Quercus	TRSH
+Matthias_b37	190	45	190	Fraxinus	Fraxinus	TRSH
+Matthias_b37	192	33	42	Fagus	Fagus	TRSH
+Matthias_b37	755	1	755	Cornus	Cornus	TRSH
+Matthias_b37	1406	9	153	Tilia cordata	Tilia cordata-type	TRSH
+Matthias_b37	1407	6	1407	Tilia platyphyllos	Tilia platyphyllos-type	TRSH
+Matthias_b37	3006	6	490	Sorbus-group	Rosaceae (non-operculate)	TRSH

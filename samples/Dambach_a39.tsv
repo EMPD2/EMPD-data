@@ -1,39 +1,39 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Dambach_a39	Alnus	Alnus	TRSH	48	8.0536913
-Dambach_a39	Betula	Betula	TRSH	15	2.5167785
-Dambach_a39	Carpinus	Carpinus betulus	TRSH	6	1.0067114
-Dambach_a39	Corylus	Corylus	TRSH	7	1.1744966
-Dambach_a39	Fagus	Fagus	TRSH	6	1.0067114
-Dambach_a39	Fraxinus	Fraxinus	TRSH	46	7.7181208
-Dambach_a39	Juglans	Juglans	TRSH	1	0.16778523
-Dambach_a39	Larix	Larix/Pseudotsuga	TRSH	2	0.33557047
-Dambach_a39	Picea	Picea	TRSH	114	19.127517
-Dambach_a39	Pinus	Pinus	TRSH	218	36.577181
-Dambach_a39	Quercus	Quercus	TRSH	8	1.3422819
-Dambach_a39	Rosaceae	Rosaceae	TRSH	4	0.67114094
-Dambach_a39	Salix	Salix	TRSH	16	2.6845638
-Dambach_a39	Tilia	Tilia	TRSH	24	4.0268456
-Dambach_a39	Ulmus	Ulmus/Zelkova	TRSH	2	0.33557047
-Dambach_a39	Viburnum	Viburnum	TRSH	1	0.16778523
-Dambach_a39	Hedera helix	Hedera	LIAN	1	0.16778523
-Dambach_a39	Umbelliferae	Apiaceae	HERB	1	0.16778523
-Dambach_a39	Asteroideae	Asteraceae subf. Asteroideae	HERB	1	0.16778523
-Dambach_a39	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	3	0.5033557
-Dambach_a39	Boraginaceae	Boraginaceae	HERB	1	0.16778523
-Dambach_a39	Brassicaceae	Brassicaceae	HERB	2	0.33557047
-Dambach_a39	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	3	0.5033557
-Dambach_a39	Cerealia-type	Cerealia-type	HERB	11	1.8456376
-Dambach_a39	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	6	1.0067114
-Dambach_a39	Plantago lanceolata	Plantago lanceolata-type	HERB	3	0.5033557
-Dambach_a39	Plantago major/P. media	Plantago major/P. media-type	HERB	1	0.16778523
-Dambach_a39	Gramineae	Poaceae	HERB	16	2.6845638
-Dambach_a39	Ranunculaceae	Ranunculaceae	HERB	5	0.83892617
-Dambach_a39	Ranunculus-type	Ranunculus-type	HERB	5	0.83892617
-Dambach_a39	Rubiaceae	Rubiaceae	HERB	1	0.16778523
-Dambach_a39	Rumex acetosa-type	Rumex acetosa-type	HERB	4	0.67114094
-Dambach_a39	Scrophularia/Verbascum	Scrophularia-type	HERB	5	0.83892617
-Dambach_a39	Polypodiaceae	Monolete fern spores	VACR	7	1.1744966
-Dambach_a39	Sphagnum	Sphagnum	BRYO	2	0.33557047
-Dambach_a39	Cyperaceae	Cyperaceae	AQUA	7	1.1744966
-Dambach_a39	Indeterminable: unknown	Indeterminable: unknown	INUN	4	
-Dambach_a39	Varia	Indeterminable: unknown	INUN	2	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Dambach_a39	5	48	5	Alnus	Alnus	TRSH
+Dambach_a39	761	1	160	Asteroideae	Asteraceae subf. Asteroideae	HERB
+Dambach_a39	16	6	16	Carpinus	Carpinus betulus	TRSH
+Dambach_a39	1065	11	22	Cerealia-type	Cerealia-type	HERB
+Dambach_a39	24	6	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Dambach_a39	447	3	25	Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Dambach_a39	201	7	31	Corylus	Corylus	TRSH
+Dambach_a39	3868	7	3868	Cyperaceae	Cyperaceae	AQUA
+Dambach_a39	192	6	42	Fagus	Fagus	TRSH
+Dambach_a39	190	46	190	Fraxinus	Fraxinus	TRSH
+Dambach_a39	1601	16	80	Gramineae	Poaceae	HERB
+Dambach_a39	4078	4	177	Indeterminable: unknown	Indeterminable: unknown	INUN
+Dambach_a39	57	1	57	Juglans	Juglans	TRSH
+Dambach_a39	123	2	123	Larix	Larix/Pseudotsuga	TRSH
+Dambach_a39	75	218	75	Pinus	Pinus	TRSH
+Dambach_a39	60	3	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+Dambach_a39	4323	1	458	Plantago major/P. media	Plantago major/P. media-type	HERB
+Dambach_a39	146	7	146	Polypodiaceae	Monolete fern spores	VACR
+Dambach_a39	135	5	135	Ranunculaceae	Ranunculaceae	HERB
+Dambach_a39	2429	5	274	Ranunculus-type	Ranunculus-type	HERB
+Dambach_a39	92	4	92	Rosaceae	Rosaceae	TRSH
+Dambach_a39	93	1	93	Rubiaceae	Rubiaceae	HERB
+Dambach_a39	634	4	95	Rumex acetosa-type	Rumex acetosa-type	HERB
+Dambach_a39	99	16	99	Salix	Salix	TRSH
+Dambach_a39	4579	5	103	Scrophularia/Verbascum	Scrophularia-type	HERB
+Dambach_a39	144	2	144	Sphagnum	Sphagnum	BRYO
+Dambach_a39	187	24	187	Tilia	Tilia	TRSH
+Dambach_a39	154	2	154	Ulmus	Ulmus/Zelkova	TRSH
+Dambach_a39	590	1	6	Umbelliferae	Apiaceae	HERB
+Dambach_a39	1098	2	177	Varia	Indeterminable: unknown	INUN
+Dambach_a39	120	1	120	Viburnum	Viburnum	TRSH
+Dambach_a39	12	15	12	Betula	Betula	TRSH
+Dambach_a39	13	2	13	Brassicaceae	Brassicaceae	HERB
+Dambach_a39	18	3	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Dambach_a39	126	114	126	Picea	Picea	TRSH
+Dambach_a39	162	1	162	Boraginaceae	Boraginaceae	HERB
+Dambach_a39	189	8	189	Quercus	Quercus	TRSH
+Dambach_a39	4032	1	4031	Hedera helix	Hedera	LIAN

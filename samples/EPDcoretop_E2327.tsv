@@ -1,35 +1,35 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-EPDcoretop_E2327	Alnus	Alnus	TRSH	13	2.4667932
-EPDcoretop_E2327	Betula sect. Albae	Betula pubescens-type	TRSH	118	22.390892
-EPDcoretop_E2327	Corylus avellana	Corylus	TRSH	2	0.37950664
-EPDcoretop_E2327	Picea	Picea	TRSH	4	0.75901328
-EPDcoretop_E2327	Pinus sylvestris	Pinus sylvestris-type	TRSH	90	17.077799
-EPDcoretop_E2327	Quercus	Quercus	TRSH	9	1.7077799
-EPDcoretop_E2327	Rosaceae	Rosaceae	TRSH	29	5.5028463
-EPDcoretop_E2327	Salix	Salix	TRSH	9	1.7077799
-EPDcoretop_E2327	Tilia cordata	Tilia cordata-type	TRSH	4	0.75901328
-EPDcoretop_E2327	Ulmus	Ulmus/Zelkova	TRSH	2	0.37950664
-EPDcoretop_E2327	Apiaceae	Apiaceae	HERB	8	1.5180266
-EPDcoretop_E2327	Artemisia	Artemisia	HERB	45	8.5388994
-EPDcoretop_E2327	Asteraceae	Asteraceae	HERB	16	3.0360531
-EPDcoretop_E2327	Cichoriaceae	Asteraceae subf. Cichorioideae	HERB	14	2.6565465
-EPDcoretop_E2327	Brassicaceae	Brassicaceae	HERB	8	1.5180266
-EPDcoretop_E2327	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	4	0.75901328
-EPDcoretop_E2327	Centaurea undiff.	Centaurea	HERB	3	0.56925996
-EPDcoretop_E2327	Cerealia	Cerealia-type	HERB	14	2.6565465
-EPDcoretop_E2327	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	29	5.5028463
-EPDcoretop_E2327	Cyperaceae	Cyperaceae	HERB	38	7.2106262
-EPDcoretop_E2327	Fabaceae	Fabaceae	HERB	1	0.18975332
-EPDcoretop_E2327	Lamiaceae	Lamiaceae	HERB	1	0.18975332
-EPDcoretop_E2327	Poaceae	Poaceae	HERB	52	9.8671727
-EPDcoretop_E2327	Thalictrum	Thalictrum	HERB	1	0.18975332
-EPDcoretop_E2327	Anthoceros	Anthoceros/Phaeoceros	BRYO	1	0.18975332
-EPDcoretop_E2327	Lycopodium annotinum	Lycopodium annotinum-type	VACR	1	0.18975332
-EPDcoretop_E2327	Polypodiaceae	Monolete fern spores	VACR	8	1.5180266
-EPDcoretop_E2327	Riccia	Riccia	BRYO	2	0.37950664
-EPDcoretop_E2327	Sphagnum	Sphagnum	BRYO	1	0.18975332
-EPDcoretop_E2327	Sparganium	Sparganium-type	AQUA	1	0.18975332
-EPDcoretop_E2327	Marker (added)	Marker (added)	NOPO	12496	
-EPDcoretop_E2327	Marker (counted)	Marker (counted)	NOPO	80	
-EPDcoretop_E2327	Quantity of sample	Quantity of sample	NOPO	2	
-EPDcoretop_E2327	Tablets	Tablets	NOPO	1	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+EPDcoretop_E2327	4649	1	4649	Tablets	Tablets	NOPO
+EPDcoretop_E2327	4421	2	1756	Quantity of sample	Quantity of sample	NOPO
+EPDcoretop_E2327	4784	12496	882	Marker (added)	Marker (added)	NOPO
+EPDcoretop_E2327	4979	80	2902	Marker (counted)	Marker (counted)	NOPO
+EPDcoretop_E2327	5	13	5	Alnus	Alnus	TRSH
+EPDcoretop_E2327	6	8	6	Apiaceae	Apiaceae	HERB
+EPDcoretop_E2327	7	45	7	Artemisia	Artemisia	HERB
+EPDcoretop_E2327	13	8	13	Brassicaceae	Brassicaceae	HERB
+EPDcoretop_E2327	18	4	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+EPDcoretop_E2327	22	14	22	Cerealia	Cerealia-type	HERB
+EPDcoretop_E2327	24	29	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+EPDcoretop_E2327	31	2	31	Corylus avellana	Corylus	TRSH
+EPDcoretop_E2327	33	38	33	Cyperaceae	Cyperaceae	HERB
+EPDcoretop_E2327	41	1	41	Fabaceae	Fabaceae	HERB
+EPDcoretop_E2327	59	1	59	Lamiaceae	Lamiaceae	HERB
+EPDcoretop_E2327	80	52	80	Poaceae	Poaceae	HERB
+EPDcoretop_E2327	99	9	99	Salix	Salix	TRSH
+EPDcoretop_E2327	112	1	112	Thalictrum	Thalictrum	HERB
+EPDcoretop_E2327	126	4	126	Picea	Picea	TRSH
+EPDcoretop_E2327	128	118	128	Betula sect. Albae	Betula pubescens-type	TRSH
+EPDcoretop_E2327	134	16	134	Asteraceae	Asteraceae	HERB
+EPDcoretop_E2327	144	1	144	Sphagnum	Sphagnum	BRYO
+EPDcoretop_E2327	146	8	146	Polypodiaceae	Monolete fern spores	VACR
+EPDcoretop_E2327	154	2	154	Ulmus	Ulmus/Zelkova	TRSH
+EPDcoretop_E2327	189	9	189	Quercus	Quercus	TRSH
+EPDcoretop_E2327	495	2	495	Riccia	Riccia	BRYO
+EPDcoretop_E2327	658	1	176	Sparganium	Sparganium-type	AQUA
+EPDcoretop_E2327	788	90	125	Pinus sylvestris	Pinus sylvestris-type	TRSH
+EPDcoretop_E2327	965	1	183	Lycopodium annotinum	Lycopodium annotinum-type	VACR
+EPDcoretop_E2327	1126	14	25	Cichoriaceae	Asteraceae subf. Cichorioideae	HERB
+EPDcoretop_E2327	1378	1	1378	Anthoceros	Anthoceros/Phaeoceros	BRYO
+EPDcoretop_E2327	1406	4	153	Tilia cordata	Tilia cordata-type	TRSH
+EPDcoretop_E2327	3682	3	267	Centaurea undiff.	Centaurea	HERB
+EPDcoretop_E2327	92	29	92	Rosaceae	Rosaceae	TRSH

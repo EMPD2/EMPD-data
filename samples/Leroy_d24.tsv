@@ -1,32 +1,32 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Leroy_d24	Alnus	Alnus	TRSH	1	0.36764706
-Leroy_d24	Fagus	Fagus	TRSH	2	0.73529412
-Leroy_d24	Fraxinus excelsior-type	Fraxinus excelsior-type	TRSH	1	0.36764706
-Leroy_d24	Juglans	Juglans	TRSH	1	0.36764706
-Leroy_d24	Pinus	Pinus	TRSH	83	30.514706
-Leroy_d24	Platanus	Platanus	TRSH	1	0.36764706
-Leroy_d24	Quercus deciduous	Quercus robur-type	TRSH	9	3.3088235
-Leroy_d24	Salix	Salix	TRSH	2	0.73529412
-Leroy_d24	Apiaceae	Apiaceae	HERB	1	0.36764706
-Leroy_d24	Artemisia	Artemisia	HERB	2	0.73529412
-Leroy_d24	Asteraceae Tubuliflorae	Asteraceae subf. Asteroideae	HERB	9	3.3088235
-Leroy_d24	Asteraceae Liguliflorae	Asteraceae subf. Cichorioideae	HERB	40	14.705882
-Leroy_d24	Boraginaceae	Boraginaceae	HERB	1	0.36764706
-Leroy_d24	Brassicaceae	Brassicaceae	HERB	1	0.36764706
-Leroy_d24	Amaranthaceae/Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	5	1.8382353
-Leroy_d24	Cistus	Cistus	HERB	1	0.36764706
-Leroy_d24	Mercurialis annua	Mercurialis annua	HERB	1	0.36764706
-Leroy_d24	Poaceae	Poaceae	HERB	87	31.985294
-Leroy_d24	Poaceae (37 um)	Poaceae	HERB	7	2.5735294
-Leroy_d24	Polygonum aviculare/bistorta-type	Polygonum-type (tricolporate)	HERB	14	5.1470588
-Leroy_d24	Ranunculaceae	Ranunculaceae	HERB	1	0.36764706
-Leroy_d24	Monolete psilate	Monolete fern spores	VACR	1	0.36764706
-Leroy_d24	Trilete spores (psilate)	Trilete spore(s)	VACR	1	0.36764706
-Leroy_d24	Salvinia/Azolla	Azolla/Salvinia	AQUA	4	1.4705882
-Leroy_d24	Cyperaceae	Cyperaceae	AQUA	54	19.852941
-Leroy_d24	Myriophyllum verticillatum	Myriophyllum verticillatum	AQUA	1	0.36764706
-Leroy_d24	Typha (tetrad)	Typha latifolia-type	AQUA	2	0.73529412
-Leroy_d24	Typha/Sparganium	Typha/Sparganium	AQUA	12	4.4117647
-Leroy_d24	Indeterminable: unknown	Indeterminable: unknown	INUN	8	
-Leroy_d24	Tetraploa	Tetraploa	FUNG	29	
-Leroy_d24	Thecaphora	Thecaphora	FUNG	2	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Leroy_d24	5	1	5	Alnus	Alnus	TRSH
+Leroy_d24	3525	5	24	Amaranthaceae/Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Leroy_d24	6	1	6	Apiaceae	Apiaceae	HERB
+Leroy_d24	1337	40	25	Asteraceae Liguliflorae	Asteraceae subf. Cichorioideae	HERB
+Leroy_d24	1927	9	160	Asteraceae Tubuliflorae	Asteraceae subf. Asteroideae	HERB
+Leroy_d24	13	1	13	Brassicaceae	Brassicaceae	HERB
+Leroy_d24	3796	1	3796	Cistus	Cistus	HERB
+Leroy_d24	3868	54	3868	Cyperaceae	Cyperaceae	AQUA
+Leroy_d24	192	2	42	Fagus	Fagus	TRSH
+Leroy_d24	1047	1	47	Fraxinus excelsior-type	Fraxinus excelsior-type	TRSH
+Leroy_d24	4078	8	177	Indeterminable: unknown	Indeterminable: unknown	INUN
+Leroy_d24	57	1	57	Juglans	Juglans	TRSH
+Leroy_d24	66	1	66	Mercurialis annua	Mercurialis annua	HERB
+Leroy_d24	1921	1	146	Monolete psilate	Monolete fern spores	VACR
+Leroy_d24	1575	1	1262	Myriophyllum verticillatum	Myriophyllum verticillatum	AQUA
+Leroy_d24	75	83	75	Pinus	Pinus	TRSH
+Leroy_d24	78	1	78	Platanus	Platanus	TRSH
+Leroy_d24	80	87	80	Poaceae	Poaceae	HERB
+Leroy_d24	4338	7	80	Poaceae (37 um)	Poaceae	HERB
+Leroy_d24	4364	14	1505	Polygonum aviculare/bistorta-type	Polygonum-type (tricolporate)	HERB
+Leroy_d24	437	9	86	Quercus deciduous	Quercus robur-type	TRSH
+Leroy_d24	99	2	99	Salix	Salix	TRSH
+Leroy_d24	836	29	836	Tetraploa	Tetraploa	FUNG
+Leroy_d24	2096	2	2096	Thecaphora	Thecaphora	FUNG
+Leroy_d24	4687	1	279	Trilete spores (psilate)	Trilete spore(s)	VACR
+Leroy_d24	4703	2	914	Typha (tetrad)	Typha latifolia-type	AQUA
+Leroy_d24	808	12	734	Typha/Sparganium	Typha/Sparganium	AQUA
+Leroy_d24	7	2	7	Artemisia	Artemisia	HERB
+Leroy_d24	135	1	135	Ranunculaceae	Ranunculaceae	HERB
+Leroy_d24	162	1	162	Boraginaceae	Boraginaceae	HERB
+Leroy_d24	4535	4	4535	Salvinia/Azolla	Azolla/Salvinia	AQUA

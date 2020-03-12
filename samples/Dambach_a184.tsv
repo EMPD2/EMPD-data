@@ -1,37 +1,37 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Dambach_a184	Abies	Abies	TRSH	12	1.7191977
-Dambach_a184	Alnus	Alnus	TRSH	43	6.1604585
-Dambach_a184	Betula	Betula	TRSH	141	20.200573
-Dambach_a184	Carpinus	Carpinus betulus	TRSH	2	0.28653295
-Dambach_a184	Corylus	Corylus	TRSH	19	2.722063
-Dambach_a184	Fagus	Fagus	TRSH	8	1.1461318
-Dambach_a184	Fraxinus	Fraxinus	TRSH	2	0.28653295
-Dambach_a184	Picea	Picea	TRSH	45	6.4469914
-Dambach_a184	Pinus	Pinus	TRSH	88	12.60745
-Dambach_a184	Populus	Populus	TRSH	1	0.14326648
-Dambach_a184	Quercus	Quercus	TRSH	8	1.1461318
-Dambach_a184	Rosaceae	Rosaceae	TRSH	1	0.14326648
-Dambach_a184	Salix	Salix	TRSH	2	0.28653295
-Dambach_a184	Tilia	Tilia	TRSH	3	0.42979943
-Dambach_a184	Umbelliferae	Apiaceae	HERB	3	0.42979943
-Dambach_a184	Artemisia	Artemisia	HERB	1	0.14326648
-Dambach_a184	Asteroideae	Asteraceae subf. Asteroideae	HERB	4	0.5730659
-Dambach_a184	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	4	0.5730659
-Dambach_a184	Brassicaceae	Brassicaceae	HERB	2	0.28653295
-Dambach_a184	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	2	0.28653295
-Dambach_a184	Cerealia-type	Cerealia-type	HERB	61	8.739255
-Dambach_a184	Plantago lanceolata	Plantago lanceolata-type	HERB	5	0.71633238
-Dambach_a184	Gramineae	Poaceae	HERB	175	25.071633
-Dambach_a184	Polygonum bistorta	Polygonum bistorta	HERB	2	0.28653295
-Dambach_a184	Ranunculaceae	Ranunculaceae	HERB	10	1.4326648
-Dambach_a184	Ranunculus-type	Ranunculus-type	HERB	5	0.71633238
-Dambach_a184	Rubiaceae	Rubiaceae	HERB	2	0.28653295
-Dambach_a184	Rumex acetosa-type	Rumex acetosa-type	HERB	4	0.5730659
-Dambach_a184	Scrophularia/Verbascum	Scrophularia-type	HERB	1	0.14326648
-Dambach_a184	Urtica	Urtica	HERB	1	0.14326648
-Dambach_a184	Valeriana-type	Valerianaceae	HERB	2	0.28653295
-Dambach_a184	Polypodiaceae	Monolete fern spores	VACR	39	5.5873926
-Dambach_a184	Cyperaceae	Cyperaceae	AQUA	44	6.3037249
-Dambach_a184	Fabaceae	Fabaceae	INUN	2	
-Dambach_a184	Indeterminable: unknown	Indeterminable: unknown	INUN	8	
-Dambach_a184	Varia	Indeterminable: unknown	INUN	1	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Dambach_a184	5	43	5	Alnus	Alnus	TRSH
+Dambach_a184	7	1	7	Artemisia	Artemisia	HERB
+Dambach_a184	761	4	160	Asteroideae	Asteraceae subf. Asteroideae	HERB
+Dambach_a184	12	141	12	Betula	Betula	TRSH
+Dambach_a184	13	2	13	Brassicaceae	Brassicaceae	HERB
+Dambach_a184	1065	61	22	Cerealia-type	Cerealia-type	HERB
+Dambach_a184	201	19	31	Corylus	Corylus	TRSH
+Dambach_a184	3958	2	3958	Fabaceae	Fabaceae	INUN
+Dambach_a184	190	2	190	Fraxinus	Fraxinus	TRSH
+Dambach_a184	1601	175	80	Gramineae	Poaceae	HERB
+Dambach_a184	4078	8	177	Indeterminable: unknown	Indeterminable: unknown	INUN
+Dambach_a184	75	88	75	Pinus	Pinus	TRSH
+Dambach_a184	625	2	625	Polygonum bistorta	Polygonum bistorta	HERB
+Dambach_a184	146	39	146	Polypodiaceae	Monolete fern spores	VACR
+Dambach_a184	81	1	81	Populus	Populus	TRSH
+Dambach_a184	189	8	189	Quercus	Quercus	TRSH
+Dambach_a184	135	10	135	Ranunculaceae	Ranunculaceae	HERB
+Dambach_a184	2429	5	274	Ranunculus-type	Ranunculus-type	HERB
+Dambach_a184	92	1	92	Rosaceae	Rosaceae	TRSH
+Dambach_a184	93	2	93	Rubiaceae	Rubiaceae	HERB
+Dambach_a184	634	4	95	Rumex acetosa-type	Rumex acetosa-type	HERB
+Dambach_a184	4579	1	103	Scrophularia/Verbascum	Scrophularia-type	HERB
+Dambach_a184	187	3	187	Tilia	Tilia	TRSH
+Dambach_a184	590	3	6	Umbelliferae	Apiaceae	HERB
+Dambach_a184	652	1	652	Urtica	Urtica	HERB
+Dambach_a184	1098	1	177	Varia	Indeterminable: unknown	INUN
+Dambach_a184	16	2	16	Carpinus	Carpinus betulus	TRSH
+Dambach_a184	18	2	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Dambach_a184	60	5	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+Dambach_a184	99	2	99	Salix	Salix	TRSH
+Dambach_a184	126	45	126	Picea	Picea	TRSH
+Dambach_a184	192	8	42	Fagus	Fagus	TRSH
+Dambach_a184	447	4	25	Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Dambach_a184	560	12	321	Abies	Abies	TRSH
+Dambach_a184	3868	44	3868	Cyperaceae	Cyperaceae	AQUA
+Dambach_a184	4736	2	174	Valeriana-type	Valerianaceae	HERB

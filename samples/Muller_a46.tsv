@@ -1,22 +1,22 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Muller_a46	Alnus fruticosa	Alnus viridis	TRSH	8	2.4767802
-Muller_a46	Betula sect. Nanae	Betula nana-type	DWAR	71	21.981424
-Muller_a46	Ericaceae empetrum-type	Empetrum nigrum	DWAR	2	0.61919505
-Muller_a46	Ericaceae	Ericales (tetrad)	DWAR	17	5.2631579
-Muller_a46	Larix	Larix/Pseudotsuga	TRSH	18	5.5727554
-Muller_a46	Picea	Picea	TRSH	2	0.61919505
-Muller_a46	Pinaceae	Pinaceae	TRSH	1	0.30959752
-Muller_a46	Pinus haploxylon-type	Pinus cembra-type	TRSH	1	0.30959752
-Muller_a46	Pinus diploxylon-type	Pinus sylvestris-type	TRSH	179	55.417957
-Muller_a46	Ericaceae vaccinium-type	Vaccinium	DWAR	10	3.0959752
-Muller_a46	Cyperaceae	Cyperaceae	HERB	4	1.2383901
-Muller_a46	Gentianaceae	Gentianaceae	HERB	1	0.30959752
-Muller_a46	Poaceae	Poaceae	HERB	8	2.4767802
-Muller_a46	Equisetum	Equisetum	VACR	1	0.30959752
-Muller_a46	Pollen indeterminata	Indeterminable: unknown	INUN	1	
-Muller_a46	Spores indeterminata	Indeterminable: unknown	INUN	23	
-Muller_a46	Pollen, terrestrial	Indeterminable: unknown	INUN	323	
-Muller_a46	Lycopodium spores counted	Lycopodium (counted)	NOPO	152	
-Muller_a46	Microthyrium	Microthyrium	FUNG	3	
-Muller_a46	Pollen per unit sediment mass	Pollen per unit sediment mass (/g)	NOPO	4539	
-Muller_a46	Sphagnum	Sphagnum	NOPO	4	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Muller_a46	123	18	123	Larix	Larix/Pseudotsuga	TRSH
+Muller_a46	126	2	126	Picea	Picea	TRSH
+Muller_a46	127	71	127	Betula sect. Nanae	Betula nana-type	DWAR
+Muller_a46	1050	1	124	Pinus haploxylon-type	Pinus cembra-type	TRSH
+Muller_a46	33	4	33	Cyperaceae	Cyperaceae	HERB
+Muller_a46	80	8	80	Poaceae	Poaceae	HERB
+Muller_a46	130	17	130	Ericaceae	Ericales (tetrad)	DWAR
+Muller_a46	2900	1	177	Pollen indeterminata	Indeterminable: unknown	INUN
+Muller_a46	2344	3	2344	Microthyrium	Microthyrium	FUNG
+Muller_a46	2999	23	177	Spores indeterminata	Indeterminable: unknown	INUN
+Muller_a46	144	4	144	Sphagnum	Sphagnum	BRYO
+Muller_a46	145	1	145	Equisetum	Equisetum	VACR
+Muller_a46	2970	323	177	Pollen, terrestrial	Indeterminable: unknown	INUN
+Muller_a46	3000	152	559	Lycopodium spores counted	Lycopodium (counted)	NOPO
+Muller_a46	3001	4539	3001	Pollen per unit sediment mass	Pollen per unit sediment mass (/g)	NOPO
+Muller_a46	525	1	525	Gentianaceae	Gentianaceae	HERB
+Muller_a46	1049	179	125	Pinus diploxylon-type	Pinus sylvestris-type	TRSH
+Muller_a46	1944	1	1944	Pinaceae	Pinaceae	TRSH
+Muller_a46	2962	8	129	Alnus fruticosa	Alnus viridis	TRSH
+Muller_a46	2986	2	739	Ericaceae empetrum-type	Empetrum nigrum	DWAR
+Muller_a46	2987	10	540	Ericaceae vaccinium-type	Vaccinium	TRSH

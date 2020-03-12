@@ -1,39 +1,39 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Bjune_a2	Alnus	Alnus	TRSH	3	0.53285968
-Bjune_a2	Betula	Betula	TRSH	184	32.68206
-Bjune_a2	Betula/Corylus/Myrica	Betula/Corylus/Myrica	TRSH	1	0.17761989
-Bjune_a2	Corylus avellana	Corylus	TRSH	1	0.17761989
-Bjune_a2	Empetrum nigrum	Empetrum nigrum	DWAR	30	5.3285968
-Bjune_a2	Ericaceae-type	Ericales (tetrad)	DWAR	16	2.8419183
-Bjune_a2	Juniperus communis	Juniperus communis-type	TRSH	9	1.598579
-Bjune_a2	Picea	Picea	TRSH	6	1.0657194
-Bjune_a2	Pinus sylvestris	Pinus sylvestris-type	TRSH	177	31.438721
-Bjune_a2	Salix undiff.	Salix	TRSH	1	0.17761989
-Bjune_a2	Vaccinium-type	Vaccinium-type	DWAR	4	0.71047957
-Bjune_a2	Angelica-type	Apiaceae	HERB	1	0.17761989
-Bjune_a2	Umbelliferae undiff.	Apiaceae	HERB	1	0.17761989
-Bjune_a2	Artemisia	Artemisia	HERB	1	0.17761989
-Bjune_a2	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.17761989
-Bjune_a2	Geranium sylvaticum-type	Geranium pratense-type	HERB	1	0.17761989
-Bjune_a2	Gnaphalium-type	Gnaphalium-type	HERB	1	0.17761989
-Bjune_a2	Gramineae undiff.	Poaceae	HERB	60	10.657194
-Bjune_a2	Rubus chamaemorus	Rubus chamaemorus	HERB	1	0.17761989
-Bjune_a2	Rumex acetosa-type/R. acetosella-type	Rumex acetosa-type	HERB	3	0.53285968
-Bjune_a2	Rumex acetosa	Rumex acetosa-type	HERB	5	0.88809947
-Bjune_a2	Rumex longifolius-type	Rumex aquaticus-type	HERB	1	0.17761989
-Bjune_a2	Saxifraga oppositifolia-type	Saxifraga oppositifolia-type	HERB	1	0.17761989
-Bjune_a2	Solidago-type	Senecio-type	HERB	1	0.17761989
-Bjune_a2	Dryopteris-type	Dryopteris-type	VACR	28	4.973357
-Bjune_a2	Equisetum	Equisetum	VACR	4	0.71047957
-Bjune_a2	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR	7	1.2433393
-Bjune_a2	Huperzia selago	Huperzia selago	VACR	2	0.35523979
-Bjune_a2	Diphasiastrum	Lycopodium clavatum-type	VACR	1	0.17761989
-Bjune_a2	Selaginella selaginoides	Selaginella selaginoides	VACR	1	0.17761989
-Bjune_a2	Sphagnum	Sphagnum	BRYO	9	1.598579
-Bjune_a2	Athyrium distentifolium-type	Woodsia-type	VACR	1	0.17761989
-Bjune_a2	Botryococcus	Botryococcus	ALGA	2	0.35523979
-Bjune_a2	Carex-type	Carex	AQUA	7	1.2433393
-Bjune_a2	Cyperaceae undiff.	Cyperaceae	AQUA	1	0.17761989
-Bjune_a2	Indeterminable: broken	Indeterminable: broken	INUN	1	
-Bjune_a2	Indeterminable: corroded	Indeterminable: corroded	INUN	3	
-Bjune_a2	Indeterminable: crumpled	Indeterminable: crumpled	INUN	2	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Bjune_a2	5	3	5	Alnus	Alnus	TRSH
+Bjune_a2	3541	1	6	Angelica-type	Apiaceae	HERB
+Bjune_a2	12	184	12	Betula	Betula	TRSH
+Bjune_a2	663	2	663	Botryococcus	Botryococcus	ALGA
+Bjune_a2	3665	7	3663	Carex-type	Carex	AQUA
+Bjune_a2	24	1	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Bjune_a2	3873	1	3868	Cyperaceae undiff.	Cyperaceae	AQUA
+Bjune_a2	1247	28	772	Dryopteris-type	Dryopteris-type	VACR
+Bjune_a2	939	30	739	Empetrum nigrum	Empetrum nigrum	DWAR
+Bjune_a2	145	4	145	Equisetum	Equisetum	VACR
+Bjune_a2	3944	16	130	Ericaceae-type	Ericales (tetrad)	DWAR
+Bjune_a2	4004	1	4004	Geranium sylvaticum-type	Geranium pratense-type	HERB
+Bjune_a2	4072	1	998	Indeterminable: broken	Indeterminable: broken	INUN
+Bjune_a2	4074	3	1324	Indeterminable: corroded	Indeterminable: corroded	INUN
+Bjune_a2	4075	2	1925	Indeterminable: crumpled	Indeterminable: crumpled	INUN
+Bjune_a2	941	9	58	Juniperus communis	Juniperus communis-type	TRSH
+Bjune_a2	2112	1	172	Rubus chamaemorus	Rubus chamaemorus	HERB
+Bjune_a2	95	5	95	Rumex acetosa	Rumex acetosa-type	HERB
+Bjune_a2	4504	3	95	Rumex acetosa-type/R. acetosella-type	Rumex acetosa-type	HERB
+Bjune_a2	4514	1	1084	Rumex longifolius-type	Rumex aquaticus-type	HERB
+Bjune_a2	1400	1	99	Salix undiff.	Salix	TRSH
+Bjune_a2	874	1	185	Selaginella selaginoides	Selaginella selaginoides	VACR
+Bjune_a2	2428	1	133	Solidago-type	Senecio-type	HERB
+Bjune_a2	144	9	144	Sphagnum	Sphagnum	BRYO
+Bjune_a2	4711	1	6	Umbelliferae undiff.	Apiaceae	HERB
+Bjune_a2	4730	4	4730	Vaccinium-type	Vaccinium-type	DWAR
+Bjune_a2	7	1	7	Artemisia	Artemisia	HERB
+Bjune_a2	31	1	31	Corylus avellana	Corylus	TRSH
+Bjune_a2	126	6	126	Picea	Picea	TRSH
+Bjune_a2	788	177	125	Pinus sylvestris	Pinus sylvestris-type	TRSH
+Bjune_a2	956	1	640	Saxifraga oppositifolia-type	Saxifraga oppositifolia-type	HERB
+Bjune_a2	964	2	184	Huperzia selago	Huperzia selago	VACR
+Bjune_a2	2121	7	1320	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR
+Bjune_a2	2924	1	2318	Gnaphalium-type	Gnaphalium-type	HERB
+Bjune_a2	3595	1	968	Athyrium distentifolium-type	Woodsia-type	VACR
+Bjune_a2	3619	1	3619	Betula/Corylus/Myrica	Betula/Corylus/Myrica	TRSH
+Bjune_a2	3894	1	182	Diphasiastrum	Lycopodium clavatum-type	VACR
+Bjune_a2	4018	60	80	Gramineae undiff.	Poaceae	HERB

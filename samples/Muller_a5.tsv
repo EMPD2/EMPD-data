@@ -1,24 +1,24 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Muller_a5	Alnus fruticosa	Alnus viridis	TRSH	2	0.58823529
-Muller_a5	Betula sect. Nanae	Betula nana-type	DWAR	117	34.411765
-Muller_a5	Pinaceae	Pinaceae	TRSH	4	1.1764706
-Muller_a5	Pinus haploxylon-type	Pinus cembra-type	TRSH	2	0.58823529
-Muller_a5	Salix	Salix	TRSH	19	5.5882353
-Muller_a5	Ericaceae vaccinium-type	Vaccinium	DWAR	18	5.2941176
-Muller_a5	Cyperaceae	Cyperaceae	HERB	68	20
-Muller_a5	Poaceae	Poaceae	HERB	100	29.411765
-Muller_a5	Ranunculaceae	Ranunculaceae	HERB	2	0.58823529
-Muller_a5	Saxifragaceae	Saxifragaceae	HERB	1	0.29411765
-Muller_a5	Asteraceae senecio-type	Senecio-type	HERB	1	0.29411765
-Muller_a5	Valeriana	Valeriana	HERB	1	0.29411765
-Muller_a5	Equisetum	Equisetum	VACR	2	0.58823529
-Muller_a5	Lycopodium annotinum	Lycopodium annotinum-type	VACR	2	0.58823529
-Muller_a5	Polypodiaceae	Monolete fern spores	VACR	1	0.29411765
-Muller_a5	Pollen indeterminata	Indeterminable: unknown	INUN	3	
-Muller_a5	scalariform perforation plate	Indeterminable: unknown	INUN	3	
-Muller_a5	Pollen, terrestrial	Indeterminable: unknown	INUN	338	
-Muller_a5	Lycopodium spores counted	Lycopodium (counted)	NOPO	354	
-Muller_a5	Microthyrium	Microthyrium	FUNG	8	
-Muller_a5	Podospora	Podospora-type	FUNG	3	
-Muller_a5	Pollen per unit sediment mass	Pollen per unit sediment mass (/g)	NOPO	2039	
-Muller_a5	Sphagnum	Sphagnum	NOPO	1	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Muller_a5	1944	4	1944	Pinaceae	Pinaceae	TRSH
+Muller_a5	99	19	99	Salix	Salix	TRSH
+Muller_a5	127	117	127	Betula sect. Nanae	Betula nana-type	DWAR
+Muller_a5	33	68	33	Cyperaceae	Cyperaceae	HERB
+Muller_a5	80	100	80	Poaceae	Poaceae	HERB
+Muller_a5	2967	1	133	Asteraceae senecio-type	Senecio-type	HERB
+Muller_a5	2900	3	177	Pollen indeterminata	Indeterminable: unknown	INUN
+Muller_a5	2987	18	540	Ericaceae vaccinium-type	Vaccinium	TRSH
+Muller_a5	135	2	135	Ranunculaceae	Ranunculaceae	HERB
+Muller_a5	145	2	145	Equisetum	Equisetum	VACR
+Muller_a5	493	1	493	Valeriana	Valeriana	HERB
+Muller_a5	639	1	639	Saxifragaceae	Saxifragaceae	HERB
+Muller_a5	2344	8	2344	Microthyrium	Microthyrium	FUNG
+Muller_a5	671	3	558	Podospora	Podospora-type	FUNG
+Muller_a5	2997	3	177	scalariform perforation plate	Indeterminable: unknown	INUN
+Muller_a5	2970	338	177	Pollen, terrestrial	Indeterminable: unknown	INUN
+Muller_a5	144	1	144	Sphagnum	Sphagnum	BRYO
+Muller_a5	146	1	146	Polypodiaceae	Monolete fern spores	VACR
+Muller_a5	3000	354	559	Lycopodium spores counted	Lycopodium (counted)	NOPO
+Muller_a5	3001	2039	3001	Pollen per unit sediment mass	Pollen per unit sediment mass (/g)	NOPO
+Muller_a5	965	2	183	Lycopodium annotinum	Lycopodium annotinum-type	VACR
+Muller_a5	1050	2	124	Pinus haploxylon-type	Pinus cembra-type	TRSH
+Muller_a5	2962	2	129	Alnus fruticosa	Alnus viridis	TRSH

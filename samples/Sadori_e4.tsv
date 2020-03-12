@@ -1,37 +1,37 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Sadori_e4	Alnus	Alnus	TRSH	2	0.60240964
-Sadori_e4	Betula	Betula	TRSH	1	0.30120482
-Sadori_e4	Carpinus betulus	Carpinus betulus	TRSH	1	0.30120482
-Sadori_e4	Cedrus	Cedrus	TRSH	10	3.0120482
-Sadori_e4	Corylus	Corylus	TRSH	5	1.5060241
-Sadori_e4	Ericaceae	Ericales (tetrad)	DWAR	2	0.60240964
-Sadori_e4	Juglans	Juglans	TRSH	1	0.30120482
-Sadori_e4	Cupressus-type	Juniperus-type	TRSH	11	3.313253
-Sadori_e4	Olea	Olea europaea	TRSH	3	0.90361446
-Sadori_e4	Ostrya	Ostrya/Carpinus orientalis	TRSH	8	2.4096386
-Sadori_e4	Picea	Picea	TRSH	1	0.30120482
-Sadori_e4	Pinus	Pinus	TRSH	197	59.337349
-Sadori_e4	Quercus evergreeen	Quercus ilex-type	TRSH	39	11.746988
-Sadori_e4	Quercus deciduous	Quercus robur-type	TRSH	1	0.30120482
-Sadori_e4	Rhamnus	Rhamnus-type	TRSH	2	0.60240964
-Sadori_e4	Ulmus	Ulmus/Zelkova	TRSH	1	0.30120482
-Sadori_e4	Hedera	Hedera	LIAN	1	0.30120482
-Sadori_e4	Acanthus mollis	Acanthus	HERB	2	0.60240964
-Sadori_e4	Umbelliferae	Apiaceae	HERB	1	0.30120482
-Sadori_e4	Asteroideae	Asteraceae subf. Asteroideae	HERB	3	0.90361446
-Sadori_e4	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	4	1.2048193
-Sadori_e4	Cruciferae	Brassicaceae	HERB	11	3.313253
-Sadori_e4	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	3	0.90361446
-Sadori_e4	Cerealia	Cerealia-type	HERB	1	0.30120482
-Sadori_e4	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	6	1.8072289
-Sadori_e4	Filipendula	Filipendula	HERB	1	0.30120482
-Sadori_e4	Liliales	Liliaceae-type	HERB	2	0.60240964
-Sadori_e4	Plantago	Plantago	HERB	1	0.30120482
-Sadori_e4	Gramineae	Poaceae	HERB	2	0.60240964
-Sadori_e4	Rumex	Rumex/Oxyria	HERB	3	0.90361446
-Sadori_e4	Urticaceae	Urticaceae	HERB	6	1.8072289
-Sadori_e4	Cyperaceae	Cyperaceae	AQUA	1	0.30120482
-Sadori_e4	cf. Sedum	Indeterminable: unknown	INUN	1	
-Sadori_e4	Indeterminable: unknown	Indeterminable: unknown	INUN	11	
-Sadori_e4	Lycopodium (added)	Lycopodium (added)	NOPO	54000	
-Sadori_e4	Lycopodium (counted)	Lycopodium (counted)	NOPO	278	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Sadori_e4	3493	2	1	Acanthus mollis	Acanthus	HERB
+Sadori_e4	5	2	5	Alnus	Alnus	TRSH
+Sadori_e4	761	3	160	Asteroideae	Asteraceae subf. Asteroideae	HERB
+Sadori_e4	563	1	16	Carpinus betulus	Carpinus betulus	TRSH
+Sadori_e4	576	10	340	Cedrus	Cedrus	TRSH
+Sadori_e4	3752	1	177	cf. Sedum	Indeterminable: unknown	INUN
+Sadori_e4	24	6	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Sadori_e4	447	4	25	Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Sadori_e4	201	5	31	Corylus	Corylus	TRSH
+Sadori_e4	482	11	13	Cruciferae	Brassicaceae	HERB
+Sadori_e4	3863	11	203	Cupressus-type	Juniperus-type	TRSH
+Sadori_e4	3868	1	3868	Cyperaceae	Cyperaceae	AQUA
+Sadori_e4	45	1	45	Filipendula	Filipendula	HERB
+Sadori_e4	1601	2	80	Gramineae	Poaceae	HERB
+Sadori_e4	4031	1	4031	Hedera	Hedera	LIAN
+Sadori_e4	4078	11	177	Indeterminable: unknown	Indeterminable: unknown	INUN
+Sadori_e4	57	1	57	Juglans	Juglans	TRSH
+Sadori_e4	4132	2	62	Liliales	Liliaceae-type	HERB
+Sadori_e4	692	54000	692	Lycopodium (added)	Lycopodium (added)	NOPO
+Sadori_e4	559	278	559	Lycopodium (counted)	Lycopodium (counted)	NOPO
+Sadori_e4	442	3	68	Olea	Olea europaea	TRSH
+Sadori_e4	571	8	70	Ostrya	Ostrya/Carpinus orientalis	TRSH
+Sadori_e4	126	1	126	Picea	Picea	TRSH
+Sadori_e4	75	197	75	Pinus	Pinus	TRSH
+Sadori_e4	724	1	270	Plantago	Plantago	HERB
+Sadori_e4	437	1	86	Quercus deciduous	Quercus robur-type	TRSH
+Sadori_e4	4430	39	85	Quercus evergreeen	Quercus ilex-type	TRSH
+Sadori_e4	727	3	94	Rumex	Rumex/Oxyria	HERB
+Sadori_e4	154	1	154	Ulmus	Ulmus/Zelkova	TRSH
+Sadori_e4	590	1	6	Umbelliferae	Apiaceae	HERB
+Sadori_e4	809	6	809	Urticaceae	Urticaceae	HERB
+Sadori_e4	12	1	12	Betula	Betula	TRSH
+Sadori_e4	18	3	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Sadori_e4	22	1	22	Cerealia	Cerealia-type	HERB
+Sadori_e4	89	2	89	Rhamnus	Rhamnus-type	TRSH
+Sadori_e4	130	2	130	Ericaceae	Ericales (tetrad)	DWAR

@@ -1,49 +1,49 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Leroy_j13	Acer	Acer campestre-type	TRSH	1	0.16611296
-Leroy_j13	Alnus	Alnus	TRSH	99	16.445183
-Leroy_j13	Camellia	Camellia	TRSH	1	0.16611296
-Leroy_j13	Carpinus betulus	Carpinus betulus	TRSH	24	3.986711
-Leroy_j13	Citrus	Citrus	TRSH	1	0.16611296
-Leroy_j13	Cupressaceae	Cupressaceae undiff.	TRSH	9	1.4950166
-Leroy_j13	Ephedra major-type	Ephedra distachya-type	TRSH	1	0.16611296
-Leroy_j13	Fagus	Fagus	TRSH	13	2.1594684
-Leroy_j13	Fontanesia	Fontanesia philliraeoides	TRSH	2	0.33222591
-Leroy_j13	Juglans	Juglans	TRSH	1	0.16611296
-Leroy_j13	Olea	Olea europaea	TRSH	1	0.16611296
-Leroy_j13	Parrotia persica	Parrotia persica	TRSH	5	0.83056478
-Leroy_j13	Pinus	Pinus	TRSH	3	0.49833887
-Leroy_j13	Platanus	Platanus	TRSH	1	0.16611296
-Leroy_j13	Quercus deciduous	Quercus robur-type	TRSH	17	2.8239203
-Leroy_j13	Rosaceae	Rosaceae	TRSH	1	0.16611296
-Leroy_j13	Salix	Salix	TRSH	1	0.16611296
-Leroy_j13	Ulmus-Zelkova	Ulmus/Zelkova	TRSH	1	0.16611296
-Leroy_j13	Viburnum	Viburnum	TRSH	1	0.16611296
-Leroy_j13	*sum	*sum	HERB	297	49.335548
-Leroy_j13	Artemisia	Artemisia	HERB	36	5.9800664
-Leroy_j13	Ast. tubuliflorae	Asteraceae subf. Asteroideae	HERB	6	0.99667774
-Leroy_j13	Ast. liguliflorae	Asteraceae subf. Cichorioideae	HERB	2	0.33222591
-Leroy_j13	Cerealia	Cerealia-type	HERB	7	1.1627907
-Leroy_j13	Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	41	6.8106312
-Leroy_j13	Cyperaceae	Cyperaceae	HERB	5	0.83056478
-Leroy_j13	Plantaginaceae	Plantaginaceae	HERB	2	0.33222591
-Leroy_j13	Poaceae	Poaceae	HERB	14	2.3255814
-Leroy_j13	Urtic.-Moraceae	Urticaceae/Moraceae	HERB	1	0.16611296
-Leroy_j13	Botrychium	Botrychium	VACR	1	0.16611296
-Leroy_j13	M. non psilate	Monolete fern spores	VACR	2	0.33222591
-Leroy_j13	Pteridium aquilinum	Pteridium aquilinum	VACR	2	0.33222591
-Leroy_j13	Pteris	Pteris	VACR	1	0.16611296
-Leroy_j13	Triletes psilate	Trilete spore(s)	VACR	2	0.33222591
-Leroy_j13	Coelastrum	Coelastrum	ALGA	1	0.16611296
-Leroy_j13	*Concentration	*Concentration	CHAR	10121.938	
-Leroy_j13	Sum AP	Indeterminable: unknown	INUN	180	
-Leroy_j13	Indeterminable	Indeterminable: unknown	INUN	14	
-Leroy_j13	sum total	Indeterminable: unknown	INUN	323	
-Leroy_j13	Ostrac. Mandible	Indeterminable: unknown	INUN	1	
-Leroy_j13	Anabaena	Anabaena	CYAN	1	
-Leroy_j13	Fungal spores	Fungal spore	FUNG	114	
-Leroy_j13	Glomus	Glomus	FUNG	8	
-Leroy_j13	Moss leaf	Moss: remains	MACR	3	
-Leroy_j13	Pterosperma	Pterosperma	INVE	5	
-Leroy_j13	Reworked	Reworked pollen	PREQ	4	
-Leroy_j13	Tetraploa	Tetraploa	FUNG	1	
-Leroy_j13	Turbellarian	Turbellaria	PLAT	1	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Leroy_j13	2	1	2	Acer	Acer campestre-type	TRSH
+Leroy_j13	5	99	5	Alnus	Alnus	TRSH
+Leroy_j13	75	3	75	Pinus	Pinus	TRSH
+Leroy_j13	120	1	120	Viburnum	Viburnum	TRSH
+Leroy_j13	192	13	42	Fagus	Fagus	TRSH
+Leroy_j13	193	5	193	Parrotia persica	Parrotia persica	TRSH
+Leroy_j13	437	17	86	Quercus deciduous	Quercus robur-type	TRSH
+Leroy_j13	563	24	16	Carpinus betulus	Carpinus betulus	TRSH
+Leroy_j13	714	9	347	Cupressaceae	Cupressaceae undiff.	TRSH
+Leroy_j13	2070	180	177	Sum AP	Indeterminable: unknown	INUN
+Leroy_j13	7	36	7	Artemisia	Artemisia	HERB
+Leroy_j13	57	1	57	Juglans	Juglans	TRSH
+Leroy_j13	78	1	78	Platanus	Platanus	TRSH
+Leroy_j13	99	1	99	Salix	Salix	TRSH
+Leroy_j13	442	1	68	Olea	Olea europaea	TRSH
+Leroy_j13	707	41	24	Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB
+Leroy_j13	1954	1	154	Ulmus-Zelkova	Ulmus/Zelkova	TRSH
+Leroy_j13	2069	2	2069	Fontanesia	Fontanesia philliraeoides	TRSH
+Leroy_j13	22	7	22	Cerealia	Cerealia-type	HERB
+Leroy_j13	33	5	33	Cyperaceae	Cyperaceae	HERB
+Leroy_j13	80	14	80	Poaceae	Poaceae	HERB
+Leroy_j13	168	2	168	Plantaginaceae	Plantaginaceae	HERB
+Leroy_j13	962	1	962	Botrychium	Botrychium	VACR
+Leroy_j13	1611	1	1611	Citrus	Citrus	TRSH
+Leroy_j13	1978	2	146	M. non psilate	Monolete fern spores	VACR
+Leroy_j13	2064	2	279	Triletes psilate	Trilete spore(s)	VACR
+Leroy_j13	2079	1	2079	Camellia	Camellia	TRSH
+Leroy_j13	2081	1	736	Urtic.-Moraceae	Urticaceae/Moraceae	HERB
+Leroy_j13	2082	297	2082	*sum	*sum	HERB
+Leroy_j13	92	1	92	Rosaceae	Rosaceae	TRSH
+Leroy_j13	717	14	177	Indeterminable	Indeterminable: unknown	INUN
+Leroy_j13	1982	4	1982	Reworked	Reworked pollen	PREQ
+Leroy_j13	2085	323	177	sum total	Indeterminable: unknown	INUN
+Leroy_j13	2086	10121.938	2086	*Concentration	*Concentration	CHAR
+Leroy_j13	2087	1	2087	Anabaena	Anabaena	CYAN
+Leroy_j13	2020	5	2020	Pterosperma	Pterosperma	INVE
+Leroy_j13	2023	3	2023	Moss leaf	Moss: remains	MACR
+Leroy_j13	2022	114	2022	Fungal spores	Fungal spore	FUNG
+Leroy_j13	180	2	180	Pteridium aquilinum	Pteridium aquilinum	VACR
+Leroy_j13	1980	1	1980	Pteris	Pteris	VACR
+Leroy_j13	2016	1	2016	Coelastrum	Coelastrum	ALGA
+Leroy_j13	554	8	362	Glomus	Glomus	FUNG
+Leroy_j13	836	1	836	Tetraploa	Tetraploa	FUNG
+Leroy_j13	2024	1	733	Turbellarian	Turbellaria	PLAT
+Leroy_j13	2103	1	177	Ostrac. Mandible	Indeterminable: unknown	INUN
+Leroy_j13	2067	1	37	Ephedra major-type	Ephedra distachya-type	TRSH
+Leroy_j13	2071	2	25	Ast. liguliflorae	Asteraceae subf. Cichorioideae	HERB
+Leroy_j13	2072	6	160	Ast. tubuliflorae	Asteraceae subf. Asteroideae	HERB

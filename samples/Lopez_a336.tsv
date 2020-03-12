@@ -1,36 +1,36 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Lopez_a336	Betula	Betula	TRSH	4	0.86956522
-Lopez_a336	Castanea	Castanea sativa	TRSH	11	2.3913043
-Lopez_a336	Corylus	Corylus	TRSH	9	1.9565217
-Lopez_a336	Erica arborea-type	Erica arborea-type	DWAR	3	0.65217391
-Lopez_a336	Fraxinus	Fraxinus	TRSH	6	1.3043478
-Lopez_a336	Ilex	Ilex	TRSH	7	1.5217391
-Lopez_a336	Juniperus-type	Juniperus-type	TRSH	2	0.43478261
-Lopez_a336	Olea	Olea europaea	TRSH	1	0.2173913
-Lopez_a336	Pinus pinea/halepensis-type	Pinus halepensis-type	TRSH	238	51.73913
-Lopez_a336	Pinus pinaster	Pinus pinaster	TRSH	4	0.86956522
-Lopez_a336	Pinus sylvestris/nigra-type	Pinus sylvestris-type	TRSH	3	0.65217391
-Lopez_a336	Populus	Populus	TRSH	35	7.6086957
-Lopez_a336	Quercus evergreen	Quercus ilex-type	TRSH	2	0.43478261
-Lopez_a336	Quercus deciduous	Quercus robur-type	TRSH	6	1.3043478
-Lopez_a336	Rosaceae undiff,	Rosaceae	TRSH	15	3.2608696
-Lopez_a336	Salix	Salix	TRSH	28	6.0869565
-Lopez_a336	Apiaceae	Apiaceae	HERB	1	0.2173913
-Lopez_a336	Cruciferae	Brassicaceae	HERB	2	0.43478261
-Lopez_a336	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	2	0.43478261
-Lopez_a336	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.2173913
-Lopez_a336	Cistus ladanifer	Cistus ladanifer-type	HERB	1	0.2173913
-Lopez_a336	Fumaria officinalis-type	Fumaria	HERB	4	0.86956522
-Lopez_a336	Cytisus/Genista-type	Genista-type	HERB	10	2.173913
-Lopez_a336	Papaver rhoeas-type	Papaver rhoeas-type	HERB	7	1.5217391
-Lopez_a336	Campanula-type	Phyteuma-type	HERB	2	0.43478261
-Lopez_a336	Plantago lanceolata-type	Plantago lanceolata-type	HERB	5	1.0869565
-Lopez_a336	Poaceae undiff.	Poaceae	HERB	10	2.173913
-Lopez_a336	Polygonum aviculare-type	Polygonum aviculare-type	HERB	12	2.6086957
-Lopez_a336	Ranunculaceae	Ranunculaceae	HERB	22	4.7826087
-Lopez_a336	Rubiaceae	Rubiaceae	HERB	1	0.2173913
-Lopez_a336	Rumex acetosella-type	Rumex acetosella	HERB	5	1.0869565
-Lopez_a336	Valeriana	Valeriana	HERB	1	0.2173913
-Lopez_a336	Cyperaceae	Cyperaceae	AQUA	1	0.2173913
-Lopez_a336	Typha angustifolia-type	Sparganium-type	AQUA	3	0.65217391
-Lopez_a336	Sordaria	Sordaria-type	NOPO	1	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Lopez_a336	6	1	6	Apiaceae	Apiaceae	HERB
+Lopez_a336	12	4	12	Betula	Betula	TRSH
+Lopez_a336	1765	2	483	Campanula-type	Phyteuma-type	HERB
+Lopez_a336	18	2	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Lopez_a336	769	1	24	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB
+Lopez_a336	3800	1	3800	Cistus ladanifer	Cistus ladanifer-type	HERB
+Lopez_a336	201	9	31	Corylus	Corylus	TRSH
+Lopez_a336	482	2	13	Cruciferae	Brassicaceae	HERB
+Lopez_a336	3868	1	3868	Cyperaceae	Cyperaceae	AQUA
+Lopez_a336	3878	10	3878	Cytisus/Genista-type	Genista-type	HERB
+Lopez_a336	3929	3	3928	Erica arborea-type	Erica arborea-type	DWAR
+Lopez_a336	190	6	190	Fraxinus	Fraxinus	TRSH
+Lopez_a336	3988	4	497	Fumaria officinalis-type	Fumaria	HERB
+Lopez_a336	435	7	55	Ilex	Ilex	TRSH
+Lopez_a336	738	2	203	Juniperus-type	Juniperus-type	TRSH
+Lopez_a336	442	1	68	Olea	Olea europaea	TRSH
+Lopez_a336	439	4	439	Pinus pinaster	Pinus pinaster	TRSH
+Lopez_a336	4304	238	440	Pinus pinea/halepensis-type	Pinus halepensis-type	TRSH
+Lopez_a336	1075	5	60	Plantago lanceolata-type	Plantago lanceolata-type	HERB
+Lopez_a336	429	10	80	Poaceae undiff.	Poaceae	HERB
+Lopez_a336	1078	12	262	Polygonum aviculare-type	Polygonum aviculare-type	HERB
+Lopez_a336	437	6	86	Quercus deciduous	Quercus robur-type	TRSH
+Lopez_a336	427	2	85	Quercus evergreen	Quercus ilex-type	TRSH
+Lopez_a336	135	22	135	Ranunculaceae	Ranunculaceae	HERB
+Lopez_a336	4489	15	92	Rosaceae undiff,	Rosaceae	TRSH
+Lopez_a336	93	1	93	Rubiaceae	Rubiaceae	HERB
+Lopez_a336	99	28	99	Salix	Salix	TRSH
+Lopez_a336	4604	1	4604	Sordaria	Sordaria-type	NOPO
+Lopez_a336	4704	3	176	Typha angustifolia-type	Sparganium-type	AQUA
+Lopez_a336	493	1	493	Valeriana	Valeriana	HERB
+Lopez_a336	81	35	81	Populus	Populus	TRSH
+Lopez_a336	441	11	19	Castanea	Castanea sativa	TRSH
+Lopez_a336	1398	5	96	Rumex acetosella-type	Rumex acetosella	HERB
+Lopez_a336	2345	7	494	Papaver rhoeas-type	Papaver rhoeas-type	HERB
+Lopez_a336	4308	3	125	Pinus sylvestris/nigra-type	Pinus sylvestris-type	TRSH

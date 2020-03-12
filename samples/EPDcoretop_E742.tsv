@@ -1,37 +1,37 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-EPDcoretop_E742	Alnus	Alnus	TRSH	34	4
-EPDcoretop_E742	Betula	Betula	TRSH	8	0.94117647
-EPDcoretop_E742	Calluna vulgaris	Calluna vulgaris	DWAR	6	0.70588235
-EPDcoretop_E742	Carpinus betulus	Carpinus betulus	TRSH	4	0.47058824
-EPDcoretop_E742	Castanea sativa	Castanea sativa	TRSH	2	0.23529412
-EPDcoretop_E742	Corylus avellana	Corylus	TRSH	86	10.117647
-EPDcoretop_E742	Ericaceae	Ericales (tetrad)	DWAR	2	0.23529412
-EPDcoretop_E742	Fagus	Fagus	TRSH	14	1.6470588
-EPDcoretop_E742	Fraxinus excelsior	Fraxinus excelsior-type	TRSH	4	0.47058824
-EPDcoretop_E742	Juniperus	Juniperus communis-type	TRSH	12	1.4117647
-EPDcoretop_E742	Larix	Larix/Pseudotsuga	TRSH	2	0.23529412
-EPDcoretop_E742	Picea	Picea	TRSH	88	10.352941
-EPDcoretop_E742	Pinus	Pinus	TRSH	100	11.764706
-EPDcoretop_E742	Quercus	Quercus	TRSH	30	3.5294118
-EPDcoretop_E742	Rhamnus	Rhamnus-type	TRSH	2	0.23529412
-EPDcoretop_E742	Rosaceae	Rosaceae	TRSH	2	0.23529412
-EPDcoretop_E742	Salix	Salix	TRSH	8	0.94117647
-EPDcoretop_E742	Taxus baccata	Taxus baccata	TRSH	6	0.70588235
-EPDcoretop_E742	Ulmus	Ulmus/Zelkova	TRSH	18	2.1176471
-EPDcoretop_E742	Umbelliferae	Apiaceae	HERB	10	1.1764706
-EPDcoretop_E742	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB	2	0.23529412
-EPDcoretop_E742	Centaurea montana	Centaurea montana-type	HERB	2	0.23529412
-EPDcoretop_E742	Chenopodiaceae-type	Chenopodiaceae/Amaranthaceae	HERB	2	0.23529412
-EPDcoretop_E742	Achillea-type	Matricaria-type	HERB	4	0.47058824
-EPDcoretop_E742	Plantago lanceolata-type	Plantago lanceolata-type	HERB	28	3.2941176
-EPDcoretop_E742	Gramineae	Poaceae	HERB	304	35.764706
-EPDcoretop_E742	Potentilla-type	Potentilla-type	HERB	2	0.23529412
-EPDcoretop_E742	Ranunculus-type	Ranunculus-type	HERB	2	0.23529412
-EPDcoretop_E742	Rhinanthus	Rhinanthus-type	HERB	4	0.47058824
-EPDcoretop_E742	Rumex-type	Rumex/Oxyria	HERB	10	1.1764706
-EPDcoretop_E742	Senecio-type	Senecio-type	HERB	2	0.23529412
-EPDcoretop_E742	Urticaceae	Urticaceae	HERB	44	5.1764706
-EPDcoretop_E742	Monolete spore(s)	Monolete fern spores	VACR	4	0.47058824
-EPDcoretop_E742	Sphagnum	Sphagnum	BRYO	2	0.23529412
-EPDcoretop_E742	Cyperaceae	Cyperaceae	AQUA	74	8.7058824
-EPDcoretop_E742	Sample volume (ml)	Sample volume (ml)	NOPO	2	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+EPDcoretop_E742	943	4	3	Achillea-type	Matricaria-type	HERB
+EPDcoretop_E742	5	34	5	Alnus	Alnus	TRSH
+EPDcoretop_E742	12	8	12	Betula	Betula	TRSH
+EPDcoretop_E742	19	2	19	Castanea sativa	Castanea sativa	TRSH
+EPDcoretop_E742	31	86	31	Corylus avellana	Corylus	TRSH
+EPDcoretop_E742	3868	74	3868	Cyperaceae	Cyperaceae	AQUA
+EPDcoretop_E742	130	2	130	Ericaceae	Ericales (tetrad)	DWAR
+EPDcoretop_E742	192	14	42	Fagus	Fagus	TRSH
+EPDcoretop_E742	47	4	47	Fraxinus excelsior	Fraxinus excelsior-type	TRSH
+EPDcoretop_E742	1601	304	80	Gramineae	Poaceae	HERB
+EPDcoretop_E742	58	12	58	Juniperus	Juniperus communis-type	TRSH
+EPDcoretop_E742	123	2	123	Larix	Larix/Pseudotsuga	TRSH
+EPDcoretop_E742	126	88	126	Picea	Picea	TRSH
+EPDcoretop_E742	75	100	75	Pinus	Pinus	TRSH
+EPDcoretop_E742	1075	28	60	Plantago lanceolata-type	Plantago lanceolata-type	HERB
+EPDcoretop_E742	626	2	512	Potentilla-type	Potentilla-type	HERB
+EPDcoretop_E742	189	30	189	Quercus	Quercus	TRSH
+EPDcoretop_E742	2429	2	274	Ranunculus-type	Ranunculus-type	HERB
+EPDcoretop_E742	89	2	89	Rhamnus	Rhamnus-type	TRSH
+EPDcoretop_E742	92	2	92	Rosaceae	Rosaceae	TRSH
+EPDcoretop_E742	4520	10	94	Rumex-type	Rumex/Oxyria	HERB
+EPDcoretop_E742	99	8	99	Salix	Salix	TRSH
+EPDcoretop_E742	4542	2	883	Sample volume (ml)	Sample volume (ml)	NOPO
+EPDcoretop_E742	1230	2	133	Senecio-type	Senecio-type	HERB
+EPDcoretop_E742	144	2	144	Sphagnum	Sphagnum	BRYO
+EPDcoretop_E742	111	6	111	Taxus baccata	Taxus baccata	TRSH
+EPDcoretop_E742	154	18	154	Ulmus	Ulmus/Zelkova	TRSH
+EPDcoretop_E742	590	10	6	Umbelliferae	Apiaceae	HERB
+EPDcoretop_E742	563	4	16	Carpinus betulus	Carpinus betulus	TRSH
+EPDcoretop_E742	809	44	809	Urticaceae	Urticaceae	HERB
+EPDcoretop_E742	1270	4	631	Rhinanthus	Rhinanthus-type	HERB
+EPDcoretop_E742	1743	2	1063	Centaurea montana	Centaurea montana-type	HERB
+EPDcoretop_E742	2558	2	24	Chenopodiaceae-type	Chenopodiaceae/Amaranthaceae	HERB
+EPDcoretop_E742	3646	6	3645	Calluna vulgaris	Calluna vulgaris	DWAR
+EPDcoretop_E742	3824	2	25	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+EPDcoretop_E742	4197	4	146	Monolete spore(s)	Monolete fern spores	VACR

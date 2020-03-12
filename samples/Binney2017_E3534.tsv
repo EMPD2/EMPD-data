@@ -1,21 +1,21 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Binney2017_E3534	Alnus	Alnus	TRSH	9	5.5214724
-Binney2017_E3534	Betula	Betula	TRSH	8	4.9079755
-Binney2017_E3534	Ericales	Ericales (tetrad)	DWAR	74	45.398773
-Binney2017_E3534	Pinus subg. Strobus	Pinus cembra-type	TRSH	33	20.245399
-Binney2017_E3534	Salix	Salix	TRSH	1	0.61349693
-Binney2017_E3534	Asteraceae	Asteraceae	HERB	1	0.61349693
-Binney2017_E3534	Brassicaceae	Brassicaceae	HERB	3	1.8404908
-Binney2017_E3534	Campanulaceae	Campanulaceae	HERB	1	0.61349693
-Binney2017_E3534	Cyperaceae	Cyperaceae	HERB	6	3.6809816
-Binney2017_E3534	Onagraceae	Onagraceae	HERB	3	1.8404908
-Binney2017_E3534	Papaveraceae	Papaveraceae	HERB	3	1.8404908
-Binney2017_E3534	Poaceae	Poaceae	HERB	1	0.61349693
-Binney2017_E3534	Ranunculaceae	Ranunculaceae	HERB	2	1.2269939
-Binney2017_E3534	Rubus chamaemorus	Rubus chamaemorus	HERB	1	0.61349693
-Binney2017_E3534	Bryophyta	Bryophyte spores	BRYO	1	0.61349693
-Binney2017_E3534	Lycopodiaceae	Lycopodiaceae	VACR	5	3.0674847
-Binney2017_E3534	Polypodiales	Monolete fern spores	VACR	8	4.9079755
-Binney2017_E3534	Selaginella sibirica	Selaginella sibirica	VACR	3	1.8404908
-Binney2017_E3534	Haloragaceae	Myriophyllum	AQUA	1	0.61349693
-Binney2017_E3534	Sphagnum	Sphagnum	NOPO	1	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Binney2017_E3534	5	9	5	Alnus	Alnus	TRSH
+Binney2017_E3534	12	8	12	Betula	Betula	TRSH
+Binney2017_E3534	13	3	13	Brassicaceae	Brassicaceae	HERB
+Binney2017_E3534	33	6	33	Cyperaceae	Cyperaceae	HERB
+Binney2017_E3534	80	1	80	Poaceae	Poaceae	HERB
+Binney2017_E3534	99	1	99	Salix	Salix	TRSH
+Binney2017_E3534	134	1	134	Asteraceae	Asteraceae	HERB
+Binney2017_E3534	135	2	135	Ranunculaceae	Ranunculaceae	HERB
+Binney2017_E3534	136	1	136	Campanulaceae	Campanulaceae	HERB
+Binney2017_E3534	137	3	137	Onagraceae	Onagraceae	HERB
+Binney2017_E3534	144	1	144	Sphagnum	Sphagnum	BRYO
+Binney2017_E3534	752	5	752	Lycopodiaceae	Lycopodiaceae	VACR
+Binney2017_E3534	1241	1	147	Bryophyta	Bryophyte spores	BRYO
+Binney2017_E3534	1669	3	381	Papaveraceae	Papaveraceae	HERB
+Binney2017_E3534	2120	74	130	Ericales	Ericales (tetrad)	DWAR
+Binney2017_E3534	4377	8	146	Polypodiales	Monolete fern spores	VACR
+Binney2017_E3534	4940	33	124	Pinus subg. Strobus	Pinus cembra-type	TRSH
+Binney2017_E3534	4974	3	4974	Selaginella sibirica	Selaginella sibirica	VACR
+Binney2017_E3534	5217	1	504	Haloragaceae	Myriophyllum	AQUA
+Binney2017_E3534	2112	1	172	Rubus chamaemorus	Rubus chamaemorus	HERB

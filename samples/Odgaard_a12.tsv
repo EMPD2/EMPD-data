@@ -1,47 +1,47 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Odgaard_a12	Acer	Acer campestre-type	TRSH	1	0.085763293
-Odgaard_a12	Aesculus	Aesculus	TRSH	1	0.085763293
-Odgaard_a12	Alnus	Alnus	TRSH	23	1.9725557
-Odgaard_a12	Betula	Betula	TRSH	114	9.7770154
-Odgaard_a12	Calluna	Calluna vulgaris	DWAR	39	3.3447684
-Odgaard_a12	Corylus	Corylus	TRSH	1	0.085763293
-Odgaard_a12	Cupressaceae	Cupressaceae undiff.	TRSH	15	1.2864494
-Odgaard_a12	Empetrum	Empetrum nigrum	DWAR	19	1.6295026
-Odgaard_a12	Fagus	Fagus	TRSH	1	0.085763293
-Odgaard_a12	Frangula alnus	Frangula alnus	TRSH	1	0.085763293
-Odgaard_a12	Fraxinus	Fraxinus	TRSH	4	0.34305317
-Odgaard_a12	Myrica gale	Myrica	TRSH	24	2.058319
-Odgaard_a12	Picea	Picea	TRSH	32	2.7444254
-Odgaard_a12	Pinus	Pinus	TRSH	470	40.308748
-Odgaard_a12	Quercus	Quercus	TRSH	5	0.42881647
-Odgaard_a12	Rosa	Rosa	TRSH	1	0.085763293
-Odgaard_a12	Salix	Salix	TRSH	10	0.85763293
-Odgaard_a12	Sambucus	Sambucus	TRSH	1	0.085763293
-Odgaard_a12	Sorbus	Sorbus-type	TRSH	1	0.085763293
-Odgaard_a12	Ulmus	Ulmus/Zelkova	TRSH	3	0.25728988
-Odgaard_a12	Artemisia	Artemisia	HERB	5	0.42881647
-Odgaard_a12	Avena/Triticum	Avena/Triticum-type	HERB	4	0.34305317
-Odgaard_a12	Brassicaceae	Brassicaceae	HERB	15	1.2864494
-Odgaard_a12	Secale	Cerealia-type	HERB	13	1.1149228
-Odgaard_a12	Cichorium intybus-type	Crepis-type	HERB	2	0.17152659
-Odgaard_a12	Filipendula	Filipendula	HERB	1	0.085763293
-Odgaard_a12	Hordeum-type	Hordeum-type	HERB	9	0.77186964
-Odgaard_a12	Humulus-type	Humulus/Cannabis	HERB	1	0.085763293
-Odgaard_a12	Hypericum	Hypericum	HERB	2	0.17152659
-Odgaard_a12	Achillea-type	Matricaria-type	HERB	2	0.17152659
-Odgaard_a12	Polygonum persicaria-type	Persicaria maculosa-type	HERB	1	0.085763293
-Odgaard_a12	Plantago lanceolata	Plantago lanceolata-type	HERB	3	0.25728988
-Odgaard_a12	Poaceae	Poaceae	HERB	245	21.012007
-Odgaard_a12	Potentilla-type	Potentilla-type	HERB	3	0.25728988
-Odgaard_a12	Rumex acetosa	Rumex acetosa-type	HERB	2	0.17152659
-Odgaard_a12	Rumex acetosella-type	Rumex acetosella	HERB	18	1.5437393
-Odgaard_a12	Senecio-type	Senecio-type	HERB	3	0.25728988
-Odgaard_a12	Trifolium repens-type	Trifolium repens-type	HERB	11	0.94339623
-Odgaard_a12	Urtica	Urtica	HERB	5	0.42881647
-Odgaard_a12	Dryopteris	Dryopteris-type	VACR	7	0.60034305
-Odgaard_a12	Equisetum	Equisetum	VACR	47	4.0308748
-Odgaard_a12	Lycopodium inundatum	Lycopodiella inundata	VACR	1	0.085763293
-Odgaard_a12	Carex	Carex	AQUA	22	1.8867925
-Odgaard_a12	Schoenus-type	Schoenus	AQUA	4	0.34305317
-Odgaard_a12	Sparganium-type	Sparganium-type	AQUA	5	0.42881647
-Odgaard_a12	Typha latifolia	Typha latifolia	AQUA	12	1.0291595
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Odgaard_a12	2	1	2	Acer	Acer campestre-type	TRSH
+Odgaard_a12	943	2	3	Achillea-type	Matricaria-type	HERB
+Odgaard_a12	2440	1	2440	Aesculus	Aesculus	TRSH
+Odgaard_a12	5	23	5	Alnus	Alnus	TRSH
+Odgaard_a12	7	5	7	Artemisia	Artemisia	HERB
+Odgaard_a12	3599	4	818	Avena/Triticum	Avena/Triticum-type	HERB
+Odgaard_a12	12	114	12	Betula	Betula	TRSH
+Odgaard_a12	3663	22	3663	Carex	Carex	AQUA
+Odgaard_a12	2628	2	1242	Cichorium intybus-type	Crepis-type	HERB
+Odgaard_a12	201	1	31	Corylus	Corylus	TRSH
+Odgaard_a12	714	15	347	Cupressaceae	Cupressaceae undiff.	TRSH
+Odgaard_a12	772	7	772	Dryopteris	Dryopteris-type	VACR
+Odgaard_a12	145	47	145	Equisetum	Equisetum	VACR
+Odgaard_a12	192	1	42	Fagus	Fagus	TRSH
+Odgaard_a12	190	4	190	Fraxinus	Fraxinus	TRSH
+Odgaard_a12	949	9	258	Hordeum-type	Hordeum-type	HERB
+Odgaard_a12	2568	1	205	Humulus-type	Humulus/Cannabis	HERB
+Odgaard_a12	4162	1	1551	Lycopodium inundatum	Lycopodiella inundata	VACR
+Odgaard_a12	2601	24	977	Myrica gale	Myrica	TRSH
+Odgaard_a12	126	32	126	Picea	Picea	TRSH
+Odgaard_a12	75	470	75	Pinus	Pinus	TRSH
+Odgaard_a12	60	3	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+Odgaard_a12	80	245	80	Poaceae	Poaceae	HERB
+Odgaard_a12	2809	1	231	Polygonum persicaria-type	Persicaria maculosa-type	HERB
+Odgaard_a12	626	3	512	Potentilla-type	Potentilla-type	HERB
+Odgaard_a12	189	5	189	Quercus	Quercus	TRSH
+Odgaard_a12	95	2	95	Rumex acetosa	Rumex acetosa-type	HERB
+Odgaard_a12	1398	18	96	Rumex acetosella-type	Rumex acetosella	HERB
+Odgaard_a12	99	10	99	Salix	Salix	TRSH
+Odgaard_a12	481	1	407	Sambucus	Sambucus	TRSH
+Odgaard_a12	4571	4	4571	Schoenus-type	Schoenus	AQUA
+Odgaard_a12	104	13	22	Secale	Cerealia-type	HERB
+Odgaard_a12	1230	3	133	Senecio-type	Senecio-type	HERB
+Odgaard_a12	107	1	107	Sorbus	Sorbus-type	TRSH
+Odgaard_a12	1086	5	176	Sparganium-type	Sparganium-type	AQUA
+Odgaard_a12	154	3	154	Ulmus	Ulmus/Zelkova	TRSH
+Odgaard_a12	13	15	13	Brassicaceae	Brassicaceae	HERB
+Odgaard_a12	45	1	45	Filipendula	Filipendula	HERB
+Odgaard_a12	54	2	54	Hypericum	Hypericum	HERB
+Odgaard_a12	567	1	468	Frangula alnus	Frangula alnus	TRSH
+Odgaard_a12	652	5	652	Urtica	Urtica	HERB
+Odgaard_a12	739	19	739	Empetrum	Empetrum nigrum	DWAR
+Odgaard_a12	1083	1	632	Rosa	Rosa	TRSH
+Odgaard_a12	1287	12	417	Typha latifolia	Typha latifolia	AQUA
+Odgaard_a12	1786	11	116	Trifolium repens-type	Trifolium repens-type	HERB
+Odgaard_a12	3645	39	3645	Calluna	Calluna vulgaris	DWAR

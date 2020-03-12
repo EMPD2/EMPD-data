@@ -1,17 +1,17 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Muller_a45	Alnus fruticosa	Alnus viridis	TRSH	24	6.7605634
-Muller_a45	Betula sect. Nanae	Betula nana-type	DWAR	180	50.704225
-Muller_a45	Betula sect. Albae	Betula pubescens-type	TRSH	9	2.5352113
-Muller_a45	Ericaceae empetrum-type	Empetrum nigrum	DWAR	1	0.28169014
-Muller_a45	Picea	Picea	TRSH	2	0.56338028
-Muller_a45	Pinus diploxylon-type	Pinus sylvestris-type	TRSH	29	8.1690141
-Muller_a45	Salix	Salix	TRSH	1	0.28169014
-Muller_a45	Ericaceae vaccinium-type	Vaccinium	DWAR	91	25.633803
-Muller_a45	Cyperaceae	Cyperaceae	HERB	8	2.2535211
-Muller_a45	Poaceae	Poaceae	HERB	9	2.5352113
-Muller_a45	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	1	0.28169014
-Muller_a45	Pollen indeterminata	Indeterminable: unknown	INUN	1	
-Muller_a45	Pollen, terrestrial	Indeterminable: unknown	INUN	356	
-Muller_a45	Lycopodium spores counted	Lycopodium (counted)	NOPO	143	
-Muller_a45	Microthyrium	Microthyrium	FUNG	8	
-Muller_a45	Pollen per unit sediment mass	Pollen per unit sediment mass (/g)	NOPO	5317	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Muller_a45	126	2	126	Picea	Picea	TRSH
+Muller_a45	128	9	128	Betula sect. Albae	Betula pubescens-type	TRSH
+Muller_a45	1049	29	125	Pinus diploxylon-type	Pinus sylvestris-type	TRSH
+Muller_a45	127	180	127	Betula sect. Nanae	Betula nana-type	DWAR
+Muller_a45	2962	24	129	Alnus fruticosa	Alnus viridis	TRSH
+Muller_a45	33	8	33	Cyperaceae	Cyperaceae	HERB
+Muller_a45	80	9	80	Poaceae	Poaceae	HERB
+Muller_a45	99	1	99	Salix	Salix	TRSH
+Muller_a45	2986	1	739	Ericaceae empetrum-type	Empetrum nigrum	DWAR
+Muller_a45	2987	91	540	Ericaceae vaccinium-type	Vaccinium	TRSH
+Muller_a45	2900	1	177	Pollen indeterminata	Indeterminable: unknown	INUN
+Muller_a45	173	1	173	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB
+Muller_a45	2344	8	2344	Microthyrium	Microthyrium	FUNG
+Muller_a45	2970	356	177	Pollen, terrestrial	Indeterminable: unknown	INUN
+Muller_a45	3000	143	559	Lycopodium spores counted	Lycopodium (counted)	NOPO
+Muller_a45	3001	5317	3001	Pollen per unit sediment mass	Pollen per unit sediment mass (/g)	NOPO

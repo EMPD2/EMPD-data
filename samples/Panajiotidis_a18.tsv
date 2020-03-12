@@ -1,40 +1,40 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Panajiotidis_a18	Alnus	Alnus	TRSH	2	0.07870917
-Panajiotidis_a18	Arbutus	Arbutus	TRSH	4	0.15741834
-Panajiotidis_a18	Carpinus betulus	Carpinus betulus	TRSH	4	0.15741834
-Panajiotidis_a18	Cistus monspeliensis	Cistus monspeliensis-type	TRSH	2	0.07870917
-Panajiotidis_a18	Corylus	Corylus	TRSH	1	0.039354585
-Panajiotidis_a18	Ephedra fragilis	Ephedra fragilis-type	TRSH	2	0.07870917
-Panajiotidis_a18	Erica	Erica	DWAR	582	22.904368
-Panajiotidis_a18	Fagus	Fagus	TRSH	1	0.039354585
-Panajiotidis_a18	Hedera helix	Hedera	TRSH	3	0.11806375
-Panajiotidis_a18	Juglans	Juglans	TRSH	1	0.039354585
-Panajiotidis_a18	Juniperus	Juniperus-type	TRSH	14	0.55096419
-Panajiotidis_a18	Olea europaea	Olea europaea	TRSH	57	2.2432113
-Panajiotidis_a18	Ostrya carpinifolia/Carpinus orientalis	Ostrya/Carpinus orientalis	TRSH	16	0.62967336
-Panajiotidis_a18	Phillyrea latifolia	Phillyrea	TRSH	22	0.86580087
-Panajiotidis_a18	Pinus	Pinus	TRSH	1640	64.541519
-Panajiotidis_a18	Pistacia	Pistacia	TRSH	25	0.98386462
-Panajiotidis_a18	Quercus coccifera type	Quercus ilex-type	TRSH	65	2.558048
-Panajiotidis_a18	Quercus pubescens type	Quercus robur-type	TRSH	22	0.86580087
-Panajiotidis_a18	Rosaceae	Rosaceae	TRSH	15	0.59031877
-Panajiotidis_a18	Ulmus	Ulmus/Zelkova	TRSH	1	0.039354585
-Panajiotidis_a18	Xanthium	Ambrosia/Xanthium	HERB	9	0.35419126
-Panajiotidis_a18	Artemisia	Artemisia	HERB	1	0.039354585
-Panajiotidis_a18	Asteraceae	Asteraceae	HERB	3	0.11806375
-Panajiotidis_a18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	3	0.11806375
-Panajiotidis_a18	Centaurea jacea	Centaurea	HERB	4	0.15741834
-Panajiotidis_a18	Centaurea montana	Centaurea montana-type	HERB	2	0.07870917
-Panajiotidis_a18	Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	6	0.23612751
-Panajiotidis_a18	Fabaceae	Fabaceae	HERB	3	0.11806375
-Panajiotidis_a18	Matricaria-type	Matricaria-type	HERB	3	0.11806375
-Panajiotidis_a18	Plantago lanceolata-type	Plantago lanceolata-type	HERB	3	0.11806375
-Panajiotidis_a18	Poaceae	Poaceae	HERB	8	0.31483668
-Panajiotidis_a18	Polygonum aviculare	Polygonum aviculare-type	HERB	13	0.5116096
-Panajiotidis_a18	Trifolium repens	Trifolium repens-type	HERB	2	0.07870917
-Panajiotidis_a18	Pteridophyta	Monolete fern spores	VACR	2	0.07870917
-Panajiotidis_a18	Glomus	Glomus	FUNG	3	
-Panajiotidis_a18	Lycpodium counted	Lycopodium (counted)	NOPO	20	
-Panajiotidis_a18	Lycopodium spores/tablet	Lycopodium (spores/tablet)	NOPO	12542	
-Panajiotidis_a18	Lycopodium tablets	Lycopodium tablets (number)	NOPO	2	
-Panajiotidis_a18	Sample quantity	Quantity of sample	NOPO	19.6	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Panajiotidis_a18	75	1640	75	Pinus	Pinus	TRSH
+Panajiotidis_a18	1728	14	203	Juniperus	Juniperus-type	TRSH
+Panajiotidis_a18	5	2	5	Alnus	Alnus	TRSH
+Panajiotidis_a18	192	1	42	Fagus	Fagus	TRSH
+Panajiotidis_a18	1729	65	85	Quercus coccifera type	Quercus ilex-type	TRSH
+Panajiotidis_a18	1730	22	86	Quercus pubescens type	Quercus robur-type	TRSH
+Panajiotidis_a18	1732	2	1732	Cistus monspeliensis	Cistus monspeliensis-type	TRSH
+Panajiotidis_a18	51	3	51	Hedera helix	Hedera	TRSH
+Panajiotidis_a18	57	1	57	Juglans	Juglans	TRSH
+Panajiotidis_a18	68	57	68	Olea europaea	Olea europaea	TRSH
+Panajiotidis_a18	201	1	31	Corylus	Corylus	TRSH
+Panajiotidis_a18	563	4	16	Carpinus betulus	Carpinus betulus	TRSH
+Panajiotidis_a18	38	582	38	Erica	Erica	TRSH
+Panajiotidis_a18	77	25	77	Pistacia	Pistacia	TRSH
+Panajiotidis_a18	154	1	154	Ulmus	Ulmus/Zelkova	TRSH
+Panajiotidis_a18	1631	4	327	Arbutus	Arbutus	TRSH
+Panajiotidis_a18	7	1	7	Artemisia	Artemisia	HERB
+Panajiotidis_a18	18	3	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Panajiotidis_a18	134	3	134	Asteraceae	Asteraceae	HERB
+Panajiotidis_a18	1072	3	3	Matricaria-type	Matricaria-type	HERB
+Panajiotidis_a18	41	3	41	Fabaceae	Fabaceae	HERB
+Panajiotidis_a18	80	8	80	Poaceae	Poaceae	HERB
+Panajiotidis_a18	116	2	116	Trifolium repens	Trifolium repens-type	HERB
+Panajiotidis_a18	707	6	24	Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB
+Panajiotidis_a18	725	13	262	Polygonum aviculare	Polygonum aviculare-type	HERB
+Panajiotidis_a18	1075	3	60	Plantago lanceolata-type	Plantago lanceolata-type	HERB
+Panajiotidis_a18	92	15	92	Rosaceae	Rosaceae	TRSH
+Panajiotidis_a18	554	3	362	Glomus	Glomus	FUNG
+Panajiotidis_a18	1040	2	146	Pteridophyta	Monolete fern spores	VACR
+Panajiotidis_a18	1753	9	228	Xanthium	Ambrosia/Xanthium	HERB
+Panajiotidis_a18	1755	20	559	Lycpodium counted	Lycopodium (counted)	NOPO
+Panajiotidis_a18	1756	19.6	1756	Sample quantity	Quantity of sample	NOPO
+Panajiotidis_a18	1757	2	1295	Lycopodium tablets	Lycopodium tablets (number)	NOPO
+Panajiotidis_a18	1758	12542	1293	Lycopodium spores/tablet	Lycopodium (spores/tablet)	NOPO
+Panajiotidis_a18	1734	16	70	Ostrya carpinifolia/Carpinus orientalis	Ostrya/Carpinus orientalis	TRSH
+Panajiotidis_a18	1735	22	74	Phillyrea latifolia	Phillyrea	TRSH
+Panajiotidis_a18	1737	2	36	Ephedra fragilis	Ephedra fragilis-type	TRSH
+Panajiotidis_a18	1742	4	267	Centaurea jacea	Centaurea	HERB
+Panajiotidis_a18	1743	2	1063	Centaurea montana	Centaurea montana-type	HERB

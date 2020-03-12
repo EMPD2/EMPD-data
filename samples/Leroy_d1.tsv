@@ -1,43 +1,43 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Leroy_d1	Abies	Abies	TRSH	2	0.62893082
-Leroy_d1	Alnus	Alnus	TRSH	2	0.62893082
-Leroy_d1	Carpinus betulus-type	Carpinus betulus	TRSH	4	1.2578616
-Leroy_d1	Celtis	Celtis	TRSH	1	0.31446541
-Leroy_d1	Corylus	Corylus	TRSH	15	4.7169811
-Leroy_d1	Cupressaceae	Cupressaceae undiff.	TRSH	3	0.94339623
-Leroy_d1	Ericaceae	Ericales (tetrad)	DWAR	6	1.8867925
-Leroy_d1	Fagus	Fagus	TRSH	3	0.94339623
-Leroy_d1	Juglans	Juglans	TRSH	5	1.572327
-Leroy_d1	Pinus	Pinus	TRSH	86	27.044025
-Leroy_d1	Pistacia	Pistacia	TRSH	1	0.31446541
-Leroy_d1	Quercus evergreen	Quercus ilex-type	TRSH	5	1.572327
-Leroy_d1	Quercus deciduous	Quercus robur-type	TRSH	47	14.779874
-Leroy_d1	Rosaceae	Rosaceae	TRSH	4	1.2578616
-Leroy_d1	Salix	Salix	TRSH	1	0.31446541
-Leroy_d1	Tilia	Tilia	TRSH	1	0.31446541
-Leroy_d1	Vitis	Vitis	LIAN	1	0.31446541
-Leroy_d1	Apiaceae	Apiaceae	HERB	1	0.31446541
-Leroy_d1	Asteraceae Tubuliflorae	Asteraceae subf. Asteroideae	HERB	22	6.918239
-Leroy_d1	Asteraceae Liguliflorae	Asteraceae subf. Cichorioideae	HERB	6	1.8867925
-Leroy_d1	Brassicaceae	Brassicaceae	HERB	1	0.31446541
-Leroy_d1	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	1	0.31446541
-Leroy_d1	Centaurea	Centaurea	HERB	1	0.31446541
-Leroy_d1	Stellaria	Cerastium-type	HERB	7	2.2012579
-Leroy_d1	Amaranthaceae/Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	14	4.4025157
-Leroy_d1	Cistus	Cistus	HERB	2	0.62893082
-Leroy_d1	Geranium	Geranium	HERB	1	0.31446541
-Leroy_d1	Plantago lanceolata	Plantago lanceolata-type	HERB	1	0.31446541
-Leroy_d1	Poaceae	Poaceae	HERB	54	16.981132
-Leroy_d1	Poaceae (37 um)	Poaceae	HERB	2	0.62893082
-Leroy_d1	Polygonum aviculare/bistorta-type	Polygonum-type (tricolporate)	HERB	1	0.31446541
-Leroy_d1	Rumex	Rumex/Oxyria	HERB	2	0.62893082
-Leroy_d1	Sanguisorba minor	Sanguisorba minor-type	HERB	1	0.31446541
-Leroy_d1	Zea mays	Zea mays	HERB	1	0.31446541
-Leroy_d1	Anthoceros	Anthoceros/Phaeoceros	BRYO	2	0.62893082
-Leroy_d1	Dryopteris filix-mas	Dryopteris filix-mas-type	VACR	1	0.31446541
-Leroy_d1	Monolete psilate	Monolete fern spores	VACR	7	2.2012579
-Leroy_d1	Polypodium vulgare	Polypodium	VACR	2	0.62893082
-Leroy_d1	Trilete spores (psilate)	Trilete spore(s)	VACR	1	0.31446541
-Leroy_d1	Cyperaceae	Cyperaceae	AQUA	1	0.31446541
-Leroy_d1	Indeterminable: unknown	Indeterminable: unknown	INUN	23	
-Leroy_d1	Zygnema	Zygnemataceae	CHLO	1	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Leroy_d1	560	2	321	Abies	Abies	TRSH
+Leroy_d1	5	2	5	Alnus	Alnus	TRSH
+Leroy_d1	3525	14	24	Amaranthaceae/Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Leroy_d1	6	1	6	Apiaceae	Apiaceae	HERB
+Leroy_d1	1337	6	25	Asteraceae Liguliflorae	Asteraceae subf. Cichorioideae	HERB
+Leroy_d1	13	1	13	Brassicaceae	Brassicaceae	HERB
+Leroy_d1	3667	4	16	Carpinus betulus-type	Carpinus betulus	TRSH
+Leroy_d1	18	1	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Leroy_d1	202	1	202	Celtis	Celtis	TRSH
+Leroy_d1	201	15	31	Corylus	Corylus	TRSH
+Leroy_d1	714	3	347	Cupressaceae	Cupressaceae undiff.	TRSH
+Leroy_d1	825	1	220	Dryopteris filix-mas	Dryopteris filix-mas-type	VACR
+Leroy_d1	130	6	130	Ericaceae	Ericales (tetrad)	DWAR
+Leroy_d1	498	1	498	Geranium	Geranium	HERB
+Leroy_d1	4078	23	177	Indeterminable: unknown	Indeterminable: unknown	INUN
+Leroy_d1	57	5	57	Juglans	Juglans	TRSH
+Leroy_d1	1921	7	146	Monolete psilate	Monolete fern spores	VACR
+Leroy_d1	75	86	75	Pinus	Pinus	TRSH
+Leroy_d1	80	54	80	Poaceae	Poaceae	HERB
+Leroy_d1	4338	2	80	Poaceae (37 um)	Poaceae	HERB
+Leroy_d1	4364	1	1505	Polygonum aviculare/bistorta-type	Polygonum-type (tricolporate)	HERB
+Leroy_d1	667	2	214	Polypodium vulgare	Polypodium	VACR
+Leroy_d1	437	47	86	Quercus deciduous	Quercus robur-type	TRSH
+Leroy_d1	727	2	94	Rumex	Rumex/Oxyria	HERB
+Leroy_d1	99	1	99	Salix	Salix	TRSH
+Leroy_d1	101	1	101	Sanguisorba minor	Sanguisorba minor-type	HERB
+Leroy_d1	131	7	21	Stellaria	Cerastium-type	HERB
+Leroy_d1	4687	1	279	Trilete spores (psilate)	Trilete spore(s)	VACR
+Leroy_d1	4756	1	4756	Vitis	Vitis	LIAN
+Leroy_d1	812	1	423	Zea mays	Zea mays	HERB
+Leroy_d1	4771	1	4771	Zygnema	Zygnemataceae	CHLO
+Leroy_d1	60	1	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+Leroy_d1	77	1	77	Pistacia	Pistacia	TRSH
+Leroy_d1	187	1	187	Tilia	Tilia	TRSH
+Leroy_d1	192	3	42	Fagus	Fagus	TRSH
+Leroy_d1	427	5	85	Quercus evergreen	Quercus ilex-type	TRSH
+Leroy_d1	757	1	267	Centaurea	Centaurea	HERB
+Leroy_d1	1378	2	1378	Anthoceros	Anthoceros/Phaeoceros	BRYO
+Leroy_d1	1927	22	160	Asteraceae Tubuliflorae	Asteraceae subf. Asteroideae	HERB
+Leroy_d1	3796	2	3796	Cistus	Cistus	HERB
+Leroy_d1	3868	1	3868	Cyperaceae	Cyperaceae	AQUA
+Leroy_d1	92	4	92	Rosaceae	Rosaceae	TRSH

@@ -1,32 +1,32 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Edwards_a23	Alnus glutinosa	Alnus glutinosa-type	TRSH	3	0.48543689
-Edwards_a23	Betula	Betula	TRSH	22	3.5598706
-Edwards_a23	Calluna vulgaris	Calluna vulgaris	DWAR	145	23.462783
-Edwards_a23	Corylus avellana-type	Corylus	TRSH	28	4.5307443
-Edwards_a23	Erica cinerea	Erica cinerea	DWAR	5	0.80906149
-Edwards_a23	Lonicera periclymenum	Lonicera periclymenum	TRSH	5	0.80906149
-Edwards_a23	Pinus sylvestris	Pinus sylvestris-type	TRSH	4	0.64724919
-Edwards_a23	Quercus	Quercus	TRSH	2	0.3236246
-Edwards_a23	Salix	Salix	TRSH	94	15.210356
-Edwards_a23	Ulmus	Ulmus/Zelkova	TRSH	1	0.1618123
-Edwards_a23	Apiaceae	Apiaceae	HERB	3	0.48543689
-Edwards_a23	Asteraceae	Asteraceae	HERB	4	0.64724919
-Edwards_a23	Lactuceae	Asteraceae subf. Cichorioideae	HERB	5	0.80906149
-Edwards_a23	Cyperaceae class 1	Cyperaceae	HERB	4	0.64724919
-Edwards_a23	Cyperaceae class 2	Cyperaceae	HERB	32	5.1779935
-Edwards_a23	Cyperaceae class 4	Cyperaceae	HERB	2	0.3236246
-Edwards_a23	Hydrocotyle vulgaris	Hydrocotyle	HERB	2	0.3236246
-Edwards_a23	Lamiaceae	Lamiaceae	HERB	5	0.80906149
-Edwards_a23	Onagraceae	Onagraceae	HERB	1	0.1618123
-Edwards_a23	Plantago lanceolata	Plantago lanceolata-type	HERB	5	0.80906149
-Edwards_a23	Poaceae class 1	Poaceae	HERB	90	14.563107
-Edwards_a23	Poaceae class 2	Poaceae	HERB	35	5.6634304
-Edwards_a23	Poaceae class 3	Poaceae	HERB	45	7.2815534
-Edwards_a23	Poaceae class 4	Poaceae	HERB	3	0.48543689
-Edwards_a23	Potentilla-type	Potentilla-type	HERB	12	1.9417476
-Edwards_a23	Ranunculus acris-type	Ranunculus acris-type	HERB	4	0.64724919
-Edwards_a23	Rubiaceae	Rubiaceae	HERB	4	0.64724919
-Edwards_a23	Rumex acetosa	Rumex acetosa-type	HERB	5	0.80906149
-Edwards_a23	Pteridophyta spore	Monolete fern spores	VACR	24	3.8834951
-Edwards_a23	Polypodium	Polypodium	VACR	5	0.80906149
-Edwards_a23	Pteridium aquilinum	Pteridium aquilinum	VACR	19	3.0744337
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Edwards_a23	760	3	155	Alnus glutinosa	Alnus glutinosa-type	TRSH
+Edwards_a23	6	3	6	Apiaceae	Apiaceae	HERB
+Edwards_a23	134	4	134	Asteraceae	Asteraceae	HERB
+Edwards_a23	12	22	12	Betula	Betula	TRSH
+Edwards_a23	3646	145	3645	Calluna vulgaris	Calluna vulgaris	DWAR
+Edwards_a23	3849	28	31	Corylus avellana-type	Corylus	TRSH
+Edwards_a23	3872	2	33	Cyperaceae class 4	Cyperaceae	HERB
+Edwards_a23	3933	5	532	Erica cinerea	Erica cinerea	DWAR
+Edwards_a23	59	5	59	Lamiaceae	Lamiaceae	HERB
+Edwards_a23	4152	5	4152	Lonicera periclymenum	Lonicera periclymenum	TRSH
+Edwards_a23	137	1	137	Onagraceae	Onagraceae	HERB
+Edwards_a23	788	4	125	Pinus sylvestris	Pinus sylvestris-type	TRSH
+Edwards_a23	60	5	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+Edwards_a23	4344	90	80	Poaceae class 1	Poaceae	HERB
+Edwards_a23	4345	35	80	Poaceae class 2	Poaceae	HERB
+Edwards_a23	666	5	214	Polypodium	Polypodium	VACR
+Edwards_a23	180	19	180	Pteridium aquilinum	Pteridium aquilinum	VACR
+Edwards_a23	4408	24	146	Pteridophyta spore	Monolete fern spores	VACR
+Edwards_a23	189	2	189	Quercus	Quercus	TRSH
+Edwards_a23	630	4	87	Ranunculus acris-type	Ranunculus acris-type	HERB
+Edwards_a23	93	4	93	Rubiaceae	Rubiaceae	HERB
+Edwards_a23	95	5	95	Rumex acetosa	Rumex acetosa-type	HERB
+Edwards_a23	154	1	154	Ulmus	Ulmus/Zelkova	TRSH
+Edwards_a23	99	94	99	Salix	Salix	TRSH
+Edwards_a23	626	12	512	Potentilla-type	Potentilla-type	HERB
+Edwards_a23	741	5	25	Lactuceae	Asteraceae subf. Cichorioideae	HERB
+Edwards_a23	3869	4	33	Cyperaceae class 1	Cyperaceae	HERB
+Edwards_a23	3870	32	33	Cyperaceae class 2	Cyperaceae	HERB
+Edwards_a23	4346	45	80	Poaceae class 3	Poaceae	HERB
+Edwards_a23	4347	3	80	Poaceae class 4	Poaceae	HERB
+Edwards_a23	4065	2	4064	Hydrocotyle vulgaris	Hydrocotyle	HERB

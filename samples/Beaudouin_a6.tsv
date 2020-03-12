@@ -1,35 +1,35 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Beaudouin_a6	Abies	Abies	TRSH	4	0.67340067
-Beaudouin_a6	Alnus	Alnus	TRSH	3	0.50505051
-Beaudouin_a6	Carpinus	Carpinus betulus	TRSH	1	0.16835017
-Beaudouin_a6	Corylus	Corylus	TRSH	2	0.33670034
-Beaudouin_a6	Cupressaceae	Cupressaceae undiff.	TRSH	12	2.020202
-Beaudouin_a6	Ericaceae	Ericales (tetrad)	DWAR	1	0.16835017
-Beaudouin_a6	Fagus	Fagus	TRSH	1	0.16835017
-Beaudouin_a6	Fraxinus	Fraxinus	TRSH	3	0.50505051
-Beaudouin_a6	Hippophae rhamnoides	Hippophae rhamnoides	TRSH	1	0.16835017
-Beaudouin_a6	Olea	Olea europaea	TRSH	2	0.33670034
-Beaudouin_a6	Phillyrea	Phillyrea	TRSH	1	0.16835017
-Beaudouin_a6	Picea	Picea	TRSH	17	2.8619529
-Beaudouin_a6	Pinus	Pinus	TRSH	457	76.936027
-Beaudouin_a6	Platanus	Platanus	TRSH	14	2.3569024
-Beaudouin_a6	Quercus ilex-type	Quercus ilex-type	TRSH	3	0.50505051
-Beaudouin_a6	Quercus deciduous	Quercus robur-type	TRSH	25	4.2087542
-Beaudouin_a6	Salix	Salix	TRSH	4	0.67340067
-Beaudouin_a6	Ambrosia	Ambrosia	HERB	1	0.16835017
-Beaudouin_a6	Artemisia	Artemisia	HERB	4	0.67340067
-Beaudouin_a6	Asteroideae	Asteraceae subf. Asteroideae	HERB	1	0.16835017
-Beaudouin_a6	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	4	0.67340067
-Beaudouin_a6	Brassicaceae	Brassicaceae	HERB	8	1.3468013
-Beaudouin_a6	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	1	0.16835017
-Beaudouin_a6	Cerealia	Cerealia-type	HERB	1	0.16835017
-Beaudouin_a6	Amaranthaceae/Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	10	1.6835017
-Beaudouin_a6	Lamiaceae	Lamiaceae	HERB	1	0.16835017
-Beaudouin_a6	Plantago	Plantago	HERB	3	0.50505051
-Beaudouin_a6	Poaceae	Poaceae	HERB	7	1.1784512
-Beaudouin_a6	Ranunculaceae	Ranunculaceae	HERB	1	0.16835017
-Beaudouin_a6	Rumex	Rumex/Oxyria	HERB	1	0.16835017
-Beaudouin_a6	Cyperaceae	Cyperaceae	AQUA	4	0.67340067
-Beaudouin_a6	Potamogeton	Potamogeton-type	AQUA	1	0.16835017
-Beaudouin_a6	Typha	Sparganium-type	AQUA	1	0.16835017
-Beaudouin_a6	cf. Castanea	Indeterminable: unknown	INUN	2	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Beaudouin_a6	560	4	321	Abies	Abies	TRSH
+Beaudouin_a6	5	3	5	Alnus	Alnus	TRSH
+Beaudouin_a6	3525	10	24	Amaranthaceae/Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Beaudouin_a6	586	1	586	Ambrosia	Ambrosia	HERB
+Beaudouin_a6	7	4	7	Artemisia	Artemisia	HERB
+Beaudouin_a6	761	1	160	Asteroideae	Asteraceae subf. Asteroideae	HERB
+Beaudouin_a6	13	8	13	Brassicaceae	Brassicaceae	HERB
+Beaudouin_a6	18	1	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Beaudouin_a6	22	1	22	Cerealia	Cerealia-type	HERB
+Beaudouin_a6	2230	2	177	cf. Castanea	Indeterminable: unknown	INUN
+Beaudouin_a6	447	4	25	Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Beaudouin_a6	201	2	31	Corylus	Corylus	TRSH
+Beaudouin_a6	714	12	347	Cupressaceae	Cupressaceae undiff.	TRSH
+Beaudouin_a6	3868	4	3868	Cyperaceae	Cyperaceae	AQUA
+Beaudouin_a6	130	1	130	Ericaceae	Ericales (tetrad)	DWAR
+Beaudouin_a6	190	3	190	Fraxinus	Fraxinus	TRSH
+Beaudouin_a6	59	1	59	Lamiaceae	Lamiaceae	HERB
+Beaudouin_a6	442	2	68	Olea	Olea europaea	TRSH
+Beaudouin_a6	74	1	74	Phillyrea	Phillyrea	TRSH
+Beaudouin_a6	126	17	126	Picea	Picea	TRSH
+Beaudouin_a6	724	3	270	Plantago	Plantago	HERB
+Beaudouin_a6	78	14	78	Platanus	Platanus	TRSH
+Beaudouin_a6	80	7	80	Poaceae	Poaceae	HERB
+Beaudouin_a6	657	1	108	Potamogeton	Potamogeton-type	AQUA
+Beaudouin_a6	437	25	86	Quercus deciduous	Quercus robur-type	TRSH
+Beaudouin_a6	1052	3	85	Quercus ilex-type	Quercus ilex-type	TRSH
+Beaudouin_a6	135	1	135	Ranunculaceae	Ranunculaceae	HERB
+Beaudouin_a6	99	4	99	Salix	Salix	TRSH
+Beaudouin_a6	176	1	176	Typha	Sparganium-type	AQUA
+Beaudouin_a6	16	1	16	Carpinus	Carpinus betulus	TRSH
+Beaudouin_a6	75	457	75	Pinus	Pinus	TRSH
+Beaudouin_a6	192	1	42	Fagus	Fagus	TRSH
+Beaudouin_a6	727	1	94	Rumex	Rumex/Oxyria	HERB
+Beaudouin_a6	826	1	479	Hippophae rhamnoides	Hippophae rhamnoides	TRSH

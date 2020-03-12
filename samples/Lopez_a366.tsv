@@ -1,33 +1,33 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Lopez_a366	Juniperus-type	Juniperus-type	TRSH	2	0.39761431
-Lopez_a366	Pinus pinea/halepensis-type	Pinus halepensis-type	TRSH	8	1.5904573
-Lopez_a366	Pinus sylvestris/nigra-type	Pinus sylvestris-type	TRSH	1	0.19880716
-Lopez_a366	Populus	Populus	TRSH	2	0.39761431
-Lopez_a366	Quercus evergreen	Quercus ilex-type	TRSH	35	6.9582505
-Lopez_a366	Quercus deciduous	Quercus robur-type	TRSH	1	0.19880716
-Lopez_a366	Ulmus	Ulmus/Zelkova	TRSH	1	0.19880716
-Lopez_a366	Artemisia	Artemisia	HERB	16	3.1809145
-Lopez_a366	Aster-type	Aster-type	HERB	26	5.1689861
-Lopez_a366	Cardueae	Asteraceae subf. Carduoideae	HERB	5	0.99403579
-Lopez_a366	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	3	0.59642147
-Lopez_a366	Boraginaceae	Boraginaceae	HERB	3	0.59642147
-Lopez_a366	Cruciferae	Brassicaceae	HERB	3	0.59642147
-Lopez_a366	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	11	2.1868787
-Lopez_a366	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	26	5.1689861
-Lopez_a366	Fumaria officinalis-type	Fumaria	HERB	1	0.19880716
-Lopez_a366	Cytisus/Genista-type	Genista-type	HERB	5	0.99403579
-Lopez_a366	Helianthemum-type	Helianthemum	HERB	3	0.59642147
-Lopez_a366	Labiatae	Lamiaceae	HERB	25	4.9701789
-Lopez_a366	Anthemis-type	Matricaria-type	HERB	2	0.39761431
-Lopez_a366	Campanula-type	Phyteuma-type	HERB	2	0.39761431
-Lopez_a366	Plantago lanceolata-type	Plantago lanceolata-type	HERB	2	0.39761431
-Lopez_a366	Armeria/Limonium-type	Plumbaginaceae	HERB	6	1.1928429
-Lopez_a366	Poaceae undiff.	Poaceae	HERB	311	61.829026
-Lopez_a366	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	3	0.59642147
-Lopez_a366	Phragmites	Phragmites australis-type	AQUA	1	0.19880716
-Lopez_a366	Fabaceae undiff.	Fabaceae undiff.	INUN	2	
-Lopez_a366	Cercophora	Cercophora-type	FUNG	2	
-Lopez_a366	Glomus cf. G. fasciculatum	Glomus cf. fasciculatum	FUNG	5	
-Lopez_a366	Podospora	Podospora-type	FUNG	2	
-Lopez_a366	Sordaria	Sordaria-type	NOPO	11	
-Lopez_a366	Sporormiella	Sporormiella-type	FUNG	9	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Lopez_a366	589	2	3	Anthemis-type	Matricaria-type	HERB
+Lopez_a366	162	3	162	Boraginaceae	Boraginaceae	HERB
+Lopez_a366	1765	2	483	Campanula-type	Phyteuma-type	HERB
+Lopez_a366	445	5	336	Cardueae	Asteraceae subf. Carduoideae	HERB
+Lopez_a366	18	11	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Lopez_a366	2406	2	556	Cercophora	Cercophora-type	FUNG
+Lopez_a366	482	3	13	Cruciferae	Brassicaceae	HERB
+Lopez_a366	3960	2	3960	Fabaceae undiff.	Fabaceae undiff.	INUN
+Lopez_a366	3988	1	497	Fumaria officinalis-type	Fumaria	HERB
+Lopez_a366	4008	5	305	Glomus cf. G. fasciculatum	Glomus cf. fasciculatum	FUNG
+Lopez_a366	4039	3	52	Helianthemum-type	Helianthemum	HERB
+Lopez_a366	738	2	203	Juniperus-type	Juniperus-type	TRSH
+Lopez_a366	485	25	59	Labiatae	Lamiaceae	HERB
+Lopez_a366	4284	1	4284	Phragmites	Phragmites australis-type	AQUA
+Lopez_a366	4304	8	440	Pinus pinea/halepensis-type	Pinus halepensis-type	TRSH
+Lopez_a366	4308	1	125	Pinus sylvestris/nigra-type	Pinus sylvestris-type	TRSH
+Lopez_a366	1075	2	60	Plantago lanceolata-type	Plantago lanceolata-type	HERB
+Lopez_a366	429	311	80	Poaceae undiff.	Poaceae	HERB
+Lopez_a366	671	2	558	Podospora	Podospora-type	FUNG
+Lopez_a366	437	1	86	Quercus deciduous	Quercus robur-type	TRSH
+Lopez_a366	427	35	85	Quercus evergreen	Quercus ilex-type	TRSH
+Lopez_a366	173	3	173	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB
+Lopez_a366	4604	11	4604	Sordaria	Sordaria-type	NOPO
+Lopez_a366	677	9	557	Sporormiella	Sporormiella-type	FUNG
+Lopez_a366	154	1	154	Ulmus	Ulmus/Zelkova	TRSH
+Lopez_a366	7	16	7	Artemisia	Artemisia	HERB
+Lopez_a366	81	2	81	Populus	Populus	TRSH
+Lopez_a366	447	3	25	Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Lopez_a366	597	26	11	Aster-type	Aster-type	HERB
+Lopez_a366	769	26	24	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB
+Lopez_a366	3568	6	166	Armeria/Limonium-type	Plumbaginaceae	HERB
+Lopez_a366	3878	5	3878	Cytisus/Genista-type	Genista-type	HERB

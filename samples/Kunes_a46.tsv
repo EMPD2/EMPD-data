@@ -1,47 +1,47 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Kunes_a46	Alnus	Alnus	TRSH	1	0.067159167
-Kunes_a46	Betula	Betula	TRSH	1	0.067159167
-Kunes_a46	Betula nana	Betula nana-type	DWAR	99	6.6487576
-Kunes_a46	Ephedra fragilis-type	Ephedra fragilis-type	TRSH	1	0.067159167
-Kunes_a46	Juniperus-type	Juniperus-type	TRSH	4	0.26863667
-Kunes_a46	Larix/Pseudotsuga	Larix/Pseudotsuga	TRSH	52	3.4922767
-Kunes_a46	Picea	Picea	TRSH	6	0.402955
-Kunes_a46	Pinus cembra-type	Pinus cembra-type	TRSH	874	58.697112
-Kunes_a46	Sorbus/Cotoneaster	Sorbus-type	TRSH	4	0.26863667
-Kunes_a46	Vaccinium-type	Vaccinium-type	DWAR	3	0.2014775
-Kunes_a46	Lonicera	Lonicera	LIAN	1	0.067159167
-Kunes_a46	Allium-type	Allium-type	HERB	1	0.067159167
-Kunes_a46	Apiaceae	Apiaceae	HERB	4	0.26863667
-Kunes_a46	Apiaceae undiff.	Apiaceae	HERB	1	0.067159167
-Kunes_a46	Bupleurum-type	Apiaceae	HERB	79	5.3055742
-Kunes_a46	Artemisia	Artemisia	HERB	55	3.6937542
-Kunes_a46	Aruncus-type	Aruncus/Spiraea	HERB	7	0.47011417
-Kunes_a46	Astragalus-type	Astragalus-type	HERB	3	0.2014775
-Kunes_a46	Brassicaceae	Brassicaceae	HERB	2	0.13431833
-Kunes_a46	Chenopodiaceae pro parte	Chenopodiaceae/Amaranthaceae	HERB	14	0.94022834
-Kunes_a46	Filipendula	Filipendula	HERB	4	0.26863667
-Kunes_a46	Gentiana pneumonanthe-type	Gentiana pneumonanthe-type	HERB	2	0.13431833
-Kunes_a46	Cannabaceae	Humulus/Cannabis	HERB	11	0.73875084
-Kunes_a46	Matricaria-type	Matricaria-type	HERB	6	0.402955
-Kunes_a46	Onobrychis	Onobrychis	HERB	8	0.53727334
-Kunes_a46	Poaceae	Poaceae	HERB	147	9.8723976
-Kunes_a46	Polygala comosa-type	Polygala comosa-type	HERB	1	0.067159167
-Kunes_a46	Polygonatum	Polygonatum-type	HERB	1	0.067159167
-Kunes_a46	Polygonum alpinum	Polygonum alpinum	HERB	7	0.47011417
-Kunes_a46	Polygonum bistorta	Polygonum bistorta	HERB	1	0.067159167
-Kunes_a46	Potentilla-type	Potentilla-type	HERB	10	0.67159167
-Kunes_a46	Prunella-type	Prunella-type	HERB	1	0.067159167
-Kunes_a46	Ranunculus acris-type	Ranunculus acris-type	HERB	1	0.067159167
-Kunes_a46	Rhinanthus-type	Rhinanthus-type	HERB	1	0.067159167
-Kunes_a46	Rubiaceae	Rubiaceae	HERB	5	0.33579584
-Kunes_a46	Rumex-type	Rumex/Oxyria	HERB	1	0.067159167
-Kunes_a46	Sanguisorba officinalis	Sanguisorba officinalis	HERB	3	0.2014775
-Kunes_a46	Saussurea-type	Saussurea-type	HERB	1	0.067159167
-Kunes_a46	Senecio-type	Senecio-type	HERB	8	0.53727334
-Kunes_a46	Thalictrum	Thalictrum	HERB	29	1.9476158
-Kunes_a46	Trifolium repens-type	Trifolium repens-type	HERB	15	1.0073875
-Kunes_a46	Trollius europaeus	Trollius europaeus	HERB	9	0.60443251
-Kunes_a46	Urtica	Urtica	HERB	2	0.13431833
-Kunes_a46	Xanthium spinosum-type	Xanthium	HERB	3	0.2014775
-Kunes_a46	Cyperaceae	Cyperaceae	AQUA	36	2.41773
-Kunes_a46	Fabaceae pro parte	Fabaceae	INUN	1	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Kunes_a46	1326	1	4	Allium-type	Allium-type	HERB
+Kunes_a46	5	1	5	Alnus	Alnus	TRSH
+Kunes_a46	6	4	6	Apiaceae	Apiaceae	HERB
+Kunes_a46	1107	1	6	Apiaceae undiff.	Apiaceae	HERB
+Kunes_a46	7	55	7	Artemisia	Artemisia	HERB
+Kunes_a46	3575	7	1108	Aruncus-type	Aruncus/Spiraea	HERB
+Kunes_a46	1438	3	10	Astragalus-type	Astragalus-type	HERB
+Kunes_a46	1363	99	127	Betula nana	Betula nana-type	DWAR
+Kunes_a46	2550	79	6	Bupleurum-type	Apiaceae	HERB
+Kunes_a46	3652	11	205	Cannabaceae	Humulus/Cannabis	HERB
+Kunes_a46	3787	14	24	Chenopodiaceae pro parte	Chenopodiaceae/Amaranthaceae	HERB
+Kunes_a46	3868	36	3868	Cyperaceae	Cyperaceae	AQUA
+Kunes_a46	2424	1	36	Ephedra fragilis-type	Ephedra fragilis-type	TRSH
+Kunes_a46	3959	1	3958	Fabaceae pro parte	Fabaceae	INUN
+Kunes_a46	45	4	45	Filipendula	Filipendula	HERB
+Kunes_a46	738	4	203	Juniperus-type	Juniperus-type	TRSH
+Kunes_a46	2336	52	123	Larix/Pseudotsuga	Larix/Pseudotsuga	TRSH
+Kunes_a46	4150	1	4150	Lonicera	Lonicera	LIAN
+Kunes_a46	4298	874	124	Pinus cembra-type	Pinus cembra-type	TRSH
+Kunes_a46	4357	1	4357	Polygala comosa-type	Polygala comosa-type	HERB
+Kunes_a46	4361	1	4361	Polygonatum	Polygonatum-type	HERB
+Kunes_a46	625	1	625	Polygonum bistorta	Polygonum bistorta	HERB
+Kunes_a46	626	10	512	Potentilla-type	Potentilla-type	HERB
+Kunes_a46	1080	1	1080	Prunella-type	Prunella-type	HERB
+Kunes_a46	630	1	87	Ranunculus acris-type	Ranunculus acris-type	HERB
+Kunes_a46	631	1	631	Rhinanthus-type	Rhinanthus-type	HERB
+Kunes_a46	4520	1	94	Rumex-type	Rumex/Oxyria	HERB
+Kunes_a46	2925	1	235	Saussurea-type	Saussurea-type	HERB
+Kunes_a46	1230	8	133	Senecio-type	Senecio-type	HERB
+Kunes_a46	4603	4	107	Sorbus/Cotoneaster	Sorbus-type	TRSH
+Kunes_a46	112	29	112	Thalictrum	Thalictrum	HERB
+Kunes_a46	4694	9	2163	Trollius europaeus	Trollius europaeus	HERB
+Kunes_a46	4730	3	4730	Vaccinium-type	Vaccinium-type	DWAR
+Kunes_a46	1089	3	1044	Xanthium spinosum-type	Xanthium	HERB
+Kunes_a46	12	1	12	Betula	Betula	TRSH
+Kunes_a46	13	2	13	Brassicaceae	Brassicaceae	HERB
+Kunes_a46	80	147	80	Poaceae	Poaceae	HERB
+Kunes_a46	126	6	126	Picea	Picea	TRSH
+Kunes_a46	619	8	619	Onobrychis	Onobrychis	HERB
+Kunes_a46	652	2	652	Urtica	Urtica	HERB
+Kunes_a46	1067	2	607	Gentiana pneumonanthe-type	Gentiana pneumonanthe-type	HERB
+Kunes_a46	1072	6	3	Matricaria-type	Matricaria-type	HERB
+Kunes_a46	1188	3	474	Sanguisorba officinalis	Sanguisorba officinalis	HERB
+Kunes_a46	1786	15	116	Trifolium repens-type	Trifolium repens-type	HERB
+Kunes_a46	4362	7	4362	Polygonum alpinum	Polygonum alpinum	HERB
+Kunes_a46	93	5	93	Rubiaceae	Rubiaceae	HERB

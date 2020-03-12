@@ -1,32 +1,32 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Mikishin-Gvozdeva_a146	Abies	Abies	TRSH	60	8.4507042
-Mikishin-Gvozdeva_a146	Alnus	Alnus	TRSH	180	25.352113
-Mikishin-Gvozdeva_a146	Alnaster (Alnus shrub-type: Alnaster fruticosus, Alnus fruticosa, Alnus maximowiczii)	Alnus viridis	TRSH	8	1.1267606
-Mikishin-Gvozdeva_a146	Aralia	Araliaceae	TRSH	1	0.14084507
-Mikishin-Gvozdeva_a146	Betula	Betula	TRSH	56	7.8873239
-Mikishin-Gvozdeva_a146	Betula nana-type	Betula nana-type	DWAR	8	1.1267606
-Mikishin-Gvozdeva_a146	Juglans	Juglans	TRSH	1	0.14084507
-Mikishin-Gvozdeva_a146	Larix	Larix/Pseudotsuga	TRSH	1	0.14084507
-Mikishin-Gvozdeva_a146	Myrica tomentosa	Myrica	TRSH	1	0.14084507
-Mikishin-Gvozdeva_a146	Picea	Picea	TRSH	72	10.140845
-Mikishin-Gvozdeva_a146	Pinus sgen. Haploxylon	Pinus cembra-type	TRSH	11	1.5492958
-Mikishin-Gvozdeva_a146	Pinus sgen. Diploxylon	Pinus sylvestris-type	TRSH	2	0.28169014
-Mikishin-Gvozdeva_a146	Quercus	Quercus	TRSH	17	2.3943662
-Mikishin-Gvozdeva_a146	Rosaceae	Rosaceae	TRSH	4	0.56338028
-Mikishin-Gvozdeva_a146	Salix	Salix	TRSH	1	0.14084507
-Mikishin-Gvozdeva_a146	Ulmus	Ulmus/Zelkova	TRSH	5	0.70422535
-Mikishin-Gvozdeva_a146	Apiaceae	Apiaceae	HERB	15	2.1126761
-Mikishin-Gvozdeva_a146	Artemisia	Artemisia	HERB	28	3.943662
-Mikishin-Gvozdeva_a146	Asteraceae	Asteraceae	HERB	23	3.2394366
-Mikishin-Gvozdeva_a146	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	6	0.84507042
-Mikishin-Gvozdeva_a146	Cyperaceae	Cyperaceae	HERB	37	5.2112676
-Mikishin-Gvozdeva_a146	Fabaceae	Fabaceae	HERB	4	0.56338028
-Mikishin-Gvozdeva_a146	Liliaceae	Liliaceae-type	HERB	3	0.42253521
-Mikishin-Gvozdeva_a146	Poaceae	Poaceae	HERB	27	3.8028169
-Mikishin-Gvozdeva_a146	Rumex	Rumex/Oxyria	HERB	1	0.14084507
-Mikishin-Gvozdeva_a146	Sanguisorba	Sanguisorba officinalis	HERB	38	5.3521127
-Mikishin-Gvozdeva_a146	Thalictrum	Thalictrum	HERB	3	0.42253521
-Mikishin-Gvozdeva_a146	Bryales	Bryophyte spores	BRYO	73	10.28169
-Mikishin-Gvozdeva_a146	Lycopodium	Lycopodium	VACR	12	1.6901408
-Mikishin-Gvozdeva_a146	Osmunda	Osmunda regalis	VACR	12	1.6901408
-Mikishin-Gvozdeva_a146	Sphagnum	Sphagnum	NOPO	16	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Mikishin-Gvozdeva_a146	560	60	321	Abies	Abies	TRSH
+Mikishin-Gvozdeva_a146	126	72	126	Picea	Picea	TRSH
+Mikishin-Gvozdeva_a146	123	1	123	Larix	Larix/Pseudotsuga	TRSH
+Mikishin-Gvozdeva_a146	12	56	12	Betula	Betula	TRSH
+Mikishin-Gvozdeva_a146	2105	8	127	Betula nana-type	Betula nana-type	DWAR
+Mikishin-Gvozdeva_a146	5	180	5	Alnus	Alnus	TRSH
+Mikishin-Gvozdeva_a146	2222	8	129	Alnaster (Alnus shrub-type: Alnaster fruticosus, Alnus fruticosa, Alnus maximowiczii)	Alnus viridis	TRSH
+Mikishin-Gvozdeva_a146	2223	1	977	Myrica tomentosa	Myrica	TRSH
+Mikishin-Gvozdeva_a146	189	17	189	Quercus	Quercus	TRSH
+Mikishin-Gvozdeva_a146	154	5	154	Ulmus	Ulmus/Zelkova	TRSH
+Mikishin-Gvozdeva_a146	57	1	57	Juglans	Juglans	TRSH
+Mikishin-Gvozdeva_a146	2227	1	2227	Aralia	Araliaceae	TRSH
+Mikishin-Gvozdeva_a146	33	37	33	Cyperaceae	Cyperaceae	HERB
+Mikishin-Gvozdeva_a146	80	27	80	Poaceae	Poaceae	HERB
+Mikishin-Gvozdeva_a146	6	15	6	Apiaceae	Apiaceae	HERB
+Mikishin-Gvozdeva_a146	92	4	92	Rosaceae	Rosaceae	TRSH
+Mikishin-Gvozdeva_a146	7	28	7	Artemisia	Artemisia	HERB
+Mikishin-Gvozdeva_a146	24	6	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Mikishin-Gvozdeva_a146	112	3	112	Thalictrum	Thalictrum	HERB
+Mikishin-Gvozdeva_a146	62	3	62	Liliaceae	Liliaceae-type	HERB
+Mikishin-Gvozdeva_a146	638	38	474	Sanguisorba	Sanguisorba officinalis	HERB
+Mikishin-Gvozdeva_a146	41	4	41	Fabaceae	Fabaceae	HERB
+Mikishin-Gvozdeva_a146	727	1	94	Rumex	Rumex/Oxyria	HERB
+Mikishin-Gvozdeva_a146	144	16	144	Sphagnum	Sphagnum	BRYO
+Mikishin-Gvozdeva_a146	1555	12	465	Osmunda	Osmunda regalis	VACR
+Mikishin-Gvozdeva_a146	143	12	143	Lycopodium	Lycopodium	VACR
+Mikishin-Gvozdeva_a146	99	1	99	Salix	Salix	TRSH
+Mikishin-Gvozdeva_a146	134	23	134	Asteraceae	Asteraceae	HERB
+Mikishin-Gvozdeva_a146	147	73	147	Bryales	Bryophyte spores	BRYO
+Mikishin-Gvozdeva_a146	2218	2	125	Pinus sgen. Diploxylon	Pinus sylvestris-type	TRSH
+Mikishin-Gvozdeva_a146	2219	11	124	Pinus sgen. Haploxylon	Pinus cembra-type	TRSH

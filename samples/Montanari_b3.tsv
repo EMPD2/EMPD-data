@@ -1,37 +1,37 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Montanari_b3	ABIES	Abies	TRSH	78	4.1845494
-Montanari_b3	ACER	Acer campestre-type	TRSH	37	1.9849785
-Montanari_b3	ALNUS	Alnus	TRSH	76	4.0772532
-Montanari_b3	BETULA	Betula	TRSH	18	0.96566524
-Montanari_b3	CALLUNA	Calluna vulgaris	TRSH	1	0.053648069
-Montanari_b3	CARPINUS	Carpinus betulus	TRSH	81	4.3454936
-Montanari_b3	CASTANEA	Castanea sativa	TRSH	38	2.0386266
-Montanari_b3	CORYLUS	Corylus	TRSH	65	3.4871245
-Montanari_b3	ERICA arborea	Erica arborea-type	TRSH	13	0.69742489
-Montanari_b3	FAGUS	Fagus	TRSH	33	1.7703863
-Montanari_b3	FRAXINUS	Fraxinus	TRSH	159	8.5300429
-Montanari_b3	OSTRYA	Ostrya/Carpinus orientalis	TRSH	219	11.748927
-Montanari_b3	PICEA	Picea	TRSH	6	0.32188841
-Montanari_b3	PINUS indiff.	Pinus	TRSH	134	7.1888412
-Montanari_b3	QUERCUS t.ilex	Quercus ilex-type	TRSH	11	0.59012876
-Montanari_b3	QUERCUS decid.	Quercus robur-type	TRSH	106	5.6866953
-Montanari_b3	ROSACEAE	Rosaceae	TRSH	12	0.64377682
-Montanari_b3	SALIX	Salix	TRSH	6	0.32188841
-Montanari_b3	TILIA	Tilia	TRSH	18	0.96566524
-Montanari_b3	UMBELLIFERAE	Apiaceae	HERB	42	2.2532189
-Montanari_b3	ARTEMISIA	Artemisia	HERB	8	0.42918455
-Montanari_b3	ASTERACEAE tub.	Asteraceae subf. Asteroideae	HERB	41	2.1995708
-Montanari_b3	CEREALIA t.	Cerealia-type	HERB	183	9.8175966
-Montanari_b3	CHENOPODIACEAE	Chenopodiaceae/Amaranthaceae	HERB	20	1.0729614
-Montanari_b3	LABIATAE	Lamiaceae	HERB	20	1.0729614
-Montanari_b3	PLANTAGO	Plantago	HERB	51	2.7360515
-Montanari_b3	POACEAE	Poaceae	HERB	271	14.538627
-Montanari_b3	GALIUM	Rubiaceae	HERB	15	0.80472103
-Montanari_b3	RUMEX	Rumex/Oxyria	HERB	1	0.053648069
-Montanari_b3	URTICACEAE undiff.	Urticaceae	HERB	15	0.80472103
-Montanari_b3	FILICALES	Monolete fern spores	VACR	86	4.6137339
-Montanari_b3	unidentified	Indeterminable: unknown	INUN	4	
-Montanari_b3	examined volume (Vg)	Sample volume (ml)	NOPO	0.02	
-Montanari_b3	sample volume (Vp)	Sample volume (ml)	NOPO	5	
-Montanari_b3	concentration (F.P.A., grains/gram)	Total concentration	NOPO	230571.74	
-Montanari_b3	sample weight (Pp)	Weight (g)	NOPO	2.0254	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Montanari_b3	2696	134	75	PINUS indiff.	Pinus	TRSH
+Montanari_b3	321	78	321	ABIES	Abies	TRSH
+Montanari_b3	324	76	5	ALNUS	Alnus	TRSH
+Montanari_b3	330	18	12	BETULA	Betula	TRSH
+Montanari_b3	357	33	42	FAGUS	Fagus	TRSH
+Montanari_b3	359	159	190	FRAXINUS	Fraxinus	TRSH
+Montanari_b3	379	219	70	OSTRYA	Ostrya/Carpinus orientalis	TRSH
+Montanari_b3	383	6	126	PICEA	Picea	TRSH
+Montanari_b3	2635	81	16	CARPINUS	Carpinus betulus	TRSH
+Montanari_b3	2639	106	86	QUERCUS decid.	Quercus robur-type	TRSH
+Montanari_b3	322	37	2	ACER	Acer campestre-type	TRSH
+Montanari_b3	339	38	19	CASTANEA	Castanea sativa	TRSH
+Montanari_b3	346	65	31	CORYLUS	Corylus	TRSH
+Montanari_b3	406	6	99	SALIX	Salix	TRSH
+Montanari_b3	2642	18	187	TILIA	Tilia	TRSH
+Montanari_b3	2702	11	85	QUERCUS t.ilex	Quercus ilex-type	TRSH
+Montanari_b3	328	8	7	ARTEMISIA	Artemisia	HERB
+Montanari_b3	388	271	80	POACEAE	Poaceae	HERB
+Montanari_b3	1316	42	6	UMBELLIFERAE	Apiaceae	HERB
+Montanari_b3	2649	1	457	CALLUNA	Calluna vulgaris	TRSH
+Montanari_b3	2709	13	455	ERICA arborea	Erica arborea-type	TRSH
+Montanari_b3	2714	183	22	CEREALIA t.	Cerealia-type	HERB
+Montanari_b3	2716	41	160	ASTERACEAE tub.	Asteraceae subf. Asteroideae	HERB
+Montanari_b3	402	12	92	ROSACEAE	Rosaceae	TRSH
+Montanari_b3	386	51	270	PLANTAGO	Plantago	HERB
+Montanari_b3	404	1	94	RUMEX	Rumex/Oxyria	HERB
+Montanari_b3	1305	20	59	LABIATAE	Lamiaceae	HERB
+Montanari_b3	1319	86	146	FILICALES	Monolete fern spores	VACR
+Montanari_b3	2671	20	24	CHENOPODIACEAE	Chenopodiaceae/Amaranthaceae	HERB
+Montanari_b3	2718	15	809	URTICACEAE undiff.	Urticaceae	HERB
+Montanari_b3	1304	15	93	GALIUM	Rubiaceae	HERB
+Montanari_b3	2691	4	177	unidentified	Indeterminable: unknown	INUN
+Montanari_b3	2725	2.0254	2695	sample weight (Pp)	Weight (g)	NOPO
+Montanari_b3	2726	0.02	883	examined volume (Vg)	Sample volume (ml)	NOPO
+Montanari_b3	2727	5	883	sample volume (Vp)	Sample volume (ml)	NOPO
+Montanari_b3	2728	230571.74	2014	concentration (F.P.A., grains/gram)	Total concentration	NOPO

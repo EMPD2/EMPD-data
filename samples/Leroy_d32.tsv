@@ -1,38 +1,38 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Leroy_d32	Abies	Abies	TRSH	1	0.3030303
-Leroy_d32	Alnus	Alnus	TRSH	2	0.60606061
-Leroy_d32	Carpinus betulus-type	Carpinus betulus	TRSH	23	6.969697
-Leroy_d32	Castanea	Castanea sativa	TRSH	1	0.3030303
-Leroy_d32	Corylus	Corylus	TRSH	17	5.1515152
-Leroy_d32	Cupressaceae	Cupressaceae undiff.	TRSH	3	0.90909091
-Leroy_d32	Ericaceae	Ericales (tetrad)	DWAR	6	1.8181818
-Leroy_d32	Fagus	Fagus	TRSH	35	10.606061
-Leroy_d32	Hippophae	Hippophae rhamnoides	TRSH	1	0.3030303
-Leroy_d32	Juglans	Juglans	TRSH	13	3.9393939
-Leroy_d32	Pinus	Pinus	TRSH	96	29.090909
-Leroy_d32	Pistacia	Pistacia	TRSH	2	0.60606061
-Leroy_d32	Platanus	Platanus	TRSH	1	0.3030303
-Leroy_d32	Quercus evergreen	Quercus ilex-type	TRSH	6	1.8181818
-Leroy_d32	Quercus deciduous	Quercus robur-type	TRSH	58	17.575758
-Leroy_d32	Rhododendron	Rhododendron	TRSH	1	0.3030303
-Leroy_d32	Rosaceae	Rosaceae	TRSH	1	0.3030303
-Leroy_d32	Salix	Salix	TRSH	2	0.60606061
-Leroy_d32	Taxus	Taxus baccata	TRSH	1	0.3030303
-Leroy_d32	Asteraceae Tubuliflorae	Asteraceae subf. Asteroideae	HERB	4	1.2121212
-Leroy_d32	Asteraceae Liguliflorae	Asteraceae subf. Cichorioideae	HERB	1	0.3030303
-Leroy_d32	Brassicaceae	Brassicaceae	HERB	1	0.3030303
-Leroy_d32	Amaranthaceae/Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	4	1.2121212
-Leroy_d32	Cistus	Cistus	HERB	1	0.3030303
-Leroy_d32	Plantago	Plantago	HERB	1	0.3030303
-Leroy_d32	Plantago lanceolata	Plantago lanceolata-type	HERB	1	0.3030303
-Leroy_d32	Poaceae (37 um)	Poaceae	HERB	4	1.2121212
-Leroy_d32	Poaceae	Poaceae	HERB	37	11.212121
-Leroy_d32	Rumex	Rumex/Oxyria	HERB	1	0.3030303
-Leroy_d32	Zea mays	Zea mays	HERB	3	0.90909091
-Leroy_d32	Pteridium aquilinum-type	Pteridium aquilinum	VACR	1	0.3030303
-Leroy_d32	Trilete spores (psilate)	Trilete spore(s)	VACR	1	0.3030303
-Leroy_d32	Brigantedinium	Brigantedinium	ALGA	3	0.90909091
-Leroy_d32	Cyperaceae	Cyperaceae	AQUA	2	0.60606061
-Leroy_d32	Pediastrum boryanum	Pediastrum boryanum	ALGA	1	0.3030303
-Leroy_d32	Indeterminable: unknown	Indeterminable: unknown	INUN	8	
-Leroy_d32	Spiniferites cruciferus	Spiniferites cruciferus	DINO	8	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Leroy_d32	560	1	321	Abies	Abies	TRSH
+Leroy_d32	5	2	5	Alnus	Alnus	TRSH
+Leroy_d32	3525	4	24	Amaranthaceae/Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Leroy_d32	1337	1	25	Asteraceae Liguliflorae	Asteraceae subf. Cichorioideae	HERB
+Leroy_d32	1927	4	160	Asteraceae Tubuliflorae	Asteraceae subf. Asteroideae	HERB
+Leroy_d32	3632	3	3632	Brigantedinium	Brigantedinium	ALGA
+Leroy_d32	3667	23	16	Carpinus betulus-type	Carpinus betulus	TRSH
+Leroy_d32	3796	1	3796	Cistus	Cistus	HERB
+Leroy_d32	201	17	31	Corylus	Corylus	TRSH
+Leroy_d32	3868	2	3868	Cyperaceae	Cyperaceae	AQUA
+Leroy_d32	130	6	130	Ericaceae	Ericales (tetrad)	DWAR
+Leroy_d32	1048	1	479	Hippophae	Hippophae rhamnoides	TRSH
+Leroy_d32	4078	8	177	Indeterminable: unknown	Indeterminable: unknown	INUN
+Leroy_d32	57	13	57	Juglans	Juglans	TRSH
+Leroy_d32	909	1	909	Pediastrum boryanum	Pediastrum boryanum	ALGA
+Leroy_d32	724	1	270	Plantago	Plantago	HERB
+Leroy_d32	60	1	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+Leroy_d32	78	1	78	Platanus	Platanus	TRSH
+Leroy_d32	80	37	80	Poaceae	Poaceae	HERB
+Leroy_d32	4338	4	80	Poaceae (37 um)	Poaceae	HERB
+Leroy_d32	4405	1	180	Pteridium aquilinum-type	Pteridium aquilinum	VACR
+Leroy_d32	437	58	86	Quercus deciduous	Quercus robur-type	TRSH
+Leroy_d32	427	6	85	Quercus evergreen	Quercus ilex-type	TRSH
+Leroy_d32	480	1	480	Rhododendron	Rhododendron	TRSH
+Leroy_d32	727	1	94	Rumex	Rumex/Oxyria	HERB
+Leroy_d32	4632	8	4632	Spiniferites cruciferus	Spiniferites cruciferus	DINO
+Leroy_d32	198	1	111	Taxus	Taxus baccata	TRSH
+Leroy_d32	13	1	13	Brassicaceae	Brassicaceae	HERB
+Leroy_d32	75	96	75	Pinus	Pinus	TRSH
+Leroy_d32	77	2	77	Pistacia	Pistacia	TRSH
+Leroy_d32	99	2	99	Salix	Salix	TRSH
+Leroy_d32	192	35	42	Fagus	Fagus	TRSH
+Leroy_d32	441	1	19	Castanea	Castanea sativa	TRSH
+Leroy_d32	714	3	347	Cupressaceae	Cupressaceae undiff.	TRSH
+Leroy_d32	812	3	423	Zea mays	Zea mays	HERB
+Leroy_d32	4687	1	279	Trilete spores (psilate)	Trilete spore(s)	VACR
+Leroy_d32	92	1	92	Rosaceae	Rosaceae	TRSH

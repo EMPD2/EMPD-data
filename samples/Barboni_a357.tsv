@@ -1,39 +1,39 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Barboni_a357	Alnus	Alnus	TRSH	13	3.4482759
-Barboni_a357	Betula	Betula	TRSH	38	10.079576
-Barboni_a357	Calluna	Calluna vulgaris	DWAR	3	0.79575597
-Barboni_a357	Corylus	Corylus	TRSH	46	12.201592
-Barboni_a357	Empetrum	Empetrum nigrum	DWAR	1	0.26525199
-Barboni_a357	Fagus	Fagus	TRSH	10	2.6525199
-Barboni_a357	Juniperus	Juniperus communis-type	TRSH	7	1.8567639
-Barboni_a357	Picea	Picea	TRSH	18	4.7745358
-Barboni_a357	Pinus	Pinus	TRSH	9	2.3872679
-Barboni_a357	Quercus robur-type	Quercus robur-type	TRSH	13	3.4482759
-Barboni_a357	Rosaceae	Rosaceae	TRSH	5	1.3262599
-Barboni_a357	Salix	Salix	TRSH	3	0.79575597
-Barboni_a357	Tilia	Tilia	TRSH	1	0.26525199
-Barboni_a357	Ulmus	Ulmus/Zelkova	TRSH	1	0.26525199
-Barboni_a357	Anemone	Anemone nemorosa-type	HERB	2	0.53050398
-Barboni_a357	Artemisia	Artemisia	HERB	3	0.79575597
-Barboni_a357	Aster-type	Aster-type	HERB	1	0.26525199
-Barboni_a357	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB	1	0.26525199
-Barboni_a357	Cruciferae	Brassicaceae	HERB	2	0.53050398
-Barboni_a357	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	1	0.26525199
-Barboni_a357	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.26525199
-Barboni_a357	Crassulaceae	Crassulaceae	HERB	1	0.26525199
-Barboni_a357	Filipendula	Filipendula	HERB	2	0.53050398
-Barboni_a357	Helianthemum	Helianthemum	HERB	1	0.26525199
-Barboni_a357	Labiatae	Lamiaceae	HERB	1	0.26525199
-Barboni_a357	Plantago lanceolata	Plantago lanceolata-type	HERB	1	0.26525199
-Barboni_a357	Gramineae	Poaceae	HERB	40	10.61008
-Barboni_a357	Ranunculaceae	Ranunculaceae	HERB	1	0.26525199
-Barboni_a357	Galium-type	Rubiaceae	HERB	1	0.26525199
-Barboni_a357	Rumex	Rumex/Oxyria	HERB	2	0.53050398
-Barboni_a357	Saxifraga granulata	Saxifraga granulata-type	HERB	1	0.26525199
-Barboni_a357	Saxifraga oppositifolia	Saxifraga oppositifolia-type	HERB	1	0.26525199
-Barboni_a357	Thalictrum	Thalictrum	HERB	1	0.26525199
-Barboni_a357	Monolete spore(s)	Monolete fern spores	VACR	40	10.61008
-Barboni_a357	Pteridium	Pteridium	VACR	105	27.851459
-Barboni_a357	Cyperaceae	Cyperaceae	AQUA	13	3.4482759
-Barboni_a357	Potamogeton	Potamogeton-type	AQUA	1	0.26525199
-Barboni_a357	Typha latifolia	Typha latifolia	AQUA	2	0.53050398
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Barboni_a357	5	13	5	Alnus	Alnus	TRSH
+Barboni_a357	588	2	588	Anemone	Anemone nemorosa-type	HERB
+Barboni_a357	7	3	7	Artemisia	Artemisia	HERB
+Barboni_a357	597	1	11	Aster-type	Aster-type	HERB
+Barboni_a357	12	38	12	Betula	Betula	TRSH
+Barboni_a357	3645	3	3645	Calluna	Calluna vulgaris	DWAR
+Barboni_a357	18	1	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Barboni_a357	482	2	13	Cruciferae	Brassicaceae	HERB
+Barboni_a357	739	1	739	Empetrum	Empetrum nigrum	DWAR
+Barboni_a357	192	10	42	Fagus	Fagus	TRSH
+Barboni_a357	45	2	45	Filipendula	Filipendula	HERB
+Barboni_a357	605	1	93	Galium-type	Rubiaceae	HERB
+Barboni_a357	1601	40	80	Gramineae	Poaceae	HERB
+Barboni_a357	52	1	52	Helianthemum	Helianthemum	HERB
+Barboni_a357	58	7	58	Juniperus	Juniperus communis-type	TRSH
+Barboni_a357	485	1	59	Labiatae	Lamiaceae	HERB
+Barboni_a357	4197	40	146	Monolete spore(s)	Monolete fern spores	VACR
+Barboni_a357	126	18	126	Picea	Picea	TRSH
+Barboni_a357	60	1	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+Barboni_a357	657	1	108	Potamogeton	Potamogeton-type	AQUA
+Barboni_a357	431	105	180	Pteridium	Pteridium aquilinum	VACR
+Barboni_a357	152	13	86	Quercus robur-type	Quercus robur-type	TRSH
+Barboni_a357	135	1	135	Ranunculaceae	Ranunculaceae	HERB
+Barboni_a357	92	5	92	Rosaceae	Rosaceae	TRSH
+Barboni_a357	727	2	94	Rumex	Rumex/Oxyria	HERB
+Barboni_a357	99	3	99	Salix	Salix	TRSH
+Barboni_a357	112	1	112	Thalictrum	Thalictrum	HERB
+Barboni_a357	187	1	187	Tilia	Tilia	TRSH
+Barboni_a357	24	1	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Barboni_a357	75	9	75	Pinus	Pinus	TRSH
+Barboni_a357	154	1	154	Ulmus	Ulmus/Zelkova	TRSH
+Barboni_a357	201	46	31	Corylus	Corylus	TRSH
+Barboni_a357	519	1	519	Crassulaceae	Crassulaceae	HERB
+Barboni_a357	743	1	640	Saxifraga oppositifolia	Saxifraga oppositifolia-type	HERB
+Barboni_a357	1287	2	417	Typha latifolia	Typha latifolia	AQUA
+Barboni_a357	3824	1	25	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Barboni_a357	3868	13	3868	Cyperaceae	Cyperaceae	AQUA
+Barboni_a357	4555	1	1402	Saxifraga granulata	Saxifraga granulata-type	HERB

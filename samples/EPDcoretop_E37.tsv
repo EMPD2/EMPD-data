@@ -1,40 +1,40 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-EPDcoretop_E37	Alnus	Alnus	TRSH	4	0.65897858
-EPDcoretop_E37	Betula	Betula	TRSH	268	44.151565
-EPDcoretop_E37	Calluna vulgaris	Calluna vulgaris	DWAR	1	0.16474465
-EPDcoretop_E37	Corylus	Corylus	TRSH	1	0.16474465
-EPDcoretop_E37	Empetrum nigrum	Empetrum nigrum	DWAR	3	0.49423394
-EPDcoretop_E37	Ericaceae-type	Ericales (tetrad)	DWAR	23	3.7891269
-EPDcoretop_E37	Juniperus communis	Juniperus communis-type	TRSH	10	1.6474465
-EPDcoretop_E37	Picea	Picea	TRSH	1	0.16474465
-EPDcoretop_E37	Pinus sylvestris	Pinus sylvestris-type	TRSH	84	13.83855
-EPDcoretop_E37	Salix herbacea-type	Salix	TRSH	1	0.16474465
-EPDcoretop_E37	Salix undiff.	Salix	TRSH	7	1.1532125
-EPDcoretop_E37	Vaccinium-type	Vaccinium-type	DWAR	2	0.32948929
-EPDcoretop_E37	Artemisia	Artemisia	HERB	1	0.16474465
-EPDcoretop_E37	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB	1	0.16474465
-EPDcoretop_E37	Filipendula	Filipendula	HERB	2	0.32948929
-EPDcoretop_E37	Melampyrum	Melampyrum	HERB	1	0.16474465
-EPDcoretop_E37	Oxyria digyna	Oxyria digyna	HERB	1	0.16474465
-EPDcoretop_E37	Poaceae	Poaceae	HERB	43	7.0840198
-EPDcoretop_E37	Ranunculus acris-type	Ranunculus acris-type	HERB	2	0.32948929
-EPDcoretop_E37	Rumex acetosa-type	Rumex acetosa-type	HERB	3	0.49423394
-EPDcoretop_E37	Rumex acetosa/R. acetosella-type	Rumex acetosa-type	HERB	2	0.32948929
-EPDcoretop_E37	Solidago-type	Senecio-type	HERB	3	0.49423394
-EPDcoretop_E37	Thalictrum	Thalictrum	HERB	14	2.306425
-EPDcoretop_E37	Cryptogramma crispa	Cryptogramma crispa	VACR	1	0.16474465
-EPDcoretop_E37	Dryopteris-type	Dryopteris-type	VACR	89	14.662273
-EPDcoretop_E37	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR	9	1.4827018
-EPDcoretop_E37	Lycopodium annotinum	Lycopodium annotinum-type	VACR	8	1.3179572
-EPDcoretop_E37	Polypodium vulgare	Polypodium	VACR	1	0.16474465
-EPDcoretop_E37	Selaginella selaginoides	Selaginella selaginoides	VACR	18	2.9654036
-EPDcoretop_E37	Sphagnum	Sphagnum	BRYO	3	0.49423394
-EPDcoretop_E37	Botryococcus	Botryococcus	ALGA	198	32.61944
-EPDcoretop_E37	Carex-type	Carex	AQUA	63	10.378913
-EPDcoretop_E37	Cyperaceae undiff.	Cyperaceae	AQUA	52	8.5667216
-EPDcoretop_E37	Menyanthes trifoliata	Menyanthes trifoliata	AQUA	1	0.16474465
-EPDcoretop_E37	Pediastrum	Pediastrum	ALGA	216	35.584843
-EPDcoretop_E37	Charcoal	Charcoal	MACR	18	
-EPDcoretop_E37	Concentration of spike	Concentration of spike	NOPO	182	
-EPDcoretop_E37	Exotic grains	Exotic grains	NOPO	2547	
-EPDcoretop_E37	Weight of tablets	Weight of tablets	NOPO	444	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+EPDcoretop_E37	5	4	5	Alnus	Alnus	TRSH
+EPDcoretop_E37	7	1	7	Artemisia	Artemisia	HERB
+EPDcoretop_E37	12	268	12	Betula	Betula	TRSH
+EPDcoretop_E37	3773	18	3773	Charcoal	Charcoal	MACR
+EPDcoretop_E37	3824	1	25	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+EPDcoretop_E37	3829	182	3829	Concentration of spike	Concentration of spike	NOPO
+EPDcoretop_E37	201	1	31	Corylus	Corylus	TRSH
+EPDcoretop_E37	1607	1	553	Cryptogramma crispa	Cryptogramma crispa	VACR
+EPDcoretop_E37	3873	52	3868	Cyperaceae undiff.	Cyperaceae	AQUA
+EPDcoretop_E37	1247	89	772	Dryopteris-type	Dryopteris-type	VACR
+EPDcoretop_E37	3944	23	130	Ericaceae-type	Ericales (tetrad)	DWAR
+EPDcoretop_E37	3957	2547	3957	Exotic grains	Exotic grains	NOPO
+EPDcoretop_E37	45	2	45	Filipendula	Filipendula	HERB
+EPDcoretop_E37	2121	9	1320	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR
+EPDcoretop_E37	941	10	58	Juniperus communis	Juniperus communis-type	TRSH
+EPDcoretop_E37	473	1	473	Melampyrum	Melampyrum	HERB
+EPDcoretop_E37	662	216	662	Pediastrum	Pediastrum	ALGA
+EPDcoretop_E37	126	1	126	Picea	Picea	TRSH
+EPDcoretop_E37	788	84	125	Pinus sylvestris	Pinus sylvestris-type	TRSH
+EPDcoretop_E37	80	43	80	Poaceae	Poaceae	HERB
+EPDcoretop_E37	667	1	214	Polypodium vulgare	Polypodium	VACR
+EPDcoretop_E37	630	2	87	Ranunculus acris-type	Ranunculus acris-type	HERB
+EPDcoretop_E37	634	3	95	Rumex acetosa-type	Rumex acetosa-type	HERB
+EPDcoretop_E37	4506	2	95	Rumex acetosa/R. acetosella-type	Rumex acetosa-type	HERB
+EPDcoretop_E37	4530	1	99	Salix herbacea-type	Salix	TRSH
+EPDcoretop_E37	1400	7	99	Salix undiff.	Salix	TRSH
+EPDcoretop_E37	874	18	185	Selaginella selaginoides	Selaginella selaginoides	VACR
+EPDcoretop_E37	2428	3	133	Solidago-type	Senecio-type	HERB
+EPDcoretop_E37	144	3	144	Sphagnum	Sphagnum	BRYO
+EPDcoretop_E37	4730	2	4730	Vaccinium-type	Vaccinium-type	DWAR
+EPDcoretop_E37	4763	444	4763	Weight of tablets	Weight of tablets	NOPO
+EPDcoretop_E37	112	14	112	Thalictrum	Thalictrum	HERB
+EPDcoretop_E37	241	1	241	Oxyria digyna	Oxyria digyna	HERB
+EPDcoretop_E37	663	198	663	Botryococcus	Botryococcus	ALGA
+EPDcoretop_E37	939	3	739	Empetrum nigrum	Empetrum nigrum	DWAR
+EPDcoretop_E37	961	1	175	Menyanthes trifoliata	Menyanthes trifoliata	AQUA
+EPDcoretop_E37	965	8	183	Lycopodium annotinum	Lycopodium annotinum-type	VACR
+EPDcoretop_E37	3646	1	3645	Calluna vulgaris	Calluna vulgaris	DWAR
+EPDcoretop_E37	3665	63	3663	Carex-type	Carex	AQUA

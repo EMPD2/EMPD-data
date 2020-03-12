@@ -1,40 +1,40 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Bjune_a74	Alnus	Alnus	TRSH	12	2.3076923
-Bjune_a74	Betula	Betula	TRSH	167	32.115385
-Bjune_a74	Betula/Corylus/Myrica	Betula/Corylus/Myrica	TRSH	4	0.76923077
-Bjune_a74	Calluna vulgaris	Calluna vulgaris	DWAR	4	0.76923077
-Bjune_a74	Corylus avellana	Corylus	TRSH	3	0.57692308
-Bjune_a74	Ericaceae-type	Ericales (tetrad)	DWAR	2	0.38461538
-Bjune_a74	Fraxinus excelsior	Fraxinus excelsior-type	TRSH	1	0.19230769
-Bjune_a74	Juniperus communis	Juniperus communis-type	TRSH	25	4.8076923
-Bjune_a74	Picea	Picea	TRSH	8	1.5384615
-Bjune_a74	Pinus sylvestris	Pinus sylvestris-type	TRSH	138	26.538462
-Bjune_a74	Salix undiff.	Salix	TRSH	2	0.38461538
-Bjune_a74	Umbelliferae undiff.	Apiaceae	HERB	1	0.19230769
-Bjune_a74	Angelica-type	Apiaceae	HERB	2	0.38461538
-Bjune_a74	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB	2	0.38461538
-Bjune_a74	Filipendula	Filipendula	HERB	2	0.38461538
-Bjune_a74	Melampyrum	Melampyrum	HERB	1	0.19230769
-Bjune_a74	Parnassia palustris	Parnassia palustris	HERB	2	0.38461538
-Bjune_a74	Gramineae undiff.	Poaceae	HERB	71	13.653846
-Bjune_a74	Potentilla-type	Potentilla-type	HERB	3	0.57692308
-Bjune_a74	Rumex acetosa-type/R. acetosella-type	Rumex acetosa-type	HERB	5	0.96153846
-Bjune_a74	Rumex acetosa	Rumex acetosa-type	HERB	2	0.38461538
-Bjune_a74	Rumex acetosella-type	Rumex acetosella	HERB	2	0.38461538
-Bjune_a74	Solidago-type	Senecio-type	HERB	1	0.19230769
-Bjune_a74	Urtica	Urtica	HERB	3	0.57692308
-Bjune_a74	Dryopteris-type	Dryopteris-type	VACR	26	5
-Bjune_a74	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR	4	0.76923077
-Bjune_a74	Lycopodium annotinum	Lycopodium annotinum-type	VACR	2	0.38461538
-Bjune_a74	Selaginella selaginoides	Selaginella selaginoides	VACR	10	1.9230769
-Bjune_a74	Sphagnum	Sphagnum	BRYO	15	2.8846154
-Bjune_a74	Botryococcus	Botryococcus	ALGA	12	2.3076923
-Bjune_a74	Carex-type	Carex	AQUA	46	8.8461538
-Bjune_a74	Cyperaceae undiff.	Cyperaceae	AQUA	35	6.7307692
-Bjune_a74	Isoetes lacustris	Isoetes lacustris	AQPT	3	0.57692308
-Bjune_a74	Pediastrum	Pediastrum	ALGA	27	5.1923077
-Bjune_a74	Potamogeton sect. Eupotamogeton	Potamogeton natans-type	AQUA	5	0.96153846
-Bjune_a74	Scirpus lacustris-type	Scirpus-type	AQUA	3	0.57692308
-Bjune_a74	Indeterminable: broken	Indeterminable: broken	INUN	1	
-Bjune_a74	Indeterminable: corroded	Indeterminable: corroded	INUN	14	
-Bjune_a74	Indeterminable: crumpled	Indeterminable: crumpled	INUN	5	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Bjune_a74	5	12	5	Alnus	Alnus	TRSH
+Bjune_a74	3541	2	6	Angelica-type	Apiaceae	HERB
+Bjune_a74	3619	4	3619	Betula/Corylus/Myrica	Betula/Corylus/Myrica	TRSH
+Bjune_a74	663	12	663	Botryococcus	Botryococcus	ALGA
+Bjune_a74	3646	4	3645	Calluna vulgaris	Calluna vulgaris	DWAR
+Bjune_a74	3824	2	25	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Bjune_a74	31	3	31	Corylus avellana	Corylus	TRSH
+Bjune_a74	3873	35	3868	Cyperaceae undiff.	Cyperaceae	AQUA
+Bjune_a74	1247	26	772	Dryopteris-type	Dryopteris-type	VACR
+Bjune_a74	3944	2	130	Ericaceae-type	Ericales (tetrad)	DWAR
+Bjune_a74	47	1	47	Fraxinus excelsior	Fraxinus excelsior-type	TRSH
+Bjune_a74	4018	71	80	Gramineae undiff.	Poaceae	HERB
+Bjune_a74	4072	1	998	Indeterminable: broken	Indeterminable: broken	INUN
+Bjune_a74	4074	14	1324	Indeterminable: corroded	Indeterminable: corroded	INUN
+Bjune_a74	4075	5	1925	Indeterminable: crumpled	Indeterminable: crumpled	INUN
+Bjune_a74	1590	3	1590	Isoetes lacustris	Isoetes lacustris	AQPT
+Bjune_a74	473	1	473	Melampyrum	Melampyrum	HERB
+Bjune_a74	1392	2	1306	Parnassia palustris	Parnassia palustris	HERB
+Bjune_a74	662	27	662	Pediastrum	Pediastrum	ALGA
+Bjune_a74	788	138	125	Pinus sylvestris	Pinus sylvestris-type	TRSH
+Bjune_a74	4384	5	912	Potamogeton sect. Eupotamogeton	Potamogeton natans-type	AQUA
+Bjune_a74	626	3	512	Potentilla-type	Potentilla-type	HERB
+Bjune_a74	95	2	95	Rumex acetosa	Rumex acetosa-type	HERB
+Bjune_a74	4504	5	95	Rumex acetosa-type/R. acetosella-type	Rumex acetosa-type	HERB
+Bjune_a74	1398	2	96	Rumex acetosella-type	Rumex acetosella	HERB
+Bjune_a74	1400	2	99	Salix undiff.	Salix	TRSH
+Bjune_a74	4574	3	4569	Scirpus lacustris-type	Scirpus-type	AQUA
+Bjune_a74	874	10	185	Selaginella selaginoides	Selaginella selaginoides	VACR
+Bjune_a74	2428	1	133	Solidago-type	Senecio-type	HERB
+Bjune_a74	12	167	12	Betula	Betula	TRSH
+Bjune_a74	45	2	45	Filipendula	Filipendula	HERB
+Bjune_a74	126	8	126	Picea	Picea	TRSH
+Bjune_a74	144	15	144	Sphagnum	Sphagnum	BRYO
+Bjune_a74	652	3	652	Urtica	Urtica	HERB
+Bjune_a74	941	25	58	Juniperus communis	Juniperus communis-type	TRSH
+Bjune_a74	965	2	183	Lycopodium annotinum	Lycopodium annotinum-type	VACR
+Bjune_a74	2121	4	1320	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR
+Bjune_a74	3665	46	3663	Carex-type	Carex	AQUA
+Bjune_a74	4711	1	6	Umbelliferae undiff.	Apiaceae	HERB

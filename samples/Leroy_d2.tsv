@@ -1,39 +1,39 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Leroy_d2	Alnus	Alnus	TRSH	9	2.8125
-Leroy_d2	Carpinus betulus-type	Carpinus betulus	TRSH	8	2.5
-Leroy_d2	Cornus sanguinea	Cornus sanguinea-type	TRSH	1	0.3125
-Leroy_d2	Corylus	Corylus	TRSH	3	0.9375
-Leroy_d2	Cupressaceae	Cupressaceae undiff.	TRSH	1	0.3125
-Leroy_d2	Ericaceae	Ericales (tetrad)	DWAR	3	0.9375
-Leroy_d2	Fagus	Fagus	TRSH	5	1.5625
-Leroy_d2	Juglans	Juglans	TRSH	23	7.1875
-Leroy_d2	Pinus	Pinus	TRSH	38	11.875
-Leroy_d2	Pistacia	Pistacia	TRSH	3	0.9375
-Leroy_d2	Platanus	Platanus	TRSH	1	0.3125
-Leroy_d2	Quercus evergreen	Quercus ilex-type	TRSH	1	0.3125
-Leroy_d2	Quercus deciduous	Quercus robur-type	TRSH	25	7.8125
-Leroy_d2	Rosaceae	Rosaceae	TRSH	2	0.625
-Leroy_d2	Salix	Salix	TRSH	20	6.25
-Leroy_d2	Tilia	Tilia	TRSH	4	1.25
-Leroy_d2	Hedera	Hedera	LIAN	5	1.5625
-Leroy_d2	Vitis	Vitis	LIAN	4	1.25
-Leroy_d2	Artemisia	Artemisia	HERB	1	0.3125
-Leroy_d2	Asteraceae Tubuliflorae	Asteraceae subf. Asteroideae	HERB	7	2.1875
-Leroy_d2	Asteraceae Liguliflorae	Asteraceae subf. Cichorioideae	HERB	4	1.25
-Leroy_d2	Brassicaceae	Brassicaceae	HERB	4	1.25
-Leroy_d2	Amaranthaceae/Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	29	9.0625
-Leroy_d2	Cistus	Cistus	HERB	6	1.875
-Leroy_d2	Geranium	Geranium	HERB	2	0.625
-Leroy_d2	Knautia	Knautia	HERB	2	0.625
-Leroy_d2	Liliaceae	Liliaceae-type	HERB	1	0.3125
-Leroy_d2	Mercurialis annua	Mercurialis annua	HERB	9	2.8125
-Leroy_d2	Plantago lanceolata	Plantago lanceolata-type	HERB	10	3.125
-Leroy_d2	Poaceae	Poaceae	HERB	73	22.8125
-Leroy_d2	Poaceae (37 um)	Poaceae	HERB	4	1.25
-Leroy_d2	Polygonum aviculare/bistorta-type	Polygonum-type (tricolporate)	HERB	2	0.625
-Leroy_d2	Rumex acetosella	Rumex acetosella	HERB	5	1.5625
-Leroy_d2	Rumex	Rumex/Oxyria	HERB	3	0.9375
-Leroy_d2	Zea mays	Zea mays	HERB	1	0.3125
-Leroy_d2	Pteridium aquilinum-type	Pteridium aquilinum	VACR	1	0.3125
-Leroy_d2	Indeterminable: unknown	Indeterminable: unknown	INUN	49	
-Leroy_d2	Urticaceae/Moraceae	Urticaceae/Moraceae	INUN	2	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Leroy_d2	5	9	5	Alnus	Alnus	TRSH
+Leroy_d2	7	1	7	Artemisia	Artemisia	HERB
+Leroy_d2	1337	4	25	Asteraceae Liguliflorae	Asteraceae subf. Cichorioideae	HERB
+Leroy_d2	1927	7	160	Asteraceae Tubuliflorae	Asteraceae subf. Asteroideae	HERB
+Leroy_d2	3667	8	16	Carpinus betulus-type	Carpinus betulus	TRSH
+Leroy_d2	3796	6	3796	Cistus	Cistus	HERB
+Leroy_d2	1127	1	1127	Cornus sanguinea	Cornus sanguinea-type	TRSH
+Leroy_d2	201	3	31	Corylus	Corylus	TRSH
+Leroy_d2	714	1	347	Cupressaceae	Cupressaceae undiff.	TRSH
+Leroy_d2	130	3	130	Ericaceae	Ericales (tetrad)	DWAR
+Leroy_d2	192	5	42	Fagus	Fagus	TRSH
+Leroy_d2	498	2	498	Geranium	Geranium	HERB
+Leroy_d2	4031	5	4031	Hedera	Hedera	LIAN
+Leroy_d2	4078	49	177	Indeterminable: unknown	Indeterminable: unknown	INUN
+Leroy_d2	57	23	57	Juglans	Juglans	TRSH
+Leroy_d2	1257	2	1257	Knautia	Knautia	HERB
+Leroy_d2	62	1	62	Liliaceae	Liliaceae-type	HERB
+Leroy_d2	66	9	66	Mercurialis annua	Mercurialis annua	HERB
+Leroy_d2	75	38	75	Pinus	Pinus	TRSH
+Leroy_d2	77	3	77	Pistacia	Pistacia	TRSH
+Leroy_d2	60	10	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+Leroy_d2	78	1	78	Platanus	Platanus	TRSH
+Leroy_d2	80	73	80	Poaceae	Poaceae	HERB
+Leroy_d2	4364	2	1505	Polygonum aviculare/bistorta-type	Polygonum-type (tricolporate)	HERB
+Leroy_d2	4405	1	180	Pteridium aquilinum-type	Pteridium aquilinum	VACR
+Leroy_d2	427	1	85	Quercus evergreen	Quercus ilex-type	TRSH
+Leroy_d2	92	2	92	Rosaceae	Rosaceae	TRSH
+Leroy_d2	96	5	96	Rumex acetosella	Rumex acetosella	HERB
+Leroy_d2	99	20	99	Salix	Salix	TRSH
+Leroy_d2	187	4	187	Tilia	Tilia	TRSH
+Leroy_d2	4722	2	4722	Urticaceae/Moraceae	Urticaceae/Moraceae	INUN
+Leroy_d2	4756	4	4756	Vitis	Vitis	LIAN
+Leroy_d2	13	4	13	Brassicaceae	Brassicaceae	HERB
+Leroy_d2	437	25	86	Quercus deciduous	Quercus robur-type	TRSH
+Leroy_d2	727	3	94	Rumex	Rumex/Oxyria	HERB
+Leroy_d2	812	1	423	Zea mays	Zea mays	HERB
+Leroy_d2	3525	29	24	Amaranthaceae/Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Leroy_d2	4338	4	80	Poaceae (37 um)	Poaceae	HERB

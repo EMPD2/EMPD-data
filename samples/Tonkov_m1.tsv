@@ -1,38 +1,38 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Tonkov_m1	Abies	Abies	TRSH	31	5.1409619
-Tonkov_m1	Alnus	Alnus	TRSH	23	3.814262
-Tonkov_m1	Betula	Betula	TRSH	17	2.8192371
-Tonkov_m1	Carpinus betulus	Carpinus betulus	TRSH	4	0.66334992
-Tonkov_m1	Fagus	Fagus	TRSH	37	6.1359867
-Tonkov_m1	Fraxinus excelsior-type	Fraxinus excelsior-type	TRSH	3	0.49751244
-Tonkov_m1	Juglans	Juglans	TRSH	1	0.16583748
-Tonkov_m1	Juniperus	Juniperus communis-type	TRSH	7	1.1608624
-Tonkov_m1	Carpinus orientalis/Ostrya	Ostrya/Carpinus orientalis	TRSH	2	0.33167496
-Tonkov_m1	Picea	Picea	TRSH	51	8.4577114
-Tonkov_m1	Pinus peuce	Pinus cembra-type	TRSH	102	16.915423
-Tonkov_m1	Pinus diploxylon-type	Pinus sylvestris-type	TRSH	194	32.172471
-Tonkov_m1	Quercus cerris-type	Quercus cerris-type	TRSH	6	0.99502488
-Tonkov_m1	Tilia	Tilia	TRSH	2	0.33167496
-Tonkov_m1	Artemisia	Artemisia	HERB	6	0.99502488
-Tonkov_m1	Cichoriaceae	Asteraceae subf. Cichorioideae	HERB	21	3.4825871
-Tonkov_m1	Brassicaceae	Brassicaceae	HERB	2	0.33167496
-Tonkov_m1	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	3	0.49751244
-Tonkov_m1	Cirsium-type	Cirsium	HERB	8	1.3266998
-Tonkov_m1	Dianthus-type	Dianthus/Petrorhagia	HERB	3	0.49751244
-Tonkov_m1	Filipendula	Filipendula	HERB	5	0.8291874
-Tonkov_m1	Geum-type	Geum-type	HERB	4	0.66334992
-Tonkov_m1	Humulus/Cannabis-type	Humulus/Cannabis	HERB	1	0.16583748
-Tonkov_m1	Achillea-type	Matricaria-type	HERB	3	0.49751244
-Tonkov_m1	Plantago media/major-type	Plantago major/P. media-type	HERB	1	0.16583748
-Tonkov_m1	Gramineae	Poaceae	HERB	33	5.4726368
-Tonkov_m1	Ranunculus-type	Ranunculus-type	HERB	2	0.33167496
-Tonkov_m1	Galium-type	Rubiaceae	HERB	6	0.99502488
-Tonkov_m1	Rumex	Rumex/Oxyria	HERB	10	1.6583748
-Tonkov_m1	Sanguisorba minor	Sanguisorba minor-type	HERB	3	0.49751244
-Tonkov_m1	Sanguisorba officinalis	Sanguisorba officinalis	HERB	2	0.33167496
-Tonkov_m1	Scleranthus	Scleranthus	HERB	2	0.33167496
-Tonkov_m1	Solidago-type	Senecio-type	HERB	5	0.8291874
-Tonkov_m1	Trifolium	Trifolium-type	HERB	2	0.33167496
-Tonkov_m1	Xanthium-type	Xanthium	HERB	1	0.16583748
-Tonkov_m1	Caltha palustris-type	Caltha-type	AQUA	5	0.8291874
-Tonkov_m1	Cyperaceae	Cyperaceae	AQUA	4	0.66334992
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Tonkov_m1	943	3	3	Achillea-type	Matricaria-type	HERB
+Tonkov_m1	7	6	7	Artemisia	Artemisia	HERB
+Tonkov_m1	12	17	12	Betula	Betula	TRSH
+Tonkov_m1	3649	5	3649	Caltha palustris-type	Caltha-type	AQUA
+Tonkov_m1	563	4	16	Carpinus betulus	Carpinus betulus	TRSH
+Tonkov_m1	24	3	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Tonkov_m1	1126	21	25	Cichoriaceae	Asteraceae subf. Cichorioideae	HERB
+Tonkov_m1	1243	8	603	Cirsium-type	Cirsium	HERB
+Tonkov_m1	3868	4	3868	Cyperaceae	Cyperaceae	AQUA
+Tonkov_m1	192	37	42	Fagus	Fagus	TRSH
+Tonkov_m1	45	5	45	Filipendula	Filipendula	HERB
+Tonkov_m1	1047	3	47	Fraxinus excelsior-type	Fraxinus excelsior-type	TRSH
+Tonkov_m1	605	6	93	Galium-type	Rubiaceae	HERB
+Tonkov_m1	1219	4	649	Geum-type	Geum-type	HERB
+Tonkov_m1	1601	33	80	Gramineae	Poaceae	HERB
+Tonkov_m1	2422	1	205	Humulus/Cannabis-type	Humulus/Cannabis	HERB
+Tonkov_m1	126	51	126	Picea	Picea	TRSH
+Tonkov_m1	1049	194	125	Pinus diploxylon-type	Pinus sylvestris-type	TRSH
+Tonkov_m1	2420	102	124	Pinus peuce	Pinus cembra-type	TRSH
+Tonkov_m1	4327	1	458	Plantago media/major-type	Plantago major/P. media-type	HERB
+Tonkov_m1	1051	6	84	Quercus cerris-type	Quercus cerris-type	TRSH
+Tonkov_m1	2429	2	274	Ranunculus-type	Ranunculus-type	HERB
+Tonkov_m1	727	10	94	Rumex	Rumex/Oxyria	HERB
+Tonkov_m1	1188	2	474	Sanguisorba officinalis	Sanguisorba officinalis	HERB
+Tonkov_m1	1041	2	1041	Scleranthus	Scleranthus	HERB
+Tonkov_m1	187	2	187	Tilia	Tilia	TRSH
+Tonkov_m1	5	23	5	Alnus	Alnus	TRSH
+Tonkov_m1	13	2	13	Brassicaceae	Brassicaceae	HERB
+Tonkov_m1	57	1	57	Juglans	Juglans	TRSH
+Tonkov_m1	58	7	58	Juniperus	Juniperus communis-type	TRSH
+Tonkov_m1	101	3	101	Sanguisorba minor	Sanguisorba minor-type	HERB
+Tonkov_m1	115	2	115	Trifolium	Trifolium-type	HERB
+Tonkov_m1	560	31	321	Abies	Abies	TRSH
+Tonkov_m1	1035	2	70	Carpinus orientalis/Ostrya	Ostrya/Carpinus orientalis	TRSH
+Tonkov_m1	1246	3	1246	Dianthus-type	Dianthus/Petrorhagia	HERB
+Tonkov_m1	1411	1	1044	Xanthium-type	Xanthium	HERB
+Tonkov_m1	2428	5	133	Solidago-type	Senecio-type	HERB

@@ -1,39 +1,39 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Matthias_b21	Abies	Abies	TRSH	1	0.10515247
-Matthias_b21	Alnus	Alnus	TRSH	349	36.698212
-Matthias_b21	Betula	Betula	TRSH	93	9.7791798
-Matthias_b21	Calluna	Calluna vulgaris	TRSH	1	0.10515247
-Matthias_b21	Cannabaceae	Cannabaceae	TRSH	6	0.63091483
-Matthias_b21	Carpinus	Carpinus betulus	TRSH	23	2.4185068
-Matthias_b21	Castanea	Castanea sativa	TRSH	2	0.21030494
-Matthias_b21	Corylus	Corylus	TRSH	3	0.31545741
-Matthias_b21	Fagus	Fagus	TRSH	61	6.4143007
-Matthias_b21	Fraxinus	Fraxinus	TRSH	3	0.31545741
-Matthias_b21	Juglans	Juglans	TRSH	1	0.10515247
-Matthias_b21	Juniperus	Juniperus communis-type	TRSH	2	0.21030494
-Matthias_b21	Larix/Pseudotsuga	Larix/Pseudotsuga	TRSH	5	0.52576236
-Matthias_b21	Myrica gale	Myrica	TRSH	1	0.10515247
-Matthias_b21	Picea	Picea	TRSH	2	0.21030494
-Matthias_b21	Pinus	Pinus	TRSH	163	17.139853
-Matthias_b21	Quercus	Quercus	TRSH	106	11.146162
-Matthias_b21	Salix	Salix	TRSH	5	0.52576236
-Matthias_b21	Taxus	Taxus baccata	TRSH	10	1.0515247
-Matthias_b21	Tilia cordata	Tilia cordata-type	TRSH	1	0.10515247
-Matthias_b21	Ulmus	Ulmus/Zelkova	TRSH	1	0.10515247
-Matthias_b21	Artemisia	Artemisia	HERB	9	0.94637224
-Matthias_b21	Avena-type	Avena-type	HERB	1	0.10515247
-Matthias_b21	Brassicaceae	Brassicaceae	HERB	7	0.7360673
-Matthias_b21	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	3	0.31545741
-Matthias_b21	Cyperaceae	Cyperaceae	HERB	5	0.52576236
-Matthias_b21	Hordeum-type	Hordeum-type	HERB	7	0.7360673
-Matthias_b21	Jasione	Jasione montana-type	HERB	1	0.10515247
-Matthias_b21	Marrubium	Marrubium	HERB	1	0.10515247
-Matthias_b21	Poaceae	Poaceae	HERB	39	4.1009464
-Matthias_b21	Ranunculus acris-type	Ranunculus acris-type	HERB	2	0.21030494
-Matthias_b21	Ranunculus arvensis-group	Ranunculus arvensis	HERB	1	0.10515247
-Matthias_b21	Rumex acetosa-type	Rumex acetosa-type	HERB	5	0.52576236
-Matthias_b21	Rumex acetosella-type	Rumex acetosa-type	HERB	8	0.84121977
-Matthias_b21	Secale	Secale cereale	HERB	2	0.21030494
-Matthias_b21	Senecio-type	Senecio-type	HERB	3	0.31545741
-Matthias_b21	Triticum-type	Triticum-type	HERB	7	0.7360673
-Matthias_b21	Urtica	Urtica	HERB	11	1.1566772
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Matthias_b21	12	93	12	Betula	Betula	TRSH
+Matthias_b21	75	163	75	Pinus	Pinus	TRSH
+Matthias_b21	189	106	189	Quercus	Quercus	TRSH
+Matthias_b21	5	349	5	Alnus	Alnus	TRSH
+Matthias_b21	192	61	42	Fagus	Fagus	TRSH
+Matthias_b21	16	23	16	Carpinus	Carpinus betulus	TRSH
+Matthias_b21	201	3	31	Corylus	Corylus	TRSH
+Matthias_b21	1406	1	153	Tilia cordata	Tilia cordata-type	TRSH
+Matthias_b21	99	5	99	Salix	Salix	TRSH
+Matthias_b21	126	2	126	Picea	Picea	TRSH
+Matthias_b21	154	1	154	Ulmus	Ulmus/Zelkova	TRSH
+Matthias_b21	190	3	190	Fraxinus	Fraxinus	TRSH
+Matthias_b21	560	1	321	Abies	Abies	TRSH
+Matthias_b21	57	1	57	Juglans	Juglans	TRSH
+Matthias_b21	58	2	58	Juniperus	Juniperus communis-type	TRSH
+Matthias_b21	33	5	33	Cyperaceae	Cyperaceae	HERB
+Matthias_b21	80	39	80	Poaceae	Poaceae	HERB
+Matthias_b21	801	2	256	Secale	Secale cereale	HERB
+Matthias_b21	949	7	258	Hordeum-type	Hordeum-type	HERB
+Matthias_b21	652	11	652	Urtica	Urtica	HERB
+Matthias_b21	1061	6	763	Cannabaceae	Cannabaceae	TRSH
+Matthias_b21	13	7	13	Brassicaceae	Brassicaceae	HERB
+Matthias_b21	7	9	7	Artemisia	Artemisia	HERB
+Matthias_b21	634	5	95	Rumex acetosa-type	Rumex acetosa-type	HERB
+Matthias_b21	2582	8	95	Rumex acetosella-type	Rumex acetosa-type	HERB
+Matthias_b21	24	3	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Matthias_b21	581	1	457	Calluna	Calluna vulgaris	TRSH
+Matthias_b21	1230	3	133	Senecio-type	Senecio-type	HERB
+Matthias_b21	56	1	56	Jasione	Jasione montana-type	HERB
+Matthias_b21	630	2	87	Ranunculus acris-type	Ranunculus acris-type	HERB
+Matthias_b21	3018	1	2371	Ranunculus arvensis-group	Ranunculus arvensis	HERB
+Matthias_b21	198	10	111	Taxus	Taxus baccata	TRSH
+Matthias_b21	441	2	19	Castanea	Castanea sativa	TRSH
+Matthias_b21	1215	1	1111	Avena-type	Avena-type	HERB
+Matthias_b21	1233	7	1199	Triticum-type	Triticum-type	HERB
+Matthias_b21	2336	5	123	Larix/Pseudotsuga	Larix/Pseudotsuga	TRSH
+Matthias_b21	2601	1	977	Myrica gale	Myrica	TRSH
+Matthias_b21	3022	1	3022	Marrubium	Marrubium	HERB

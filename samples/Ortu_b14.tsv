@@ -1,37 +1,37 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Ortu_b14	Abies	Abies	TRSH	1	0.4950495
-Ortu_b14	Acer	Acer campestre-type	TRSH	1	0.4950495
-Ortu_b14	Alnus glutinosa	Alnus glutinosa-type	TRSH	1	0.4950495
-Ortu_b14	Alnus viridis	Alnus viridis	TRSH	7	3.4653465
-Ortu_b14	Betula	Betula	TRSH	2	0.99009901
-Ortu_b14	Fagus	Fagus	TRSH	8	3.960396
-Ortu_b14	Fraxinus	Fraxinus	TRSH	1	0.4950495
-Ortu_b14	Juniperus	Juniperus communis-type	TRSH	2	0.99009901
-Ortu_b14	Larix	Larix/Pseudotsuga	TRSH	8	3.960396
-Ortu_b14	Picea	Picea	TRSH	11	5.4455446
-Ortu_b14	Pinus	Pinus	TRSH	23	11.386139
-Ortu_b14	Quercus robur-type	Quercus robur-type	TRSH	1	0.4950495
-Ortu_b14	Rhamnus	Rhamnus-type	TRSH	1	0.4950495
-Ortu_b14	Salix	Salix	TRSH	1	0.4950495
-Ortu_b14	Apiaceae	Apiaceae	HERB	1	0.4950495
-Ortu_b14	Artemisia	Artemisia	HERB	1	0.4950495
-Ortu_b14	Asteroideae	Asteraceae subf. Asteroideae	HERB	1	0.4950495
-Ortu_b14	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	2	0.99009901
-Ortu_b14	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	5	2.4752475
-Ortu_b14	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	3	1.4851485
-Ortu_b14	Crassulaceae	Crassulaceae	HERB	3	1.4851485
-Ortu_b14	Epilobium	Epilobium	HERB	5	2.4752475
-Ortu_b14	Filipendula	Filipendula	HERB	1	0.4950495
-Ortu_b14	Helianthemum	Helianthemum	HERB	1	0.4950495
-Ortu_b14	Lamiaceae	Lamiaceae	HERB	1	0.4950495
-Ortu_b14	Linaria	Linaria-type	HERB	1	0.4950495
-Ortu_b14	Plantago lanceolata	Plantago lanceolata-type	HERB	2	0.99009901
-Ortu_b14	Poaceae	Poaceae	HERB	92	45.544554
-Ortu_b14	Ranunculaceae	Ranunculaceae	HERB	6	2.970297
-Ortu_b14	Rumex	Rumex/Oxyria	HERB	2	0.99009901
-Ortu_b14	Trifolium	Trifolium-type	HERB	5	2.4752475
-Ortu_b14	Monolete fern spores	Monolete fern spores	VACR	1	0.4950495
-Ortu_b14	Trilete spores	Trilete spore(s)	VACR	1	0.4950495
-Ortu_b14	Cyperaceae	Cyperaceae	AQUA	21	10.39604
-Ortu_b14	Fabaceae	Fabaceae	INUN	19	
-Ortu_b14	Indeterminable: unknown	Indeterminable: unknown	INUN	2	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Ortu_b14	2	1	2	Acer	Acer campestre-type	TRSH
+Ortu_b14	760	1	155	Alnus glutinosa	Alnus glutinosa-type	TRSH
+Ortu_b14	561	7	129	Alnus viridis	Alnus viridis	TRSH
+Ortu_b14	7	1	7	Artemisia	Artemisia	HERB
+Ortu_b14	12	2	12	Betula	Betula	TRSH
+Ortu_b14	18	5	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Ortu_b14	24	3	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Ortu_b14	447	2	25	Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Ortu_b14	519	3	519	Crassulaceae	Crassulaceae	HERB
+Ortu_b14	3868	21	3868	Cyperaceae	Cyperaceae	AQUA
+Ortu_b14	547	5	547	Epilobium	Epilobium	HERB
+Ortu_b14	3958	19	3958	Fabaceae	Fabaceae	INUN
+Ortu_b14	192	8	42	Fagus	Fagus	TRSH
+Ortu_b14	45	1	45	Filipendula	Filipendula	HERB
+Ortu_b14	4078	2	177	Indeterminable: unknown	Indeterminable: unknown	INUN
+Ortu_b14	58	2	58	Juniperus	Juniperus communis-type	TRSH
+Ortu_b14	59	1	59	Lamiaceae	Lamiaceae	HERB
+Ortu_b14	123	8	123	Larix	Larix/Pseudotsuga	TRSH
+Ortu_b14	1832	1	1832	Linaria	Linaria-type	HERB
+Ortu_b14	4193	1	146	Monolete fern spores	Monolete fern spores	VACR
+Ortu_b14	126	11	126	Picea	Picea	TRSH
+Ortu_b14	60	2	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+Ortu_b14	80	92	80	Poaceae	Poaceae	HERB
+Ortu_b14	152	1	86	Quercus robur-type	Quercus robur-type	TRSH
+Ortu_b14	135	6	135	Ranunculaceae	Ranunculaceae	HERB
+Ortu_b14	99	1	99	Salix	Salix	TRSH
+Ortu_b14	115	5	115	Trifolium	Trifolium-type	HERB
+Ortu_b14	416	1	279	Trilete spores	Trilete spore(s)	VACR
+Ortu_b14	6	1	6	Apiaceae	Apiaceae	HERB
+Ortu_b14	52	1	52	Helianthemum	Helianthemum	HERB
+Ortu_b14	75	23	75	Pinus	Pinus	TRSH
+Ortu_b14	89	1	89	Rhamnus	Rhamnus-type	TRSH
+Ortu_b14	190	1	190	Fraxinus	Fraxinus	TRSH
+Ortu_b14	560	1	321	Abies	Abies	TRSH
+Ortu_b14	727	2	94	Rumex	Rumex/Oxyria	HERB
+Ortu_b14	761	1	160	Asteroideae	Asteraceae subf. Asteroideae	HERB

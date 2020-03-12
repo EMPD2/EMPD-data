@@ -1,47 +1,47 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Connor_c1	Carpinus betulus	Carpinus betulus	TRSH	1	0.17574692
-Connor_c1	Castanea sativa	Castanea sativa	TRSH	3	0.52724077
-Connor_c1	Ephedra distachya-type	Ephedra distachya-type	TRSH	1	0.17574692
-Connor_c1	Hippophae	Hippophae rhamnoides	TRSH	1	0.17574692
-Connor_c1	Juglans regia	Juglans regia	TRSH	1	0.17574692
-Connor_c1	Juniperus	Juniperus communis-type	TRSH	6	1.0544815
-Connor_c1	Ostrya-type	Ostrya/Carpinus orientalis	TRSH	1	0.17574692
-Connor_c1	Picea orientalis	Picea omorika-type	TRSH	5	0.87873462
-Connor_c1	Pinus	Pinus	TRSH	35	6.1511424
-Connor_c1	Quercus deciduous	Quercus robur-type	TRSH	5	0.87873462
-Connor_c1	Rosaceae	Rosaceae	TRSH	1	0.17574692
-Connor_c1	Salix	Salix	TRSH	2	0.35149385
-Connor_c1	Vaccinium	Vaccinium	DWAR	1	0.17574692
-Connor_c1	Apiaceae undiff.	Apiaceae	HERB	13	2.28471
-Connor_c1	Artemisia	Artemisia	HERB	15	2.6362039
-Connor_c1	Aster-type	Aster-type	HERB	14	2.4604569
-Connor_c1	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	8	1.4059754
-Connor_c1	Centaurea nigra-type	Centaurea nigra-type	HERB	1	0.17574692
-Connor_c1	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	23	4.0421793
-Connor_c1	Cichorium-type	Crepis-type	HERB	33	5.7996485
-Connor_c1	Filipendula	Filipendula	HERB	1	0.17574692
-Connor_c1	Geum-type	Geum-type	HERB	1	0.17574692
-Connor_c1	Hordeum-type	Hordeum-type	HERB	9	1.5817223
-Connor_c1	Lamiaceae	Lamiaceae	HERB	1	0.17574692
-Connor_c1	Lobelia-type	Lobelia	HERB	1	0.17574692
-Connor_c1	Medicago	Medicago sativa-type	HERB	1	0.17574692
-Connor_c1	Mentha-type	Mentha-type	HERB	13	2.28471
-Connor_c1	Plantago lanceolata-type	Plantago lanceolata-type	HERB	7	1.2302285
-Connor_c1	Plantago major-type	Plantago major	HERB	5	0.87873462
-Connor_c1	Poaceae	Poaceae	HERB	165	28.998243
-Connor_c1	Primulaceae	Primulaceae	HERB	1	0.17574692
-Connor_c1	Ranunculaceae undiff.	Ranunculaceae	HERB	1	0.17574692
-Connor_c1	Ranunculus-type	Ranunculus-type	HERB	17	2.9876977
-Connor_c1	Rumex acetosella-type	Rumex acetosella	HERB	3	0.52724077
-Connor_c1	Sanguisorba minor	Sanguisorba minor-type	HERB	2	0.35149385
-Connor_c1	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	19	3.3391916
-Connor_c1	Secale-type	Secale cereale	HERB	5	0.87873462
-Connor_c1	Triticum-type	Triticum-type	HERB	5	0.87873462
-Connor_c1	Athyrium	Athyrium filix-femina	VACR	81	14.235501
-Connor_c1	Equisetum	Equisetum	VACR	54	9.4903339
-Connor_c1	Monolete fern spores	Monolete fern spores	VACR	7	1.2302285
-Connor_c1	Cyperaceae	Cyperaceae	AQUA	96	16.871705
-Connor_c1	Potamogeton	Potamogeton-type	AQUA	55	9.6660808
-Connor_c1	Sparganium	Potamogeton-type	AQUA	10	1.7574692
-Connor_c1	Fabaceae	Fabaceae	INUN	4	
-Connor_c1	Indeterminable: degraded	Indeterminable: degraded	INUN	15	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Connor_c1	1107	13	6	Apiaceae undiff.	Apiaceae	HERB
+Connor_c1	597	14	11	Aster-type	Aster-type	HERB
+Connor_c1	1110	81	215	Athyrium	Athyrium filix-femina	VACR
+Connor_c1	563	1	16	Carpinus betulus	Carpinus betulus	TRSH
+Connor_c1	18	8	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Connor_c1	19	3	19	Castanea sativa	Castanea sativa	TRSH
+Connor_c1	24	23	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Connor_c1	1242	33	1242	Cichorium-type	Crepis-type	HERB
+Connor_c1	1046	1	37	Ephedra distachya-type	Ephedra distachya-type	TRSH
+Connor_c1	145	54	145	Equisetum	Equisetum	VACR
+Connor_c1	3958	4	3958	Fabaceae	Fabaceae	INUN
+Connor_c1	45	1	45	Filipendula	Filipendula	HERB
+Connor_c1	1219	1	649	Geum-type	Geum-type	HERB
+Connor_c1	1048	1	479	Hippophae	Hippophae rhamnoides	TRSH
+Connor_c1	949	9	258	Hordeum-type	Hordeum-type	HERB
+Connor_c1	718	15	718	Indeterminable: degraded	Indeterminable: degraded	INUN
+Connor_c1	1148	1	194	Juglans regia	Juglans regia	TRSH
+Connor_c1	58	6	58	Juniperus	Juniperus communis-type	TRSH
+Connor_c1	4147	1	4145	Lobelia-type	Lobelia	HERB
+Connor_c1	1837	1	1430	Medicago	Medicago sativa-type	HERB
+Connor_c1	1073	13	65	Mentha-type	Mentha-type	HERB
+Connor_c1	4193	7	146	Monolete fern spores	Monolete fern spores	VACR
+Connor_c1	572	1	70	Ostrya-type	Ostrya/Carpinus orientalis	TRSH
+Connor_c1	4292	5	4292	Picea orientalis	Picea omorika-type	TRSH
+Connor_c1	75	35	75	Pinus	Pinus	TRSH
+Connor_c1	1075	7	60	Plantago lanceolata-type	Plantago lanceolata-type	HERB
+Connor_c1	1348	5	79	Plantago major-type	Plantago major	HERB
+Connor_c1	80	165	80	Poaceae	Poaceae	HERB
+Connor_c1	657	55	108	Potamogeton	Potamogeton-type	AQUA
+Connor_c1	799	1	799	Primulaceae	Primulaceae	HERB
+Connor_c1	437	5	86	Quercus deciduous	Quercus robur-type	TRSH
+Connor_c1	1180	1	135	Ranunculaceae undiff.	Ranunculaceae	HERB
+Connor_c1	2429	17	274	Ranunculus-type	Ranunculus-type	HERB
+Connor_c1	92	1	92	Rosaceae	Rosaceae	TRSH
+Connor_c1	1398	3	96	Rumex acetosella-type	Rumex acetosella	HERB
+Connor_c1	99	2	99	Salix	Salix	TRSH
+Connor_c1	101	2	101	Sanguisorba minor	Sanguisorba minor-type	HERB
+Connor_c1	173	19	173	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB
+Connor_c1	108	10	108	Sparganium	Potamogeton-type	AQUA
+Connor_c1	7	15	7	Artemisia	Artemisia	HERB
+Connor_c1	59	1	59	Lamiaceae	Lamiaceae	HERB
+Connor_c1	1233	5	1199	Triticum-type	Triticum-type	HERB
+Connor_c1	1342	1	29	Centaurea nigra-type	Centaurea nigra-type	HERB
+Connor_c1	3868	96	3868	Cyperaceae	Cyperaceae	AQUA
+Connor_c1	4585	5	256	Secale-type	Secale cereale	HERB
+Connor_c1	4725	1	4725	Vaccinium	Vaccinium	DWAR

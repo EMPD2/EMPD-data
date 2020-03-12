@@ -1,15 +1,15 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Binney2017_E2785	Abies sibirica	Abies sibirica	TRSH	4	0.75757576
-Binney2017_E2785	Alnus fruticosa	Alnus viridis	TRSH	12	2.2727273
-Binney2017_E2785	Betula sect. Albae	Betula pubescens-type	TRSH	80	15.151515
-Binney2017_E2785	Ericaceae	Ericales (tetrad)	DWAR	4	0.75757576
-Binney2017_E2785	Picea abies subsp. obovata	Picea abies-type	TRSH	6	1.1363636
-Binney2017_E2785	Pinus pumila	Pinus cembra-type	TRSH	2	0.37878788
-Binney2017_E2785	Pinus cembra subsp. sibirica	Pinus cembra-type	TRSH	170	32.19697
-Binney2017_E2785	Pinus sylvestris	Pinus sylvestris-type	TRSH	236	44.69697
-Binney2017_E2785	Artemisia	Artemisia	HERB	2	0.37878788
-Binney2017_E2785	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	3	0.56818182
-Binney2017_E2785	Fabaceae	Fabaceae	HERB	2	0.37878788
-Binney2017_E2785	Poaceae	Poaceae	HERB	1	0.18939394
-Binney2017_E2785	Ranunculaceae	Ranunculaceae	HERB	2	0.37878788
-Binney2017_E2785	Lycopodium	Lycopodium	VACR	4	0.75757576
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Binney2017_E2785	7	2	7	Artemisia	Artemisia	HERB
+Binney2017_E2785	24	3	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Binney2017_E2785	41	2	41	Fabaceae	Fabaceae	HERB
+Binney2017_E2785	80	1	80	Poaceae	Poaceae	HERB
+Binney2017_E2785	128	80	128	Betula sect. Albae	Betula pubescens-type	TRSH
+Binney2017_E2785	130	4	130	Ericaceae	Ericales (tetrad)	DWAR
+Binney2017_E2785	135	2	135	Ranunculaceae	Ranunculaceae	HERB
+Binney2017_E2785	143	4	143	Lycopodium	Lycopodium	VACR
+Binney2017_E2785	149	4	149	Abies sibirica	Abies sibirica	TRSH
+Binney2017_E2785	788	236	125	Pinus sylvestris	Pinus sylvestris-type	TRSH
+Binney2017_E2785	2962	12	129	Alnus fruticosa	Alnus viridis	TRSH
+Binney2017_E2785	4291	6	783	Picea abies subsp. obovata	Picea abies-type	TRSH
+Binney2017_E2785	4920	2	124	Pinus pumila	Pinus cembra-type	TRSH
+Binney2017_E2785	5193	170	124	Pinus cembra subsp. sibirica	Pinus cembra-type	TRSH

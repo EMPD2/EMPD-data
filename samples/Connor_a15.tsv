@@ -1,57 +1,57 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Connor_a15	Abies nordmanniana	Abies	TRSH	1	0.25062657
-Connor_a15	Acer	Acer campestre-type	TRSH	2	0.50125313
-Connor_a15	Alnus glutinosa-type	Alnus glutinosa-type	TRSH	5	1.2531328
-Connor_a15	Carpinus betulus	Carpinus betulus	TRSH	28	7.0175439
-Connor_a15	Castanea sativa	Castanea sativa	TRSH	2	0.50125313
-Connor_a15	Corylus	Corylus	TRSH	1	0.25062657
-Connor_a15	Fagus	Fagus	TRSH	14	3.5087719
-Connor_a15	Fraxinus	Fraxinus	TRSH	3	0.7518797
-Connor_a15	Juglans regia	Juglans regia	TRSH	3	0.7518797
-Connor_a15	Juniperus	Juniperus communis-type	TRSH	6	1.5037594
-Connor_a15	Ostrya-type	Ostrya/Carpinus orientalis	TRSH	8	2.0050125
-Connor_a15	Picea orientalis	Picea omorika-type	TRSH	2	0.50125313
-Connor_a15	Pinus	Pinus	TRSH	47	11.779449
-Connor_a15	Quercus deciduous	Quercus robur-type	TRSH	50	12.531328
-Connor_a15	Rubus-type	Rubus	TRSH	1	0.25062657
-Connor_a15	Salix	Salix	TRSH	1	0.25062657
-Connor_a15	Ulmus	Ulmus/Zelkova	TRSH	1	0.25062657
-Connor_a15	Zelkova-type	Ulmus/Zelkova	TRSH	3	0.7518797
-Connor_a15	Vitis	Vitis	LIAN	1	0.25062657
-Connor_a15	Artemisia	Artemisia	HERB	34	8.5213033
-Connor_a15	Caryophyllaceae undiff.	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	2	0.50125313
-Connor_a15	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	76	19.047619
-Connor_a15	Falcaria-type	Falcaria-type	HERB	1	0.25062657
-Connor_a15	Gentianella campestris-type	Gentianella campestris-type	HERB	1	0.25062657
-Connor_a15	Hordeum-type	Hordeum-type	HERB	2	0.50125313
-Connor_a15	Hornungia-type	Hornungia-type	HERB	2	0.50125313
-Connor_a15	Cannabis-type	Humulus/Cannabis	HERB	1	0.25062657
-Connor_a15	Lamiaceae undiff.	Lamiaceae	HERB	1	0.25062657
-Connor_a15	Anthemis-type	Matricaria-type	HERB	4	1.0025063
-Connor_a15	Mercurialis annua-type	Mercurialis annua	HERB	1	0.25062657
-Connor_a15	Peucedanum-type	Peucedanum-type	HERB	2	0.50125313
-Connor_a15	Plantago lanceolata-type	Plantago lanceolata-type	HERB	7	1.754386
-Connor_a15	Plantago major-type	Plantago major	HERB	3	0.7518797
-Connor_a15	Plantago maritima-type	Plantago maritima-type	HERB	2	0.50125313
-Connor_a15	Poaceae	Poaceae	HERB	56	14.035088
-Connor_a15	Primula-type	Primula	HERB	1	0.25062657
-Connor_a15	Reseda lutea	Reseda	HERB	1	0.25062657
-Connor_a15	Galium-type	Rubiaceae	HERB	2	0.50125313
-Connor_a15	Sinapis-type	Sinapis-type	HERB	4	1.0025063
-Connor_a15	Trifolium pratense-type	Trifolium pratense-type	HERB	1	0.25062657
-Connor_a15	Triticum-type	Triticum-type	HERB	6	1.5037594
-Connor_a15	Urtica	Urtica	HERB	1	0.25062657
-Connor_a15	Pteridium	Pteridium	VACR	2	0.50125313
-Connor_a15	Sphagnum	Sphagnum	BRYO	7	1.754386
-Connor_a15	Botryococcus	Botryococcus	ALGA	107	26.817043
-Connor_a15	Cyperaceae	Cyperaceae	AQUA	37	9.273183
-Connor_a15	Phragmites-type	Phragmites australis-type	AQUA	29	7.2681704
-Connor_a15	Potamogeton	Potamogeton-type	AQUA	7	1.754386
-Connor_a15	Typha-type	Typha/Sparganium	AQUA	36	9.0225564
-Connor_a15	Indeterminable: degraded	Indeterminable: degraded	INUN	9	
-Connor_a15	Acritarchs	Acritarchs	ACRI	4	
-Connor_a15	Chironomid	Chironomidae	NOPO	11	
-Connor_a15	Closterium	Closterium	NOPO	1	
-Connor_a15	Mougeotia	Mougeotia	CHLO	28	
-Connor_a15	Penium	Penium	CHLO	46	
-Connor_a15	Spirogyra	Spirogyra	CHLO	2	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Connor_a15	3490	1	321	Abies nordmanniana	Abies	TRSH
+Connor_a15	2	2	2	Acer	Acer campestre-type	TRSH
+Connor_a15	3502	4	3502	Acritarchs	Acritarchs	ACRI
+Connor_a15	155	5	155	Alnus glutinosa-type	Alnus glutinosa-type	TRSH
+Connor_a15	589	4	3	Anthemis-type	Matricaria-type	HERB
+Connor_a15	7	34	7	Artemisia	Artemisia	HERB
+Connor_a15	663	107	663	Botryococcus	Botryococcus	ALGA
+Connor_a15	1340	1	205	Cannabis-type	Humulus/Cannabis	HERB
+Connor_a15	946	2	18	Caryophyllaceae undiff.	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Connor_a15	19	2	19	Castanea sativa	Castanea sativa	TRSH
+Connor_a15	3788	11	3788	Chironomid	Chironomidae	NOPO
+Connor_a15	3814	1	3814	Closterium	Closterium	NOPO
+Connor_a15	3868	37	3868	Cyperaceae	Cyperaceae	AQUA
+Connor_a15	192	14	42	Fagus	Fagus	TRSH
+Connor_a15	3964	1	43	Falcaria-type	Falcaria-type	HERB
+Connor_a15	190	3	190	Fraxinus	Fraxinus	TRSH
+Connor_a15	605	2	93	Galium-type	Rubiaceae	HERB
+Connor_a15	949	2	258	Hordeum-type	Hordeum-type	HERB
+Connor_a15	4057	2	261	Hornungia-type	Hornungia-type	HERB
+Connor_a15	718	9	718	Indeterminable: degraded	Indeterminable: degraded	INUN
+Connor_a15	1148	3	194	Juglans regia	Juglans regia	TRSH
+Connor_a15	58	6	58	Juniperus	Juniperus communis-type	TRSH
+Connor_a15	1831	1	59	Lamiaceae undiff.	Lamiaceae	HERB
+Connor_a15	4183	1	66	Mercurialis annua-type	Mercurialis annua	HERB
+Connor_a15	4203	28	4203	Mougeotia	Mougeotia	CHLO
+Connor_a15	572	8	70	Ostrya-type	Ostrya/Carpinus orientalis	TRSH
+Connor_a15	4273	46	4273	Penium	Penium	CHLO
+Connor_a15	1267	2	73	Peucedanum-type	Peucedanum-type	HERB
+Connor_a15	4287	29	4284	Phragmites-type	Phragmites australis-type	AQUA
+Connor_a15	4292	2	4292	Picea orientalis	Picea omorika-type	TRSH
+Connor_a15	2760	2	64	Plantago maritima-type	Plantago maritima-type	HERB
+Connor_a15	657	7	108	Potamogeton	Potamogeton-type	AQUA
+Connor_a15	4398	1	533	Primula-type	Primula	HERB
+Connor_a15	431	2	180	Pteridium	Pteridium aquilinum	VACR
+Connor_a15	437	50	86	Quercus deciduous	Quercus robur-type	TRSH
+Connor_a15	4461	1	88	Reseda lutea	Reseda	HERB
+Connor_a15	4502	1	141	Rubus-type	Rubus	TRSH
+Connor_a15	99	1	99	Salix	Salix	TRSH
+Connor_a15	144	7	144	Sphagnum	Sphagnum	BRYO
+Connor_a15	4633	2	4633	Spirogyra	Spirogyra	CHLO
+Connor_a15	1283	1	114	Trifolium pratense-type	Trifolium pratense-type	HERB
+Connor_a15	1233	6	1199	Triticum-type	Triticum-type	HERB
+Connor_a15	734	36	734	Typha-type	Typha/Sparganium	AQUA
+Connor_a15	652	1	652	Urtica	Urtica	HERB
+Connor_a15	4756	1	4756	Vitis	Vitis	LIAN
+Connor_a15	4768	3	154	Zelkova-type	Ulmus/Zelkova	TRSH
+Connor_a15	24	76	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Connor_a15	75	47	75	Pinus	Pinus	TRSH
+Connor_a15	80	56	80	Poaceae	Poaceae	HERB
+Connor_a15	154	1	154	Ulmus	Ulmus/Zelkova	TRSH
+Connor_a15	201	1	31	Corylus	Corylus	TRSH
+Connor_a15	563	28	16	Carpinus betulus	Carpinus betulus	TRSH
+Connor_a15	1075	7	60	Plantago lanceolata-type	Plantago lanceolata-type	HERB
+Connor_a15	1348	3	79	Plantago major-type	Plantago major	HERB
+Connor_a15	1403	4	246	Sinapis-type	Sinapis-type	HERB
+Connor_a15	2935	1	608	Gentianella campestris-type	Gentianella campestris-type	HERB

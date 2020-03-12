@@ -1,27 +1,27 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Muller_a42	Alnus fruticosa	Alnus viridis	TRSH	98	23.389021
-Muller_a42	Betula sect. Nanae	Betula nana-type	DWAR	171	40.811456
-Muller_a42	Betula sect. Albae	Betula pubescens-type	TRSH	7	1.6706444
-Muller_a42	Larix	Larix/Pseudotsuga	TRSH	5	1.1933174
-Muller_a42	Picea	Picea	TRSH	2	0.47732697
-Muller_a42	Pinaceae	Pinaceae	TRSH	3	0.71599045
-Muller_a42	Pinus diploxylon-type	Pinus sylvestris-type	TRSH	27	6.4439141
-Muller_a42	Ericaceae vaccinium-type	Vaccinium	DWAR	19	4.5346062
-Muller_a42	Artemisia	Artemisia	HERB	6	1.4319809
-Muller_a42	Cyperaceae	Cyperaceae	HERB	23	5.4892601
-Muller_a42	Asteraceae matricaria-type	Matricaria-type	HERB	3	0.71599045
-Muller_a42	Poaceae	Poaceae	HERB	43	10.26253
-Muller_a42	Ranunculaceae	Ranunculaceae	HERB	2	0.47732697
-Muller_a42	Sanguisorba officinalis-type	Sanguisorba officinalis	HERB	3	0.71599045
-Muller_a42	Asteraceae saussurea-type	Saussurea-type	HERB	2	0.47732697
-Muller_a42	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	2	0.47732697
-Muller_a42	Asteraceae senecio-type	Senecio-type	HERB	1	0.23866348
-Muller_a42	Ranunculaceae thalictrum	Thalictrum	HERB	2	0.47732697
-Muller_a42	Pollen indeterminata	Indeterminable: unknown	INUN	1	
-Muller_a42	Spores indeterminata	Indeterminable: unknown	INUN	2	
-Muller_a42	Pollen, terrestrial	Indeterminable: unknown	INUN	420	
-Muller_a42	Lycopodium spores counted	Lycopodium (counted)	NOPO	52	
-Muller_a42	Microthyrium	Microthyrium	FUNG	1	
-Muller_a42	Pollen per unit sediment mass	Pollen per unit sediment mass (/g)	NOPO	17251	
-Muller_a42	Sphagnum	Sphagnum	NOPO	1	
-Muller_a42	Stomata	Stomata	VEMI	1	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Muller_a42	123	5	123	Larix	Larix/Pseudotsuga	TRSH
+Muller_a42	126	2	126	Picea	Picea	TRSH
+Muller_a42	127	171	127	Betula sect. Nanae	Betula nana-type	DWAR
+Muller_a42	1944	3	1944	Pinaceae	Pinaceae	TRSH
+Muller_a42	2962	98	129	Alnus fruticosa	Alnus viridis	TRSH
+Muller_a42	7	6	7	Artemisia	Artemisia	HERB
+Muller_a42	33	23	33	Cyperaceae	Cyperaceae	HERB
+Muller_a42	80	43	80	Poaceae	Poaceae	HERB
+Muller_a42	2965	3	3	Asteraceae matricaria-type	Matricaria-type	HERB
+Muller_a42	2967	1	133	Asteraceae senecio-type	Senecio-type	HERB
+Muller_a42	2987	19	540	Ericaceae vaccinium-type	Vaccinium	TRSH
+Muller_a42	2900	1	177	Pollen indeterminata	Indeterminable: unknown	INUN
+Muller_a42	135	2	135	Ranunculaceae	Ranunculaceae	HERB
+Muller_a42	173	2	173	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB
+Muller_a42	2969	2	112	Ranunculaceae thalictrum	Thalictrum	HERB
+Muller_a42	2344	1	2344	Microthyrium	Microthyrium	FUNG
+Muller_a42	2981	1	2771	Stomata	Stomata	VEMI
+Muller_a42	2999	2	177	Spores indeterminata	Indeterminable: unknown	INUN
+Muller_a42	144	1	144	Sphagnum	Sphagnum	BRYO
+Muller_a42	2970	420	177	Pollen, terrestrial	Indeterminable: unknown	INUN
+Muller_a42	3000	52	559	Lycopodium spores counted	Lycopodium (counted)	NOPO
+Muller_a42	3001	17251	3001	Pollen per unit sediment mass	Pollen per unit sediment mass (/g)	NOPO
+Muller_a42	128	7	128	Betula sect. Albae	Betula pubescens-type	TRSH
+Muller_a42	1049	27	125	Pinus diploxylon-type	Pinus sylvestris-type	TRSH
+Muller_a42	2966	2	235	Asteraceae saussurea-type	Saussurea-type	HERB
+Muller_a42	2994	3	474	Sanguisorba officinalis-type	Sanguisorba officinalis	HERB

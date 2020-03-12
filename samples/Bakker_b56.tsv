@@ -1,50 +1,50 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Bakker_b56	Abies cilicica	Abies	TRSH	13	0.88375255
-Bakker_b56	Cedrus libani	Cedrus	TRSH	23	1.5635622
-Bakker_b56	Ephedra	Ephedra	TRSH	1	0.067980965
-Bakker_b56	Ericaceae undiff.	Ericales (tetrad)	DWAR	1	0.067980965
-Bakker_b56	Fraxinus angustifolia	Fraxinus angustifolia	TRSH	1	0.067980965
-Bakker_b56	Fraxinus ornus	Fraxinus ornus	TRSH	5	0.33990483
-Bakker_b56	Juglans regia	Juglans regia	TRSH	23	1.5635622
-Bakker_b56	Juniperus	Juniperus communis-type	TRSH	4	0.27192386
-Bakker_b56	Thymus/Mentha-type	Mentha-type	DWAR	1	0.067980965
-Bakker_b56	Olea europaea	Olea europaea	TRSH	8	0.54384772
-Bakker_b56	Fontanesia/Phillyrea	Oleaceae	TRSH	2	0.13596193
-Bakker_b56	Pinus	Pinus	TRSH	669	45.479266
-Bakker_b56	Pistacia	Pistacia	TRSH	2	0.13596193
-Bakker_b56	Platanus orientalis	Platanus	TRSH	1	0.067980965
-Bakker_b56	Prunus-type	Prunus-type	TRSH	1	0.067980965
-Bakker_b56	Crataegus-type	Prunus-type	TRSH	1	0.067980965
-Bakker_b56	Quercus cerris-type	Quercus cerris-type	TRSH	9	0.61182869
-Bakker_b56	Quercus coccifera-type	Quercus ilex-type	TRSH	428	29.095853
-Bakker_b56	Paliurus spina-christi	Rhamnus-type	TRSH	1	0.067980965
-Bakker_b56	Rosa-type	Rosa	TRSH	9	0.61182869
-Bakker_b56	Vitis vinifera	Vitis	LIAN	1	0.067980965
-Bakker_b56	Daucus-type	Apiaceae	HERB	1	0.067980965
-Bakker_b56	Artemisia herba-alba-type	Artemisia	HERB	19	1.2916383
-Bakker_b56	Lactuceae	Asteraceae subf. Cichorioideae	HERB	13	0.88375255
-Bakker_b56	Ballota	Ballota-type	HERB	9	0.61182869
-Bakker_b56	Capsella-type	Brassicaceae	HERB	3	0.2039429
-Bakker_b56	Brassica	Brassicaceae	HERB	14	0.95173351
-Bakker_b56	Carduus-type	Carduus-type	HERB	11	0.74779062
-Bakker_b56	Centaurea solstitialis-type	Centaurea nigra-type	HERB	3	0.2039429
-Bakker_b56	Cerealia-type	Cerealia-type	HERB	71	4.8266485
-Bakker_b56	Chenopodiaceae undiff.	Chenopodiaceae/Amaranthaceae	HERB	8	0.54384772
-Bakker_b56	Convolvulus	Convolvulus	HERB	1	0.067980965
-Bakker_b56	Coronilla	Coronilla varia	HERB	1	0.067980965
-Bakker_b56	Echinops	Echinops	HERB	1	0.067980965
-Bakker_b56	Filago-type	Gnaphalium-type	HERB	2	0.13596193
-Bakker_b56	Helianthemum-type	Helianthemum	HERB	4	0.27192386
-Bakker_b56	Hypericum	Hypericum	HERB	1	0.067980965
-Bakker_b56	Anthemis-type	Matricaria-type	HERB	2	0.13596193
-Bakker_b56	Medicago-type	Medicago sativa-type	HERB	2	0.13596193
-Bakker_b56	Plantago lanceolata	Plantago lanceolata-type	HERB	5	0.33990483
-Bakker_b56	Poaceae	Poaceae	HERB	74	5.0305914
-Bakker_b56	Ranunculus repens-type	Ranunculus acris-type	HERB	1	0.067980965
-Bakker_b56	Galium-type	Rubiaceae	HERB	4	0.27192386
-Bakker_b56	Sanguisorba minor	Sanguisorba minor-type	HERB	1	0.067980965
-Bakker_b56	Scrophularia/Verbascum-type	Scrophularia-type	HERB	2	0.13596193
-Bakker_b56	Silene-type	Silene-type	HERB	6	0.40788579
-Bakker_b56	Spergula-type	Spergularia-type	HERB	6	0.40788579
-Bakker_b56	Teucrium-type	Teucrium	HERB	2	0.13596193
-Bakker_b56	Cyperaceae	Cyperaceae	AQUA	1	0.067980965
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Bakker_b56	3488	13	321	Abies cilicica	Abies	TRSH
+Bakker_b56	589	2	3	Anthemis-type	Matricaria-type	HERB
+Bakker_b56	3572	19	7	Artemisia herba-alba-type	Artemisia	HERB
+Bakker_b56	3604	9	1058	Ballota	Ballota-type	HERB
+Bakker_b56	1649	14	13	Brassica	Brassicaceae	HERB
+Bakker_b56	3658	3	13	Capsella-type	Brassicaceae	HERB
+Bakker_b56	3676	23	340	Cedrus libani	Cedrus	TRSH
+Bakker_b56	3681	3	29	Centaurea solstitialis-type	Centaurea nigra-type	HERB
+Bakker_b56	1065	71	22	Cerealia-type	Cerealia-type	HERB
+Bakker_b56	1810	8	24	Chenopodiaceae undiff.	Chenopodiaceae/Amaranthaceae	HERB
+Bakker_b56	1328	1	1328	Convolvulus	Convolvulus	HERB
+Bakker_b56	3857	1	82	Crataegus-type	Prunus-type	TRSH
+Bakker_b56	3886	1	6	Daucus-type	Apiaceae	HERB
+Bakker_b56	1439	1	1439	Echinops	Echinops	HERB
+Bakker_b56	159	1	159	Ephedra	Ephedra	TRSH
+Bakker_b56	716	1	130	Ericaceae undiff.	Ericales (tetrad)	DWAR
+Bakker_b56	3967	2	2318	Filago-type	Gnaphalium-type	HERB
+Bakker_b56	3977	2	781	Fontanesia/Phillyrea	Oleaceae	TRSH
+Bakker_b56	46	1	46	Fraxinus angustifolia	Fraxinus angustifolia	TRSH
+Bakker_b56	44	5	44	Fraxinus ornus	Fraxinus ornus	TRSH
+Bakker_b56	605	4	93	Galium-type	Rubiaceae	HERB
+Bakker_b56	4039	4	52	Helianthemum-type	Helianthemum	HERB
+Bakker_b56	54	1	54	Hypericum	Hypericum	HERB
+Bakker_b56	1148	23	194	Juglans regia	Juglans regia	TRSH
+Bakker_b56	58	4	58	Juniperus	Juniperus communis-type	TRSH
+Bakker_b56	741	13	25	Lactuceae	Asteraceae subf. Cichorioideae	HERB
+Bakker_b56	68	8	68	Olea europaea	Olea europaea	TRSH
+Bakker_b56	4245	1	89	Paliurus spina-christi	Rhamnus-type	TRSH
+Bakker_b56	75	669	75	Pinus	Pinus	TRSH
+Bakker_b56	77	2	77	Pistacia	Pistacia	TRSH
+Bakker_b56	60	5	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+Bakker_b56	199	1	78	Platanus orientalis	Platanus	TRSH
+Bakker_b56	80	74	80	Poaceae	Poaceae	HERB
+Bakker_b56	1227	1	82	Prunus-type	Prunus-type	TRSH
+Bakker_b56	1051	9	84	Quercus cerris-type	Quercus cerris-type	TRSH
+Bakker_b56	4452	1	87	Ranunculus repens-type	Ranunculus acris-type	HERB
+Bakker_b56	1414	9	632	Rosa-type	Rosa	TRSH
+Bakker_b56	101	1	101	Sanguisorba minor	Sanguisorba minor-type	HERB
+Bakker_b56	4580	2	103	Scrophularia/Verbascum-type	Scrophularia-type	HERB
+Bakker_b56	1779	6	132	Silene-type	Silene-type	HERB
+Bakker_b56	1770	2	1356	Teucrium-type	Teucrium	HERB
+Bakker_b56	4757	1	4756	Vitis vinifera	Vitis	LIAN
+Bakker_b56	1245	1	1245	Coronilla	Coronilla varia	HERB
+Bakker_b56	1381	11	1381	Carduus-type	Carduus-type	HERB
+Bakker_b56	1785	2	1430	Medicago-type	Medicago sativa-type	HERB
+Bakker_b56	3868	1	3868	Cyperaceae	Cyperaceae	AQUA
+Bakker_b56	4428	428	85	Quercus coccifera-type	Quercus ilex-type	TRSH
+Bakker_b56	4617	6	109	Spergula-type	Spergularia-type	HERB
+Bakker_b56	4669	1	4666	Thymus/Mentha-type	Mentha-type	DWAR

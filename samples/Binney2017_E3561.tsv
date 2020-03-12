@@ -1,31 +1,31 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Binney2017_E3561	Alnus	Alnus	TRSH	4	0.73260073
-Binney2017_E3561	Alnus fruticosa	Alnus viridis	TRSH	52	9.5238095
-Binney2017_E3561	Arctostaphylos	Arctostaphylos	DWAR	8	1.4652015
-Binney2017_E3561	Betula fruticosa	Betula nana-type	TRSH	72	13.186813
-Binney2017_E3561	Betula sect. Albae	Betula pubescens-type	TRSH	50	9.1575092
-Binney2017_E3561	Cornus sericea subsp. sericea	Cornus suecica	TRSH	1	0.18315018
-Binney2017_E3561	Ericales	Ericales (tetrad)	DWAR	16	2.9304029
-Binney2017_E3561	Larix dahurica	Larix dahurica	TRSH	154	28.205128
-Binney2017_E3561	Ledum palustre	Ledum palustre	DWAR	18	3.2967033
-Binney2017_E3561	Picea	Picea	TRSH	9	1.6483516
-Binney2017_E3561	Pinus	Pinus	TRSH	90	16.483516
-Binney2017_E3561	Pinus (Haploxylon)	Pinus cembra-type	TRSH	1	0.18315018
-Binney2017_E3561	Rosaceae	Rosaceae	TRSH	5	0.91575092
-Binney2017_E3561	Salix	Salix	TRSH	5	0.91575092
-Binney2017_E3561	Artemisia	Artemisia	HERB	11	2.014652
-Binney2017_E3561	Asteraceae	Asteraceae	HERB	3	0.54945055
-Binney2017_E3561	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	1	0.18315018
-Binney2017_E3561	Cyperaceae	Cyperaceae	HERB	8	1.4652015
-Binney2017_E3561	Poaceae	Poaceae	HERB	6	1.0989011
-Binney2017_E3561	Polygonaceae	Polygonaceae	HERB	3	0.54945055
-Binney2017_E3561	Ranunculaceae	Ranunculaceae	HERB	5	0.91575092
-Binney2017_E3561	Sanguisorba officinalis	Sanguisorba officinalis	HERB	2	0.36630037
-Binney2017_E3561	Thalictrum	Thalictrum	HERB	4	0.73260073
-Binney2017_E3561	Urticaceae	Urticaceae	HERB	2	0.36630037
-Binney2017_E3561	Bryophyta	Bryophyte spores	BRYO	13	2.3809524
-Binney2017_E3561	Lycopodium pungens	Lycopodium annotinum-type	VACR	1	0.18315018
-Binney2017_E3561	Lycopodium clavatum	Lycopodium clavatum	VACR	1	0.18315018
-Binney2017_E3561	Lycopodium juniperoides	Lycopodium juniperoides	VACR	1	0.18315018
-Binney2017_E3561	Polygonum amphibium-type	Persicaria amphibia	AQUA	3	0.54945055
-Binney2017_E3561	Sphagnum	Sphagnum	NOPO	4	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Binney2017_E3561	5	4	5	Alnus	Alnus	TRSH
+Binney2017_E3561	7	11	7	Artemisia	Artemisia	HERB
+Binney2017_E3561	18	1	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Binney2017_E3561	33	8	33	Cyperaceae	Cyperaceae	HERB
+Binney2017_E3561	75	90	75	Pinus	Pinus	TRSH
+Binney2017_E3561	80	6	80	Poaceae	Poaceae	HERB
+Binney2017_E3561	99	5	99	Salix	Salix	TRSH
+Binney2017_E3561	112	4	112	Thalictrum	Thalictrum	HERB
+Binney2017_E3561	126	9	126	Picea	Picea	TRSH
+Binney2017_E3561	128	50	128	Betula sect. Albae	Betula pubescens-type	TRSH
+Binney2017_E3561	134	3	134	Asteraceae	Asteraceae	HERB
+Binney2017_E3561	135	5	135	Ranunculaceae	Ranunculaceae	HERB
+Binney2017_E3561	138	3	138	Polygonaceae	Polygonaceae	HERB
+Binney2017_E3561	144	4	144	Sphagnum	Sphagnum	BRYO
+Binney2017_E3561	566	8	566	Arctostaphylos	Arctostaphylos	DWAR
+Binney2017_E3561	809	2	809	Urticaceae	Urticaceae	HERB
+Binney2017_E3561	1188	2	474	Sanguisorba officinalis	Sanguisorba officinalis	HERB
+Binney2017_E3561	1241	13	147	Bryophyta	Bryophyte spores	BRYO
+Binney2017_E3561	1713	18	1258	Ledum palustre	Ledum palustre	DWAR
+Binney2017_E3561	1714	1	1549	Lycopodium clavatum	Lycopodium clavatum	VACR
+Binney2017_E3561	2120	16	130	Ericales	Ericales (tetrad)	DWAR
+Binney2017_E3561	2962	52	129	Alnus fruticosa	Alnus viridis	TRSH
+Binney2017_E3561	3613	72	3613	Betula fruticosa	Betula nana-type	TRSH
+Binney2017_E3561	5170	1	183	Lycopodium pungens	Lycopodium annotinum-type	VACR
+Binney2017_E3561	5171	1	124	Pinus (Haploxylon)	Pinus cembra-type	TRSH
+Binney2017_E3561	5212	3	1506	Polygonum amphibium-type	Persicaria amphibia	AQUA
+Binney2017_E3561	5215	154	5215	Larix dahurica	Larix dahurica	TRSH
+Binney2017_E3561	5219	1	2607	Cornus sericea subsp. sericea	Cornus suecica	TRSH
+Binney2017_E3561	92	5	92	Rosaceae	Rosaceae	TRSH
+Binney2017_E3561	5220	1	5220	Lycopodium juniperoides	Lycopodium juniperoides	VACR

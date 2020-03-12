@@ -1,50 +1,50 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Bjune_a112	Alnus	Alnus	TRSH	31	4.5255474
-Bjune_a112	Betula	Betula	TRSH	131	19.124088
-Bjune_a112	Betula/Corylus/Myrica	Betula/Corylus/Myrica	TRSH	6	0.87591241
-Bjune_a112	Calluna vulgaris	Calluna vulgaris	DWAR	7	1.0218978
-Bjune_a112	Corylus avellana	Corylus	TRSH	3	0.4379562
-Bjune_a112	Corylus/Myrica	Corylus/Myrica	TRSH	3	0.4379562
-Bjune_a112	Ericaceae-type	Ericales (tetrad)	DWAR	7	1.0218978
-Bjune_a112	Fraxinus excelsior	Fraxinus excelsior-type	TRSH	1	0.1459854
-Bjune_a112	Juniperus communis	Juniperus communis-type	TRSH	10	1.459854
-Bjune_a112	Picea	Picea	TRSH	1	0.1459854
-Bjune_a112	Pinus sylvestris	Pinus sylvestris-type	TRSH	67	9.7810219
-Bjune_a112	Populus tremula	Populus tremula-type	TRSH	1	0.1459854
-Bjune_a112	Rosaceae undiff.	Rosa	TRSH	2	0.2919708
-Bjune_a112	Salix undiff.	Salix	TRSH	4	0.58394161
-Bjune_a112	Sorbus aucuparia	Sorbus-type	TRSH	1	0.1459854
-Bjune_a112	Tilia cordata	Tilia cordata-type	TRSH	1	0.1459854
-Bjune_a112	Ulmus	Ulmus/Zelkova	TRSH	3	0.4379562
-Bjune_a112	Vaccinium-type	Vaccinium-type	DWAR	2	0.2919708
-Bjune_a112	Artemisia	Artemisia	HERB	1	0.1459854
-Bjune_a112	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB	3	0.4379562
-Bjune_a112	Filipendula	Filipendula	HERB	2	0.2919708
-Bjune_a112	Juncaceae	Juncaceae	HERB	2	0.2919708
-Bjune_a112	Melampyrum	Melampyrum	HERB	4	0.58394161
-Bjune_a112	Narthecium ossifragum	Narthecium	HERB	2	0.2919708
-Bjune_a112	Plantago lanceolata	Plantago lanceolata-type	HERB	3	0.4379562
-Bjune_a112	Gramineae undiff.	Poaceae	HERB	82	11.970803
-Bjune_a112	Potentilla-type	Potentilla-type	HERB	3	0.4379562
-Bjune_a112	Rubus chamaemorus	Rubus chamaemorus	HERB	1	0.1459854
-Bjune_a112	Rumex acetosa	Rumex acetosa-type	HERB	4	0.58394161
-Bjune_a112	Rumex acetosa-type/R. acetosella-type	Rumex acetosa-type	HERB	3	0.4379562
-Bjune_a112	Solidago-type	Senecio-type	HERB	3	0.4379562
-Bjune_a112	Urtica	Urtica	HERB	7	1.0218978
-Bjune_a112	Cryptogramma crispa	Cryptogramma crispa	VACR	2	0.2919708
-Bjune_a112	Dryopteris-type	Dryopteris-type	VACR	232	33.868613
-Bjune_a112	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR	24	3.5036496
-Bjune_a112	Huperzia selago	Huperzia selago	VACR	2	0.2919708
-Bjune_a112	Lycopodium annotinum	Lycopodium annotinum-type	VACR	3	0.4379562
-Bjune_a112	Lycopodium clavatum	Lycopodium clavatum	VACR	1	0.1459854
-Bjune_a112	Polypodium vulgare	Polypodium	VACR	1	0.1459854
-Bjune_a112	Selaginella selaginoides	Selaginella selaginoides	VACR	1	0.1459854
-Bjune_a112	Sphagnum	Sphagnum	BRYO	18	2.6277372
-Bjune_a112	Botryococcus	Botryococcus	ALGA	1	0.1459854
-Bjune_a112	Carex-type	Carex	AQUA	50	7.2992701
-Bjune_a112	Cyperaceae undiff.	Cyperaceae	AQUA	15	2.189781
-Bjune_a112	Isoetes lacustris	Isoetes lacustris	AQPT	3	0.4379562
-Bjune_a112	Indeterminable: concealed	Indeterminable: concealed	INUN	1	
-Bjune_a112	Indeterminable: corroded	Indeterminable: corroded	INUN	16	
-Bjune_a112	Indeterminable: crumpled	Indeterminable: crumpled	INUN	3	
-Bjune_a112	Indeterminable: degraded	Indeterminable: degraded	INUN	2	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Bjune_a112	5	31	5	Alnus	Alnus	TRSH
+Bjune_a112	12	131	12	Betula	Betula	TRSH
+Bjune_a112	3619	6	3619	Betula/Corylus/Myrica	Betula/Corylus/Myrica	TRSH
+Bjune_a112	663	1	663	Botryococcus	Botryococcus	ALGA
+Bjune_a112	3646	7	3645	Calluna vulgaris	Calluna vulgaris	DWAR
+Bjune_a112	3665	50	3663	Carex-type	Carex	AQUA
+Bjune_a112	31	3	31	Corylus avellana	Corylus	TRSH
+Bjune_a112	1607	2	553	Cryptogramma crispa	Cryptogramma crispa	VACR
+Bjune_a112	3873	15	3868	Cyperaceae undiff.	Cyperaceae	AQUA
+Bjune_a112	45	2	45	Filipendula	Filipendula	HERB
+Bjune_a112	47	1	47	Fraxinus excelsior	Fraxinus excelsior-type	TRSH
+Bjune_a112	4018	82	80	Gramineae undiff.	Poaceae	HERB
+Bjune_a112	2121	24	1320	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR
+Bjune_a112	964	2	184	Huperzia selago	Huperzia selago	VACR
+Bjune_a112	4073	1	999	Indeterminable: concealed	Indeterminable: concealed	INUN
+Bjune_a112	4074	16	1324	Indeterminable: corroded	Indeterminable: corroded	INUN
+Bjune_a112	4075	3	1925	Indeterminable: crumpled	Indeterminable: crumpled	INUN
+Bjune_a112	718	2	718	Indeterminable: degraded	Indeterminable: degraded	INUN
+Bjune_a112	1590	3	1590	Isoetes lacustris	Isoetes lacustris	AQPT
+Bjune_a112	1750	2	1750	Juncaceae	Juncaceae	HERB
+Bjune_a112	941	10	58	Juniperus communis	Juniperus communis-type	TRSH
+Bjune_a112	965	3	183	Lycopodium annotinum	Lycopodium annotinum-type	VACR
+Bjune_a112	1714	1	1549	Lycopodium clavatum	Lycopodium clavatum	VACR
+Bjune_a112	473	4	473	Melampyrum	Melampyrum	HERB
+Bjune_a112	4217	2	987	Narthecium ossifragum	Narthecium	HERB
+Bjune_a112	126	1	126	Picea	Picea	TRSH
+Bjune_a112	788	67	125	Pinus sylvestris	Pinus sylvestris-type	TRSH
+Bjune_a112	60	3	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+Bjune_a112	667	1	214	Polypodium vulgare	Polypodium	VACR
+Bjune_a112	4381	1	4381	Populus tremula	Populus tremula-type	TRSH
+Bjune_a112	626	3	512	Potentilla-type	Potentilla-type	HERB
+Bjune_a112	472	2	92	Rosaceae undiff.	Rosaceae	TRSH
+Bjune_a112	2112	1	172	Rubus chamaemorus	Rubus chamaemorus	HERB
+Bjune_a112	95	4	95	Rumex acetosa	Rumex acetosa-type	HERB
+Bjune_a112	4504	3	95	Rumex acetosa-type/R. acetosella-type	Rumex acetosa-type	HERB
+Bjune_a112	1400	4	99	Salix undiff.	Salix	TRSH
+Bjune_a112	874	1	185	Selaginella selaginoides	Selaginella selaginoides	VACR
+Bjune_a112	2428	3	133	Solidago-type	Senecio-type	HERB
+Bjune_a112	2388	1	107	Sorbus aucuparia	Sorbus-type	TRSH
+Bjune_a112	144	18	144	Sphagnum	Sphagnum	BRYO
+Bjune_a112	1406	1	153	Tilia cordata	Tilia cordata-type	TRSH
+Bjune_a112	652	7	652	Urtica	Urtica	HERB
+Bjune_a112	4730	2	4730	Vaccinium-type	Vaccinium-type	DWAR
+Bjune_a112	7	1	7	Artemisia	Artemisia	HERB
+Bjune_a112	154	3	154	Ulmus	Ulmus/Zelkova	TRSH
+Bjune_a112	1247	232	772	Dryopteris-type	Dryopteris-type	VACR
+Bjune_a112	3824	3	25	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Bjune_a112	3852	3	3847	Corylus/Myrica	Corylus/Myrica	TRSH
+Bjune_a112	3944	7	130	Ericaceae-type	Ericales (tetrad)	DWAR

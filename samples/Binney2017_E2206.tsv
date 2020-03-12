@@ -1,30 +1,30 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Binney2017_E2206	Alnus	Alnus	TRSH	253	22.076789
-Binney2017_E2206	Betula	Betula	TRSH	172	15.008726
-Binney2017_E2206	Ericales	Ericales (tetrad)	DWAR	125	10.907504
-Binney2017_E2206	Pinus (Haploxylon)	Pinus cembra-type	TRSH	63	5.4973822
-Binney2017_E2206	Rosaceae	Rosaceae	TRSH	3	0.2617801
-Binney2017_E2206	Salix	Salix	TRSH	6	0.52356021
-Binney2017_E2206	Artemisia	Artemisia	HERB	8	0.69808028
-Binney2017_E2206	Spiraea	Aruncus/Spiraea	HERB	1	0.087260035
-Binney2017_E2206	Asteraceae	Asteraceae	HERB	32	2.7923211
-Binney2017_E2206	Brassicaceae	Brassicaceae	HERB	6	0.52356021
-Binney2017_E2206	Cardamine	Brassicaceae	HERB	2	0.17452007
-Binney2017_E2206	Draba	Brassicaceae	HERB	1	0.087260035
-Binney2017_E2206	Cyperaceae	Cyperaceae	HERB	170	14.834206
-Binney2017_E2206	Papaveraceae	Papaveraceae	HERB	5	0.43630017
-Binney2017_E2206	Poaceae	Poaceae	HERB	192	16.753927
-Binney2017_E2206	Polemoniaceae	Polemoniaceae	HERB	1	0.087260035
-Binney2017_E2206	Polygonum bistorta	Polygonum bistorta	HERB	1	0.087260035
-Binney2017_E2206	Primulaceae	Primulaceae	HERB	4	0.34904014
-Binney2017_E2206	Ranunculaceae	Ranunculaceae	HERB	12	1.0471204
-Binney2017_E2206	Rubus chamaemorus	Rubus chamaemorus	HERB	30	2.617801
-Binney2017_E2206	Rumex	Rumex/Oxyria	HERB	1	0.087260035
-Binney2017_E2206	Saxifragaceae	Saxifragaceae	HERB	5	0.43630017
-Binney2017_E2206	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	9	0.78534031
-Binney2017_E2206	Lycopodiaceae	Lycopodiaceae	VACR	4	0.34904014
-Binney2017_E2206	Lycopodium pungens	Lycopodium annotinum-type	VACR	3	0.2617801
-Binney2017_E2206	Lycopodium alpinum	Lycopodium clavatum-type	VACR	2	0.17452007
-Binney2017_E2206	Polypodiaceae	Monolete fern spores	VACR	25	2.1815009
-Binney2017_E2206	Selaginella rupestris	Selaginella rupestris	VACR	10	0.87260035
-Binney2017_E2206	Sphagnum	Sphagnum	NOPO	106	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Binney2017_E2206	5	253	5	Alnus	Alnus	TRSH
+Binney2017_E2206	7	8	7	Artemisia	Artemisia	HERB
+Binney2017_E2206	12	172	12	Betula	Betula	TRSH
+Binney2017_E2206	13	6	13	Brassicaceae	Brassicaceae	HERB
+Binney2017_E2206	33	170	33	Cyperaceae	Cyperaceae	HERB
+Binney2017_E2206	80	192	80	Poaceae	Poaceae	HERB
+Binney2017_E2206	99	6	99	Salix	Salix	TRSH
+Binney2017_E2206	134	32	134	Asteraceae	Asteraceae	HERB
+Binney2017_E2206	135	12	135	Ranunculaceae	Ranunculaceae	HERB
+Binney2017_E2206	144	106	144	Sphagnum	Sphagnum	BRYO
+Binney2017_E2206	146	25	146	Polypodiaceae	Monolete fern spores	VACR
+Binney2017_E2206	169	1	169	Polemoniaceae	Polemoniaceae	HERB
+Binney2017_E2206	173	9	173	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB
+Binney2017_E2206	625	1	625	Polygonum bistorta	Polygonum bistorta	HERB
+Binney2017_E2206	639	5	639	Saxifragaceae	Saxifragaceae	HERB
+Binney2017_E2206	727	1	94	Rumex	Rumex/Oxyria	HERB
+Binney2017_E2206	752	4	752	Lycopodiaceae	Lycopodiaceae	VACR
+Binney2017_E2206	799	4	799	Primulaceae	Primulaceae	HERB
+Binney2017_E2206	1524	1	1108	Spiraea	Aruncus/Spiraea	HERB
+Binney2017_E2206	1669	5	381	Papaveraceae	Papaveraceae	HERB
+Binney2017_E2206	2120	125	130	Ericales	Ericales (tetrad)	DWAR
+Binney2017_E2206	2265	2	182	Lycopodium alpinum	Lycopodium clavatum-type	VACR
+Binney2017_E2206	2287	2	13	Cardamine	Brassicaceae	HERB
+Binney2017_E2206	2995	10	142	Selaginella rupestris	Selaginella rupestris	VACR
+Binney2017_E2206	4948	1	13	Draba	Brassicaceae	HERB
+Binney2017_E2206	5170	3	183	Lycopodium pungens	Lycopodium annotinum-type	VACR
+Binney2017_E2206	5171	63	124	Pinus (Haploxylon)	Pinus cembra-type	TRSH
+Binney2017_E2206	92	3	92	Rosaceae	Rosaceae	TRSH
+Binney2017_E2206	2112	30	172	Rubus chamaemorus	Rubus chamaemorus	HERB

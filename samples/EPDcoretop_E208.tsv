@@ -1,39 +1,39 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-EPDcoretop_E208	Abies	Abies	TRSH	14	1.0014306
-EPDcoretop_E208	Acer	Acer campestre-type	TRSH	2	0.14306152
-EPDcoretop_E208	Alnus	Alnus	TRSH	9	0.64377682
-EPDcoretop_E208	Betula	Betula	TRSH	28	2.0028612
-EPDcoretop_E208	Carpinus betulus	Carpinus betulus	TRSH	3	0.21459227
-EPDcoretop_E208	Corylus avellana	Corylus	TRSH	6	0.42918455
-EPDcoretop_E208	Ericaceae	Ericales (tetrad)	DWAR	1	0.071530758
-EPDcoretop_E208	Fagus	Fagus	TRSH	51	3.6480687
-EPDcoretop_E208	Larix	Larix/Pseudotsuga	TRSH	8	0.57224607
-EPDcoretop_E208	Picea	Picea	TRSH	879	62.875536
-EPDcoretop_E208	Pinus	Pinus	TRSH	85	6.0801144
-EPDcoretop_E208	Quercus	Quercus	TRSH	7	0.50071531
-EPDcoretop_E208	Rosaceae	Rosaceae	TRSH	103	7.3676681
-EPDcoretop_E208	Salix	Salix	TRSH	1	0.071530758
-EPDcoretop_E208	Tilia	Tilia	TRSH	2	0.14306152
-EPDcoretop_E208	Ulmus	Ulmus/Zelkova	TRSH	3	0.21459227
-EPDcoretop_E208	Umbelliferae	Apiaceae	HERB	2	0.14306152
-EPDcoretop_E208	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB	3	0.21459227
-EPDcoretop_E208	Cruciferae	Brassicaceae	HERB	1	0.071530758
-EPDcoretop_E208	Caltha-type	Caltha-type	HERB	7	0.50071531
-EPDcoretop_E208	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	2	0.14306152
-EPDcoretop_E208	Cerealia	Cerealia-type	HERB	7	0.50071531
-EPDcoretop_E208	Secale	Cerealia-type	HERB	3	0.21459227
-EPDcoretop_E208	Cirsium	Cirsium	HERB	8	0.57224607
-EPDcoretop_E208	Filipendula	Filipendula	HERB	1	0.071530758
-EPDcoretop_E208	Plantago lanceolata-type	Plantago lanceolata-type	HERB	2	0.14306152
-EPDcoretop_E208	Gramineae	Poaceae	HERB	123	8.7982833
-EPDcoretop_E208	Polygonum bistorta	Polygonum bistorta	HERB	7	0.50071531
-EPDcoretop_E208	Rumex-type	Rumex/Oxyria	HERB	6	0.42918455
-EPDcoretop_E208	Senecio-type	Senecio-type	HERB	6	0.42918455
-EPDcoretop_E208	Thalictrum	Thalictrum	HERB	1	0.071530758
-EPDcoretop_E208	Urtica	Urtica	HERB	11	0.78683834
-EPDcoretop_E208	Dryopteris-type	Dryopteris-type	VACR	4	0.28612303
-EPDcoretop_E208	Lycopodium annotinum	Lycopodium annotinum-type	VACR	1	0.071530758
-EPDcoretop_E208	Pteridium aquilinum	Pteridium aquilinum	VACR	1	0.071530758
-EPDcoretop_E208	Cyperaceae	Cyperaceae	AQUA	28	2.0028612
-EPDcoretop_E208	Added exote (grains/ml)	Added exote (grains/ml)	NOPO	19000	
-EPDcoretop_E208	Counted exote	Counted exote	NOPO	74	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+EPDcoretop_E208	2	2	2	Acer	Acer campestre-type	TRSH
+EPDcoretop_E208	3503	19000	3503	Added exote (grains/ml)	Added exote (grains/ml)	NOPO
+EPDcoretop_E208	5	9	5	Alnus	Alnus	TRSH
+EPDcoretop_E208	12	28	12	Betula	Betula	TRSH
+EPDcoretop_E208	3650	7	3650	Caltha-type	Caltha-type	HERB
+EPDcoretop_E208	563	3	16	Carpinus betulus	Carpinus betulus	TRSH
+EPDcoretop_E208	603	8	603	Cirsium	Cirsium	HERB
+EPDcoretop_E208	3824	3	25	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+EPDcoretop_E208	31	6	31	Corylus avellana	Corylus	TRSH
+EPDcoretop_E208	3854	74	3854	Counted exote	Counted exote	NOPO
+EPDcoretop_E208	482	1	13	Cruciferae	Brassicaceae	HERB
+EPDcoretop_E208	3868	28	3868	Cyperaceae	Cyperaceae	AQUA
+EPDcoretop_E208	1247	4	772	Dryopteris-type	Dryopteris-type	VACR
+EPDcoretop_E208	130	1	130	Ericaceae	Ericales (tetrad)	DWAR
+EPDcoretop_E208	192	51	42	Fagus	Fagus	TRSH
+EPDcoretop_E208	45	1	45	Filipendula	Filipendula	HERB
+EPDcoretop_E208	123	8	123	Larix	Larix/Pseudotsuga	TRSH
+EPDcoretop_E208	965	1	183	Lycopodium annotinum	Lycopodium annotinum-type	VACR
+EPDcoretop_E208	126	879	126	Picea	Picea	TRSH
+EPDcoretop_E208	75	85	75	Pinus	Pinus	TRSH
+EPDcoretop_E208	1075	2	60	Plantago lanceolata-type	Plantago lanceolata-type	HERB
+EPDcoretop_E208	625	7	625	Polygonum bistorta	Polygonum bistorta	HERB
+EPDcoretop_E208	180	1	180	Pteridium aquilinum	Pteridium aquilinum	VACR
+EPDcoretop_E208	189	7	189	Quercus	Quercus	TRSH
+EPDcoretop_E208	92	103	92	Rosaceae	Rosaceae	TRSH
+EPDcoretop_E208	99	1	99	Salix	Salix	TRSH
+EPDcoretop_E208	1230	6	133	Senecio-type	Senecio-type	HERB
+EPDcoretop_E208	187	2	187	Tilia	Tilia	TRSH
+EPDcoretop_E208	154	3	154	Ulmus	Ulmus/Zelkova	TRSH
+EPDcoretop_E208	590	2	6	Umbelliferae	Apiaceae	HERB
+EPDcoretop_E208	652	11	652	Urtica	Urtica	HERB
+EPDcoretop_E208	18	2	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+EPDcoretop_E208	22	7	22	Cerealia	Cerealia-type	HERB
+EPDcoretop_E208	104	3	22	Secale	Cerealia-type	HERB
+EPDcoretop_E208	112	1	112	Thalictrum	Thalictrum	HERB
+EPDcoretop_E208	560	14	321	Abies	Abies	TRSH
+EPDcoretop_E208	1601	123	80	Gramineae	Poaceae	HERB
+EPDcoretop_E208	4520	6	94	Rumex-type	Rumex/Oxyria	HERB

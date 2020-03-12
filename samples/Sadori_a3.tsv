@@ -1,35 +1,35 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Sadori_a3	Alnus	Alnus	TRSH	26	6.9892473
-Sadori_a3	Betula	Betula	TRSH	11	2.9569892
-Sadori_a3	Carpinus betulus	Carpinus betulus	TRSH	6	1.6129032
-Sadori_a3	Castanea	Castanea sativa	TRSH	5	1.344086
-Sadori_a3	Corylus	Corylus	TRSH	59	15.860215
-Sadori_a3	Ericaceae	Ericales (tetrad)	DWAR	2	0.53763441
-Sadori_a3	Fagus	Fagus	TRSH	1	0.2688172
-Sadori_a3	Ostrya	Ostrya/Carpinus orientalis	TRSH	35	9.4086022
-Sadori_a3	Picea	Picea	TRSH	107	28.763441
-Sadori_a3	Pinus	Pinus	TRSH	45	12.096774
-Sadori_a3	Quercus deciduous	Quercus robur-type	TRSH	3	0.80645161
-Sadori_a3	Rosaceae	Rosaceae	TRSH	1	0.2688172
-Sadori_a3	Sambucus	Sambucus	TRSH	2	0.53763441
-Sadori_a3	Tilia	Tilia	TRSH	6	1.6129032
-Sadori_a3	Vitis	Vitis	LIAN	3	0.80645161
-Sadori_a3	Umbelliferae	Apiaceae	HERB	1	0.2688172
-Sadori_a3	Artemisia	Artemisia	HERB	3	0.80645161
-Sadori_a3	Asteroideae	Asteraceae subf. Asteroideae	HERB	6	1.6129032
-Sadori_a3	Cruciferae	Brassicaceae	HERB	2	0.53763441
-Sadori_a3	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.2688172
-Sadori_a3	Filipendula	Filipendula	HERB	2	0.53763441
-Sadori_a3	Helianthemum	Helianthemum	HERB	1	0.2688172
-Sadori_a3	Cannabaceae	Humulus/Cannabis	HERB	3	0.80645161
-Sadori_a3	Plantago	Plantago	HERB	1	0.2688172
-Sadori_a3	Gramineae	Poaceae	HERB	16	4.3010753
-Sadori_a3	Ranunculaceae	Ranunculaceae	HERB	4	1.0752688
-Sadori_a3	Rubiaceae	Rubiaceae	HERB	3	0.80645161
-Sadori_a3	Rumex	Rumex/Oxyria	HERB	2	0.53763441
-Sadori_a3	Poterium	Sanguisorba minor-type	HERB	1	0.2688172
-Sadori_a3	Fungal spores	Fungal spore	VACR	14	3.7634409
-Sadori_a3	Cyperaceae	Cyperaceae	AQUA	1	0.2688172
-Sadori_a3	Indeterminable: unknown	Indeterminable: unknown	INUN	14	
-Sadori_a3	Lycopodium (added)	Lycopodium (added)	NOPO	54000	
-Sadori_a3	Lycopodium (counted)	Lycopodium (counted)	NOPO	123	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Sadori_a3	5	26	5	Alnus	Alnus	TRSH
+Sadori_a3	7	3	7	Artemisia	Artemisia	HERB
+Sadori_a3	761	6	160	Asteroideae	Asteraceae subf. Asteroideae	HERB
+Sadori_a3	12	11	12	Betula	Betula	TRSH
+Sadori_a3	563	6	16	Carpinus betulus	Carpinus betulus	TRSH
+Sadori_a3	201	59	31	Corylus	Corylus	TRSH
+Sadori_a3	482	2	13	Cruciferae	Brassicaceae	HERB
+Sadori_a3	3868	1	3868	Cyperaceae	Cyperaceae	AQUA
+Sadori_a3	130	2	130	Ericaceae	Ericales (tetrad)	DWAR
+Sadori_a3	192	1	42	Fagus	Fagus	TRSH
+Sadori_a3	45	2	45	Filipendula	Filipendula	HERB
+Sadori_a3	1601	16	80	Gramineae	Poaceae	HERB
+Sadori_a3	4078	14	177	Indeterminable: unknown	Indeterminable: unknown	INUN
+Sadori_a3	692	54000	692	Lycopodium (added)	Lycopodium (added)	NOPO
+Sadori_a3	559	123	559	Lycopodium (counted)	Lycopodium (counted)	NOPO
+Sadori_a3	126	107	126	Picea	Picea	TRSH
+Sadori_a3	75	45	75	Pinus	Pinus	TRSH
+Sadori_a3	437	3	86	Quercus deciduous	Quercus robur-type	TRSH
+Sadori_a3	135	4	135	Ranunculaceae	Ranunculaceae	HERB
+Sadori_a3	93	3	93	Rubiaceae	Rubiaceae	HERB
+Sadori_a3	727	2	94	Rumex	Rumex/Oxyria	HERB
+Sadori_a3	481	2	407	Sambucus	Sambucus	TRSH
+Sadori_a3	187	6	187	Tilia	Tilia	TRSH
+Sadori_a3	590	1	6	Umbelliferae	Apiaceae	HERB
+Sadori_a3	24	1	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Sadori_a3	52	1	52	Helianthemum	Helianthemum	HERB
+Sadori_a3	441	5	19	Castanea	Castanea sativa	TRSH
+Sadori_a3	571	35	70	Ostrya	Ostrya/Carpinus orientalis	TRSH
+Sadori_a3	724	1	270	Plantago	Plantago	HERB
+Sadori_a3	1674	1	101	Poterium	Sanguisorba minor-type	HERB
+Sadori_a3	3652	3	205	Cannabaceae	Humulus/Cannabis	HERB
+Sadori_a3	3990	14	3990	Fungal spores	Fungal spore	VACR
+Sadori_a3	4756	3	4756	Vitis	Vitis	LIAN
+Sadori_a3	92	1	92	Rosaceae	Rosaceae	TRSH

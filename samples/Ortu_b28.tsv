@@ -1,41 +1,41 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Ortu_b28	Abies	Abies	TRSH	7	1.4028056
-Ortu_b28	Acer	Acer campestre-type	TRSH	3	0.6012024
-Ortu_b28	Alnus glutinosa	Alnus glutinosa-type	TRSH	5	1.002004
-Ortu_b28	Alnus viridis	Alnus viridis	TRSH	27	5.4108216
-Ortu_b28	Betula	Betula	TRSH	10	2.004008
-Ortu_b28	Castanea	Castanea sativa	TRSH	6	1.2024048
-Ortu_b28	Corylus	Corylus	TRSH	1	0.2004008
-Ortu_b28	Fagus	Fagus	TRSH	6	1.2024048
-Ortu_b28	Larix	Larix/Pseudotsuga	TRSH	2	0.4008016
-Ortu_b28	Picea	Picea	TRSH	41	8.2164329
-Ortu_b28	Pinus	Pinus	TRSH	173	34.669339
-Ortu_b28	Quercus robur-type	Quercus robur-type	TRSH	1	0.2004008
-Ortu_b28	Salix	Salix	TRSH	2	0.4008016
-Ortu_b28	Ulmus	Ulmus/Zelkova	TRSH	1	0.2004008
-Ortu_b28	Artemisia	Artemisia	HERB	4	0.80160321
-Ortu_b28	Asteroideae	Asteraceae subf. Asteroideae	HERB	8	1.6032064
-Ortu_b28	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	19	3.8076152
-Ortu_b28	Boraginaceae	Boraginaceae	HERB	1	0.2004008
-Ortu_b28	Brassicaceae	Brassicaceae	HERB	4	0.80160321
-Ortu_b28	Campanulaceae	Campanulaceae	HERB	2	0.4008016
-Ortu_b28	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.2004008
-Ortu_b28	Crassulaceae	Crassulaceae	HERB	1	0.2004008
-Ortu_b28	Dipsacaceae	Dipsacaceae	HERB	11	2.2044088
-Ortu_b28	Helianthemum	Helianthemum	HERB	4	0.80160321
-Ortu_b28	Lamiaceae	Lamiaceae	HERB	4	0.80160321
-Ortu_b28	Odontites	Odontites-type	HERB	5	1.002004
-Ortu_b28	Plantago lanceolata	Plantago lanceolata-type	HERB	20	4.008016
-Ortu_b28	Poaceae	Poaceae	HERB	65	13.026052
-Ortu_b28	Polygonum pro parte	Polygonum-type (tricolporate)	HERB	1	0.2004008
-Ortu_b28	Ranunculaceae	Ranunculaceae	HERB	26	5.2104208
-Ortu_b28	Rubiaceae	Rubiaceae	HERB	1	0.2004008
-Ortu_b28	Rumex	Rumex/Oxyria	HERB	2	0.4008016
-Ortu_b28	Saxifraga	Saxifraga	HERB	5	1.002004
-Ortu_b28	Trifolium	Trifolium-type	HERB	1	0.2004008
-Ortu_b28	Urticaceae	Urticaceae	HERB	1	0.2004008
-Ortu_b28	Botrychium	Botrychium	VACR	3	0.6012024
-Ortu_b28	Monolete fern spores	Monolete fern spores	VACR	2	0.4008016
-Ortu_b28	Trilete spores	Trilete spore(s)	VACR	23	4.6092184
-Ortu_b28	Fabaceae	Fabaceae	INUN	2	
-Ortu_b28	Indeterminable: unknown	Indeterminable: unknown	INUN	6	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Ortu_b28	560	7	321	Abies	Abies	TRSH
+Ortu_b28	2	3	2	Acer	Acer campestre-type	TRSH
+Ortu_b28	561	27	129	Alnus viridis	Alnus viridis	TRSH
+Ortu_b28	7	4	7	Artemisia	Artemisia	HERB
+Ortu_b28	761	8	160	Asteroideae	Asteraceae subf. Asteroideae	HERB
+Ortu_b28	162	1	162	Boraginaceae	Boraginaceae	HERB
+Ortu_b28	962	3	962	Botrychium	Botrychium	VACR
+Ortu_b28	13	4	13	Brassicaceae	Brassicaceae	HERB
+Ortu_b28	24	1	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Ortu_b28	447	19	25	Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Ortu_b28	201	1	31	Corylus	Corylus	TRSH
+Ortu_b28	164	11	164	Dipsacaceae	Dipsacaceae	HERB
+Ortu_b28	3958	2	3958	Fabaceae	Fabaceae	INUN
+Ortu_b28	192	6	42	Fagus	Fagus	TRSH
+Ortu_b28	52	4	52	Helianthemum	Helianthemum	HERB
+Ortu_b28	4078	6	177	Indeterminable: unknown	Indeterminable: unknown	INUN
+Ortu_b28	4193	2	146	Monolete fern spores	Monolete fern spores	VACR
+Ortu_b28	126	41	126	Picea	Picea	TRSH
+Ortu_b28	75	173	75	Pinus	Pinus	TRSH
+Ortu_b28	60	20	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+Ortu_b28	80	65	80	Poaceae	Poaceae	HERB
+Ortu_b28	4370	1	1505	Polygonum pro parte	Polygonum-type (tricolporate)	HERB
+Ortu_b28	93	1	93	Rubiaceae	Rubiaceae	HERB
+Ortu_b28	727	2	94	Rumex	Rumex/Oxyria	HERB
+Ortu_b28	115	1	115	Trifolium	Trifolium-type	HERB
+Ortu_b28	12	10	12	Betula	Betula	TRSH
+Ortu_b28	59	4	59	Lamiaceae	Lamiaceae	HERB
+Ortu_b28	67	5	67	Odontites	Odontites-type	HERB
+Ortu_b28	99	2	99	Salix	Salix	TRSH
+Ortu_b28	123	2	123	Larix	Larix/Pseudotsuga	TRSH
+Ortu_b28	135	26	135	Ranunculaceae	Ranunculaceae	HERB
+Ortu_b28	136	2	136	Campanulaceae	Campanulaceae	HERB
+Ortu_b28	152	1	86	Quercus robur-type	Quercus robur-type	TRSH
+Ortu_b28	154	1	154	Ulmus	Ulmus/Zelkova	TRSH
+Ortu_b28	416	23	279	Trilete spores	Trilete spore(s)	VACR
+Ortu_b28	441	6	19	Castanea	Castanea sativa	TRSH
+Ortu_b28	491	5	491	Saxifraga	Saxifraga	HERB
+Ortu_b28	519	1	519	Crassulaceae	Crassulaceae	HERB
+Ortu_b28	760	5	155	Alnus glutinosa	Alnus glutinosa-type	TRSH
+Ortu_b28	809	1	809	Urticaceae	Urticaceae	HERB

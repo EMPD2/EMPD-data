@@ -1,41 +1,41 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Bjune_a251	Alnus	Alnus	TRSH	4	0.61633282
-Bjune_a251	Betula	Betula	TRSH	328	50.539291
-Bjune_a251	Empetrum nigrum	Empetrum nigrum	DWAR	1	0.1540832
-Bjune_a251	Ericaceae-type	Ericales (tetrad)	DWAR	31	4.7765794
-Bjune_a251	Juniperus communis	Juniperus communis-type	TRSH	23	3.5439137
-Bjune_a251	Picea	Picea	TRSH	2	0.30816641
-Bjune_a251	Pinus sylvestris	Pinus sylvestris-type	TRSH	105	16.178737
-Bjune_a251	Salix undiff.	Salix	TRSH	6	0.92449923
-Bjune_a251	Sorbus aucuparia	Sorbus-type	TRSH	1	0.1540832
-Bjune_a251	Vaccinium-type	Vaccinium-type	DWAR	14	2.1571649
-Bjune_a251	Artemisia	Artemisia	HERB	4	0.61633282
-Bjune_a251	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.1540832
-Bjune_a251	Filipendula	Filipendula	HERB	1	0.1540832
-Bjune_a251	Gramineae undiff.	Poaceae	HERB	17	2.6194145
-Bjune_a251	Potentilla-type	Potentilla-type	HERB	1	0.1540832
-Bjune_a251	Ranunculus acris-type	Ranunculus acris-type	HERB	1	0.1540832
-Bjune_a251	Rubus chamaemorus	Rubus chamaemorus	HERB	7	1.0785824
-Bjune_a251	Rumex acetosa	Rumex acetosa-type	HERB	5	0.77041602
-Bjune_a251	Rumex acetosa-type/R. acetosella-type	Rumex acetosa-type	HERB	3	0.46224961
-Bjune_a251	Rumex acetosella-type	Rumex acetosella	HERB	3	0.46224961
-Bjune_a251	Saussurea alpina	Saussurea alpina	HERB	1	0.1540832
-Bjune_a251	Solidago-type	Senecio-type	HERB	5	0.77041602
-Bjune_a251	Silene vulgaris-type	Silene vulgaris-type	HERB	1	0.1540832
-Bjune_a251	Urtica	Urtica	HERB	4	0.61633282
-Bjune_a251	Dryopteris-type	Dryopteris-type	VACR	18	2.7734977
-Bjune_a251	Equisetum	Equisetum	VACR	6	0.92449923
-Bjune_a251	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR	7	1.0785824
-Bjune_a251	Lycopodium clavatum	Lycopodium clavatum	VACR	3	0.46224961
-Bjune_a251	Diphasiastrum	Lycopodium clavatum-type	VACR	4	0.61633282
-Bjune_a251	Selaginella selaginoides	Selaginella selaginoides	VACR	1	0.1540832
-Bjune_a251	Sphagnum	Sphagnum	BRYO	41	6.3174114
-Bjune_a251	Botryococcus	Botryococcus	ALGA	223	34.360555
-Bjune_a251	Carex-type	Carex	AQUA	73	11.248074
-Bjune_a251	Cyperaceae undiff.	Cyperaceae	AQUA	10	1.540832
-Bjune_a251	Eriophorum-type	Eriophorum-type	AQUA	3	0.46224961
-Bjune_a251	Isoetes echinospora	Isoetes echinospora	AQPT	30	4.6224961
-Bjune_a251	Isoetes lacustris	Isoetes lacustris	AQPT	149	22.958398
-Bjune_a251	Indeterminable: broken	Indeterminable: broken	INUN	1	
-Bjune_a251	Indeterminable: corroded	Indeterminable: corroded	INUN	2	
-Bjune_a251	Nymphaeaceae: star cell	Nymphaeaceae: star cell	NOPO	21	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Bjune_a251	5	4	5	Alnus	Alnus	TRSH
+Bjune_a251	7	4	7	Artemisia	Artemisia	HERB
+Bjune_a251	663	223	663	Botryococcus	Botryococcus	ALGA
+Bjune_a251	3665	73	3663	Carex-type	Carex	AQUA
+Bjune_a251	3873	10	3868	Cyperaceae undiff.	Cyperaceae	AQUA
+Bjune_a251	3894	4	182	Diphasiastrum	Lycopodium clavatum-type	VACR
+Bjune_a251	1247	18	772	Dryopteris-type	Dryopteris-type	VACR
+Bjune_a251	939	1	739	Empetrum nigrum	Empetrum nigrum	DWAR
+Bjune_a251	145	6	145	Equisetum	Equisetum	VACR
+Bjune_a251	3944	31	130	Ericaceae-type	Ericales (tetrad)	DWAR
+Bjune_a251	45	1	45	Filipendula	Filipendula	HERB
+Bjune_a251	4018	17	80	Gramineae undiff.	Poaceae	HERB
+Bjune_a251	2121	7	1320	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR
+Bjune_a251	4072	1	998	Indeterminable: broken	Indeterminable: broken	INUN
+Bjune_a251	4074	2	1324	Indeterminable: corroded	Indeterminable: corroded	INUN
+Bjune_a251	2332	30	2332	Isoetes echinospora	Isoetes echinospora	AQPT
+Bjune_a251	1590	149	1590	Isoetes lacustris	Isoetes lacustris	AQPT
+Bjune_a251	1714	3	1549	Lycopodium clavatum	Lycopodium clavatum	VACR
+Bjune_a251	4227	21	4227	Nymphaeaceae: star cell	Nymphaeaceae: star cell	NOPO
+Bjune_a251	126	2	126	Picea	Picea	TRSH
+Bjune_a251	788	105	125	Pinus sylvestris	Pinus sylvestris-type	TRSH
+Bjune_a251	630	1	87	Ranunculus acris-type	Ranunculus acris-type	HERB
+Bjune_a251	95	5	95	Rumex acetosa	Rumex acetosa-type	HERB
+Bjune_a251	4504	3	95	Rumex acetosa-type/R. acetosella-type	Rumex acetosa-type	HERB
+Bjune_a251	1398	3	96	Rumex acetosella-type	Rumex acetosella	HERB
+Bjune_a251	1400	6	99	Salix undiff.	Salix	TRSH
+Bjune_a251	4552	1	4552	Saussurea alpina	Saussurea alpina	HERB
+Bjune_a251	874	1	185	Selaginella selaginoides	Selaginella selaginoides	VACR
+Bjune_a251	1231	1	1231	Silene vulgaris-type	Silene vulgaris-type	HERB
+Bjune_a251	2428	5	133	Solidago-type	Senecio-type	HERB
+Bjune_a251	2388	1	107	Sorbus aucuparia	Sorbus-type	TRSH
+Bjune_a251	652	4	652	Urtica	Urtica	HERB
+Bjune_a251	4730	14	4730	Vaccinium-type	Vaccinium-type	DWAR
+Bjune_a251	12	328	12	Betula	Betula	TRSH
+Bjune_a251	24	1	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Bjune_a251	144	41	144	Sphagnum	Sphagnum	BRYO
+Bjune_a251	626	1	512	Potentilla-type	Potentilla-type	HERB
+Bjune_a251	941	23	58	Juniperus communis	Juniperus communis-type	TRSH
+Bjune_a251	3947	3	3946	Eriophorum-type	Eriophorum-type	AQUA
+Bjune_a251	2112	7	172	Rubus chamaemorus	Rubus chamaemorus	HERB

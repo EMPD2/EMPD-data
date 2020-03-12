@@ -1,35 +1,35 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Binney2017_E3607	Alnus	Alnus	TRSH	208	15.781487
-Binney2017_E3607	Betula	Betula	TRSH	102	7.7389985
-Binney2017_E3607	Ericaceae	Ericales (tetrad)	DWAR	7	0.53110774
-Binney2017_E3607	Pinus subg. Strobus	Pinus cembra-type	TRSH	680	51.593323
-Binney2017_E3607	Rhododendron	Rhododendron	TRSH	1	0.075872534
-Binney2017_E3607	Salix	Salix	TRSH	7	0.53110774
-Binney2017_E3607	Apiaceae	Apiaceae	HERB	1	0.075872534
-Binney2017_E3607	Artemisia	Artemisia	HERB	9	0.68285281
-Binney2017_E3607	Asteraceae	Asteraceae	HERB	1	0.075872534
-Binney2017_E3607	Brassicaceae	Brassicaceae	HERB	6	0.4552352
-Binney2017_E3607	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	1	0.075872534
-Binney2017_E3607	Corydalis	Corydalis	HERB	1	0.075872534
-Binney2017_E3607	Cyperaceae	Cyperaceae	HERB	48	3.6418816
-Binney2017_E3607	Oxyria digyna	Oxyria digyna	HERB	1	0.075872534
-Binney2017_E3607	Papaveraceae	Papaveraceae	HERB	2	0.15174507
-Binney2017_E3607	Poaceae	Poaceae	HERB	19	1.4415781
-Binney2017_E3607	Aconogonon	Polygonaceae	HERB	1	0.075872534
-Binney2017_E3607	Potentilla	Potentilla-type	HERB	1	0.075872534
-Binney2017_E3607	Ranunculaceae	Ranunculaceae	HERB	4	0.30349014
-Binney2017_E3607	Rubus chamaemorus	Rubus chamaemorus	HERB	1	0.075872534
-Binney2017_E3607	Saxifragaceae	Saxifragaceae	HERB	2	0.15174507
-Binney2017_E3607	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	1	0.075872534
-Binney2017_E3607	Thalictrum	Thalictrum	HERB	2	0.15174507
-Binney2017_E3607	Botrychium	Botrychium	VACR	1	0.075872534
-Binney2017_E3607	Cryptogramma	Cryptogramma crispa	VACR	1	0.075872534
-Binney2017_E3607	Equisetum	Equisetum	VACR	1	0.075872534
-Binney2017_E3607	Lycopodium annotinum	Lycopodium annotinum-type	VACR	12	0.91047041
-Binney2017_E3607	Lycopodium pungens	Lycopodium annotinum-type	VACR	14	1.0622155
-Binney2017_E3607	Lycopodium clavatum	Lycopodium clavatum	VACR	8	0.60698027
-Binney2017_E3607	Lycopodium complanatum	Lycopodium clavatum-type	VACR	20	1.5174507
-Binney2017_E3607	Lycopodium alpinum	Lycopodium clavatum-type	VACR	3	0.2276176
-Binney2017_E3607	Pteridophyta	Monolete fern spores	VACR	144	10.925645
-Binney2017_E3607	Selaginella rupestris	Selaginella rupestris	VACR	8	0.60698027
-Binney2017_E3607	Sphagnum	Sphagnum	NOPO	27	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Binney2017_E3607	5	208	5	Alnus	Alnus	TRSH
+Binney2017_E3607	6	1	6	Apiaceae	Apiaceae	HERB
+Binney2017_E3607	7	9	7	Artemisia	Artemisia	HERB
+Binney2017_E3607	12	102	12	Betula	Betula	TRSH
+Binney2017_E3607	13	6	13	Brassicaceae	Brassicaceae	HERB
+Binney2017_E3607	18	1	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Binney2017_E3607	33	48	33	Cyperaceae	Cyperaceae	HERB
+Binney2017_E3607	80	19	80	Poaceae	Poaceae	HERB
+Binney2017_E3607	99	7	99	Salix	Salix	TRSH
+Binney2017_E3607	112	2	112	Thalictrum	Thalictrum	HERB
+Binney2017_E3607	130	7	130	Ericaceae	Ericales (tetrad)	DWAR
+Binney2017_E3607	134	1	134	Asteraceae	Asteraceae	HERB
+Binney2017_E3607	135	4	135	Ranunculaceae	Ranunculaceae	HERB
+Binney2017_E3607	144	27	144	Sphagnum	Sphagnum	BRYO
+Binney2017_E3607	145	1	145	Equisetum	Equisetum	VACR
+Binney2017_E3607	173	1	173	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB
+Binney2017_E3607	241	1	241	Oxyria digyna	Oxyria digyna	HERB
+Binney2017_E3607	480	1	480	Rhododendron	Rhododendron	TRSH
+Binney2017_E3607	553	1	553	Cryptogramma	Cryptogramma crispa	VACR
+Binney2017_E3607	639	2	639	Saxifragaceae	Saxifragaceae	HERB
+Binney2017_E3607	962	1	962	Botrychium	Botrychium	VACR
+Binney2017_E3607	965	12	183	Lycopodium annotinum	Lycopodium annotinum-type	VACR
+Binney2017_E3607	1040	144	146	Pteridophyta	Monolete fern spores	VACR
+Binney2017_E3607	1366	1	512	Potentilla	Potentilla-type	HERB
+Binney2017_E3607	1669	2	381	Papaveraceae	Papaveraceae	HERB
+Binney2017_E3607	1714	8	1549	Lycopodium clavatum	Lycopodium clavatum	VACR
+Binney2017_E3607	2114	20	182	Lycopodium complanatum	Lycopodium clavatum-type	VACR
+Binney2017_E3607	2265	3	182	Lycopodium alpinum	Lycopodium clavatum-type	VACR
+Binney2017_E3607	2932	1	138	Aconogonon	Polygonaceae	HERB
+Binney2017_E3607	2995	8	142	Selaginella rupestris	Selaginella rupestris	VACR
+Binney2017_E3607	3163	1	3163	Corydalis	Corydalis	HERB
+Binney2017_E3607	4940	680	124	Pinus subg. Strobus	Pinus cembra-type	TRSH
+Binney2017_E3607	5170	14	183	Lycopodium pungens	Lycopodium annotinum-type	VACR
+Binney2017_E3607	2112	1	172	Rubus chamaemorus	Rubus chamaemorus	HERB

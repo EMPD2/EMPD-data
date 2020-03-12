@@ -1,50 +1,50 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Leroy_j4	Acer	Acer campestre-type	TRSH	3	0.42979943
-Leroy_j4	Alnus	Alnus	TRSH	85	12.17765
-Leroy_j4	Buxus	Buxus	TRSH	1	0.14326648
-Leroy_j4	Carpinus betulus	Carpinus betulus	TRSH	45	6.4469914
-Leroy_j4	Corylus	Corylus	TRSH	1	0.14326648
-Leroy_j4	Cupressaceae	Cupressaceae undiff.	TRSH	7	1.0028653
-Leroy_j4	Ephedra major-type	Ephedra distachya-type	TRSH	1	0.14326648
-Leroy_j4	Fagus	Fagus	TRSH	12	1.7191977
-Leroy_j4	Fraxinus	Fraxinus	TRSH	1	0.14326648
-Leroy_j4	Hippophae	Hippophae rhamnoides	TRSH	1	0.14326648
-Leroy_j4	Olea	Olea europaea	TRSH	1	0.14326648
-Leroy_j4	Parrotia persica	Parrotia persica	TRSH	4	0.5730659
-Leroy_j4	Pinus	Pinus	TRSH	3	0.42979943
-Leroy_j4	Pistacia	Pistacia	TRSH	1	0.14326648
-Leroy_j4	Pterocarya	Pterocarya	TRSH	5	0.71633238
-Leroy_j4	Quercus deciduous	Quercus robur-type	TRSH	21	3.008596
-Leroy_j4	Salix	Salix	TRSH	1	0.14326648
-Leroy_j4	Ulmus-Zelkova	Ulmus/Zelkova	TRSH	4	0.5730659
-Leroy_j4	*sum	*sum	HERB	347	49.713467
-Leroy_j4	Artemisia	Artemisia	HERB	48	6.8767908
-Leroy_j4	Ast. tubuliflorae	Asteraceae subf. Asteroideae	HERB	3	0.42979943
-Leroy_j4	Ast. liguliflorae	Asteraceae subf. Cichorioideae	HERB	3	0.42979943
-Leroy_j4	Brassicaceae	Brassicaceae	HERB	4	0.5730659
-Leroy_j4	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	2	0.28653295
-Leroy_j4	Cerealia	Cerealia-type	HERB	3	0.42979943
-Leroy_j4	Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	58	8.3094556
-Leroy_j4	Cyperaceae	Cyperaceae	HERB	6	0.85959885
-Leroy_j4	Filipendula	Filipendula	HERB	1	0.14326648
-Leroy_j4	Plantaginaceae	Plantaginaceae	HERB	1	0.14326648
-Leroy_j4	Poaceae	Poaceae	HERB	18	2.5787966
-Leroy_j4	Rumex	Rumex/Oxyria	HERB	1	0.14326648
-Leroy_j4	Thalictrum	Thalictrum	HERB	2	0.28653295
-Leroy_j4	Monoletes psilate	Monolete fern spores	VACR	1	0.14326648
-Leroy_j4	Triletes psilate	Trilete spore(s)	VACR	3	0.42979943
-Leroy_j4	Botryoccocus	Botryococcus	ALGA	1	0.14326648
-Leroy_j4	Typha-Sparganium	Sparganium-type	AQUA	3	0.42979943
-Leroy_j4	*Concentration	*Concentration	CHAR	5204.8093	
-Leroy_j4	Sum AP	Indeterminable: unknown	INUN	197	
-Leroy_j4	Indeterminated	Indeterminable: unknown	INUN	2	
-Leroy_j4	Indeterminable	Indeterminable: unknown	INUN	31	
-Leroy_j4	sum total	Indeterminable: unknown	INUN	399	
-Leroy_j4	t. 119	Type 119	UNPP	1	
-Leroy_j4	Ceratophyllum spines	Ceratophyllum: spines	VEMI	1	
-Leroy_j4	Diporotheca	Diporotheca	FUNG	1	
-Leroy_j4	Fungal spores	Fungal spore	FUNG	121	
-Leroy_j4	Glomus	Glomus	FUNG	11	
-Leroy_j4	Pterosperma	Pterosperma	INVE	31	
-Leroy_j4	Reworked	Reworked pollen	PREQ	12	
-Leroy_j4	Turbellarian	Turbellaria	PLAT	1	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Leroy_j4	2	3	2	Acer	Acer campestre-type	TRSH
+Leroy_j4	5	85	5	Alnus	Alnus	TRSH
+Leroy_j4	75	3	75	Pinus	Pinus	TRSH
+Leroy_j4	77	1	77	Pistacia	Pistacia	TRSH
+Leroy_j4	188	1	188	Buxus	Buxus	TRSH
+Leroy_j4	192	12	42	Fagus	Fagus	TRSH
+Leroy_j4	193	4	193	Parrotia persica	Parrotia persica	TRSH
+Leroy_j4	201	1	31	Corylus	Corylus	TRSH
+Leroy_j4	2070	197	177	Sum AP	Indeterminable: unknown	INUN
+Leroy_j4	7	48	7	Artemisia	Artemisia	HERB
+Leroy_j4	13	4	13	Brassicaceae	Brassicaceae	HERB
+Leroy_j4	18	2	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Leroy_j4	99	1	99	Salix	Salix	TRSH
+Leroy_j4	190	1	190	Fraxinus	Fraxinus	TRSH
+Leroy_j4	442	1	68	Olea	Olea europaea	TRSH
+Leroy_j4	707	58	24	Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB
+Leroy_j4	1950	5	191	Pterocarya	Pterocarya	TRSH
+Leroy_j4	1954	4	154	Ulmus-Zelkova	Ulmus/Zelkova	TRSH
+Leroy_j4	22	3	22	Cerealia	Cerealia-type	HERB
+Leroy_j4	33	6	33	Cyperaceae	Cyperaceae	HERB
+Leroy_j4	45	1	45	Filipendula	Filipendula	HERB
+Leroy_j4	80	18	80	Poaceae	Poaceae	HERB
+Leroy_j4	112	2	112	Thalictrum	Thalictrum	HERB
+Leroy_j4	168	1	168	Plantaginaceae	Plantaginaceae	HERB
+Leroy_j4	727	1	94	Rumex	Rumex/Oxyria	HERB
+Leroy_j4	1981	2	177	Indeterminated	Indeterminable: unknown	INUN
+Leroy_j4	717	31	177	Indeterminable	Indeterminable: unknown	INUN
+Leroy_j4	1982	12	1982	Reworked	Reworked pollen	PREQ
+Leroy_j4	2085	399	177	sum total	Indeterminable: unknown	INUN
+Leroy_j4	2086	5204.8093	2086	*Concentration	*Concentration	CHAR
+Leroy_j4	2020	31	2020	Pterosperma	Pterosperma	INVE
+Leroy_j4	2092	1	2013	Ceratophyllum spines	Ceratophyllum: spines	VEMI
+Leroy_j4	2022	121	2022	Fungal spores	Fungal spore	FUNG
+Leroy_j4	2095	1	318	Diporotheca	Diporotheca	FUNG
+Leroy_j4	2088	1	663	Botryoccocus	Botryococcus	ALGA
+Leroy_j4	554	11	362	Glomus	Glomus	FUNG
+Leroy_j4	2099	1	2099	t. 119	Type 119	UNPP
+Leroy_j4	2024	1	733	Turbellarian	Turbellaria	PLAT
+Leroy_j4	437	21	86	Quercus deciduous	Quercus robur-type	TRSH
+Leroy_j4	563	45	16	Carpinus betulus	Carpinus betulus	TRSH
+Leroy_j4	714	7	347	Cupressaceae	Cupressaceae undiff.	TRSH
+Leroy_j4	1048	1	479	Hippophae	Hippophae rhamnoides	TRSH
+Leroy_j4	1975	3	176	Typha-Sparganium	Sparganium-type	AQUA
+Leroy_j4	2062	1	146	Monoletes psilate	Monolete fern spores	VACR
+Leroy_j4	2064	3	279	Triletes psilate	Trilete spore(s)	VACR
+Leroy_j4	2067	1	37	Ephedra major-type	Ephedra distachya-type	TRSH
+Leroy_j4	2071	3	25	Ast. liguliflorae	Asteraceae subf. Cichorioideae	HERB
+Leroy_j4	2072	3	160	Ast. tubuliflorae	Asteraceae subf. Asteroideae	HERB
+Leroy_j4	2082	347	2082	*sum	*sum	HERB

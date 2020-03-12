@@ -1,40 +1,40 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Barboni_a60	Abies	Abies	TRSH	2	0.64308682
-Barboni_a60	Alnus	Alnus	TRSH	5	1.607717
-Barboni_a60	Betula	Betula	TRSH	28	9.0032154
-Barboni_a60	Calluna	Calluna vulgaris	DWAR	13	4.1800643
-Barboni_a60	Castanea	Castanea sativa	TRSH	1	0.32154341
-Barboni_a60	Corylus	Corylus	TRSH	17	5.4662379
-Barboni_a60	Ericaceae	Ericales (tetrad)	DWAR	1	0.32154341
-Barboni_a60	Fagus	Fagus	TRSH	18	5.7877814
-Barboni_a60	Fraxinus	Fraxinus	TRSH	3	0.96463023
-Barboni_a60	Juglans	Juglans	TRSH	1	0.32154341
-Barboni_a60	Picea	Picea	TRSH	2	0.64308682
-Barboni_a60	Pinus	Pinus	TRSH	46	14.790997
-Barboni_a60	Quercus robur	Quercus robur-type	TRSH	21	6.7524116
-Barboni_a60	Umbelliferae	Apiaceae	HERB	9	2.8938907
-Barboni_a60	Artemisia	Artemisia	HERB	1	0.32154341
-Barboni_a60	Compositae subf. Asteroideae	Asteraceae subf. Asteroideae	HERB	4	1.2861736
-Barboni_a60	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB	3	0.96463023
-Barboni_a60	Boraginaceae	Boraginaceae	HERB	2	0.64308682
-Barboni_a60	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	3	0.96463023
-Barboni_a60	Secale	Cerealia-type	HERB	2	0.64308682
-Barboni_a60	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	3	0.96463023
-Barboni_a60	Filipendula	Filipendula	HERB	1	0.32154341
-Barboni_a60	Labiatae	Lamiaceae	HERB	1	0.32154341
-Barboni_a60	Leguminosae	Leguminosae	HERB	2	0.64308682
-Barboni_a60	Liliaceae	Liliaceae-type	HERB	1	0.32154341
-Barboni_a60	Plantago	Plantago	HERB	2	0.64308682
-Barboni_a60	Gramineae	Poaceae	HERB	95	30.546624
-Barboni_a60	Potentilla	Potentilla-type	HERB	7	2.2508039
-Barboni_a60	Ranunculaceae	Ranunculaceae	HERB	5	1.607717
-Barboni_a60	Rubiaceae	Rubiaceae	HERB	1	0.32154341
-Barboni_a60	Rumex	Rumex/Oxyria	HERB	3	0.96463023
-Barboni_a60	Scrophularia	Scrophularia-type	HERB	2	0.64308682
-Barboni_a60	Thalictrum	Thalictrum	HERB	2	0.64308682
-Barboni_a60	Urticaceae	Urticaceae	HERB	1	0.32154341
-Barboni_a60	Monolete spore(s)	Monolete fern spores	VACR	1	0.32154341
-Barboni_a60	Trilete spore(s)	Trilete spore(s)	VACR	2	0.64308682
-Barboni_a60	Cyperaceae	Cyperaceae	AQUA	65	20.900322
-Barboni_a60	Potamogeton	Potamogeton-type	AQUA	1	0.32154341
-Barboni_a60	Typha	Sparganium-type	AQUA	3	0.96463023
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Barboni_a60	5	5	5	Alnus	Alnus	TRSH
+Barboni_a60	7	1	7	Artemisia	Artemisia	HERB
+Barboni_a60	12	28	12	Betula	Betula	TRSH
+Barboni_a60	162	2	162	Boraginaceae	Boraginaceae	HERB
+Barboni_a60	3645	13	3645	Calluna	Calluna vulgaris	DWAR
+Barboni_a60	18	3	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Barboni_a60	24	3	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Barboni_a60	3822	4	160	Compositae subf. Asteroideae	Asteraceae subf. Asteroideae	HERB
+Barboni_a60	3824	3	25	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Barboni_a60	201	17	31	Corylus	Corylus	TRSH
+Barboni_a60	190	3	190	Fraxinus	Fraxinus	TRSH
+Barboni_a60	1601	95	80	Gramineae	Poaceae	HERB
+Barboni_a60	57	1	57	Juglans	Juglans	TRSH
+Barboni_a60	485	1	59	Labiatae	Lamiaceae	HERB
+Barboni_a60	744	2	744	Leguminosae	Leguminosae	HERB
+Barboni_a60	62	1	62	Liliaceae	Liliaceae-type	HERB
+Barboni_a60	4197	1	146	Monolete spore(s)	Monolete fern spores	VACR
+Barboni_a60	126	2	126	Picea	Picea	TRSH
+Barboni_a60	657	1	108	Potamogeton	Potamogeton-type	AQUA
+Barboni_a60	1366	7	512	Potentilla	Potentilla-type	HERB
+Barboni_a60	4434	21	86	Quercus robur	Quercus robur-type	TRSH
+Barboni_a60	135	5	135	Ranunculaceae	Ranunculaceae	HERB
+Barboni_a60	727	3	94	Rumex	Rumex/Oxyria	HERB
+Barboni_a60	103	2	103	Scrophularia	Scrophularia-type	HERB
+Barboni_a60	104	2	22	Secale	Cerealia-type	HERB
+Barboni_a60	112	2	112	Thalictrum	Thalictrum	HERB
+Barboni_a60	4684	2	279	Trilete spore(s)	Trilete spore(s)	VACR
+Barboni_a60	176	3	176	Typha	Sparganium-type	AQUA
+Barboni_a60	809	1	809	Urticaceae	Urticaceae	HERB
+Barboni_a60	45	1	45	Filipendula	Filipendula	HERB
+Barboni_a60	75	46	75	Pinus	Pinus	TRSH
+Barboni_a60	130	1	130	Ericaceae	Ericales (tetrad)	DWAR
+Barboni_a60	192	18	42	Fagus	Fagus	TRSH
+Barboni_a60	441	1	19	Castanea	Castanea sativa	TRSH
+Barboni_a60	560	2	321	Abies	Abies	TRSH
+Barboni_a60	590	9	6	Umbelliferae	Apiaceae	HERB
+Barboni_a60	724	2	270	Plantago	Plantago	HERB
+Barboni_a60	3868	65	3868	Cyperaceae	Cyperaceae	AQUA
+Barboni_a60	93	1	93	Rubiaceae	Rubiaceae	HERB

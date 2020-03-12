@@ -1,32 +1,32 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Bjune_a97	Alnus	Alnus	TRSH	3	0.54151625
-Bjune_a97	Betula	Betula	TRSH	18	3.2490975
-Bjune_a97	Betula/Corylus/Myrica	Betula/Corylus/Myrica	TRSH	1	0.18050542
-Bjune_a97	Corylus avellana	Corylus	TRSH	3	0.54151625
-Bjune_a97	Corylus/Myrica	Corylus/Myrica	TRSH	2	0.36101083
-Bjune_a97	Ericaceae-type	Ericales (tetrad)	DWAR	2	0.36101083
-Bjune_a97	Picea	Picea	TRSH	5	0.90252708
-Bjune_a97	Pinus sylvestris	Pinus sylvestris-type	TRSH	327	59.025271
-Bjune_a97	Salix undiff.	Salix	TRSH	1	0.18050542
-Bjune_a97	Anemone nemorosa-type/Hepatica nobilis	Anemone nemorosa-type	HERB	1	0.18050542
-Bjune_a97	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB	4	0.72202166
-Bjune_a97	Lotus cf. L. corniculatus	Lotus-type	HERB	1	0.18050542
-Bjune_a97	Achillea-type	Matricaria-type	HERB	1	0.18050542
-Bjune_a97	Gramineae undiff.	Poaceae	HERB	10	1.8050542
-Bjune_a97	Rumex acetosa-type/R. acetosella-type	Rumex acetosa-type	HERB	1	0.18050542
-Bjune_a97	Cryptogramma crispa	Cryptogramma crispa	VACR	1	0.18050542
-Bjune_a97	Dryopteris-type	Dryopteris-type	VACR	126	22.743682
-Bjune_a97	Huperzia selago	Huperzia selago	VACR	7	1.2635379
-Bjune_a97	Lycopodium undiff.	Lycopodium	VACR	3	0.54151625
-Bjune_a97	Lycopodium annotinum	Lycopodium annotinum-type	VACR	17	3.0685921
-Bjune_a97	Lycopodium clavatum	Lycopodium clavatum	VACR	2	0.36101083
-Bjune_a97	Polypodium vulgare	Polypodium	VACR	3	0.54151625
-Bjune_a97	Selaginella selaginoides	Selaginella selaginoides	VACR	4	0.72202166
-Bjune_a97	Sphagnum	Sphagnum	BRYO	11	1.9855596
-Bjune_a97	Botryococcus	Botryococcus	ALGA	9	1.6245487
-Bjune_a97	Carex-type	Carex	AQUA	4	0.72202166
-Bjune_a97	Cyperaceae undiff.	Cyperaceae	AQUA	3	0.54151625
-Bjune_a97	Ranunculus trichophyllus-type	Ranunculus aquatilis-type	AQUA	1	0.18050542
-Bjune_a97	Indeterminable: corroded	Indeterminable: corroded	INUN	7	
-Bjune_a97	Indeterminable: crumpled	Indeterminable: crumpled	INUN	1	
-Bjune_a97	Pinus: stomata	Pinus: stomata	MACR	1	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Bjune_a97	943	1	3	Achillea-type	Matricaria-type	HERB
+Bjune_a97	5	3	5	Alnus	Alnus	TRSH
+Bjune_a97	12	18	12	Betula	Betula	TRSH
+Bjune_a97	3619	1	3619	Betula/Corylus/Myrica	Betula/Corylus/Myrica	TRSH
+Bjune_a97	3665	4	3663	Carex-type	Carex	AQUA
+Bjune_a97	3824	4	25	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Bjune_a97	3852	2	3847	Corylus/Myrica	Corylus/Myrica	TRSH
+Bjune_a97	1607	1	553	Cryptogramma crispa	Cryptogramma crispa	VACR
+Bjune_a97	3873	3	3868	Cyperaceae undiff.	Cyperaceae	AQUA
+Bjune_a97	1247	126	772	Dryopteris-type	Dryopteris-type	VACR
+Bjune_a97	3944	2	130	Ericaceae-type	Ericales (tetrad)	DWAR
+Bjune_a97	4018	10	80	Gramineae undiff.	Poaceae	HERB
+Bjune_a97	964	7	184	Huperzia selago	Huperzia selago	VACR
+Bjune_a97	4074	7	1324	Indeterminable: corroded	Indeterminable: corroded	INUN
+Bjune_a97	4075	1	1925	Indeterminable: crumpled	Indeterminable: crumpled	INUN
+Bjune_a97	4155	1	611	Lotus cf. L. corniculatus	Lotus-type	HERB
+Bjune_a97	965	17	183	Lycopodium annotinum	Lycopodium annotinum-type	VACR
+Bjune_a97	4164	3	143	Lycopodium undiff.	Lycopodium	VACR
+Bjune_a97	126	5	126	Picea	Picea	TRSH
+Bjune_a97	4310	1	4310	Pinus: stomata	Pinus: stomata	MACR
+Bjune_a97	667	3	214	Polypodium vulgare	Polypodium	VACR
+Bjune_a97	4459	1	1182	Ranunculus trichophyllus-type	Ranunculus aquatilis-type	AQUA
+Bjune_a97	4504	1	95	Rumex acetosa-type/R. acetosella-type	Rumex acetosa-type	HERB
+Bjune_a97	1400	1	99	Salix undiff.	Salix	TRSH
+Bjune_a97	874	4	185	Selaginella selaginoides	Selaginella selaginoides	VACR
+Bjune_a97	144	11	144	Sphagnum	Sphagnum	BRYO
+Bjune_a97	31	3	31	Corylus avellana	Corylus	TRSH
+Bjune_a97	663	9	663	Botryococcus	Botryococcus	ALGA
+Bjune_a97	788	327	125	Pinus sylvestris	Pinus sylvestris-type	TRSH
+Bjune_a97	1714	2	1549	Lycopodium clavatum	Lycopodium clavatum	VACR
+Bjune_a97	3538	1	588	Anemone nemorosa-type/Hepatica nobilis	Anemone nemorosa-type	HERB

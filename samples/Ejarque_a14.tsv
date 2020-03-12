@@ -1,45 +1,45 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Ejarque_a14	Alnus glutinosa	Alnus glutinosa-type	TRSH	2	0.21367521
-Ejarque_a14	Betula	Betula	TRSH	16	1.7094017
-Ejarque_a14	Buxus	Buxus	TRSH	1	0.10683761
-Ejarque_a14	Corylus	Corylus	TRSH	10	1.0683761
-Ejarque_a14	Ericaceae	Ericales (tetrad)	DWAR	4	0.42735043
-Ejarque_a14	Fagus	Fagus	TRSH	1	0.10683761
-Ejarque_a14	Genista/Ulex	Genista-type	TRSH	1	0.10683761
-Ejarque_a14	Juniperus	Juniperus communis-type	TRSH	16	1.7094017
-Ejarque_a14	Olea europaea	Olea europaea	TRSH	15	1.6025641
-Ejarque_a14	Pinus	Pinus	TRSH	722	77.136752
-Ejarque_a14	Quercus ilex-type	Quercus ilex-type	TRSH	21	2.2435897
-Ejarque_a14	Quercus deciduous	Quercus robur-type	TRSH	13	1.3888889
-Ejarque_a14	Rhododendron ferrugineum	Rhododendron	DWAR	12	1.2820513
-Ejarque_a14	Rosaceae	Rosaceae	TRSH	19	2.0299145
-Ejarque_a14	Rubus	Rubus	TRSH	2	0.21367521
-Ejarque_a14	Sorbus-type	Sorbus-type	TRSH	5	0.53418803
-Ejarque_a14	Vitis	Vitis	LIAN	1	0.10683761
-Ejarque_a14	Apiaceae	Apiaceae	HERB	4	0.42735043
-Ejarque_a14	Artemisia	Artemisia	HERB	1	0.10683761
-Ejarque_a14	Asteroideae	Asteraceae subf. Asteroideae	HERB	1	0.10683761
-Ejarque_a14	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	1	0.10683761
-Ejarque_a14	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	8	0.85470085
-Ejarque_a14	Cichorium intybus-type	Crepis-type	HERB	1	0.10683761
-Ejarque_a14	Hypecoum	Hypecoum	HERB	2	0.21367521
-Ejarque_a14	Liliaceae	Liliaceae-type	HERB	1	0.10683761
-Ejarque_a14	Mentha-type	Mentha-type	HERB	1	0.10683761
-Ejarque_a14	Plantago	Plantago	HERB	1	0.10683761
-Ejarque_a14	Plantago lanceolata-type	Plantago lanceolata-type	HERB	4	0.42735043
-Ejarque_a14	Plantago major/P. media	Plantago major/P. media-type	HERB	2	0.21367521
-Ejarque_a14	Plantago alpina-type	Plantago maritima-type	HERB	1	0.10683761
-Ejarque_a14	Poaceae	Poaceae	HERB	32	3.4188034
-Ejarque_a14	Potentilla-type	Potentilla-type	HERB	1	0.10683761
-Ejarque_a14	Ranunculus acris-type	Ranunculus acris-type	HERB	1	0.10683761
-Ejarque_a14	Ranunculus-type	Ranunculus-type	HERB	1	0.10683761
-Ejarque_a14	Saxifragaceae	Saxifragaceae	HERB	3	0.32051282
-Ejarque_a14	Trifolium-type	Trifolium-type	HERB	1	0.10683761
-Ejarque_a14	Dryopteris filix-mas	Dryopteris filix-mas-type	VACR	1	0.10683761
-Ejarque_a14	Lycopodium	Lycopodium	VACR	6	0.64102564
-Ejarque_a14	Monolete spore(s)	Monolete fern spores	VACR	1	0.10683761
-Ejarque_a14	Cyperaceae	Cyperaceae	AQUA	2	0.21367521
-Ejarque_a14	Varia	Indeterminable: unknown	INUN	17	
-Ejarque_a14	Lycopodium (grains/tablet)	Lycopodium (spores/tablet)	NOPO	13100	
-Ejarque_a14	Lycopodium tablets (number)	Lycopodium tablets (number)	NOPO	4	
-Ejarque_a14	Sample dry mass (g)	Sample dry mass (g)	NOPO	11	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Ejarque_a14	6	4	6	Apiaceae	Apiaceae	HERB
+Ejarque_a14	7	1	7	Artemisia	Artemisia	HERB
+Ejarque_a14	761	1	160	Asteroideae	Asteraceae subf. Asteroideae	HERB
+Ejarque_a14	12	16	12	Betula	Betula	TRSH
+Ejarque_a14	188	1	188	Buxus	Buxus	TRSH
+Ejarque_a14	24	8	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Ejarque_a14	2628	1	1242	Cichorium intybus-type	Crepis-type	HERB
+Ejarque_a14	3868	2	3868	Cyperaceae	Cyperaceae	AQUA
+Ejarque_a14	825	1	220	Dryopteris filix-mas	Dryopteris filix-mas-type	VACR
+Ejarque_a14	130	4	130	Ericaceae	Ericales (tetrad)	DWAR
+Ejarque_a14	192	1	42	Fagus	Fagus	TRSH
+Ejarque_a14	3995	1	49	Genista/Ulex	Genista-type	TRSH
+Ejarque_a14	2183	2	2183	Hypecoum	Hypecoum	HERB
+Ejarque_a14	58	16	58	Juniperus	Juniperus communis-type	TRSH
+Ejarque_a14	143	6	143	Lycopodium	Lycopodium	VACR
+Ejarque_a14	2111	13100	1293	Lycopodium (grains/tablet)	Lycopodium (spores/tablet)	NOPO
+Ejarque_a14	4163	4	1295	Lycopodium tablets (number)	Lycopodium tablets (number)	NOPO
+Ejarque_a14	1073	1	65	Mentha-type	Mentha-type	HERB
+Ejarque_a14	4197	1	146	Monolete spore(s)	Monolete fern spores	VACR
+Ejarque_a14	68	15	68	Olea europaea	Olea europaea	TRSH
+Ejarque_a14	724	1	270	Plantago	Plantago	HERB
+Ejarque_a14	2577	1	64	Plantago alpina-type	Plantago maritima-type	HERB
+Ejarque_a14	1075	4	60	Plantago lanceolata-type	Plantago lanceolata-type	HERB
+Ejarque_a14	4323	2	458	Plantago major/P. media	Plantago major/P. media-type	HERB
+Ejarque_a14	626	1	512	Potentilla-type	Potentilla-type	HERB
+Ejarque_a14	437	13	86	Quercus deciduous	Quercus robur-type	TRSH
+Ejarque_a14	1052	21	85	Quercus ilex-type	Quercus ilex-type	TRSH
+Ejarque_a14	630	1	87	Ranunculus acris-type	Ranunculus acris-type	HERB
+Ejarque_a14	4474	12	4474	Rhododendron ferrugineum	Rhododendron	DWAR
+Ejarque_a14	92	19	92	Rosaceae	Rosaceae	TRSH
+Ejarque_a14	4539	11	4539	Sample dry mass (g)	Sample dry mass (g)	NOPO
+Ejarque_a14	639	3	639	Saxifragaceae	Saxifragaceae	HERB
+Ejarque_a14	1232	5	107	Sorbus-type	Sorbus-type	TRSH
+Ejarque_a14	1284	1	115	Trifolium-type	Trifolium-type	HERB
+Ejarque_a14	1098	17	177	Varia	Indeterminable: unknown	INUN
+Ejarque_a14	4756	1	4756	Vitis	Vitis	LIAN
+Ejarque_a14	62	1	62	Liliaceae	Liliaceae-type	HERB
+Ejarque_a14	75	722	75	Pinus	Pinus	TRSH
+Ejarque_a14	80	32	80	Poaceae	Poaceae	HERB
+Ejarque_a14	141	2	141	Rubus	Rubus	TRSH
+Ejarque_a14	201	10	31	Corylus	Corylus	TRSH
+Ejarque_a14	447	1	25	Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Ejarque_a14	760	2	155	Alnus glutinosa	Alnus glutinosa-type	TRSH
+Ejarque_a14	2429	1	274	Ranunculus-type	Ranunculus-type	HERB

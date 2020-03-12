@@ -1,32 +1,32 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-EPDcoretop_E2505	Alnus	Alnus	TRSH	122	7.3053892
-EPDcoretop_E2505	Betula	Betula	TRSH	223	13.353293
-EPDcoretop_E2505	Calluna	Calluna vulgaris	DWAR	232	13.892216
-EPDcoretop_E2505	Carpinus	Carpinus betulus	TRSH	8	0.47904192
-EPDcoretop_E2505	Corylus	Corylus	TRSH	116	6.9461078
-EPDcoretop_E2505	Empetrum	Empetrum nigrum	DWAR	1	0.05988024
-EPDcoretop_E2505	Fagus	Fagus	TRSH	22	1.3173653
-EPDcoretop_E2505	Fraxinus	Fraxinus	TRSH	3	0.17964072
-EPDcoretop_E2505	Myrica	Myrica	TRSH	102	6.1077844
-EPDcoretop_E2505	Picea	Picea	TRSH	1	0.05988024
-EPDcoretop_E2505	Pinus	Pinus	TRSH	27	1.6167665
-EPDcoretop_E2505	Quercus	Quercus	TRSH	92	5.508982
-EPDcoretop_E2505	Salix	Salix	TRSH	1	0.05988024
-EPDcoretop_E2505	Tilia	Tilia	TRSH	1	0.05988024
-EPDcoretop_E2505	Apiaceae	Apiaceae	HERB	1	0.05988024
-EPDcoretop_E2505	Artemisia	Artemisia	HERB	3	0.17964072
-EPDcoretop_E2505	Tubuliflorae	Asteraceae subf. Asteroideae	HERB	1	0.05988024
-EPDcoretop_E2505	Liguliflorae	Asteraceae subf. Cichorioideae	HERB	3	0.17964072
-EPDcoretop_E2505	Brassicaceae	Brassicaceae	HERB	1	0.05988024
-EPDcoretop_E2505	Cerealia-type	Cerealia-type	HERB	18	1.0778443
-EPDcoretop_E2505	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	2	0.11976048
-EPDcoretop_E2505	Cyperaceae	Cyperaceae	HERB	12	0.71856287
-EPDcoretop_E2505	Plantago lanceolata	Plantago lanceolata-type	HERB	6	0.35928144
-EPDcoretop_E2505	Poaceae	Poaceae	HERB	304	18.203593
-EPDcoretop_E2505	Rumex acetosa	Rumex acetosa-type	HERB	6	0.35928144
-EPDcoretop_E2505	Equisetum	Equisetum	VACR	4	0.23952096
-EPDcoretop_E2505	Lycopodium	Lycopodium	VACR	254	15.209581
-EPDcoretop_E2505	Polypodiaceae	Monolete fern spores	VACR	1	0.05988024
-EPDcoretop_E2505	Sphagnum	Sphagnum	BRYO	103	6.1676647
-EPDcoretop_E2505	Erica: seed	Erica: seed	MACR	1	
-EPDcoretop_E2505	Lycopodium tablets	Lycopodium tablets	NOPO	10	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+EPDcoretop_E2505	5103	1	5103	Erica: seed	Erica: seed	MACR
+EPDcoretop_E2505	4815	10	4815	Lycopodium tablets	Lycopodium tablets	NOPO
+EPDcoretop_E2505	5	122	5	Alnus	Alnus	TRSH
+EPDcoretop_E2505	6	1	6	Apiaceae	Apiaceae	HERB
+EPDcoretop_E2505	7	3	7	Artemisia	Artemisia	HERB
+EPDcoretop_E2505	12	223	12	Betula	Betula	TRSH
+EPDcoretop_E2505	13	1	13	Brassicaceae	Brassicaceae	HERB
+EPDcoretop_E2505	16	8	16	Carpinus	Carpinus betulus	TRSH
+EPDcoretop_E2505	24	2	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+EPDcoretop_E2505	33	12	33	Cyperaceae	Cyperaceae	HERB
+EPDcoretop_E2505	60	6	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+EPDcoretop_E2505	75	27	75	Pinus	Pinus	TRSH
+EPDcoretop_E2505	80	304	80	Poaceae	Poaceae	HERB
+EPDcoretop_E2505	95	6	95	Rumex acetosa	Rumex acetosa-type	HERB
+EPDcoretop_E2505	99	1	99	Salix	Salix	TRSH
+EPDcoretop_E2505	126	1	126	Picea	Picea	TRSH
+EPDcoretop_E2505	143	254	143	Lycopodium	Lycopodium	VACR
+EPDcoretop_E2505	144	103	144	Sphagnum	Sphagnum	BRYO
+EPDcoretop_E2505	145	4	145	Equisetum	Equisetum	VACR
+EPDcoretop_E2505	146	1	146	Polypodiaceae	Monolete fern spores	VACR
+EPDcoretop_E2505	187	1	187	Tilia	Tilia	TRSH
+EPDcoretop_E2505	189	92	189	Quercus	Quercus	TRSH
+EPDcoretop_E2505	190	3	190	Fraxinus	Fraxinus	TRSH
+EPDcoretop_E2505	192	22	42	Fagus	Fagus	TRSH
+EPDcoretop_E2505	201	116	31	Corylus	Corylus	TRSH
+EPDcoretop_E2505	710	3	25	Liguliflorae	Asteraceae subf. Cichorioideae	HERB
+EPDcoretop_E2505	711	1	160	Tubuliflorae	Asteraceae subf. Asteroideae	HERB
+EPDcoretop_E2505	739	1	739	Empetrum	Empetrum nigrum	DWAR
+EPDcoretop_E2505	1065	18	22	Cerealia-type	Cerealia-type	HERB
+EPDcoretop_E2505	2174	102	977	Myrica	Myrica	TRSH
+EPDcoretop_E2505	3645	232	3645	Calluna	Calluna vulgaris	DWAR

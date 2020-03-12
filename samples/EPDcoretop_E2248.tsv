@@ -1,33 +1,33 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-EPDcoretop_E2248	Alnus	Alnus	TRSH	15	1.5772871
-EPDcoretop_E2248	Betula	Betula	TRSH	42	4.4164038
-EPDcoretop_E2248	Calluna	Calluna vulgaris	DWAR	404	42.481598
-EPDcoretop_E2248	Corylus/Myrica	Corylus/Myrica	TRSH	26	2.7339642
-EPDcoretop_E2248	Ericaceae	Ericales (tetrad)	DWAR	20	2.1030494
-EPDcoretop_E2248	Fagus	Fagus	TRSH	5	0.52576236
-EPDcoretop_E2248	Fraxinus	Fraxinus	TRSH	5	0.52576236
-EPDcoretop_E2248	Picea	Picea	TRSH	3	0.31545741
-EPDcoretop_E2248	Pinus	Pinus	TRSH	99	10.410095
-EPDcoretop_E2248	Quercus	Quercus	TRSH	21	2.2082019
-EPDcoretop_E2248	Rosaceae	Rosaceae	TRSH	3	0.31545741
-EPDcoretop_E2248	Tilia	Tilia	TRSH	1	0.10515247
-EPDcoretop_E2248	Ulmus	Ulmus/Zelkova	TRSH	2	0.21030494
-EPDcoretop_E2248	Aster-type	Aster-type	HERB	1	0.10515247
-EPDcoretop_E2248	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	1	0.10515247
-EPDcoretop_E2248	Cerealia	Cerealia-type	HERB	7	0.7360673
-EPDcoretop_E2248	Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	2	0.21030494
-EPDcoretop_E2248	Cyperaceae	Cyperaceae	HERB	118	12.407992
-EPDcoretop_E2248	Filipendula	Filipendula	HERB	1	0.10515247
-EPDcoretop_E2248	Plantago undiff.	Plantago	HERB	7	0.7360673
-EPDcoretop_E2248	Poaceae	Poaceae	HERB	118	12.407992
-EPDcoretop_E2248	Ranunculaceae	Ranunculaceae	HERB	2	0.21030494
-EPDcoretop_E2248	Rumex acetosa	Rumex acetosa-type	HERB	1	0.10515247
-EPDcoretop_E2248	Rumex acetosella	Rumex acetosella	HERB	1	0.10515247
-EPDcoretop_E2248	Rumex undiff.	Rumex/Oxyria	HERB	1	0.10515247
-EPDcoretop_E2248	Leptosporangiatae	Monolete fern spores	VACR	3	0.31545741
-EPDcoretop_E2248	Pteridium	Pteridium aquilinum	VACR	6	0.63091483
-EPDcoretop_E2248	Sphagnum	Sphagnum	BRYO	36	3.785489
-EPDcoretop_E2248	Indeterminable: broken	Indeterminable: broken	INUN	20	
-EPDcoretop_E2248	Indeterminable: crumpled	Indeterminable: crumpled	INUN	56	
-EPDcoretop_E2248	Indeterminable: degraded	Indeterminable: degraded	INUN	34	
-EPDcoretop_E2248	Indeterminable: hidden	Indeterminable: hidden	INUN	18	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+EPDcoretop_E2248	4072	20	998	Indeterminable: broken	Indeterminable: broken	INUN
+EPDcoretop_E2248	718	34	718	Indeterminable: degraded	Indeterminable: degraded	INUN
+EPDcoretop_E2248	4075	56	1925	Indeterminable: crumpled	Indeterminable: crumpled	INUN
+EPDcoretop_E2248	5024	18	1923	Indeterminable: hidden	Indeterminable: hidden	INUN
+EPDcoretop_E2248	5	15	5	Alnus	Alnus	TRSH
+EPDcoretop_E2248	12	42	12	Betula	Betula	TRSH
+EPDcoretop_E2248	18	1	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+EPDcoretop_E2248	22	7	22	Cerealia	Cerealia-type	HERB
+EPDcoretop_E2248	33	118	33	Cyperaceae	Cyperaceae	HERB
+EPDcoretop_E2248	45	1	45	Filipendula	Filipendula	HERB
+EPDcoretop_E2248	75	99	75	Pinus	Pinus	TRSH
+EPDcoretop_E2248	80	118	80	Poaceae	Poaceae	HERB
+EPDcoretop_E2248	94	1	94	Rumex undiff.	Rumex/Oxyria	HERB
+EPDcoretop_E2248	95	1	95	Rumex acetosa	Rumex acetosa-type	HERB
+EPDcoretop_E2248	96	1	96	Rumex acetosella	Rumex acetosella	HERB
+EPDcoretop_E2248	126	3	126	Picea	Picea	TRSH
+EPDcoretop_E2248	130	20	130	Ericaceae	Ericales (tetrad)	DWAR
+EPDcoretop_E2248	135	2	135	Ranunculaceae	Ranunculaceae	HERB
+EPDcoretop_E2248	144	36	144	Sphagnum	Sphagnum	BRYO
+EPDcoretop_E2248	154	2	154	Ulmus	Ulmus/Zelkova	TRSH
+EPDcoretop_E2248	187	1	187	Tilia	Tilia	TRSH
+EPDcoretop_E2248	189	21	189	Quercus	Quercus	TRSH
+EPDcoretop_E2248	190	5	190	Fraxinus	Fraxinus	TRSH
+EPDcoretop_E2248	192	5	42	Fagus	Fagus	TRSH
+EPDcoretop_E2248	431	6	180	Pteridium	Pteridium aquilinum	VACR
+EPDcoretop_E2248	597	1	11	Aster-type	Aster-type	HERB
+EPDcoretop_E2248	707	2	24	Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB
+EPDcoretop_E2248	1854	7	270	Plantago undiff.	Plantago	HERB
+EPDcoretop_E2248	3645	404	3645	Calluna	Calluna vulgaris	DWAR
+EPDcoretop_E2248	3852	26	3847	Corylus/Myrica	Corylus/Myrica	TRSH
+EPDcoretop_E2248	5051	3	146	Leptosporangiatae	Monolete fern spores	VACR
+EPDcoretop_E2248	92	3	92	Rosaceae	Rosaceae	TRSH

@@ -1,29 +1,29 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Muller_a52	Alnus glutinosa	Alnus glutinosa-type	TRSH	8	0.92915215
-Muller_a52	Alnus fruticosa	Alnus viridis	TRSH	13	1.5098722
-Muller_a52	Betula sect. Nanae	Betula nana-type	DWAR	12	1.3937282
-Muller_a52	Betula sect. Albae	Betula pubescens-type	TRSH	421	48.896632
-Muller_a52	Larix	Larix/Pseudotsuga	TRSH	207	24.041812
-Muller_a52	Picea	Picea	TRSH	6	0.69686411
-Muller_a52	Pinaceae	Pinaceae	TRSH	3	0.34843206
-Muller_a52	Pinus diploxylon-type	Pinus sylvestris-type	TRSH	53	6.155633
-Muller_a52	Salix	Salix	TRSH	7	0.81300813
-Muller_a52	Ericaceae vaccinium-type	Vaccinium	DWAR	1	0.11614402
-Muller_a52	Artemisia	Artemisia	HERB	43	4.9941928
-Muller_a52	Asteraceae subfam. Cichorioideae	Asteraceae subf. Cichorioideae	HERB	7	0.81300813
-Muller_a52	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	1	0.11614402
-Muller_a52	Cyperaceae	Cyperaceae	HERB	14	1.6260163
-Muller_a52	Lamiaceae	Lamiaceae	HERB	2	0.23228804
-Muller_a52	Poaceae	Poaceae	HERB	47	5.4587689
-Muller_a52	Polygonaceae	Polygonaceae	HERB	1	0.11614402
-Muller_a52	Ranunculaceae	Ranunculaceae	HERB	5	0.58072009
-Muller_a52	Saxifragaceae	Saxifragaceae	HERB	1	0.11614402
-Muller_a52	Ranunculaceae thalictrum	Thalictrum	HERB	5	0.58072009
-Muller_a52	Equisetum	Equisetum	VACR	3	0.34843206
-Muller_a52	Selaginella rupestris	Selaginella rupestris	VACR	1	0.11614402
-Muller_a52	Pollen indeterminata	Indeterminable: unknown	INUN	3	
-Muller_a52	Pollen, terrestrial	Indeterminable: unknown	INUN	860	
-Muller_a52	Lycopodium spores counted	Lycopodium (counted)	NOPO	151	
-Muller_a52	Microthyrium	Microthyrium	FUNG	11	
-Muller_a52	Pollen per unit sediment mass	Pollen per unit sediment mass (/g)	NOPO	12164	
-Muller_a52	Stomata	Stomata	VEMI	4	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Muller_a52	123	207	123	Larix	Larix/Pseudotsuga	TRSH
+Muller_a52	126	6	126	Picea	Picea	TRSH
+Muller_a52	128	421	128	Betula sect. Albae	Betula pubescens-type	TRSH
+Muller_a52	760	8	155	Alnus glutinosa	Alnus glutinosa-type	TRSH
+Muller_a52	1049	53	125	Pinus diploxylon-type	Pinus sylvestris-type	TRSH
+Muller_a52	127	12	127	Betula sect. Nanae	Betula nana-type	DWAR
+Muller_a52	1944	3	1944	Pinaceae	Pinaceae	TRSH
+Muller_a52	2962	13	129	Alnus fruticosa	Alnus viridis	TRSH
+Muller_a52	7	43	7	Artemisia	Artemisia	HERB
+Muller_a52	33	14	33	Cyperaceae	Cyperaceae	HERB
+Muller_a52	80	47	80	Poaceae	Poaceae	HERB
+Muller_a52	18	1	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Muller_a52	2898	7	25	Asteraceae subfam. Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Muller_a52	2987	1	540	Ericaceae vaccinium-type	Vaccinium	TRSH
+Muller_a52	2900	3	177	Pollen indeterminata	Indeterminable: unknown	INUN
+Muller_a52	59	2	59	Lamiaceae	Lamiaceae	HERB
+Muller_a52	135	5	135	Ranunculaceae	Ranunculaceae	HERB
+Muller_a52	138	1	138	Polygonaceae	Polygonaceae	HERB
+Muller_a52	639	1	639	Saxifragaceae	Saxifragaceae	HERB
+Muller_a52	2344	11	2344	Microthyrium	Microthyrium	FUNG
+Muller_a52	2981	4	2771	Stomata	Stomata	VEMI
+Muller_a52	145	3	145	Equisetum	Equisetum	VACR
+Muller_a52	2995	1	142	Selaginella rupestris	Selaginella rupestris	VACR
+Muller_a52	2970	860	177	Pollen, terrestrial	Indeterminable: unknown	INUN
+Muller_a52	3000	151	559	Lycopodium spores counted	Lycopodium (counted)	NOPO
+Muller_a52	3001	12164	3001	Pollen per unit sediment mass	Pollen per unit sediment mass (/g)	NOPO
+Muller_a52	99	7	99	Salix	Salix	TRSH
+Muller_a52	2969	5	112	Ranunculaceae thalictrum	Thalictrum	HERB

@@ -1,36 +1,36 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Lopez_a481	Alnus	Alnus	TRSH	2	0.68965517
-Lopez_a481	Betula	Betula	TRSH	1	0.34482759
-Lopez_a481	Erica arborea-type	Erica arborea-type	DWAR	2	0.68965517
-Lopez_a481	Fraxinus	Fraxinus	TRSH	2	0.68965517
-Lopez_a481	Olea	Olea europaea	TRSH	144	49.655172
-Lopez_a481	Phillyrea	Phillyrea	TRSH	1	0.34482759
-Lopez_a481	Pinus pinea/halepensis-type	Pinus halepensis-type	TRSH	1	0.34482759
-Lopez_a481	Pinus pinaster	Pinus pinaster	TRSH	2	0.68965517
-Lopez_a481	Pistacia lentiscus	Pistacia	TRSH	1	0.34482759
-Lopez_a481	Populus	Populus	TRSH	1	0.34482759
-Lopez_a481	Quercus evergreen	Quercus ilex-type	TRSH	34	11.724138
-Lopez_a481	Quercus deciduous	Quercus robur-type	TRSH	2	0.68965517
-Lopez_a481	Ulmus	Ulmus/Zelkova	TRSH	1	0.34482759
-Lopez_a481	Vitis	Vitis	LIAN	5	1.7241379
-Lopez_a481	Apiaceae	Apiaceae	HERB	1	0.34482759
-Lopez_a481	Artemisia	Artemisia	HERB	1	0.34482759
-Lopez_a481	Aster-type	Aster-type	HERB	2	0.68965517
-Lopez_a481	Cardueae	Asteraceae subf. Carduoideae	HERB	4	1.3793103
-Lopez_a481	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	5	1.7241379
-Lopez_a481	Cruciferae	Brassicaceae	HERB	10	3.4482759
-Lopez_a481	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	3	1.0344828
-Lopez_a481	Centaurea cyanus-type	Centaurea cyanus-type	HERB	7	2.4137931
-Lopez_a481	Cerealia	Cerealia-type	HERB	6	2.0689655
-Lopez_a481	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	3	1.0344828
-Lopez_a481	Cistus-type	Cistus	HERB	1	0.34482759
-Lopez_a481	Cistus ladanifer	Cistus ladanifer-type	HERB	6	2.0689655
-Lopez_a481	Labiatae	Lamiaceae	HERB	5	1.7241379
-Lopez_a481	Liliaceae undiff,	Liliaceae-type	HERB	3	1.0344828
-Lopez_a481	Papaver rhoeas-type	Papaver rhoeas-type	HERB	1	0.34482759
-Lopez_a481	Plantago coronopus-type	Plantago coronopus-type	HERB	1	0.34482759
-Lopez_a481	Poaceae undiff.	Poaceae	HERB	29	10
-Lopez_a481	Rumex acetosella-type	Rumex acetosella	HERB	1	0.34482759
-Lopez_a481	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	2	0.68965517
-Lopez_a481	Fabaceae undiff.	Fabaceae undiff.	INUN	1	
-Lopez_a481	Glomus cf. G. fasciculatum	Glomus cf. fasciculatum	FUNG	45	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Lopez_a481	5	2	5	Alnus	Alnus	TRSH
+Lopez_a481	6	1	6	Apiaceae	Apiaceae	HERB
+Lopez_a481	7	1	7	Artemisia	Artemisia	HERB
+Lopez_a481	597	2	11	Aster-type	Aster-type	HERB
+Lopez_a481	12	1	12	Betula	Betula	TRSH
+Lopez_a481	445	4	336	Cardueae	Asteraceae subf. Carduoideae	HERB
+Lopez_a481	18	3	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Lopez_a481	2292	7	462	Centaurea cyanus-type	Centaurea cyanus-type	HERB
+Lopez_a481	22	6	22	Cerealia	Cerealia-type	HERB
+Lopez_a481	769	3	24	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB
+Lopez_a481	447	5	25	Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Lopez_a481	3800	6	3800	Cistus ladanifer	Cistus ladanifer-type	HERB
+Lopez_a481	3810	1	3796	Cistus-type	Cistus	HERB
+Lopez_a481	482	10	13	Cruciferae	Brassicaceae	HERB
+Lopez_a481	3929	2	3928	Erica arborea-type	Erica arborea-type	DWAR
+Lopez_a481	3960	1	3960	Fabaceae undiff.	Fabaceae undiff.	INUN
+Lopez_a481	190	2	190	Fraxinus	Fraxinus	TRSH
+Lopez_a481	4008	45	305	Glomus cf. G. fasciculatum	Glomus cf. fasciculatum	FUNG
+Lopez_a481	485	5	59	Labiatae	Lamiaceae	HERB
+Lopez_a481	442	144	68	Olea	Olea europaea	TRSH
+Lopez_a481	2345	1	494	Papaver rhoeas-type	Papaver rhoeas-type	HERB
+Lopez_a481	74	1	74	Phillyrea	Phillyrea	TRSH
+Lopez_a481	4304	1	440	Pinus pinea/halepensis-type	Pinus halepensis-type	TRSH
+Lopez_a481	444	1	77	Pistacia lentiscus	Pistacia	TRSH
+Lopez_a481	2801	1	30	Plantago coronopus-type	Plantago coronopus-type	HERB
+Lopez_a481	81	1	81	Populus	Populus	TRSH
+Lopez_a481	437	2	86	Quercus deciduous	Quercus robur-type	TRSH
+Lopez_a481	427	34	85	Quercus evergreen	Quercus ilex-type	TRSH
+Lopez_a481	1398	1	96	Rumex acetosella-type	Rumex acetosella	HERB
+Lopez_a481	154	1	154	Ulmus	Ulmus/Zelkova	TRSH
+Lopez_a481	173	2	173	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB
+Lopez_a481	429	29	80	Poaceae undiff.	Poaceae	HERB
+Lopez_a481	439	2	439	Pinus pinaster	Pinus pinaster	TRSH
+Lopez_a481	4131	3	62	Liliaceae undiff,	Liliaceae-type	HERB
+Lopez_a481	4756	5	4756	Vitis	Vitis	LIAN

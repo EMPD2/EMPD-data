@@ -1,17 +1,17 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Muller_a22	Alnus fruticosa	Alnus viridis	TRSH	163	44.054054
-Muller_a22	Betula sect. Nanae	Betula nana-type	DWAR	125	33.783784
-Muller_a22	Betula sect. Albae	Betula pubescens-type	TRSH	4	1.0810811
-Muller_a22	Larix	Larix/Pseudotsuga	TRSH	24	6.4864865
-Muller_a22	Pinus haploxylon-type	Pinus cembra-type	TRSH	1	0.27027027
-Muller_a22	Pinus diploxylon-type	Pinus sylvestris-type	TRSH	40	10.810811
-Muller_a22	Rosaceae	Rosaceae	TRSH	1	0.27027027
-Muller_a22	Ericaceae vaccinium-type	Vaccinium	DWAR	2	0.54054054
-Muller_a22	Artemisia	Artemisia	HERB	1	0.27027027
-Muller_a22	Cyperaceae	Cyperaceae	HERB	2	0.54054054
-Muller_a22	Poaceae	Poaceae	HERB	6	1.6216216
-Muller_a22	Rumex	Rumex/Oxyria	HERB	1	0.27027027
-Muller_a22	Pollen, terrestrial	Indeterminable: unknown	INUN	370	
-Muller_a22	Lycopodium spores counted	Lycopodium (counted)	NOPO	102	
-Muller_a22	Microthyrium	Microthyrium	FUNG	2	
-Muller_a22	Pollen per unit sediment mass	Pollen per unit sediment mass (/g)	NOPO	7748	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Muller_a22	123	24	123	Larix	Larix/Pseudotsuga	TRSH
+Muller_a22	128	4	128	Betula sect. Albae	Betula pubescens-type	TRSH
+Muller_a22	1049	40	125	Pinus diploxylon-type	Pinus sylvestris-type	TRSH
+Muller_a22	127	125	127	Betula sect. Nanae	Betula nana-type	DWAR
+Muller_a22	1050	1	124	Pinus haploxylon-type	Pinus cembra-type	TRSH
+Muller_a22	7	1	7	Artemisia	Artemisia	HERB
+Muller_a22	33	2	33	Cyperaceae	Cyperaceae	HERB
+Muller_a22	80	6	80	Poaceae	Poaceae	HERB
+Muller_a22	2987	2	540	Ericaceae vaccinium-type	Vaccinium	TRSH
+Muller_a22	727	1	94	Rumex	Rumex/Oxyria	HERB
+Muller_a22	92	1	92	Rosaceae	Rosaceae	TRSH
+Muller_a22	2344	2	2344	Microthyrium	Microthyrium	FUNG
+Muller_a22	2970	370	177	Pollen, terrestrial	Indeterminable: unknown	INUN
+Muller_a22	3000	102	559	Lycopodium spores counted	Lycopodium (counted)	NOPO
+Muller_a22	3001	7748	3001	Pollen per unit sediment mass	Pollen per unit sediment mass (/g)	NOPO
+Muller_a22	2962	163	129	Alnus fruticosa	Alnus viridis	TRSH

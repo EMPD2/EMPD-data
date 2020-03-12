@@ -1,33 +1,33 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Lopez_b24	Acer	Acer campestre-type	TRSH	3	1.1152416
-Lopez_b24	Alnus	Alnus	TRSH	12	4.4609665
-Lopez_b24	Betula	Betula	TRSH	4	1.4869888
-Lopez_b24	Carpinus betulus	Carpinus betulus	TRSH	2	0.74349442
-Lopez_b24	Corylus	Corylus	TRSH	1	0.37174721
-Lopez_b24	Cytisus type	Cytisus-type	TRSH	2	0.74349442
-Lopez_b24	Fagus	Fagus	TRSH	49	18.215613
-Lopez_b24	Hedera helix	Hedera	TRSH	4	1.4869888
-Lopez_b24	Pinus halepensis type	Pinus halepensis-type	TRSH	2	0.74349442
-Lopez_b24	Pinus sylvestris/nigra type	Pinus sylvestris-type	TRSH	2	0.74349442
-Lopez_b24	evergreen Quercus	Quercus ilex-type	TRSH	3	1.1152416
-Lopez_b24	deciduous Quercus	Quercus robur-type	TRSH	15	5.5762082
-Lopez_b24	Prunus/Rosa/Rubus type	Rosaceae	TRSH	5	1.8587361
-Lopez_b24	Rosaceae undiff.	Rosaceae	TRSH	6	2.2304833
-Lopez_b24	Salix	Salix	TRSH	14	5.204461
-Lopez_b24	Ulmus	Ulmus/Zelkova	TRSH	3	1.1152416
-Lopez_b24	Vaccinium	Vaccinium	DWAR	3	1.1152416
-Lopez_b24	Anemone nemorosa	Anemone nemorosa-type	HERB	11	4.0892193
-Lopez_b24	Apiaceae	Apiaceae	HERB	5	1.8587361
-Lopez_b24	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	2	0.74349442
-Lopez_b24	Cyperaceae	Cyperaceae	HERB	27	10.037175
-Lopez_b24	Fabaceae undiff.	Fabaceae undiff.	HERB	5	1.8587361
-Lopez_b24	Geranium	Geranium	HERB	7	2.6022305
-Lopez_b24	Lamiaceae	Lamiaceae	HERB	9	3.3457249
-Lopez_b24	Liliaceae	Liliaceae-type	HERB	3	1.1152416
-Lopez_b24	Onagraceae	Onagraceae	HERB	5	1.8587361
-Lopez_b24	Ranunculaceae	Ranunculaceae	HERB	9	3.3457249
-Lopez_b24	Rubiaceae	Rubiaceae	HERB	6	2.2304833
-Lopez_b24	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	2	0.74349442
-Lopez_b24	Asplenium type	Asplenium-type	VACR	4	1.4869888
-Lopez_b24	Filicales monolete	Monolete fern spores	VACR	11	4.0892193
-Lopez_b24	Filicales trilete	Trilete spore(s)	VACR	33	12.267658
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Lopez_b24	1001	15	86	deciduous Quercus	Quercus robur-type	TRSH
+Lopez_b24	2	3	2	Acer	Acer campestre-type	TRSH
+Lopez_b24	5	12	5	Alnus	Alnus	TRSH
+Lopez_b24	12	4	12	Betula	Betula	TRSH
+Lopez_b24	51	4	51	Hedera helix	Hedera	TRSH
+Lopez_b24	99	14	99	Salix	Salix	TRSH
+Lopez_b24	154	3	154	Ulmus	Ulmus/Zelkova	TRSH
+Lopez_b24	192	49	42	Fagus	Fagus	TRSH
+Lopez_b24	540	3	540	Vaccinium	Vaccinium	TRSH
+Lopez_b24	563	2	16	Carpinus betulus	Carpinus betulus	TRSH
+Lopez_b24	33	27	33	Cyperaceae	Cyperaceae	HERB
+Lopez_b24	62	3	62	Liliaceae	Liliaceae-type	HERB
+Lopez_b24	1010	11	146	Filicales monolete	Monolete fern spores	VACR
+Lopez_b24	173	2	173	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB
+Lopez_b24	484	5	269	Fabaceae undiff.	Fabaceae undiff.	HERB
+Lopez_b24	1011	33	279	Filicales trilete	Trilete spore(s)	VACR
+Lopez_b24	6	5	6	Apiaceae	Apiaceae	HERB
+Lopez_b24	18	2	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Lopez_b24	135	9	135	Ranunculaceae	Ranunculaceae	HERB
+Lopez_b24	59	9	59	Lamiaceae	Lamiaceae	HERB
+Lopez_b24	1013	2	1013	Cytisus type	Cytisus-type	TRSH
+Lopez_b24	1012	5	92	Prunus/Rosa/Rubus type	Rosaceae	TRSH
+Lopez_b24	93	6	93	Rubiaceae	Rubiaceae	HERB
+Lopez_b24	1029	4	216	Asplenium type	Asplenium-type	VACR
+Lopez_b24	137	5	137	Onagraceae	Onagraceae	HERB
+Lopez_b24	498	7	498	Geranium	Geranium	HERB
+Lopez_b24	815	11	588	Anemone nemorosa	Anemone nemorosa-type	HERB
+Lopez_b24	201	1	31	Corylus	Corylus	TRSH
+Lopez_b24	1002	3	85	evergreen Quercus	Quercus ilex-type	TRSH
+Lopez_b24	1003	2	125	Pinus sylvestris/nigra type	Pinus sylvestris-type	TRSH
+Lopez_b24	1004	2	440	Pinus halepensis type	Pinus halepensis-type	TRSH
+Lopez_b24	472	6	92	Rosaceae undiff.	Rosaceae	TRSH

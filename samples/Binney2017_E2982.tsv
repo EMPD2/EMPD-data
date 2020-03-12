@@ -1,29 +1,29 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Binney2017_E2982	Alnus fruticosa-type	Alnus viridis	TRSH	36	6.6543438
-Binney2017_E2982	Betula nana-type	Betula nana-type	TRSH	63	11.645102
-Binney2017_E2982	Betula sect. Albae	Betula pubescens-type	TRSH	5	0.92421442
-Binney2017_E2982	Ledum-type	Empetrum/Ledum	DWAR	1	0.18484288
-Binney2017_E2982	Ericaceae	Ericales (tetrad)	DWAR	3	0.55452865
-Binney2017_E2982	Larix	Larix/Pseudotsuga	TRSH	9	1.663586
-Binney2017_E2982	Picea abies subsp. obovata	Picea abies-type	TRSH	1	0.18484288
-Binney2017_E2982	Pinus	Pinus	TRSH	31	5.7301294
-Binney2017_E2982	Pinus sylvestris	Pinus sylvestris-type	TRSH	21	3.8817006
-Binney2017_E2982	Rosaceae	Rosaceae	TRSH	10	1.8484288
-Binney2017_E2982	Salix	Salix	TRSH	8	1.4787431
-Binney2017_E2982	Artemisia	Artemisia	HERB	11	2.0332717
-Binney2017_E2982	Brassicaceae	Brassicaceae	HERB	3	0.55452865
-Binney2017_E2982	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	5	0.92421442
-Binney2017_E2982	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.18484288
-Binney2017_E2982	Cyperaceae	Cyperaceae	HERB	200	36.968577
-Binney2017_E2982	Dryas	Dryas octopetala	HERB	28	5.1756007
-Binney2017_E2982	Gentianaceae	Gentianaceae	HERB	1	0.18484288
-Binney2017_E2982	Pedicularis	Pedicularis	HERB	2	0.36968577
-Binney2017_E2982	Poaceae	Poaceae	HERB	73	13.49353
-Binney2017_E2982	Ranunculaceae	Ranunculaceae	HERB	11	2.0332717
-Binney2017_E2982	Rumex	Rumex/Oxyria	HERB	2	0.36968577
-Binney2017_E2982	Saxifraga nivalis-type	Saxifraga stellaris-type	HERB	1	0.18484288
-Binney2017_E2982	Bryophyta	Bryophyte spores	BRYO	10	1.8484288
-Binney2017_E2982	Equisetum	Equisetum	VACR	1	0.18484288
-Binney2017_E2982	Lycopodium complanatum	Lycopodium clavatum-type	VACR	1	0.18484288
-Binney2017_E2982	Polypodiales	Monolete fern spores	VACR	3	0.55452865
-Binney2017_E2982	Sphagnum	Sphagnum	NOPO	18	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Binney2017_E2982	7	11	7	Artemisia	Artemisia	HERB
+Binney2017_E2982	13	3	13	Brassicaceae	Brassicaceae	HERB
+Binney2017_E2982	18	5	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Binney2017_E2982	33	200	33	Cyperaceae	Cyperaceae	HERB
+Binney2017_E2982	75	31	75	Pinus	Pinus	TRSH
+Binney2017_E2982	80	73	80	Poaceae	Poaceae	HERB
+Binney2017_E2982	99	8	99	Salix	Salix	TRSH
+Binney2017_E2982	123	9	123	Larix	Larix/Pseudotsuga	TRSH
+Binney2017_E2982	128	5	128	Betula sect. Albae	Betula pubescens-type	TRSH
+Binney2017_E2982	130	3	130	Ericaceae	Ericales (tetrad)	DWAR
+Binney2017_E2982	135	11	135	Ranunculaceae	Ranunculaceae	HERB
+Binney2017_E2982	144	18	144	Sphagnum	Sphagnum	BRYO
+Binney2017_E2982	145	1	145	Equisetum	Equisetum	VACR
+Binney2017_E2982	525	1	525	Gentianaceae	Gentianaceae	HERB
+Binney2017_E2982	727	2	94	Rumex	Rumex/Oxyria	HERB
+Binney2017_E2982	753	2	753	Pedicularis	Pedicularis	HERB
+Binney2017_E2982	769	1	24	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB
+Binney2017_E2982	788	21	125	Pinus sylvestris	Pinus sylvestris-type	TRSH
+Binney2017_E2982	1241	10	147	Bryophyta	Bryophyte spores	BRYO
+Binney2017_E2982	2114	1	182	Lycopodium complanatum	Lycopodium clavatum-type	VACR
+Binney2017_E2982	2123	28	2123	Dryas	Dryas octopetala	HERB
+Binney2017_E2982	3614	63	3613	Betula nana-type	Betula nana-type	TRSH
+Binney2017_E2982	4116	1	1388	Ledum-type	Empetrum/Ledum	DWAR
+Binney2017_E2982	4291	1	783	Picea abies subsp. obovata	Picea abies-type	TRSH
+Binney2017_E2982	4377	3	146	Polypodiales	Monolete fern spores	VACR
+Binney2017_E2982	4921	36	129	Alnus fruticosa-type	Alnus viridis	TRSH
+Binney2017_E2982	5198	1	642	Saxifraga nivalis-type	Saxifraga stellaris-type	HERB
+Binney2017_E2982	92	10	92	Rosaceae	Rosaceae	TRSH

@@ -1,31 +1,31 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Bjune_a172	Alnus	Alnus	TRSH	9	1.7509728
-Bjune_a172	Betula	Betula	TRSH	287	55.836576
-Bjune_a172	Betula/Corylus/Myrica	Betula/Corylus/Myrica	TRSH	1	0.19455253
-Bjune_a172	Empetrum nigrum	Empetrum nigrum	DWAR	2	0.38910506
-Bjune_a172	Ericaceae-type	Ericales (tetrad)	DWAR	3	0.58365759
-Bjune_a172	Juniperus communis	Juniperus communis-type	TRSH	18	3.5019455
-Bjune_a172	Picea	Picea	TRSH	3	0.58365759
-Bjune_a172	Pinus sylvestris	Pinus sylvestris-type	TRSH	128	24.902724
-Bjune_a172	Salix undiff.	Salix	TRSH	12	2.3346304
-Bjune_a172	Vaccinium-type	Vaccinium-type	DWAR	1	0.19455253
-Bjune_a172	Gramineae undiff.	Poaceae	HERB	13	2.5291829
-Bjune_a172	Rubus chamaemorus	Rubus chamaemorus	HERB	1	0.19455253
-Bjune_a172	Rumex acetosella-type	Rumex acetosella	HERB	3	0.58365759
-Bjune_a172	Urtica	Urtica	HERB	1	0.19455253
-Bjune_a172	Dryopteris-type	Dryopteris-type	VACR	7	1.3618677
-Bjune_a172	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR	3	0.58365759
-Bjune_a172	Lycopodium annotinum	Lycopodium annotinum-type	VACR	3	0.58365759
-Bjune_a172	Lycopodium clavatum	Lycopodium clavatum	VACR	1	0.19455253
-Bjune_a172	Sphagnum	Sphagnum	BRYO	18	3.5019455
-Bjune_a172	Botryococcus	Botryococcus	ALGA	114	22.178988
-Bjune_a172	Carex-type	Carex	AQUA	16	3.1128405
-Bjune_a172	Cyperaceae undiff.	Cyperaceae	AQUA	7	1.3618677
-Bjune_a172	Isoetes echinospora	Isoetes echinospora	AQPT	49	9.5330739
-Bjune_a172	Isoetes lacustris	Isoetes lacustris	AQPT	35	6.8093385
-Bjune_a172	Menyanthes trifoliata	Menyanthes trifoliata	AQUA	1	0.19455253
-Bjune_a172	Nuphar	Nuphar	AQUA	1	0.19455253
-Bjune_a172	Pediastrum	Pediastrum	ALGA	46	8.9494163
-Bjune_a172	Ranunculus trichophyllus-type	Ranunculus aquatilis-type	AQUA	2	0.38910506
-Bjune_a172	Indeterminable: broken	Indeterminable: broken	INUN	1	
-Bjune_a172	Indeterminable: concealed	Indeterminable: concealed	INUN	1	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Bjune_a172	5	9	5	Alnus	Alnus	TRSH
+Bjune_a172	12	287	12	Betula	Betula	TRSH
+Bjune_a172	663	114	663	Botryococcus	Botryococcus	ALGA
+Bjune_a172	3665	16	3663	Carex-type	Carex	AQUA
+Bjune_a172	3873	7	3868	Cyperaceae undiff.	Cyperaceae	AQUA
+Bjune_a172	1247	7	772	Dryopteris-type	Dryopteris-type	VACR
+Bjune_a172	939	2	739	Empetrum nigrum	Empetrum nigrum	DWAR
+Bjune_a172	3944	3	130	Ericaceae-type	Ericales (tetrad)	DWAR
+Bjune_a172	4018	13	80	Gramineae undiff.	Poaceae	HERB
+Bjune_a172	4072	1	998	Indeterminable: broken	Indeterminable: broken	INUN
+Bjune_a172	4073	1	999	Indeterminable: concealed	Indeterminable: concealed	INUN
+Bjune_a172	2332	49	2332	Isoetes echinospora	Isoetes echinospora	AQPT
+Bjune_a172	1590	35	1590	Isoetes lacustris	Isoetes lacustris	AQPT
+Bjune_a172	965	3	183	Lycopodium annotinum	Lycopodium annotinum-type	VACR
+Bjune_a172	1714	1	1549	Lycopodium clavatum	Lycopodium clavatum	VACR
+Bjune_a172	961	1	175	Menyanthes trifoliata	Menyanthes trifoliata	AQUA
+Bjune_a172	1495	1	1495	Nuphar	Nuphar	AQUA
+Bjune_a172	4459	2	1182	Ranunculus trichophyllus-type	Ranunculus aquatilis-type	AQUA
+Bjune_a172	2112	1	172	Rubus chamaemorus	Rubus chamaemorus	HERB
+Bjune_a172	1400	12	99	Salix undiff.	Salix	TRSH
+Bjune_a172	144	18	144	Sphagnum	Sphagnum	BRYO
+Bjune_a172	652	1	652	Urtica	Urtica	HERB
+Bjune_a172	4730	1	4730	Vaccinium-type	Vaccinium-type	DWAR
+Bjune_a172	126	3	126	Picea	Picea	TRSH
+Bjune_a172	662	46	662	Pediastrum	Pediastrum	ALGA
+Bjune_a172	788	128	125	Pinus sylvestris	Pinus sylvestris-type	TRSH
+Bjune_a172	941	18	58	Juniperus communis	Juniperus communis-type	TRSH
+Bjune_a172	1398	3	96	Rumex acetosella-type	Rumex acetosella	HERB
+Bjune_a172	2121	3	1320	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR
+Bjune_a172	3619	1	3619	Betula/Corylus/Myrica	Betula/Corylus/Myrica	TRSH

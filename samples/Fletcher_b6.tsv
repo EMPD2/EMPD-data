@@ -1,26 +1,26 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Fletcher_b6	Cedrus	Cedrus	TRSH	0.3	0.3
-Fletcher_b6	Cupressaceae	Cupressaceae undiff.	TRSH	0.8	0.8
-Fletcher_b6	Ephedra distachya	Ephedra distachya-type	TRSH	0.6	0.6
-Fletcher_b6	Ephedra fragilis	Ephedra fragilis-type	TRSH	0.3	0.3
-Fletcher_b6	Fabaceae genista type	Genista-type	TRSH	0.6	0.6
-Fletcher_b6	Olea	Olea europaea	TRSH	7	7
-Fletcher_b6	Quercus evergreen	Quercus ilex-type	TRSH	7.8	7.8
-Fletcher_b6	Quercus deciduous	Quercus robur-type	TRSH	5	5
-Fletcher_b6	Zygophyllaceae	Zygophyllaceae	TRSH	0.8	0.8
-Fletcher_b6	Apiaceae undiff.	Apiaceae	HERB	0.3	0.3
-Fletcher_b6	Artemisia	Artemisia	HERB	15.4	15.4
-Fletcher_b6	Asteraceae undiff.	Asteraceae	HERB	2.5	2.5
-Fletcher_b6	Fabaceae astragalus type	Astragalus-type	HERB	0.6	0.6
-Fletcher_b6	Brassicaceae undiff.	Brassicaceae	HERB	15.4	15.4
-Fletcher_b6	Asteraceae carthamus	Carthamus-type	HERB	0.6	0.6
-Fletcher_b6	Caryophyllaceae undiff.	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	10.6	10.6
-Fletcher_b6	Chenopodiaceae undiff.	Chenopodiaceae/Amaranthaceae	HERB	2.5	2.5
-Fletcher_b6	Convolvulus	Convolvulus	HERB	0.3	0.3
-Fletcher_b6	Fabaceae undiff.	Fabaceae undiff.	HERB	9.5	9.5
-Fletcher_b6	Helianthemum	Helianthemum	HERB	3.4	3.4
-Fletcher_b6	Asteraceae lactuceae type	Lactuca-type	HERB	1.4	1.4
-Fletcher_b6	Fabaceae lotus type	Lotus-type	HERB	2.8	2.8
-Fletcher_b6	Plantago undiff.	Plantago	HERB	1.1	1.1
-Fletcher_b6	Poaceae undiff.	Poaceae	HERB	10.4	10.4
-Fletcher_b6	Concentration	Total concentration	NOPO	83626	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Fletcher_b6	442	7	68	Olea	Olea europaea	TRSH
+Fletcher_b6	576	0.3	340	Cedrus	Cedrus	TRSH
+Fletcher_b6	714	0.8	347	Cupressaceae	Cupressaceae undiff.	TRSH
+Fletcher_b6	7	15.4	7	Artemisia	Artemisia	HERB
+Fletcher_b6	427	7.8	85	Quercus evergreen	Quercus ilex-type	TRSH
+Fletcher_b6	437	5	86	Quercus deciduous	Quercus robur-type	TRSH
+Fletcher_b6	1107	0.3	6	Apiaceae undiff.	Apiaceae	HERB
+Fletcher_b6	709	2.5	134	Asteraceae undiff.	Asteraceae	HERB
+Fletcher_b6	1422	15.4	13	Brassicaceae undiff.	Brassicaceae	HERB
+Fletcher_b6	2205	1.4	2205	Asteraceae lactuceae type	Lactuca-type	HERB
+Fletcher_b6	2203	0.6	1636	Asteraceae carthamus	Carthamus-type	HERB
+Fletcher_b6	946	10.6	18	Caryophyllaceae undiff.	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Fletcher_b6	1328	0.3	1328	Convolvulus	Convolvulus	HERB
+Fletcher_b6	1810	2.5	24	Chenopodiaceae undiff.	Chenopodiaceae/Amaranthaceae	HERB
+Fletcher_b6	2209	0.6	10	Fabaceae astragalus type	Astragalus-type	HERB
+Fletcher_b6	52	3.4	52	Helianthemum	Helianthemum	HERB
+Fletcher_b6	484	9.5	269	Fabaceae undiff.	Fabaceae undiff.	HERB
+Fletcher_b6	2211	0.6	49	Fabaceae genista type	Genista-type	TRSH
+Fletcher_b6	2213	2.8	611	Fabaceae lotus type	Lotus-type	HERB
+Fletcher_b6	2014	83626	2014	Concentration	Total concentration	NOPO
+Fletcher_b6	429	10.4	80	Poaceae undiff.	Poaceae	HERB
+Fletcher_b6	1854	1.1	270	Plantago undiff.	Plantago	HERB
+Fletcher_b6	1737	0.3	36	Ephedra fragilis	Ephedra fragilis-type	TRSH
+Fletcher_b6	2199	0.6	37	Ephedra distachya	Ephedra distachya-type	TRSH
+Fletcher_b6	2217	0.8	2217	Zygophyllaceae	Zygophyllaceae	TRSH

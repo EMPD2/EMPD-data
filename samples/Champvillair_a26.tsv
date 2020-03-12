@@ -1,47 +1,47 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Champvillair_a26	Abies	Abies	TRSH	9	1.1795544
-Champvillair_a26	Acer	Acer campestre-type	TRSH	2	0.2621232
-Champvillair_a26	Alnus	Alnus	TRSH	26	3.4076016
-Champvillair_a26	Alnus viridis	Alnus viridis	TRSH	13	1.7038008
-Champvillair_a26	Betula	Betula	TRSH	2	0.2621232
-Champvillair_a26	Castanea	Castanea sativa	TRSH	12	1.5727392
-Champvillair_a26	Corylus	Corylus	TRSH	14	1.8348624
-Champvillair_a26	Fraxinus excelsior	Fraxinus excelsior-type	TRSH	2	0.2621232
-Champvillair_a26	Juglans	Juglans	TRSH	1	0.1310616
-Champvillair_a26	Juniperus	Juniperus communis-type	TRSH	4	0.5242464
-Champvillair_a26	Olea	Olea europaea	TRSH	12	1.5727392
-Champvillair_a26	Picea	Picea	TRSH	97	12.712975
-Champvillair_a26	Pinus cembra	Pinus cembra-type	TRSH	78	10.222805
-Champvillair_a26	Pinus sylvestris/mugo	Pinus sylvestris-type	TRSH	180	23.591088
-Champvillair_a26	Salix	Salix	TRSH	7	0.91743119
-Champvillair_a26	Tilia	Tilia	TRSH	2	0.2621232
-Champvillair_a26	Ambrosia	Ambrosia	HERB	3	0.3931848
-Champvillair_a26	Umbelliferae	Apiaceae	HERB	3	0.3931848
-Champvillair_a26	Artemisia	Artemisia	HERB	7	0.91743119
-Champvillair_a26	Aster type	Aster-type	HERB	2	0.2621232
-Champvillair_a26	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	16	2.0969856
-Champvillair_a26	Cruciferae	Brassicaceae	HERB	12	1.5727392
-Champvillair_a26	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	7	0.91743119
-Champvillair_a26	Crassulaceae	Crassulaceae	HERB	6	0.78636959
-Champvillair_a26	Cyperaceae	Cyperaceae	HERB	83	10.878113
-Champvillair_a26	Helianthemum	Helianthemum	HERB	1	0.1310616
-Champvillair_a26	Labiatae	Lamiaceae	HERB	1	0.1310616
-Champvillair_a26	Anthemis type	Matricaria-type	HERB	18	2.3591088
-Champvillair_a26	Phyteuma	Phyteuma-type	HERB	2	0.2621232
-Champvillair_a26	Plantago lanceolata type	Plantago lanceolata-type	HERB	6	0.78636959
-Champvillair_a26	Plantago alpina type	Plantago maritima-type	HERB	7	0.91743119
-Champvillair_a26	Gramineae P	Poaceae	HERB	117	15.334207
-Champvillair_a26	Rumex acetosa type	Rumex acetosa-type	HERB	4	0.5242464
-Champvillair_a26	Sanguisorba	Sanguisorba officinalis	HERB	1	0.1310616
-Champvillair_a26	Saxifragaceae	Saxifragaceae	HERB	2	0.2621232
-Champvillair_a26	Spore monolete	Monolete fern spores	VACR	3	0.3931848
-Champvillair_a26	Pteridium	Pteridium aquilinum	VACR	1	0.1310616
-Champvillair_a26	Carboni piccoli contati	Charcoal <50µm	CHAR	16	
-Champvillair_a26	Concentrazione carbone P (Part/cm3)	Charcoal <50µm concentration	CHAR	134	
-Champvillair_a26	Concentrazione carbone tot (Part/cm3)	Concentration charcoal	CHAR	134	
-Champvillair_a26	Anphitrema	Amphitrema	RHIZ	1	
-Champvillair_a26	Arcella	Arcella	RHIZ	7	
-Champvillair_a26	Concentrazione pollinica (gran/cm3)	Concentration pollen	NOPO	6388	
-Champvillair_a26	Lycopodium cont	Lycopodium (counted)	NOPO	737	
-Champvillair_a26	Sordariaceae	Sordariaceae	FUNG	2	
-Champvillair_a26	Volume (cm3)	Volume of sample (cm3)	NOPO	9	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Champvillair_a26	660	7	308	Arcella	Arcella	RHIZ
+Champvillair_a26	675	2	675	Sordariaceae	Sordariaceae	FUNG
+Champvillair_a26	680	1	680	Anphitrema	Amphitrema	RHIZ
+Champvillair_a26	693	9	693	Volume (cm3)	Volume of sample (cm3)	NOPO
+Champvillair_a26	700	737	559	Lycopodium cont	Lycopodium (counted)	NOPO
+Champvillair_a26	701	16	701	Carboni piccoli contati	Charcoal <50µm	CHAR
+Champvillair_a26	703	6388	695	Concentrazione pollinica (gran/cm3)	Concentration pollen	NOPO
+Champvillair_a26	704	134	704	Concentrazione carbone P (Part/cm3)	Charcoal <50µm concentration	CHAR
+Champvillair_a26	706	134	706	Concentrazione carbone tot (Part/cm3)	Concentration charcoal	CHAR
+Champvillair_a26	2	2	2	Acer	Acer campestre-type	TRSH
+Champvillair_a26	5	26	5	Alnus	Alnus	TRSH
+Champvillair_a26	7	7	7	Artemisia	Artemisia	HERB
+Champvillair_a26	11	2	11	Aster type	Aster-type	HERB
+Champvillair_a26	12	2	12	Betula	Betula	TRSH
+Champvillair_a26	18	7	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Champvillair_a26	33	83	33	Cyperaceae	Cyperaceae	HERB
+Champvillair_a26	47	2	47	Fraxinus excelsior	Fraxinus excelsior-type	TRSH
+Champvillair_a26	52	1	52	Helianthemum	Helianthemum	HERB
+Champvillair_a26	57	1	57	Juglans	Juglans	TRSH
+Champvillair_a26	58	4	58	Juniperus	Juniperus communis-type	TRSH
+Champvillair_a26	99	7	99	Salix	Salix	TRSH
+Champvillair_a26	126	97	126	Picea	Picea	TRSH
+Champvillair_a26	187	2	187	Tilia	Tilia	TRSH
+Champvillair_a26	201	14	31	Corylus	Corylus	TRSH
+Champvillair_a26	221	6	60	Plantago lanceolata type	Plantago lanceolata-type	HERB
+Champvillair_a26	226	18	3	Anthemis type	Matricaria-type	HERB
+Champvillair_a26	250	4	95	Rumex acetosa type	Rumex acetosa-type	HERB
+Champvillair_a26	431	1	180	Pteridium	Pteridium aquilinum	VACR
+Champvillair_a26	441	12	19	Castanea	Castanea sativa	TRSH
+Champvillair_a26	442	12	68	Olea	Olea europaea	TRSH
+Champvillair_a26	447	16	25	Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Champvillair_a26	482	12	13	Cruciferae	Brassicaceae	HERB
+Champvillair_a26	485	1	59	Labiatae	Lamiaceae	HERB
+Champvillair_a26	519	6	519	Crassulaceae	Crassulaceae	HERB
+Champvillair_a26	560	9	321	Abies	Abies	TRSH
+Champvillair_a26	561	13	129	Alnus viridis	Alnus viridis	TRSH
+Champvillair_a26	573	78	124	Pinus cembra	Pinus cembra-type	TRSH
+Champvillair_a26	574	180	125	Pinus sylvestris/mugo	Pinus sylvestris-type	TRSH
+Champvillair_a26	586	3	586	Ambrosia	Ambrosia	HERB
+Champvillair_a26	590	3	6	Umbelliferae	Apiaceae	HERB
+Champvillair_a26	599	2	483	Phyteuma	Phyteuma-type	HERB
+Champvillair_a26	618	7	64	Plantago alpina type	Plantago maritima-type	HERB
+Champvillair_a26	620	117	80	Gramineae P	Poaceae	HERB
+Champvillair_a26	638	1	474	Sanguisorba	Sanguisorba officinalis	HERB
+Champvillair_a26	639	2	639	Saxifragaceae	Saxifragaceae	HERB
+Champvillair_a26	661	3	146	Spore monolete	Monolete fern spores	VACR

@@ -1,42 +1,42 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-EPDcoretop_E159	Abies alba	Abies	TRSH	13	1.5568862
-EPDcoretop_E159	Acer	Acer campestre-type	TRSH	7	0.83832335
-EPDcoretop_E159	Alnus undiff.	Alnus	TRSH	62	7.4251497
-EPDcoretop_E159	Betula	Betula	TRSH	69	8.2634731
-EPDcoretop_E159	Carpinus betulus	Carpinus betulus	TRSH	11	1.3173653
-EPDcoretop_E159	Corylus avellana	Corylus	TRSH	25	2.994012
-EPDcoretop_E159	Fagus sylvatica	Fagus	TRSH	76	9.1017964
-EPDcoretop_E159	Frangula alnus	Frangula alnus	TRSH	23	2.754491
-EPDcoretop_E159	Fraxinus	Fraxinus	TRSH	2	0.23952096
-EPDcoretop_E159	Juglans	Juglans	TRSH	1	0.11976048
-EPDcoretop_E159	Larix	Larix/Pseudotsuga	TRSH	3	0.35928144
-EPDcoretop_E159	Picea abies	Picea abies-type	TRSH	10	1.1976048
-EPDcoretop_E159	Pinus	Pinus	TRSH	307	36.766467
-EPDcoretop_E159	Quercus	Quercus	TRSH	24	2.8742515
-EPDcoretop_E159	Rosaceae	Rosaceae	TRSH	16	1.9161677
-EPDcoretop_E159	Salix undiff.	Salix	TRSH	28	3.3532934
-EPDcoretop_E159	Sambucus	Sambucus	TRSH	4	0.47904192
-EPDcoretop_E159	Tilia	Tilia	TRSH	2	0.23952096
-EPDcoretop_E159	Ulmus	Ulmus/Zelkova	TRSH	8	0.95808383
-EPDcoretop_E159	Ambrosia	Ambrosia	HERB	4	0.47904192
-EPDcoretop_E159	Umbelliferae	Apiaceae	HERB	4	0.47904192
-EPDcoretop_E159	Artemisia	Artemisia	HERB	2	0.23952096
-EPDcoretop_E159	Compositae subf. Asteroideae	Asteraceae subf. Asteroideae	HERB	6	0.71856287
-EPDcoretop_E159	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB	4	0.47904192
-EPDcoretop_E159	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	1	0.11976048
-EPDcoretop_E159	Centaurea cyanus	Centaurea cyanus-type	HERB	1	0.11976048
-EPDcoretop_E159	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	7	0.83832335
-EPDcoretop_E159	Cirsium-type	Cirsium	HERB	1	0.11976048
-EPDcoretop_E159	Humulus/Cannabis	Humulus/Cannabis	HERB	2	0.23952096
-EPDcoretop_E159	Plantago lanceolata	Plantago lanceolata-type	HERB	2	0.23952096
-EPDcoretop_E159	Gramineae	Poaceae	HERB	45	5.3892216
-EPDcoretop_E159	Ranunculaceae	Ranunculaceae	HERB	8	0.95808383
-EPDcoretop_E159	Rubiaceae	Rubiaceae	HERB	1	0.11976048
-EPDcoretop_E159	Rumex	Rumex/Oxyria	HERB	8	0.95808383
-EPDcoretop_E159	Secale cereale	Secale cereale	HERB	5	0.5988024
-EPDcoretop_E159	Urtica	Urtica	HERB	15	1.7964072
-EPDcoretop_E159	Dryopteris-type	Dryopteris-type	VACR	15	1.7964072
-EPDcoretop_E159	Sphagnum	Sphagnum	BRYO	13	1.5568862
-EPDcoretop_E159	Cyperaceae	Cyperaceae	AQUA	16	1.9161677
-EPDcoretop_E159	Varia	Indeterminable: unknown	INUN	9	
-EPDcoretop_E159	Lycopodium (counted)	Lycopodium (counted)	NOPO	221	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+EPDcoretop_E159	759	13	321	Abies alba	Abies	TRSH
+EPDcoretop_E159	586	4	586	Ambrosia	Ambrosia	HERB
+EPDcoretop_E159	7	2	7	Artemisia	Artemisia	HERB
+EPDcoretop_E159	12	69	12	Betula	Betula	TRSH
+EPDcoretop_E159	563	11	16	Carpinus betulus	Carpinus betulus	TRSH
+EPDcoretop_E159	18	1	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+EPDcoretop_E159	821	1	462	Centaurea cyanus	Centaurea cyanus-type	HERB
+EPDcoretop_E159	24	7	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+EPDcoretop_E159	1243	1	603	Cirsium-type	Cirsium	HERB
+EPDcoretop_E159	3822	6	160	Compositae subf. Asteroideae	Asteraceae subf. Asteroideae	HERB
+EPDcoretop_E159	3824	4	25	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+EPDcoretop_E159	3868	16	3868	Cyperaceae	Cyperaceae	AQUA
+EPDcoretop_E159	1247	15	772	Dryopteris-type	Dryopteris-type	VACR
+EPDcoretop_E159	42	76	42	Fagus sylvatica	Fagus	TRSH
+EPDcoretop_E159	190	2	190	Fraxinus	Fraxinus	TRSH
+EPDcoretop_E159	57	1	57	Juglans	Juglans	TRSH
+EPDcoretop_E159	123	3	123	Larix	Larix/Pseudotsuga	TRSH
+EPDcoretop_E159	559	221	559	Lycopodium (counted)	Lycopodium (counted)	NOPO
+EPDcoretop_E159	783	10	783	Picea abies	Picea abies-type	TRSH
+EPDcoretop_E159	75	307	75	Pinus	Pinus	TRSH
+EPDcoretop_E159	189	24	189	Quercus	Quercus	TRSH
+EPDcoretop_E159	135	8	135	Ranunculaceae	Ranunculaceae	HERB
+EPDcoretop_E159	92	16	92	Rosaceae	Rosaceae	TRSH
+EPDcoretop_E159	93	1	93	Rubiaceae	Rubiaceae	HERB
+EPDcoretop_E159	727	8	94	Rumex	Rumex/Oxyria	HERB
+EPDcoretop_E159	1400	28	99	Salix undiff.	Salix	TRSH
+EPDcoretop_E159	481	4	407	Sambucus	Sambucus	TRSH
+EPDcoretop_E159	256	5	256	Secale cereale	Secale cereale	HERB
+EPDcoretop_E159	144	13	144	Sphagnum	Sphagnum	BRYO
+EPDcoretop_E159	154	8	154	Ulmus	Ulmus/Zelkova	TRSH
+EPDcoretop_E159	590	4	6	Umbelliferae	Apiaceae	HERB
+EPDcoretop_E159	652	15	652	Urtica	Urtica	HERB
+EPDcoretop_E159	1098	9	177	Varia	Indeterminable: unknown	INUN
+EPDcoretop_E159	2	7	2	Acer	Acer campestre-type	TRSH
+EPDcoretop_E159	31	25	31	Corylus avellana	Corylus	TRSH
+EPDcoretop_E159	60	2	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+EPDcoretop_E159	187	2	187	Tilia	Tilia	TRSH
+EPDcoretop_E159	567	23	468	Frangula alnus	Frangula alnus	TRSH
+EPDcoretop_E159	1144	2	205	Humulus/Cannabis	Humulus/Cannabis	HERB
+EPDcoretop_E159	1376	62	5	Alnus undiff.	Alnus	TRSH
+EPDcoretop_E159	1601	45	80	Gramineae	Poaceae	HERB

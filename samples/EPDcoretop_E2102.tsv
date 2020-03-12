@@ -1,31 +1,31 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-EPDcoretop_E2102	Abies	Abies	TRSH	1	0.25839793
-EPDcoretop_E2102	Alnus	Alnus	TRSH	6	1.5503876
-EPDcoretop_E2102	Betula	Betula	TRSH	2	0.51679587
-EPDcoretop_E2102	Carpinus	Carpinus betulus	TRSH	1	0.25839793
-EPDcoretop_E2102	Corylus	Corylus	TRSH	2	0.51679587
-EPDcoretop_E2102	Pinus	Pinus	TRSH	14	3.6175711
-EPDcoretop_E2102	Quercus	Quercus	TRSH	2	0.51679587
-EPDcoretop_E2102	Ulmus	Ulmus/Zelkova	TRSH	1	0.25839793
-EPDcoretop_E2102	Alchemilla	Alchemilla	HERB	2	0.51679587
-EPDcoretop_E2102	Apiaceae	Apiaceae	HERB	1	0.25839793
-EPDcoretop_E2102	Asteraceae	Asteraceae	HERB	6	1.5503876
-EPDcoretop_E2102	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	62	16.020672
-EPDcoretop_E2102	Brassicaceae	Brassicaceae	HERB	1	0.25839793
-EPDcoretop_E2102	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	1	0.25839793
-EPDcoretop_E2102	Centaurea cyanus	Centaurea cyanus-type	HERB	1	0.25839793
-EPDcoretop_E2102	Cerealia-type	Cerealia-type	HERB	3	0.7751938
-EPDcoretop_E2102	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	26	6.7183463
-EPDcoretop_E2102	Cyperaceae	Cyperaceae	HERB	90	23.255814
-EPDcoretop_E2102	Fabaceae	Fabaceae	HERB	1	0.25839793
-EPDcoretop_E2102	Lamiaceae	Lamiaceae	HERB	1	0.25839793
-EPDcoretop_E2102	Liliaceae	Liliaceae-type	HERB	1	0.25839793
-EPDcoretop_E2102	Polygonum persicaria	Persicaria maculosa-type	HERB	1	0.25839793
-EPDcoretop_E2102	Plantago	Plantago	HERB	3	0.7751938
-EPDcoretop_E2102	Poaceae	Poaceae	HERB	66	17.054264
-EPDcoretop_E2102	Ranunculaceae	Ranunculaceae	HERB	82	21.18863
-EPDcoretop_E2102	Rumex	Rumex/Oxyria	HERB	1	0.25839793
-EPDcoretop_E2102	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	2	0.51679587
-EPDcoretop_E2102	Zea mays	Zea mays	HERB	1	0.25839793
-EPDcoretop_E2102	Polypodiaceae	Monolete fern spores	VACR	1	0.25839793
-EPDcoretop_E2102	Pteridium	Pteridium aquilinum	VACR	5	1.2919897
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+EPDcoretop_E2102	5	6	5	Alnus	Alnus	TRSH
+EPDcoretop_E2102	6	1	6	Apiaceae	Apiaceae	HERB
+EPDcoretop_E2102	12	2	12	Betula	Betula	TRSH
+EPDcoretop_E2102	13	1	13	Brassicaceae	Brassicaceae	HERB
+EPDcoretop_E2102	16	1	16	Carpinus	Carpinus betulus	TRSH
+EPDcoretop_E2102	18	1	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+EPDcoretop_E2102	24	26	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+EPDcoretop_E2102	33	90	33	Cyperaceae	Cyperaceae	HERB
+EPDcoretop_E2102	41	1	41	Fabaceae	Fabaceae	HERB
+EPDcoretop_E2102	59	1	59	Lamiaceae	Lamiaceae	HERB
+EPDcoretop_E2102	62	1	62	Liliaceae	Liliaceae-type	HERB
+EPDcoretop_E2102	75	14	75	Pinus	Pinus	TRSH
+EPDcoretop_E2102	80	66	80	Poaceae	Poaceae	HERB
+EPDcoretop_E2102	134	6	134	Asteraceae	Asteraceae	HERB
+EPDcoretop_E2102	135	82	135	Ranunculaceae	Ranunculaceae	HERB
+EPDcoretop_E2102	146	1	146	Polypodiaceae	Monolete fern spores	VACR
+EPDcoretop_E2102	154	1	154	Ulmus	Ulmus/Zelkova	TRSH
+EPDcoretop_E2102	173	2	173	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB
+EPDcoretop_E2102	189	2	189	Quercus	Quercus	TRSH
+EPDcoretop_E2102	201	2	31	Corylus	Corylus	TRSH
+EPDcoretop_E2102	431	5	180	Pteridium	Pteridium aquilinum	VACR
+EPDcoretop_E2102	447	62	25	Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+EPDcoretop_E2102	560	1	321	Abies	Abies	TRSH
+EPDcoretop_E2102	724	3	270	Plantago	Plantago	HERB
+EPDcoretop_E2102	727	1	94	Rumex	Rumex/Oxyria	HERB
+EPDcoretop_E2102	798	1	231	Polygonum persicaria	Persicaria maculosa-type	HERB
+EPDcoretop_E2102	812	1	423	Zea mays	Zea mays	HERB
+EPDcoretop_E2102	821	1	462	Centaurea cyanus	Centaurea cyanus-type	HERB
+EPDcoretop_E2102	944	2	323	Alchemilla	Alchemilla	HERB
+EPDcoretop_E2102	1065	3	22	Cerealia-type	Cerealia-type	HERB

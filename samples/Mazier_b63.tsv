@@ -1,39 +1,39 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Mazier_b63	Abies	Abies	TRSH	2	0.51150895
-Mazier_b63	Alnus	Alnus	TRSH	6	1.5345269
-Mazier_b63	Betula	Betula	TRSH	6	1.5345269
-Mazier_b63	Calluna	Calluna vulgaris	DWAR	9	2.3017903
-Mazier_b63	Castanea	Castanea sativa	TRSH	7	1.7902813
-Mazier_b63	Corylus	Corylus	TRSH	4	1.0230179
-Mazier_b63	Fagus	Fagus	TRSH	42	10.741688
-Mazier_b63	Fraxinus	Fraxinus	TRSH	2	0.51150895
-Mazier_b63	Ulex-type	Genista-type	TRSH	2	0.51150895
-Mazier_b63	Olea	Olea europaea	TRSH	3	0.76726343
-Mazier_b63	Pinus	Pinus	TRSH	124	31.713555
-Mazier_b63	Quercus ilex	Quercus ilex-type	TRSH	1	0.25575448
-Mazier_b63	Quercus deciduous	Quercus robur-type	TRSH	49	12.531969
-Mazier_b63	Rosaceae	Rosaceae	TRSH	6	1.5345269
-Mazier_b63	Salix	Salix	TRSH	3	0.76726343
-Mazier_b63	Vaccinium/Rhododendron	Vaccinium-type	DWAR	1	0.25575448
-Mazier_b63	Hedera	Hedera	LIAN	1	0.25575448
-Mazier_b63	Artemisia	Artemisia	HERB	2	0.51150895
-Mazier_b63	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	1	0.25575448
-Mazier_b63	Brassicaceae	Brassicaceae	HERB	3	0.76726343
-Mazier_b63	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	2	0.51150895
-Mazier_b63	Cerealia undiff.	Cerealia-type	HERB	1	0.25575448
-Mazier_b63	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	2	0.51150895
-Mazier_b63	Lotus-type	Lotus-type	HERB	1	0.25575448
-Mazier_b63	Plantago	Plantago	HERB	6	1.5345269
-Mazier_b63	Plantago lanceolata	Plantago lanceolata-type	HERB	2	0.51150895
-Mazier_b63	Poaceae	Poaceae	HERB	64	16.368286
-Mazier_b63	Potentilla-type	Potentilla-type	HERB	28	7.1611253
-Mazier_b63	Ranunculaceae	Ranunculaceae	HERB	2	0.51150895
-Mazier_b63	Galium	Rubiaceae	HERB	2	0.51150895
-Mazier_b63	Rubiaceae	Rubiaceae	HERB	1	0.25575448
-Mazier_b63	Rumex acetosa/R. acetosella	Rumex acetosa-type	HERB	1	0.25575448
-Mazier_b63	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	1	0.25575448
-Mazier_b63	Urtica dioica	Urtica dioica	HERB	1	0.25575448
-Mazier_b63	Asplenium	Asplenium-type	VACR	1	0.25575448
-Mazier_b63	Filicales monolete	Monolete fern spores	VACR	2	0.51150895
-Mazier_b63	Cyperaceae	Cyperaceae	AQUA	5	1.2787724
-Mazier_b63	Indeterminable: unknown	Indeterminable: unknown	INUN	1	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Mazier_b63	560	2	321	Abies	Abies	TRSH
+Mazier_b63	5	6	5	Alnus	Alnus	TRSH
+Mazier_b63	7	2	7	Artemisia	Artemisia	HERB
+Mazier_b63	1535	1	216	Asplenium	Asplenium-type	VACR
+Mazier_b63	13	3	13	Brassicaceae	Brassicaceae	HERB
+Mazier_b63	3645	9	3645	Calluna	Calluna vulgaris	DWAR
+Mazier_b63	18	2	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Mazier_b63	441	7	19	Castanea	Castanea sativa	TRSH
+Mazier_b63	24	2	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Mazier_b63	201	4	31	Corylus	Corylus	TRSH
+Mazier_b63	3868	5	3868	Cyperaceae	Cyperaceae	AQUA
+Mazier_b63	192	42	42	Fagus	Fagus	TRSH
+Mazier_b63	1010	2	146	Filicales monolete	Monolete fern spores	VACR
+Mazier_b63	190	2	190	Fraxinus	Fraxinus	TRSH
+Mazier_b63	1475	2	93	Galium	Rubiaceae	HERB
+Mazier_b63	4031	1	4031	Hedera	Hedera	LIAN
+Mazier_b63	4078	1	177	Indeterminable: unknown	Indeterminable: unknown	INUN
+Mazier_b63	611	1	611	Lotus-type	Lotus-type	HERB
+Mazier_b63	724	6	270	Plantago	Plantago	HERB
+Mazier_b63	60	2	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+Mazier_b63	80	64	80	Poaceae	Poaceae	HERB
+Mazier_b63	626	28	512	Potentilla-type	Potentilla-type	HERB
+Mazier_b63	437	49	86	Quercus deciduous	Quercus robur-type	TRSH
+Mazier_b63	579	1	85	Quercus ilex	Quercus ilex-type	TRSH
+Mazier_b63	135	2	135	Ranunculaceae	Ranunculaceae	HERB
+Mazier_b63	92	6	92	Rosaceae	Rosaceae	TRSH
+Mazier_b63	93	1	93	Rubiaceae	Rubiaceae	HERB
+Mazier_b63	4505	1	95	Rumex acetosa/R. acetosella	Rumex acetosa-type	HERB
+Mazier_b63	99	3	99	Salix	Salix	TRSH
+Mazier_b63	173	1	173	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB
+Mazier_b63	2537	2	49	Ulex-type	Genista-type	TRSH
+Mazier_b63	117	1	117	Urtica dioica	Urtica dioica	HERB
+Mazier_b63	4732	1	4730	Vaccinium/Rhododendron	Vaccinium-type	DWAR
+Mazier_b63	12	6	12	Betula	Betula	TRSH
+Mazier_b63	75	124	75	Pinus	Pinus	TRSH
+Mazier_b63	442	3	68	Olea	Olea europaea	TRSH
+Mazier_b63	447	1	25	Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Mazier_b63	822	1	22	Cerealia undiff.	Cerealia-type	HERB

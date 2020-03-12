@@ -1,42 +1,42 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Matthias_b43	Abies	Abies	TRSH	2	0.18814675
-Matthias_b43	Acer	Acer campestre-type	TRSH	3	0.28222013
-Matthias_b43	Alnus	Alnus	TRSH	206	19.379116
-Matthias_b43	Betula	Betula	TRSH	115	10.818438
-Matthias_b43	Calluna	Calluna vulgaris	TRSH	1	0.094073377
-Matthias_b43	Cannabaceae	Cannabaceae	TRSH	1	0.094073377
-Matthias_b43	Carpinus	Carpinus betulus	TRSH	4	0.37629351
-Matthias_b43	Castanea	Castanea sativa	TRSH	1	0.094073377
-Matthias_b43	Corylus	Corylus	TRSH	13	1.2229539
-Matthias_b43	Fagus	Fagus	TRSH	17	1.5992474
-Matthias_b43	Fraxinus	Fraxinus	TRSH	1	0.094073377
-Matthias_b43	Juglans	Juglans	TRSH	1	0.094073377
-Matthias_b43	Larix/Pseudotsuga	Larix/Pseudotsuga	TRSH	3	0.28222013
-Matthias_b43	Picea	Picea	TRSH	4	0.37629351
-Matthias_b43	Pinus	Pinus	TRSH	391	36.78269
-Matthias_b43	Populus	Populus	TRSH	2	0.18814675
-Matthias_b43	Quercus	Quercus	TRSH	131	12.323612
-Matthias_b43	Sorbus-group	Rosaceae (non-operculate)	TRSH	3	0.28222013
-Matthias_b43	Salix	Salix	TRSH	3	0.28222013
-Matthias_b43	Taxus	Taxus baccata	TRSH	2	0.18814675
-Matthias_b43	Tilia cordata	Tilia cordata-type	TRSH	3	0.28222013
-Matthias_b43	Ulmus	Ulmus/Zelkova	TRSH	11	1.0348071
-Matthias_b43	Ambrosia-type	Ambrosia/Xanthium	HERB	1	0.094073377
-Matthias_b43	Artemisia	Artemisia	HERB	13	1.2229539
-Matthias_b43	Fenestrate undifferentiated	Asteraceae	HERB	1	0.094073377
-Matthias_b43	Avena-type	Avena-type	HERB	1	0.094073377
-Matthias_b43	Brassicaceae	Brassicaceae	HERB	10	0.94073377
-Matthias_b43	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	10	0.94073377
-Matthias_b43	Cyperaceae	Cyperaceae	HERB	2	0.18814675
-Matthias_b43	Fagopyrum	Fagopyrum	HERB	4	0.37629351
-Matthias_b43	Hordeum-type	Hordeum-type	HERB	8	0.75258702
-Matthias_b43	Matricaria-type	Matricaria-type	HERB	3	0.28222013
-Matthias_b43	Plantago lanceolata	Plantago lanceolata-type	HERB	1	0.094073377
-Matthias_b43	Poaceae	Poaceae	HERB	45	4.233302
-Matthias_b43	Rumex acetosa-type	Rumex acetosa-type	HERB	3	0.28222013
-Matthias_b43	Rumex acetosella-type	Rumex acetosa-type	HERB	6	0.56444026
-Matthias_b43	Secale	Secale cereale	HERB	23	2.1636877
-Matthias_b43	Senecio-type	Senecio-type	HERB	2	0.18814675
-Matthias_b43	Triticum-type	Triticum-type	HERB	5	0.47036689
-Matthias_b43	Urtica	Urtica	HERB	6	0.56444026
-Matthias_b43	Zea mays	Zea mays	HERB	1	0.094073377
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Matthias_b43	75	391	75	Pinus	Pinus	TRSH
+Matthias_b43	5	206	5	Alnus	Alnus	TRSH
+Matthias_b43	12	115	12	Betula	Betula	TRSH
+Matthias_b43	192	17	42	Fagus	Fagus	TRSH
+Matthias_b43	16	4	16	Carpinus	Carpinus betulus	TRSH
+Matthias_b43	201	13	31	Corylus	Corylus	TRSH
+Matthias_b43	99	3	99	Salix	Salix	TRSH
+Matthias_b43	126	4	126	Picea	Picea	TRSH
+Matthias_b43	154	11	154	Ulmus	Ulmus/Zelkova	TRSH
+Matthias_b43	2	3	2	Acer	Acer campestre-type	TRSH
+Matthias_b43	81	2	81	Populus	Populus	TRSH
+Matthias_b43	190	1	190	Fraxinus	Fraxinus	TRSH
+Matthias_b43	57	1	57	Juglans	Juglans	TRSH
+Matthias_b43	198	2	111	Taxus	Taxus baccata	TRSH
+Matthias_b43	441	1	19	Castanea	Castanea sativa	TRSH
+Matthias_b43	2336	3	123	Larix/Pseudotsuga	Larix/Pseudotsuga	TRSH
+Matthias_b43	33	2	33	Cyperaceae	Cyperaceae	HERB
+Matthias_b43	80	45	80	Poaceae	Poaceae	HERB
+Matthias_b43	812	1	423	Zea mays	Zea mays	HERB
+Matthias_b43	801	23	256	Secale	Secale cereale	HERB
+Matthias_b43	949	8	258	Hordeum-type	Hordeum-type	HERB
+Matthias_b43	1215	1	1111	Avena-type	Avena-type	HERB
+Matthias_b43	1061	1	763	Cannabaceae	Cannabaceae	TRSH
+Matthias_b43	1233	5	1199	Triticum-type	Triticum-type	HERB
+Matthias_b43	13	10	13	Brassicaceae	Brassicaceae	HERB
+Matthias_b43	60	1	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+Matthias_b43	652	6	652	Urtica	Urtica	HERB
+Matthias_b43	7	13	7	Artemisia	Artemisia	HERB
+Matthias_b43	634	3	95	Rumex acetosa-type	Rumex acetosa-type	HERB
+Matthias_b43	2582	6	95	Rumex acetosella-type	Rumex acetosa-type	HERB
+Matthias_b43	24	10	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Matthias_b43	1072	3	3	Matricaria-type	Matricaria-type	HERB
+Matthias_b43	1230	2	133	Senecio-type	Senecio-type	HERB
+Matthias_b43	1421	1	228	Ambrosia-type	Ambrosia/Xanthium	HERB
+Matthias_b43	581	1	457	Calluna	Calluna vulgaris	TRSH
+Matthias_b43	189	131	189	Quercus	Quercus	TRSH
+Matthias_b43	560	2	321	Abies	Abies	TRSH
+Matthias_b43	1248	4	1248	Fagopyrum	Fagopyrum	HERB
+Matthias_b43	1406	3	153	Tilia cordata	Tilia cordata-type	TRSH
+Matthias_b43	3006	3	490	Sorbus-group	Rosaceae (non-operculate)	TRSH
+Matthias_b43	3014	1	134	Fenestrate undifferentiated	Asteraceae	HERB

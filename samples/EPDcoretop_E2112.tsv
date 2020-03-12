@@ -1,48 +1,48 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-EPDcoretop_E2112	Abies	Abies	TRSH	2	0.38387716
-EPDcoretop_E2112	Alnus	Alnus	TRSH	4	0.76775432
-EPDcoretop_E2112	Betula	Betula	TRSH	17	3.2629559
-EPDcoretop_E2112	Carpinus	Carpinus betulus	TRSH	2	0.38387716
-EPDcoretop_E2112	Castanea	Castanea sativa	TRSH	16	3.0710173
-EPDcoretop_E2112	Cedrus	Cedrus	TRSH	2	0.38387716
-EPDcoretop_E2112	Corylus	Corylus	TRSH	2	0.38387716
-EPDcoretop_E2112	Fagus	Fagus	TRSH	3	0.57581574
-EPDcoretop_E2112	Fraxinus	Fraxinus	TRSH	1	0.19193858
-EPDcoretop_E2112	Hedera	Hedera	TRSH	3	0.57581574
-EPDcoretop_E2112	Ilex	Ilex	TRSH	3	0.57581574
-EPDcoretop_E2112	Juglans	Juglans	TRSH	1	0.19193858
-EPDcoretop_E2112	Pseudotsuga douglasii	Larix/Pseudotsuga	TRSH	2	0.38387716
-EPDcoretop_E2112	Ligustrum	Ligustrum	TRSH	2	0.38387716
-EPDcoretop_E2112	Lonicera	Lonicera	TRSH	1	0.19193858
-EPDcoretop_E2112	Picea	Picea	TRSH	3	0.57581574
-EPDcoretop_E2112	Pinus	Pinus	TRSH	30	5.7581574
-EPDcoretop_E2112	Prunus-type	Prunus-type	TRSH	2	0.38387716
-EPDcoretop_E2112	Quercus	Quercus	TRSH	246	47.216891
-EPDcoretop_E2112	Quercus ilex	Quercus ilex-type	TRSH	2	0.38387716
-EPDcoretop_E2112	Rosaceae	Rosaceae	TRSH	2	0.38387716
-EPDcoretop_E2112	Salix	Salix	TRSH	52	9.9808061
-EPDcoretop_E2112	Ulmus	Ulmus/Zelkova	TRSH	1	0.19193858
-EPDcoretop_E2112	Apiaceae	Apiaceae	HERB	2	0.38387716
-EPDcoretop_E2112	Asteraceae	Asteraceae	HERB	3	0.57581574
-EPDcoretop_E2112	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	2	0.38387716
-EPDcoretop_E2112	Brassicaceae	Brassicaceae	HERB	2	0.38387716
-EPDcoretop_E2112	Centaurea	Centaurea	HERB	1	0.19193858
-EPDcoretop_E2112	Cerealia-type	Cerealia-type	HERB	12	2.303263
-EPDcoretop_E2112	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	2	0.38387716
-EPDcoretop_E2112	Cyperaceae	Cyperaceae	HERB	2	0.38387716
-EPDcoretop_E2112	Dipsacaceae	Dipsacaceae	HERB	1	0.19193858
-EPDcoretop_E2112	Euphorbia	Euphorbia	HERB	1	0.19193858
-EPDcoretop_E2112	Fabaceae	Fabaceae	HERB	4	0.76775432
-EPDcoretop_E2112	Lamiaceae	Lamiaceae	HERB	1	0.19193858
-EPDcoretop_E2112	Mercurialis annua	Mercurialis annua	HERB	2	0.38387716
-EPDcoretop_E2112	Plantago	Plantago	HERB	4	0.76775432
-EPDcoretop_E2112	Poaceae	Poaceae	HERB	64	12.284069
-EPDcoretop_E2112	Ranunculaceae	Ranunculaceae	HERB	3	0.57581574
-EPDcoretop_E2112	Rumex hydrolapathum	Rumex aquaticus-type	HERB	2	0.38387716
-EPDcoretop_E2112	Rumex	Rumex/Oxyria	HERB	2	0.38387716
-EPDcoretop_E2112	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	2	0.38387716
-EPDcoretop_E2112	Solanaceae	Solanaceae	HERB	7	1.3435701
-EPDcoretop_E2112	Thalictrum	Thalictrum	HERB	1	0.19193858
-EPDcoretop_E2112	Zea mays	Zea mays	HERB	2	0.38387716
-EPDcoretop_E2112	Littorella	Littorella uniflora	AQUA	2	0.38387716
-EPDcoretop_E2112	Potamogeton	Potamogeton-type	AQUA	1	0.19193858
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+EPDcoretop_E2112	5	4	5	Alnus	Alnus	TRSH
+EPDcoretop_E2112	6	2	6	Apiaceae	Apiaceae	HERB
+EPDcoretop_E2112	12	17	12	Betula	Betula	TRSH
+EPDcoretop_E2112	13	2	13	Brassicaceae	Brassicaceae	HERB
+EPDcoretop_E2112	16	2	16	Carpinus	Carpinus betulus	TRSH
+EPDcoretop_E2112	24	2	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+EPDcoretop_E2112	33	2	33	Cyperaceae	Cyperaceae	HERB
+EPDcoretop_E2112	40	1	40	Euphorbia	Euphorbia	HERB
+EPDcoretop_E2112	41	4	41	Fabaceae	Fabaceae	HERB
+EPDcoretop_E2112	57	1	57	Juglans	Juglans	TRSH
+EPDcoretop_E2112	59	1	59	Lamiaceae	Lamiaceae	HERB
+EPDcoretop_E2112	61	2	61	Ligustrum	Ligustrum	TRSH
+EPDcoretop_E2112	66	2	66	Mercurialis annua	Mercurialis annua	HERB
+EPDcoretop_E2112	75	30	75	Pinus	Pinus	TRSH
+EPDcoretop_E2112	80	64	80	Poaceae	Poaceae	HERB
+EPDcoretop_E2112	99	52	99	Salix	Salix	TRSH
+EPDcoretop_E2112	112	1	112	Thalictrum	Thalictrum	HERB
+EPDcoretop_E2112	126	3	126	Picea	Picea	TRSH
+EPDcoretop_E2112	134	3	134	Asteraceae	Asteraceae	HERB
+EPDcoretop_E2112	135	3	135	Ranunculaceae	Ranunculaceae	HERB
+EPDcoretop_E2112	154	1	154	Ulmus	Ulmus/Zelkova	TRSH
+EPDcoretop_E2112	164	1	164	Dipsacaceae	Dipsacaceae	HERB
+EPDcoretop_E2112	173	2	173	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB
+EPDcoretop_E2112	189	246	189	Quercus	Quercus	TRSH
+EPDcoretop_E2112	190	1	190	Fraxinus	Fraxinus	TRSH
+EPDcoretop_E2112	192	3	42	Fagus	Fagus	TRSH
+EPDcoretop_E2112	201	2	31	Corylus	Corylus	TRSH
+EPDcoretop_E2112	435	3	55	Ilex	Ilex	TRSH
+EPDcoretop_E2112	441	16	19	Castanea	Castanea sativa	TRSH
+EPDcoretop_E2112	447	2	25	Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+EPDcoretop_E2112	492	7	492	Solanaceae	Solanaceae	HERB
+EPDcoretop_E2112	503	3	51	Hedera	Hedera	TRSH
+EPDcoretop_E2112	516	1	516	Lonicera	Lonicera	TRSH
+EPDcoretop_E2112	560	2	321	Abies	Abies	TRSH
+EPDcoretop_E2112	576	2	340	Cedrus	Cedrus	TRSH
+EPDcoretop_E2112	579	2	85	Quercus ilex	Quercus ilex-type	TRSH
+EPDcoretop_E2112	657	1	108	Potamogeton	Potamogeton-type	AQUA
+EPDcoretop_E2112	724	4	270	Plantago	Plantago	HERB
+EPDcoretop_E2112	727	2	94	Rumex	Rumex/Oxyria	HERB
+EPDcoretop_E2112	757	1	267	Centaurea	Centaurea	HERB
+EPDcoretop_E2112	812	2	423	Zea mays	Zea mays	HERB
+EPDcoretop_E2112	1065	12	22	Cerealia-type	Cerealia-type	HERB
+EPDcoretop_E2112	1227	2	82	Prunus-type	Prunus-type	TRSH
+EPDcoretop_E2112	4142	2	4141	Littorella	Littorella uniflora	AQUA
+EPDcoretop_E2112	4513	2	1084	Rumex hydrolapathum	Rumex aquaticus-type	HERB
+EPDcoretop_E2112	5022	2	123	Pseudotsuga douglasii	Larix/Pseudotsuga	TRSH
+EPDcoretop_E2112	92	2	92	Rosaceae	Rosaceae	TRSH

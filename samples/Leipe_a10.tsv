@@ -1,45 +1,45 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Leipe_a10	Abies	Abies	TRSH	3	0.52493438
-Leipe_a10	Alnus	Alnus	TRSH	1	0.17497813
-Leipe_a10	Betula	Betula	TRSH	4	0.69991251
-Leipe_a10	Carpinus viminalis-type	Carpinus betulus	TRSH	1	0.17497813
-Leipe_a10	Cedrus	Cedrus	TRSH	16	2.79965
-Leipe_a10	Ephedra fragilis-type	Ephedra fragilis-type	TRSH	2	0.34995626
-Leipe_a10	Myrica	Myrica	TRSH	1	0.17497813
-Leipe_a10	Picea	Picea	TRSH	2.5	0.43744532
-Leipe_a10	Pinus undifferentiated	Pinus	TRSH	26	4.5494313
-Leipe_a10	Pinus subgen. Haploxylon	Pinus cembra-type	TRSH	59	10.32371
-Leipe_a10	Pinus sylvestris-type	Pinus sylvestris-type	TRSH	2.5	0.43744532
-Leipe_a10	Pinus subgen. Diploxylon	Pinus sylvestris-type	TRSH	13.5	2.3622047
-Leipe_a10	Quercus cf. Q. semecarpifolia	Quercus	TRSH	1	0.17497813
-Leipe_a10	Rosaceae undifferentiated	Rosaceae	TRSH	1	0.17497813
-Leipe_a10	Sorbus-type	Sorbus-type	TRSH	3	0.52493438
-Leipe_a10	Androsace	Androsace	HERB	3	0.52493438
-Leipe_a10	Artemisia	Artemisia	HERB	32	5.5993001
-Leipe_a10	Asteraceae subfam. Cichorioideae undifferentiated	Asteraceae subf. Cichorioideae	HERB	21	3.6745407
-Leipe_a10	Astragalus/Oxytropis-type	Astragalus-type	HERB	1	0.17497813
-Leipe_a10	Brassicaceae	Brassicaceae	HERB	2	0.34995626
-Leipe_a10	Cannabis	Cannabis sativa	HERB	2	0.34995626
-Leipe_a10	Chamaerhodos-type	Chamaerhodos-type	HERB	6	1.0498688
-Leipe_a10	Chenopodiaceae/Amaranthaceae undifferentiated	Chenopodiaceae/Amaranthaceae	HERB	207	36.220472
-Leipe_a10	Taraxacum-type	Crepis-type	HERB	3	0.52493438
-Leipe_a10	Hieracium-type	Crepis-type	HERB	18	3.1496063
-Leipe_a10	Cyperaceae	Cyperaceae	HERB	9	1.5748031
-Leipe_a10	Knorringia	Knorringia	HERB	3	0.52493438
-Leipe_a10	Lomatogonium	Lomatogonium	HERB	3	0.52493438
-Leipe_a10	Anthemis-type	Matricaria-type	HERB	72	12.598425
-Leipe_a10	Poaceae undifferentiated	Poaceae	HERB	8	1.399825
-Leipe_a10	Polygonum aviculare-type	Polygonum aviculare-type	HERB	12	2.0997375
-Leipe_a10	Polygonum polycnemoides-type	Polygonum polycnemoides	HERB	6	1.0498688
-Leipe_a10	Potentilla-type	Potentilla-type	HERB	17	2.9746282
-Leipe_a10	Primula clusiana/hirsuta-type	Primula hirsuta-type	HERB	2	0.34995626
-Leipe_a10	Primula/Linaria-type	Primula/Linaria-type	HERB	2	0.34995626
-Leipe_a10	Scrophulariaceae undifferentiated	Scrophulariaceae (colporate-reticulate)	HERB	1	0.17497813
-Leipe_a10	Sedum-type	Sedum-type	HERB	4	0.69991251
-Leipe_a10	Solanum nigrum-type	Solanum nigrum-type	HERB	1	0.17497813
-Leipe_a10	Pollen, broken	Indeterminable: broken	INUN	4	
-Leipe_a10	Pollen, concealed	Indeterminable: concealed	INUN	7	
-Leipe_a10	Pollen, crumpled	Indeterminable: crumpled	INUN	13	
-Leipe_a10	Pollen, degraded	Indeterminable: degraded	INUN	4	
-Leipe_a10	Pollen indeterminata	Indeterminable: undiff.	INUN	2	
-Leipe_a10	Marker, found	Marker (counted)	NOPO	261	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Leipe_a10	2902	261	2902	Marker, found	Marker (counted)	NOPO
+Leipe_a10	2904	4	998	Pollen, broken	Indeterminable: broken	INUN
+Leipe_a10	2905	4	718	Pollen, degraded	Indeterminable: degraded	INUN
+Leipe_a10	2906	7	999	Pollen, concealed	Indeterminable: concealed	INUN
+Leipe_a10	2907	13	1925	Pollen, crumpled	Indeterminable: crumpled	INUN
+Leipe_a10	2908	2	655	Pollen indeterminata	Indeterminable: undiff.	INUN
+Leipe_a10	12	4	12	Betula	Betula	TRSH
+Leipe_a10	126	2.5	126	Picea	Picea	TRSH
+Leipe_a10	560	3	321	Abies	Abies	TRSH
+Leipe_a10	576	16	340	Cedrus	Cedrus	TRSH
+Leipe_a10	1226	2.5	125	Pinus sylvestris-type	Pinus sylvestris-type	TRSH
+Leipe_a10	2424	2	36	Ephedra fragilis-type	Ephedra fragilis-type	TRSH
+Leipe_a10	2892	26	75	Pinus undifferentiated	Pinus	TRSH
+Leipe_a10	5	1	5	Alnus	Alnus	TRSH
+Leipe_a10	33	9	33	Cyperaceae	Cyperaceae	HERB
+Leipe_a10	1232	3	107	Sorbus-type	Sorbus-type	TRSH
+Leipe_a10	2174	1	977	Myrica	Myrica	TRSH
+Leipe_a10	2911	1	189	Quercus cf. Q. semecarpifolia	Quercus	TRSH
+Leipe_a10	7	32	7	Artemisia	Artemisia	HERB
+Leipe_a10	589	72	3	Anthemis-type	Matricaria-type	HERB
+Leipe_a10	1078	12	262	Polygonum aviculare-type	Polygonum aviculare-type	HERB
+Leipe_a10	1333	3	1242	Taraxacum-type	Crepis-type	HERB
+Leipe_a10	2927	21	25	Asteraceae subfam. Cichorioideae undifferentiated	Asteraceae subf. Cichorioideae	HERB
+Leipe_a10	2928	18	1242	Hieracium-type	Crepis-type	HERB
+Leipe_a10	2930	6	2930	Polygonum polycnemoides-type	Polygonum polycnemoides	HERB
+Leipe_a10	2931	3	2931	Knorringia	Knorringia	HERB
+Leipe_a10	13	2	13	Brassicaceae	Brassicaceae	HERB
+Leipe_a10	626	17	512	Potentilla-type	Potentilla-type	HERB
+Leipe_a10	2138	3	2138	Androsace	Androsace	HERB
+Leipe_a10	2940	3	2940	Lomatogonium	Lomatogonium	HERB
+Leipe_a10	2941	6	2941	Chamaerhodos-type	Chamaerhodos-type	HERB
+Leipe_a10	2945	1	10	Astragalus/Oxytropis-type	Astragalus-type	HERB
+Leipe_a10	2946	2	2367	Primula clusiana/hirsuta-type	Primula hirsuta-type	HERB
+Leipe_a10	764	2	764	Cannabis	Cannabis sativa	HERB
+Leipe_a10	1277	1	225	Solanum nigrum-type	Solanum nigrum-type	HERB
+Leipe_a10	2805	4	105	Sedum-type	Sedum-type	HERB
+Leipe_a10	2893	13.5	125	Pinus subgen. Diploxylon	Pinus sylvestris-type	TRSH
+Leipe_a10	2894	59	124	Pinus subgen. Haploxylon	Pinus cembra-type	TRSH
+Leipe_a10	2913	1	16	Carpinus viminalis-type	Carpinus betulus	TRSH
+Leipe_a10	2919	8	80	Poaceae undifferentiated	Poaceae	HERB
+Leipe_a10	2922	207	24	Chenopodiaceae/Amaranthaceae undifferentiated	Chenopodiaceae/Amaranthaceae	HERB
+Leipe_a10	2948	2	2948	Primula/Linaria-type	Primula/Linaria-type	HERB
+Leipe_a10	2949	1	173	Scrophulariaceae undifferentiated	Scrophulariaceae (colporate-reticulate)	HERB
+Leipe_a10	2909	1	92	Rosaceae undifferentiated	Rosaceae	TRSH

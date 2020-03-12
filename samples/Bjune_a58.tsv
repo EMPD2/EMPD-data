@@ -1,39 +1,39 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Bjune_a58	Alnus	Alnus	TRSH	18	3.4816248
-Bjune_a58	Betula	Betula	TRSH	180	34.816248
-Bjune_a58	Betula/Corylus/Myrica	Betula/Corylus/Myrica	TRSH	2	0.3868472
-Bjune_a58	Calluna vulgaris	Calluna vulgaris	DWAR	1	0.1934236
-Bjune_a58	Corylus avellana	Corylus	TRSH	3	0.58027079
-Bjune_a58	Ericaceae-type	Ericales (tetrad)	DWAR	1	0.1934236
-Bjune_a58	Juniperus communis	Juniperus communis-type	TRSH	24	4.6421663
-Bjune_a58	Picea	Picea	TRSH	6	1.1605416
-Bjune_a58	Pinus sylvestris	Pinus sylvestris-type	TRSH	191	36.943907
-Bjune_a58	Quercus	Quercus	TRSH	1	0.1934236
-Bjune_a58	Rosaceae undiff.	Rosa	TRSH	1	0.1934236
-Bjune_a58	Salix undiff.	Salix	TRSH	6	1.1605416
-Bjune_a58	Sorbus aucuparia	Sorbus-type	TRSH	1	0.1934236
-Bjune_a58	Tilia cordata	Tilia cordata-type	TRSH	1	0.1934236
-Bjune_a58	Ulmus	Ulmus/Zelkova	TRSH	2	0.3868472
-Bjune_a58	Filipendula	Filipendula	HERB	2	0.3868472
-Bjune_a58	Juncaceae	Juncaceae	HERB	1	0.1934236
-Bjune_a58	Gramineae undiff.	Poaceae	HERB	10	1.934236
-Bjune_a58	Potentilla-type	Potentilla-type	HERB	2	0.3868472
-Bjune_a58	Rumex acetosa	Rumex acetosa-type	HERB	1	0.1934236
-Bjune_a58	Rumex acetosa-type/R. acetosella-type	Rumex acetosa-type	HERB	1	0.1934236
-Bjune_a58	Thalictrum	Thalictrum	HERB	1	0.1934236
-Bjune_a58	Urtica	Urtica	HERB	6	1.1605416
-Bjune_a58	Dryopteris-type	Dryopteris-type	VACR	10	1.934236
-Bjune_a58	Equisetum	Equisetum	VACR	2	0.3868472
-Bjune_a58	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR	3	0.58027079
-Bjune_a58	Selaginella selaginoides	Selaginella selaginoides	VACR	2	0.3868472
-Bjune_a58	Sphagnum	Sphagnum	BRYO	38	7.3500967
-Bjune_a58	Botryococcus	Botryococcus	ALGA	23	4.4487427
-Bjune_a58	Carex-type	Carex	AQUA	23	4.4487427
-Bjune_a58	Cyperaceae undiff.	Cyperaceae	AQUA	19	3.6750484
-Bjune_a58	Isoetes echinospora	Isoetes echinospora	AQPT	1	0.1934236
-Bjune_a58	Menyanthes trifoliata	Menyanthes trifoliata	AQUA	1	0.1934236
-Bjune_a58	Pediastrum	Pediastrum	ALGA	68	13.152805
-Bjune_a58	Ranunculus trichophyllus-type	Ranunculus aquatilis-type	AQUA	1	0.1934236
-Bjune_a58	Sparganium emersum-type	Sparganium emersum-type	AQUA	1	0.1934236
-Bjune_a58	Indeterminable: corroded	Indeterminable: corroded	INUN	1	
-Bjune_a58	Indeterminable: degraded	Indeterminable: degraded	INUN	1	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Bjune_a58	5	18	5	Alnus	Alnus	TRSH
+Bjune_a58	12	180	12	Betula	Betula	TRSH
+Bjune_a58	663	23	663	Botryococcus	Botryococcus	ALGA
+Bjune_a58	3646	1	3645	Calluna vulgaris	Calluna vulgaris	DWAR
+Bjune_a58	3665	23	3663	Carex-type	Carex	AQUA
+Bjune_a58	31	3	31	Corylus avellana	Corylus	TRSH
+Bjune_a58	3873	19	3868	Cyperaceae undiff.	Cyperaceae	AQUA
+Bjune_a58	1247	10	772	Dryopteris-type	Dryopteris-type	VACR
+Bjune_a58	3944	1	130	Ericaceae-type	Ericales (tetrad)	DWAR
+Bjune_a58	45	2	45	Filipendula	Filipendula	HERB
+Bjune_a58	4018	10	80	Gramineae undiff.	Poaceae	HERB
+Bjune_a58	2121	3	1320	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR
+Bjune_a58	4074	1	1324	Indeterminable: corroded	Indeterminable: corroded	INUN
+Bjune_a58	718	1	718	Indeterminable: degraded	Indeterminable: degraded	INUN
+Bjune_a58	2332	1	2332	Isoetes echinospora	Isoetes echinospora	AQPT
+Bjune_a58	1750	1	1750	Juncaceae	Juncaceae	HERB
+Bjune_a58	941	24	58	Juniperus communis	Juniperus communis-type	TRSH
+Bjune_a58	662	68	662	Pediastrum	Pediastrum	ALGA
+Bjune_a58	126	6	126	Picea	Picea	TRSH
+Bjune_a58	788	191	125	Pinus sylvestris	Pinus sylvestris-type	TRSH
+Bjune_a58	626	2	512	Potentilla-type	Potentilla-type	HERB
+Bjune_a58	4459	1	1182	Ranunculus trichophyllus-type	Ranunculus aquatilis-type	AQUA
+Bjune_a58	472	1	92	Rosaceae undiff.	Rosaceae	TRSH
+Bjune_a58	4504	1	95	Rumex acetosa-type/R. acetosella-type	Rumex acetosa-type	HERB
+Bjune_a58	1400	6	99	Salix undiff.	Salix	TRSH
+Bjune_a58	874	2	185	Selaginella selaginoides	Selaginella selaginoides	VACR
+Bjune_a58	2388	1	107	Sorbus aucuparia	Sorbus-type	TRSH
+Bjune_a58	4610	1	4608	Sparganium emersum-type	Sparganium emersum-type	AQUA
+Bjune_a58	144	38	144	Sphagnum	Sphagnum	BRYO
+Bjune_a58	112	1	112	Thalictrum	Thalictrum	HERB
+Bjune_a58	1406	1	153	Tilia cordata	Tilia cordata-type	TRSH
+Bjune_a58	154	2	154	Ulmus	Ulmus/Zelkova	TRSH
+Bjune_a58	652	6	652	Urtica	Urtica	HERB
+Bjune_a58	95	1	95	Rumex acetosa	Rumex acetosa-type	HERB
+Bjune_a58	145	2	145	Equisetum	Equisetum	VACR
+Bjune_a58	189	1	189	Quercus	Quercus	TRSH
+Bjune_a58	961	1	175	Menyanthes trifoliata	Menyanthes trifoliata	AQUA
+Bjune_a58	3619	2	3619	Betula/Corylus/Myrica	Betula/Corylus/Myrica	TRSH

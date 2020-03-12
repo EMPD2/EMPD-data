@@ -1,33 +1,33 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-EPDcoretop_E2556	Alnus	Alnus	TRSH	144	13.114754
-EPDcoretop_E2556	Betula	Betula	TRSH	474	43.169399
-EPDcoretop_E2556	Calluna	Calluna vulgaris	DWAR	44	4.007286
-EPDcoretop_E2556	Corylus	Corylus	TRSH	7	0.63752277
-EPDcoretop_E2556	Juglans	Juglans	TRSH	1	0.091074681
-EPDcoretop_E2556	Juniperus	Juniperus communis-type	TRSH	1	0.091074681
-EPDcoretop_E2556	Picea	Picea	TRSH	65	5.9198543
-EPDcoretop_E2556	Pinus	Pinus	TRSH	299	27.23133
-EPDcoretop_E2556	Quercus	Quercus	TRSH	4	0.36429872
-EPDcoretop_E2556	Salix	Salix	TRSH	5	0.45537341
-EPDcoretop_E2556	Ulmus	Ulmus/Zelkova	TRSH	1	0.091074681
-EPDcoretop_E2556	Artemisia	Artemisia	HERB	9	0.81967213
-EPDcoretop_E2556	Compositae subf. Asteroideae	Asteraceae subf. Asteroideae	HERB	1	0.091074681
-EPDcoretop_E2556	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB	1	0.091074681
-EPDcoretop_E2556	Avena-type	Avena-type	HERB	2	0.18214936
-EPDcoretop_E2556	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	6	0.54644809
-EPDcoretop_E2556	Cyperaceae	Cyperaceae	HERB	4	0.36429872
-EPDcoretop_E2556	Filipendula	Filipendula	HERB	4	0.36429872
-EPDcoretop_E2556	Hordeum-type	Hordeum-type	HERB	2	0.18214936
-EPDcoretop_E2556	Gramineae	Poaceae	HERB	18	1.6393443
-EPDcoretop_E2556	Polygonum aviculare-type	Polygonum aviculare-type	HERB	1	0.091074681
-EPDcoretop_E2556	Rumex acetosa/R. acetosella-type	Rumex acetosa-type	HERB	1	0.091074681
-EPDcoretop_E2556	Triticum-type	Triticum-type	HERB	1	0.091074681
-EPDcoretop_E2556	Urtica	Urtica	HERB	2	0.18214936
-EPDcoretop_E2556	Sphagnum	Sphagnum	BRYO	1	0.091074681
-EPDcoretop_E2556	Typha/Sparganium-type	Sparganium-type	AQUA	1	0.091074681
-EPDcoretop_E2556	Charcoal >10µm	Charcoal >10µm	CHAR	277	
-EPDcoretop_E2556	Arcella artocrea	Arcella artocrea	RHIZ	3	
-EPDcoretop_E2556	Assulina seminulum	Assulina seminulum	RHIZ	110	
-EPDcoretop_E2556	Nebela collaris	Nebela collaris	RHIZ	1	
-EPDcoretop_E2556	Stomata	Stomata	VEMI	8	
-EPDcoretop_E2556	Tilletia	Tilletia	FUNG	4	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+EPDcoretop_E2556	731	4	731	Tilletia	Tilletia	FUNG
+EPDcoretop_E2556	843	110	843	Assulina seminulum	Assulina seminulum	RHIZ
+EPDcoretop_E2556	5127	3	5127	Arcella artocrea	Arcella artocrea	RHIZ
+EPDcoretop_E2556	2981	8	2771	Stomata	Stomata	VEMI
+EPDcoretop_E2556	4932	277	4932	Charcoal >10µm	Charcoal >10µm	CHAR
+EPDcoretop_E2556	5128	1	5128	Nebela collaris	Nebela collaris	RHIZ
+EPDcoretop_E2556	5	144	5	Alnus	Alnus	TRSH
+EPDcoretop_E2556	7	9	7	Artemisia	Artemisia	HERB
+EPDcoretop_E2556	12	474	12	Betula	Betula	TRSH
+EPDcoretop_E2556	24	6	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+EPDcoretop_E2556	33	4	33	Cyperaceae	Cyperaceae	HERB
+EPDcoretop_E2556	45	4	45	Filipendula	Filipendula	HERB
+EPDcoretop_E2556	57	1	57	Juglans	Juglans	TRSH
+EPDcoretop_E2556	58	1	58	Juniperus	Juniperus communis-type	TRSH
+EPDcoretop_E2556	75	299	75	Pinus	Pinus	TRSH
+EPDcoretop_E2556	99	5	99	Salix	Salix	TRSH
+EPDcoretop_E2556	126	65	126	Picea	Picea	TRSH
+EPDcoretop_E2556	144	1	144	Sphagnum	Sphagnum	BRYO
+EPDcoretop_E2556	154	1	154	Ulmus	Ulmus/Zelkova	TRSH
+EPDcoretop_E2556	189	4	189	Quercus	Quercus	TRSH
+EPDcoretop_E2556	201	7	31	Corylus	Corylus	TRSH
+EPDcoretop_E2556	652	2	652	Urtica	Urtica	HERB
+EPDcoretop_E2556	949	2	258	Hordeum-type	Hordeum-type	HERB
+EPDcoretop_E2556	1078	1	262	Polygonum aviculare-type	Polygonum aviculare-type	HERB
+EPDcoretop_E2556	1215	2	1111	Avena-type	Avena-type	HERB
+EPDcoretop_E2556	1233	1	1199	Triticum-type	Triticum-type	HERB
+EPDcoretop_E2556	1601	18	80	Gramineae	Poaceae	HERB
+EPDcoretop_E2556	2436	1	176	Typha/Sparganium-type	Sparganium-type	AQUA
+EPDcoretop_E2556	3645	44	3645	Calluna	Calluna vulgaris	DWAR
+EPDcoretop_E2556	3822	1	160	Compositae subf. Asteroideae	Asteraceae subf. Asteroideae	HERB
+EPDcoretop_E2556	3824	1	25	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+EPDcoretop_E2556	4506	1	95	Rumex acetosa/R. acetosella-type	Rumex acetosa-type	HERB

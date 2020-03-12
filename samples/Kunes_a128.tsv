@@ -1,32 +1,32 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Kunes_a128	Abies	Abies	TRSH	6	1.0657194
-Kunes_a128	Alnus viridis	Alnus viridis	TRSH	9	1.598579
-Kunes_a128	Betula	Betula	TRSH	112	19.893428
-Kunes_a128	Betula nana	Betula nana-type	DWAR	9	1.598579
-Kunes_a128	Empetrum-group	Empetrum nigrum	DWAR	1	0.17761989
-Kunes_a128	Fagus	Fagus	TRSH	1	0.17761989
-Kunes_a128	Larix/Pseudotsuga	Larix/Pseudotsuga	TRSH	1	0.17761989
-Kunes_a128	Picea	Picea	TRSH	1	0.17761989
-Kunes_a128	Pinus	Pinus	TRSH	27	4.7957371
-Kunes_a128	Pinus cembra-type	Pinus cembra-type	TRSH	313	55.595027
-Kunes_a128	Prunoideae	Prunus-type	TRSH	1	0.17761989
-Kunes_a128	Rosa	Rosa	TRSH	3	0.53285968
-Kunes_a128	Rosaceae	Rosaceae	TRSH	1	0.17761989
-Kunes_a128	Salix	Salix	TRSH	2	0.35523979
-Kunes_a128	Sorbus/Cotoneaster	Sorbus-type	TRSH	1	0.17761989
-Kunes_a128	Vaccinium-type	Vaccinium-type	DWAR	9	1.598579
-Kunes_a128	Aconitum-type	Aconitum	HERB	1	0.17761989
-Kunes_a128	Artemisia	Artemisia	HERB	20	3.5523979
-Kunes_a128	Cerastium	Cerastium-type	HERB	1	0.17761989
-Kunes_a128	Cerealia undiff.	Cerealia-type	HERB	1	0.17761989
-Kunes_a128	Chenopodiaceae pro parte	Chenopodiaceae/Amaranthaceae	HERB	4	0.71047957
-Kunes_a128	Poaceae wild grass-type	Poaceae	HERB	3	0.53285968
-Kunes_a128	Ranunculus acris-type	Ranunculus acris-type	HERB	1	0.17761989
-Kunes_a128	Thalictrum	Thalictrum	HERB	1	0.17761989
-Kunes_a128	Urtica	Urtica	HERB	1	0.17761989
-Kunes_a128	Athyrium filix-femina	Athyrium filix-femina	VACR	5	0.88809947
-Kunes_a128	Dryopteris filix-mas-type	Dryopteris filix-mas-type	VACR	17	3.0195382
-Kunes_a128	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR	2	0.35523979
-Kunes_a128	Lycopodium annotinum	Lycopodium annotinum-type	VACR	1	0.17761989
-Kunes_a128	Monolete fern spores	Monolete fern spores	VACR	8	1.4209591
-Kunes_a128	Varia	Indeterminable: unknown	INUN	2	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Kunes_a128	3501	1	585	Aconitum-type	Aconitum	HERB
+Kunes_a128	561	9	129	Alnus viridis	Alnus viridis	TRSH
+Kunes_a128	7	20	7	Artemisia	Artemisia	HERB
+Kunes_a128	215	5	215	Athyrium filix-femina	Athyrium filix-femina	VACR
+Kunes_a128	12	112	12	Betula	Betula	TRSH
+Kunes_a128	1363	9	127	Betula nana	Betula nana-type	DWAR
+Kunes_a128	822	1	22	Cerealia undiff.	Cerealia-type	HERB
+Kunes_a128	2595	17	220	Dryopteris filix-mas-type	Dryopteris filix-mas-type	VACR
+Kunes_a128	3921	1	739	Empetrum-group	Empetrum nigrum	DWAR
+Kunes_a128	2336	1	123	Larix/Pseudotsuga	Larix/Pseudotsuga	TRSH
+Kunes_a128	965	1	183	Lycopodium annotinum	Lycopodium annotinum-type	VACR
+Kunes_a128	126	1	126	Picea	Picea	TRSH
+Kunes_a128	75	27	75	Pinus	Pinus	TRSH
+Kunes_a128	4400	1	82	Prunoideae	Prunus-type	TRSH
+Kunes_a128	630	1	87	Ranunculus acris-type	Ranunculus acris-type	HERB
+Kunes_a128	1083	3	632	Rosa	Rosa	TRSH
+Kunes_a128	92	1	92	Rosaceae	Rosaceae	TRSH
+Kunes_a128	4603	1	107	Sorbus/Cotoneaster	Sorbus-type	TRSH
+Kunes_a128	112	1	112	Thalictrum	Thalictrum	HERB
+Kunes_a128	652	1	652	Urtica	Urtica	HERB
+Kunes_a128	4730	9	4730	Vaccinium-type	Vaccinium-type	DWAR
+Kunes_a128	1098	2	177	Varia	Indeterminable: unknown	INUN
+Kunes_a128	21	1	21	Cerastium	Cerastium-type	HERB
+Kunes_a128	99	2	99	Salix	Salix	TRSH
+Kunes_a128	192	1	42	Fagus	Fagus	TRSH
+Kunes_a128	560	6	321	Abies	Abies	TRSH
+Kunes_a128	2121	2	1320	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR
+Kunes_a128	3787	4	24	Chenopodiaceae pro parte	Chenopodiaceae/Amaranthaceae	HERB
+Kunes_a128	4193	8	146	Monolete fern spores	Monolete fern spores	VACR
+Kunes_a128	4298	313	124	Pinus cembra-type	Pinus cembra-type	TRSH
+Kunes_a128	4352	3	80	Poaceae wild grass-type	Poaceae	HERB

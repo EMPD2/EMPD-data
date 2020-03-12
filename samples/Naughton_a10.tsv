@@ -1,41 +1,41 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Naughton_a10	Alnus	Alnus	TRSH	5	1.5576324
-Naughton_a10	Calluna	Calluna vulgaris	DWAR	2	0.62305296
-Naughton_a10	Corylus	Corylus	TRSH	1	0.31152648
-Naughton_a10	Ericaceae	Ericales (tetrad)	DWAR	60	18.691589
-Naughton_a10	Olea	Olea europaea	TRSH	37	11.52648
-Naughton_a10	Pinus	Pinus	TRSH	50	15.576324
-Naughton_a10	Quercus suber-type	Quercus cerris-type	TRSH	3	0.93457944
-Naughton_a10	Quercus ilex-type	Quercus ilex-type	TRSH	7	2.1806854
-Naughton_a10	Quercus deciduous	Quercus robur-type	TRSH	25	7.788162
-Naughton_a10	Rosaceae	Rosaceae	TRSH	2	0.62305296
-Naughton_a10	Salix	Salix	TRSH	2	0.62305296
-Naughton_a10	Ulmus	Ulmus/Zelkova	TRSH	3	0.93457944
-Naughton_a10	Aster-type	Aster-type	HERB	8	2.4922118
-Naughton_a10	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	2	0.62305296
-Naughton_a10	Centaurea scabiosa-type	Centaurea scabiosa-type	HERB	1	0.31152648
-Naughton_a10	Cerealia-type	Cerealia-type	HERB	1	0.31152648
-Naughton_a10	Chenopodiaceae-type	Chenopodiaceae/Amaranthaceae	HERB	23	7.165109
-Naughton_a10	Cistus	Cistus	HERB	5	1.5576324
-Naughton_a10	Taraxacum-type	Crepis-type	HERB	14	4.3613707
-Naughton_a10	Filipendula	Filipendula	HERB	1	0.31152648
-Naughton_a10	Helianthemum	Helianthemum	HERB	1	0.31152648
-Naughton_a10	Anthemis-type	Matricaria-type	HERB	2	0.62305296
-Naughton_a10	Plantago	Plantago	HERB	18	5.6074766
-Naughton_a10	Poaceae	Poaceae	HERB	28	8.7227414
-Naughton_a10	Ranunculaceae	Ranunculaceae	HERB	1	0.31152648
-Naughton_a10	Rumex-type	Rumex/Oxyria	HERB	8	2.4922118
-Naughton_a10	Sanguisorba minor subsp. minor	Sanguisorba minor-type	HERB	1	0.31152648
-Naughton_a10	Monolete fern spores (psilate)	Monolete fern spores	VACR	5	1.5576324
-Naughton_a10	Monolete fern spores	Monolete fern spores	VACR	1	0.31152648
-Naughton_a10	Trilete spores (psilate)	Trilete spore(s)	VACR	4	1.2461059
-Naughton_a10	Cyperaceae	Cyperaceae	AQUA	7	2.1806854
-Naughton_a10	Isoetes	Isoetes	AQPT	27	8.411215
-Naughton_a10	Myriophyllum alterniflorum	Myriophyllum alterniflorum	AQUA	1	0.31152648
-Naughton_a10	Indeterminable: broken	Indeterminable: broken	INUN	11	
-Naughton_a10	Indeterminable: concealed	Indeterminable: concealed	INUN	13	
-Naughton_a10	Indeterminable: corroded	Indeterminable: corroded	INUN	18	
-Naughton_a10	Indeterminable: crumpled	Indeterminable: crumpled	INUN	5	
-Naughton_a10	Counted exote	Counted exote	NOPO	231	
-Naughton_a10	Lycopodium (added)	Lycopodium (added)	NOPO	21358	
-Naughton_a10	Sample volume	Sample volume	NOPO	2	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Naughton_a10	5	5	5	Alnus	Alnus	TRSH
+Naughton_a10	597	8	11	Aster-type	Aster-type	HERB
+Naughton_a10	3645	2	3645	Calluna	Calluna vulgaris	DWAR
+Naughton_a10	18	2	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Naughton_a10	1064	1	1064	Centaurea scabiosa-type	Centaurea scabiosa-type	HERB
+Naughton_a10	1065	1	22	Cerealia-type	Cerealia-type	HERB
+Naughton_a10	2558	23	24	Chenopodiaceae-type	Chenopodiaceae/Amaranthaceae	HERB
+Naughton_a10	3796	5	3796	Cistus	Cistus	HERB
+Naughton_a10	3854	231	3854	Counted exote	Counted exote	NOPO
+Naughton_a10	3868	7	3868	Cyperaceae	Cyperaceae	AQUA
+Naughton_a10	45	1	45	Filipendula	Filipendula	HERB
+Naughton_a10	52	1	52	Helianthemum	Helianthemum	HERB
+Naughton_a10	4072	11	998	Indeterminable: broken	Indeterminable: broken	INUN
+Naughton_a10	4073	13	999	Indeterminable: concealed	Indeterminable: concealed	INUN
+Naughton_a10	4074	18	1324	Indeterminable: corroded	Indeterminable: corroded	INUN
+Naughton_a10	4075	5	1925	Indeterminable: crumpled	Indeterminable: crumpled	INUN
+Naughton_a10	552	27	366	Isoetes	Isoetes	AQPT
+Naughton_a10	692	21358	692	Lycopodium (added)	Lycopodium (added)	NOPO
+Naughton_a10	4193	1	146	Monolete fern spores	Monolete fern spores	VACR
+Naughton_a10	1971	1	1841	Myriophyllum alterniflorum	Myriophyllum alterniflorum	AQUA
+Naughton_a10	442	37	68	Olea	Olea europaea	TRSH
+Naughton_a10	80	28	80	Poaceae	Poaceae	HERB
+Naughton_a10	437	25	86	Quercus deciduous	Quercus robur-type	TRSH
+Naughton_a10	1052	7	85	Quercus ilex-type	Quercus ilex-type	TRSH
+Naughton_a10	2792	3	84	Quercus suber-type	Quercus cerris-type	TRSH
+Naughton_a10	135	1	135	Ranunculaceae	Ranunculaceae	HERB
+Naughton_a10	4520	8	94	Rumex-type	Rumex/Oxyria	HERB
+Naughton_a10	99	2	99	Salix	Salix	TRSH
+Naughton_a10	4541	2	1894	Sample volume	Sample volume	NOPO
+Naughton_a10	4545	1	101	Sanguisorba minor subsp. minor	Sanguisorba minor-type	HERB
+Naughton_a10	1333	14	1242	Taraxacum-type	Crepis-type	HERB
+Naughton_a10	4687	4	279	Trilete spores (psilate)	Trilete spore(s)	VACR
+Naughton_a10	75	50	75	Pinus	Pinus	TRSH
+Naughton_a10	130	60	130	Ericaceae	Ericales (tetrad)	DWAR
+Naughton_a10	154	3	154	Ulmus	Ulmus/Zelkova	TRSH
+Naughton_a10	201	1	31	Corylus	Corylus	TRSH
+Naughton_a10	589	2	3	Anthemis-type	Matricaria-type	HERB
+Naughton_a10	724	18	270	Plantago	Plantago	HERB
+Naughton_a10	4194	5	146	Monolete fern spores (psilate)	Monolete fern spores	VACR
+Naughton_a10	92	2	92	Rosaceae	Rosaceae	TRSH

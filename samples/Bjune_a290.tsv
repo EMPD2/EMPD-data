@@ -1,38 +1,38 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Bjune_a290	Alnus	Alnus	TRSH	80	12.820513
-Bjune_a290	Betula	Betula	TRSH	164	26.282051
-Bjune_a290	Calluna vulgaris	Calluna vulgaris	DWAR	2	0.32051282
-Bjune_a290	Corylus avellana	Corylus	TRSH	8	1.2820513
-Bjune_a290	Ericaceae-type	Ericales (tetrad)	DWAR	1	0.16025641
-Bjune_a290	Juniperus communis	Juniperus communis-type	TRSH	4	0.64102564
-Bjune_a290	Picea	Picea	TRSH	34	5.4487179
-Bjune_a290	Pinus sylvestris	Pinus sylvestris-type	TRSH	77	12.339744
-Bjune_a290	Quercus	Quercus	TRSH	10	1.6025641
-Bjune_a290	Salix undiff.	Salix	TRSH	4	0.64102564
-Bjune_a290	Tilia cordata	Tilia cordata-type	TRSH	4	0.64102564
-Bjune_a290	Ulmus	Ulmus/Zelkova	TRSH	2	0.32051282
-Bjune_a290	Aconitum septentrionale	Aconitum	HERB	1	0.16025641
-Bjune_a290	Anemone nemorosa-type/Hepatica nobilis	Anemone nemorosa-type	HERB	1	0.16025641
-Bjune_a290	Filipendula	Filipendula	HERB	2	0.32051282
-Bjune_a290	Achillea-type	Matricaria-type	HERB	1	0.16025641
-Bjune_a290	Plantago lanceolata	Plantago lanceolata-type	HERB	1	0.16025641
-Bjune_a290	Gramineae undiff.	Poaceae	HERB	15	2.4038462
-Bjune_a290	Potentilla-type	Potentilla-type	HERB	1	0.16025641
-Bjune_a290	Rumex acetosa-type/R. acetosella-type	Rumex acetosa-type	HERB	2	0.32051282
-Bjune_a290	Rumex acetosella-type	Rumex acetosella	HERB	2	0.32051282
-Bjune_a290	Trifolium pratense-type	Trifolium pratense-type	HERB	1	0.16025641
-Bjune_a290	Urtica	Urtica	HERB	4	0.64102564
-Bjune_a290	Dryopteris-type	Dryopteris-type	VACR	186	29.807692
-Bjune_a290	Equisetum	Equisetum	VACR	1	0.16025641
-Bjune_a290	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR	5	0.80128205
-Bjune_a290	Lycopodium annotinum	Lycopodium annotinum-type	VACR	8	1.2820513
-Bjune_a290	Diphasiastrum	Lycopodium clavatum-type	VACR	1	0.16025641
-Bjune_a290	Thelypteris phegopteris	Phegopteris connectilis	VACR	1	0.16025641
-Bjune_a290	Pteridium aquilinum	Pteridium aquilinum	VACR	1	0.16025641
-Bjune_a290	Scheuchzeria palustris	Scheuchzeria palustris	AQUA	1	0.16025641
-Bjune_a290	Indeterminable: broken	Indeterminable: broken	INUN	2	
-Bjune_a290	Indeterminable: corroded	Indeterminable: corroded	INUN	7	
-Bjune_a290	Indeterminable: degraded	Indeterminable: degraded	INUN	1	
-Bjune_a290	Nymphaeaceae: leaf hair base	Nymphaeaceae: leaf hairs base	NOPO	2	
-Bjune_a290	Nymphaeaceae: star cell	Nymphaeaceae: star cell	NOPO	28	
-Bjune_a290	Pinus: stomata	Pinus: stomata	MACR	1	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Bjune_a290	3499	1	585	Aconitum septentrionale	Aconitum	HERB
+Bjune_a290	5	80	5	Alnus	Alnus	TRSH
+Bjune_a290	12	164	12	Betula	Betula	TRSH
+Bjune_a290	31	8	31	Corylus avellana	Corylus	TRSH
+Bjune_a290	3894	1	182	Diphasiastrum	Lycopodium clavatum-type	VACR
+Bjune_a290	1247	186	772	Dryopteris-type	Dryopteris-type	VACR
+Bjune_a290	145	1	145	Equisetum	Equisetum	VACR
+Bjune_a290	45	2	45	Filipendula	Filipendula	HERB
+Bjune_a290	4018	15	80	Gramineae undiff.	Poaceae	HERB
+Bjune_a290	4072	2	998	Indeterminable: broken	Indeterminable: broken	INUN
+Bjune_a290	4074	7	1324	Indeterminable: corroded	Indeterminable: corroded	INUN
+Bjune_a290	718	1	718	Indeterminable: degraded	Indeterminable: degraded	INUN
+Bjune_a290	941	4	58	Juniperus communis	Juniperus communis-type	TRSH
+Bjune_a290	965	8	183	Lycopodium annotinum	Lycopodium annotinum-type	VACR
+Bjune_a290	4226	2	4226	Nymphaeaceae: leaf hair base	Nymphaeaceae: leaf hairs base	NOPO
+Bjune_a290	4227	28	4227	Nymphaeaceae: star cell	Nymphaeaceae: star cell	NOPO
+Bjune_a290	126	34	126	Picea	Picea	TRSH
+Bjune_a290	788	77	125	Pinus sylvestris	Pinus sylvestris-type	TRSH
+Bjune_a290	4310	1	4310	Pinus: stomata	Pinus: stomata	MACR
+Bjune_a290	60	1	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+Bjune_a290	626	1	512	Potentilla-type	Potentilla-type	HERB
+Bjune_a290	189	10	189	Quercus	Quercus	TRSH
+Bjune_a290	4504	2	95	Rumex acetosa-type/R. acetosella-type	Rumex acetosa-type	HERB
+Bjune_a290	1398	2	96	Rumex acetosella-type	Rumex acetosella	HERB
+Bjune_a290	4568	1	4567	Scheuchzeria palustris	Scheuchzeria palustris	AQUA
+Bjune_a290	1406	4	153	Tilia cordata	Tilia cordata-type	TRSH
+Bjune_a290	1283	1	114	Trifolium pratense-type	Trifolium pratense-type	HERB
+Bjune_a290	154	2	154	Ulmus	Ulmus/Zelkova	TRSH
+Bjune_a290	180	1	180	Pteridium aquilinum	Pteridium aquilinum	VACR
+Bjune_a290	652	4	652	Urtica	Urtica	HERB
+Bjune_a290	943	1	3	Achillea-type	Matricaria-type	HERB
+Bjune_a290	1400	4	99	Salix undiff.	Salix	TRSH
+Bjune_a290	2121	5	1320	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR
+Bjune_a290	3538	1	588	Anemone nemorosa-type/Hepatica nobilis	Anemone nemorosa-type	HERB
+Bjune_a290	3646	2	3645	Calluna vulgaris	Calluna vulgaris	DWAR
+Bjune_a290	3944	1	130	Ericaceae-type	Ericales (tetrad)	DWAR
+Bjune_a290	4660	1	1541	Thelypteris phegopteris	Phegopteris connectilis	VACR

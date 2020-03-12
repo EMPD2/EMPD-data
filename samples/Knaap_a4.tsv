@@ -1,52 +1,52 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Knaap_a4	Alnus glutinosa-type	Alnus glutinosa-type	TRSH	7	0.86848635
-Knaap_a4	Alnus viridis	Alnus viridis	TRSH	24	2.9776675
-Knaap_a4	Betula	Betula	TRSH	45	5.5831266
-Knaap_a4	Castanea sativa	Castanea sativa	TRSH	12	1.4888337
-Knaap_a4	Corylus avellana	Corylus	TRSH	4	0.49627792
-Knaap_a4	Fagus	Fagus	TRSH	2	0.24813896
-Knaap_a4	Fraxinus excelsior	Fraxinus excelsior-type	TRSH	11	1.3647643
-Knaap_a4	Juglans	Juglans	TRSH	1	0.12406948
-Knaap_a4	Juniperus	Juniperus communis-type	TRSH	3	0.37220844
-Knaap_a4	Larix	Larix/Pseudotsuga	TRSH	42	5.2109181
-Knaap_a4	Ligustrum	Ligustrum	TRSH	1	0.12406948
-Knaap_a4	Olea	Olea europaea	TRSH	2	0.24813896
-Knaap_a4	Ostrya-type	Ostrya/Carpinus orientalis	TRSH	3	0.37220844
-Knaap_a4	Picea	Picea	TRSH	65	8.0645161
-Knaap_a4	Pinus cembra	Pinus cembra-type	TRSH	470	58.312655
-Knaap_a4	Pinus subg. Pinus	Pinus sylvestris-type	TRSH	2	0.24813896
-Knaap_a4	Platanus	Platanus	TRSH	1	0.12406948
-Knaap_a4	Quercus	Quercus	TRSH	11	1.3647643
-Knaap_a4	Rhododendron	Rhododendron	TRSH	1	0.12406948
-Knaap_a4	Salix	Salix	TRSH	2	0.24813896
-Knaap_a4	Sambucus nigra	Sambucus nigra	TRSH	2	0.24813896
-Knaap_a4	Vaccinium	Vaccinium	DWAR	6	0.74441687
-Knaap_a4	Vitis	Vitis	LIAN	1	0.12406948
-Knaap_a4	Artemisia	Artemisia	HERB	7	0.86848635
-Knaap_a4	Aster-type	Aster-type	HERB	1	0.12406948
-Knaap_a4	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB	2	0.24813896
-Knaap_a4	Cerealia	Cerealia-type	HERB	1	0.12406948
-Knaap_a4	Labiatae	Lamiaceae	HERB	1	0.12406948
-Knaap_a4	Achillea-type	Matricaria-type	HERB	2	0.24813896
-Knaap_a4	Melampyrum	Melampyrum	HERB	1	0.12406948
-Knaap_a4	Campanula	Phyteuma-type	HERB	1	0.12406948
-Knaap_a4	Plantago lanceolata-type	Plantago lanceolata-type	HERB	8	0.99255583
-Knaap_a4	Plantago alpina-type	Plantago maritima-type	HERB	1	0.12406948
-Knaap_a4	Gramineae	Poaceae	HERB	40	4.9627792
-Knaap_a4	Ranunculus acris-type	Ranunculus acris-type	HERB	3	0.37220844
-Knaap_a4	Rubiaceae	Rubiaceae	HERB	2	0.24813896
-Knaap_a4	Rumex acetosa-type	Rumex acetosa-type	HERB	2	0.24813896
-Knaap_a4	Rumex obtusifolius-type	Rumex crispus-type	HERB	1	0.12406948
-Knaap_a4	Saxifraga oppositifolia-type	Saxifraga oppositifolia-type	HERB	1	0.12406948
-Knaap_a4	Silene dioica-type	Silene dioica-type	HERB	1	0.12406948
-Knaap_a4	Thalictrum	Thalictrum	HERB	2	0.24813896
-Knaap_a4	Urtica	Urtica	HERB	7	0.86848635
-Knaap_a4	Athyrium filix-femina	Athyrium filix-femina	VACR	1	0.12406948
-Knaap_a4	Botrychium	Botrychium	VACR	1	0.12406948
-Knaap_a4	Dryopteris filix-mas-type	Dryopteris filix-mas-type	VACR	1	0.12406948
-Knaap_a4	Monolete fern spores	Monolete fern spores	VACR	1	0.12406948
-Knaap_a4	Cyperaceae	Cyperaceae	AQUA	5	0.62034739
-Knaap_a4	Counted exote	Counted exote	NOPO	13	
-Knaap_a4	Lycopodium (grains/tablet)	Lycopodium (spores/tablet)	NOPO	18583	
-Knaap_a4	Lycopodium tablets (number)	Lycopodium tablets (number)	NOPO	2	
-Knaap_a4	Sporormiella	Sporormiella-type	FUNG	1	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Knaap_a4	943	2	3	Achillea-type	Matricaria-type	HERB
+Knaap_a4	155	7	155	Alnus glutinosa-type	Alnus glutinosa-type	TRSH
+Knaap_a4	561	24	129	Alnus viridis	Alnus viridis	TRSH
+Knaap_a4	597	1	11	Aster-type	Aster-type	HERB
+Knaap_a4	215	1	215	Athyrium filix-femina	Athyrium filix-femina	VACR
+Knaap_a4	962	1	962	Botrychium	Botrychium	VACR
+Knaap_a4	602	1	483	Campanula	Phyteuma-type	HERB
+Knaap_a4	19	12	19	Castanea sativa	Castanea sativa	TRSH
+Knaap_a4	22	1	22	Cerealia	Cerealia-type	HERB
+Knaap_a4	3824	2	25	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Knaap_a4	31	4	31	Corylus avellana	Corylus	TRSH
+Knaap_a4	3854	13	3854	Counted exote	Counted exote	NOPO
+Knaap_a4	3868	5	3868	Cyperaceae	Cyperaceae	AQUA
+Knaap_a4	2595	1	220	Dryopteris filix-mas-type	Dryopteris filix-mas-type	VACR
+Knaap_a4	192	2	42	Fagus	Fagus	TRSH
+Knaap_a4	47	11	47	Fraxinus excelsior	Fraxinus excelsior-type	TRSH
+Knaap_a4	57	1	57	Juglans	Juglans	TRSH
+Knaap_a4	485	1	59	Labiatae	Lamiaceae	HERB
+Knaap_a4	123	42	123	Larix	Larix/Pseudotsuga	TRSH
+Knaap_a4	61	1	61	Ligustrum	Ligustrum	TRSH
+Knaap_a4	2111	18583	1293	Lycopodium (grains/tablet)	Lycopodium (spores/tablet)	NOPO
+Knaap_a4	4163	2	1295	Lycopodium tablets (number)	Lycopodium tablets (number)	NOPO
+Knaap_a4	473	1	473	Melampyrum	Melampyrum	HERB
+Knaap_a4	4193	1	146	Monolete fern spores	Monolete fern spores	VACR
+Knaap_a4	442	2	68	Olea	Olea europaea	TRSH
+Knaap_a4	572	3	70	Ostrya-type	Ostrya/Carpinus orientalis	TRSH
+Knaap_a4	126	65	126	Picea	Picea	TRSH
+Knaap_a4	573	470	124	Pinus cembra	Pinus cembra-type	TRSH
+Knaap_a4	4307	2	125	Pinus subg. Pinus	Pinus sylvestris-type	TRSH
+Knaap_a4	2577	1	64	Plantago alpina-type	Plantago maritima-type	HERB
+Knaap_a4	78	1	78	Platanus	Platanus	TRSH
+Knaap_a4	189	11	189	Quercus	Quercus	TRSH
+Knaap_a4	630	3	87	Ranunculus acris-type	Ranunculus acris-type	HERB
+Knaap_a4	480	1	480	Rhododendron	Rhododendron	TRSH
+Knaap_a4	634	2	95	Rumex acetosa-type	Rumex acetosa-type	HERB
+Knaap_a4	99	2	99	Salix	Salix	TRSH
+Knaap_a4	100	2	100	Sambucus nigra	Sambucus nigra	TRSH
+Knaap_a4	956	1	640	Saxifraga oppositifolia-type	Saxifraga oppositifolia-type	HERB
+Knaap_a4	958	1	106	Silene dioica-type	Silene dioica-type	HERB
+Knaap_a4	677	1	557	Sporormiella	Sporormiella-type	FUNG
+Knaap_a4	4756	1	4756	Vitis	Vitis	LIAN
+Knaap_a4	7	7	7	Artemisia	Artemisia	HERB
+Knaap_a4	12	45	12	Betula	Betula	TRSH
+Knaap_a4	58	3	58	Juniperus	Juniperus communis-type	TRSH
+Knaap_a4	112	2	112	Thalictrum	Thalictrum	HERB
+Knaap_a4	652	7	652	Urtica	Urtica	HERB
+Knaap_a4	1075	8	60	Plantago lanceolata-type	Plantago lanceolata-type	HERB
+Knaap_a4	1601	40	80	Gramineae	Poaceae	HERB
+Knaap_a4	4515	1	251	Rumex obtusifolius-type	Rumex crispus-type	HERB
+Knaap_a4	4725	6	4725	Vaccinium	Vaccinium	DWAR
+Knaap_a4	93	2	93	Rubiaceae	Rubiaceae	HERB

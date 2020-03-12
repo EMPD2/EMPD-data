@@ -1,35 +1,35 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Bjune_a45	Alnus	Alnus	TRSH	28	4.9469965
-Bjune_a45	Betula	Betula	TRSH	112	19.787986
-Bjune_a45	Corylus avellana	Corylus	TRSH	3	0.53003534
-Bjune_a45	Empetrum nigrum	Empetrum nigrum	DWAR	1	0.17667845
-Bjune_a45	Ericaceae-type	Ericales (tetrad)	DWAR	5	0.88339223
-Bjune_a45	Juniperus communis	Juniperus communis-type	TRSH	13	2.2968198
-Bjune_a45	Picea	Picea	TRSH	89	15.724382
-Bjune_a45	Pinus sylvestris	Pinus sylvestris-type	TRSH	175	30.918728
-Bjune_a45	Tilia cordata	Tilia cordata-type	TRSH	1	0.17667845
-Bjune_a45	Vaccinium-type	Vaccinium-type	DWAR	3	0.53003534
-Bjune_a45	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB	3	0.53003534
-Bjune_a45	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	1	0.17667845
-Bjune_a45	Hordeum-type	Hordeum-type	HERB	1	0.17667845
-Bjune_a45	Melampyrum	Melampyrum	HERB	3	0.53003534
-Bjune_a45	Plantago lanceolata	Plantago lanceolata-type	HERB	1	0.17667845
-Bjune_a45	Gramineae undiff.	Poaceae	HERB	46	8.1272085
-Bjune_a45	Rumex acetosa	Rumex acetosa-type	HERB	5	0.88339223
-Bjune_a45	Rumex acetosa-type/R. acetosella-type	Rumex acetosa-type	HERB	3	0.53003534
-Bjune_a45	Rumex acetosella-type	Rumex acetosella	HERB	3	0.53003534
-Bjune_a45	Rumex longifolius-type	Rumex aquaticus-type	HERB	3	0.53003534
-Bjune_a45	Solidago-type	Senecio-type	HERB	1	0.17667845
-Bjune_a45	Thalictrum	Thalictrum	HERB	2	0.35335689
-Bjune_a45	Urtica	Urtica	HERB	1	0.17667845
-Bjune_a45	Dryopteris-type	Dryopteris-type	VACR	19	3.3568905
-Bjune_a45	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR	8	1.4134276
-Bjune_a45	Lycopodium annotinum	Lycopodium annotinum-type	VACR	2	0.35335689
-Bjune_a45	Sphagnum	Sphagnum	BRYO	34	6.0070671
-Bjune_a45	Carex-type	Carex	AQUA	22	3.8869258
-Bjune_a45	Cyperaceae undiff.	Cyperaceae	AQUA	4	0.70671378
-Bjune_a45	Nymphaea	Nymphaea	AQUA	2	0.35335689
-Bjune_a45	Potamogeton sect. Eupotamogeton	Potamogeton natans-type	AQUA	2	0.35335689
-Bjune_a45	Indeterminable: broken	Indeterminable: broken	INUN	1	
-Bjune_a45	Indeterminable: corroded	Indeterminable: corroded	INUN	2	
-Bjune_a45	Indeterminable: crumpled	Indeterminable: crumpled	INUN	2	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Bjune_a45	12	112	12	Betula	Betula	TRSH
+Bjune_a45	3665	22	3663	Carex-type	Carex	AQUA
+Bjune_a45	24	1	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Bjune_a45	3824	3	25	Compositae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Bjune_a45	31	3	31	Corylus avellana	Corylus	TRSH
+Bjune_a45	1247	19	772	Dryopteris-type	Dryopteris-type	VACR
+Bjune_a45	939	1	739	Empetrum nigrum	Empetrum nigrum	DWAR
+Bjune_a45	3944	5	130	Ericaceae-type	Ericales (tetrad)	DWAR
+Bjune_a45	4018	46	80	Gramineae undiff.	Poaceae	HERB
+Bjune_a45	2121	8	1320	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR
+Bjune_a45	949	1	258	Hordeum-type	Hordeum-type	HERB
+Bjune_a45	4072	1	998	Indeterminable: broken	Indeterminable: broken	INUN
+Bjune_a45	4074	2	1324	Indeterminable: corroded	Indeterminable: corroded	INUN
+Bjune_a45	4075	2	1925	Indeterminable: crumpled	Indeterminable: crumpled	INUN
+Bjune_a45	941	13	58	Juniperus communis	Juniperus communis-type	TRSH
+Bjune_a45	965	2	183	Lycopodium annotinum	Lycopodium annotinum-type	VACR
+Bjune_a45	473	3	473	Melampyrum	Melampyrum	HERB
+Bjune_a45	627	2	627	Nymphaea	Nymphaea	AQUA
+Bjune_a45	126	89	126	Picea	Picea	TRSH
+Bjune_a45	788	175	125	Pinus sylvestris	Pinus sylvestris-type	TRSH
+Bjune_a45	60	1	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+Bjune_a45	4384	2	912	Potamogeton sect. Eupotamogeton	Potamogeton natans-type	AQUA
+Bjune_a45	95	5	95	Rumex acetosa	Rumex acetosa-type	HERB
+Bjune_a45	4504	3	95	Rumex acetosa-type/R. acetosella-type	Rumex acetosa-type	HERB
+Bjune_a45	1398	3	96	Rumex acetosella-type	Rumex acetosella	HERB
+Bjune_a45	4514	3	1084	Rumex longifolius-type	Rumex aquaticus-type	HERB
+Bjune_a45	2428	1	133	Solidago-type	Senecio-type	HERB
+Bjune_a45	144	34	144	Sphagnum	Sphagnum	BRYO
+Bjune_a45	112	2	112	Thalictrum	Thalictrum	HERB
+Bjune_a45	1406	1	153	Tilia cordata	Tilia cordata-type	TRSH
+Bjune_a45	652	1	652	Urtica	Urtica	HERB
+Bjune_a45	4730	3	4730	Vaccinium-type	Vaccinium-type	DWAR
+Bjune_a45	5	28	5	Alnus	Alnus	TRSH
+Bjune_a45	3873	4	3868	Cyperaceae undiff.	Cyperaceae	AQUA

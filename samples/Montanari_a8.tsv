@@ -1,42 +1,42 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Montanari_a8	ACER	Acer campestre-type	TRSH	13	1.3402062
-Montanari_a8	ALNUS  incana	Alnus glutinosa-type	TRSH	53	5.4639175
-Montanari_a8	ALNUS viridis	Alnus viridis	TRSH	16	1.6494845
-Montanari_a8	BETULA	Betula	TRSH	23	2.371134
-Montanari_a8	CASTANEA	Castanea sativa	TRSH	3	0.30927835
-Montanari_a8	CORYLUS	Corylus	TRSH	34	3.5051546
-Montanari_a8	FAGUS	Fagus	TRSH	2	0.20618557
-Montanari_a8	FRAXINUS	Fraxinus	TRSH	24	2.4742268
-Montanari_a8	JUGLANS	Juglans	TRSH	2	0.20618557
-Montanari_a8	LARIX	Larix/Pseudotsuga	TRSH	41	4.2268041
-Montanari_a8	PICEA	Picea	TRSH	58	5.9793814
-Montanari_a8	PINUS indiff..	Pinus	TRSH	31	3.1958763
-Montanari_a8	PINUS CEMBRA	Pinus cembra-type	TRSH	14	1.443299
-Montanari_a8	PINUS sylv.	Pinus sylvestris-type	TRSH	170	17.525773
-Montanari_a8	QUERCUS decid.	Quercus robur-type	TRSH	3	0.30927835
-Montanari_a8	ROSACEAE indiff.	Rosaceae (non-operculate)	TRSH	8	0.82474227
-Montanari_a8	SALIX	Salix	TRSH	6	0.6185567
-Montanari_a8	SAMBUCUS	Sambucus	TRSH	6	0.6185567
-Montanari_a8	SORBUS	Sorbus-type	TRSH	59	6.0824742
-Montanari_a8	UMBELLIFERAE	Apiaceae	HERB	56	5.7731959
-Montanari_a8	ARTEMISIA	Artemisia	HERB	9	0.92783505
-Montanari_a8	ASTERACEAE aster.	Asteraceae subf. Asteroideae	HERB	18	1.8556701
-Montanari_a8	ASTERACEAE cichor.	Asteraceae subf. Carduoideae	HERB	11	1.1340206
-Montanari_a8	CARYOPHYLLACEAE	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	2	0.20618557
-Montanari_a8	POACEAE > 45 µm	Cerealia-type	HERB	2	0.20618557
-Montanari_a8	CHENOPODIACEAE	Chenopodiaceae/Amaranthaceae	HERB	66	6.8041237
-Montanari_a8	cf. Filipendula	Filipendula	HERB	3	0.30927835
-Montanari_a8	PAPAVERACEAE	Papaveraceae	HERB	3	0.30927835
-Montanari_a8	PLANTAGO indet.	Plantago	HERB	3	0.30927835
-Montanari_a8	PLANTAGO lanceol.	Plantago lanceolata-type	HERB	1	0.10309278
-Montanari_a8	PLANTAGO major	Plantago major	HERB	1	0.10309278
-Montanari_a8	POACEAE	Poaceae	HERB	176	18.14433
-Montanari_a8	POLYGONUM bistorta	Polygonum bistorta	HERB	9	0.92783505
-Montanari_a8	RANUNCULACEAE	Ranunculaceae	HERB	3	0.30927835
-Montanari_a8	GALIUM	Rubiaceae	HERB	9	0.92783505
-Montanari_a8	RUMEX indet.	Rumex/Oxyria	HERB	4	0.41237113
-Montanari_a8	SEDUM	Sedum-type	HERB	12	1.2371134
-Montanari_a8	URTICACEAE	Urticaceae	HERB	16	1.6494845
-Montanari_a8	sample volume (Vp) (ml)	Sample volume (ml)	NOPO	5	
-Montanari_a8	examined volume (Vg) (ml)	Sample volume analysed (ml)	NOPO	0.02	
-Montanari_a8	sample weight (Pp) (grams)	Weight (g)	NOPO	1.5194	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Montanari_a8	330	23	12	BETULA	Betula	TRSH
+Montanari_a8	339	3	19	CASTANEA	Castanea sativa	TRSH
+Montanari_a8	346	34	31	CORYLUS	Corylus	TRSH
+Montanari_a8	383	58	126	PICEA	Picea	TRSH
+Montanari_a8	2630	170	125	PINUS sylv.	Pinus sylvestris-type	TRSH
+Montanari_a8	2631	14	124	PINUS CEMBRA	Pinus cembra-type	TRSH
+Montanari_a8	2632	31	75	PINUS indiff..	Pinus	TRSH
+Montanari_a8	2633	41	123	LARIX	Larix/Pseudotsuga	TRSH
+Montanari_a8	322	13	2	ACER	Acer campestre-type	TRSH
+Montanari_a8	357	2	42	FAGUS	Fagus	TRSH
+Montanari_a8	359	24	190	FRAXINUS	Fraxinus	TRSH
+Montanari_a8	367	2	57	JUGLANS	Juglans	TRSH
+Montanari_a8	406	6	99	SALIX	Salix	TRSH
+Montanari_a8	2637	16	129	ALNUS viridis	Alnus viridis	TRSH
+Montanari_a8	2639	3	86	QUERCUS decid.	Quercus robur-type	TRSH
+Montanari_a8	2645	59	107	SORBUS	Sorbus-type	TRSH
+Montanari_a8	328	9	7	ARTEMISIA	Artemisia	HERB
+Montanari_a8	388	176	80	POACEAE	Poaceae	HERB
+Montanari_a8	407	6	407	SAMBUCUS	Sambucus	TRSH
+Montanari_a8	1316	56	6	UMBELLIFERAE	Apiaceae	HERB
+Montanari_a8	2653	8	490	ROSACEAE indiff.	Rosaceae (non-operculate)	TRSH
+Montanari_a8	2660	2	22	POACEAE > 45 µm	Cerealia-type	HERB
+Montanari_a8	2661	3	45	cf. Filipendula	Filipendula	HERB
+Montanari_a8	2663	12	105	SEDUM	Sedum-type	HERB
+Montanari_a8	2664	18	160	ASTERACEAE aster.	Asteraceae subf. Asteroideae	HERB
+Montanari_a8	2667	16	809	URTICACEAE	Urticaceae	HERB
+Montanari_a8	2668	3	270	PLANTAGO indet.	Plantago	HERB
+Montanari_a8	2669	1	60	PLANTAGO lanceol.	Plantago lanceolata-type	HERB
+Montanari_a8	2670	1	79	PLANTAGO major	Plantago major	HERB
+Montanari_a8	2671	66	24	CHENOPODIACEAE	Chenopodiaceae/Amaranthaceae	HERB
+Montanari_a8	2674	4	94	RUMEX indet.	Rumex/Oxyria	HERB
+Montanari_a8	2675	9	625	POLYGONUM bistorta	Polygonum bistorta	HERB
+Montanari_a8	1304	9	93	GALIUM	Rubiaceae	HERB
+Montanari_a8	2693	5	883	sample volume (Vp) (ml)	Sample volume (ml)	NOPO
+Montanari_a8	2694	0.02	2694	examined volume (Vg) (ml)	Sample volume analysed (ml)	NOPO
+Montanari_a8	2695	1.5194	2695	sample weight (Pp) (grams)	Weight (g)	NOPO
+Montanari_a8	338	2	18	CARYOPHYLLACEAE	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Montanari_a8	381	3	381	PAPAVERACEAE	Papaveraceae	HERB
+Montanari_a8	400	3	135	RANUNCULACEAE	Ranunculaceae	HERB
+Montanari_a8	2636	53	155	ALNUS  incana	Alnus glutinosa-type	TRSH
+Montanari_a8	2665	11	336	ASTERACEAE cichor.	Asteraceae subf. Carduoideae	HERB

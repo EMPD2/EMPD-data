@@ -1,56 +1,56 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Jahns_f1	Abies	Abies	TRSH	6	0.35377358
-Jahns_f1	Acer	Acer campestre-type	TRSH	2	0.11792453
-Jahns_f1	Alnus	Alnus	TRSH	3	0.17688679
-Jahns_f1	Betula	Betula	TRSH	1	0.058962264
-Jahns_f1	Castanea	Castanea sativa	TRSH	2	0.11792453
-Jahns_f1	Corylus	Corylus	TRSH	5	0.29481132
-Jahns_f1	Ephedra fragilis	Ephedra	TRSH	1	0.058962264
-Jahns_f1	Erica	Erica	DWAR	19	1.120283
-Jahns_f1	Fraxinus ornus	Fraxinus ornus	TRSH	2	0.11792453
-Jahns_f1	Juglans	Juglans	TRSH	1	0.058962264
-Jahns_f1	Olea	Olea europaea	TRSH	16	0.94339623
-Jahns_f1	Carpinus orientalis/Ostrya	Ostrya/Carpinus orientalis	TRSH	7	0.41273585
-Jahns_f1	Phillyrea	Phillyrea	TRSH	86	5.0707547
-Jahns_f1	Pinus	Pinus	TRSH	64	3.7735849
-Jahns_f1	Pistacia	Pistacia	TRSH	18	1.0613208
-Jahns_f1	Platanus	Platanus	TRSH	1	0.058962264
-Jahns_f1	Quercus pro parte	Quercus	TRSH	41	2.4174528
-Jahns_f1	Quercus evergreeen	Quercus ilex-type	TRSH	96	5.6603774
-Jahns_f1	Quercus deciduous	Quercus robur-type	TRSH	132	7.7830189
-Jahns_f1	Rosaceae	Rosaceae	TRSH	6	0.35377358
-Jahns_f1	Sambucus	Sambucus	TRSH	1	0.058962264
-Jahns_f1	Ulmus	Ulmus/Zelkova	TRSH	4	0.23584906
-Jahns_f1	Hedera	Hedera	LIAN	1	0.058962264
-Jahns_f1	Agrostemma	Agrostemma githago	HERB	1	0.058962264
-Jahns_f1	Apiaceae	Apiaceae	HERB	1	0.058962264
-Jahns_f1	Artemisia	Artemisia	HERB	6	0.35377358
-Jahns_f1	Aster-type	Aster-type	HERB	5	0.29481132
-Jahns_f1	Asteraceae Tubuliflorae	Asteraceae subf. Asteroideae	HERB	31	1.8278302
-Jahns_f1	Asteraceae Liguliflorae	Asteraceae subf. Cichorioideae	HERB	736	43.396226
-Jahns_f1	Brassicaceae	Brassicaceae	HERB	3	0.17688679
-Jahns_f1	Centaurea solstitialis-type	Centaurea nigra-type	HERB	1	0.058962264
-Jahns_f1	Secale	Cerealia-type	HERB	2	0.11792453
-Jahns_f1	Cerealia-type	Cerealia-type	HERB	5	0.29481132
-Jahns_f1	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	4	0.23584906
-Jahns_f1	Cistus albidus-type	Cistus albidus-type	HERB	1	0.058962264
-Jahns_f1	Euphorbiaceae	Euphorbiaceae	HERB	8	0.47169811
-Jahns_f1	Geranium	Geranium	HERB	3	0.17688679
-Jahns_f1	Gypsophila	Gypsophila repens-type	HERB	1	0.058962264
-Jahns_f1	Hordeum-type	Hordeum-type	HERB	2	0.11792453
-Jahns_f1	Knautia	Knautia	HERB	3	0.17688679
-Jahns_f1	Lamiaceae	Lamiaceae	HERB	5	0.29481132
-Jahns_f1	Liliaceae	Liliaceae-type	HERB	4	0.23584906
-Jahns_f1	Mercurialis	Mercurialis	HERB	24	1.4150943
-Jahns_f1	Plantago lanceolata-type	Plantago lanceolata-type	HERB	21	1.2382075
-Jahns_f1	Plantago major-type	Plantago major	HERB	18	1.0613208
-Jahns_f1	Poaceae	Poaceae	HERB	56	3.3018868
-Jahns_f1	Rubiaceae	Rubiaceae	HERB	12	0.70754717
-Jahns_f1	Rumex	Rumex/Oxyria	HERB	1	0.058962264
-Jahns_f1	Sarcopoterium spinosum/Sanguisorba minor	Sanguisorba minor-type	HERB	3	0.17688679
-Jahns_f1	Filicinae	Monolete fern spores	VACR	11	0.64858491
-Jahns_f1	Polypodium	Polypodium	VACR	1	0.058962264
-Jahns_f1	Trilete spores (verrucate)	Trilete spore(s)	VACR	212	12.5
-Jahns_f1	Cyperaceae	Cyperaceae	AQUA	13	0.76650943
-Jahns_f1	Fabaceae pro parte	Fabaceae	INUN	2	
-Jahns_f1	Varia	Indeterminable: unknown	INUN	38	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Jahns_f1	560	6	321	Abies	Abies	TRSH
+Jahns_f1	2	2	2	Acer	Acer campestre-type	TRSH
+Jahns_f1	3515	1	2274	Agrostemma	Agrostemma githago	HERB
+Jahns_f1	5	3	5	Alnus	Alnus	TRSH
+Jahns_f1	6	1	6	Apiaceae	Apiaceae	HERB
+Jahns_f1	7	6	7	Artemisia	Artemisia	HERB
+Jahns_f1	597	5	11	Aster-type	Aster-type	HERB
+Jahns_f1	1337	736	25	Asteraceae Liguliflorae	Asteraceae subf. Cichorioideae	HERB
+Jahns_f1	1927	31	160	Asteraceae Tubuliflorae	Asteraceae subf. Asteroideae	HERB
+Jahns_f1	12	1	12	Betula	Betula	TRSH
+Jahns_f1	13	3	13	Brassicaceae	Brassicaceae	HERB
+Jahns_f1	441	2	19	Castanea	Castanea sativa	TRSH
+Jahns_f1	3681	1	29	Centaurea solstitialis-type	Centaurea nigra-type	HERB
+Jahns_f1	1065	5	22	Cerealia-type	Cerealia-type	HERB
+Jahns_f1	24	4	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Jahns_f1	3797	1	3797	Cistus albidus-type	Cistus albidus-type	HERB
+Jahns_f1	201	5	31	Corylus	Corylus	TRSH
+Jahns_f1	3868	13	3868	Cyperaceae	Cyperaceae	AQUA
+Jahns_f1	715	1	159	Ephedra fragilis	Ephedra	TRSH
+Jahns_f1	3927	19	3927	Erica	Erica	DWAR
+Jahns_f1	773	8	773	Euphorbiaceae	Euphorbiaceae	HERB
+Jahns_f1	3959	2	3958	Fabaceae pro parte	Fabaceae	INUN
+Jahns_f1	1941	11	146	Filicinae	Monolete fern spores	VACR
+Jahns_f1	498	3	498	Geranium	Geranium	HERB
+Jahns_f1	2944	1	1253	Gypsophila	Gypsophila repens-type	HERB
+Jahns_f1	949	2	258	Hordeum-type	Hordeum-type	HERB
+Jahns_f1	57	1	57	Juglans	Juglans	TRSH
+Jahns_f1	59	5	59	Lamiaceae	Lamiaceae	HERB
+Jahns_f1	227	24	227	Mercurialis	Mercurialis	HERB
+Jahns_f1	74	86	74	Phillyrea	Phillyrea	TRSH
+Jahns_f1	77	18	77	Pistacia	Pistacia	TRSH
+Jahns_f1	1348	18	79	Plantago major-type	Plantago major	HERB
+Jahns_f1	78	1	78	Platanus	Platanus	TRSH
+Jahns_f1	80	56	80	Poaceae	Poaceae	HERB
+Jahns_f1	666	1	214	Polypodium	Polypodium	VACR
+Jahns_f1	437	132	86	Quercus deciduous	Quercus robur-type	TRSH
+Jahns_f1	4430	96	85	Quercus evergreeen	Quercus ilex-type	TRSH
+Jahns_f1	92	6	92	Rosaceae	Rosaceae	TRSH
+Jahns_f1	93	12	93	Rubiaceae	Rubiaceae	HERB
+Jahns_f1	727	1	94	Rumex	Rumex/Oxyria	HERB
+Jahns_f1	481	1	407	Sambucus	Sambucus	TRSH
+Jahns_f1	4549	3	101	Sarcopoterium spinosum/Sanguisorba minor	Sanguisorba minor-type	HERB
+Jahns_f1	104	2	22	Secale	Cerealia-type	HERB
+Jahns_f1	4690	212	279	Trilete spores (verrucate)	Trilete spore(s)	VACR
+Jahns_f1	154	4	154	Ulmus	Ulmus/Zelkova	TRSH
+Jahns_f1	1098	38	177	Varia	Indeterminable: unknown	INUN
+Jahns_f1	44	2	44	Fraxinus ornus	Fraxinus ornus	TRSH
+Jahns_f1	62	4	62	Liliaceae	Liliaceae-type	HERB
+Jahns_f1	75	64	75	Pinus	Pinus	TRSH
+Jahns_f1	442	16	68	Olea	Olea europaea	TRSH
+Jahns_f1	1035	7	70	Carpinus orientalis/Ostrya	Ostrya/Carpinus orientalis	TRSH
+Jahns_f1	1075	21	60	Plantago lanceolata-type	Plantago lanceolata-type	HERB
+Jahns_f1	1257	3	1257	Knautia	Knautia	HERB
+Jahns_f1	4031	1	4031	Hedera	Hedera	LIAN
+Jahns_f1	4432	41	189	Quercus pro parte	Quercus	TRSH

@@ -1,42 +1,42 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Ortu_b10	Alnus glutinosa	Alnus glutinosa-type	TRSH	12	2.4948025
-Ortu_b10	Alnus viridis	Alnus viridis	TRSH	42	8.7318087
-Ortu_b10	Betula	Betula	TRSH	28	5.8212058
-Ortu_b10	Castanea	Castanea sativa	TRSH	12	2.4948025
-Ortu_b10	Corylus	Corylus	TRSH	16	3.3264033
-Ortu_b10	Ericaceae	Ericales (tetrad)	DWAR	6	1.2474012
-Ortu_b10	Fagus	Fagus	TRSH	4	0.83160083
-Ortu_b10	Fraxinus	Fraxinus	TRSH	3	0.62370062
-Ortu_b10	Juniperus	Juniperus communis-type	TRSH	1	0.20790021
-Ortu_b10	Larix	Larix/Pseudotsuga	TRSH	67	13.929314
-Ortu_b10	Picea	Picea	TRSH	24	4.989605
-Ortu_b10	Pinus	Pinus	TRSH	126	26.195426
-Ortu_b10	Quercus robur-type	Quercus robur-type	TRSH	6	1.2474012
-Ortu_b10	Rosaceae	Rosaceae	TRSH	1	0.20790021
-Ortu_b10	Salix	Salix	TRSH	3	0.62370062
-Ortu_b10	Ulmus	Ulmus/Zelkova	TRSH	1	0.20790021
-Ortu_b10	Apiaceae	Apiaceae	HERB	3	0.62370062
-Ortu_b10	Artemisia	Artemisia	HERB	5	1.039501
-Ortu_b10	Asteroideae	Asteraceae subf. Asteroideae	HERB	1	0.20790021
-Ortu_b10	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	4	0.83160083
-Ortu_b10	Boraginaceae	Boraginaceae	HERB	1	0.20790021
-Ortu_b10	Brassicaceae	Brassicaceae	HERB	6	1.2474012
-Ortu_b10	Bupleurum	Bupleurum	HERB	1	0.20790021
-Ortu_b10	Campanulaceae	Campanulaceae	HERB	1	0.20790021
-Ortu_b10	Carduus	Carduus-type	HERB	1	0.20790021
-Ortu_b10	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	1	0.20790021
-Ortu_b10	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	4	0.83160083
-Ortu_b10	Epilobium	Epilobium	HERB	1	0.20790021
-Ortu_b10	Lamiaceae	Lamiaceae	HERB	2	0.41580042
-Ortu_b10	Plantago lanceolata	Plantago lanceolata-type	HERB	6	1.2474012
-Ortu_b10	Poaceae	Poaceae	HERB	54	11.226611
-Ortu_b10	Ranunculaceae	Ranunculaceae	HERB	23	4.7817048
-Ortu_b10	Rumex	Rumex/Oxyria	HERB	4	0.83160083
-Ortu_b10	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	4	0.83160083
-Ortu_b10	Monolete fern spores	Monolete fern spores	VACR	6	1.2474012
-Ortu_b10	Trilete spores	Trilete spore(s)	VACR	1	0.20790021
-Ortu_b10	Cyperaceae	Cyperaceae	AQUA	2	0.41580042
-Ortu_b10	Menyanthes trifoliata	Menyanthes trifoliata	AQUA	1	0.20790021
-Ortu_b10	Sparganium/Typha	Sparganium-type	AQUA	3	0.62370062
-Ortu_b10	Fabaceae	Fabaceae	INUN	1	
-Ortu_b10	Indeterminable: unknown	Indeterminable: unknown	INUN	7	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Ortu_b10	760	12	155	Alnus glutinosa	Alnus glutinosa-type	TRSH
+Ortu_b10	561	42	129	Alnus viridis	Alnus viridis	TRSH
+Ortu_b10	6	3	6	Apiaceae	Apiaceae	HERB
+Ortu_b10	7	5	7	Artemisia	Artemisia	HERB
+Ortu_b10	761	1	160	Asteroideae	Asteraceae subf. Asteroideae	HERB
+Ortu_b10	162	1	162	Boraginaceae	Boraginaceae	HERB
+Ortu_b10	13	6	13	Brassicaceae	Brassicaceae	HERB
+Ortu_b10	14	1	14	Bupleurum	Bupleurum	HERB
+Ortu_b10	136	1	136	Campanulaceae	Campanulaceae	HERB
+Ortu_b10	1634	1	1381	Carduus	Carduus-type	HERB
+Ortu_b10	441	12	19	Castanea	Castanea sativa	TRSH
+Ortu_b10	24	4	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Ortu_b10	447	4	25	Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Ortu_b10	201	16	31	Corylus	Corylus	TRSH
+Ortu_b10	547	1	547	Epilobium	Epilobium	HERB
+Ortu_b10	130	6	130	Ericaceae	Ericales (tetrad)	DWAR
+Ortu_b10	3958	1	3958	Fabaceae	Fabaceae	INUN
+Ortu_b10	192	4	42	Fagus	Fagus	TRSH
+Ortu_b10	190	3	190	Fraxinus	Fraxinus	TRSH
+Ortu_b10	4078	7	177	Indeterminable: unknown	Indeterminable: unknown	INUN
+Ortu_b10	58	1	58	Juniperus	Juniperus communis-type	TRSH
+Ortu_b10	59	2	59	Lamiaceae	Lamiaceae	HERB
+Ortu_b10	961	1	175	Menyanthes trifoliata	Menyanthes trifoliata	AQUA
+Ortu_b10	4193	6	146	Monolete fern spores	Monolete fern spores	VACR
+Ortu_b10	75	126	75	Pinus	Pinus	TRSH
+Ortu_b10	60	6	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+Ortu_b10	152	6	86	Quercus robur-type	Quercus robur-type	TRSH
+Ortu_b10	135	23	135	Ranunculaceae	Ranunculaceae	HERB
+Ortu_b10	92	1	92	Rosaceae	Rosaceae	TRSH
+Ortu_b10	727	4	94	Rumex	Rumex/Oxyria	HERB
+Ortu_b10	99	3	99	Salix	Salix	TRSH
+Ortu_b10	173	4	173	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB
+Ortu_b10	804	3	176	Sparganium/Typha	Sparganium-type	AQUA
+Ortu_b10	154	1	154	Ulmus	Ulmus/Zelkova	TRSH
+Ortu_b10	12	28	12	Betula	Betula	TRSH
+Ortu_b10	18	1	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Ortu_b10	80	54	80	Poaceae	Poaceae	HERB
+Ortu_b10	123	67	123	Larix	Larix/Pseudotsuga	TRSH
+Ortu_b10	126	24	126	Picea	Picea	TRSH
+Ortu_b10	416	1	279	Trilete spores	Trilete spore(s)	VACR
+Ortu_b10	3868	2	3868	Cyperaceae	Cyperaceae	AQUA

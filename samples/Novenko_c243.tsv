@@ -1,30 +1,30 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Novenko_c243	Alnaster	Alnus viridis	TRSH	25	5.6053812
-Novenko_c243	Betula sect. Nanae	Betula nana-type	DWAR	117	26.233184
-Novenko_c243	Betula alba	Betula pubescens-type	TRSH	12	2.690583
-Novenko_c243	Ericaceae	Ericales (tetrad)	DWAR	3	0.67264574
-Novenko_c243	Larix	Larix/Pseudotsuga	TRSH	11	2.4663677
-Novenko_c243	Picea	Picea	TRSH	2	0.44843049
-Novenko_c243	Pinus sibirica	Pinus cembra-type	TRSH	23	5.1569507
-Novenko_c243	Pinus sylvestris	Pinus sylvestris-type	TRSH	23	5.1569507
-Novenko_c243	Salix	Salix	TRSH	1	0.22421525
-Novenko_c243	Apiaceae	Apiaceae	HERB	4	0.89686099
-Novenko_c243	Artemisia	Artemisia	HERB	7	1.5695067
-Novenko_c243	Compositae undif.	Asteraceae	HERB	9	2.0179372
-Novenko_c243	Brassicaceae	Brassicaceae	HERB	1	0.22421525
-Novenko_c243	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	2	0.44843049
-Novenko_c243	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	3	0.67264574
-Novenko_c243	Cyperaceae	Cyperaceae	HERB	14	3.1390135
-Novenko_c243	Geraniaceae	Geraniaceae	HERB	2	0.44843049
-Novenko_c243	Malva-type	Malvaceae	HERB	1	0.22421525
-Novenko_c243	Onagraceae	Onagraceae	HERB	1	0.22421525
-Novenko_c243	Poaceae	Poaceae	HERB	38	8.5201794
-Novenko_c243	Polygonaceae	Polygonaceae	HERB	21	4.7085202
-Novenko_c243	Rubus chamaemorus	Rubus chamaemorus	HERB	2	0.44843049
-Novenko_c243	Bryales	Bryophyte spores	BRYO	2	0.44843049
-Novenko_c243	Huperzia selago	Huperzia selago	VACR	1	0.22421525
-Novenko_c243	Lycopodium annotinum	Lycopodium annotinum-type	VACR	4	0.89686099
-Novenko_c243	Lycopodium alpinum	Lycopodium clavatum-type	VACR	4	0.89686099
-Novenko_c243	Polypodiaceae	Monolete fern spores	VACR	112	25.112108
-Novenko_c243	Selaginella selaginoides	Selaginella selaginoides	VACR	1	0.22421525
-Novenko_c243	Sphagnum	Sphagnum	NOPO	12	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Novenko_c243	1447	25	129	Alnaster	Alnus viridis	TRSH
+Novenko_c243	2257	12	128	Betula alba	Betula pubescens-type	TRSH
+Novenko_c243	123	11	123	Larix	Larix/Pseudotsuga	TRSH
+Novenko_c243	126	2	126	Picea	Picea	TRSH
+Novenko_c243	788	23	125	Pinus sylvestris	Pinus sylvestris-type	TRSH
+Novenko_c243	1361	23	124	Pinus sibirica	Pinus cembra-type	TRSH
+Novenko_c243	99	1	99	Salix	Salix	TRSH
+Novenko_c243	6	4	6	Apiaceae	Apiaceae	HERB
+Novenko_c243	7	7	7	Artemisia	Artemisia	HERB
+Novenko_c243	13	1	13	Brassicaceae	Brassicaceae	HERB
+Novenko_c243	2259	9	134	Compositae undif.	Asteraceae	HERB
+Novenko_c243	33	14	33	Cyperaceae	Cyperaceae	HERB
+Novenko_c243	137	1	137	Onagraceae	Onagraceae	HERB
+Novenko_c243	165	2	165	Geraniaceae	Geraniaceae	HERB
+Novenko_c243	2263	1	372	Malva-type	Malvaceae	HERB
+Novenko_c243	80	38	80	Poaceae	Poaceae	HERB
+Novenko_c243	2112	2	172	Rubus chamaemorus	Rubus chamaemorus	HERB
+Novenko_c243	964	1	184	Huperzia selago	Huperzia selago	VACR
+Novenko_c243	965	4	183	Lycopodium annotinum	Lycopodium annotinum-type	VACR
+Novenko_c243	146	112	146	Polypodiaceae	Monolete fern spores	VACR
+Novenko_c243	874	1	185	Selaginella selaginoides	Selaginella selaginoides	VACR
+Novenko_c243	144	12	144	Sphagnum	Sphagnum	BRYO
+Novenko_c243	18	2	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+Novenko_c243	24	3	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Novenko_c243	127	117	127	Betula sect. Nanae	Betula nana-type	DWAR
+Novenko_c243	130	3	130	Ericaceae	Ericales (tetrad)	DWAR
+Novenko_c243	138	21	138	Polygonaceae	Polygonaceae	HERB
+Novenko_c243	147	2	147	Bryales	Bryophyte spores	BRYO
+Novenko_c243	2265	4	182	Lycopodium alpinum	Lycopodium clavatum-type	VACR

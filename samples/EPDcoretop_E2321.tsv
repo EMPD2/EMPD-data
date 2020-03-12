@@ -1,36 +1,36 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-EPDcoretop_E2321	Betula	Betula	TRSH	2	0.42643923
-EPDcoretop_E2321	Calluna	Calluna vulgaris	DWAR	18	3.8379531
-EPDcoretop_E2321	Castanea	Castanea sativa	TRSH	4	0.85287846
-EPDcoretop_E2321	Cistus-type	Cistus	TRSH	5	1.0660981
-EPDcoretop_E2321	Erica arborea-type	Erica arborea-type	TRSH	118	25.159915
-EPDcoretop_E2321	Erica australis-type	Erica ciliaris-type	DWAR	17	3.6247335
-EPDcoretop_E2321	Erica tetralix-type	Erica tetralix-type	DWAR	2	0.42643923
-EPDcoretop_E2321	Erica umbellata-type	Erica umbellata	DWAR	2	0.42643923
-EPDcoretop_E2321	Ericaceae undiff.	Ericales (tetrad)	DWAR	14	2.9850746
-EPDcoretop_E2321	Ligustrum	Ligustrum	TRSH	1	0.21321962
-EPDcoretop_E2321	Olea	Olea europaea	TRSH	6	1.2793177
-EPDcoretop_E2321	Pinus	Pinus	TRSH	13	2.771855
-EPDcoretop_E2321	Quercus evergreen	Quercus ilex-type	TRSH	2	0.42643923
-EPDcoretop_E2321	Quercus deciduous	Quercus robur-type	TRSH	12	2.5586354
-EPDcoretop_E2321	Apiaceae	Apiaceae	HERB	1	0.21321962
-EPDcoretop_E2321	Aster-type	Aster-type	HERB	1	0.21321962
-EPDcoretop_E2321	Cirsium-type	Asteraceae subf. Carduoideae	HERB	2	0.42643923
-EPDcoretop_E2321	Liguliflorae	Asteraceae subf. Cichorioideae	HERB	6	1.2793177
-EPDcoretop_E2321	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	5	1.0660981
-EPDcoretop_E2321	Cerealia-type	Cerealia-type	HERB	3	0.63965885
-EPDcoretop_E2321	Cyperaceae	Cyperaceae	HERB	55	11.727079
-EPDcoretop_E2321	Helianthemum-type	Helianthemum	HERB	3	0.63965885
-EPDcoretop_E2321	Lotus-type	Lotus-type	HERB	1	0.21321962
-EPDcoretop_E2321	Anthemis-type	Matricaria-type	HERB	5	1.0660981
-EPDcoretop_E2321	Plantaginaceae undiff.	Plantaginaceae	HERB	2	0.42643923
-EPDcoretop_E2321	Plantago coronopus-type	Plantago coronopus-type	HERB	1	0.21321962
-EPDcoretop_E2321	Plantago lanceolata-type	Plantago lanceolata-type	HERB	28	5.9701493
-EPDcoretop_E2321	Plantago major/P. media	Plantago major/P. media-type	HERB	1	0.21321962
-EPDcoretop_E2321	Poaceae	Poaceae	HERB	109	23.240938
-EPDcoretop_E2321	Ranunculus-type	Ranunculus-type	HERB	1	0.21321962
-EPDcoretop_E2321	Rubiaceae	Rubiaceae	HERB	3	0.63965885
-EPDcoretop_E2321	Rumex-type	Rumex/Oxyria	HERB	22	4.6908316
-EPDcoretop_E2321	Trilete spore(s)	Trilete spore(s)	VACR	4	0.85287846
-EPDcoretop_E2321	Indeterminable: unidentified	Indeterminable: unknown	INUN	1	
-EPDcoretop_E2321	Lycopodium spike (counted)	Lycopodium spike (counted)	NOPO	56	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+EPDcoretop_E2321	4779	56	2629	Lycopodium spike (counted)	Lycopodium spike (counted)	NOPO
+EPDcoretop_E2321	4909	1	177	Indeterminable: unidentified	Indeterminable: unknown	INUN
+EPDcoretop_E2321	6	1	6	Apiaceae	Apiaceae	HERB
+EPDcoretop_E2321	12	2	12	Betula	Betula	TRSH
+EPDcoretop_E2321	18	5	18	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB
+EPDcoretop_E2321	33	55	33	Cyperaceae	Cyperaceae	HERB
+EPDcoretop_E2321	61	1	61	Ligustrum	Ligustrum	TRSH
+EPDcoretop_E2321	75	13	75	Pinus	Pinus	TRSH
+EPDcoretop_E2321	80	109	80	Poaceae	Poaceae	HERB
+EPDcoretop_E2321	427	2	85	Quercus evergreen	Quercus ilex-type	TRSH
+EPDcoretop_E2321	437	12	86	Quercus deciduous	Quercus robur-type	TRSH
+EPDcoretop_E2321	441	4	19	Castanea	Castanea sativa	TRSH
+EPDcoretop_E2321	442	6	68	Olea	Olea europaea	TRSH
+EPDcoretop_E2321	589	5	3	Anthemis-type	Matricaria-type	HERB
+EPDcoretop_E2321	597	1	11	Aster-type	Aster-type	HERB
+EPDcoretop_E2321	611	1	611	Lotus-type	Lotus-type	HERB
+EPDcoretop_E2321	710	6	25	Liguliflorae	Asteraceae subf. Cichorioideae	HERB
+EPDcoretop_E2321	716	14	130	Ericaceae undiff.	Ericales (tetrad)	DWAR
+EPDcoretop_E2321	1065	3	22	Cerealia-type	Cerealia-type	HERB
+EPDcoretop_E2321	1075	28	60	Plantago lanceolata-type	Plantago lanceolata-type	HERB
+EPDcoretop_E2321	2426	2	336	Cirsium-type	Asteraceae subf. Carduoideae	HERB
+EPDcoretop_E2321	2429	1	274	Ranunculus-type	Ranunculus-type	HERB
+EPDcoretop_E2321	2536	118	455	Erica arborea-type	Erica arborea-type	TRSH
+EPDcoretop_E2321	2801	1	30	Plantago coronopus-type	Plantago coronopus-type	HERB
+EPDcoretop_E2321	3645	18	3645	Calluna	Calluna vulgaris	DWAR
+EPDcoretop_E2321	3931	17	531	Erica australis-type	Erica ciliaris-type	DWAR
+EPDcoretop_E2321	3939	2	2600	Erica tetralix-type	Erica tetralix-type	DWAR
+EPDcoretop_E2321	3940	2	538	Erica umbellata-type	Erica umbellata	DWAR
+EPDcoretop_E2321	4039	3	52	Helianthemum-type	Helianthemum	HERB
+EPDcoretop_E2321	4315	2	168	Plantaginaceae undiff.	Plantaginaceae	HERB
+EPDcoretop_E2321	4323	1	458	Plantago major/P. media	Plantago major/P. media-type	HERB
+EPDcoretop_E2321	4520	22	94	Rumex-type	Rumex/Oxyria	HERB
+EPDcoretop_E2321	4684	4	279	Trilete spore(s)	Trilete spore(s)	VACR
+EPDcoretop_E2321	4896	5	27	Cistus-type	Cistus	TRSH
+EPDcoretop_E2321	93	3	93	Rubiaceae	Rubiaceae	HERB

@@ -1,14 +1,14 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Edwards_a27	Betula	Betula	TRSH	8	0.70422535
-Edwards_a27	Calluna vulgaris	Calluna vulgaris	DWAR	553	48.679577
-Edwards_a27	Corylus avellana-type	Corylus	TRSH	6	0.52816901
-Edwards_a27	Erica tetralix-type	Erica tetralix-type	DWAR	4	0.35211268
-Edwards_a27	Cyperaceae class 2	Cyperaceae	HERB	110	9.6830986
-Edwards_a27	Cyperaceae class 3	Cyperaceae	HERB	6	0.52816901
-Edwards_a27	Plantago lanceolata	Plantago lanceolata-type	HERB	9	0.79225352
-Edwards_a27	Poaceae class 2	Poaceae	HERB	9	0.79225352
-Edwards_a27	Poaceae class 3	Poaceae	HERB	85	7.4823944
-Edwards_a27	Potentilla-type	Potentilla-type	HERB	20	1.7605634
-Edwards_a27	Rubiaceae	Rubiaceae	HERB	6	0.52816901
-Edwards_a27	Pteridophyta spore	Monolete fern spores	VACR	160	14.084507
-Edwards_a27	Sphagnum	Sphagnum	BRYO	160	14.084507
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Edwards_a27	12	8	12	Betula	Betula	TRSH
+Edwards_a27	3646	553	3645	Calluna vulgaris	Calluna vulgaris	DWAR
+Edwards_a27	3870	110	33	Cyperaceae class 2	Cyperaceae	HERB
+Edwards_a27	3871	6	33	Cyperaceae class 3	Cyperaceae	HERB
+Edwards_a27	3939	4	2600	Erica tetralix-type	Erica tetralix-type	DWAR
+Edwards_a27	60	9	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+Edwards_a27	4345	9	80	Poaceae class 2	Poaceae	HERB
+Edwards_a27	4346	85	80	Poaceae class 3	Poaceae	HERB
+Edwards_a27	626	20	512	Potentilla-type	Potentilla-type	HERB
+Edwards_a27	144	160	144	Sphagnum	Sphagnum	BRYO
+Edwards_a27	3849	6	31	Corylus avellana-type	Corylus	TRSH
+Edwards_a27	4408	160	146	Pteridophyta spore	Monolete fern spores	VACR
+Edwards_a27	93	6	93	Rubiaceae	Rubiaceae	HERB

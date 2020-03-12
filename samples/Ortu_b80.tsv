@@ -1,41 +1,41 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-Ortu_b80	Abies	Abies	TRSH	20	4.3859649
-Ortu_b80	Acer	Acer campestre-type	TRSH	5	1.0964912
-Ortu_b80	Alnus viridis	Alnus viridis	TRSH	3	0.65789474
-Ortu_b80	Betula	Betula	TRSH	6	1.3157895
-Ortu_b80	Carpinus	Carpinus betulus	TRSH	2	0.43859649
-Ortu_b80	Castanea	Castanea sativa	TRSH	19	4.1666667
-Ortu_b80	Corylus	Corylus	TRSH	22	4.8245614
-Ortu_b80	Ericaceae	Ericales (tetrad)	DWAR	1	0.21929825
-Ortu_b80	Fagus	Fagus	TRSH	86	18.859649
-Ortu_b80	Fraxinus	Fraxinus	TRSH	10	2.1929825
-Ortu_b80	Juglans	Juglans	TRSH	3	0.65789474
-Ortu_b80	Juniperus	Juniperus communis-type	TRSH	1	0.21929825
-Ortu_b80	Picea	Picea	TRSH	56	12.280702
-Ortu_b80	Pinus	Pinus	TRSH	114	25
-Ortu_b80	Quercus robur-type	Quercus robur-type	TRSH	10	2.1929825
-Ortu_b80	Rosaceae	Rosaceae	TRSH	2	0.43859649
-Ortu_b80	Salix	Salix	TRSH	1	0.21929825
-Ortu_b80	Adonis	Adonis	HERB	1	0.21929825
-Ortu_b80	Androsace	Androsace	HERB	1	0.21929825
-Ortu_b80	Artemisia	Artemisia	HERB	1	0.21929825
-Ortu_b80	Asteroideae	Asteraceae subf. Asteroideae	HERB	4	0.87719298
-Ortu_b80	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	3	0.65789474
-Ortu_b80	Boraginaceae	Boraginaceae	HERB	3	0.65789474
-Ortu_b80	Brassicaceae	Brassicaceae	HERB	11	2.4122807
-Ortu_b80	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	7	1.5350877
-Ortu_b80	Helianthemum	Helianthemum	HERB	1	0.21929825
-Ortu_b80	Luzula	Juncaceae	HERB	2	0.43859649
-Ortu_b80	Lamiaceae	Lamiaceae	HERB	4	0.87719298
-Ortu_b80	Lotus	Lotus-type	HERB	2	0.43859649
-Ortu_b80	Plantago lanceolata	Plantago lanceolata-type	HERB	2	0.43859649
-Ortu_b80	Poaceae	Poaceae	HERB	44	9.6491228
-Ortu_b80	Ranunculaceae	Ranunculaceae	HERB	2	0.43859649
-Ortu_b80	Rumex	Rumex/Oxyria	HERB	1	0.21929825
-Ortu_b80	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	1	0.21929825
-Ortu_b80	Asplenium	Asplenium-type	VACR	1	0.21929825
-Ortu_b80	Monolete fern spores	Monolete fern spores	VACR	3	0.65789474
-Ortu_b80	Selaginella	Selaginella	VACR	1	0.21929825
-Ortu_b80	Cyperaceae	Cyperaceae	AQUA	3	0.65789474
-Ortu_b80	Fabaceae	Fabaceae	INUN	1	
-Ortu_b80	Indeterminable: unknown	Indeterminable: unknown	INUN	14	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+Ortu_b80	560	20	321	Abies	Abies	TRSH
+Ortu_b80	2	5	2	Acer	Acer campestre-type	TRSH
+Ortu_b80	561	3	129	Alnus viridis	Alnus viridis	TRSH
+Ortu_b80	2138	1	2138	Androsace	Androsace	HERB
+Ortu_b80	7	1	7	Artemisia	Artemisia	HERB
+Ortu_b80	1535	1	216	Asplenium	Asplenium-type	VACR
+Ortu_b80	761	4	160	Asteroideae	Asteraceae subf. Asteroideae	HERB
+Ortu_b80	12	6	12	Betula	Betula	TRSH
+Ortu_b80	162	3	162	Boraginaceae	Boraginaceae	HERB
+Ortu_b80	13	11	13	Brassicaceae	Brassicaceae	HERB
+Ortu_b80	441	19	19	Castanea	Castanea sativa	TRSH
+Ortu_b80	201	22	31	Corylus	Corylus	TRSH
+Ortu_b80	3868	3	3868	Cyperaceae	Cyperaceae	AQUA
+Ortu_b80	130	1	130	Ericaceae	Ericales (tetrad)	DWAR
+Ortu_b80	3958	1	3958	Fabaceae	Fabaceae	INUN
+Ortu_b80	190	10	190	Fraxinus	Fraxinus	TRSH
+Ortu_b80	52	1	52	Helianthemum	Helianthemum	HERB
+Ortu_b80	4078	14	177	Indeterminable: unknown	Indeterminable: unknown	INUN
+Ortu_b80	57	3	57	Juglans	Juglans	TRSH
+Ortu_b80	58	1	58	Juniperus	Juniperus communis-type	TRSH
+Ortu_b80	59	4	59	Lamiaceae	Lamiaceae	HERB
+Ortu_b80	1152	2	611	Lotus	Lotus-type	HERB
+Ortu_b80	4193	3	146	Monolete fern spores	Monolete fern spores	VACR
+Ortu_b80	126	56	126	Picea	Picea	TRSH
+Ortu_b80	152	10	86	Quercus robur-type	Quercus robur-type	TRSH
+Ortu_b80	135	2	135	Ranunculaceae	Ranunculaceae	HERB
+Ortu_b80	92	2	92	Rosaceae	Rosaceae	TRSH
+Ortu_b80	727	1	94	Rumex	Rumex/Oxyria	HERB
+Ortu_b80	99	1	99	Salix	Salix	TRSH
+Ortu_b80	173	1	173	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB
+Ortu_b80	668	1	668	Selaginella	Selaginella	VACR
+Ortu_b80	16	2	16	Carpinus	Carpinus betulus	TRSH
+Ortu_b80	24	7	24	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB
+Ortu_b80	60	2	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+Ortu_b80	75	114	75	Pinus	Pinus	TRSH
+Ortu_b80	80	44	80	Poaceae	Poaceae	HERB
+Ortu_b80	192	86	42	Fagus	Fagus	TRSH
+Ortu_b80	447	3	25	Cichorioideae	Asteraceae subf. Cichorioideae	HERB
+Ortu_b80	3505	1	3505	Adonis	Adonis	HERB
+Ortu_b80	4158	2	1750	Luzula	Juncaceae	HERB

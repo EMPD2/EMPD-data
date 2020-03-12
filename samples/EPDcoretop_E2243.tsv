@@ -1,43 +1,43 @@
-samplename	original_varname	acc_varname	groupid	count	percentage
-EPDcoretop_E2243	Alnus	Alnus	TRSH	50	6.5359477
-EPDcoretop_E2243	Betula	Betula	TRSH	15	1.9607843
-EPDcoretop_E2243	Calluna	Calluna vulgaris	DWAR	160	20.915033
-EPDcoretop_E2243	Corylus-type	Corylus/Myrica	TRSH	133	17.385621
-EPDcoretop_E2243	Erica-type	Erica	DWAR	4	0.52287582
-EPDcoretop_E2243	Fagus	Fagus	TRSH	1	0.13071895
-EPDcoretop_E2243	Fraxinus	Fraxinus	TRSH	7	0.91503268
-EPDcoretop_E2243	Picea	Picea	TRSH	1	0.13071895
-EPDcoretop_E2243	Pinus	Pinus	TRSH	27	3.5294118
-EPDcoretop_E2243	Quercus	Quercus	TRSH	26	3.3986928
-EPDcoretop_E2243	Salix	Salix	TRSH	3	0.39215686
-EPDcoretop_E2243	Sorbus	Sorbus-type	TRSH	2	0.26143791
-EPDcoretop_E2243	Ulmus	Ulmus/Zelkova	TRSH	12	1.5686275
-EPDcoretop_E2243	Apiaceae	Apiaceae	HERB	3	0.39215686
-EPDcoretop_E2243	Brassicaceae undiff.	Brassicaceae	HERB	2	0.26143791
-EPDcoretop_E2243	Centaurea-type	Centaurea	HERB	1	0.13071895
-EPDcoretop_E2243	Cyperaceae	Cyperaceae	HERB	18	2.3529412
-EPDcoretop_E2243	Filipendula	Filipendula	HERB	2	0.26143791
-EPDcoretop_E2243	Lactuca	Lactuca-type	HERB	3	0.39215686
-EPDcoretop_E2243	Narthecium	Narthecium	HERB	3	0.39215686
-EPDcoretop_E2243	Plantago undiff.	Plantago	HERB	13	1.6993464
-EPDcoretop_E2243	Plantago lanceolata	Plantago lanceolata-type	HERB	6	0.78431373
-EPDcoretop_E2243	Poaceae	Poaceae	HERB	160	20.915033
-EPDcoretop_E2243	Potentilla-type	Potentilla-type	HERB	8	1.0457516
-EPDcoretop_E2243	Ranunculaceae	Ranunculaceae	HERB	1	0.13071895
-EPDcoretop_E2243	Rumex acetosa	Rumex acetosa-type	HERB	2	0.26143791
-EPDcoretop_E2243	Rumex obtusifolius	Rumex crispus-type	HERB	1	0.13071895
-EPDcoretop_E2243	Rumex undiff.	Rumex/Oxyria	HERB	2	0.26143791
-EPDcoretop_E2243	Succisa	Succisa-type	HERB	1	0.13071895
-EPDcoretop_E2243	Leptosporangiatae	Monolete fern spores	VACR	15	1.9607843
-EPDcoretop_E2243	Polypodium	Polypodium	VACR	5	0.65359477
-EPDcoretop_E2243	Pteridium	Pteridium aquilinum	VACR	5	0.65359477
-EPDcoretop_E2243	Sphagnum	Sphagnum	BRYO	73	9.5424837
-EPDcoretop_E2243	Caltha-type	Caltha-type	HELO	2	0.26143791
-EPDcoretop_E2243	Typha angustifolia	Typha angustifolia	HELO	4	0.52287582
-EPDcoretop_E2243	Typha latifolia	Typha latifolia	HELO	2	0.26143791
-EPDcoretop_E2243	Indeterminable: broken	Indeterminable: broken	INUN	14	
-EPDcoretop_E2243	Indeterminable: crumpled	Indeterminable: crumpled	INUN	48	
-EPDcoretop_E2243	Indeterminable: degraded	Indeterminable: degraded	INUN	17	
-EPDcoretop_E2243	Indeterminable: hidden	Indeterminable: hidden	INUN	6	
-EPDcoretop_E2243	Lycopodium spike (counted)	Lycopodium spike (counted)	NOPO	47	
-EPDcoretop_E2243	Tilletia	Tilletia	FUNG	1	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
+EPDcoretop_E2243	4072	14	998	Indeterminable: broken	Indeterminable: broken	INUN
+EPDcoretop_E2243	718	17	718	Indeterminable: degraded	Indeterminable: degraded	INUN
+EPDcoretop_E2243	4075	48	1925	Indeterminable: crumpled	Indeterminable: crumpled	INUN
+EPDcoretop_E2243	731	1	731	Tilletia	Tilletia	FUNG
+EPDcoretop_E2243	4779	47	2629	Lycopodium spike (counted)	Lycopodium spike (counted)	NOPO
+EPDcoretop_E2243	5024	6	1923	Indeterminable: hidden	Indeterminable: hidden	INUN
+EPDcoretop_E2243	5	50	5	Alnus	Alnus	TRSH
+EPDcoretop_E2243	6	3	6	Apiaceae	Apiaceae	HERB
+EPDcoretop_E2243	12	15	12	Betula	Betula	TRSH
+EPDcoretop_E2243	33	18	33	Cyperaceae	Cyperaceae	HERB
+EPDcoretop_E2243	45	2	45	Filipendula	Filipendula	HERB
+EPDcoretop_E2243	60	6	60	Plantago lanceolata	Plantago lanceolata-type	HERB
+EPDcoretop_E2243	75	27	75	Pinus	Pinus	TRSH
+EPDcoretop_E2243	80	160	80	Poaceae	Poaceae	HERB
+EPDcoretop_E2243	94	2	94	Rumex undiff.	Rumex/Oxyria	HERB
+EPDcoretop_E2243	95	2	95	Rumex acetosa	Rumex acetosa-type	HERB
+EPDcoretop_E2243	99	3	99	Salix	Salix	TRSH
+EPDcoretop_E2243	107	2	107	Sorbus	Sorbus-type	TRSH
+EPDcoretop_E2243	126	1	126	Picea	Picea	TRSH
+EPDcoretop_E2243	135	1	135	Ranunculaceae	Ranunculaceae	HERB
+EPDcoretop_E2243	144	73	144	Sphagnum	Sphagnum	BRYO
+EPDcoretop_E2243	154	12	154	Ulmus	Ulmus/Zelkova	TRSH
+EPDcoretop_E2243	189	26	189	Quercus	Quercus	TRSH
+EPDcoretop_E2243	190	7	190	Fraxinus	Fraxinus	TRSH
+EPDcoretop_E2243	192	1	42	Fagus	Fagus	TRSH
+EPDcoretop_E2243	431	5	180	Pteridium	Pteridium aquilinum	VACR
+EPDcoretop_E2243	626	8	512	Potentilla-type	Potentilla-type	HERB
+EPDcoretop_E2243	666	5	214	Polypodium	Polypodium	VACR
+EPDcoretop_E2243	987	3	987	Narthecium	Narthecium	HERB
+EPDcoretop_E2243	1286	4	1286	Typha angustifolia	Typha angustifolia	HELO
+EPDcoretop_E2243	1287	2	417	Typha latifolia	Typha latifolia	AQUA
+EPDcoretop_E2243	1399	1	251	Rumex obtusifolius	Rumex crispus-type	HERB
+EPDcoretop_E2243	1422	2	13	Brassicaceae undiff.	Brassicaceae	HERB
+EPDcoretop_E2243	1423	2	232	Caltha-type	Caltha-type	HELO
+EPDcoretop_E2243	1854	13	270	Plantago undiff.	Plantago	HERB
+EPDcoretop_E2243	2335	3	2205	Lactuca	Lactuca-type	HERB
+EPDcoretop_E2243	2392	1	989	Succisa	Succisa-type	HERB
+EPDcoretop_E2243	3645	160	3645	Calluna	Calluna vulgaris	DWAR
+EPDcoretop_E2243	3683	1	267	Centaurea-type	Centaurea	HERB
+EPDcoretop_E2243	3851	133	3847	Corylus-type	Corylus/Myrica	TRSH
+EPDcoretop_E2243	4838	4	38	Erica-type	Erica	TRSH
+EPDcoretop_E2243	5051	15	146	Leptosporangiatae	Monolete fern spores	VACR
