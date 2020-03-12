@@ -1,40 +1,40 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid
-EMBSECBIO_a25	2	1	2	Acer	Acer campestre-type	TRSH
-EMBSECBIO_a25	6	3	6	Apiaceae	Apiaceae	HERB
-EMBSECBIO_a25	7	4	7	Artemisia	Artemisia	HERB
-EMBSECBIO_a25	13	2	13	Brassicaceae	Brassicaceae	HERB
-EMBSECBIO_a25	16	14	16	Carpinus	Carpinus betulus	TRSH
-EMBSECBIO_a25	32	2	32	Cyclamen	Cyclamen	HERB
-EMBSECBIO_a25	41	1	41	Fabaceae	Fabaceae	HERB
-EMBSECBIO_a25	90	1	90	Rhamnaceae	Rhamnaceae	TRSH
-EMBSECBIO_a25	123	5	123	Larix	Larix/Pseudotsuga	TRSH
-EMBSECBIO_a25	139	2	139	Polemonium	Polemonium	HERB
-EMBSECBIO_a25	141	16	141	Rubus	Rubus	TRSH
-EMBSECBIO_a25	162	2	162	Boraginaceae	Boraginaceae	HERB
-EMBSECBIO_a25	163	3	163	Convolvulaceae	Convolvulaceae	HERB
-EMBSECBIO_a25	201	1	31	Corylus	Corylus	TRSH
-EMBSECBIO_a25	427	15	85	Quercus evergreen	Quercus ilex-type	TRSH
-EMBSECBIO_a25	529	3	224	Veronica	Veronica-type	HERB
-EMBSECBIO_a25	560	1	321	Abies	Abies	TRSH
-EMBSECBIO_a25	652	1	652	Urtica	Urtica	HERB
-EMBSECBIO_a25	666	2	214	Polypodium	Polypodium	VACR
-EMBSECBIO_a25	667	62	214	Polypodium vulgare	Polypodium	VACR
-EMBSECBIO_a25	707	11	24	Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB
-EMBSECBIO_a25	724	2	270	Plantago	Plantago	HERB
-EMBSECBIO_a25	748	1	430	Viola	Viola	HERB
-EMBSECBIO_a25	761	12	160	Asteroideae	Asteraceae subf. Asteroideae	HERB
-EMBSECBIO_a25	954	8	87	Ranunculus acris	Ranunculus acris-type	HERB
-EMBSECBIO_a25	957	5	642	Saxifraga stellaris-type	Saxifraga stellaris-type	HERB
-EMBSECBIO_a25	1032	1	25	Asteraceae (Liguliflorae)	Asteraceae subf. Cichorioideae	HERB
-EMBSECBIO_a25	1082	3	1082	Rheum	Rheum	HERB
-EMBSECBIO_a25	1719	2	1506	Polygonum amphibium	Persicaria amphibia	AQUA
-EMBSECBIO_a25	1750	5	1750	Juncaceae	Juncaceae	HERB
-EMBSECBIO_a25	1836	1	1665	Matthiola	Matthiola	HERB
-EMBSECBIO_a25	2199	1	37	Ephedra distachya	Ephedra distachya-type	TRSH
-EMBSECBIO_a25	2200	1	2200	Ribes	Ribes	TRSH
-EMBSECBIO_a25	2801	5	30	Plantago coronopus-type	Plantago coronopus-type	HERB
-EMBSECBIO_a25	3005	1	1306	Parnassia	Parnassia palustris	HERB
-EMBSECBIO_a25	3276	7	3276	Limonium	Limonium	HERB
-EMBSECBIO_a25	4698	4	6	Turgenia-type	Apiaceae	HERB
-EMBSECBIO_a25	4725	3	4725	Vaccinium	Vaccinium	DWAR
-EMBSECBIO_a25	5171	48	124	Pinus (Haploxylon)	Pinus cembra-type	TRSH
+samplename	original_varname	acc_varname	groupid	count	percentage
+EMBSECBIO_a25	Abies	Abies	TRSH	1	0.38461538
+EMBSECBIO_a25	Acer	Acer campestre-type	TRSH	1	0.38461538
+EMBSECBIO_a25	Carpinus	Carpinus betulus	TRSH	14	5.3846154
+EMBSECBIO_a25	Corylus	Corylus	TRSH	1	0.38461538
+EMBSECBIO_a25	Ephedra distachya	Ephedra distachya-type	TRSH	1	0.38461538
+EMBSECBIO_a25	Larix	Larix/Pseudotsuga	TRSH	5	1.9230769
+EMBSECBIO_a25	Pinus (Haploxylon)	Pinus cembra-type	TRSH	48	18.461538
+EMBSECBIO_a25	Quercus evergreen	Quercus ilex-type	TRSH	15	5.7692308
+EMBSECBIO_a25	Rhamnaceae	Rhamnaceae	TRSH	1	0.38461538
+EMBSECBIO_a25	Ribes	Ribes	TRSH	1	0.38461538
+EMBSECBIO_a25	Rubus	Rubus	TRSH	16	6.1538462
+EMBSECBIO_a25	Vaccinium	Vaccinium	DWAR	3	1.1538462
+EMBSECBIO_a25	Apiaceae	Apiaceae	HERB	3	1.1538462
+EMBSECBIO_a25	Turgenia-type	Apiaceae	HERB	4	1.5384615
+EMBSECBIO_a25	Artemisia	Artemisia	HERB	4	1.5384615
+EMBSECBIO_a25	Asteroideae	Asteraceae subf. Asteroideae	HERB	12	4.6153846
+EMBSECBIO_a25	Asteraceae (Liguliflorae)	Asteraceae subf. Cichorioideae	HERB	1	0.38461538
+EMBSECBIO_a25	Boraginaceae	Boraginaceae	HERB	2	0.76923077
+EMBSECBIO_a25	Brassicaceae	Brassicaceae	HERB	2	0.76923077
+EMBSECBIO_a25	Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	11	4.2307692
+EMBSECBIO_a25	Convolvulaceae	Convolvulaceae	HERB	3	1.1538462
+EMBSECBIO_a25	Cyclamen	Cyclamen	HERB	2	0.76923077
+EMBSECBIO_a25	Fabaceae	Fabaceae	HERB	1	0.38461538
+EMBSECBIO_a25	Juncaceae	Juncaceae	HERB	5	1.9230769
+EMBSECBIO_a25	Limonium	Limonium	HERB	7	2.6923077
+EMBSECBIO_a25	Matthiola	Matthiola	HERB	1	0.38461538
+EMBSECBIO_a25	Parnassia	Parnassia palustris	HERB	1	0.38461538
+EMBSECBIO_a25	Plantago	Plantago	HERB	2	0.76923077
+EMBSECBIO_a25	Plantago coronopus-type	Plantago coronopus-type	HERB	5	1.9230769
+EMBSECBIO_a25	Polemonium	Polemonium	HERB	2	0.76923077
+EMBSECBIO_a25	Ranunculus acris	Ranunculus acris-type	HERB	8	3.0769231
+EMBSECBIO_a25	Rheum	Rheum	HERB	3	1.1538462
+EMBSECBIO_a25	Saxifraga stellaris-type	Saxifraga stellaris-type	HERB	5	1.9230769
+EMBSECBIO_a25	Urtica	Urtica	HERB	1	0.38461538
+EMBSECBIO_a25	Veronica	Veronica-type	HERB	3	1.1538462
+EMBSECBIO_a25	Viola	Viola	HERB	1	0.38461538
+EMBSECBIO_a25	Polypodium	Polypodium	VACR	2	0.76923077
+EMBSECBIO_a25	Polypodium vulgare	Polypodium	VACR	62	23.846154
+EMBSECBIO_a25	Polygonum amphibium	Persicaria amphibia	AQUA	2	0.76923077
