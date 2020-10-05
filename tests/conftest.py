@@ -4,6 +4,7 @@ import pathlib
 import os
 import os.path as osp
 import pytest
+import glob
 from functools import partial
 from itertools import starmap
 import textwrap
@@ -35,7 +36,11 @@ def _meta(fname=None):
         if col in ret.columns:
             ret[col] = ret[col].replace('', np.nan).astype(float)
     if 'ispercent' in ret.columns:
-        ret['ispercent'] = ret['ispercent'].replace('', False).astype(bool)
+        ret.rename(columns={'ispercent': 'ispercent_str'}, inplace=True)
+        ret['ispercent'] = False
+        ret.loc[ret.ispercent_str.str.startswith('t', na=False) |
+                ret.ispercent_str.str.startswith('T', na=False), 'ispercent'] = True
+        del ret['ispercent_str']
 
     if 'okexcept' not in ret.columns:
         ret['okexcept'] = ''
@@ -90,6 +95,16 @@ def base_meta_file():
 @pytest.fixture(scope='session')
 def base_meta():
     return _meta(_base_meta_file)
+
+
+@pytest.fixture(scope='session')
+def external_meta():
+    import pandas as pd
+    frames = []
+    for f in glob.glob(osp.join(osp.dirname(_base_meta_file), "external",
+                                "*.tsv")):
+        frames.append(_meta(f))
+    return pd.concat(frames)
 
 
 @pytest.fixture(scope='session')
